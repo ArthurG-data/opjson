@@ -5,7 +5,18 @@
 Reads data/cards (written by import_bandai.py), TCGCSV category 68 and the cached card images
 (tools/images.py fetch). A product is matched to a Bandai printing only when the card number agrees and
 the two images agree: the hash distance is at most ACCEPT and the next-best candidate is at least MARGIN
-further away. A product that cannot be matched that way goes to review/tcgplayer-68.json, never into a guess.
+further away. When TCGplayer has no image for a product (new sets often have none yet), its name decides, but only
+where it leaves no choice: an untagged product takes the base printing, and a tagged one the only variant printing
+left (evidence "name"). A product that cannot be matched either way goes to review/tcgplayer-68.json, never into
+a guess. Images cannot tell a foil-pattern reprint from the plain reprint of the same art, so when two candidates
+are too close to call, the product's tag decides between Bandai's kinds: "(Reprint)" is an _rN printing and a
+parallel, alternate-art or foil-pattern tag a _pN one; the match stands only if the image pick is the one
+printing of that kind within ACCEPT (evidence "image+name"). Before that, a tie is retried on the whole card,
+whose lower half carries the stamps the art band ignores (evidence "whole-card"). A promo whose art is that of
+two unclaimed Bandai printings the images cannot tell apart is settled by Bandai's "Card Set(s)" when one of the
+product's tags names exactly one of them (evidence "image+cardset"), and otherwise goes to review rather than
+becoming a third copy. A reprint that TCGplayer files in another set's group is matched by image to the Bandai printing of its
+number wherever Bandai files it (evidence "image-other-set").
 
 Pre-release, release-event and anniversary groups hold stamped copies of a set's printings, and most of
 TCGplayer's promos are not on Bandai's card list. Those products become printings of their own, with an id
@@ -62,7 +73,7 @@ class Match:
     product: tcgcsv.Product
     printing_id: str | None
     distance: int | None
-    evidence: str  # "image", "image-only-candidate", or why it is unmatched
+    evidence: str  # "image", "image-only-candidate", "image+name", "name", "image-other-set", or why unmatched
 
 
 def normalise_set(abbreviation: str) -> str:
@@ -107,9 +118,50 @@ def classify_tags(tags: list[str], rules: list[dict]) -> tuple[list[str], list[t
     return sorted(treatments), sorted(promos)
 
 
+_KIND = re.compile(r"_(?P<kind>[pr])\d+$")
+
+
+def printing_kind(printing_id: str) -> str | None:
+    """'p' for a parallel or other variant (OP01-120_p2), 'r' for a reprint (OP01-120_r1), None for a base."""
+    m = _KIND.search(printing_id)
+    return m.group("kind") if m else None
+
+
+def product_kind(product: tcgcsv.Product, rules: list[dict]) -> str | None:
+    """The Bandai printing kind a product's tags name: 'r' for a reprint, 'p' for a variant, None otherwise."""
+    treatments, promos = classify_tags(product.base_name_and_tags()[1], rules)
+    if "reprint" in treatments:
+        return "r"
+    if set(treatments) & {"parallel", "alternate_art", "manga", "sp"} or any(c == "foil-pattern" for _, c in promos):
+        return "p"
+    return None
+
+
+def _key(text: str) -> str:
+    return re.sub(r"[^a-z0-9]+", "", text.lower())
+
+
+def card_set_pick(product: tcgcsv.Product, near: list[str], card_set_of) -> str | None:
+    """The one printing in near whose Bandai card set a tag of the product names, else None."""
+    tags = [_key(t) for t in product.base_name_and_tags()[1] if len(_key(t)) >= 8]
+    hits = [c for c in near if (cs := _key(card_set_of(c) or "")) and any(t == cs or t in cs or cs in t for t in tags)]
+    return hits[0] if len(hits) == 1 else None
+
+
+def clear_winner(scored: list[tuple[int, str]]) -> str | None:
+    """The best candidate of [(distance, printing)] when it is within ACCEPT and MARGIN clear of the next."""
+    scored = sorted(scored)
+    if scored and scored[0][0] <= ACCEPT and (len(scored) == 1 or scored[1][0] - scored[0][0] >= MARGIN):
+        return scored[0][1]
+    return None
+
+
 def assign(products: list[tcgcsv.Product], candidates: list[str],
-           dist: dict[tuple[int, str], int | None]) -> list[Match]:
-    """Match products to candidate printings by image. Every product appears once in the result."""
+           dist: dict[tuple[int, str], int | None], kind_of=lambda p: None,
+           whole_dist=lambda p, c: None) -> list[Match]:
+    """Match products to candidate printings by image. A tie on the art band is retried on the whole card
+    (whole_dist), then broken by the product's tag between kinds (kind_of gives 'p', 'r' or None). Every
+    product appears once in the result."""
     usable = list(candidates)
     if not usable:
         return [Match(p, None, None, "no Bandai printing of this number in the set") for p in products]
@@ -155,9 +207,39 @@ def assign(products: list[tcgcsv.Product], candidates: list[str],
         if d > ACCEPT:
             out.append(Match(p, None, d, f"best candidate {cand} is {d} bits away (accept <= {ACCEPT})"))
         elif runner_up is not None and runner_up - d < MARGIN:
-            out.append(Match(p, None, d, f"{cand} at {d} bits is not clear of the next candidate at {runner_up}"))
+            near = [c for c in usable if (dist.get((p.product_id, c)) or 10_000) <= ACCEPT]
+            whole = [(w, c) for c in near if (w := whole_dist(p, c)) is not None]
+            if len(whole) == len(near) and clear_winner(whole) == cand:
+                out.append(Match(p, cand, d, "whole-card"))
+                continue
+            kind = kind_of(p)
+            same_kind = [c for c in usable if printing_kind(c) == kind
+                         and (dist.get((p.product_id, c)) or 10_000) <= ACCEPT]
+            if kind and same_kind == [cand]:
+                out.append(Match(p, cand, d, "image+name"))
+            else:
+                out.append(Match(p, None, d, f"{cand} at {d} bits is not clear of the next candidate at {runner_up}"))
         else:
             out.append(Match(p, cand, d, "image" if others else "image-only-candidate"))
+    return out
+
+
+def assign_by_name(products: list[tcgcsv.Product], candidates: list[str], number: str,
+                   rules: list[dict]) -> list[Match]:
+    """Match products that have no image, by name, where it leaves no choice. candidates are the unclaimed
+    Bandai printings of the number in the set; products with no unique match are left out of the result."""
+    def is_variant(p: tcgcsv.Product) -> bool:
+        treatments, promos = classify_tags(p.base_name_and_tags()[1], rules)
+        return bool(treatments or promos)
+
+    out = []
+    plain = [p for p in products if not is_variant(p)]
+    if len(plain) == 1 and number in candidates:
+        out.append(Match(plain[0], number, None, "name"))
+    variants = [p for p in products if is_variant(p)]
+    others = [c for c in candidates if c != number]
+    if len(variants) == 1 and len(others) == 1:
+        out.append(Match(variants[0], others[0], None, "name"))
     return out
 
 
@@ -184,6 +266,12 @@ def main() -> None:
 
     def tcg_hash(p: tcgcsv.Product) -> int | None:
         return hashes.get("tcgplayer", str(p.product_id), images.TCGPLAYER_IMAGE.format(product_id=p.product_id))
+
+    def whole_distance(p: tcgcsv.Product, c: str) -> int | None:
+        th = hashes.get("tcgplayer", str(p.product_id), images.TCGPLAYER_IMAGE.format(product_id=p.product_id),
+                        whole=True)
+        bh = hashes.get("bandai", c, printings[c][1]["image"], whole=True)
+        return None if th is None or bh is None else images.distance(th, bh)
 
     def distances(products, candidates):
         out = {}
@@ -224,7 +312,13 @@ def main() -> None:
             clusters[(role["set"], p.number)].append(p)
     for (set_id, number), products in sorted(clusters.items()):
         candidates = sorted(by_set_number.get((set_id, number), []))
-        for m in assign(products, candidates, distances(products, candidates)):
+        found = assign(products, candidates, distances(products, candidates),
+                       kind_of=lambda prod: product_kind(prod, rules), whole_dist=whole_distance)
+        imageless = [m.product for m in found if not m.printing_id and tcg_hash(m.product) is None]
+        free = [c for c in candidates if c not in {m.printing_id for m in found}]
+        by_name = {m.product.product_id: m for m in assign_by_name(imageless, free, number, rules)}
+        for m in found:
+            m = by_name.get(m.product.product_id, m)
             matches.append(({"set": set_id, "role": "set"}, m))
             if m.printing_id:
                 claimed[m.printing_id] = m.product.product_id
@@ -247,13 +341,26 @@ def main() -> None:
             pool = sorted(pid for pid, (n, _) in printings.items() if n == number and pid not in claimed)
         dist = distances([p], pool)
         scored = sorted((d, c) for (_, c), d in dist.items() if d is not None)
-        art = scored[0][1] if scored and scored[0][0] <= ACCEPT and (
-            len(scored) == 1 or scored[1][0] - scored[0][0] >= MARGIN) else None
-        if role["role"] == "promo" and art and art not in claimed:
+        art = clear_winner(scored)
+        near = [c for d, c in scored if d <= ACCEPT]
+        evidence = None  # set when a tie on the art band was settled another way
+        if not art and len(near) > 1 and role["role"] != "stamp":
+            whole = [(w, c) for c in near if (w := whole_distance(p, c)) is not None]
+            art = clear_winner(whole) if len(whole) == len(near) else None
+            evidence = "whole-card"
+            if not art:
+                art, evidence = card_set_pick(p, near, lambda c: printings[c][1].get("cardSet")), "image+cardset"
+            if not art:
+                review.append({"productId": p.product_id, "name": p.name, "set": role["set"], "number": p.number,
+                               "reason": "its art is that of several Bandai printings the images cannot tell apart",
+                               "closest": [{"printing": c, "distance": d} for d, c in scored[:3]]})
+                continue
+        if role["role"] in ("promo", "set") and art and art not in claimed:
             claimed[art] = p.product_id
-            matches.append((role, Match(p, art, scored[0][0], "image")))
+            how = evidence or ("image" if role["role"] == "promo" else "image-other-set")
+            matches.append((role, Match(p, art, scored[0][0], how)))
             continue
-        if role["role"] == "set":
+        if role["role"] == "set" and p.number:
             review.append({"productId": p.product_id, "name": p.name, "set": role["set"], "number": p.number,
                            "reason": "no Bandai printing of this number in its set matches the image",
                            "closest": [{"printing": c, "distance": d} for d, c in scored[:3]]})

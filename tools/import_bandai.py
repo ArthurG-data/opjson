@@ -88,6 +88,7 @@ def build(series: list[bandai.Series], printings: list[bandai.Printing],
                 "rarity": p.rarity,
                 "block": p.facts["block"],
                 "image": p.image,
+                "cardSet": p.card_set,
                 "source": "bandai",
             }.items() if v is not None}
             for p in sorted(group, key=_printing_order)]}

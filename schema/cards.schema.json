@@ -41,6 +41,7 @@
                "description": "Bandai's printing id (OP01-006_p1), or for a printing only TCGplayer sells, the card number and its TCGplayer product id (OP02-013~tcg485123)."},
         "set": {"type": "string"},
         "rarity": {"enum": ["L", "C", "UC", "R", "SR", "SEC", "SP CARD", "TR", "P", "SP", "DON!!"]},
+        "cardSet": {"type": "string", "description": "What Bandai's card list gives as the printing's Card Set(s), e.g. \"CS 25-26 Top Player Pack\"."},
         "block": {"type": "string", "pattern": "^([0-9]+|X)$", "description": "The block icon printed on the card; X on cards exempt from block rotation."},
         "image": {"type": "string", "format": "uri"},
         "source": {"enum": ["bandai", "tcgplayer"]},
@@ -75,7 +76,7 @@
           "description": "How the TCGplayer product was tied to this printing: by image ('image', 'image-only-candidate') or by minting a new printing ('minted'). distance is the image-hash distance in bits.",
           "properties": {
             "name": {"type": "string"},
-            "match": {"enum": ["image", "image-only-candidate", "minted", "reviewed"]},
+            "match": {"enum": ["image", "image-only-candidate", "image+name", "image+cardset", "whole-card", "image-other-set", "name", "minted", "reviewed"]},
             "distance": {"type": ["integer", "null"]}
           }
         }

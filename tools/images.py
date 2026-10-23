@@ -61,8 +61,10 @@ def fetch(source: str, key: str, url: str) -> Path | None:
     return path
 
 
-def dhash(path: Path) -> int:
-    """A difference hash of the image's top band, as an int of HASH_SIZE * HASH_SIZE bits."""
+def dhash(path: Path, band: float = TOP_BAND) -> int:
+    """A difference hash of the image's top band (the whole card for band=1), as an int of HASH_SIZE * HASH_SIZE
+    bits. The top band holds the art and ignores stamps lower down; the whole card tells apart copies whose
+    art agrees but whose lower half differs."""
     from PIL import Image
 
     with Image.open(io.BytesIO(path.read_bytes())) as im:
@@ -71,8 +73,8 @@ def dhash(path: Path) -> int:
         # TCGplayer pads some scans to a square canvas; crop to the card's 63:88 portrait shape first.
         card_w = min(w, round(h * 63 / 88))
         left = (w - card_w) // 2
-        band = im.crop((left, 0, left + card_w, round(h * TOP_BAND)))
-        small = band.resize((HASH_SIZE + 1, HASH_SIZE), Image.LANCZOS)
+        area = im.crop((left, 0, left + card_w, round(h * band)))
+        small = area.resize((HASH_SIZE + 1, HASH_SIZE), Image.LANCZOS)
         px = list(small.getdata())
     bits = 0
     for row in range(HASH_SIZE):
@@ -93,13 +95,14 @@ class HashCache:
         self.path = path
         self.data: dict[str, int] = json.loads(path.read_text()) if path.exists() else {}
 
-    def get(self, source: str, key: str, url: str) -> int | None:
-        k = f"{source}/{key}"
+    def get(self, source: str, key: str, url: str, whole: bool = False) -> int | None:
+        """The top-band hash, or the whole-card hash when whole is set."""
+        k = f"{source}/{key}" + ("#whole" if whole else "")
         if k not in self.data:
             img = fetch(source, key, url)
             if img is None:
                 return None
-            self.data[k] = dhash(img)
+            self.data[k] = dhash(img, 1.0 if whole else TOP_BAND)
         return self.data[k]
 
     def save(self) -> None:

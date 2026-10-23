@@ -77,3 +77,56 @@ def test_only_card_numbers_reach_file_names():
     assert it.CARD_NUMBER.match("OP01-120") and it.CARD_NUMBER.match("P-001")
     for bad in ("../../etc-001", "OP01-120/x", "OP01-12", ""):
         assert not it.CARD_NUMBER.match(bad)
+
+
+def test_assign_by_name_matches_only_where_the_name_leaves_no_choice():
+    rules = json.loads((it.TAGS).read_text(encoding="utf-8"))["rules"]
+    base, alt = product(1, "Jewelry Bonney", "EB05-001"), product(2, "Jewelry Bonney (Alternate Art)", "EB05-001")
+    got = {m.product.product_id: (m.printing_id, m.evidence)
+           for m in it.assign_by_name([base, alt], ["EB05-001", "EB05-001_p1"], "EB05-001", rules)}
+    assert got == {1: ("EB05-001", "name"), 2: ("EB05-001_p1", "name")}
+    # Two variant products and two variant printings: no guess.
+    manga = product(3, "Shirahoshi (Manga)", "EB05-014")
+    alt2 = product(4, "Shirahoshi (Alternate Art)", "EB05-014")
+    got = it.assign_by_name([manga, alt2], ["EB05-014_p1", "EB05-014_p2"], "EB05-014", rules)
+    assert got == []
+    # A number in brackets only tells two cards apart; it is not a variant.
+    robin = product(5, "Nico Robin (010)", "EB05-010")
+    assert [m.printing_id for m in it.assign_by_name([robin], ["EB05-010"], "EB05-010", rules)] == ["EB05-010"]
+
+
+def test_a_tag_breaks_an_image_tie_between_a_reprint_and_a_foil_pattern_copy():
+    jrf, reprint = product(1, "Arlong (Jolly Roger Foil)", "OP06-023"), product(2, "Arlong (Reprint)", "OP06-023")
+    dist = {(1, "OP06-023_p2"): 3, (1, "OP06-023_r1"): 8, (2, "OP06-023_p2"): 7, (2, "OP06-023_r1"): 4}
+    kind = lambda p: it.product_kind(p, RULES)
+    got = {m.product.product_id: (m.printing_id, m.evidence)
+           for m in it.assign([jrf, reprint], ["OP06-023_p2", "OP06-023_r1"], dist, kind_of=kind)}
+    assert got == {1: ("OP06-023_p2", "image+name"), 2: ("OP06-023_r1", "image+name")}
+    # Without tags the tie stays unmatched.
+    assert all(m.printing_id is None for m in it.assign([jrf, reprint], ["OP06-023_p2", "OP06-023_r1"], dist))
+
+
+def test_a_tag_does_not_pick_between_two_printings_of_its_kind():
+    drake = product(1, "X.Drake (Reprint)", "OP10-114")
+    dist = {(1, "OP10-114_r1"): 5, (1, "OP10-114_r2"): 6}
+    m, = it.assign([drake], ["OP10-114_r1", "OP10-114_r2"], dist, kind_of=lambda p: it.product_kind(p, RULES))
+    assert m.printing_id is None
+
+
+def test_a_tie_on_the_art_band_is_settled_on_the_whole_card():
+    jack = product(1, "Jack (Premium Card Collection)", "ST04-008")
+    dist = {(1, "ST04-008_p2"): 2, (1, "ST04-008_p1"): 20}
+    whole = {"ST04-008_p2": 3, "ST04-008_p1": 34}
+    m, = it.assign([jack], ["ST04-008_p1", "ST04-008_p2"], dist, whole_dist=lambda p, c: whole[c])
+    assert (m.printing_id, m.evidence) == ("ST04-008_p2", "whole-card")
+    same = {"ST04-008_p2": 8, "ST04-008_p1": 10}
+    m, = it.assign([jack], ["ST04-008_p1", "ST04-008_p2"], dist, whole_dist=lambda p, c: same[c])
+    assert m.printing_id is None
+
+
+def test_a_tag_naming_one_bandai_card_set_settles_identical_art():
+    chopper = product(1, "Tony Tony.Chopper (CS 25-26 Top Player Pack)", "OP07-066")
+    sets = {"OP07-066_p1": "CS 25-26 Top Player Pack", "OP07-066_p2": "CS 25-26 Finalist Card Set 1"}
+    assert it.card_set_pick(chopper, list(sets), sets.get) == "OP07-066_p1"
+    plain = product(2, "Tony Tony.Chopper (Parallel)", "OP07-066")
+    assert it.card_set_pick(plain, list(sets), sets.get) is None

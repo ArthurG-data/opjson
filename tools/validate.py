@@ -42,8 +42,8 @@ def main() -> None:
     ap = argparse.ArgumentParser()
     ap.add_argument("--online", action="store_true")
     args = ap.parse_args()
-    sets, files = opjson.load_sets(), opjson.load_cards()
-    errors = opjson.validate(sets, files)
+    sets, files, sealed = opjson.load_sets(), opjson.load_cards(), opjson.load_sealed()
+    errors = opjson.validate(sets, files, sealed)
     if not errors and args.online:
         errors = online_errors(sets, files)
     for e in errors:

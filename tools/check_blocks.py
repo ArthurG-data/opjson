@@ -9,6 +9,12 @@ are block 1, and so on). Every icon is a disc with a digit on it, so the block i
 not share (each reference minus their mean); the plain correlation only checks that the crop looks like an icon. A printing whose icon reads clearly as another block takes that block; an icon that does
 not read clearly keeps the list's block and goes to review/blocks.json with the corrections. Run after images.py
 fetch and before link_reprint_art; printings without a downloaded image are skipped and reported.
+
+It then gives each Bandai set its block: the block of its own base printings (cards numbered in the set, not
+reprints or parallels), X aside, when SET_SHARE of them agree. Blocks follow Bandai's release year, not a count of
+boosters (block 4 is OP-13 to OP-15, block 5 starts at OP-16), so no booster number rule is applied. Promo and
+other-product sets span blocks and get none; a
+stamp set added later by import_tcgplayer has a parent and takes the parent's block where it is loaded.
 """
 from __future__ import annotations
 
@@ -33,6 +39,7 @@ SHIFT = 3  # the icon moves a pixel or two between frames
 REFERENCE = {"1": ("OP01", "OP02", "OP03", "OP04"), "2": ("OP06", "OP07", "OP08"),
              "3": ("OP09", "OP10", "OP11", "OP12"), "4": ("OP13",), "5": ("OP16", "OP17"), "X": ("OP16", "OP17")}
 MIN_SCORE = 0.6  # correlation with the nearest reference icon: below it the crop is not an icon
+SET_SHARE = 0.9  # of a set's own base printings that must share its block
 MIN_MARGIN = 0.15  # lead of the best block over the runner-up; reference cards all lead by 0.2 or more
 
 
@@ -92,6 +99,30 @@ def build_references(printings: list[dict]) -> dict[str, np.ndarray]:
     return {b: s / np.linalg.norm(s) for b, s in sums.items()}
 
 
+def set_blocks(sets: list[dict], printings: list[dict]) -> list[dict]:
+    """Write each Bandai set's block onto it, or drop it; return the sets left without one, with why."""
+    own = collections.defaultdict(collections.Counter)
+    for p in printings:
+        if p["source"] == "bandai" and p["id"] == p["card"] and p["card"].split("-")[0] == p["set"].split("-")[0] \
+                and p.get("block") not in (None, "X"):
+            own[p["set"]][p["block"]] += 1
+    left = []
+    for s in sets:
+        s.pop("block", None)
+        if s.get("source") == "tcgplayer" or s["type"] in ("promo", "box_set"):
+            continue
+        counts = own.get(s["id"])
+        if not counts:
+            left.append({"set": s["id"], "reason": "no base printings with a block"})
+            continue
+        block, n = counts.most_common(1)[0]
+        if n < SET_SHARE * sum(counts.values()):
+            left.append({"set": s["id"], "reason": "base printings disagree", "blocks": dict(counts)})
+        else:
+            s["block"] = block
+    return left
+
+
 def main() -> None:
     files = opjson.load_cards()
     flat = opjson.flatten(opjson.load_sets(), files)
@@ -119,15 +150,19 @@ def main() -> None:
                     corrected.append({"printing": p["id"], "listed": p.get("block"), "printed": block,
                                       "score": round(score, 3), "evidence": p["image"]})
                     p["block"] = block
+    sets = opjson.load_sets()
+    no_block = set_blocks(sets, list(opjson.flatten(sets, files)["printings"].values()))
+    opjson.SETS.write_text(json.dumps(sets, indent=2, ensure_ascii=False) + "\n", encoding="utf-8")
     for stem, body in files.items():
         (opjson.CARDS / f"{stem}.json").write_text(json.dumps(body, indent=2, ensure_ascii=False) + "\n",
                                                    encoding="utf-8")
     REVIEW.parent.mkdir(parents=True, exist_ok=True)
-    REVIEW.write_text(json.dumps({"corrected": corrected, "unclear": unclear, "noImage": no_image}, indent=2,
+    REVIEW.write_text(json.dumps({"corrected": corrected, "unclear": unclear, "noImage": no_image, "setsWithoutBlock": no_block}, indent=2,
                                  ensure_ascii=False) + "\n", encoding="utf-8")
     by_set = collections.Counter(re.sub(r"-\d+.*$", "", c["printing"]) for c in corrected)
     print(f"{len(reading)} icons read: {len(corrected)} blocks corrected {dict(by_set.most_common(12))}; "
-          f"{len(unclear)} unclear; {len(no_image)} printings without a downloaded image")
+          f"{len(unclear)} unclear; {len(no_image)} printings without a downloaded image; "
+          f"{sum('block' in s for s in sets)} sets given a block, {len(no_block)} left without")
 
 
 if __name__ == "__main__":

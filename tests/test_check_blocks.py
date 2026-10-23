@@ -40,3 +40,24 @@ def test_a_blank_corner_does_not_look_like_an_icon(tmp_path):
     Image.fromarray((np.random.default_rng(0).random((838, 600)) * 255).astype("uint8")).save(path)
     _, looks, _ = check_blocks.read(check_blocks.icon_patches(path), refs)
     assert looks < check_blocks.MIN_SCORE
+
+
+def printing(pid, set_id, block, source="bandai"):
+    return {"id": pid, "card": pid.split("_")[0], "set": set_id, "block": block, "source": source}
+
+
+def test_a_set_takes_the_block_its_own_cards_print():
+    sets = [{"id": "OP05", "type": "booster"}, {"id": "ST10", "type": "starter_deck"},
+            {"id": "P", "type": "promo"}, {"id": "OP05-PRE", "type": "promo", "source": "tcgplayer", "parent": "OP05"}]
+    printings = ([printing(f"OP05-{i:03}", "OP05", "2") for i in range(1, 20)] + [printing("OP05-020", "OP05", "X")]
+                 + [printing("OP01-001", "OP05", "1")]  # a reprint filed under OP05 does not count
+                 + [printing(f"ST10-{i:03}", "ST10", "2") for i in range(1, 5)] + [printing("P-001", "P", "1")])
+    assert check_blocks.set_blocks(sets, printings) == []
+    assert [s.get("block") for s in sets] == ["2", "2", None, None]
+
+
+def test_a_set_whose_cards_disagree_gets_no_block():
+    sets = [{"id": "ST16", "type": "starter_deck"}]
+    printings = [printing(f"ST16-{i:03}", "ST16", "2" if i < 7 else "3") for i in range(1, 11)]
+    left = check_blocks.set_blocks(sets, printings)
+    assert "block" not in sets[0] and left[0]["reason"] == "base printings disagree"

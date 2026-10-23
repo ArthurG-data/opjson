@@ -13,6 +13,7 @@
       "type": {"enum": ["booster", "extra_booster", "premium_booster", "starter_deck", "ultra_deck", "promo", "box_set"],
                "description": "The set's product line. AutoMana maps it onto MTG's set types: booster=expansion, premium_booster=masters, starter_deck and ultra_deck=starter, box_set=box."},
       "bandaiSeriesId": {"type": "string", "pattern": "^56\\d{4}$"},
+      "block": {"type": "string", "pattern": "^[1-9][0-9]*$", "description": "The block printed on the set's own cards, which Bandai assigns by release year. Absent on promo and other-product sets, which span blocks, and on stamp sets, which take their parent's."},
       "parent": {"type": "string", "description": "The set this one hangs off, as MTG's parent_set: a pre-release, release-event or anniversary stamp set names the booster whose printings it stamps."},
       "source": {"const": "tcgplayer", "description": "Present when the set exists only on TCGplayer."},
       "tcgplayerGroupIds": {"type": "array", "items": {"type": "integer"}, "uniqueItems": true},

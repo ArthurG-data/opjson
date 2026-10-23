@@ -25,8 +25,9 @@ ROOT = Path(__file__).resolve().parents[1]
 REVIEW = ROOT / "review" / "key_art.json"
 _MV_NAMES = ("mv", "mv_01")
 BANNER = (990, 556)
-# The banner's artwork: everything left of the pack shot and above the release-date band.
-BANNER_CROP = [0, 0, 772, 467]
+# The banner's artwork: everything left of the pack shot and above the release-date band, inside the dark
+# border most banners have along the top (up to 30 px) and some along the left (10 px).
+BANNER_CROP = [10, 30, 762, 437]
 
 
 def find_key_art(page: str, page_url: str) -> str | None:

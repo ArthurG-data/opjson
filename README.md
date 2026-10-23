@@ -9,7 +9,8 @@ printings by card number and by comparing the two sites' card images; nothing is
 - `sets/sets.json`: every set. Bandai's series (`OP01`, `ST01`, `EB01`, `PRB01`, `OP14-EB04`, `P` for promos,
   `OTHER` for cards from other products), plus TCGplayer groups that are not one Bandai series: pre-release,
   release-event and anniversary stamp sets (`OP02-PRE`, `OP10-RE`, `OP05-ANN`) and promo lines (`OP-DD`,
-  `OP-RP`, `LT01`, `SD01`, `OP-CS`). Each set has a `type` and, for a stamp set, a `parent`:
+  `OP-RP`, `LT01`, `SD01`, `OP-CS`). Each set has a `type` and, for a stamp set, a `parent`. A release carries
+  a `logo` when Bandai's product page shows one (newer sets only; older pages have a banner, not a logo):
 
   | type | AutoMana / MTG set type |
   |---|---|
@@ -46,6 +47,7 @@ uv run python tools/import_bandai.py                # sets and Bandai printings
 uv run --group dev python tools/images.py fetch     # cache both sites' card images
 uv run --group dev python tools/import_tcgplayer.py # TCGplayer ids, stamped and promo printings
 uv run --group dev python tools/link_reprint_art.py # reprints that reuse an earlier printing's art (artOf)
+uv run python tools/import_logos.py                 # set logos, where Bandai's product page shows one
 uv run python tools/import_sealed.py                # sealed products
 uv run python tools/import_limitless.py             # illustrators, and a check of the TCGplayer ids
 uv run python tools/validate.py [--online]

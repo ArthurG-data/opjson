@@ -27,7 +27,10 @@
             "language": {"enum": ["en"]},
             "name": {"type": "string", "minLength": 1},
             "releaseDate": {"type": "string", "format": "date"},
-            "source": {"type": "string", "format": "uri"}
+            "source": {"type": "string", "format": "uri"},
+            "logo": {"type": "object", "additionalProperties": false, "required": ["url", "source"],
+                     "description": "The set's logo, hotlinked from the Bandai product page that shows it (source). Absent when Bandai shows none.",
+                     "properties": {"url": {"type": "string", "format": "uri"}, "source": {"type": "string", "format": "uri"}}}
           }
         }
       }

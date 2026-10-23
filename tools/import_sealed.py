@@ -94,14 +94,16 @@ def main() -> None:
                 product["contents"]["cards"] = [{"printing": pid} for pid in sorted(printings_in_set[role["set"]])]
                 product["contentsStatus"] = "partial"
             by_set[role["set"]].append(product)
+    for products in by_set.values():
+        products.sort(key=lambda x: x["id"])
+    # Ids are unique across every set, and settled before containers name the product they hold.
+    _dedupe_ids([p for _, products in sorted(by_set.items()) for p in products])
     _link_containers(by_set)
     SEALED.mkdir(parents=True, exist_ok=True)
     for old in SEALED.glob("*.json"):
         old.unlink()
     total = 0
     for set_id, products in sorted(by_set.items()):
-        products.sort(key=lambda x: x["id"])
-        _dedupe_ids(products)
         total += len(products)
         (SEALED / f"{set_id}.json").write_text(json.dumps({"products": products}, indent=2, ensure_ascii=False)
                                                + "\n", encoding="utf-8")

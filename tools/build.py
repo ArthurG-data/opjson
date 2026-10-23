@@ -36,7 +36,7 @@ def main() -> None:
     if problems:
         sys.exit("refusing to build:\n" + "\n".join(problems))
     (DIST / "Legality.json").write_text(json.dumps({"meta": meta, "data": {
-        "formats": formats["formats"], "blockDesignations": designations["designations"], "bans": bans["events"]}},
+        "formats": formats["formats"], "blockDesignations": [{"source": designations["source"], **d} for d in designations["designations"]], "bans": bans["events"]}},
         ensure_ascii=False, sort_keys=True), encoding="utf-8")
     print(f"dist/ written: {len(flat['sets'])} sets, {len(flat['cards'])} cards, {len(flat['printings'])} printings, "
           f"{len(flat['products'])} sealed products")

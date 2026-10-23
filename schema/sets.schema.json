@@ -31,7 +31,12 @@
             "source": {"type": "string", "format": "uri"},
             "logo": {"type": "object", "additionalProperties": false, "required": ["url", "source"],
                      "description": "The set's logo, hotlinked from the Bandai product page that shows it (source). Absent when Bandai shows none.",
-                     "properties": {"url": {"type": "string", "format": "uri"}, "source": {"type": "string", "format": "uri"}}}
+                     "properties": {"url": {"type": "string", "format": "uri"}, "source": {"type": "string", "format": "uri"}}},
+            "keyArt": {"type": "object", "additionalProperties": false, "required": ["url", "source", "size"],
+                       "description": "The main visual on the set's Bandai product page (source): its pixel size, and the crop [x, y, width, height] that keeps the artwork when the image is a banner with a date band and a pack shot. Absent when the page shows none.",
+                       "properties": {"url": {"type": "string", "format": "uri"}, "source": {"type": "string", "format": "uri"},
+                                      "size": {"type": "array", "items": {"type": "integer", "minimum": 1}, "minItems": 2, "maxItems": 2},
+                                      "crop": {"type": "array", "items": {"type": "integer", "minimum": 0}, "minItems": 4, "maxItems": 4}}}
           }
         }
       }

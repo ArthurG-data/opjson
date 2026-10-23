@@ -45,6 +45,7 @@ uv sync --group dev
 uv run python tools/crawl_bandai.py                 # cache the official card list (one page every 2 s)
 uv run python tools/import_bandai.py                # sets and Bandai printings
 uv run --group dev python tools/images.py fetch     # cache both sites' card images
+uv run --group dev python tools/check_blocks.py      # the block icon printed on each card, where the list differs
 uv run --group dev python tools/import_tcgplayer.py # TCGplayer ids, stamped and promo printings
 uv run --group dev python tools/link_reprint_art.py # reprints that reuse an earlier printing's art (artOf)
 uv run python tools/import_logos.py                 # set logos, where Bandai's product page shows one

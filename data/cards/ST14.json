@@ -1,0 +1,537 @@
+{
+  "cards": [
+    {
+      "number": "ST14-001",
+      "name": "Monkey.D.Luffy",
+      "category": "Leader",
+      "power": 5000,
+      "life": 5,
+      "attributes": [
+        "Strike"
+      ],
+      "colors": [
+        "Black"
+      ],
+      "types": [
+        "Straw Hat Crew"
+      ],
+      "printings": [
+        {
+          "id": "ST14-001",
+          "set": "ST14",
+          "rarity": "L",
+          "block": "2",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST14-001.png",
+          "source": "bandai"
+        }
+      ]
+    },
+    {
+      "number": "ST14-002",
+      "name": "Usopp",
+      "category": "Character",
+      "cost": 3,
+      "power": 4000,
+      "counter": 1000,
+      "attributes": [
+        "Ranged"
+      ],
+      "colors": [
+        "Black"
+      ],
+      "types": [
+        "Straw Hat Crew"
+      ],
+      "printings": [
+        {
+          "id": "ST14-002",
+          "set": "ST14",
+          "rarity": "C",
+          "block": "2",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST14-002.png",
+          "source": "bandai"
+        }
+      ]
+    },
+    {
+      "number": "ST14-003",
+      "name": "Sanji",
+      "category": "Character",
+      "cost": 5,
+      "power": 6000,
+      "attributes": [
+        "Strike"
+      ],
+      "colors": [
+        "Black"
+      ],
+      "types": [
+        "Straw Hat Crew"
+      ],
+      "printings": [
+        {
+          "id": "ST14-003",
+          "set": "ST14",
+          "rarity": "SR",
+          "block": "2",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST14-003.png",
+          "source": "bandai"
+        },
+        {
+          "id": "ST14-003_p1",
+          "set": "OP10",
+          "rarity": "SP CARD",
+          "block": "2",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST14-003_p1.png",
+          "source": "bandai"
+        }
+      ]
+    },
+    {
+      "number": "ST14-004",
+      "name": "Jinbe",
+      "category": "Character",
+      "cost": 3,
+      "power": 4000,
+      "counter": 1000,
+      "attributes": [
+        "Strike"
+      ],
+      "colors": [
+        "Black"
+      ],
+      "types": [
+        "Fish-Man",
+        "The Sun Pirates"
+      ],
+      "printings": [
+        {
+          "id": "ST14-004",
+          "set": "ST14",
+          "rarity": "C",
+          "block": "2",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST14-004.png",
+          "source": "bandai"
+        }
+      ]
+    },
+    {
+      "number": "ST14-005",
+      "name": "Tony Tony.Chopper",
+      "category": "Character",
+      "cost": 4,
+      "power": 6000,
+      "counter": 1000,
+      "attributes": [
+        "Wisdom"
+      ],
+      "colors": [
+        "Black"
+      ],
+      "types": [
+        "Animal",
+        "Straw Hat Crew"
+      ],
+      "printings": [
+        {
+          "id": "ST14-005",
+          "set": "ST14",
+          "rarity": "C",
+          "block": "2",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST14-005.png",
+          "source": "bandai"
+        }
+      ]
+    },
+    {
+      "number": "ST14-006",
+      "name": "Nami",
+      "category": "Character",
+      "cost": 3,
+      "power": 2000,
+      "counter": 1000,
+      "attributes": [
+        "Special"
+      ],
+      "colors": [
+        "Black"
+      ],
+      "types": [
+        "Straw Hat Crew"
+      ],
+      "printings": [
+        {
+          "id": "ST14-006",
+          "set": "ST14",
+          "rarity": "SR",
+          "block": "2",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST14-006.png",
+          "source": "bandai"
+        }
+      ]
+    },
+    {
+      "number": "ST14-007",
+      "name": "Nico Robin",
+      "category": "Character",
+      "cost": 6,
+      "power": 7000,
+      "counter": 1000,
+      "attributes": [
+        "Strike"
+      ],
+      "colors": [
+        "Black"
+      ],
+      "types": [
+        "Straw Hat Crew"
+      ],
+      "printings": [
+        {
+          "id": "ST14-007",
+          "set": "ST14",
+          "rarity": "C",
+          "block": "2",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST14-007.png",
+          "source": "bandai"
+        },
+        {
+          "id": "ST14-007_p1",
+          "set": "PRB02",
+          "rarity": "C",
+          "block": "2",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST14-007_p1.png",
+          "source": "bandai"
+        },
+        {
+          "id": "ST14-007_r1",
+          "set": "PRB02",
+          "rarity": "C",
+          "block": "2",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST14-007_r1.png",
+          "source": "bandai"
+        }
+      ]
+    },
+    {
+      "number": "ST14-008",
+      "name": "Haredas",
+      "category": "Character",
+      "cost": 1,
+      "counter": 2000,
+      "attributes": [
+        "Wisdom"
+      ],
+      "colors": [
+        "Black"
+      ],
+      "types": [
+        "Sky Island"
+      ],
+      "printings": [
+        {
+          "id": "ST14-008",
+          "set": "ST14",
+          "rarity": "C",
+          "block": "2",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST14-008.png",
+          "source": "bandai"
+        }
+      ]
+    },
+    {
+      "number": "ST14-009",
+      "name": "Franky",
+      "category": "Character",
+      "cost": 5,
+      "power": 6000,
+      "counter": 1000,
+      "attributes": [
+        "Special"
+      ],
+      "colors": [
+        "Black"
+      ],
+      "types": [
+        "Straw Hat Crew"
+      ],
+      "printings": [
+        {
+          "id": "ST14-009",
+          "set": "ST14",
+          "rarity": "C",
+          "block": "2",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST14-009.png",
+          "source": "bandai"
+        }
+      ]
+    },
+    {
+      "number": "ST14-010",
+      "name": "Brook",
+      "category": "Character",
+      "cost": 5,
+      "power": 7000,
+      "counter": 1000,
+      "attributes": [
+        "Slash"
+      ],
+      "colors": [
+        "Black"
+      ],
+      "types": [
+        "Straw Hat Crew"
+      ],
+      "printings": [
+        {
+          "id": "ST14-010",
+          "set": "ST14",
+          "rarity": "C",
+          "block": "2",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST14-010.png",
+          "source": "bandai"
+        },
+        {
+          "id": "ST14-010_p1",
+          "set": "PRB02",
+          "rarity": "C",
+          "block": "2",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST14-010_p1.png",
+          "source": "bandai"
+        },
+        {
+          "id": "ST14-010_r1",
+          "set": "ST26",
+          "rarity": "C",
+          "block": "2",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST14-010_r1.png",
+          "source": "bandai"
+        },
+        {
+          "id": "ST14-010_r2",
+          "set": "PRB02",
+          "rarity": "C",
+          "block": "2",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST14-010_r2.png",
+          "source": "bandai"
+        }
+      ]
+    },
+    {
+      "number": "ST14-011",
+      "name": "Heracles",
+      "category": "Character",
+      "cost": 1,
+      "power": 2000,
+      "counter": 2000,
+      "attributes": [
+        "Wisdom"
+      ],
+      "colors": [
+        "Black"
+      ],
+      "types": [
+        "Bowin Island"
+      ],
+      "printings": [
+        {
+          "id": "ST14-011",
+          "set": "ST14",
+          "rarity": "C",
+          "block": "2",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST14-011.png",
+          "source": "bandai"
+        }
+      ]
+    },
+    {
+      "number": "ST14-012",
+      "name": "Monkey.D.Luffy",
+      "category": "Character",
+      "cost": 8,
+      "power": 10000,
+      "attributes": [
+        "Strike"
+      ],
+      "colors": [
+        "Black"
+      ],
+      "types": [
+        "Straw Hat Crew"
+      ],
+      "printings": [
+        {
+          "id": "ST14-012",
+          "set": "ST14",
+          "rarity": "C",
+          "block": "2",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST14-012.png",
+          "source": "bandai"
+        }
+      ]
+    },
+    {
+      "number": "ST14-013",
+      "name": "Roronoa Zoro",
+      "category": "Character",
+      "cost": 6,
+      "power": 8000,
+      "counter": 1000,
+      "attributes": [
+        "Slash"
+      ],
+      "colors": [
+        "Black"
+      ],
+      "types": [
+        "Straw Hat Crew"
+      ],
+      "printings": [
+        {
+          "id": "ST14-013",
+          "set": "ST14",
+          "rarity": "C",
+          "block": "2",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST14-013.png",
+          "source": "bandai"
+        },
+        {
+          "id": "ST14-013_p1",
+          "set": "PRB02",
+          "rarity": "C",
+          "block": "2",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST14-013_p1.png",
+          "source": "bandai"
+        },
+        {
+          "id": "ST14-013_r1",
+          "set": "PRB02",
+          "rarity": "C",
+          "block": "2",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST14-013_r1.png",
+          "source": "bandai"
+        }
+      ]
+    },
+    {
+      "number": "ST14-014",
+      "name": "Gum-Gum Giant Rifle",
+      "category": "Event",
+      "cost": 1,
+      "colors": [
+        "Black"
+      ],
+      "types": [
+        "Straw Hat Crew"
+      ],
+      "printings": [
+        {
+          "id": "ST14-014",
+          "set": "ST14",
+          "rarity": "C",
+          "block": "2",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST14-014.png",
+          "source": "bandai"
+        }
+      ]
+    },
+    {
+      "number": "ST14-015",
+      "name": "Gum-Gum Diable Three-Swords Style Mouten Jet Six Hundred Pound Phoenix Cannon",
+      "category": "Event",
+      "cost": 2,
+      "colors": [
+        "Black"
+      ],
+      "types": [
+        "Straw Hat Crew"
+      ],
+      "printings": [
+        {
+          "id": "ST14-015",
+          "set": "ST14",
+          "rarity": "C",
+          "block": "2",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST14-015.png",
+          "source": "bandai"
+        }
+      ]
+    },
+    {
+      "number": "ST14-016",
+      "name": "I Have My Crew!!",
+      "category": "Event",
+      "cost": 1,
+      "colors": [
+        "Black"
+      ],
+      "types": [
+        "Straw Hat Crew"
+      ],
+      "printings": [
+        {
+          "id": "ST14-016",
+          "set": "ST14",
+          "rarity": "C",
+          "block": "2",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST14-016.png",
+          "source": "bandai"
+        },
+        {
+          "id": "ST14-016_p1",
+          "set": "PRB02",
+          "rarity": "C",
+          "block": "2",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST14-016_p1.png",
+          "source": "bandai"
+        },
+        {
+          "id": "ST14-016_r1",
+          "set": "PRB02",
+          "rarity": "C",
+          "block": "2",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST14-016_r1.png",
+          "source": "bandai"
+        }
+      ]
+    },
+    {
+      "number": "ST14-017",
+      "name": "Thousand Sunny",
+      "category": "Stage",
+      "cost": 1,
+      "colors": [
+        "Black"
+      ],
+      "types": [
+        "Straw Hat Crew"
+      ],
+      "printings": [
+        {
+          "id": "ST14-017",
+          "set": "ST14",
+          "rarity": "C",
+          "block": "2",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST14-017.png",
+          "source": "bandai"
+        },
+        {
+          "id": "ST14-017_p1",
+          "set": "PRB02",
+          "rarity": "C",
+          "block": "2",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST14-017_p1.png",
+          "source": "bandai"
+        },
+        {
+          "id": "ST14-017_r1",
+          "set": "PRB02",
+          "rarity": "C",
+          "block": "2",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST14-017_r1.png",
+          "source": "bandai"
+        }
+      ]
+    }
+  ]
+}

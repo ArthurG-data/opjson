@@ -1,0 +1,143 @@
+{
+  "cards": [
+    {
+      "number": "ST31-001",
+      "name": "Sanji",
+      "category": "Character",
+      "cost": 5,
+      "power": 3000,
+      "counter": 1000,
+      "attributes": [
+        "Strike"
+      ],
+      "colors": [
+        "Red"
+      ],
+      "types": [
+        "Straw Hat Crew"
+      ],
+      "printings": [
+        {
+          "id": "ST31-001",
+          "set": "ST31",
+          "rarity": "SR",
+          "block": "5",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST31-001.png",
+          "source": "bandai"
+        }
+      ]
+    },
+    {
+      "number": "ST31-002",
+      "name": "Jinbe",
+      "category": "Character",
+      "cost": 5,
+      "power": 6000,
+      "counter": 1000,
+      "attributes": [
+        "Strike"
+      ],
+      "colors": [
+        "Red"
+      ],
+      "types": [
+        "Fish-Man",
+        "Straw Hat Crew"
+      ],
+      "printings": [
+        {
+          "id": "ST31-002",
+          "set": "ST31",
+          "rarity": "C",
+          "block": "5",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST31-002.png",
+          "source": "bandai"
+        }
+      ]
+    },
+    {
+      "number": "ST31-003",
+      "name": "Brook",
+      "category": "Character",
+      "cost": 2,
+      "power": 3000,
+      "counter": 1000,
+      "attributes": [
+        "Slash"
+      ],
+      "colors": [
+        "Red"
+      ],
+      "types": [
+        "Straw Hat Crew"
+      ],
+      "printings": [
+        {
+          "id": "ST31-003",
+          "set": "ST31",
+          "rarity": "C",
+          "block": "5",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST31-003.png",
+          "source": "bandai"
+        }
+      ]
+    },
+    {
+      "number": "ST31-004",
+      "name": "Monkey.D.Luffy",
+      "category": "Character",
+      "cost": 7,
+      "power": 9000,
+      "attributes": [
+        "Strike"
+      ],
+      "colors": [
+        "Red"
+      ],
+      "types": [
+        "The Four Emperors",
+        "Straw Hat Crew"
+      ],
+      "printings": [
+        {
+          "id": "ST31-004",
+          "set": "ST31",
+          "rarity": "SR",
+          "block": "5",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST31-004.png",
+          "source": "bandai"
+        },
+        {
+          "id": "ST31-004_p1",
+          "set": "OP17",
+          "rarity": "SP CARD",
+          "block": "5",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST31-004_p1.png",
+          "source": "bandai"
+        }
+      ]
+    },
+    {
+      "number": "ST31-005",
+      "name": "Thousand Sunny",
+      "category": "Stage",
+      "cost": 1,
+      "colors": [
+        "Red"
+      ],
+      "types": [
+        "Straw Hat Crew"
+      ],
+      "printings": [
+        {
+          "id": "ST31-005",
+          "set": "ST31",
+          "rarity": "C",
+          "block": "5",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST31-005.png",
+          "source": "bandai"
+        }
+      ]
+    }
+  ]
+}

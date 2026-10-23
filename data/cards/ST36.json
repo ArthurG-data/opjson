@@ -1,0 +1,144 @@
+{
+  "cards": [
+    {
+      "number": "ST36-001",
+      "name": "Cavendish",
+      "category": "Character",
+      "cost": 3,
+      "power": 3000,
+      "counter": 2000,
+      "attributes": [
+        "Slash"
+      ],
+      "colors": [
+        "Yellow"
+      ],
+      "types": [
+        "Dressrosa",
+        "Supernovas",
+        "Beautiful Pirates"
+      ],
+      "printings": [
+        {
+          "id": "ST36-001",
+          "set": "ST36",
+          "rarity": "C",
+          "block": "5",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST36-001.png",
+          "source": "bandai"
+        }
+      ]
+    },
+    {
+      "number": "ST36-002",
+      "name": "Killer",
+      "category": "Character",
+      "cost": 4,
+      "power": 6000,
+      "attributes": [
+        "Slash"
+      ],
+      "colors": [
+        "Yellow"
+      ],
+      "types": [
+        "Supernovas",
+        "Kid Pirates"
+      ],
+      "printings": [
+        {
+          "id": "ST36-002",
+          "set": "ST36",
+          "rarity": "SR",
+          "block": "5",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST36-002.png",
+          "source": "bandai"
+        }
+      ]
+    },
+    {
+      "number": "ST36-003",
+      "name": "Scratchmen Apoo",
+      "category": "Character",
+      "cost": 4,
+      "power": 4000,
+      "counter": 2000,
+      "attributes": [
+        "Ranged"
+      ],
+      "colors": [
+        "Yellow"
+      ],
+      "types": [
+        "Supernovas",
+        "On-Air Pirates"
+      ],
+      "printings": [
+        {
+          "id": "ST36-003",
+          "set": "ST36",
+          "rarity": "C",
+          "block": "5",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST36-003.png",
+          "source": "bandai"
+        }
+      ]
+    },
+    {
+      "number": "ST36-004",
+      "name": "Bartolomeo",
+      "category": "Character",
+      "cost": 1,
+      "power": 2000,
+      "counter": 1000,
+      "attributes": [
+        "Special"
+      ],
+      "colors": [
+        "Yellow"
+      ],
+      "types": [
+        "Dressrosa",
+        "Supernovas",
+        "Barto Club"
+      ],
+      "printings": [
+        {
+          "id": "ST36-004",
+          "set": "ST36",
+          "rarity": "C",
+          "block": "5",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST36-004.png",
+          "source": "bandai"
+        }
+      ]
+    },
+    {
+      "number": "ST36-005",
+      "name": "Eustass\"Captain\"Kid",
+      "category": "Character",
+      "cost": 6,
+      "power": 7000,
+      "attributes": [
+        "Special"
+      ],
+      "colors": [
+        "Yellow"
+      ],
+      "types": [
+        "Supernovas",
+        "Kid Pirates"
+      ],
+      "printings": [
+        {
+          "id": "ST36-005",
+          "set": "ST36",
+          "rarity": "SR",
+          "block": "5",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST36-005.png",
+          "source": "bandai"
+        }
+      ]
+    }
+  ]
+}

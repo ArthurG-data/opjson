@@ -1,0 +1,3417 @@
+{
+  "cards": [
+    {
+      "number": "OP16-001",
+      "name": "Portgas.D.Ace",
+      "category": "Leader",
+      "power": 5000,
+      "life": 5,
+      "attributes": [
+        "Special"
+      ],
+      "colors": [
+        "Red"
+      ],
+      "types": [
+        "Whitebeard Pirates"
+      ],
+      "printings": [
+        {
+          "id": "OP16-001",
+          "set": "OP16",
+          "rarity": "L",
+          "block": "5",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP16-001.png",
+          "source": "bandai"
+        },
+        {
+          "id": "OP16-001_p1",
+          "set": "OP16",
+          "rarity": "L",
+          "block": "5",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP16-001_p1.png",
+          "source": "bandai"
+        },
+        {
+          "id": "OP16-001_p2",
+          "set": "OTHER",
+          "rarity": "L",
+          "block": "5",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP16-001_p2.png",
+          "source": "bandai"
+        }
+      ]
+    },
+    {
+      "number": "OP16-002",
+      "name": "Izo",
+      "category": "Character",
+      "cost": 1,
+      "power": 2000,
+      "counter": 1000,
+      "attributes": [
+        "Ranged"
+      ],
+      "colors": [
+        "Red"
+      ],
+      "types": [
+        "Land of Wano",
+        "Whitebeard Pirates"
+      ],
+      "printings": [
+        {
+          "id": "OP16-002",
+          "set": "OP16",
+          "rarity": "UC",
+          "block": "5",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP16-002.png",
+          "source": "bandai"
+        }
+      ]
+    },
+    {
+      "number": "OP16-003",
+      "name": "Edward.Newgate",
+      "category": "Character",
+      "cost": 8,
+      "power": 10000,
+      "attributes": [
+        "Special"
+      ],
+      "colors": [
+        "Red"
+      ],
+      "types": [
+        "The Four Emperors",
+        "Whitebeard Pirates"
+      ],
+      "printings": [
+        {
+          "id": "OP16-003",
+          "set": "OP16",
+          "rarity": "SR",
+          "block": "5",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP16-003.png",
+          "source": "bandai"
+        },
+        {
+          "id": "OP16-003_p1",
+          "set": "OP16",
+          "rarity": "SR",
+          "block": "5",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP16-003_p1.png",
+          "source": "bandai"
+        }
+      ]
+    },
+    {
+      "number": "OP16-004",
+      "name": "Curiel",
+      "category": "Character",
+      "cost": 7,
+      "power": 8000,
+      "counter": 2000,
+      "attributes": [
+        "Ranged"
+      ],
+      "colors": [
+        "Red"
+      ],
+      "types": [
+        "Whitebeard Pirates"
+      ],
+      "printings": [
+        {
+          "id": "OP16-004",
+          "set": "OP16",
+          "rarity": "C",
+          "block": "5",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP16-004.png",
+          "source": "bandai"
+        }
+      ]
+    },
+    {
+      "number": "OP16-005",
+      "name": "Thatch",
+      "category": "Character",
+      "cost": 8,
+      "power": 8000,
+      "counter": 1000,
+      "attributes": [
+        "Slash"
+      ],
+      "colors": [
+        "Red"
+      ],
+      "types": [
+        "Whitebeard Pirates"
+      ],
+      "printings": [
+        {
+          "id": "OP16-005",
+          "set": "OP16",
+          "rarity": "UC",
+          "block": "5",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP16-005.png",
+          "source": "bandai"
+        }
+      ]
+    },
+    {
+      "number": "OP16-006",
+      "name": "Shanks",
+      "category": "Character",
+      "cost": 4,
+      "power": 5000,
+      "counter": 2000,
+      "attributes": [
+        "Slash"
+      ],
+      "colors": [
+        "Red"
+      ],
+      "types": [
+        "The Four Emperors",
+        "Red-Haired Pirates"
+      ],
+      "printings": [
+        {
+          "id": "OP16-006",
+          "set": "OP16",
+          "rarity": "C",
+          "block": "5",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP16-006.png",
+          "source": "bandai"
+        }
+      ]
+    },
+    {
+      "number": "OP16-007",
+      "name": "Jozu",
+      "category": "Character",
+      "cost": 7,
+      "power": 8000,
+      "attributes": [
+        "Strike"
+      ],
+      "colors": [
+        "Red"
+      ],
+      "types": [
+        "Whitebeard Pirates"
+      ],
+      "printings": [
+        {
+          "id": "OP16-007",
+          "set": "OP16",
+          "rarity": "UC",
+          "block": "5",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP16-007.png",
+          "source": "bandai"
+        }
+      ]
+    },
+    {
+      "number": "OP16-008",
+      "name": "Squard",
+      "category": "Character",
+      "cost": 5,
+      "power": 7000,
+      "attributes": [
+        "Slash"
+      ],
+      "colors": [
+        "Red"
+      ],
+      "types": [
+        "Whitebeard Pirates Allies"
+      ],
+      "printings": [
+        {
+          "id": "OP16-008",
+          "set": "OP16",
+          "rarity": "C",
+          "block": "5",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP16-008.png",
+          "source": "bandai"
+        }
+      ]
+    },
+    {
+      "number": "OP16-009",
+      "name": "Speed Jil",
+      "category": "Character",
+      "cost": 4,
+      "power": 5000,
+      "counter": 1000,
+      "attributes": [
+        "Slash"
+      ],
+      "colors": [
+        "Red"
+      ],
+      "types": [
+        "Whitebeard Pirates"
+      ],
+      "printings": [
+        {
+          "id": "OP16-009",
+          "set": "OP16",
+          "rarity": "C",
+          "block": "5",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP16-009.png",
+          "source": "bandai"
+        }
+      ]
+    },
+    {
+      "number": "OP16-010",
+      "name": "Namule",
+      "category": "Character",
+      "cost": 1,
+      "power": 2000,
+      "counter": 2000,
+      "attributes": [
+        "Strike"
+      ],
+      "colors": [
+        "Red"
+      ],
+      "types": [
+        "Fish-Man",
+        "Whitebeard Pirates"
+      ],
+      "printings": [
+        {
+          "id": "OP16-010",
+          "set": "OP16",
+          "rarity": "UC",
+          "block": "5",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP16-010.png",
+          "source": "bandai"
+        }
+      ]
+    },
+    {
+      "number": "OP16-011",
+      "name": "Vista",
+      "category": "Character",
+      "cost": 6,
+      "power": 8000,
+      "attributes": [
+        "Slash"
+      ],
+      "colors": [
+        "Red"
+      ],
+      "types": [
+        "Whitebeard Pirates"
+      ],
+      "printings": [
+        {
+          "id": "OP16-011",
+          "set": "OP16",
+          "rarity": "R",
+          "block": "5",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP16-011.png",
+          "source": "bandai"
+        },
+        {
+          "id": "OP16-011_p1",
+          "set": "OP16",
+          "rarity": "TR",
+          "block": "5",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP16-011_p1.png",
+          "source": "bandai"
+        }
+      ]
+    },
+    {
+      "number": "OP16-012",
+      "name": "Benn.Beckman",
+      "category": "Character",
+      "cost": 5,
+      "power": 6000,
+      "counter": 1000,
+      "attributes": [
+        "Ranged"
+      ],
+      "colors": [
+        "Red"
+      ],
+      "types": [
+        "Red-Haired Pirates"
+      ],
+      "printings": [
+        {
+          "id": "OP16-012",
+          "set": "OP16",
+          "rarity": "R",
+          "block": "5",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP16-012.png",
+          "source": "bandai"
+        }
+      ]
+    },
+    {
+      "number": "OP16-013",
+      "name": "McGuy",
+      "category": "Character",
+      "cost": 6,
+      "power": 8000,
+      "attributes": [
+        "Slash"
+      ],
+      "colors": [
+        "Red"
+      ],
+      "types": [
+        "Whitebeard Pirates Allies"
+      ],
+      "printings": [
+        {
+          "id": "OP16-013",
+          "set": "OP16",
+          "rarity": "C",
+          "block": "5",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP16-013.png",
+          "source": "bandai"
+        }
+      ]
+    },
+    {
+      "number": "OP16-014",
+      "name": "Marco",
+      "category": "Character",
+      "cost": 6,
+      "power": 8000,
+      "attributes": [
+        "Special"
+      ],
+      "colors": [
+        "Red"
+      ],
+      "types": [
+        "Whitebeard Pirates"
+      ],
+      "printings": [
+        {
+          "id": "OP16-014",
+          "set": "OP16",
+          "rarity": "R",
+          "block": "5",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP16-014.png",
+          "source": "bandai"
+        },
+        {
+          "id": "OP16-014_p1",
+          "set": "OP16",
+          "rarity": "R",
+          "block": "5",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP16-014_p1.png",
+          "source": "bandai"
+        }
+      ]
+    },
+    {
+      "number": "OP16-015",
+      "name": "Monkey.D.Luffy",
+      "category": "Character",
+      "cost": 4,
+      "power": 6000,
+      "attributes": [
+        "Strike"
+      ],
+      "colors": [
+        "Red"
+      ],
+      "types": [
+        "Impel Down",
+        "Straw Hat Crew"
+      ],
+      "printings": [
+        {
+          "id": "OP16-015",
+          "set": "OP16",
+          "rarity": "SR",
+          "block": "5",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP16-015.png",
+          "source": "bandai"
+        },
+        {
+          "id": "OP16-015_p1",
+          "set": "OP16",
+          "rarity": "SR",
+          "block": "5",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP16-015_p1.png",
+          "source": "bandai"
+        }
+      ]
+    },
+    {
+      "number": "OP16-016",
+      "name": "Ramba",
+      "category": "Character",
+      "cost": 6,
+      "power": 8000,
+      "counter": 1000,
+      "attributes": [
+        "Slash"
+      ],
+      "colors": [
+        "Red"
+      ],
+      "types": [
+        "Whitebeard Pirates Allies"
+      ],
+      "printings": [
+        {
+          "id": "OP16-016",
+          "set": "OP16",
+          "rarity": "C",
+          "block": "5",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP16-016.png",
+          "source": "bandai"
+        }
+      ]
+    },
+    {
+      "number": "OP16-017",
+      "name": "LittleOars Jr.",
+      "category": "Character",
+      "cost": 4,
+      "power": 8000,
+      "counter": 1000,
+      "attributes": [
+        "Strike"
+      ],
+      "colors": [
+        "Red"
+      ],
+      "types": [
+        "Giant",
+        "Whitebeard Pirates Allies"
+      ],
+      "printings": [
+        {
+          "id": "OP16-017",
+          "set": "OP16",
+          "rarity": "R",
+          "block": "5",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP16-017.png",
+          "source": "bandai"
+        }
+      ]
+    },
+    {
+      "number": "OP16-018",
+      "name": "Rockstar",
+      "category": "Character",
+      "cost": 1,
+      "power": 2000,
+      "counter": 2000,
+      "attributes": [
+        "Slash"
+      ],
+      "colors": [
+        "Red"
+      ],
+      "types": [
+        "Red-Haired Pirates"
+      ],
+      "printings": [
+        {
+          "id": "OP16-018",
+          "set": "OP16",
+          "rarity": "C",
+          "block": "5",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP16-018.png",
+          "source": "bandai"
+        }
+      ]
+    },
+    {
+      "number": "OP16-019",
+      "name": "Let's Show 'Em What We're Made Of!!",
+      "category": "Event",
+      "cost": 9,
+      "colors": [
+        "Red"
+      ],
+      "types": [
+        "Whitebeard Pirates"
+      ],
+      "printings": [
+        {
+          "id": "OP16-019",
+          "set": "OP16",
+          "rarity": "C",
+          "block": "5",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP16-019.png",
+          "source": "bandai"
+        }
+      ]
+    },
+    {
+      "number": "OP16-020",
+      "name": "If You're Coming with Me... Kiss Your Lives Goodbye!!",
+      "category": "Event",
+      "colors": [
+        "Red"
+      ],
+      "types": [
+        "The Four Emperors",
+        "Whitebeard Pirates"
+      ],
+      "printings": [
+        {
+          "id": "OP16-020",
+          "set": "OP16",
+          "rarity": "UC",
+          "block": "5",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP16-020.png",
+          "source": "bandai"
+        }
+      ]
+    },
+    {
+      "number": "OP16-021",
+      "name": "Moby Dick",
+      "category": "Stage",
+      "cost": 1,
+      "colors": [
+        "Red"
+      ],
+      "types": [
+        "Whitebeard Pirates"
+      ],
+      "printings": [
+        {
+          "id": "OP16-021",
+          "set": "OP16",
+          "rarity": "R",
+          "block": "5",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP16-021.png",
+          "source": "bandai"
+        },
+        {
+          "id": "OP16-021_p1",
+          "set": "OP16",
+          "rarity": "R",
+          "block": "5",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP16-021_p1.png",
+          "source": "bandai"
+        }
+      ]
+    },
+    {
+      "number": "OP16-022",
+      "name": "Monkey.D.Luffy",
+      "category": "Leader",
+      "power": 5000,
+      "life": 4,
+      "attributes": [
+        "Strike"
+      ],
+      "colors": [
+        "Green",
+        "Blue"
+      ],
+      "types": [
+        "Impel Down",
+        "Straw Hat Crew"
+      ],
+      "printings": [
+        {
+          "id": "OP16-022",
+          "set": "OP16",
+          "rarity": "L",
+          "block": "5",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP16-022.png",
+          "source": "bandai"
+        },
+        {
+          "id": "OP16-022_p1",
+          "set": "OP16",
+          "rarity": "L",
+          "block": "5",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP16-022_p1.png",
+          "source": "bandai"
+        }
+      ]
+    },
+    {
+      "number": "OP16-023",
+      "name": "Arlong",
+      "category": "Character",
+      "cost": 1,
+      "power": 3000,
+      "counter": 1000,
+      "attributes": [
+        "Slash"
+      ],
+      "colors": [
+        "Green"
+      ],
+      "types": [
+        "Fish-Man",
+        "Impel Down",
+        "The Sun Pirates"
+      ],
+      "printings": [
+        {
+          "id": "OP16-023",
+          "set": "OP16",
+          "rarity": "C",
+          "block": "5",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP16-023.png",
+          "source": "bandai"
+        }
+      ]
+    },
+    {
+      "number": "OP16-024",
+      "name": "Inazuma",
+      "category": "Character",
+      "cost": 2,
+      "power": 1000,
+      "counter": 1000,
+      "attributes": [
+        "Slash"
+      ],
+      "colors": [
+        "Green"
+      ],
+      "types": [
+        "Impel Down",
+        "Revolutionary Army"
+      ],
+      "printings": [
+        {
+          "id": "OP16-024",
+          "set": "OP16",
+          "rarity": "UC",
+          "block": "5",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP16-024.png",
+          "source": "bandai"
+        }
+      ]
+    },
+    {
+      "number": "OP16-025",
+      "name": "Bunkov",
+      "category": "Character",
+      "cost": 2,
+      "power": 3000,
+      "counter": 2000,
+      "attributes": [
+        "Strike"
+      ],
+      "colors": [
+        "Green"
+      ],
+      "types": [
+        "Impel Down"
+      ],
+      "printings": [
+        {
+          "id": "OP16-025",
+          "set": "OP16",
+          "rarity": "UC",
+          "block": "5",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP16-025.png",
+          "source": "bandai"
+        }
+      ]
+    },
+    {
+      "number": "OP16-026",
+      "name": "Emporio.Ivankov",
+      "category": "Character",
+      "cost": 4,
+      "power": 4000,
+      "counter": 1000,
+      "attributes": [
+        "Special"
+      ],
+      "colors": [
+        "Green"
+      ],
+      "types": [
+        "Impel Down",
+        "Revolutionary Army"
+      ],
+      "printings": [
+        {
+          "id": "OP16-026",
+          "set": "OP16",
+          "rarity": "SR",
+          "block": "5",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP16-026.png",
+          "source": "bandai"
+        },
+        {
+          "id": "OP16-026_p1",
+          "set": "OP16",
+          "rarity": "SR",
+          "block": "5",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP16-026_p1.png",
+          "source": "bandai"
+        }
+      ]
+    },
+    {
+      "number": "OP16-027",
+      "name": "Jinbe",
+      "category": "Character",
+      "cost": 2,
+      "power": 2000,
+      "counter": 2000,
+      "attributes": [
+        "Strike"
+      ],
+      "colors": [
+        "Green"
+      ],
+      "types": [
+        "Fish-Man",
+        "Impel Down",
+        "The Sun Pirates"
+      ],
+      "printings": [
+        {
+          "id": "OP16-027",
+          "set": "OP16",
+          "rarity": "R",
+          "block": "5",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP16-027.png",
+          "source": "bandai"
+        }
+      ]
+    },
+    {
+      "number": "OP16-028",
+      "name": "Smoker",
+      "category": "Character",
+      "cost": 6,
+      "power": 7000,
+      "counter": 2000,
+      "attributes": [
+        "Special"
+      ],
+      "colors": [
+        "Green"
+      ],
+      "types": [
+        "Navy"
+      ],
+      "printings": [
+        {
+          "id": "OP16-028",
+          "set": "OP16",
+          "rarity": "C",
+          "block": "5",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP16-028.png",
+          "source": "bandai"
+        }
+      ]
+    },
+    {
+      "number": "OP16-029",
+      "name": "Antlerkov",
+      "category": "Character",
+      "cost": 2,
+      "power": 3000,
+      "counter": 2000,
+      "attributes": [
+        "Ranged"
+      ],
+      "colors": [
+        "Green"
+      ],
+      "types": [
+        "Impel Down"
+      ],
+      "printings": [
+        {
+          "id": "OP16-029",
+          "set": "OP16",
+          "rarity": "UC",
+          "block": "5",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP16-029.png",
+          "source": "bandai"
+        }
+      ]
+    },
+    {
+      "number": "OP16-030",
+      "name": "Trafalgar Law",
+      "category": "Character",
+      "cost": 8,
+      "power": 9000,
+      "attributes": [
+        "Slash"
+      ],
+      "colors": [
+        "Green"
+      ],
+      "types": [
+        "Supernovas",
+        "Heart Pirates"
+      ],
+      "printings": [
+        {
+          "id": "OP16-030",
+          "set": "OP16",
+          "rarity": "R",
+          "block": "5",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP16-030.png",
+          "source": "bandai"
+        }
+      ]
+    },
+    {
+      "number": "OP16-031",
+      "name": "Buggy",
+      "category": "Character",
+      "cost": 4,
+      "power": 5000,
+      "counter": 1000,
+      "attributes": [
+        "Slash"
+      ],
+      "colors": [
+        "Green"
+      ],
+      "types": [
+        "Impel Down",
+        "Buggy Pirates"
+      ],
+      "printings": [
+        {
+          "id": "OP16-031",
+          "set": "OP16",
+          "rarity": "UC",
+          "block": "5",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP16-031.png",
+          "source": "bandai"
+        }
+      ]
+    },
+    {
+      "number": "OP16-032",
+      "name": "Boa Hancock",
+      "category": "Character",
+      "cost": 7,
+      "power": 9000,
+      "attributes": [
+        "Special"
+      ],
+      "colors": [
+        "Green"
+      ],
+      "types": [
+        "Impel Down",
+        "The Seven Warlords of the Sea",
+        "Kuja Pirates"
+      ],
+      "printings": [
+        {
+          "id": "OP16-032",
+          "set": "OP16",
+          "rarity": "SR",
+          "block": "5",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP16-032.png",
+          "source": "bandai"
+        },
+        {
+          "id": "OP16-032_p1",
+          "set": "OP16",
+          "rarity": "SR",
+          "block": "5",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP16-032_p1.png",
+          "source": "bandai"
+        }
+      ]
+    },
+    {
+      "number": "OP16-033",
+      "name": "Morley",
+      "category": "Character",
+      "cost": 4,
+      "power": 5000,
+      "counter": 1000,
+      "attributes": [
+        "Special"
+      ],
+      "colors": [
+        "Green"
+      ],
+      "types": [
+        "Giant",
+        "Revolutionary Army"
+      ],
+      "printings": [
+        {
+          "id": "OP16-033",
+          "set": "OP16",
+          "rarity": "C",
+          "block": "5",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP16-033.png",
+          "source": "bandai"
+        }
+      ]
+    },
+    {
+      "number": "OP16-034",
+      "name": "Monkey.D.Luffy",
+      "category": "Character",
+      "cost": 1,
+      "counter": 1000,
+      "attributes": [
+        "Strike"
+      ],
+      "colors": [
+        "Green"
+      ],
+      "types": [
+        "Impel Down",
+        "Straw Hat Crew"
+      ],
+      "printings": [
+        {
+          "id": "OP16-034",
+          "set": "OP16",
+          "rarity": "R",
+          "block": "5",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP16-034.png",
+          "source": "bandai"
+        },
+        {
+          "id": "OP16-034_p1",
+          "set": "OP16",
+          "rarity": "R",
+          "block": "5",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP16-034_p1.png",
+          "source": "bandai"
+        }
+      ]
+    },
+    {
+      "number": "OP16-035",
+      "name": "Roronoa Zoro",
+      "category": "Character",
+      "cost": 7,
+      "power": 9000,
+      "attributes": [
+        "Slash"
+      ],
+      "colors": [
+        "Green"
+      ],
+      "types": [
+        "Straw Hat Crew"
+      ],
+      "printings": [
+        {
+          "id": "OP16-035",
+          "set": "OP16",
+          "rarity": "C",
+          "block": "5",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP16-035.png",
+          "source": "bandai"
+        }
+      ]
+    },
+    {
+      "number": "OP16-036",
+      "name": "Mr.2.Bon.Kurei(Bentham)",
+      "category": "Character",
+      "cost": 4,
+      "power": 1000,
+      "counter": 1000,
+      "attributes": [
+        "Strike"
+      ],
+      "colors": [
+        "Green"
+      ],
+      "types": [
+        "Impel Down",
+        "Former Baroque Works"
+      ],
+      "printings": [
+        {
+          "id": "OP16-036",
+          "set": "OP16",
+          "rarity": "C",
+          "block": "5",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP16-036.png",
+          "source": "bandai"
+        }
+      ]
+    },
+    {
+      "number": "OP16-037",
+      "name": "Mr.3(Galdino)",
+      "category": "Character",
+      "cost": 2,
+      "power": 3000,
+      "counter": 1000,
+      "attributes": [
+        "Special"
+      ],
+      "colors": [
+        "Green"
+      ],
+      "types": [
+        "Impel Down",
+        "Former Baroque Works"
+      ],
+      "printings": [
+        {
+          "id": "OP16-037",
+          "set": "OP16",
+          "rarity": "C",
+          "block": "5",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP16-037.png",
+          "source": "bandai"
+        }
+      ]
+    },
+    {
+      "number": "OP16-038",
+      "name": "Let's Go!! To the Navy Headquarters!!",
+      "category": "Event",
+      "cost": 1,
+      "colors": [
+        "Green"
+      ],
+      "types": [
+        "Impel Down",
+        "Straw Hat Crew"
+      ],
+      "printings": [
+        {
+          "id": "OP16-038",
+          "set": "OP16",
+          "rarity": "R",
+          "block": "5",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP16-038.png",
+          "source": "bandai"
+        }
+      ]
+    },
+    {
+      "number": "OP16-039",
+      "name": "Gum-Gum Twin Jet Pistol",
+      "category": "Event",
+      "cost": 1,
+      "colors": [
+        "Green"
+      ],
+      "types": [
+        "Impel Down",
+        "Straw Hat Crew"
+      ],
+      "printings": [
+        {
+          "id": "OP16-039",
+          "set": "OP16",
+          "rarity": "C",
+          "block": "5",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP16-039.png",
+          "source": "bandai"
+        }
+      ]
+    },
+    {
+      "number": "OP16-040",
+      "name": "Gum-Gum Hammer Rifle",
+      "category": "Event",
+      "cost": 1,
+      "colors": [
+        "Green"
+      ],
+      "types": [
+        "Impel Down",
+        "Straw Hat Crew"
+      ],
+      "printings": [
+        {
+          "id": "OP16-040",
+          "set": "OP16",
+          "rarity": "UC",
+          "block": "5",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP16-040.png",
+          "source": "bandai"
+        }
+      ]
+    },
+    {
+      "number": "OP16-041",
+      "name": "Buggy",
+      "category": "Leader",
+      "power": 5000,
+      "life": 5,
+      "attributes": [
+        "Slash"
+      ],
+      "colors": [
+        "Blue"
+      ],
+      "types": [
+        "Impel Down",
+        "Buggy Pirates"
+      ],
+      "printings": [
+        {
+          "id": "OP16-041",
+          "set": "OP16",
+          "rarity": "L",
+          "block": "5",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP16-041.png",
+          "source": "bandai"
+        },
+        {
+          "id": "OP16-041_p1",
+          "set": "OP16",
+          "rarity": "L",
+          "block": "5",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP16-041_p1.png",
+          "source": "bandai"
+        }
+      ]
+    },
+    {
+      "number": "OP16-042",
+      "name": "Prisoner of Impel Down",
+      "category": "Character",
+      "cost": 6,
+      "power": 6000,
+      "counter": 2000,
+      "attributes": [
+        "Strike"
+      ],
+      "colors": [
+        "Blue"
+      ],
+      "types": [
+        "Impel Down"
+      ],
+      "printings": [
+        {
+          "id": "OP16-042",
+          "set": "OP16",
+          "rarity": "R",
+          "block": "5",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP16-042.png",
+          "source": "bandai"
+        }
+      ]
+    },
+    {
+      "number": "OP16-043",
+      "name": "Usopp",
+      "category": "Character",
+      "cost": 2,
+      "power": 1000,
+      "counter": 1000,
+      "attributes": [
+        "Ranged"
+      ],
+      "colors": [
+        "Blue"
+      ],
+      "types": [
+        "Dressrosa",
+        "Straw Hat Crew"
+      ],
+      "printings": [
+        {
+          "id": "OP16-043",
+          "set": "OP16",
+          "rarity": "UC",
+          "block": "5",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP16-043.png",
+          "source": "bandai"
+        }
+      ]
+    },
+    {
+      "number": "OP16-044",
+      "name": "Emporio.Ivankov",
+      "category": "Character",
+      "cost": 2,
+      "power": 2000,
+      "counter": 1000,
+      "attributes": [
+        "Special"
+      ],
+      "colors": [
+        "Blue"
+      ],
+      "types": [
+        "Impel Down",
+        "Revolutionary Army"
+      ],
+      "printings": [
+        {
+          "id": "OP16-044",
+          "set": "OP16",
+          "rarity": "C",
+          "block": "5",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP16-044.png",
+          "source": "bandai"
+        }
+      ]
+    },
+    {
+      "number": "OP16-045",
+      "name": "Crocodile",
+      "category": "Character",
+      "cost": 4,
+      "power": 6000,
+      "attributes": [
+        "Special"
+      ],
+      "colors": [
+        "Blue"
+      ],
+      "types": [
+        "Impel Down",
+        "Former Baroque Works"
+      ],
+      "printings": [
+        {
+          "id": "OP16-045",
+          "set": "OP16",
+          "rarity": "UC",
+          "block": "5",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP16-045.png",
+          "source": "bandai"
+        }
+      ]
+    },
+    {
+      "number": "OP16-046",
+      "name": "Jinbe",
+      "category": "Character",
+      "cost": 5,
+      "power": 6000,
+      "counter": 2000,
+      "attributes": [
+        "Strike"
+      ],
+      "colors": [
+        "Blue"
+      ],
+      "types": [
+        "Fish-Man",
+        "Impel Down",
+        "The Sun Pirates"
+      ],
+      "printings": [
+        {
+          "id": "OP16-046",
+          "set": "OP16",
+          "rarity": "C",
+          "block": "5",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP16-046.png",
+          "source": "bandai"
+        }
+      ]
+    },
+    {
+      "number": "OP16-047",
+      "name": "Donquixote Doflamingo",
+      "category": "Character",
+      "cost": 3,
+      "counter": 1000,
+      "attributes": [
+        "Special"
+      ],
+      "colors": [
+        "Blue"
+      ],
+      "types": [
+        "Impel Down",
+        "Donquixote Pirates"
+      ],
+      "printings": [
+        {
+          "id": "OP16-047",
+          "set": "OP16",
+          "rarity": "C",
+          "block": "5",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP16-047.png",
+          "source": "bandai"
+        }
+      ]
+    },
+    {
+      "number": "OP16-048",
+      "name": "Buggy",
+      "category": "Character",
+      "cost": 5,
+      "power": 6000,
+      "counter": 1000,
+      "attributes": [
+        "Slash"
+      ],
+      "colors": [
+        "Blue"
+      ],
+      "types": [
+        "Impel Down",
+        "Buggy Pirates"
+      ],
+      "printings": [
+        {
+          "id": "OP16-048",
+          "set": "OP16",
+          "rarity": "SR",
+          "block": "5",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP16-048.png",
+          "source": "bandai"
+        },
+        {
+          "id": "OP16-048_p1",
+          "set": "OP16",
+          "rarity": "SR",
+          "block": "5",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP16-048_p1.png",
+          "source": "bandai"
+        }
+      ]
+    },
+    {
+      "number": "OP16-049",
+      "name": "Portgas.D.Ace",
+      "category": "Character",
+      "cost": 3,
+      "counter": 1000,
+      "attributes": [
+        "Special"
+      ],
+      "colors": [
+        "Blue"
+      ],
+      "types": [
+        "Impel Down",
+        "Whitebeard Pirates"
+      ],
+      "printings": [
+        {
+          "id": "OP16-049",
+          "set": "OP16",
+          "rarity": "C",
+          "block": "5",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP16-049.png",
+          "source": "bandai"
+        }
+      ]
+    },
+    {
+      "number": "OP16-050",
+      "name": "Miss Olive",
+      "category": "Character",
+      "cost": 5,
+      "power": 6000,
+      "counter": 1000,
+      "attributes": [
+        "Wisdom"
+      ],
+      "colors": [
+        "Blue"
+      ],
+      "types": [
+        "Impel Down"
+      ],
+      "printings": [
+        {
+          "id": "OP16-050",
+          "set": "OP16",
+          "rarity": "UC",
+          "block": "5",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP16-050.png",
+          "source": "bandai"
+        }
+      ]
+    },
+    {
+      "number": "OP16-051",
+      "name": "Mohji & Cabaji",
+      "category": "Character",
+      "cost": 6,
+      "power": 7000,
+      "counter": 1000,
+      "attributes": [
+        "Slash",
+        "Wisdom"
+      ],
+      "colors": [
+        "Blue"
+      ],
+      "types": [
+        "Cross Guild"
+      ],
+      "printings": [
+        {
+          "id": "OP16-051",
+          "set": "OP16",
+          "rarity": "C",
+          "block": "5",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP16-051.png",
+          "source": "bandai"
+        }
+      ]
+    },
+    {
+      "number": "OP16-052",
+      "name": "Monkey.D.Luffy",
+      "category": "Character",
+      "cost": 2,
+      "power": 3000,
+      "counter": 1000,
+      "attributes": [
+        "Strike"
+      ],
+      "colors": [
+        "Blue"
+      ],
+      "types": [
+        "Impel Down",
+        "Straw Hat Crew"
+      ],
+      "printings": [
+        {
+          "id": "OP16-052",
+          "set": "OP16",
+          "rarity": "UC",
+          "block": "5",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP16-052.png",
+          "source": "bandai"
+        }
+      ]
+    },
+    {
+      "number": "OP16-053",
+      "name": "Roronoa Zoro",
+      "category": "Character",
+      "cost": 7,
+      "power": 9000,
+      "attributes": [
+        "Slash"
+      ],
+      "colors": [
+        "Blue"
+      ],
+      "types": [
+        "Dressrosa",
+        "Supernovas",
+        "Straw Hat Crew"
+      ],
+      "printings": [
+        {
+          "id": "OP16-053",
+          "set": "OP16",
+          "rarity": "C",
+          "block": "5",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP16-053.png",
+          "source": "bandai"
+        }
+      ]
+    },
+    {
+      "number": "OP16-054",
+      "name": "Mr.1(Daz.Bonez)",
+      "category": "Character",
+      "cost": 2,
+      "power": 2000,
+      "counter": 1000,
+      "attributes": [
+        "Slash"
+      ],
+      "colors": [
+        "Blue"
+      ],
+      "types": [
+        "Impel Down",
+        "Former Baroque Works"
+      ],
+      "printings": [
+        {
+          "id": "OP16-054",
+          "set": "OP16",
+          "rarity": "R",
+          "block": "5",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP16-054.png",
+          "source": "bandai"
+        }
+      ]
+    },
+    {
+      "number": "OP16-055",
+      "name": "Mr.2.Bon.Kurei(Bentham)",
+      "category": "Character",
+      "cost": 2,
+      "power": 1000,
+      "attributes": [
+        "Strike"
+      ],
+      "colors": [
+        "Blue"
+      ],
+      "types": [
+        "Impel Down",
+        "Former Baroque Works"
+      ],
+      "printings": [
+        {
+          "id": "OP16-055",
+          "set": "OP16",
+          "rarity": "R",
+          "block": "5",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP16-055.png",
+          "source": "bandai"
+        },
+        {
+          "id": "OP16-055_p1",
+          "set": "OP16",
+          "rarity": "R",
+          "block": "5",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP16-055_p1.png",
+          "source": "bandai"
+        }
+      ]
+    },
+    {
+      "number": "OP16-056",
+      "name": "Mr.3(Galdino)",
+      "category": "Character",
+      "cost": 4,
+      "power": 5000,
+      "counter": 1000,
+      "attributes": [
+        "Special"
+      ],
+      "colors": [
+        "Blue"
+      ],
+      "types": [
+        "Impel Down",
+        "Former Baroque Works"
+      ],
+      "printings": [
+        {
+          "id": "OP16-056",
+          "set": "OP16",
+          "rarity": "SR",
+          "block": "5",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP16-056.png",
+          "source": "bandai"
+        },
+        {
+          "id": "OP16-056_p1",
+          "set": "OP16",
+          "rarity": "SR",
+          "block": "5",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP16-056_p1.png",
+          "source": "bandai"
+        }
+      ]
+    },
+    {
+      "number": "OP16-057",
+      "name": "Captain Buggy's Our Savior!!",
+      "category": "Event",
+      "cost": 1,
+      "colors": [
+        "Blue"
+      ],
+      "types": [
+        "Impel Down"
+      ],
+      "printings": [
+        {
+          "id": "OP16-057",
+          "set": "OP16",
+          "rarity": "C",
+          "block": "5",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP16-057.png",
+          "source": "bandai"
+        }
+      ]
+    },
+    {
+      "number": "OP16-058",
+      "name": "The Prisoners Are Rioting!!",
+      "category": "Event",
+      "cost": 1,
+      "colors": [
+        "Blue"
+      ],
+      "types": [
+        "Impel Down"
+      ],
+      "printings": [
+        {
+          "id": "OP16-058",
+          "set": "OP16",
+          "rarity": "R",
+          "block": "5",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP16-058.png",
+          "source": "bandai"
+        }
+      ]
+    },
+    {
+      "number": "OP16-059",
+      "name": "We'll Change This Mission from Sneaky to Flashy!",
+      "category": "Event",
+      "cost": 1,
+      "colors": [
+        "Blue"
+      ],
+      "types": [
+        "Impel Down",
+        "Buggy Pirates"
+      ],
+      "printings": [
+        {
+          "id": "OP16-059",
+          "set": "OP16",
+          "rarity": "UC",
+          "block": "5",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP16-059.png",
+          "source": "bandai"
+        }
+      ]
+    },
+    {
+      "number": "OP16-060",
+      "name": "Sengoku",
+      "category": "Leader",
+      "power": 5000,
+      "life": 5,
+      "attributes": [
+        "Wisdom"
+      ],
+      "colors": [
+        "Purple"
+      ],
+      "types": [
+        "Navy"
+      ],
+      "printings": [
+        {
+          "id": "OP16-060",
+          "set": "OP16",
+          "rarity": "L",
+          "block": "5",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP16-060.png",
+          "source": "bandai"
+        },
+        {
+          "id": "OP16-060_p1",
+          "set": "OP16",
+          "rarity": "L",
+          "block": "5",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP16-060_p1.png",
+          "source": "bandai"
+        }
+      ]
+    },
+    {
+      "number": "OP16-061",
+      "name": "Older Brother Marine",
+      "category": "Character",
+      "cost": 5,
+      "power": 7000,
+      "counter": 1000,
+      "attributes": [
+        "Ranged"
+      ],
+      "colors": [
+        "Purple"
+      ],
+      "types": [
+        "Navy"
+      ],
+      "printings": [
+        {
+          "id": "OP16-061",
+          "set": "OP16",
+          "rarity": "C",
+          "block": "5",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP16-061.png",
+          "source": "bandai"
+        }
+      ]
+    },
+    {
+      "number": "OP16-062",
+      "name": "Younger Brother Marine",
+      "category": "Character",
+      "cost": 5,
+      "power": 6000,
+      "counter": 2000,
+      "attributes": [
+        "Ranged"
+      ],
+      "colors": [
+        "Purple"
+      ],
+      "types": [
+        "Navy"
+      ],
+      "printings": [
+        {
+          "id": "OP16-062",
+          "set": "OP16",
+          "rarity": "C",
+          "block": "5",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP16-062.png",
+          "source": "bandai"
+        }
+      ]
+    },
+    {
+      "number": "OP16-063",
+      "name": "Kuzan",
+      "category": "Character",
+      "cost": 7,
+      "power": 8000,
+      "attributes": [
+        "Special"
+      ],
+      "colors": [
+        "Purple"
+      ],
+      "types": [
+        "Admiral",
+        "Navy"
+      ],
+      "printings": [
+        {
+          "id": "OP16-063",
+          "set": "OP16",
+          "rarity": "R",
+          "block": "X",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP16-063.png",
+          "source": "bandai"
+        },
+        {
+          "id": "OP16-063_p1",
+          "set": "OP16",
+          "rarity": "R",
+          "block": "X",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP16-063_p1.png",
+          "source": "bandai"
+        },
+        {
+          "id": "OP16-063_p2",
+          "set": "OP16",
+          "rarity": "R",
+          "block": "X",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP16-063_p2.png",
+          "source": "bandai"
+        }
+      ]
+    },
+    {
+      "number": "OP16-064",
+      "name": "Koby",
+      "category": "Character",
+      "cost": 1,
+      "power": 2000,
+      "counter": 1000,
+      "attributes": [
+        "Strike"
+      ],
+      "colors": [
+        "Purple"
+      ],
+      "types": [
+        "Navy"
+      ],
+      "printings": [
+        {
+          "id": "OP16-064",
+          "set": "OP16",
+          "rarity": "R",
+          "block": "5",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP16-064.png",
+          "source": "bandai"
+        }
+      ]
+    },
+    {
+      "number": "OP16-065",
+      "name": "Sakazuki",
+      "category": "Character",
+      "cost": 7,
+      "power": 8000,
+      "attributes": [
+        "Special"
+      ],
+      "colors": [
+        "Purple"
+      ],
+      "types": [
+        "Admiral",
+        "Navy"
+      ],
+      "printings": [
+        {
+          "id": "OP16-065",
+          "set": "OP16",
+          "rarity": "SR",
+          "block": "X",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP16-065.png",
+          "source": "bandai"
+        },
+        {
+          "id": "OP16-065_p1",
+          "set": "OP16",
+          "rarity": "SR",
+          "block": "X",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP16-065_p1.png",
+          "source": "bandai"
+        },
+        {
+          "id": "OP16-065_p2",
+          "set": "OP16",
+          "rarity": "SR",
+          "block": "X",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP16-065_p2.png",
+          "source": "bandai"
+        }
+      ]
+    },
+    {
+      "number": "OP16-066",
+      "name": "Sengoku",
+      "category": "Character",
+      "cost": 5,
+      "power": 5000,
+      "counter": 2000,
+      "attributes": [
+        "Wisdom"
+      ],
+      "colors": [
+        "Purple"
+      ],
+      "types": [
+        "Navy"
+      ],
+      "printings": [
+        {
+          "id": "OP16-066",
+          "set": "OP16",
+          "rarity": "UC",
+          "block": "5",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP16-066.png",
+          "source": "bandai"
+        }
+      ]
+    },
+    {
+      "number": "OP16-067",
+      "name": "Tsuru",
+      "category": "Character",
+      "cost": 1,
+      "power": 2000,
+      "counter": 2000,
+      "attributes": [
+        "Wisdom"
+      ],
+      "colors": [
+        "Purple"
+      ],
+      "types": [
+        "Navy"
+      ],
+      "printings": [
+        {
+          "id": "OP16-067",
+          "set": "OP16",
+          "rarity": "UC",
+          "block": "5",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP16-067.png",
+          "source": "bandai"
+        }
+      ]
+    },
+    {
+      "number": "OP16-068",
+      "name": "Trafalgar Law",
+      "category": "Character",
+      "cost": 4,
+      "power": 3000,
+      "counter": 1000,
+      "attributes": [
+        "Wisdom"
+      ],
+      "colors": [
+        "Purple"
+      ],
+      "types": [
+        "Donquixote Pirates"
+      ],
+      "printings": [
+        {
+          "id": "OP16-068",
+          "set": "OP16",
+          "rarity": "C",
+          "block": "5",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP16-068.png",
+          "source": "bandai"
+        }
+      ]
+    },
+    {
+      "number": "OP16-069",
+      "name": "Donquixote Doflamingo",
+      "category": "Character",
+      "cost": 7,
+      "power": 8000,
+      "attributes": [
+        "Special"
+      ],
+      "colors": [
+        "Purple"
+      ],
+      "types": [
+        "Donquixote Pirates"
+      ],
+      "printings": [
+        {
+          "id": "OP16-069",
+          "set": "OP16",
+          "rarity": "C",
+          "block": "5",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP16-069.png",
+          "source": "bandai"
+        }
+      ]
+    },
+    {
+      "number": "OP16-070",
+      "name": "Donquixote Rosinante",
+      "category": "Character",
+      "cost": 2,
+      "power": 1000,
+      "counter": 1000,
+      "attributes": [
+        "Special"
+      ],
+      "colors": [
+        "Purple"
+      ],
+      "types": [
+        "Navy",
+        "Donquixote Pirates"
+      ],
+      "printings": [
+        {
+          "id": "OP16-070",
+          "set": "OP16",
+          "rarity": "UC",
+          "block": "5",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP16-070.png",
+          "source": "bandai"
+        }
+      ]
+    },
+    {
+      "number": "OP16-071",
+      "name": "Benevolent King of the Waves",
+      "category": "Character",
+      "cost": 3,
+      "power": 5000,
+      "attributes": [
+        "Strike"
+      ],
+      "colors": [
+        "Purple"
+      ],
+      "types": [
+        "Navy"
+      ],
+      "printings": [
+        {
+          "id": "OP16-071",
+          "set": "OP16",
+          "rarity": "C",
+          "block": "5",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP16-071.png",
+          "source": "bandai"
+        }
+      ]
+    },
+    {
+      "number": "OP16-072",
+      "name": "Hannyabal",
+      "category": "Character",
+      "cost": 2,
+      "power": 3000,
+      "counter": 1000,
+      "attributes": [
+        "Slash"
+      ],
+      "colors": [
+        "Purple"
+      ],
+      "types": [
+        "Impel Down"
+      ],
+      "printings": [
+        {
+          "id": "OP16-072",
+          "set": "OP16",
+          "rarity": "C",
+          "block": "5",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP16-072.png",
+          "source": "bandai"
+        }
+      ]
+    },
+    {
+      "number": "OP16-073",
+      "name": "Borsalino",
+      "category": "Character",
+      "cost": 7,
+      "power": 8000,
+      "attributes": [
+        "Special"
+      ],
+      "colors": [
+        "Purple"
+      ],
+      "types": [
+        "Admiral",
+        "Navy"
+      ],
+      "printings": [
+        {
+          "id": "OP16-073",
+          "set": "OP16",
+          "rarity": "R",
+          "block": "X",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP16-073.png",
+          "source": "bandai"
+        },
+        {
+          "id": "OP16-073_p1",
+          "set": "OP16",
+          "rarity": "R",
+          "block": "X",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP16-073_p1.png",
+          "source": "bandai"
+        },
+        {
+          "id": "OP16-073_p2",
+          "set": "OP16",
+          "rarity": "R",
+          "block": "X",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP16-073_p2.png",
+          "source": "bandai"
+        }
+      ]
+    },
+    {
+      "number": "OP16-074",
+      "name": "Magellan",
+      "category": "Character",
+      "cost": 8,
+      "power": 10000,
+      "attributes": [
+        "Special"
+      ],
+      "colors": [
+        "Purple"
+      ],
+      "types": [
+        "Impel Down"
+      ],
+      "printings": [
+        {
+          "id": "OP16-074",
+          "set": "OP16",
+          "rarity": "C",
+          "block": "5",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP16-074.png",
+          "source": "bandai"
+        }
+      ]
+    },
+    {
+      "number": "OP16-075",
+      "name": "Monkey.D.Garp",
+      "category": "Character",
+      "cost": 5,
+      "power": 6000,
+      "counter": 1000,
+      "attributes": [
+        "Strike"
+      ],
+      "colors": [
+        "Purple"
+      ],
+      "types": [
+        "Navy"
+      ],
+      "printings": [
+        {
+          "id": "OP16-075",
+          "set": "OP16",
+          "rarity": "C",
+          "block": "5",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP16-075.png",
+          "source": "bandai"
+        }
+      ]
+    },
+    {
+      "number": "OP16-076",
+      "name": "The Three Admirals!!",
+      "category": "Event",
+      "cost": 1,
+      "colors": [
+        "Purple"
+      ],
+      "types": [
+        "Admiral",
+        "Navy"
+      ],
+      "printings": [
+        {
+          "id": "OP16-076",
+          "set": "OP16",
+          "rarity": "UC",
+          "block": "5",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP16-076.png",
+          "source": "bandai"
+        }
+      ]
+    },
+    {
+      "number": "OP16-077",
+      "name": "\"Buddha\" Sengoku",
+      "category": "Event",
+      "cost": 1,
+      "colors": [
+        "Purple"
+      ],
+      "types": [
+        "Navy"
+      ],
+      "printings": [
+        {
+          "id": "OP16-077",
+          "set": "OP16",
+          "rarity": "R",
+          "block": "5",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP16-077.png",
+          "source": "bandai"
+        }
+      ]
+    },
+    {
+      "number": "OP16-078",
+      "name": "Marineford",
+      "category": "Stage",
+      "cost": 1,
+      "colors": [
+        "Purple"
+      ],
+      "types": [
+        "Navy"
+      ],
+      "printings": [
+        {
+          "id": "OP16-078",
+          "set": "OP16",
+          "rarity": "UC",
+          "block": "5",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP16-078.png",
+          "source": "bandai"
+        }
+      ]
+    },
+    {
+      "number": "OP16-079",
+      "name": "Yamato",
+      "category": "Leader",
+      "power": 5000,
+      "life": 5,
+      "attributes": [
+        "Strike"
+      ],
+      "colors": [
+        "Black"
+      ],
+      "types": [
+        "Land of Wano"
+      ],
+      "printings": [
+        {
+          "id": "OP16-079",
+          "set": "OP16",
+          "rarity": "L",
+          "block": "5",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP16-079.png",
+          "source": "bandai"
+        },
+        {
+          "id": "OP16-079_p1",
+          "set": "OP16",
+          "rarity": "L",
+          "block": "5",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP16-079_p1.png",
+          "source": "bandai"
+        }
+      ]
+    },
+    {
+      "number": "OP16-080",
+      "name": "Marshall.D.Teach",
+      "category": "Leader",
+      "power": 5000,
+      "life": 4,
+      "attributes": [
+        "Special"
+      ],
+      "colors": [
+        "Black",
+        "Yellow"
+      ],
+      "types": [
+        "The Seven Warlords of the Sea",
+        "Blackbeard Pirates"
+      ],
+      "printings": [
+        {
+          "id": "OP16-080",
+          "set": "OP16",
+          "rarity": "L",
+          "block": "5",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP16-080.png",
+          "source": "bandai"
+        },
+        {
+          "id": "OP16-080_p1",
+          "set": "OP16",
+          "rarity": "L",
+          "block": "5",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP16-080_p1.png",
+          "source": "bandai"
+        }
+      ]
+    },
+    {
+      "number": "OP16-081",
+      "name": "Otama",
+      "category": "Character",
+      "cost": 2,
+      "counter": 2000,
+      "attributes": [
+        "Special"
+      ],
+      "colors": [
+        "Black"
+      ],
+      "types": [
+        "Land of Wano"
+      ],
+      "printings": [
+        {
+          "id": "OP16-081",
+          "set": "OP16",
+          "rarity": "C",
+          "block": "5",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP16-081.png",
+          "source": "bandai"
+        }
+      ]
+    },
+    {
+      "number": "OP16-082",
+      "name": "Kin'emon",
+      "category": "Character",
+      "cost": 4,
+      "power": 6000,
+      "attributes": [
+        "Slash"
+      ],
+      "colors": [
+        "Black"
+      ],
+      "types": [
+        "Land of Wano",
+        "The Akazaya Nine"
+      ],
+      "printings": [
+        {
+          "id": "OP16-082",
+          "set": "OP16",
+          "rarity": "SR",
+          "block": "5",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP16-082.png",
+          "source": "bandai"
+        },
+        {
+          "id": "OP16-082_p1",
+          "set": "OP16",
+          "rarity": "SR",
+          "block": "5",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP16-082_p1.png",
+          "source": "bandai"
+        }
+      ]
+    },
+    {
+      "number": "OP16-083",
+      "name": "Kouzuki Oden",
+      "category": "Character",
+      "cost": 5,
+      "power": 6000,
+      "counter": 1000,
+      "attributes": [
+        "Slash"
+      ],
+      "colors": [
+        "Black"
+      ],
+      "types": [
+        "Land of Wano",
+        "Kouzuki Clan"
+      ],
+      "printings": [
+        {
+          "id": "OP16-083",
+          "set": "OP16",
+          "rarity": "C",
+          "block": "5",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP16-083.png",
+          "source": "bandai"
+        }
+      ]
+    },
+    {
+      "number": "OP16-084",
+      "name": "Kouzuki Momonosuke",
+      "category": "Character",
+      "cost": 5,
+      "counter": 2000,
+      "attributes": [
+        "Slash"
+      ],
+      "colors": [
+        "Black"
+      ],
+      "types": [
+        "Land of Wano",
+        "Kouzuki Clan"
+      ],
+      "printings": [
+        {
+          "id": "OP16-084",
+          "set": "OP16",
+          "rarity": "UC",
+          "block": "5",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP16-084.png",
+          "source": "bandai"
+        }
+      ]
+    },
+    {
+      "number": "OP16-085",
+      "name": "Kouzuki Momonosuke",
+      "category": "Character",
+      "cost": 9,
+      "power": 6000,
+      "counter": 1000,
+      "attributes": [
+        "Special"
+      ],
+      "colors": [
+        "Black"
+      ],
+      "types": [
+        "Land of Wano",
+        "Kouzuki Clan"
+      ],
+      "printings": [
+        {
+          "id": "OP16-085",
+          "set": "OP16",
+          "rarity": "R",
+          "block": "5",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP16-085.png",
+          "source": "bandai"
+        },
+        {
+          "id": "OP16-085_p1",
+          "set": "OP16",
+          "rarity": "R",
+          "block": "5",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP16-085_p1.png",
+          "source": "bandai"
+        }
+      ]
+    },
+    {
+      "number": "OP16-086",
+      "name": "Sanji",
+      "category": "Character",
+      "cost": 8,
+      "power": 9000,
+      "counter": 2000,
+      "attributes": [
+        "Strike"
+      ],
+      "colors": [
+        "Black"
+      ],
+      "types": [
+        "Land of Wano",
+        "Straw Hat Crew"
+      ],
+      "printings": [
+        {
+          "id": "OP16-086",
+          "set": "OP16",
+          "rarity": "C",
+          "block": "5",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP16-086.png",
+          "source": "bandai"
+        }
+      ]
+    },
+    {
+      "number": "OP16-087",
+      "name": "Shinobu",
+      "category": "Character",
+      "cost": 2,
+      "power": 1000,
+      "counter": 2000,
+      "attributes": [
+        "Special"
+      ],
+      "colors": [
+        "Black"
+      ],
+      "types": [
+        "Land of Wano"
+      ],
+      "printings": [
+        {
+          "id": "OP16-087",
+          "set": "OP16",
+          "rarity": "UC",
+          "block": "5",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP16-087.png",
+          "source": "bandai"
+        }
+      ]
+    },
+    {
+      "number": "OP16-088",
+      "name": "Shimotsuki Ushimaru",
+      "category": "Character",
+      "cost": 2,
+      "power": 2000,
+      "counter": 1000,
+      "attributes": [
+        "Slash"
+      ],
+      "colors": [
+        "Black"
+      ],
+      "types": [
+        "Land of Wano"
+      ],
+      "printings": [
+        {
+          "id": "OP16-088",
+          "set": "OP16",
+          "rarity": "C",
+          "block": "5",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP16-088.png",
+          "source": "bandai"
+        }
+      ]
+    },
+    {
+      "number": "OP16-089",
+      "name": "Dracule Mihawk",
+      "category": "Character",
+      "cost": 6,
+      "power": 8000,
+      "attributes": [
+        "Slash"
+      ],
+      "colors": [
+        "Black"
+      ],
+      "types": [
+        "The Seven Warlords of the Sea"
+      ],
+      "printings": [
+        {
+          "id": "OP16-089",
+          "set": "OP16",
+          "rarity": "C",
+          "block": "5",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP16-089.png",
+          "source": "bandai"
+        }
+      ]
+    },
+    {
+      "number": "OP16-090",
+      "name": "Tony Tony.Chopper",
+      "category": "Character",
+      "cost": 3,
+      "power": 4000,
+      "counter": 1000,
+      "attributes": [
+        "Strike"
+      ],
+      "colors": [
+        "Black"
+      ],
+      "types": [
+        "Animal",
+        "Land of Wano",
+        "Straw Hat Crew"
+      ],
+      "printings": [
+        {
+          "id": "OP16-090",
+          "set": "OP16",
+          "rarity": "C",
+          "block": "5",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP16-090.png",
+          "source": "bandai"
+        }
+      ]
+    },
+    {
+      "number": "OP16-091",
+      "name": "Nami",
+      "category": "Character",
+      "cost": 1,
+      "power": 2000,
+      "counter": 1000,
+      "attributes": [
+        "Special"
+      ],
+      "colors": [
+        "Black"
+      ],
+      "types": [
+        "Land of Wano",
+        "Straw Hat Crew"
+      ],
+      "printings": [
+        {
+          "id": "OP16-091",
+          "set": "OP16",
+          "rarity": "R",
+          "block": "5",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP16-091.png",
+          "source": "bandai"
+        }
+      ]
+    },
+    {
+      "number": "OP16-092",
+      "name": "Nico Robin",
+      "category": "Character",
+      "cost": 1,
+      "power": 2000,
+      "counter": 1000,
+      "attributes": [
+        "Strike"
+      ],
+      "colors": [
+        "Black"
+      ],
+      "types": [
+        "Land of Wano",
+        "Straw Hat Crew"
+      ],
+      "printings": [
+        {
+          "id": "OP16-092",
+          "set": "OP16",
+          "rarity": "UC",
+          "block": "5",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP16-092.png",
+          "source": "bandai"
+        }
+      ]
+    },
+    {
+      "number": "OP16-093",
+      "name": "Bartholomew Kuma",
+      "category": "Character",
+      "cost": 3,
+      "power": 4000,
+      "counter": 1000,
+      "attributes": [
+        "Strike"
+      ],
+      "colors": [
+        "Black"
+      ],
+      "types": [
+        "The Seven Warlords of the Sea",
+        "Revolutionary Army"
+      ],
+      "printings": [
+        {
+          "id": "OP16-093",
+          "set": "OP16",
+          "rarity": "C",
+          "block": "5",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP16-093.png",
+          "source": "bandai"
+        }
+      ]
+    },
+    {
+      "number": "OP16-094",
+      "name": "Portgas.D.Ace",
+      "category": "Character",
+      "cost": 4,
+      "power": 5000,
+      "counter": 1000,
+      "attributes": [
+        "Special"
+      ],
+      "colors": [
+        "Black"
+      ],
+      "types": [
+        "Land of Wano",
+        "Spade Pirates"
+      ],
+      "printings": [
+        {
+          "id": "OP16-094",
+          "set": "OP16",
+          "rarity": "UC",
+          "block": "5",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP16-094.png",
+          "source": "bandai"
+        }
+      ]
+    },
+    {
+      "number": "OP16-095",
+      "name": "Monkey.D.Luffy",
+      "category": "Character",
+      "cost": 2,
+      "power": 2000,
+      "counter": 2000,
+      "attributes": [
+        "Strike"
+      ],
+      "colors": [
+        "Black"
+      ],
+      "types": [
+        "Land of Wano",
+        "Straw Hat Crew"
+      ],
+      "printings": [
+        {
+          "id": "OP16-095",
+          "set": "OP16",
+          "rarity": "R",
+          "block": "5",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP16-095.png",
+          "source": "bandai"
+        }
+      ]
+    },
+    {
+      "number": "OP16-096",
+      "name": "Yamato",
+      "category": "Character",
+      "cost": 8,
+      "power": 8000,
+      "counter": 1000,
+      "attributes": [
+        "Special"
+      ],
+      "colors": [
+        "Black"
+      ],
+      "types": [
+        "Land of Wano"
+      ],
+      "printings": [
+        {
+          "id": "OP16-096",
+          "set": "OP16",
+          "rarity": "R",
+          "block": "5",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP16-096.png",
+          "source": "bandai"
+        }
+      ]
+    },
+    {
+      "number": "OP16-097",
+      "name": "Yamato",
+      "category": "Character",
+      "cost": 8,
+      "power": 8000,
+      "attributes": [
+        "Strike"
+      ],
+      "colors": [
+        "Black"
+      ],
+      "types": [
+        "Land of Wano"
+      ],
+      "printings": [
+        {
+          "id": "OP16-097",
+          "set": "OP16",
+          "rarity": "R",
+          "block": "5",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP16-097.png",
+          "source": "bandai"
+        }
+      ]
+    },
+    {
+      "number": "OP16-098",
+      "name": "Yamato",
+      "category": "Character",
+      "cost": 6,
+      "power": 5000,
+      "counter": 1000,
+      "attributes": [
+        "Strike"
+      ],
+      "colors": [
+        "Black"
+      ],
+      "types": [
+        "Land of Wano"
+      ],
+      "printings": [
+        {
+          "id": "OP16-098",
+          "set": "OP16",
+          "rarity": "SR",
+          "block": "5",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP16-098.png",
+          "source": "bandai"
+        },
+        {
+          "id": "OP16-098_p1",
+          "set": "OP16",
+          "rarity": "SR",
+          "block": "5",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP16-098_p1.png",
+          "source": "bandai"
+        },
+        {
+          "id": "OP16-098_p2",
+          "set": "OP17",
+          "rarity": "SP CARD",
+          "block": "5",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP16-098_p2.png",
+          "source": "bandai"
+        }
+      ]
+    },
+    {
+      "number": "OP16-099",
+      "name": "I've Come Here... To Cut Those Chains!!!",
+      "category": "Event",
+      "cost": 1,
+      "colors": [
+        "Black"
+      ],
+      "types": [
+        "Land of Wano"
+      ],
+      "printings": [
+        {
+          "id": "OP16-099",
+          "set": "OP16",
+          "rarity": "UC",
+          "block": "5",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP16-099.png",
+          "source": "bandai"
+        }
+      ]
+    },
+    {
+      "number": "OP16-100",
+      "name": "Hallowed Glacier Slash",
+      "category": "Event",
+      "cost": 1,
+      "colors": [
+        "Black"
+      ],
+      "types": [
+        "Land of Wano"
+      ],
+      "printings": [
+        {
+          "id": "OP16-100",
+          "set": "OP16",
+          "rarity": "C",
+          "block": "5",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP16-100.png",
+          "source": "bandai"
+        }
+      ]
+    },
+    {
+      "number": "OP16-101",
+      "name": "Mahoroba",
+      "category": "Event",
+      "cost": 2,
+      "colors": [
+        "Black"
+      ],
+      "types": [
+        "Land of Wano"
+      ],
+      "printings": [
+        {
+          "id": "OP16-101",
+          "set": "OP16",
+          "rarity": "C",
+          "block": "5",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP16-101.png",
+          "source": "bandai"
+        }
+      ]
+    },
+    {
+      "number": "OP16-102",
+      "name": "Avalo Pizarro",
+      "category": "Character",
+      "cost": 1,
+      "power": 2000,
+      "counter": 2000,
+      "attributes": [
+        "Special"
+      ],
+      "colors": [
+        "Yellow"
+      ],
+      "types": [
+        "Impel Down",
+        "Blackbeard Pirates"
+      ],
+      "printings": [
+        {
+          "id": "OP16-102",
+          "set": "OP16",
+          "rarity": "UC",
+          "block": "5",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP16-102.png",
+          "source": "bandai"
+        }
+      ]
+    },
+    {
+      "number": "OP16-103",
+      "name": "Van Augur",
+      "category": "Character",
+      "cost": 1,
+      "power": 2000,
+      "counter": 1000,
+      "attributes": [
+        "Ranged"
+      ],
+      "colors": [
+        "Yellow"
+      ],
+      "types": [
+        "Blackbeard Pirates"
+      ],
+      "printings": [
+        {
+          "id": "OP16-103",
+          "set": "OP16",
+          "rarity": "UC",
+          "block": "5",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP16-103.png",
+          "source": "bandai"
+        }
+      ]
+    },
+    {
+      "number": "OP16-104",
+      "name": "Catarina Devon",
+      "category": "Character",
+      "cost": 4,
+      "power": 3000,
+      "counter": 2000,
+      "attributes": [
+        "Special"
+      ],
+      "colors": [
+        "Yellow"
+      ],
+      "types": [
+        "Impel Down",
+        "Blackbeard Pirates"
+      ],
+      "printings": [
+        {
+          "id": "OP16-104",
+          "set": "OP16",
+          "rarity": "R",
+          "block": "5",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP16-104.png",
+          "source": "bandai"
+        }
+      ]
+    },
+    {
+      "number": "OP16-105",
+      "name": "Gecko Moria",
+      "category": "Character",
+      "cost": 6,
+      "power": 7000,
+      "counter": 1000,
+      "attributes": [
+        "Special"
+      ],
+      "colors": [
+        "Yellow"
+      ],
+      "types": [
+        "The Seven Warlords of the Sea",
+        "Thriller Bark Pirates"
+      ],
+      "printings": [
+        {
+          "id": "OP16-105",
+          "set": "OP16",
+          "rarity": "C",
+          "block": "5",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP16-105.png",
+          "source": "bandai"
+        }
+      ]
+    },
+    {
+      "number": "OP16-106",
+      "name": "Sanjuan.Wolf",
+      "category": "Character",
+      "cost": 4,
+      "power": 5000,
+      "counter": 1000,
+      "attributes": [
+        "Strike"
+      ],
+      "colors": [
+        "Yellow"
+      ],
+      "types": [
+        "Giant",
+        "Impel Down",
+        "Blackbeard Pirates"
+      ],
+      "printings": [
+        {
+          "id": "OP16-106",
+          "set": "OP16",
+          "rarity": "R",
+          "block": "5",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP16-106.png",
+          "source": "bandai"
+        }
+      ]
+    },
+    {
+      "number": "OP16-107",
+      "name": "Jesus Burgess",
+      "category": "Character",
+      "cost": 3,
+      "power": 5000,
+      "attributes": [
+        "Strike"
+      ],
+      "colors": [
+        "Yellow"
+      ],
+      "types": [
+        "Blackbeard Pirates"
+      ],
+      "printings": [
+        {
+          "id": "OP16-107",
+          "set": "OP16",
+          "rarity": "C",
+          "block": "5",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP16-107.png",
+          "source": "bandai"
+        }
+      ]
+    },
+    {
+      "number": "OP16-108",
+      "name": "Shiryu",
+      "category": "Character",
+      "cost": 6,
+      "power": 8000,
+      "attributes": [
+        "Slash"
+      ],
+      "colors": [
+        "Yellow"
+      ],
+      "types": [
+        "Impel Down",
+        "Blackbeard Pirates"
+      ],
+      "printings": [
+        {
+          "id": "OP16-108",
+          "set": "OP16",
+          "rarity": "SR",
+          "block": "5",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP16-108.png",
+          "source": "bandai"
+        },
+        {
+          "id": "OP16-108_p1",
+          "set": "OP16",
+          "rarity": "SR",
+          "block": "5",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP16-108_p1.png",
+          "source": "bandai"
+        }
+      ]
+    },
+    {
+      "number": "OP16-109",
+      "name": "Doc Q",
+      "category": "Character",
+      "cost": 1,
+      "counter": 2000,
+      "attributes": [
+        "Special"
+      ],
+      "colors": [
+        "Yellow"
+      ],
+      "types": [
+        "Blackbeard Pirates"
+      ],
+      "printings": [
+        {
+          "id": "OP16-109",
+          "set": "OP16",
+          "rarity": "UC",
+          "block": "5",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP16-109.png",
+          "source": "bandai"
+        }
+      ]
+    },
+    {
+      "number": "OP16-110",
+      "name": "Vasco Shot",
+      "category": "Character",
+      "cost": 1,
+      "power": 2000,
+      "counter": 1000,
+      "attributes": [
+        "Special"
+      ],
+      "colors": [
+        "Yellow"
+      ],
+      "types": [
+        "Impel Down",
+        "Blackbeard Pirates"
+      ],
+      "printings": [
+        {
+          "id": "OP16-110",
+          "set": "OP16",
+          "rarity": "R",
+          "block": "5",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP16-110.png",
+          "source": "bandai"
+        }
+      ]
+    },
+    {
+      "number": "OP16-111",
+      "name": "Boa Sandersonia",
+      "category": "Character",
+      "cost": 4,
+      "power": 5000,
+      "attributes": [
+        "Strike"
+      ],
+      "colors": [
+        "Yellow"
+      ],
+      "types": [
+        "Kuja Pirates"
+      ],
+      "printings": [
+        {
+          "id": "OP16-111",
+          "set": "OP16",
+          "rarity": "C",
+          "block": "5",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP16-111.png",
+          "source": "bandai"
+        }
+      ]
+    },
+    {
+      "number": "OP16-112",
+      "name": "Boa Hancock",
+      "category": "Character",
+      "cost": 6,
+      "power": 8000,
+      "counter": 1000,
+      "attributes": [
+        "Special"
+      ],
+      "colors": [
+        "Yellow"
+      ],
+      "types": [
+        "Kuja Pirates"
+      ],
+      "printings": [
+        {
+          "id": "OP16-112",
+          "set": "OP16",
+          "rarity": "C",
+          "block": "5",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP16-112.png",
+          "source": "bandai"
+        }
+      ]
+    },
+    {
+      "number": "OP16-113",
+      "name": "Boa Marigold",
+      "category": "Character",
+      "cost": 5,
+      "power": 5000,
+      "counter": 1000,
+      "attributes": [
+        "Slash"
+      ],
+      "colors": [
+        "Yellow"
+      ],
+      "types": [
+        "Kuja Pirates"
+      ],
+      "printings": [
+        {
+          "id": "OP16-113",
+          "set": "OP16",
+          "rarity": "UC",
+          "block": "5",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP16-113.png",
+          "source": "bandai"
+        }
+      ]
+    },
+    {
+      "number": "OP16-114",
+      "name": "Laffitte",
+      "category": "Character",
+      "cost": 1,
+      "power": 2000,
+      "counter": 1000,
+      "attributes": [
+        "Strike"
+      ],
+      "colors": [
+        "Yellow"
+      ],
+      "types": [
+        "Blackbeard Pirates"
+      ],
+      "printings": [
+        {
+          "id": "OP16-114",
+          "set": "OP16",
+          "rarity": "C",
+          "block": "5",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP16-114.png",
+          "source": "bandai"
+        }
+      ]
+    },
+    {
+      "number": "OP16-115",
+      "name": "Black Vortex",
+      "category": "Event",
+      "cost": 1,
+      "colors": [
+        "Yellow"
+      ],
+      "types": [
+        "The Seven Warlords of the Sea",
+        "Blackbeard Pirates"
+      ],
+      "printings": [
+        {
+          "id": "OP16-115",
+          "set": "OP16",
+          "rarity": "UC",
+          "block": "5",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP16-115.png",
+          "source": "bandai"
+        }
+      ]
+    },
+    {
+      "number": "OP16-116",
+      "name": "Zehahahahaha!",
+      "category": "Event",
+      "cost": 8,
+      "colors": [
+        "Yellow"
+      ],
+      "types": [
+        "The Seven Warlords of the Sea",
+        "Blackbeard Pirates"
+      ],
+      "printings": [
+        {
+          "id": "OP16-116",
+          "set": "OP16",
+          "rarity": "R",
+          "block": "5",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP16-116.png",
+          "source": "bandai"
+        },
+        {
+          "id": "OP16-116_p1",
+          "set": "OP16",
+          "rarity": "R",
+          "block": "5",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP16-116_p1.png",
+          "source": "bandai"
+        }
+      ]
+    },
+    {
+      "number": "OP16-117",
+      "name": "Black Hole",
+      "category": "Event",
+      "cost": 2,
+      "colors": [
+        "Yellow"
+      ],
+      "types": [
+        "The Seven Warlords of the Sea",
+        "Blackbeard Pirates"
+      ],
+      "printings": [
+        {
+          "id": "OP16-117",
+          "set": "OP16",
+          "rarity": "C",
+          "block": "5",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP16-117.png",
+          "source": "bandai"
+        }
+      ]
+    },
+    {
+      "number": "OP16-118",
+      "name": "Portgas.D.Ace",
+      "category": "Character",
+      "cost": 5,
+      "power": 6000,
+      "counter": 1000,
+      "attributes": [
+        "Special"
+      ],
+      "colors": [
+        "Red"
+      ],
+      "types": [
+        "Whitebeard Pirates"
+      ],
+      "printings": [
+        {
+          "id": "OP16-118",
+          "set": "OP16",
+          "rarity": "SEC",
+          "block": "5",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP16-118.png",
+          "source": "bandai"
+        },
+        {
+          "id": "OP16-118_p1",
+          "set": "OP16",
+          "rarity": "SEC",
+          "block": "5",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP16-118_p1.png",
+          "source": "bandai"
+        }
+      ]
+    },
+    {
+      "number": "OP16-119",
+      "name": "Marshall.D.Teach",
+      "category": "Character",
+      "cost": 8,
+      "power": 10000,
+      "attributes": [
+        "Special"
+      ],
+      "colors": [
+        "Yellow"
+      ],
+      "types": [
+        "The Seven Warlords of the Sea",
+        "Blackbeard Pirates"
+      ],
+      "printings": [
+        {
+          "id": "OP16-119",
+          "set": "OP16",
+          "rarity": "SEC",
+          "block": "5",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP16-119.png",
+          "source": "bandai"
+        },
+        {
+          "id": "OP16-119_p1",
+          "set": "OP16",
+          "rarity": "SEC",
+          "block": "5",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP16-119_p1.png",
+          "source": "bandai"
+        }
+      ]
+    }
+  ]
+}

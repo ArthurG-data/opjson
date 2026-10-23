@@ -1,0 +1,597 @@
+{
+  "cards": [
+    {
+      "number": "ST30-001",
+      "name": "Luffy & Ace",
+      "category": "Leader",
+      "power": 6000,
+      "life": 4,
+      "attributes": [
+        "Strike",
+        "Special"
+      ],
+      "colors": [
+        "Red",
+        "Green"
+      ],
+      "types": [
+        "Impel Down",
+        "Whitebeard Pirates",
+        "Straw Hat Crew"
+      ],
+      "printings": [
+        {
+          "id": "ST30-001",
+          "set": "ST30",
+          "rarity": "L",
+          "block": "5",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST30-001.png",
+          "source": "bandai"
+        },
+        {
+          "id": "ST30-001_p1",
+          "set": "ST30",
+          "rarity": "L",
+          "block": "5",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST30-001_p1.png",
+          "source": "bandai"
+        }
+      ]
+    },
+    {
+      "number": "ST30-002",
+      "name": "Inazuma",
+      "category": "Character",
+      "cost": 1,
+      "power": 2000,
+      "counter": 1000,
+      "attributes": [
+        "Slash"
+      ],
+      "colors": [
+        "Red"
+      ],
+      "types": [
+        "Impel Down",
+        "Revolutionary Army"
+      ],
+      "printings": [
+        {
+          "id": "ST30-002",
+          "set": "ST30",
+          "rarity": "C",
+          "block": "5",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST30-002.png",
+          "source": "bandai"
+        },
+        {
+          "id": "ST30-002_p1",
+          "set": "ST30",
+          "rarity": "C",
+          "block": "5",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST30-002_p1.png",
+          "source": "bandai"
+        }
+      ]
+    },
+    {
+      "number": "ST30-003",
+      "name": "Edward.Newgate",
+      "category": "Character",
+      "cost": 8,
+      "power": 6000,
+      "counter": 1000,
+      "attributes": [
+        "Special"
+      ],
+      "colors": [
+        "Red"
+      ],
+      "types": [
+        "The Four Emperors",
+        "Whitebeard Pirates"
+      ],
+      "printings": [
+        {
+          "id": "ST30-003",
+          "set": "ST30",
+          "rarity": "C",
+          "block": "5",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST30-003.png",
+          "source": "bandai"
+        },
+        {
+          "id": "ST30-003_p1",
+          "set": "ST30",
+          "rarity": "C",
+          "block": "5",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST30-003_p1.png",
+          "source": "bandai"
+        }
+      ]
+    },
+    {
+      "number": "ST30-004",
+      "name": "Emporio.Ivankov",
+      "category": "Character",
+      "cost": 1,
+      "power": 2000,
+      "counter": 1000,
+      "attributes": [
+        "Special"
+      ],
+      "colors": [
+        "Red"
+      ],
+      "types": [
+        "Impel Down",
+        "Revolutionary Army"
+      ],
+      "printings": [
+        {
+          "id": "ST30-004",
+          "set": "ST30",
+          "rarity": "C",
+          "block": "5",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST30-004.png",
+          "source": "bandai"
+        },
+        {
+          "id": "ST30-004_p1",
+          "set": "ST30",
+          "rarity": "C",
+          "block": "5",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST30-004_p1.png",
+          "source": "bandai"
+        }
+      ]
+    },
+    {
+      "number": "ST30-005",
+      "name": "Jozu",
+      "category": "Character",
+      "cost": 5,
+      "power": 6000,
+      "counter": 2000,
+      "attributes": [
+        "Strike"
+      ],
+      "colors": [
+        "Red"
+      ],
+      "types": [
+        "Whitebeard Pirates"
+      ],
+      "printings": [
+        {
+          "id": "ST30-005",
+          "set": "ST30",
+          "rarity": "C",
+          "block": "5",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST30-005.png",
+          "source": "bandai"
+        },
+        {
+          "id": "ST30-005_p1",
+          "set": "ST30",
+          "rarity": "C",
+          "block": "5",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST30-005_p1.png",
+          "source": "bandai"
+        }
+      ]
+    },
+    {
+      "number": "ST30-006",
+      "name": "Jinbe",
+      "category": "Character",
+      "cost": 5,
+      "power": 6000,
+      "counter": 1000,
+      "attributes": [
+        "Strike"
+      ],
+      "colors": [
+        "Red"
+      ],
+      "types": [
+        "Fish-Man",
+        "Impel Down",
+        "The Sun Pirates"
+      ],
+      "printings": [
+        {
+          "id": "ST30-006",
+          "set": "ST30",
+          "rarity": "C",
+          "block": "5",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST30-006.png",
+          "source": "bandai"
+        },
+        {
+          "id": "ST30-006_p1",
+          "set": "ST30",
+          "rarity": "C",
+          "block": "5",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST30-006_p1.png",
+          "source": "bandai"
+        }
+      ]
+    },
+    {
+      "number": "ST30-007",
+      "name": "Portgas.D.Ace",
+      "category": "Character",
+      "cost": 4,
+      "power": 6000,
+      "attributes": [
+        "Special"
+      ],
+      "colors": [
+        "Red"
+      ],
+      "types": [
+        "Whitebeard Pirates"
+      ],
+      "printings": [
+        {
+          "id": "ST30-007",
+          "set": "ST30",
+          "rarity": "SR",
+          "block": "5",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST30-007.png",
+          "source": "bandai"
+        },
+        {
+          "id": "ST30-007_p1",
+          "set": "ST30",
+          "rarity": "SR",
+          "block": "5",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST30-007_p1.png",
+          "source": "bandai"
+        }
+      ]
+    },
+    {
+      "number": "ST30-008",
+      "name": "Marco",
+      "category": "Character",
+      "cost": 5,
+      "power": 6000,
+      "counter": 1000,
+      "attributes": [
+        "Special"
+      ],
+      "colors": [
+        "Red"
+      ],
+      "types": [
+        "Whitebeard Pirates"
+      ],
+      "printings": [
+        {
+          "id": "ST30-008",
+          "set": "ST30",
+          "rarity": "C",
+          "block": "5",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST30-008.png",
+          "source": "bandai"
+        },
+        {
+          "id": "ST30-008_p1",
+          "set": "ST30",
+          "rarity": "C",
+          "block": "5",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST30-008_p1.png",
+          "source": "bandai"
+        }
+      ]
+    },
+    {
+      "number": "ST30-009",
+      "name": "LittleOars Jr.",
+      "category": "Character",
+      "cost": 1,
+      "power": 2000,
+      "counter": 1000,
+      "attributes": [
+        "Strike"
+      ],
+      "colors": [
+        "Red"
+      ],
+      "types": [
+        "Giant",
+        "Whitebeard Pirates Allies"
+      ],
+      "printings": [
+        {
+          "id": "ST30-009",
+          "set": "ST30",
+          "rarity": "C",
+          "block": "5",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST30-009.png",
+          "source": "bandai"
+        },
+        {
+          "id": "ST30-009_p1",
+          "set": "ST30",
+          "rarity": "C",
+          "block": "5",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST30-009_p1.png",
+          "source": "bandai"
+        }
+      ]
+    },
+    {
+      "number": "ST30-010",
+      "name": "Crocodile",
+      "category": "Character",
+      "cost": 6,
+      "power": 6000,
+      "counter": 1000,
+      "attributes": [
+        "Special"
+      ],
+      "colors": [
+        "Green"
+      ],
+      "types": [
+        "Impel Down",
+        "Former Baroque Works"
+      ],
+      "printings": [
+        {
+          "id": "ST30-010",
+          "set": "ST30",
+          "rarity": "C",
+          "block": "5",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST30-010.png",
+          "source": "bandai"
+        },
+        {
+          "id": "ST30-010_p1",
+          "set": "ST30",
+          "rarity": "C",
+          "block": "5",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST30-010_p1.png",
+          "source": "bandai"
+        }
+      ]
+    },
+    {
+      "number": "ST30-011",
+      "name": "Buggy",
+      "category": "Character",
+      "cost": 2,
+      "power": 1000,
+      "counter": 1000,
+      "attributes": [
+        "Slash"
+      ],
+      "colors": [
+        "Green"
+      ],
+      "types": [
+        "Impel Down",
+        "Buggy Pirates"
+      ],
+      "printings": [
+        {
+          "id": "ST30-011",
+          "set": "ST30",
+          "rarity": "C",
+          "block": "5",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST30-011.png",
+          "source": "bandai"
+        },
+        {
+          "id": "ST30-011_p1",
+          "set": "ST30",
+          "rarity": "C",
+          "block": "5",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST30-011_p1.png",
+          "source": "bandai"
+        }
+      ]
+    },
+    {
+      "number": "ST30-012",
+      "name": "Monkey.D.Luffy",
+      "category": "Character",
+      "cost": 4,
+      "power": 6000,
+      "attributes": [
+        "Strike"
+      ],
+      "colors": [
+        "Green"
+      ],
+      "types": [
+        "Impel Down",
+        "Straw Hat Crew"
+      ],
+      "printings": [
+        {
+          "id": "ST30-012",
+          "set": "ST30",
+          "rarity": "SR",
+          "block": "5",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST30-012.png",
+          "source": "bandai"
+        },
+        {
+          "id": "ST30-012_p1",
+          "set": "ST30",
+          "rarity": "SR",
+          "block": "5",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST30-012_p1.png",
+          "source": "bandai"
+        }
+      ]
+    },
+    {
+      "number": "ST30-013",
+      "name": "Mr.2.Bon.Kurei(Bentham)",
+      "category": "Character",
+      "cost": 4,
+      "power": 6000,
+      "counter": 1000,
+      "attributes": [
+        "Strike"
+      ],
+      "colors": [
+        "Green"
+      ],
+      "types": [
+        "Impel Down",
+        "Former Baroque Works"
+      ],
+      "printings": [
+        {
+          "id": "ST30-013",
+          "set": "ST30",
+          "rarity": "C",
+          "block": "5",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST30-013.png",
+          "source": "bandai"
+        },
+        {
+          "id": "ST30-013_p1",
+          "set": "ST30",
+          "rarity": "C",
+          "block": "5",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST30-013_p1.png",
+          "source": "bandai"
+        }
+      ]
+    },
+    {
+      "number": "ST30-014",
+      "name": "Mr.3(Galdino)",
+      "category": "Character",
+      "cost": 2,
+      "power": 3000,
+      "counter": 2000,
+      "attributes": [
+        "Special"
+      ],
+      "colors": [
+        "Green"
+      ],
+      "types": [
+        "Impel Down",
+        "Former Baroque Works"
+      ],
+      "printings": [
+        {
+          "id": "ST30-014",
+          "set": "ST30",
+          "rarity": "C",
+          "block": "5",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST30-014.png",
+          "source": "bandai"
+        },
+        {
+          "id": "ST30-014_p1",
+          "set": "ST30",
+          "rarity": "C",
+          "block": "5",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST30-014_p1.png",
+          "source": "bandai"
+        }
+      ]
+    },
+    {
+      "number": "ST30-015",
+      "name": "The Name of This Era Is \"Whitebeard\"!!",
+      "category": "Event",
+      "cost": 1,
+      "colors": [
+        "Red"
+      ],
+      "types": [
+        "Whitebeard Pirates"
+      ],
+      "printings": [
+        {
+          "id": "ST30-015",
+          "set": "ST30",
+          "rarity": "C",
+          "block": "5",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST30-015.png",
+          "source": "bandai"
+        },
+        {
+          "id": "ST30-015_p1",
+          "set": "ST30",
+          "rarity": "C",
+          "block": "5",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST30-015_p1.png",
+          "source": "bandai"
+        }
+      ]
+    },
+    {
+      "number": "ST30-016",
+      "name": "Can You Still Fight, Luffy?! Of Course!!",
+      "category": "Event",
+      "cost": 1,
+      "colors": [
+        "Red"
+      ],
+      "types": [
+        "Whitebeard Pirates",
+        "Straw Hat Crew"
+      ],
+      "printings": [
+        {
+          "id": "ST30-016",
+          "set": "ST30",
+          "rarity": "C",
+          "block": "5",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST30-016.png",
+          "source": "bandai"
+        },
+        {
+          "id": "ST30-016_p1",
+          "set": "ST30",
+          "rarity": "C",
+          "block": "5",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST30-016_p1.png",
+          "source": "bandai"
+        }
+      ]
+    },
+    {
+      "number": "ST30-017",
+      "name": "And You Get Yourself in Big Trouble!!",
+      "category": "Event",
+      "cost": 1,
+      "colors": [
+        "Red"
+      ],
+      "types": [
+        "Whitebeard Pirates"
+      ],
+      "printings": [
+        {
+          "id": "ST30-017",
+          "set": "ST30",
+          "rarity": "C",
+          "block": "5",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST30-017.png",
+          "source": "bandai"
+        },
+        {
+          "id": "ST30-017_p1",
+          "set": "ST30",
+          "rarity": "C",
+          "block": "5",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST30-017_p1.png",
+          "source": "bandai"
+        }
+      ]
+    }
+  ]
+}

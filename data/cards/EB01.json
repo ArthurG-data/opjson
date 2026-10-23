@@ -1,0 +1,2099 @@
+{
+  "cards": [
+    {
+      "number": "EB01-001",
+      "name": "Kouzuki Oden",
+      "category": "Leader",
+      "power": 5000,
+      "life": 4,
+      "attributes": [
+        "Slash"
+      ],
+      "colors": [
+        "Red",
+        "Green"
+      ],
+      "types": [
+        "Land of Wano",
+        "Kouzuki Clan"
+      ],
+      "printings": [
+        {
+          "id": "EB01-001",
+          "set": "EB01",
+          "rarity": "L",
+          "block": "2",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/EB01-001.png",
+          "source": "bandai"
+        },
+        {
+          "id": "EB01-001_p1",
+          "set": "EB01",
+          "rarity": "L",
+          "block": "2",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/EB01-001_p1.png",
+          "source": "bandai"
+        },
+        {
+          "id": "EB01-001_p2",
+          "set": "EB02",
+          "rarity": "L",
+          "block": "2",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/EB01-001_p2.png",
+          "source": "bandai"
+        }
+      ]
+    },
+    {
+      "number": "EB01-002",
+      "name": "Izo",
+      "category": "Character",
+      "cost": 5,
+      "power": 7000,
+      "attributes": [
+        "Ranged"
+      ],
+      "colors": [
+        "Red"
+      ],
+      "types": [
+        "Land of Wano",
+        "Whitebeard Pirates"
+      ],
+      "printings": [
+        {
+          "id": "EB01-002",
+          "set": "EB01",
+          "rarity": "R",
+          "block": "2",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/EB01-002.png",
+          "source": "bandai"
+        }
+      ]
+    },
+    {
+      "number": "EB01-003",
+      "name": "Kid & Killer",
+      "category": "Character",
+      "cost": 4,
+      "power": 5000,
+      "attributes": [
+        "Slash",
+        "Special"
+      ],
+      "colors": [
+        "Red"
+      ],
+      "types": [
+        "Supernovas",
+        "Kid Pirates"
+      ],
+      "printings": [
+        {
+          "id": "EB01-003",
+          "set": "EB01",
+          "rarity": "R",
+          "block": "2",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/EB01-003.png",
+          "source": "bandai"
+        },
+        {
+          "id": "EB01-003_p1",
+          "set": "EB01",
+          "rarity": "R",
+          "block": "2",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/EB01-003_p1.png",
+          "source": "bandai"
+        },
+        {
+          "id": "EB01-003_p2",
+          "set": "P",
+          "rarity": "R",
+          "block": "2",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/EB01-003_p2.png",
+          "source": "bandai"
+        },
+        {
+          "id": "EB01-003_p3",
+          "set": "P",
+          "rarity": "R",
+          "block": "2",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/EB01-003_p3.png",
+          "source": "bandai"
+        },
+        {
+          "id": "EB01-003_p4",
+          "set": "P",
+          "rarity": "R",
+          "block": "2",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/EB01-003_p4.png",
+          "source": "bandai"
+        },
+        {
+          "id": "EB01-003_p5",
+          "set": "OP14-EB04",
+          "rarity": "SP CARD",
+          "block": "2",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/EB01-003_p5.png",
+          "source": "bandai"
+        }
+      ]
+    },
+    {
+      "number": "EB01-004",
+      "name": "Koza",
+      "category": "Character",
+      "cost": 2,
+      "power": 3000,
+      "counter": 1000,
+      "attributes": [
+        "Ranged"
+      ],
+      "colors": [
+        "Red"
+      ],
+      "types": [
+        "Alabasta"
+      ],
+      "printings": [
+        {
+          "id": "EB01-004",
+          "set": "EB01",
+          "rarity": "C",
+          "block": "2",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/EB01-004.png",
+          "source": "bandai"
+        }
+      ]
+    },
+    {
+      "number": "EB01-005",
+      "name": "Doma",
+      "category": "Character",
+      "cost": 1,
+      "power": 3000,
+      "counter": 1000,
+      "attributes": [
+        "Slash"
+      ],
+      "colors": [
+        "Red"
+      ],
+      "types": [
+        "Whitebeard Pirates Allies"
+      ],
+      "printings": [
+        {
+          "id": "EB01-005",
+          "set": "EB01",
+          "rarity": "C",
+          "block": "2",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/EB01-005.png",
+          "source": "bandai"
+        }
+      ]
+    },
+    {
+      "number": "EB01-006",
+      "name": "Tony Tony.Chopper",
+      "category": "Character",
+      "cost": 3,
+      "power": 4000,
+      "counter": 1000,
+      "attributes": [
+        "Strike"
+      ],
+      "colors": [
+        "Red"
+      ],
+      "types": [
+        "Animal",
+        "Straw Hat Crew"
+      ],
+      "printings": [
+        {
+          "id": "EB01-006",
+          "set": "EB01",
+          "rarity": "SR",
+          "block": "2",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/EB01-006.png",
+          "source": "bandai"
+        },
+        {
+          "id": "EB01-006_p1",
+          "set": "EB01",
+          "rarity": "SR",
+          "block": "2",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/EB01-006_p1.png",
+          "source": "bandai"
+        },
+        {
+          "id": "EB01-006_p2",
+          "set": "EB01",
+          "rarity": "SR",
+          "block": "2",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/EB01-006_p2.png",
+          "source": "bandai"
+        },
+        {
+          "id": "EB01-006_p3",
+          "set": "P",
+          "rarity": "SR",
+          "block": "2",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/EB01-006_p3.png",
+          "source": "bandai"
+        },
+        {
+          "id": "EB01-006_r1",
+          "set": "PRB01",
+          "rarity": "SR",
+          "block": "2",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/EB01-006_r1.png",
+          "source": "bandai"
+        }
+      ]
+    },
+    {
+      "number": "EB01-007",
+      "name": "Yamato",
+      "category": "Character",
+      "cost": 5,
+      "power": 5000,
+      "counter": 2000,
+      "attributes": [
+        "Strike"
+      ],
+      "colors": [
+        "Red"
+      ],
+      "types": [
+        "Land of Wano"
+      ],
+      "printings": [
+        {
+          "id": "EB01-007",
+          "set": "EB01",
+          "rarity": "C",
+          "block": "2",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/EB01-007.png",
+          "source": "bandai"
+        },
+        {
+          "id": "EB01-007_p1",
+          "set": "OTHER",
+          "rarity": "C",
+          "block": "2",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/EB01-007_p1.png",
+          "source": "bandai"
+        }
+      ]
+    },
+    {
+      "number": "EB01-008",
+      "name": "LittleOars Jr.",
+      "category": "Character",
+      "cost": 6,
+      "power": 7000,
+      "counter": 1000,
+      "attributes": [
+        "Strike"
+      ],
+      "colors": [
+        "Red"
+      ],
+      "types": [
+        "Giant",
+        "Whitebeard Pirates Allies"
+      ],
+      "printings": [
+        {
+          "id": "EB01-008",
+          "set": "EB01",
+          "rarity": "R",
+          "block": "2",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/EB01-008.png",
+          "source": "bandai"
+        }
+      ]
+    },
+    {
+      "number": "EB01-009",
+      "name": "Just Shut Up and Come with Us!!!!",
+      "category": "Event",
+      "cost": 1,
+      "colors": [
+        "Red"
+      ],
+      "types": [
+        "Drum Kingdom",
+        "Straw Hat Crew"
+      ],
+      "printings": [
+        {
+          "id": "EB01-009",
+          "set": "EB01",
+          "rarity": "C",
+          "block": "2",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/EB01-009.png",
+          "source": "bandai"
+        },
+        {
+          "id": "EB01-009_p1",
+          "set": "PRB02",
+          "rarity": "C",
+          "block": "2",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/EB01-009_p1.png",
+          "source": "bandai"
+        },
+        {
+          "id": "EB01-009_r1",
+          "set": "PRB02",
+          "rarity": "C",
+          "block": "2",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/EB01-009_r1.png",
+          "source": "bandai"
+        }
+      ]
+    },
+    {
+      "number": "EB01-010",
+      "name": "There's No Way You Could Defeat Me!!",
+      "category": "Event",
+      "cost": 3,
+      "colors": [
+        "Red"
+      ],
+      "types": [
+        "Water Seven",
+        "Straw Hat Crew"
+      ],
+      "printings": [
+        {
+          "id": "EB01-010",
+          "set": "EB01",
+          "rarity": "R",
+          "block": "2",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/EB01-010.png",
+          "source": "bandai"
+        }
+      ]
+    },
+    {
+      "number": "EB01-011",
+      "name": "Mini-Merry",
+      "category": "Stage",
+      "cost": 1,
+      "colors": [
+        "Red"
+      ],
+      "types": [
+        "Straw Hat Crew"
+      ],
+      "printings": [
+        {
+          "id": "EB01-011",
+          "set": "EB01",
+          "rarity": "C",
+          "block": "2",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/EB01-011.png",
+          "source": "bandai"
+        }
+      ]
+    },
+    {
+      "number": "EB01-012",
+      "name": "Cavendish",
+      "category": "Character",
+      "cost": 5,
+      "power": 6000,
+      "counter": 1000,
+      "attributes": [
+        "Slash"
+      ],
+      "colors": [
+        "Green"
+      ],
+      "types": [
+        "Supernovas",
+        "Beautiful Pirates"
+      ],
+      "printings": [
+        {
+          "id": "EB01-012",
+          "set": "EB01",
+          "rarity": "SR",
+          "block": "2",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/EB01-012.png",
+          "source": "bandai"
+        },
+        {
+          "id": "EB01-012_p1",
+          "set": "EB01",
+          "rarity": "SR",
+          "block": "2",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/EB01-012_p1.png",
+          "source": "bandai"
+        },
+        {
+          "id": "EB01-012_p3",
+          "set": "P",
+          "rarity": "SR",
+          "block": "2",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/EB01-012_p3.png",
+          "source": "bandai"
+        },
+        {
+          "id": "EB01-012_r1",
+          "set": "PRB02",
+          "rarity": "SR",
+          "block": "2",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/EB01-012_r1.png",
+          "source": "bandai"
+        }
+      ]
+    },
+    {
+      "number": "EB01-013",
+      "name": "Kouzuki Hiyori",
+      "category": "Character",
+      "cost": 4,
+      "counter": 1000,
+      "attributes": [
+        "Wisdom"
+      ],
+      "colors": [
+        "Green"
+      ],
+      "types": [
+        "Land of Wano",
+        "Kouzuki Clan"
+      ],
+      "printings": [
+        {
+          "id": "EB01-013",
+          "set": "EB01",
+          "rarity": "R",
+          "block": "2",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/EB01-013.png",
+          "source": "bandai"
+        },
+        {
+          "id": "EB01-013_p1",
+          "set": "EB01",
+          "rarity": "R",
+          "block": "2",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/EB01-013_p1.png",
+          "source": "bandai"
+        }
+      ]
+    },
+    {
+      "number": "EB01-014",
+      "name": "Sanji",
+      "category": "Character",
+      "cost": 4,
+      "power": 5000,
+      "counter": 2000,
+      "attributes": [
+        "Strike"
+      ],
+      "colors": [
+        "Green"
+      ],
+      "types": [
+        "FILM",
+        "Straw Hat Crew"
+      ],
+      "printings": [
+        {
+          "id": "EB01-014",
+          "set": "EB01",
+          "rarity": "R",
+          "block": "2",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/EB01-014.png",
+          "source": "bandai"
+        },
+        {
+          "id": "EB01-014_p1",
+          "set": "P",
+          "rarity": "R",
+          "block": "2",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/EB01-014_p1.png",
+          "source": "bandai"
+        }
+      ]
+    },
+    {
+      "number": "EB01-015",
+      "name": "Scratchmen Apoo",
+      "category": "Character",
+      "cost": 1,
+      "power": 1000,
+      "counter": 2000,
+      "attributes": [
+        "Special"
+      ],
+      "colors": [
+        "Green"
+      ],
+      "types": [
+        "Supernovas",
+        "On-Air Pirates"
+      ],
+      "printings": [
+        {
+          "id": "EB01-015",
+          "set": "EB01",
+          "rarity": "R",
+          "block": "2",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/EB01-015.png",
+          "source": "bandai"
+        },
+        {
+          "id": "EB01-015_p1",
+          "set": "P",
+          "rarity": "R",
+          "block": "2",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/EB01-015_p1.png",
+          "source": "bandai"
+        },
+        {
+          "id": "EB01-015_p2",
+          "set": "P",
+          "rarity": "R",
+          "block": "2",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/EB01-015_p2.png",
+          "source": "bandai"
+        },
+        {
+          "id": "EB01-015_p3",
+          "set": "ST24",
+          "rarity": "R",
+          "block": "2",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/EB01-015_p3.png",
+          "source": "bandai"
+        },
+        {
+          "id": "EB01-015_p4",
+          "set": "P",
+          "rarity": "R",
+          "block": "2",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/EB01-015_p4.png",
+          "source": "bandai"
+        },
+        {
+          "id": "EB01-015_p5",
+          "set": "PRB02",
+          "rarity": "R",
+          "block": "2",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/EB01-015_p5.png",
+          "source": "bandai"
+        },
+        {
+          "id": "EB01-015_r1",
+          "set": "PRB02",
+          "rarity": "R",
+          "block": "2",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/EB01-015_r1.png",
+          "source": "bandai"
+        }
+      ]
+    },
+    {
+      "number": "EB01-016",
+      "name": "Bingoh",
+      "category": "Character",
+      "cost": 1,
+      "counter": 1000,
+      "attributes": [
+        "Wisdom"
+      ],
+      "colors": [
+        "Green"
+      ],
+      "types": [
+        "Land of Wano"
+      ],
+      "printings": [
+        {
+          "id": "EB01-016",
+          "set": "EB01",
+          "rarity": "C",
+          "block": "2",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/EB01-016.png",
+          "source": "bandai"
+        }
+      ]
+    },
+    {
+      "number": "EB01-017",
+      "name": "Blueno",
+      "category": "Character",
+      "cost": 2,
+      "power": 2000,
+      "counter": 1000,
+      "attributes": [
+        "Strike"
+      ],
+      "colors": [
+        "Green"
+      ],
+      "types": [
+        "FILM",
+        "CP0"
+      ],
+      "printings": [
+        {
+          "id": "EB01-017",
+          "set": "EB01",
+          "rarity": "C",
+          "block": "2",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/EB01-017.png",
+          "source": "bandai"
+        }
+      ]
+    },
+    {
+      "number": "EB01-018",
+      "name": "Mountain God",
+      "category": "Character",
+      "cost": 5,
+      "power": 7000,
+      "counter": 1000,
+      "attributes": [
+        "Strike"
+      ],
+      "colors": [
+        "Green"
+      ],
+      "types": [
+        "Animal",
+        "Land of Wano"
+      ],
+      "printings": [
+        {
+          "id": "EB01-018",
+          "set": "EB01",
+          "rarity": "C",
+          "block": "2",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/EB01-018.png",
+          "source": "bandai"
+        },
+        {
+          "id": "EB01-018_p1",
+          "set": "PRB02",
+          "rarity": "C",
+          "block": "2",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/EB01-018_p1.png",
+          "source": "bandai"
+        },
+        {
+          "id": "EB01-018_r1",
+          "set": "PRB02",
+          "rarity": "C",
+          "block": "2",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/EB01-018_r1.png",
+          "source": "bandai"
+        }
+      ]
+    },
+    {
+      "number": "EB01-019",
+      "name": "Off-White",
+      "category": "Event",
+      "cost": 2,
+      "colors": [
+        "Green"
+      ],
+      "types": [
+        "The Seven Warlords of the Sea",
+        "Donquixote Pirates"
+      ],
+      "printings": [
+        {
+          "id": "EB01-019",
+          "set": "EB01",
+          "rarity": "R",
+          "block": "2",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/EB01-019.png",
+          "source": "bandai"
+        }
+      ]
+    },
+    {
+      "number": "EB01-020",
+      "name": "Chambres",
+      "category": "Event",
+      "cost": 1,
+      "colors": [
+        "Green"
+      ],
+      "types": [
+        "Supernovas",
+        "Heart Pirates"
+      ],
+      "printings": [
+        {
+          "id": "EB01-020",
+          "set": "EB01",
+          "rarity": "C",
+          "block": "2",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/EB01-020.png",
+          "source": "bandai"
+        }
+      ]
+    },
+    {
+      "number": "EB01-021",
+      "name": "Hannyabal",
+      "category": "Leader",
+      "power": 5000,
+      "life": 4,
+      "attributes": [
+        "Slash"
+      ],
+      "colors": [
+        "Blue",
+        "Purple"
+      ],
+      "types": [
+        "Impel Down"
+      ],
+      "printings": [
+        {
+          "id": "EB01-021",
+          "set": "EB01",
+          "rarity": "L",
+          "block": "2",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/EB01-021.png",
+          "source": "bandai"
+        },
+        {
+          "id": "EB01-021_p1",
+          "set": "EB01",
+          "rarity": "L",
+          "block": "2",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/EB01-021_p1.png",
+          "source": "bandai"
+        },
+        {
+          "id": "EB01-021_p2",
+          "set": "EB02",
+          "rarity": "L",
+          "block": "2",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/EB01-021_p2.png",
+          "source": "bandai"
+        }
+      ]
+    },
+    {
+      "number": "EB01-022",
+      "name": "Inazuma",
+      "category": "Character",
+      "cost": 6,
+      "power": 7000,
+      "counter": 1000,
+      "attributes": [
+        "Slash"
+      ],
+      "colors": [
+        "Blue"
+      ],
+      "types": [
+        "Impel Down",
+        "Revolutionary Army"
+      ],
+      "printings": [
+        {
+          "id": "EB01-022",
+          "set": "EB01",
+          "rarity": "SR",
+          "block": "2",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/EB01-022.png",
+          "source": "bandai"
+        },
+        {
+          "id": "EB01-022_p1",
+          "set": "EB01",
+          "rarity": "SR",
+          "block": "2",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/EB01-022_p1.png",
+          "source": "bandai"
+        }
+      ]
+    },
+    {
+      "number": "EB01-023",
+      "name": "Edward Weevil",
+      "category": "Character",
+      "cost": 4,
+      "power": 6000,
+      "attributes": [
+        "Slash"
+      ],
+      "colors": [
+        "Blue"
+      ],
+      "types": [
+        "The Seven Warlords of the Sea"
+      ],
+      "printings": [
+        {
+          "id": "EB01-023",
+          "set": "EB01",
+          "rarity": "R",
+          "block": "2",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/EB01-023.png",
+          "source": "bandai"
+        },
+        {
+          "id": "EB01-023_p1",
+          "set": "OP14-EB04",
+          "rarity": "SP CARD",
+          "block": "2",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/EB01-023_p1.png",
+          "source": "bandai"
+        },
+        {
+          "id": "EB01-023_p2",
+          "set": "OTHER",
+          "rarity": "R",
+          "block": "2",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/EB01-023_p2.png",
+          "source": "bandai"
+        }
+      ]
+    },
+    {
+      "number": "EB01-024",
+      "name": "Hamlet",
+      "category": "Character",
+      "cost": 3,
+      "power": 4000,
+      "counter": 1000,
+      "attributes": [
+        "Slash"
+      ],
+      "colors": [
+        "Blue"
+      ],
+      "types": [
+        "Animal Kingdom Pirates",
+        "SMILE"
+      ],
+      "printings": [
+        {
+          "id": "EB01-024",
+          "set": "EB01",
+          "rarity": "C",
+          "block": "2",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/EB01-024.png",
+          "source": "bandai"
+        }
+      ]
+    },
+    {
+      "number": "EB01-025",
+      "name": "Fourtricks",
+      "category": "Character",
+      "cost": 3,
+      "power": 5000,
+      "counter": 1000,
+      "attributes": [
+        "Slash"
+      ],
+      "colors": [
+        "Blue"
+      ],
+      "types": [
+        "Animal Kingdom Pirates",
+        "SMILE"
+      ],
+      "printings": [
+        {
+          "id": "EB01-025",
+          "set": "EB01",
+          "rarity": "C",
+          "block": "2",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/EB01-025.png",
+          "source": "bandai"
+        }
+      ]
+    },
+    {
+      "number": "EB01-026",
+      "name": "Prince Bellett",
+      "category": "Character",
+      "cost": 2,
+      "power": 2000,
+      "counter": 2000,
+      "attributes": [
+        "Ranged"
+      ],
+      "colors": [
+        "Blue"
+      ],
+      "types": [
+        "Impel Down"
+      ],
+      "printings": [
+        {
+          "id": "EB01-026",
+          "set": "EB01",
+          "rarity": "C",
+          "block": "2",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/EB01-026.png",
+          "source": "bandai"
+        }
+      ]
+    },
+    {
+      "number": "EB01-027",
+      "name": "Mr.1(Daz.Bonez)",
+      "category": "Character",
+      "cost": 5,
+      "power": 6000,
+      "counter": 1000,
+      "attributes": [
+        "Slash"
+      ],
+      "colors": [
+        "Blue"
+      ],
+      "types": [
+        "Baroque Works"
+      ],
+      "printings": [
+        {
+          "id": "EB01-027",
+          "set": "EB01",
+          "rarity": "R",
+          "block": "2",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/EB01-027.png",
+          "source": "bandai"
+        },
+        {
+          "id": "EB01-027_p1",
+          "set": "EB01",
+          "rarity": "R",
+          "block": "2",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/EB01-027_p1.png",
+          "source": "bandai"
+        }
+      ]
+    },
+    {
+      "number": "EB01-028",
+      "name": "Gum-Gum Champion Rifle",
+      "category": "Event",
+      "cost": 1,
+      "colors": [
+        "Blue"
+      ],
+      "types": [
+        "Impel Down",
+        "Straw Hat Crew"
+      ],
+      "printings": [
+        {
+          "id": "EB01-028",
+          "set": "EB01",
+          "rarity": "R",
+          "block": "2",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/EB01-028.png",
+          "source": "bandai"
+        }
+      ]
+    },
+    {
+      "number": "EB01-029",
+      "name": "Sorry. I'm a Goner.",
+      "category": "Event",
+      "cost": 1,
+      "colors": [
+        "Blue"
+      ],
+      "types": [
+        "East Blue",
+        "Straw Hat Crew"
+      ],
+      "printings": [
+        {
+          "id": "EB01-029",
+          "set": "EB01",
+          "rarity": "C",
+          "block": "2",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/EB01-029.png",
+          "source": "bandai"
+        }
+      ]
+    },
+    {
+      "number": "EB01-030",
+      "name": "Loguetown",
+      "category": "Stage",
+      "cost": 2,
+      "colors": [
+        "Blue"
+      ],
+      "types": [
+        "East Blue"
+      ],
+      "printings": [
+        {
+          "id": "EB01-030",
+          "set": "EB01",
+          "rarity": "C",
+          "block": "2",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/EB01-030.png",
+          "source": "bandai"
+        }
+      ]
+    },
+    {
+      "number": "EB01-031",
+      "name": "Kalifa",
+      "category": "Character",
+      "cost": 5,
+      "power": 5000,
+      "counter": 1000,
+      "attributes": [
+        "Wisdom"
+      ],
+      "colors": [
+        "Purple"
+      ],
+      "types": [
+        "Water Seven",
+        "Galley-La Company"
+      ],
+      "printings": [
+        {
+          "id": "EB01-031",
+          "set": "EB01",
+          "rarity": "R",
+          "block": "2",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/EB01-031.png",
+          "source": "bandai"
+        },
+        {
+          "id": "EB01-031_p1",
+          "set": "EB01",
+          "rarity": "R",
+          "block": "2",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/EB01-031_p1.png",
+          "source": "bandai"
+        }
+      ]
+    },
+    {
+      "number": "EB01-032",
+      "name": "Army Wolves",
+      "category": "Character",
+      "cost": 5,
+      "power": 7000,
+      "counter": 1000,
+      "attributes": [
+        "Strike"
+      ],
+      "colors": [
+        "Purple"
+      ],
+      "types": [
+        "Animal",
+        "Impel Down"
+      ],
+      "printings": [
+        {
+          "id": "EB01-032",
+          "set": "EB01",
+          "rarity": "C",
+          "block": "2",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/EB01-032.png",
+          "source": "bandai"
+        }
+      ]
+    },
+    {
+      "number": "EB01-033",
+      "name": "Blueno",
+      "category": "Character",
+      "cost": 4,
+      "power": 5000,
+      "counter": 1000,
+      "attributes": [
+        "Strike"
+      ],
+      "colors": [
+        "Purple"
+      ],
+      "types": [
+        "Water Seven"
+      ],
+      "printings": [
+        {
+          "id": "EB01-033",
+          "set": "EB01",
+          "rarity": "R",
+          "block": "2",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/EB01-033.png",
+          "source": "bandai"
+        }
+      ]
+    },
+    {
+      "number": "EB01-034",
+      "name": "Ms. Wednesday",
+      "category": "Character",
+      "cost": 3,
+      "power": 4000,
+      "counter": 1000,
+      "attributes": [
+        "Slash"
+      ],
+      "colors": [
+        "Purple"
+      ],
+      "types": [
+        "Baroque Works"
+      ],
+      "printings": [
+        {
+          "id": "EB01-034",
+          "set": "EB01",
+          "rarity": "SR",
+          "block": "2",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/EB01-034.png",
+          "source": "bandai"
+        },
+        {
+          "id": "EB01-034_p1",
+          "set": "EB01",
+          "rarity": "SR",
+          "block": "2",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/EB01-034_p1.png",
+          "source": "bandai"
+        }
+      ]
+    },
+    {
+      "number": "EB01-035",
+      "name": "Ms. Monday",
+      "category": "Character",
+      "cost": 3,
+      "power": 5000,
+      "attributes": [
+        "Strike"
+      ],
+      "colors": [
+        "Purple"
+      ],
+      "types": [
+        "Baroque Works"
+      ],
+      "printings": [
+        {
+          "id": "EB01-035",
+          "set": "EB01",
+          "rarity": "C",
+          "block": "2",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/EB01-035.png",
+          "source": "bandai"
+        }
+      ]
+    },
+    {
+      "number": "EB01-036",
+      "name": "Minochihuahua",
+      "category": "Character",
+      "cost": 4,
+      "power": 5000,
+      "attributes": [
+        "Strike"
+      ],
+      "colors": [
+        "Purple"
+      ],
+      "types": [
+        "Impel Down",
+        "Jailer Beast"
+      ],
+      "printings": [
+        {
+          "id": "EB01-036",
+          "set": "EB01",
+          "rarity": "C",
+          "block": "2",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/EB01-036.png",
+          "source": "bandai"
+        }
+      ]
+    },
+    {
+      "number": "EB01-037",
+      "name": "Mr. 9",
+      "category": "Character",
+      "cost": 3,
+      "power": 4000,
+      "counter": 1000,
+      "attributes": [
+        "Strike"
+      ],
+      "colors": [
+        "Purple"
+      ],
+      "types": [
+        "Baroque Works"
+      ],
+      "printings": [
+        {
+          "id": "EB01-037",
+          "set": "EB01",
+          "rarity": "C",
+          "block": "2",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/EB01-037.png",
+          "source": "bandai"
+        }
+      ]
+    },
+    {
+      "number": "EB01-038",
+      "name": "Oh Come My Way",
+      "category": "Event",
+      "cost": 1,
+      "colors": [
+        "Purple"
+      ],
+      "types": [
+        "Baroque Works"
+      ],
+      "printings": [
+        {
+          "id": "EB01-038",
+          "set": "EB01",
+          "rarity": "C",
+          "block": "2",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/EB01-038.png",
+          "source": "bandai"
+        },
+        {
+          "id": "EB01-038_p1",
+          "set": "PRB02",
+          "rarity": "C",
+          "block": "2",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/EB01-038_p1.png",
+          "source": "bandai"
+        },
+        {
+          "id": "EB01-038_r1",
+          "set": "PRB02",
+          "rarity": "C",
+          "block": "2",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/EB01-038_r1.png",
+          "source": "bandai"
+        }
+      ]
+    },
+    {
+      "number": "EB01-039",
+      "name": "Conquerer of Three Worlds Ragnaraku",
+      "category": "Event",
+      "cost": 5,
+      "colors": [
+        "Purple"
+      ],
+      "types": [
+        "The Four Emperors",
+        "Animal Kingdom Pirates"
+      ],
+      "printings": [
+        {
+          "id": "EB01-039",
+          "set": "EB01",
+          "rarity": "R",
+          "block": "2",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/EB01-039.png",
+          "source": "bandai"
+        }
+      ]
+    },
+    {
+      "number": "EB01-040",
+      "name": "Kyros",
+      "category": "Leader",
+      "power": 5000,
+      "life": 4,
+      "attributes": [
+        "Slash"
+      ],
+      "colors": [
+        "Black",
+        "Yellow"
+      ],
+      "types": [
+        "Dressrosa"
+      ],
+      "printings": [
+        {
+          "id": "EB01-040",
+          "set": "EB01",
+          "rarity": "L",
+          "block": "2",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/EB01-040.png",
+          "source": "bandai"
+        },
+        {
+          "id": "EB01-040_p1",
+          "set": "EB01",
+          "rarity": "L",
+          "block": "2",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/EB01-040_p1.png",
+          "source": "bandai"
+        },
+        {
+          "id": "EB01-040_p2",
+          "set": "EB02",
+          "rarity": "L",
+          "block": "2",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/EB01-040_p2.png",
+          "source": "bandai"
+        }
+      ]
+    },
+    {
+      "number": "EB01-041",
+      "name": "Crocus",
+      "category": "Character",
+      "cost": 6,
+      "power": 8000,
+      "counter": 1000,
+      "attributes": [
+        "Wisdom"
+      ],
+      "colors": [
+        "Black"
+      ],
+      "types": [
+        "Former Roger Pirates"
+      ],
+      "printings": [
+        {
+          "id": "EB01-041",
+          "set": "EB01",
+          "rarity": "C",
+          "block": "2",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/EB01-041.png",
+          "source": "bandai"
+        }
+      ]
+    },
+    {
+      "number": "EB01-042",
+      "name": "Scarlet",
+      "category": "Character",
+      "cost": 2,
+      "counter": 1000,
+      "attributes": [
+        "Wisdom"
+      ],
+      "colors": [
+        "Black"
+      ],
+      "types": [
+        "Dressrosa"
+      ],
+      "printings": [
+        {
+          "id": "EB01-042",
+          "set": "EB01",
+          "rarity": "R",
+          "block": "2",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/EB01-042.png",
+          "source": "bandai"
+        }
+      ]
+    },
+    {
+      "number": "EB01-043",
+      "name": "Spandine",
+      "category": "Character",
+      "cost": 3,
+      "power": 2000,
+      "counter": 1000,
+      "attributes": [
+        "Wisdom"
+      ],
+      "colors": [
+        "Black"
+      ],
+      "types": [
+        "CP9"
+      ],
+      "printings": [
+        {
+          "id": "EB01-043",
+          "set": "EB01",
+          "rarity": "R",
+          "block": "2",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/EB01-043.png",
+          "source": "bandai"
+        },
+        {
+          "id": "EB01-043_p1",
+          "set": "P",
+          "rarity": "R",
+          "block": "2",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/EB01-043_p1.png",
+          "source": "bandai"
+        },
+        {
+          "id": "EB01-043_p2",
+          "set": "P",
+          "rarity": "R",
+          "block": "2",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/EB01-043_p2.png",
+          "source": "bandai"
+        },
+        {
+          "id": "EB01-043_p3",
+          "set": "P",
+          "rarity": "R",
+          "block": "2",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/EB01-043_p3.png",
+          "source": "bandai"
+        },
+        {
+          "id": "EB01-043_p4",
+          "set": "P",
+          "rarity": "R",
+          "block": "2",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/EB01-043_p4.png",
+          "source": "bandai"
+        },
+        {
+          "id": "EB01-043_p5",
+          "set": "P",
+          "rarity": "R",
+          "block": "2",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/EB01-043_p5.png",
+          "source": "bandai"
+        },
+        {
+          "id": "EB01-043_p6",
+          "set": "P",
+          "rarity": "R",
+          "block": "2",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/EB01-043_p6.png",
+          "source": "bandai"
+        }
+      ]
+    },
+    {
+      "number": "EB01-044",
+      "name": "Funkfreed",
+      "category": "Character",
+      "cost": 1,
+      "power": 1000,
+      "counter": 1000,
+      "attributes": [
+        "Slash"
+      ],
+      "colors": [
+        "Black"
+      ],
+      "types": [
+        "CP9"
+      ],
+      "printings": [
+        {
+          "id": "EB01-044",
+          "set": "EB01",
+          "rarity": "C",
+          "block": "2",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/EB01-044.png",
+          "source": "bandai"
+        }
+      ]
+    },
+    {
+      "number": "EB01-045",
+      "name": "Brook",
+      "category": "Character",
+      "cost": 3,
+      "power": 4000,
+      "counter": 1000,
+      "attributes": [
+        "Slash"
+      ],
+      "colors": [
+        "Black"
+      ],
+      "types": [
+        "Rumbar Pirates"
+      ],
+      "printings": [
+        {
+          "id": "EB01-045",
+          "set": "EB01",
+          "rarity": "C",
+          "block": "2",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/EB01-045.png",
+          "source": "bandai"
+        }
+      ]
+    },
+    {
+      "number": "EB01-046",
+      "name": "Brook",
+      "category": "Character",
+      "cost": 3,
+      "power": 4000,
+      "counter": 1000,
+      "attributes": [
+        "Slash"
+      ],
+      "colors": [
+        "Black"
+      ],
+      "types": [
+        "Straw Hat Crew"
+      ],
+      "printings": [
+        {
+          "id": "EB01-046",
+          "set": "EB01",
+          "rarity": "SR",
+          "block": "2",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/EB01-046.png",
+          "source": "bandai"
+        },
+        {
+          "id": "EB01-046_p1",
+          "set": "EB01",
+          "rarity": "SR",
+          "block": "2",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/EB01-046_p1.png",
+          "source": "bandai"
+        },
+        {
+          "id": "EB01-046_r1",
+          "set": "PRB02",
+          "rarity": "SR",
+          "block": "2",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/EB01-046_r1.png",
+          "source": "bandai"
+        }
+      ]
+    },
+    {
+      "number": "EB01-047",
+      "name": "Laboon",
+      "category": "Character",
+      "cost": 2,
+      "power": 4000,
+      "attributes": [
+        "Strike"
+      ],
+      "colors": [
+        "Black"
+      ],
+      "types": [
+        "Animal"
+      ],
+      "printings": [
+        {
+          "id": "EB01-047",
+          "set": "EB01",
+          "rarity": "C",
+          "block": "2",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/EB01-047.png",
+          "source": "bandai"
+        }
+      ]
+    },
+    {
+      "number": "EB01-048",
+      "name": "Laboon",
+      "category": "Character",
+      "cost": 4,
+      "power": 5000,
+      "counter": 1000,
+      "attributes": [
+        "Strike"
+      ],
+      "colors": [
+        "Black"
+      ],
+      "types": [
+        "Animal"
+      ],
+      "printings": [
+        {
+          "id": "EB01-048",
+          "set": "EB01",
+          "rarity": "SR",
+          "block": "2",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/EB01-048.png",
+          "source": "bandai"
+        },
+        {
+          "id": "EB01-048_p1",
+          "set": "EB01",
+          "rarity": "SR",
+          "block": "2",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/EB01-048_p1.png",
+          "source": "bandai"
+        },
+        {
+          "id": "EB01-048_p2",
+          "set": "P",
+          "rarity": "SR",
+          "block": "2",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/EB01-048_p2.png",
+          "source": "bandai"
+        },
+        {
+          "id": "EB01-048_r1",
+          "set": "PRB02",
+          "rarity": "SR",
+          "block": "2",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/EB01-048_r1.png",
+          "source": "bandai"
+        }
+      ]
+    },
+    {
+      "number": "EB01-049",
+      "name": "T-Bone",
+      "category": "Character",
+      "cost": 5,
+      "power": 5000,
+      "counter": 2000,
+      "attributes": [
+        "Slash"
+      ],
+      "colors": [
+        "Black"
+      ],
+      "types": [
+        "Water Seven",
+        "Navy"
+      ],
+      "printings": [
+        {
+          "id": "EB01-049",
+          "set": "EB01",
+          "rarity": "R",
+          "block": "2",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/EB01-049.png",
+          "source": "bandai"
+        },
+        {
+          "id": "EB01-049_p1",
+          "set": "EB01",
+          "rarity": "R",
+          "block": "2",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/EB01-049_p1.png",
+          "source": "bandai"
+        }
+      ]
+    },
+    {
+      "number": "EB01-050",
+      "name": "...I Want to Live!!",
+      "category": "Event",
+      "cost": 3,
+      "colors": [
+        "Black"
+      ],
+      "types": [
+        "Straw Hat Crew"
+      ],
+      "printings": [
+        {
+          "id": "EB01-050",
+          "set": "EB01",
+          "rarity": "C",
+          "block": "2",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/EB01-050.png",
+          "source": "bandai"
+        }
+      ]
+    },
+    {
+      "number": "EB01-051",
+      "name": "Finger Pistol",
+      "category": "Event",
+      "cost": 4,
+      "colors": [
+        "Black"
+      ],
+      "types": [
+        "CP9"
+      ],
+      "printings": [
+        {
+          "id": "EB01-051",
+          "set": "EB01",
+          "rarity": "R",
+          "block": "2",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/EB01-051.png",
+          "source": "bandai"
+        },
+        {
+          "id": "EB01-051_p1",
+          "set": "PRB02",
+          "rarity": "R",
+          "block": "2",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/EB01-051_p1.png",
+          "source": "bandai"
+        },
+        {
+          "id": "EB01-051_r1",
+          "set": "PRB02",
+          "rarity": "R",
+          "block": "2",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/EB01-051_r1.png",
+          "source": "bandai"
+        }
+      ]
+    },
+    {
+      "number": "EB01-052",
+      "name": "Viola",
+      "category": "Character",
+      "cost": 2,
+      "counter": 1000,
+      "attributes": [
+        "Special"
+      ],
+      "colors": [
+        "Yellow"
+      ],
+      "types": [
+        "Dressrosa"
+      ],
+      "printings": [
+        {
+          "id": "EB01-052",
+          "set": "EB01",
+          "rarity": "SR",
+          "block": "2",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/EB01-052.png",
+          "source": "bandai"
+        },
+        {
+          "id": "EB01-052_p1",
+          "set": "EB01",
+          "rarity": "SR",
+          "block": "2",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/EB01-052_p1.png",
+          "source": "bandai"
+        }
+      ]
+    },
+    {
+      "number": "EB01-053",
+      "name": "Gastino",
+      "category": "Character",
+      "cost": 3,
+      "power": 5000,
+      "attributes": [
+        "Special"
+      ],
+      "colors": [
+        "Yellow"
+      ],
+      "types": [
+        "Scientist"
+      ],
+      "printings": [
+        {
+          "id": "EB01-053",
+          "set": "EB01",
+          "rarity": "C",
+          "block": "2",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/EB01-053.png",
+          "source": "bandai"
+        }
+      ]
+    },
+    {
+      "number": "EB01-054",
+      "name": "Gan.Fall",
+      "category": "Character",
+      "cost": 3,
+      "power": 4000,
+      "counter": 1000,
+      "attributes": [
+        "Slash"
+      ],
+      "colors": [
+        "Yellow"
+      ],
+      "types": [
+        "Sky Island"
+      ],
+      "printings": [
+        {
+          "id": "EB01-054",
+          "set": "EB01",
+          "rarity": "R",
+          "block": "2",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/EB01-054.png",
+          "source": "bandai"
+        }
+      ]
+    },
+    {
+      "number": "EB01-055",
+      "name": "Charlotte Compote",
+      "category": "Character",
+      "cost": 7,
+      "power": 9000,
+      "counter": 1000,
+      "attributes": [
+        "Wisdom"
+      ],
+      "colors": [
+        "Yellow"
+      ],
+      "types": [
+        "Big Mom Pirates"
+      ],
+      "printings": [
+        {
+          "id": "EB01-055",
+          "set": "EB01",
+          "rarity": "C",
+          "block": "2",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/EB01-055.png",
+          "source": "bandai"
+        }
+      ]
+    },
+    {
+      "number": "EB01-056",
+      "name": "Charlotte Flampe",
+      "category": "Character",
+      "cost": 1,
+      "power": 1000,
+      "counter": 2000,
+      "attributes": [
+        "Special"
+      ],
+      "colors": [
+        "Yellow"
+      ],
+      "types": [
+        "Big Mom Pirates"
+      ],
+      "printings": [
+        {
+          "id": "EB01-056",
+          "set": "EB01",
+          "rarity": "R",
+          "block": "2",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/EB01-056.png",
+          "source": "bandai"
+        },
+        {
+          "id": "EB01-056_p1",
+          "set": "EB01",
+          "rarity": "R",
+          "block": "2",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/EB01-056_p1.png",
+          "source": "bandai"
+        },
+        {
+          "id": "EB01-056_p2",
+          "set": "OP10",
+          "rarity": "SP CARD",
+          "block": "2",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/EB01-056_p2.png",
+          "source": "bandai"
+        }
+      ]
+    },
+    {
+      "number": "EB01-057",
+      "name": "Shirahoshi",
+      "category": "Character",
+      "cost": 2,
+      "counter": 1000,
+      "attributes": [
+        "Wisdom"
+      ],
+      "colors": [
+        "Yellow"
+      ],
+      "types": [
+        "Merfolk"
+      ],
+      "printings": [
+        {
+          "id": "EB01-057",
+          "set": "EB01",
+          "rarity": "SR",
+          "block": "2",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/EB01-057.png",
+          "source": "bandai"
+        },
+        {
+          "id": "EB01-057_p1",
+          "set": "EB01",
+          "rarity": "SR",
+          "block": "2",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/EB01-057_p1.png",
+          "source": "bandai"
+        },
+        {
+          "id": "EB01-057_p2",
+          "set": "OP11",
+          "rarity": "SP CARD",
+          "block": "2",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/EB01-057_p2.png",
+          "source": "bandai"
+        },
+        {
+          "id": "EB01-057_r1",
+          "set": "PRB02",
+          "rarity": "SR",
+          "block": "2",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/EB01-057_r1.png",
+          "source": "bandai"
+        }
+      ]
+    },
+    {
+      "number": "EB01-058",
+      "name": "Mont Blanc Cricket",
+      "category": "Character",
+      "cost": 2,
+      "power": 3000,
+      "counter": 1000,
+      "attributes": [
+        "Strike"
+      ],
+      "colors": [
+        "Yellow"
+      ],
+      "types": [
+        "Monkey Mountain Alliance"
+      ],
+      "printings": [
+        {
+          "id": "EB01-058",
+          "set": "EB01",
+          "rarity": "C",
+          "block": "2",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/EB01-058.png",
+          "source": "bandai"
+        }
+      ]
+    },
+    {
+      "number": "EB01-059",
+      "name": "Kingdom Come",
+      "category": "Event",
+      "cost": 6,
+      "colors": [
+        "Yellow"
+      ],
+      "types": [
+        "Sky Island"
+      ],
+      "printings": [
+        {
+          "id": "EB01-059",
+          "set": "EB01",
+          "rarity": "R",
+          "block": "2",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/EB01-059.png",
+          "source": "bandai"
+        }
+      ]
+    },
+    {
+      "number": "EB01-060",
+      "name": "Did Someone Say...Kami?",
+      "category": "Event",
+      "cost": 4,
+      "colors": [
+        "Yellow"
+      ],
+      "types": [
+        "Sky Island"
+      ],
+      "printings": [
+        {
+          "id": "EB01-060",
+          "set": "EB01",
+          "rarity": "C",
+          "block": "2",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/EB01-060.png",
+          "source": "bandai"
+        },
+        {
+          "id": "EB01-060_p1",
+          "set": "PRB02",
+          "rarity": "C",
+          "block": "2",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/EB01-060_p1.png",
+          "source": "bandai"
+        },
+        {
+          "id": "EB01-060_r1",
+          "set": "PRB02",
+          "rarity": "C",
+          "block": "2",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/EB01-060_r1.png",
+          "source": "bandai"
+        }
+      ]
+    },
+    {
+      "number": "EB01-061",
+      "name": "Mr.2.Bon.Kurei(Bentham)",
+      "category": "Character",
+      "cost": 4,
+      "power": 1000,
+      "counter": 1000,
+      "attributes": [
+        "Special"
+      ],
+      "colors": [
+        "Purple"
+      ],
+      "types": [
+        "Former Baroque Works"
+      ],
+      "printings": [
+        {
+          "id": "EB01-061",
+          "set": "EB01",
+          "rarity": "SEC",
+          "block": "2",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/EB01-061.png",
+          "source": "bandai"
+        },
+        {
+          "id": "EB01-061_p1",
+          "set": "EB01",
+          "rarity": "SEC",
+          "block": "2",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/EB01-061_p1.png",
+          "source": "bandai"
+        },
+        {
+          "id": "EB01-061_r1",
+          "set": "PRB02",
+          "rarity": "SEC",
+          "block": "2",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/EB01-061_r1.png",
+          "source": "bandai"
+        }
+      ]
+    }
+  ]
+}

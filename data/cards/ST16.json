@@ -1,0 +1,197 @@
+{
+  "cards": [
+    {
+      "number": "ST16-001",
+      "name": "Uta",
+      "category": "Character",
+      "cost": 4,
+      "power": 6000,
+      "attributes": [
+        "Special"
+      ],
+      "colors": [
+        "Green"
+      ],
+      "types": [
+        "FILM"
+      ],
+      "printings": [
+        {
+          "id": "ST16-001",
+          "set": "ST16",
+          "rarity": "SR",
+          "block": "3",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST16-001.png",
+          "source": "bandai"
+        }
+      ]
+    },
+    {
+      "number": "ST16-002",
+      "name": "Gordon",
+      "category": "Character",
+      "cost": 2,
+      "counter": 1000,
+      "attributes": [
+        "Wisdom"
+      ],
+      "colors": [
+        "Green"
+      ],
+      "types": [
+        "FILM"
+      ],
+      "printings": [
+        {
+          "id": "ST16-002",
+          "set": "ST16",
+          "rarity": "C",
+          "block": "3",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST16-002.png",
+          "source": "bandai"
+        }
+      ]
+    },
+    {
+      "number": "ST16-003",
+      "name": "Charlotte Katakuri",
+      "category": "Character",
+      "cost": 3,
+      "power": 4000,
+      "counter": 1000,
+      "attributes": [
+        "Strike"
+      ],
+      "colors": [
+        "Green"
+      ],
+      "types": [
+        "FILM",
+        "Big Mom Pirates"
+      ],
+      "printings": [
+        {
+          "id": "ST16-003",
+          "set": "ST16",
+          "rarity": "C",
+          "block": "3",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST16-003.png",
+          "source": "bandai"
+        },
+        {
+          "id": "ST16-003_p1",
+          "set": "PRB02",
+          "rarity": "C",
+          "block": "3",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST16-003_p1.png",
+          "source": "bandai"
+        },
+        {
+          "id": "ST16-003_r1",
+          "set": "PRB02",
+          "rarity": "C",
+          "block": "3",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST16-003_r1.png",
+          "source": "bandai"
+        }
+      ]
+    },
+    {
+      "number": "ST16-004",
+      "name": "Shanks",
+      "category": "Character",
+      "cost": 9,
+      "power": 11000,
+      "attributes": [
+        "Slash"
+      ],
+      "colors": [
+        "Green"
+      ],
+      "types": [
+        "FILM",
+        "The Four Emperors",
+        "Red-Haired Pirates"
+      ],
+      "printings": [
+        {
+          "id": "ST16-004",
+          "set": "ST16",
+          "rarity": "SR",
+          "block": "3",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST16-004.png",
+          "source": "bandai"
+        },
+        {
+          "id": "ST16-004_p1",
+          "set": "OP11",
+          "rarity": "SP CARD",
+          "block": "3",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST16-004_p1.png",
+          "source": "bandai"
+        },
+        {
+          "id": "ST16-004_p2",
+          "set": "PRB02",
+          "rarity": "SR",
+          "block": "3",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST16-004_p2.png",
+          "source": "bandai"
+        },
+        {
+          "id": "ST16-004_r1",
+          "set": "PRB02",
+          "rarity": "SR",
+          "block": "3",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST16-004_r1.png",
+          "source": "bandai"
+        }
+      ]
+    },
+    {
+      "number": "ST16-005",
+      "name": "Monkey.D.Luffy",
+      "category": "Character",
+      "cost": 2,
+      "power": 3000,
+      "counter": 2000,
+      "attributes": [
+        "Strike"
+      ],
+      "colors": [
+        "Green"
+      ],
+      "types": [
+        "FILM",
+        "Supernovas",
+        "Straw Hat Crew"
+      ],
+      "printings": [
+        {
+          "id": "ST16-005",
+          "set": "ST16",
+          "rarity": "C",
+          "block": "3",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST16-005.png",
+          "source": "bandai"
+        },
+        {
+          "id": "ST16-005_p1",
+          "set": "PRB02",
+          "rarity": "C",
+          "block": "3",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST16-005_p1.png",
+          "source": "bandai"
+        },
+        {
+          "id": "ST16-005_r1",
+          "set": "PRB02",
+          "rarity": "C",
+          "block": "3",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST16-005_r1.png",
+          "source": "bandai"
+        }
+      ]
+    }
+  ]
+}

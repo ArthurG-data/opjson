@@ -1,0 +1,499 @@
+{
+  "cards": [
+    {
+      "number": "ST07-001",
+      "name": "Charlotte Linlin",
+      "category": "Leader",
+      "power": 5000,
+      "life": 5,
+      "attributes": [
+        "Special"
+      ],
+      "colors": [
+        "Yellow"
+      ],
+      "types": [
+        "The Four Emperors",
+        "Big Mom Pirates"
+      ],
+      "printings": [
+        {
+          "id": "ST07-001",
+          "set": "ST07",
+          "rarity": "L",
+          "block": "1",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST07-001.png",
+          "source": "bandai"
+        }
+      ]
+    },
+    {
+      "number": "ST07-002",
+      "name": "Charlotte Anana",
+      "category": "Character",
+      "cost": 1,
+      "power": 3000,
+      "counter": 1000,
+      "attributes": [
+        "Wisdom"
+      ],
+      "colors": [
+        "Yellow"
+      ],
+      "types": [
+        "Big Mom Pirates"
+      ],
+      "printings": [
+        {
+          "id": "ST07-002",
+          "set": "ST07",
+          "rarity": "C",
+          "block": "1",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST07-002.png",
+          "source": "bandai"
+        }
+      ]
+    },
+    {
+      "number": "ST07-003",
+      "name": "Charlotte Katakuri",
+      "category": "Character",
+      "cost": 4,
+      "power": 6000,
+      "attributes": [
+        "Strike"
+      ],
+      "colors": [
+        "Yellow"
+      ],
+      "types": [
+        "Big Mom Pirates"
+      ],
+      "printings": [
+        {
+          "id": "ST07-003",
+          "set": "ST07",
+          "rarity": "SR",
+          "block": "1",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST07-003.png",
+          "source": "bandai"
+        }
+      ]
+    },
+    {
+      "number": "ST07-004",
+      "name": "Charlotte Snack",
+      "category": "Character",
+      "cost": 5,
+      "power": 6000,
+      "attributes": [
+        "Slash"
+      ],
+      "colors": [
+        "Yellow"
+      ],
+      "types": [
+        "Big Mom Pirates"
+      ],
+      "printings": [
+        {
+          "id": "ST07-004",
+          "set": "ST07",
+          "rarity": "C",
+          "block": "1",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST07-004.png",
+          "source": "bandai"
+        }
+      ]
+    },
+    {
+      "number": "ST07-005",
+      "name": "Charlotte Daifuku",
+      "category": "Character",
+      "cost": 4,
+      "power": 5000,
+      "counter": 1000,
+      "attributes": [
+        "Slash"
+      ],
+      "colors": [
+        "Yellow"
+      ],
+      "types": [
+        "Big Mom Pirates"
+      ],
+      "printings": [
+        {
+          "id": "ST07-005",
+          "set": "ST07",
+          "rarity": "C",
+          "block": "1",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST07-005.png",
+          "source": "bandai"
+        },
+        {
+          "id": "ST07-005_r1",
+          "set": "ST20",
+          "rarity": "C",
+          "block": "1",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST07-005_r1.png",
+          "source": "bandai"
+        }
+      ]
+    },
+    {
+      "number": "ST07-006",
+      "name": "Charlotte Flampe",
+      "category": "Character",
+      "cost": 2,
+      "power": 4000,
+      "counter": 1000,
+      "attributes": [
+        "Ranged"
+      ],
+      "colors": [
+        "Yellow"
+      ],
+      "types": [
+        "Big Mom Pirates"
+      ],
+      "printings": [
+        {
+          "id": "ST07-006",
+          "set": "ST07",
+          "rarity": "C",
+          "block": "1",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST07-006.png",
+          "source": "bandai"
+        }
+      ]
+    },
+    {
+      "number": "ST07-007",
+      "name": "Charlotte Brulee",
+      "category": "Character",
+      "cost": 3,
+      "power": 1000,
+      "counter": 1000,
+      "attributes": [
+        "Special"
+      ],
+      "colors": [
+        "Yellow"
+      ],
+      "types": [
+        "Big Mom Pirates"
+      ],
+      "printings": [
+        {
+          "id": "ST07-007",
+          "set": "ST07",
+          "rarity": "C",
+          "block": "1",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST07-007.png",
+          "source": "bandai"
+        },
+        {
+          "id": "ST07-007_p2",
+          "set": "PRB01",
+          "rarity": "C",
+          "block": "1",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST07-007_p2.png",
+          "source": "bandai"
+        },
+        {
+          "id": "ST07-007_p3",
+          "set": "PRB01",
+          "rarity": "C",
+          "block": "1",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST07-007_p3.png",
+          "source": "bandai"
+        },
+        {
+          "id": "ST07-007_r1",
+          "set": "PRB01",
+          "rarity": "C",
+          "block": "1",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST07-007_r1.png",
+          "source": "bandai"
+        }
+      ]
+    },
+    {
+      "number": "ST07-008",
+      "name": "Charlotte Pudding",
+      "category": "Character",
+      "cost": 2,
+      "power": 3000,
+      "counter": 2000,
+      "attributes": [
+        "Wisdom"
+      ],
+      "colors": [
+        "Yellow"
+      ],
+      "types": [
+        "Big Mom Pirates"
+      ],
+      "printings": [
+        {
+          "id": "ST07-008",
+          "set": "ST07",
+          "rarity": "C",
+          "block": "1",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST07-008.png",
+          "source": "bandai"
+        },
+        {
+          "id": "ST07-008_p1",
+          "set": "P",
+          "rarity": "C",
+          "block": "1",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST07-008_p1.png",
+          "source": "bandai"
+        }
+      ]
+    },
+    {
+      "number": "ST07-009",
+      "name": "Charlotte Mont-d'or",
+      "category": "Character",
+      "cost": 3,
+      "power": 4000,
+      "counter": 1000,
+      "attributes": [
+        "Special"
+      ],
+      "colors": [
+        "Yellow"
+      ],
+      "types": [
+        "Big Mom Pirates"
+      ],
+      "printings": [
+        {
+          "id": "ST07-009",
+          "set": "ST07",
+          "rarity": "C",
+          "block": "1",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST07-009.png",
+          "source": "bandai"
+        }
+      ]
+    },
+    {
+      "number": "ST07-010",
+      "name": "Charlotte Linlin",
+      "category": "Character",
+      "cost": 7,
+      "power": 8000,
+      "attributes": [
+        "Special"
+      ],
+      "colors": [
+        "Yellow"
+      ],
+      "types": [
+        "The Four Emperors",
+        "Big Mom Pirates"
+      ],
+      "printings": [
+        {
+          "id": "ST07-010",
+          "set": "ST07",
+          "rarity": "SR",
+          "block": "1",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST07-010.png",
+          "source": "bandai"
+        }
+      ]
+    },
+    {
+      "number": "ST07-011",
+      "name": "Zeus",
+      "category": "Character",
+      "cost": 3,
+      "power": 3000,
+      "counter": 1000,
+      "attributes": [
+        "Special"
+      ],
+      "colors": [
+        "Yellow"
+      ],
+      "types": [
+        "Big Mom Pirates",
+        "Homies"
+      ],
+      "printings": [
+        {
+          "id": "ST07-011",
+          "set": "ST07",
+          "rarity": "C",
+          "block": "1",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST07-011.png",
+          "source": "bandai"
+        }
+      ]
+    },
+    {
+      "number": "ST07-012",
+      "name": "Baron Tamago",
+      "category": "Character",
+      "cost": 4,
+      "power": 6000,
+      "counter": 1000,
+      "attributes": [
+        "Strike"
+      ],
+      "colors": [
+        "Yellow"
+      ],
+      "types": [
+        "Big Mom Pirates"
+      ],
+      "printings": [
+        {
+          "id": "ST07-012",
+          "set": "ST07",
+          "rarity": "C",
+          "block": "1",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST07-012.png",
+          "source": "bandai"
+        }
+      ]
+    },
+    {
+      "number": "ST07-013",
+      "name": "Prometheus",
+      "category": "Character",
+      "cost": 3,
+      "power": 3000,
+      "counter": 1000,
+      "attributes": [
+        "Special"
+      ],
+      "colors": [
+        "Yellow"
+      ],
+      "types": [
+        "Big Mom Pirates",
+        "Homies"
+      ],
+      "printings": [
+        {
+          "id": "ST07-013",
+          "set": "ST07",
+          "rarity": "C",
+          "block": "1",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST07-013.png",
+          "source": "bandai"
+        }
+      ]
+    },
+    {
+      "number": "ST07-014",
+      "name": "Pekoms",
+      "category": "Character",
+      "cost": 3,
+      "power": 5000,
+      "counter": 1000,
+      "attributes": [
+        "Strike"
+      ],
+      "colors": [
+        "Yellow"
+      ],
+      "types": [
+        "Minks",
+        "Big Mom Pirates"
+      ],
+      "printings": [
+        {
+          "id": "ST07-014",
+          "set": "ST07",
+          "rarity": "C",
+          "block": "1",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST07-014.png",
+          "source": "bandai"
+        },
+        {
+          "id": "ST07-014_r1",
+          "set": "ST20",
+          "rarity": "C",
+          "block": "1",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST07-014_r1.png",
+          "source": "bandai"
+        }
+      ]
+    },
+    {
+      "number": "ST07-015",
+      "name": "Soul Pocus",
+      "category": "Event",
+      "cost": 5,
+      "colors": [
+        "Yellow"
+      ],
+      "types": [
+        "The Four Emperors",
+        "Big Mom Pirates"
+      ],
+      "printings": [
+        {
+          "id": "ST07-015",
+          "set": "ST07",
+          "rarity": "C",
+          "block": "1",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST07-015.png",
+          "source": "bandai"
+        }
+      ]
+    },
+    {
+      "number": "ST07-016",
+      "name": "Power Mochi",
+      "category": "Event",
+      "cost": 1,
+      "colors": [
+        "Yellow"
+      ],
+      "types": [
+        "Big Mom Pirates"
+      ],
+      "printings": [
+        {
+          "id": "ST07-016",
+          "set": "ST07",
+          "rarity": "C",
+          "block": "1",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST07-016.png",
+          "source": "bandai"
+        }
+      ]
+    },
+    {
+      "number": "ST07-017",
+      "name": "Queen Mama Chanter",
+      "category": "Stage",
+      "cost": 2,
+      "colors": [
+        "Yellow"
+      ],
+      "types": [
+        "Big Mom Pirates",
+        "Homies"
+      ],
+      "printings": [
+        {
+          "id": "ST07-017",
+          "set": "ST07",
+          "rarity": "C",
+          "block": "1",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST07-017.png",
+          "source": "bandai"
+        }
+      ]
+    }
+  ]
+}

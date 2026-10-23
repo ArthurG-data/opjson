@@ -1,0 +1,183 @@
+{
+  "cards": [
+    {
+      "number": "ST11-001",
+      "name": "Uta",
+      "category": "Leader",
+      "power": 5000,
+      "life": 5,
+      "attributes": [
+        "Special"
+      ],
+      "colors": [
+        "Green"
+      ],
+      "types": [
+        "FILM"
+      ],
+      "printings": [
+        {
+          "id": "ST11-001",
+          "set": "ST11",
+          "rarity": "L",
+          "block": "2",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST11-001.png",
+          "source": "bandai"
+        },
+        {
+          "id": "ST11-001_p1",
+          "set": "ST16",
+          "rarity": "L",
+          "block": "2",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST11-001_p1.png",
+          "source": "bandai"
+        }
+      ]
+    },
+    {
+      "number": "ST11-002",
+      "name": "Uta",
+      "category": "Character",
+      "cost": 3,
+      "power": 4000,
+      "counter": 1000,
+      "attributes": [
+        "Special"
+      ],
+      "colors": [
+        "Green"
+      ],
+      "types": [
+        "Music",
+        "FILM"
+      ],
+      "printings": [
+        {
+          "id": "ST11-002",
+          "set": "ST11",
+          "rarity": "SR",
+          "block": "2",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST11-002.png",
+          "source": "bandai"
+        }
+      ]
+    },
+    {
+      "number": "ST11-003",
+      "name": "Backlight",
+      "category": "Event",
+      "cost": 2,
+      "colors": [
+        "Green"
+      ],
+      "types": [
+        "Music",
+        "FILM"
+      ],
+      "printings": [
+        {
+          "id": "ST11-003",
+          "set": "ST11",
+          "rarity": "C",
+          "block": "2",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST11-003.png",
+          "source": "bandai"
+        },
+        {
+          "id": "ST11-003_p1",
+          "set": "P",
+          "rarity": "C",
+          "block": "2",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST11-003_p1.png",
+          "source": "bandai"
+        },
+        {
+          "id": "ST11-003_p2",
+          "set": "ST16",
+          "rarity": "C",
+          "block": "2",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST11-003_p2.png",
+          "source": "bandai"
+        }
+      ]
+    },
+    {
+      "number": "ST11-004",
+      "name": "New Genesis",
+      "category": "Event",
+      "cost": 1,
+      "colors": [
+        "Green"
+      ],
+      "types": [
+        "Music",
+        "FILM"
+      ],
+      "printings": [
+        {
+          "id": "ST11-004",
+          "set": "ST11",
+          "rarity": "SR",
+          "block": "2",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST11-004.png",
+          "source": "bandai"
+        },
+        {
+          "id": "ST11-004_p1",
+          "set": "P",
+          "rarity": "SR",
+          "block": "2",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST11-004_p1.png",
+          "source": "bandai"
+        },
+        {
+          "id": "ST11-004_p2",
+          "set": "ST16",
+          "rarity": "SR",
+          "block": "2",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST11-004_p2.png",
+          "source": "bandai"
+        }
+      ]
+    },
+    {
+      "number": "ST11-005",
+      "name": "I'm invincible",
+      "category": "Event",
+      "cost": 3,
+      "colors": [
+        "Green"
+      ],
+      "types": [
+        "Music",
+        "FILM"
+      ],
+      "printings": [
+        {
+          "id": "ST11-005",
+          "set": "ST11",
+          "rarity": "C",
+          "block": "2",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST11-005.png",
+          "source": "bandai"
+        },
+        {
+          "id": "ST11-005_p1",
+          "set": "P",
+          "rarity": "C",
+          "block": "2",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST11-005_p1.png",
+          "source": "bandai"
+        },
+        {
+          "id": "ST11-005_p2",
+          "set": "ST16",
+          "rarity": "C",
+          "block": "2",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST11-005_p2.png",
+          "source": "bandai"
+        }
+      ]
+    }
+  ]
+}

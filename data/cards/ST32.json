@@ -1,0 +1,150 @@
+{
+  "cards": [
+    {
+      "number": "ST32-001",
+      "name": "Kin'emon",
+      "category": "Character",
+      "cost": 1,
+      "power": 2000,
+      "counter": 1000,
+      "attributes": [
+        "Slash"
+      ],
+      "colors": [
+        "Green"
+      ],
+      "types": [
+        "Land of Wano",
+        "The Akazaya Nine"
+      ],
+      "printings": [
+        {
+          "id": "ST32-001",
+          "set": "ST32",
+          "rarity": "C",
+          "block": "5",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST32-001.png",
+          "source": "bandai"
+        }
+      ]
+    },
+    {
+      "number": "ST32-002",
+      "name": "Kouzuki Oden",
+      "category": "Character",
+      "cost": 5,
+      "power": 6000,
+      "counter": 1000,
+      "attributes": [
+        "Slash"
+      ],
+      "colors": [
+        "Green"
+      ],
+      "types": [
+        "Land of Wano",
+        "Kouzuki Clan"
+      ],
+      "printings": [
+        {
+          "id": "ST32-002",
+          "set": "ST32",
+          "rarity": "SR",
+          "block": "5",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST32-002.png",
+          "source": "bandai"
+        },
+        {
+          "id": "ST32-002_p1",
+          "set": "OP17",
+          "rarity": "SP CARD",
+          "block": "5",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST32-002_p1.png",
+          "source": "bandai"
+        }
+      ]
+    },
+    {
+      "number": "ST32-003",
+      "name": "Dracule Mihawk",
+      "category": "Character",
+      "cost": 6,
+      "power": 7000,
+      "attributes": [
+        "Slash"
+      ],
+      "colors": [
+        "Green"
+      ],
+      "types": [
+        "Muggy Kingdom",
+        "The Seven Warlords of the Sea"
+      ],
+      "printings": [
+        {
+          "id": "ST32-003",
+          "set": "ST32",
+          "rarity": "SR",
+          "block": "5",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST32-003.png",
+          "source": "bandai"
+        }
+      ]
+    },
+    {
+      "number": "ST32-004",
+      "name": "Silvers Rayleigh",
+      "category": "Character",
+      "cost": 4,
+      "power": 5000,
+      "counter": 1000,
+      "attributes": [
+        "Slash"
+      ],
+      "colors": [
+        "Green"
+      ],
+      "types": [
+        "Former Roger Pirates"
+      ],
+      "printings": [
+        {
+          "id": "ST32-004",
+          "set": "ST32",
+          "rarity": "C",
+          "block": "5",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST32-004.png",
+          "source": "bandai"
+        }
+      ]
+    },
+    {
+      "number": "ST32-005",
+      "name": "Roronoa Zoro",
+      "category": "Character",
+      "cost": 1,
+      "power": 2000,
+      "counter": 2000,
+      "attributes": [
+        "Slash"
+      ],
+      "colors": [
+        "Green"
+      ],
+      "types": [
+        "Supernovas",
+        "Straw Hat Crew"
+      ],
+      "printings": [
+        {
+          "id": "ST32-005",
+          "set": "ST32",
+          "rarity": "C",
+          "block": "5",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST32-005.png",
+          "source": "bandai"
+        }
+      ]
+    }
+  ]
+}

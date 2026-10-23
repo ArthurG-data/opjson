@@ -1,0 +1,18 @@
+{
+  "_comment": "Card facts where the official card list disagrees with itself. Each entry is checked against the card image it cites; the importer fails on any disagreement that has no entry here.",
+  "EB01-023": {
+    "facts": {"power": 6000, "counter": null},
+    "evidence": "https://en.onepiece-cardgame.com/images/cardlist/card/EB01-023_p1.png",
+    "note": "The OP14-EB04 page lists the SP printing as 8000 power with a 1000 counter; the card prints 6000 and no counter."
+  },
+  "ST11-005": {
+    "facts": {"types": ["Music", "FILM"]},
+    "evidence": "https://en.onepiece-cardgame.com/images/cardlist/card/ST11-005_p2.png",
+    "note": "The ST-11 page gives the first type in Japanese."
+  },
+  "ST23-004": {
+    "facts": {"types": ["FILM", "Supernovas", "Straw Hat Crew"]},
+    "evidence": "https://en.onepiece-cardgame.com/images/cardlist/card/ST23-004_r1.png",
+    "note": "The ST-31 page lists the reprint as Animal/Straw Hat Crew; the card prints FILM/Supernovas/Straw Hat Crew."
+  }
+}

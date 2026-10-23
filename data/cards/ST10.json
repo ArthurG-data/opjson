@@ -1,0 +1,568 @@
+{
+  "cards": [
+    {
+      "number": "ST10-001",
+      "name": "Trafalgar Law",
+      "category": "Leader",
+      "power": 5000,
+      "life": 4,
+      "attributes": [
+        "Slash"
+      ],
+      "colors": [
+        "Red",
+        "Purple"
+      ],
+      "types": [
+        "Heart Pirates"
+      ],
+      "printings": [
+        {
+          "id": "ST10-001",
+          "set": "ST10",
+          "rarity": "L",
+          "block": "2",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST10-001.png",
+          "source": "bandai"
+        }
+      ]
+    },
+    {
+      "number": "ST10-002",
+      "name": "Monkey.D.Luffy",
+      "category": "Leader",
+      "power": 6000,
+      "life": 3,
+      "attributes": [
+        "Strike"
+      ],
+      "colors": [
+        "Red",
+        "Purple"
+      ],
+      "types": [
+        "Straw Hat Crew"
+      ],
+      "printings": [
+        {
+          "id": "ST10-002",
+          "set": "ST10",
+          "rarity": "L",
+          "block": "2",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST10-002.png",
+          "source": "bandai"
+        }
+      ]
+    },
+    {
+      "number": "ST10-003",
+      "name": "Eustass\"Captain\"Kid",
+      "category": "Leader",
+      "power": 5000,
+      "life": 5,
+      "attributes": [
+        "Special"
+      ],
+      "colors": [
+        "Red",
+        "Purple"
+      ],
+      "types": [
+        "Kid Pirates"
+      ],
+      "printings": [
+        {
+          "id": "ST10-003",
+          "set": "ST10",
+          "rarity": "L",
+          "block": "2",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST10-003.png",
+          "source": "bandai"
+        }
+      ]
+    },
+    {
+      "number": "ST10-004",
+      "name": "Sanji",
+      "category": "Character",
+      "cost": 6,
+      "power": 6000,
+      "counter": 1000,
+      "attributes": [
+        "Strike"
+      ],
+      "colors": [
+        "Red"
+      ],
+      "types": [
+        "Straw Hat Crew"
+      ],
+      "printings": [
+        {
+          "id": "ST10-004",
+          "set": "ST10",
+          "rarity": "C",
+          "block": "2",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST10-004.png",
+          "source": "bandai"
+        }
+      ]
+    },
+    {
+      "number": "ST10-005",
+      "name": "Jinbe",
+      "category": "Character",
+      "cost": 2,
+      "power": 2000,
+      "counter": 2000,
+      "attributes": [
+        "Strike"
+      ],
+      "colors": [
+        "Red"
+      ],
+      "types": [
+        "Fish-Man",
+        "Straw Hat Crew"
+      ],
+      "printings": [
+        {
+          "id": "ST10-005",
+          "set": "ST10",
+          "rarity": "C",
+          "block": "2",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST10-005.png",
+          "source": "bandai"
+        },
+        {
+          "id": "ST10-005_p1",
+          "set": "OTHER",
+          "rarity": "C",
+          "block": "2",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST10-005_p1.png",
+          "source": "bandai"
+        },
+        {
+          "id": "ST10-005_p2",
+          "set": "PRB02",
+          "rarity": "C",
+          "block": "2",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST10-005_p2.png",
+          "source": "bandai"
+        },
+        {
+          "id": "ST10-005_r1",
+          "set": "PRB02",
+          "rarity": "C",
+          "block": "2",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST10-005_r1.png",
+          "source": "bandai"
+        }
+      ]
+    },
+    {
+      "number": "ST10-006",
+      "name": "Monkey.D.Luffy",
+      "category": "Character",
+      "cost": 10,
+      "power": 11000,
+      "attributes": [
+        "Strike"
+      ],
+      "colors": [
+        "Red"
+      ],
+      "types": [
+        "Straw Hat Crew"
+      ],
+      "printings": [
+        {
+          "id": "ST10-006",
+          "set": "ST10",
+          "rarity": "SR",
+          "block": "2",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST10-006.png",
+          "source": "bandai"
+        },
+        {
+          "id": "ST10-006_p1",
+          "set": "P",
+          "rarity": "SR",
+          "block": "2",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST10-006_p1.png",
+          "source": "bandai"
+        },
+        {
+          "id": "ST10-006_p2",
+          "set": "OTHER",
+          "rarity": "SR",
+          "block": "2",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST10-006_p2.png",
+          "source": "bandai"
+        },
+        {
+          "id": "ST10-006_p4",
+          "set": "P",
+          "rarity": "SR",
+          "block": "2",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST10-006_p4.png",
+          "source": "bandai"
+        }
+      ]
+    },
+    {
+      "number": "ST10-007",
+      "name": "Killer",
+      "category": "Character",
+      "cost": 5,
+      "power": 6000,
+      "counter": 1000,
+      "attributes": [
+        "Slash"
+      ],
+      "colors": [
+        "Purple"
+      ],
+      "types": [
+        "Kid Pirates"
+      ],
+      "printings": [
+        {
+          "id": "ST10-007",
+          "set": "ST10",
+          "rarity": "C",
+          "block": "2",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST10-007.png",
+          "source": "bandai"
+        }
+      ]
+    },
+    {
+      "number": "ST10-008",
+      "name": "Shachi & Penguin",
+      "category": "Character",
+      "cost": 4,
+      "power": 5000,
+      "counter": 2000,
+      "attributes": [
+        "Ranged"
+      ],
+      "colors": [
+        "Purple"
+      ],
+      "types": [
+        "Heart Pirates"
+      ],
+      "printings": [
+        {
+          "id": "ST10-008",
+          "set": "ST10",
+          "rarity": "C",
+          "block": "2",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST10-008.png",
+          "source": "bandai"
+        },
+        {
+          "id": "ST10-008_p1",
+          "set": "P",
+          "rarity": "C",
+          "block": "2",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST10-008_p1.png",
+          "source": "bandai"
+        },
+        {
+          "id": "ST10-008_p2",
+          "set": "P",
+          "rarity": "C",
+          "block": "2",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST10-008_p2.png",
+          "source": "bandai"
+        },
+        {
+          "id": "ST10-008_p3",
+          "set": "PRB02",
+          "rarity": "C",
+          "block": "2",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST10-008_p3.png",
+          "source": "bandai"
+        },
+        {
+          "id": "ST10-008_r1",
+          "set": "PRB02",
+          "rarity": "C",
+          "block": "2",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST10-008_r1.png",
+          "source": "bandai"
+        }
+      ]
+    },
+    {
+      "number": "ST10-009",
+      "name": "Jean Bart",
+      "category": "Character",
+      "cost": 4,
+      "power": 5000,
+      "counter": 1000,
+      "attributes": [
+        "Strike"
+      ],
+      "colors": [
+        "Purple"
+      ],
+      "types": [
+        "Heart Pirates"
+      ],
+      "printings": [
+        {
+          "id": "ST10-009",
+          "set": "ST10",
+          "rarity": "C",
+          "block": "2",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST10-009.png",
+          "source": "bandai"
+        }
+      ]
+    },
+    {
+      "number": "ST10-010",
+      "name": "Trafalgar Law",
+      "category": "Character",
+      "cost": 4,
+      "power": 5000,
+      "counter": 1000,
+      "attributes": [
+        "Slash"
+      ],
+      "colors": [
+        "Purple"
+      ],
+      "types": [
+        "Heart Pirates"
+      ],
+      "printings": [
+        {
+          "id": "ST10-010",
+          "set": "ST10",
+          "rarity": "SR",
+          "block": "2",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST10-010.png",
+          "source": "bandai"
+        },
+        {
+          "id": "ST10-010_p1",
+          "set": "P",
+          "rarity": "SR",
+          "block": "2",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST10-010_p1.png",
+          "source": "bandai"
+        },
+        {
+          "id": "ST10-010_p2",
+          "set": "OP07",
+          "rarity": "TR",
+          "block": "2",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST10-010_p2.png",
+          "source": "bandai"
+        },
+        {
+          "id": "ST10-010_p4",
+          "set": "PRB01",
+          "rarity": "SR",
+          "block": "2",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST10-010_p4.png",
+          "source": "bandai"
+        },
+        {
+          "id": "ST10-010_r1",
+          "set": "PRB01",
+          "rarity": "SR",
+          "block": "2",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST10-010_r1.png",
+          "source": "bandai"
+        }
+      ]
+    },
+    {
+      "number": "ST10-011",
+      "name": "Heat",
+      "category": "Character",
+      "cost": 3,
+      "power": 4000,
+      "counter": 1000,
+      "attributes": [
+        "Special"
+      ],
+      "colors": [
+        "Purple"
+      ],
+      "types": [
+        "Kid Pirates"
+      ],
+      "printings": [
+        {
+          "id": "ST10-011",
+          "set": "ST10",
+          "rarity": "C",
+          "block": "2",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST10-011.png",
+          "source": "bandai"
+        }
+      ]
+    },
+    {
+      "number": "ST10-012",
+      "name": "Bepo",
+      "category": "Character",
+      "cost": 4,
+      "power": 5000,
+      "counter": 1000,
+      "attributes": [
+        "Strike"
+      ],
+      "colors": [
+        "Purple"
+      ],
+      "types": [
+        "Minks",
+        "Heart Pirates"
+      ],
+      "printings": [
+        {
+          "id": "ST10-012",
+          "set": "ST10",
+          "rarity": "C",
+          "block": "2",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST10-012.png",
+          "source": "bandai"
+        }
+      ]
+    },
+    {
+      "number": "ST10-013",
+      "name": "Eustass\"Captain\"Kid",
+      "category": "Character",
+      "cost": 7,
+      "power": 8000,
+      "attributes": [
+        "Special"
+      ],
+      "colors": [
+        "Purple"
+      ],
+      "types": [
+        "Kid Pirates"
+      ],
+      "printings": [
+        {
+          "id": "ST10-013",
+          "set": "ST10",
+          "rarity": "SR",
+          "block": "2",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST10-013.png",
+          "source": "bandai"
+        },
+        {
+          "id": "ST10-013_p1",
+          "set": "P",
+          "rarity": "SR",
+          "block": "2",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST10-013_p1.png",
+          "source": "bandai"
+        }
+      ]
+    },
+    {
+      "number": "ST10-014",
+      "name": "Wire",
+      "category": "Character",
+      "cost": 3,
+      "power": 3000,
+      "counter": 1000,
+      "attributes": [
+        "Slash"
+      ],
+      "colors": [
+        "Purple"
+      ],
+      "types": [
+        "Kid Pirates"
+      ],
+      "printings": [
+        {
+          "id": "ST10-014",
+          "set": "ST10",
+          "rarity": "C",
+          "block": "2",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST10-014.png",
+          "source": "bandai"
+        }
+      ]
+    },
+    {
+      "number": "ST10-015",
+      "name": "Gum-Gum Giant Sumo Slap",
+      "category": "Event",
+      "cost": 1,
+      "colors": [
+        "Red"
+      ],
+      "types": [
+        "Straw Hat Crew"
+      ],
+      "printings": [
+        {
+          "id": "ST10-015",
+          "set": "ST10",
+          "rarity": "C",
+          "block": "2",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST10-015.png",
+          "source": "bandai"
+        }
+      ]
+    },
+    {
+      "number": "ST10-016",
+      "name": "Gum-Gum Kong Gatling",
+      "category": "Event",
+      "cost": 5,
+      "colors": [
+        "Red"
+      ],
+      "types": [
+        "Straw Hat Crew"
+      ],
+      "printings": [
+        {
+          "id": "ST10-016",
+          "set": "ST10",
+          "rarity": "C",
+          "block": "2",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST10-016.png",
+          "source": "bandai"
+        }
+      ]
+    },
+    {
+      "number": "ST10-017",
+      "name": "Punk Vise",
+      "category": "Event",
+      "cost": 3,
+      "colors": [
+        "Purple"
+      ],
+      "types": [
+        "Kid Pirates"
+      ],
+      "printings": [
+        {
+          "id": "ST10-017",
+          "set": "ST10",
+          "rarity": "C",
+          "block": "2",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST10-017.png",
+          "source": "bandai"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,539 @@
+{
+  "cards": [
+    {
+      "number": "ST02-001",
+      "name": "Eustass\"Captain\"Kid",
+      "category": "Leader",
+      "power": 5000,
+      "life": 5,
+      "attributes": [
+        "Special"
+      ],
+      "colors": [
+        "Green"
+      ],
+      "types": [
+        "Supernovas",
+        "Kid Pirates"
+      ],
+      "printings": [
+        {
+          "id": "ST02-001",
+          "set": "ST02",
+          "rarity": "L",
+          "block": "1",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST02-001.png",
+          "source": "bandai"
+        }
+      ]
+    },
+    {
+      "number": "ST02-002",
+      "name": "Vito",
+      "category": "Character",
+      "cost": 3,
+      "power": 5000,
+      "counter": 1000,
+      "attributes": [
+        "Ranged"
+      ],
+      "colors": [
+        "Green"
+      ],
+      "types": [
+        "Firetank Pirates"
+      ],
+      "printings": [
+        {
+          "id": "ST02-002",
+          "set": "ST02",
+          "rarity": "C",
+          "block": "1",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST02-002.png",
+          "source": "bandai"
+        }
+      ]
+    },
+    {
+      "number": "ST02-003",
+      "name": "Urouge",
+      "category": "Character",
+      "cost": 2,
+      "power": 3000,
+      "counter": 1000,
+      "attributes": [
+        "Strike"
+      ],
+      "colors": [
+        "Green"
+      ],
+      "types": [
+        "Supernovas",
+        "Fallen Monk Pirates"
+      ],
+      "printings": [
+        {
+          "id": "ST02-003",
+          "set": "ST02",
+          "rarity": "C",
+          "block": "1",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST02-003.png",
+          "source": "bandai"
+        }
+      ]
+    },
+    {
+      "number": "ST02-004",
+      "name": "Capone\"Gang\"Bege",
+      "category": "Character",
+      "cost": 1,
+      "power": 1000,
+      "attributes": [
+        "Special"
+      ],
+      "colors": [
+        "Green"
+      ],
+      "types": [
+        "Supernovas",
+        "Firetank Pirates"
+      ],
+      "printings": [
+        {
+          "id": "ST02-004",
+          "set": "ST02",
+          "rarity": "C",
+          "block": "1",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST02-004.png",
+          "source": "bandai"
+        },
+        {
+          "id": "ST02-004_p2",
+          "set": "PRB01",
+          "rarity": "C",
+          "block": "1",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST02-004_p2.png",
+          "source": "bandai"
+        },
+        {
+          "id": "ST02-004_p3",
+          "set": "PRB01",
+          "rarity": "C",
+          "block": "1",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST02-004_p3.png",
+          "source": "bandai"
+        },
+        {
+          "id": "ST02-004_p4",
+          "set": "PRB01",
+          "rarity": "C",
+          "block": "1",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST02-004_p4.png",
+          "source": "bandai"
+        },
+        {
+          "id": "ST02-004_r1",
+          "set": "PRB01",
+          "rarity": "C",
+          "block": "1",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST02-004_r1.png",
+          "source": "bandai"
+        }
+      ]
+    },
+    {
+      "number": "ST02-005",
+      "name": "Killer",
+      "category": "Character",
+      "cost": 3,
+      "power": 3000,
+      "counter": 1000,
+      "attributes": [
+        "Slash"
+      ],
+      "colors": [
+        "Green"
+      ],
+      "types": [
+        "Supernovas",
+        "Kid Pirates"
+      ],
+      "printings": [
+        {
+          "id": "ST02-005",
+          "set": "ST02",
+          "rarity": "C",
+          "block": "1",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST02-005.png",
+          "source": "bandai"
+        }
+      ]
+    },
+    {
+      "number": "ST02-006",
+      "name": "Koby",
+      "category": "Character",
+      "cost": 4,
+      "power": 6000,
+      "counter": 1000,
+      "attributes": [
+        "Strike"
+      ],
+      "colors": [
+        "Green"
+      ],
+      "types": [
+        "Navy"
+      ],
+      "printings": [
+        {
+          "id": "ST02-006",
+          "set": "ST02",
+          "rarity": "C",
+          "block": "1",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST02-006.png",
+          "source": "bandai"
+        }
+      ]
+    },
+    {
+      "number": "ST02-007",
+      "name": "Jewelry Bonney",
+      "category": "Character",
+      "cost": 1,
+      "power": 1000,
+      "counter": 1000,
+      "attributes": [
+        "Special"
+      ],
+      "colors": [
+        "Green"
+      ],
+      "types": [
+        "Supernovas",
+        "Bonney Pirates"
+      ],
+      "printings": [
+        {
+          "id": "ST02-007",
+          "set": "ST02",
+          "rarity": "C",
+          "block": "1",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST02-007.png",
+          "source": "bandai"
+        },
+        {
+          "id": "ST02-007_p1",
+          "set": "P",
+          "rarity": "C",
+          "block": "1",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST02-007_p1.png",
+          "source": "bandai"
+        },
+        {
+          "id": "ST02-007_p2",
+          "set": "OP08",
+          "rarity": "SP CARD",
+          "block": "1",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST02-007_p2.png",
+          "source": "bandai"
+        },
+        {
+          "id": "ST02-007_p3",
+          "set": "PRB02",
+          "rarity": "C",
+          "block": "1",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST02-007_p3.png",
+          "source": "bandai"
+        },
+        {
+          "id": "ST02-007_r1",
+          "set": "PRB02",
+          "rarity": "C",
+          "block": "1",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST02-007_r1.png",
+          "source": "bandai"
+        }
+      ]
+    },
+    {
+      "number": "ST02-008",
+      "name": "Scratchmen Apoo",
+      "category": "Character",
+      "cost": 2,
+      "power": 3000,
+      "counter": 2000,
+      "attributes": [
+        "Ranged"
+      ],
+      "colors": [
+        "Green"
+      ],
+      "types": [
+        "Supernovas",
+        "On-Air Pirates"
+      ],
+      "printings": [
+        {
+          "id": "ST02-008",
+          "set": "ST02",
+          "rarity": "C",
+          "block": "1",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST02-008.png",
+          "source": "bandai"
+        },
+        {
+          "id": "ST02-008_p1",
+          "set": "P",
+          "rarity": "C",
+          "block": "1",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST02-008_p1.png",
+          "source": "bandai"
+        }
+      ]
+    },
+    {
+      "number": "ST02-009",
+      "name": "Trafalgar Law",
+      "category": "Character",
+      "cost": 5,
+      "power": 6000,
+      "counter": 1000,
+      "attributes": [
+        "Slash"
+      ],
+      "colors": [
+        "Green"
+      ],
+      "types": [
+        "Supernovas",
+        "Heart Pirates"
+      ],
+      "printings": [
+        {
+          "id": "ST02-009",
+          "set": "ST02",
+          "rarity": "SR",
+          "block": "1",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST02-009.png",
+          "source": "bandai"
+        }
+      ]
+    },
+    {
+      "number": "ST02-010",
+      "name": "Basil Hawkins",
+      "category": "Character",
+      "cost": 5,
+      "power": 6000,
+      "attributes": [
+        "Slash"
+      ],
+      "colors": [
+        "Green"
+      ],
+      "types": [
+        "Supernovas",
+        "Hawkins Pirates"
+      ],
+      "printings": [
+        {
+          "id": "ST02-010",
+          "set": "ST02",
+          "rarity": "C",
+          "block": "1",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST02-010.png",
+          "source": "bandai"
+        }
+      ]
+    },
+    {
+      "number": "ST02-011",
+      "name": "Heat",
+      "category": "Character",
+      "cost": 2,
+      "power": 4000,
+      "counter": 1000,
+      "attributes": [
+        "Special"
+      ],
+      "colors": [
+        "Green"
+      ],
+      "types": [
+        "Kid Pirates"
+      ],
+      "printings": [
+        {
+          "id": "ST02-011",
+          "set": "ST02",
+          "rarity": "C",
+          "block": "1",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST02-011.png",
+          "source": "bandai"
+        }
+      ]
+    },
+    {
+      "number": "ST02-012",
+      "name": "Bepo",
+      "category": "Character",
+      "cost": 1,
+      "power": 3000,
+      "counter": 1000,
+      "attributes": [
+        "Strike"
+      ],
+      "colors": [
+        "Green"
+      ],
+      "types": [
+        "Minks",
+        "Heart Pirates"
+      ],
+      "printings": [
+        {
+          "id": "ST02-012",
+          "set": "ST02",
+          "rarity": "C",
+          "block": "1",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST02-012.png",
+          "source": "bandai"
+        }
+      ]
+    },
+    {
+      "number": "ST02-013",
+      "name": "Eustass\"Captain\"Kid",
+      "category": "Character",
+      "cost": 7,
+      "power": 7000,
+      "attributes": [
+        "Special"
+      ],
+      "colors": [
+        "Green"
+      ],
+      "types": [
+        "Supernovas",
+        "Kid Pirates"
+      ],
+      "printings": [
+        {
+          "id": "ST02-013",
+          "set": "ST02",
+          "rarity": "SR",
+          "block": "1",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST02-013.png",
+          "source": "bandai"
+        },
+        {
+          "id": "ST02-013_p1",
+          "set": "P",
+          "rarity": "SR",
+          "block": "1",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST02-013_p1.png",
+          "source": "bandai"
+        }
+      ]
+    },
+    {
+      "number": "ST02-014",
+      "name": "X.Drake",
+      "category": "Character",
+      "cost": 4,
+      "power": 5000,
+      "counter": 1000,
+      "attributes": [
+        "Slash"
+      ],
+      "colors": [
+        "Green"
+      ],
+      "types": [
+        "Navy",
+        "Supernovas",
+        "Drake Pirates"
+      ],
+      "printings": [
+        {
+          "id": "ST02-014",
+          "set": "ST02",
+          "rarity": "C",
+          "block": "1",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST02-014.png",
+          "source": "bandai"
+        }
+      ]
+    },
+    {
+      "number": "ST02-015",
+      "name": "Scalpel",
+      "category": "Event",
+      "cost": 1,
+      "colors": [
+        "Green"
+      ],
+      "types": [
+        "Supernovas",
+        "Heart Pirates"
+      ],
+      "printings": [
+        {
+          "id": "ST02-015",
+          "set": "ST02",
+          "rarity": "C",
+          "block": "1",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST02-015.png",
+          "source": "bandai"
+        }
+      ]
+    },
+    {
+      "number": "ST02-016",
+      "name": "Repel",
+      "category": "Event",
+      "cost": 2,
+      "colors": [
+        "Green"
+      ],
+      "types": [
+        "Supernovas",
+        "Kid Pirates"
+      ],
+      "printings": [
+        {
+          "id": "ST02-016",
+          "set": "ST02",
+          "rarity": "C",
+          "block": "1",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST02-016.png",
+          "source": "bandai"
+        }
+      ]
+    },
+    {
+      "number": "ST02-017",
+      "name": "Straw Sword",
+      "category": "Event",
+      "cost": 2,
+      "colors": [
+        "Green"
+      ],
+      "types": [
+        "Supernovas",
+        "Hawkins Pirates"
+      ],
+      "printings": [
+        {
+          "id": "ST02-017",
+          "set": "ST02",
+          "rarity": "C",
+          "block": "1",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST02-017.png",
+          "source": "bandai"
+        }
+      ]
+    }
+  ]
+}

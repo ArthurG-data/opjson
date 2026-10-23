@@ -1,0 +1,590 @@
+{
+  "cards": [
+    {
+      "number": "ST04-001",
+      "name": "Kaido",
+      "category": "Leader",
+      "power": 5000,
+      "life": 5,
+      "attributes": [
+        "Strike"
+      ],
+      "colors": [
+        "Purple"
+      ],
+      "types": [
+        "The Four Emperors",
+        "Animal Kingdom Pirates"
+      ],
+      "printings": [
+        {
+          "id": "ST04-001",
+          "set": "ST04",
+          "rarity": "L",
+          "block": "1",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST04-001.png",
+          "source": "bandai"
+        }
+      ]
+    },
+    {
+      "number": "ST04-002",
+      "name": "Ulti",
+      "category": "Character",
+      "cost": 4,
+      "power": 5000,
+      "counter": 2000,
+      "attributes": [
+        "Strike"
+      ],
+      "colors": [
+        "Purple"
+      ],
+      "types": [
+        "Animal Kingdom Pirates"
+      ],
+      "printings": [
+        {
+          "id": "ST04-002",
+          "set": "ST04",
+          "rarity": "C",
+          "block": "1",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST04-002.png",
+          "source": "bandai"
+        },
+        {
+          "id": "ST04-002_p1",
+          "set": "OTHER",
+          "rarity": "C",
+          "block": "1",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST04-002_p1.png",
+          "source": "bandai"
+        }
+      ]
+    },
+    {
+      "number": "ST04-003",
+      "name": "Kaido",
+      "category": "Character",
+      "cost": 9,
+      "power": 10000,
+      "attributes": [
+        "Strike"
+      ],
+      "colors": [
+        "Purple"
+      ],
+      "types": [
+        "The Four Emperors",
+        "Animal Kingdom Pirates"
+      ],
+      "printings": [
+        {
+          "id": "ST04-003",
+          "set": "ST04",
+          "rarity": "SR",
+          "block": "1",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST04-003.png",
+          "source": "bandai"
+        },
+        {
+          "id": "ST04-003_p1",
+          "set": "OP03",
+          "rarity": "SP CARD",
+          "block": "1",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST04-003_p1.png",
+          "source": "bandai"
+        },
+        {
+          "id": "ST04-003_p2",
+          "set": "P",
+          "rarity": "SR",
+          "block": "1",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST04-003_p2.png",
+          "source": "bandai"
+        },
+        {
+          "id": "ST04-003_p4",
+          "set": "PRB01",
+          "rarity": "SR",
+          "block": "1",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST04-003_p4.png",
+          "source": "bandai"
+        },
+        {
+          "id": "ST04-003_r1",
+          "set": "PRB01",
+          "rarity": "SR",
+          "block": "1",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST04-003_r1.png",
+          "source": "bandai"
+        }
+      ]
+    },
+    {
+      "number": "ST04-004",
+      "name": "King",
+      "category": "Character",
+      "cost": 6,
+      "power": 7000,
+      "attributes": [
+        "Special"
+      ],
+      "colors": [
+        "Purple"
+      ],
+      "types": [
+        "Animal Kingdom Pirates"
+      ],
+      "printings": [
+        {
+          "id": "ST04-004",
+          "set": "ST04",
+          "rarity": "SR",
+          "block": "1",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST04-004.png",
+          "source": "bandai"
+        }
+      ]
+    },
+    {
+      "number": "ST04-005",
+      "name": "Queen",
+      "category": "Character",
+      "cost": 5,
+      "power": 6000,
+      "counter": 1000,
+      "attributes": [
+        "Strike"
+      ],
+      "colors": [
+        "Purple"
+      ],
+      "types": [
+        "Animal Kingdom Pirates"
+      ],
+      "printings": [
+        {
+          "id": "ST04-005",
+          "set": "ST04",
+          "rarity": "C",
+          "block": "1",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST04-005.png",
+          "source": "bandai"
+        },
+        {
+          "id": "ST04-005_p1",
+          "set": "OP08",
+          "rarity": "SP CARD",
+          "block": "1",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST04-005_p1.png",
+          "source": "bandai"
+        },
+        {
+          "id": "ST04-005_p3",
+          "set": "PRB01",
+          "rarity": "C",
+          "block": "1",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST04-005_p3.png",
+          "source": "bandai"
+        },
+        {
+          "id": "ST04-005_p4",
+          "set": "PRB01",
+          "rarity": "C",
+          "block": "1",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST04-005_p4.png",
+          "source": "bandai"
+        },
+        {
+          "id": "ST04-005_r1",
+          "set": "PRB01",
+          "rarity": "C",
+          "block": "1",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST04-005_r1.png",
+          "source": "bandai"
+        }
+      ]
+    },
+    {
+      "number": "ST04-006",
+      "name": "Sasaki",
+      "category": "Character",
+      "cost": 3,
+      "power": 4000,
+      "counter": 1000,
+      "attributes": [
+        "Ranged"
+      ],
+      "colors": [
+        "Purple"
+      ],
+      "types": [
+        "Animal Kingdom Pirates"
+      ],
+      "printings": [
+        {
+          "id": "ST04-006",
+          "set": "ST04",
+          "rarity": "C",
+          "block": "1",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST04-006.png",
+          "source": "bandai"
+        }
+      ]
+    },
+    {
+      "number": "ST04-007",
+      "name": "Sheepshead",
+      "category": "Character",
+      "cost": 2,
+      "power": 4000,
+      "counter": 1000,
+      "attributes": [
+        "Slash"
+      ],
+      "colors": [
+        "Purple"
+      ],
+      "types": [
+        "Animal Kingdom Pirates",
+        "Smile"
+      ],
+      "printings": [
+        {
+          "id": "ST04-007",
+          "set": "ST04",
+          "rarity": "C",
+          "block": "1",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST04-007.png",
+          "source": "bandai"
+        }
+      ]
+    },
+    {
+      "number": "ST04-008",
+      "name": "Jack",
+      "category": "Character",
+      "cost": 3,
+      "power": 4000,
+      "counter": 1000,
+      "attributes": [
+        "Strike"
+      ],
+      "colors": [
+        "Purple"
+      ],
+      "types": [
+        "Animal Kingdom Pirates"
+      ],
+      "printings": [
+        {
+          "id": "ST04-008",
+          "set": "ST04",
+          "rarity": "C",
+          "block": "1",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST04-008.png",
+          "source": "bandai"
+        },
+        {
+          "id": "ST04-008_p1",
+          "set": "P",
+          "rarity": "C",
+          "block": "1",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST04-008_p1.png",
+          "source": "bandai"
+        },
+        {
+          "id": "ST04-008_p2",
+          "set": "OTHER",
+          "rarity": "C",
+          "block": "1",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST04-008_p2.png",
+          "source": "bandai"
+        }
+      ]
+    },
+    {
+      "number": "ST04-009",
+      "name": "Ginrummy",
+      "category": "Character",
+      "cost": 1,
+      "power": 3000,
+      "counter": 1000,
+      "attributes": [
+        "Strike"
+      ],
+      "colors": [
+        "Purple"
+      ],
+      "types": [
+        "Animal Kingdom Pirates",
+        "Smile"
+      ],
+      "printings": [
+        {
+          "id": "ST04-009",
+          "set": "ST04",
+          "rarity": "C",
+          "block": "1",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST04-009.png",
+          "source": "bandai"
+        }
+      ]
+    },
+    {
+      "number": "ST04-010",
+      "name": "Who's.Who",
+      "category": "Character",
+      "cost": 3,
+      "power": 3000,
+      "attributes": [
+        "Slash"
+      ],
+      "colors": [
+        "Purple"
+      ],
+      "types": [
+        "Animal Kingdom Pirates"
+      ],
+      "printings": [
+        {
+          "id": "ST04-010",
+          "set": "ST04",
+          "rarity": "C",
+          "block": "1",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST04-010.png",
+          "source": "bandai"
+        },
+        {
+          "id": "ST04-010_p1",
+          "set": "P",
+          "rarity": "C",
+          "block": "1",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST04-010_p1.png",
+          "source": "bandai"
+        }
+      ]
+    },
+    {
+      "number": "ST04-011",
+      "name": "Black Maria",
+      "category": "Character",
+      "cost": 2,
+      "power": 2000,
+      "counter": 1000,
+      "attributes": [
+        "Special"
+      ],
+      "colors": [
+        "Purple"
+      ],
+      "types": [
+        "Animal Kingdom Pirates"
+      ],
+      "printings": [
+        {
+          "id": "ST04-011",
+          "set": "ST04",
+          "rarity": "C",
+          "block": "1",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST04-011.png",
+          "source": "bandai"
+        },
+        {
+          "id": "ST04-011_p1",
+          "set": "P",
+          "rarity": "C",
+          "block": "1",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST04-011_p1.png",
+          "source": "bandai"
+        },
+        {
+          "id": "ST04-011_p2",
+          "set": "OTHER",
+          "rarity": "C",
+          "block": "1",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST04-011_p2.png",
+          "source": "bandai"
+        }
+      ]
+    },
+    {
+      "number": "ST04-012",
+      "name": "Page One",
+      "category": "Character",
+      "cost": 4,
+      "power": 6000,
+      "counter": 1000,
+      "attributes": [
+        "Strike"
+      ],
+      "colors": [
+        "Purple"
+      ],
+      "types": [
+        "Animal Kingdom Pirates"
+      ],
+      "printings": [
+        {
+          "id": "ST04-012",
+          "set": "ST04",
+          "rarity": "C",
+          "block": "1",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST04-012.png",
+          "source": "bandai"
+        }
+      ]
+    },
+    {
+      "number": "ST04-013",
+      "name": "X.Drake",
+      "category": "Character",
+      "cost": 3,
+      "power": 5000,
+      "counter": 1000,
+      "attributes": [
+        "Slash"
+      ],
+      "colors": [
+        "Purple"
+      ],
+      "types": [
+        "Navy",
+        "Drake Pirates",
+        "Animal Kingdom Pirates"
+      ],
+      "printings": [
+        {
+          "id": "ST04-013",
+          "set": "ST04",
+          "rarity": "C",
+          "block": "1",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST04-013.png",
+          "source": "bandai"
+        }
+      ]
+    },
+    {
+      "number": "ST04-014",
+      "name": "Lead Performer \"Disaster\"",
+      "category": "Event",
+      "cost": 4,
+      "colors": [
+        "Purple"
+      ],
+      "types": [
+        "Animal Kingdom Pirates"
+      ],
+      "printings": [
+        {
+          "id": "ST04-014",
+          "set": "ST04",
+          "rarity": "C",
+          "block": "1",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST04-014.png",
+          "source": "bandai"
+        }
+      ]
+    },
+    {
+      "number": "ST04-015",
+      "name": "Brachio Bomber",
+      "category": "Event",
+      "cost": 6,
+      "colors": [
+        "Purple"
+      ],
+      "types": [
+        "Animal Kingdom Pirates"
+      ],
+      "printings": [
+        {
+          "id": "ST04-015",
+          "set": "ST04",
+          "rarity": "C",
+          "block": "1",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST04-015.png",
+          "source": "bandai"
+        }
+      ]
+    },
+    {
+      "number": "ST04-016",
+      "name": "Blast Breath",
+      "category": "Event",
+      "cost": 1,
+      "colors": [
+        "Purple"
+      ],
+      "types": [
+        "The Four Emperors",
+        "Animal Kingdom Pirates"
+      ],
+      "printings": [
+        {
+          "id": "ST04-016",
+          "set": "ST04",
+          "rarity": "C",
+          "block": "1",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST04-016.png",
+          "source": "bandai"
+        },
+        {
+          "id": "ST04-016_p2",
+          "set": "PRB01",
+          "rarity": "C",
+          "block": "1",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST04-016_p2.png",
+          "source": "bandai"
+        },
+        {
+          "id": "ST04-016_p3",
+          "set": "PRB01",
+          "rarity": "C",
+          "block": "1",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST04-016_p3.png",
+          "source": "bandai"
+        },
+        {
+          "id": "ST04-016_p4",
+          "set": "OTHER",
+          "rarity": "C",
+          "block": "1",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST04-016_p4.png",
+          "source": "bandai"
+        },
+        {
+          "id": "ST04-016_r1",
+          "set": "PRB01",
+          "rarity": "C",
+          "block": "1",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST04-016_r1.png",
+          "source": "bandai"
+        }
+      ]
+    },
+    {
+      "number": "ST04-017",
+      "name": "Onigashima Island",
+      "category": "Stage",
+      "cost": 3,
+      "colors": [
+        "Purple"
+      ],
+      "types": [
+        "Animal Kingdom Pirates"
+      ],
+      "printings": [
+        {
+          "id": "ST04-017",
+          "set": "ST04",
+          "rarity": "C",
+          "block": "1",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST04-017.png",
+          "source": "bandai"
+        }
+      ]
+    }
+  ]
+}

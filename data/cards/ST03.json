@@ -1,0 +1,674 @@
+{
+  "cards": [
+    {
+      "number": "ST03-001",
+      "name": "Crocodile",
+      "category": "Leader",
+      "power": 5000,
+      "life": 5,
+      "attributes": [
+        "Special"
+      ],
+      "colors": [
+        "Blue"
+      ],
+      "types": [
+        "The Seven Warlords of the Sea",
+        "Baroque Works"
+      ],
+      "printings": [
+        {
+          "id": "ST03-001",
+          "set": "ST03",
+          "rarity": "L",
+          "block": "1",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST03-001.png",
+          "source": "bandai"
+        }
+      ]
+    },
+    {
+      "number": "ST03-002",
+      "name": "Edward Weevil",
+      "category": "Character",
+      "cost": 3,
+      "power": 5000,
+      "counter": 1000,
+      "attributes": [
+        "Slash"
+      ],
+      "colors": [
+        "Blue"
+      ],
+      "types": [
+        "The Seven Warlords of the Sea"
+      ],
+      "printings": [
+        {
+          "id": "ST03-002",
+          "set": "ST03",
+          "rarity": "C",
+          "block": "1",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST03-002.png",
+          "source": "bandai"
+        },
+        {
+          "id": "ST03-002_r1",
+          "set": "ST17",
+          "rarity": "C",
+          "block": "1",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST03-002_r1.png",
+          "source": "bandai"
+        }
+      ]
+    },
+    {
+      "number": "ST03-003",
+      "name": "Crocodile",
+      "category": "Character",
+      "cost": 5,
+      "power": 6000,
+      "attributes": [
+        "Special"
+      ],
+      "colors": [
+        "Blue"
+      ],
+      "types": [
+        "The Seven Warlords of the Sea",
+        "Baroque Works"
+      ],
+      "printings": [
+        {
+          "id": "ST03-003",
+          "set": "ST03",
+          "rarity": "SR",
+          "block": "1",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST03-003.png",
+          "source": "bandai"
+        },
+        {
+          "id": "ST03-003_p1",
+          "set": "P",
+          "rarity": "SR",
+          "block": "1",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST03-003_p1.png",
+          "source": "bandai"
+        }
+      ]
+    },
+    {
+      "number": "ST03-004",
+      "name": "Gecko Moria",
+      "category": "Character",
+      "cost": 4,
+      "power": 5000,
+      "counter": 1000,
+      "attributes": [
+        "Special"
+      ],
+      "colors": [
+        "Blue"
+      ],
+      "types": [
+        "The Seven Warlords of the Sea",
+        "Thriller Bark Pirates"
+      ],
+      "printings": [
+        {
+          "id": "ST03-004",
+          "set": "ST03",
+          "rarity": "C",
+          "block": "1",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST03-004.png",
+          "source": "bandai"
+        },
+        {
+          "id": "ST03-004_p1",
+          "set": "OP08",
+          "rarity": "SP CARD",
+          "block": "1",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST03-004_p1.png",
+          "source": "bandai"
+        },
+        {
+          "id": "ST03-004_p3",
+          "set": "OTHER",
+          "rarity": "C",
+          "block": "1",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST03-004_p3.png",
+          "source": "bandai"
+        },
+        {
+          "id": "ST03-004_r1",
+          "set": "ST17",
+          "rarity": "C",
+          "block": "1",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST03-004_r1.png",
+          "source": "bandai"
+        }
+      ]
+    },
+    {
+      "number": "ST03-005",
+      "name": "Dracule Mihawk",
+      "category": "Character",
+      "cost": 4,
+      "power": 5000,
+      "counter": 2000,
+      "attributes": [
+        "Slash"
+      ],
+      "colors": [
+        "Blue"
+      ],
+      "types": [
+        "The Seven Warlords of the Sea"
+      ],
+      "printings": [
+        {
+          "id": "ST03-005",
+          "set": "ST03",
+          "rarity": "C",
+          "block": "1",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST03-005.png",
+          "source": "bandai"
+        },
+        {
+          "id": "ST03-005_p1",
+          "set": "P",
+          "rarity": "C",
+          "block": "1",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST03-005_p1.png",
+          "source": "bandai"
+        },
+        {
+          "id": "ST03-005_p4",
+          "set": "PRB01",
+          "rarity": "C",
+          "block": "1",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST03-005_p4.png",
+          "source": "bandai"
+        },
+        {
+          "id": "ST03-005_p5",
+          "set": "PRB01",
+          "rarity": "C",
+          "block": "1",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST03-005_p5.png",
+          "source": "bandai"
+        },
+        {
+          "id": "ST03-005_r1",
+          "set": "ST17",
+          "rarity": "C",
+          "block": "1",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST03-005_r1.png",
+          "source": "bandai"
+        },
+        {
+          "id": "ST03-005_r2",
+          "set": "PRB01",
+          "rarity": "C",
+          "block": "1",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST03-005_r2.png",
+          "source": "bandai"
+        }
+      ]
+    },
+    {
+      "number": "ST03-006",
+      "name": "Jinbe",
+      "category": "Character",
+      "cost": 2,
+      "power": 4000,
+      "counter": 1000,
+      "attributes": [
+        "Strike"
+      ],
+      "colors": [
+        "Blue"
+      ],
+      "types": [
+        "Fish-Man",
+        "The Seven Warlords of the Sea",
+        "The Sun Pirates"
+      ],
+      "printings": [
+        {
+          "id": "ST03-006",
+          "set": "ST03",
+          "rarity": "C",
+          "block": "1",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST03-006.png",
+          "source": "bandai"
+        }
+      ]
+    },
+    {
+      "number": "ST03-007",
+      "name": "Sentomaru",
+      "category": "Character",
+      "cost": 3,
+      "power": 4000,
+      "counter": 1000,
+      "attributes": [
+        "Slash"
+      ],
+      "colors": [
+        "Blue"
+      ],
+      "types": [
+        "Navy"
+      ],
+      "printings": [
+        {
+          "id": "ST03-007",
+          "set": "ST03",
+          "rarity": "C",
+          "block": "1",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST03-007.png",
+          "source": "bandai"
+        },
+        {
+          "id": "ST03-007_p1",
+          "set": "P",
+          "rarity": "C",
+          "block": "1",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST03-007_p1.png",
+          "source": "bandai"
+        },
+        {
+          "id": "ST03-007_p2",
+          "set": "OTHER",
+          "rarity": "C",
+          "block": "1",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST03-007_p2.png",
+          "source": "bandai"
+        }
+      ]
+    },
+    {
+      "number": "ST03-008",
+      "name": "Trafalgar Law",
+      "category": "Character",
+      "cost": 1,
+      "power": 1000,
+      "attributes": [
+        "Slash"
+      ],
+      "colors": [
+        "Blue"
+      ],
+      "types": [
+        "The Seven Warlords of the Sea",
+        "Heart Pirates"
+      ],
+      "printings": [
+        {
+          "id": "ST03-008",
+          "set": "ST03",
+          "rarity": "C",
+          "block": "1",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST03-008.png",
+          "source": "bandai"
+        },
+        {
+          "id": "ST03-008_p1",
+          "set": "OTHER",
+          "rarity": "C",
+          "block": "1",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST03-008_p1.png",
+          "source": "bandai"
+        },
+        {
+          "id": "ST03-008_p2",
+          "set": "P",
+          "rarity": "C",
+          "block": "1",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST03-008_p2.png",
+          "source": "bandai"
+        },
+        {
+          "id": "ST03-008_p3",
+          "set": "P",
+          "rarity": "C",
+          "block": "1",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST03-008_p3.png",
+          "source": "bandai"
+        },
+        {
+          "id": "ST03-008_p6",
+          "set": "PRB01",
+          "rarity": "C",
+          "block": "1",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST03-008_p6.png",
+          "source": "bandai"
+        },
+        {
+          "id": "ST03-008_p7",
+          "set": "PRB01",
+          "rarity": "C",
+          "block": "1",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST03-008_p7.png",
+          "source": "bandai"
+        },
+        {
+          "id": "ST03-008_r1",
+          "set": "ST17",
+          "rarity": "C",
+          "block": "1",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST03-008_r1.png",
+          "source": "bandai"
+        },
+        {
+          "id": "ST03-008_r2",
+          "set": "PRB01",
+          "rarity": "C",
+          "block": "1",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST03-008_r2.png",
+          "source": "bandai"
+        }
+      ]
+    },
+    {
+      "number": "ST03-009",
+      "name": "Donquixote Doflamingo",
+      "category": "Character",
+      "cost": 7,
+      "power": 7000,
+      "attributes": [
+        "Special"
+      ],
+      "colors": [
+        "Blue"
+      ],
+      "types": [
+        "The Seven Warlords of the Sea",
+        "Donquixote Pirates"
+      ],
+      "printings": [
+        {
+          "id": "ST03-009",
+          "set": "ST03",
+          "rarity": "SR",
+          "block": "1",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST03-009.png",
+          "source": "bandai"
+        },
+        {
+          "id": "ST03-009_p1",
+          "set": "OP03",
+          "rarity": "SP CARD",
+          "block": "1",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST03-009_p1.png",
+          "source": "bandai"
+        }
+      ]
+    },
+    {
+      "number": "ST03-010",
+      "name": "Bartholomew Kuma",
+      "category": "Character",
+      "cost": 2,
+      "power": 3000,
+      "attributes": [
+        "Strike"
+      ],
+      "colors": [
+        "Blue"
+      ],
+      "types": [
+        "The Seven Warlords of the Sea",
+        "Revolutionary Army"
+      ],
+      "printings": [
+        {
+          "id": "ST03-010",
+          "set": "ST03",
+          "rarity": "C",
+          "block": "1",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST03-010.png",
+          "source": "bandai"
+        }
+      ]
+    },
+    {
+      "number": "ST03-011",
+      "name": "Buggy",
+      "category": "Character",
+      "cost": 1,
+      "power": 3000,
+      "counter": 1000,
+      "attributes": [
+        "Slash"
+      ],
+      "colors": [
+        "Blue"
+      ],
+      "types": [
+        "The Seven Warlords of the Sea",
+        "Buggy's Delivery"
+      ],
+      "printings": [
+        {
+          "id": "ST03-011",
+          "set": "ST03",
+          "rarity": "C",
+          "block": "1",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST03-011.png",
+          "source": "bandai"
+        }
+      ]
+    },
+    {
+      "number": "ST03-012",
+      "name": "Pacifista",
+      "category": "Character",
+      "cost": 4,
+      "power": 6000,
+      "counter": 1000,
+      "attributes": [
+        "Special"
+      ],
+      "colors": [
+        "Blue"
+      ],
+      "types": [
+        "Biological Weapon",
+        "Navy"
+      ],
+      "printings": [
+        {
+          "id": "ST03-012",
+          "set": "ST03",
+          "rarity": "C",
+          "block": "1",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST03-012.png",
+          "source": "bandai"
+        },
+        {
+          "id": "ST03-012_p1",
+          "set": "OTHER",
+          "rarity": "C",
+          "block": "1",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST03-012_p1.png",
+          "source": "bandai"
+        }
+      ]
+    },
+    {
+      "number": "ST03-013",
+      "name": "Boa Hancock",
+      "category": "Character",
+      "cost": 3,
+      "power": 1000,
+      "counter": 1000,
+      "attributes": [
+        "Special"
+      ],
+      "colors": [
+        "Blue"
+      ],
+      "types": [
+        "The Seven Warlords of the Sea",
+        "Kuja Pirates"
+      ],
+      "printings": [
+        {
+          "id": "ST03-013",
+          "set": "ST03",
+          "rarity": "C",
+          "block": "1",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST03-013.png",
+          "source": "bandai"
+        },
+        {
+          "id": "ST03-013_p2",
+          "set": "PRB01",
+          "rarity": "C",
+          "block": "1",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST03-013_p2.png",
+          "source": "bandai"
+        },
+        {
+          "id": "ST03-013_p3",
+          "set": "PRB01",
+          "rarity": "C",
+          "block": "1",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST03-013_p3.png",
+          "source": "bandai"
+        },
+        {
+          "id": "ST03-013_p4",
+          "set": "PRB01",
+          "rarity": "C",
+          "block": "1",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST03-013_p4.png",
+          "source": "bandai"
+        },
+        {
+          "id": "ST03-013_r1",
+          "set": "PRB01",
+          "rarity": "C",
+          "block": "1",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST03-013_r1.png",
+          "source": "bandai"
+        }
+      ]
+    },
+    {
+      "number": "ST03-014",
+      "name": "Marshall.D.Teach",
+      "category": "Character",
+      "cost": 4,
+      "power": 4000,
+      "counter": 1000,
+      "attributes": [
+        "Special"
+      ],
+      "colors": [
+        "Blue"
+      ],
+      "types": [
+        "The Seven Warlords of the Sea",
+        "Blackbeard Pirates"
+      ],
+      "printings": [
+        {
+          "id": "ST03-014",
+          "set": "ST03",
+          "rarity": "C",
+          "block": "1",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST03-014.png",
+          "source": "bandai"
+        },
+        {
+          "id": "ST03-014_p1",
+          "set": "P",
+          "rarity": "C",
+          "block": "1",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST03-014_p1.png",
+          "source": "bandai"
+        }
+      ]
+    },
+    {
+      "number": "ST03-015",
+      "name": "Sables",
+      "category": "Event",
+      "cost": 4,
+      "colors": [
+        "Blue"
+      ],
+      "types": [
+        "The Seven Warlords of the Sea",
+        "Baroque Works"
+      ],
+      "printings": [
+        {
+          "id": "ST03-015",
+          "set": "ST03",
+          "rarity": "C",
+          "block": "1",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST03-015.png",
+          "source": "bandai"
+        }
+      ]
+    },
+    {
+      "number": "ST03-016",
+      "name": "Thrust Pad Cannon",
+      "category": "Event",
+      "cost": 2,
+      "colors": [
+        "Blue"
+      ],
+      "types": [
+        "The Seven Warlords of the Sea",
+        "Revolutionary Army"
+      ],
+      "printings": [
+        {
+          "id": "ST03-016",
+          "set": "ST03",
+          "rarity": "C",
+          "block": "1",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST03-016.png",
+          "source": "bandai"
+        }
+      ]
+    },
+    {
+      "number": "ST03-017",
+      "name": "Love-Love Mellow",
+      "category": "Event",
+      "cost": 2,
+      "colors": [
+        "Blue"
+      ],
+      "types": [
+        "The Seven Warlords of the Sea",
+        "Kuja Pirates"
+      ],
+      "printings": [
+        {
+          "id": "ST03-017",
+          "set": "ST03",
+          "rarity": "C",
+          "block": "1",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST03-017.png",
+          "source": "bandai"
+        },
+        {
+          "id": "ST03-017_p1",
+          "set": "OTHER",
+          "rarity": "C",
+          "block": "1",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST03-017_p1.png",
+          "source": "bandai"
+        }
+      ]
+    }
+  ]
+}

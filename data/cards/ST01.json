@@ -1,0 +1,781 @@
+{
+  "cards": [
+    {
+      "number": "ST01-001",
+      "name": "Monkey.D.Luffy",
+      "category": "Leader",
+      "power": 5000,
+      "life": 5,
+      "attributes": [
+        "Strike"
+      ],
+      "colors": [
+        "Red"
+      ],
+      "types": [
+        "Supernovas",
+        "Straw Hat Crew"
+      ],
+      "printings": [
+        {
+          "id": "ST01-001",
+          "set": "ST01",
+          "rarity": "L",
+          "block": "1",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST01-001.png",
+          "source": "bandai"
+        }
+      ]
+    },
+    {
+      "number": "ST01-002",
+      "name": "Usopp",
+      "category": "Character",
+      "cost": 2,
+      "power": 2000,
+      "counter": 1000,
+      "attributes": [
+        "Ranged"
+      ],
+      "colors": [
+        "Red"
+      ],
+      "types": [
+        "Straw Hat Crew"
+      ],
+      "printings": [
+        {
+          "id": "ST01-002",
+          "set": "ST01",
+          "rarity": "C",
+          "block": "1",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST01-002.png",
+          "source": "bandai"
+        },
+        {
+          "id": "ST01-002_p1",
+          "set": "OTHER",
+          "rarity": "C",
+          "block": "1",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST01-002_p1.png",
+          "source": "bandai"
+        },
+        {
+          "id": "ST01-002_p2",
+          "set": "OTHER",
+          "rarity": "C",
+          "block": "1",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST01-002_p2.png",
+          "source": "bandai"
+        }
+      ]
+    },
+    {
+      "number": "ST01-003",
+      "name": "Karoo",
+      "category": "Character",
+      "cost": 1,
+      "power": 3000,
+      "counter": 1000,
+      "attributes": [
+        "Strike"
+      ],
+      "colors": [
+        "Red"
+      ],
+      "types": [
+        "Animal",
+        "Alabasta"
+      ],
+      "printings": [
+        {
+          "id": "ST01-003",
+          "set": "ST01",
+          "rarity": "C",
+          "block": "1",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST01-003.png",
+          "source": "bandai"
+        }
+      ]
+    },
+    {
+      "number": "ST01-004",
+      "name": "Sanji",
+      "category": "Character",
+      "cost": 2,
+      "power": 4000,
+      "attributes": [
+        "Strike"
+      ],
+      "colors": [
+        "Red"
+      ],
+      "types": [
+        "Straw Hat Crew"
+      ],
+      "printings": [
+        {
+          "id": "ST01-004",
+          "set": "ST01",
+          "rarity": "C",
+          "block": "1",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST01-004.png",
+          "source": "bandai"
+        },
+        {
+          "id": "ST01-004_p1",
+          "set": "P",
+          "rarity": "C",
+          "block": "1",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST01-004_p1.png",
+          "source": "bandai"
+        },
+        {
+          "id": "ST01-004_p2",
+          "set": "OTHER",
+          "rarity": "C",
+          "block": "1",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST01-004_p2.png",
+          "source": "bandai"
+        }
+      ]
+    },
+    {
+      "number": "ST01-005",
+      "name": "Jinbe",
+      "category": "Character",
+      "cost": 3,
+      "power": 5000,
+      "attributes": [
+        "Strike"
+      ],
+      "colors": [
+        "Red"
+      ],
+      "types": [
+        "Fish-Man",
+        "Straw Hat Crew"
+      ],
+      "printings": [
+        {
+          "id": "ST01-005",
+          "set": "ST01",
+          "rarity": "C",
+          "block": "1",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST01-005.png",
+          "source": "bandai"
+        },
+        {
+          "id": "ST01-005_p1",
+          "set": "OTHER",
+          "rarity": "C",
+          "block": "1",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST01-005_p1.png",
+          "source": "bandai"
+        },
+        {
+          "id": "ST01-005_p2",
+          "set": "OTHER",
+          "rarity": "C",
+          "block": "1",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST01-005_p2.png",
+          "source": "bandai"
+        }
+      ]
+    },
+    {
+      "number": "ST01-006",
+      "name": "Tony Tony.Chopper",
+      "category": "Character",
+      "cost": 1,
+      "power": 1000,
+      "attributes": [
+        "Strike"
+      ],
+      "colors": [
+        "Red"
+      ],
+      "types": [
+        "Animal",
+        "Straw Hat Crew"
+      ],
+      "printings": [
+        {
+          "id": "ST01-006",
+          "set": "ST01",
+          "rarity": "C",
+          "block": "1",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST01-006.png",
+          "source": "bandai"
+        },
+        {
+          "id": "ST01-006_p1",
+          "set": "OTHER",
+          "rarity": "C",
+          "block": "1",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST01-006_p1.png",
+          "source": "bandai"
+        },
+        {
+          "id": "ST01-006_p2",
+          "set": "OTHER",
+          "rarity": "C",
+          "block": "1",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST01-006_p2.png",
+          "source": "bandai"
+        },
+        {
+          "id": "ST01-006_p3",
+          "set": "OTHER",
+          "rarity": "C",
+          "block": "1",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST01-006_p3.png",
+          "source": "bandai"
+        },
+        {
+          "id": "ST01-006_p4",
+          "set": "OTHER",
+          "rarity": "C",
+          "block": "1",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST01-006_p4.png",
+          "source": "bandai"
+        },
+        {
+          "id": "ST01-006_p6",
+          "set": "PRB01",
+          "rarity": "C",
+          "block": "1",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST01-006_p6.png",
+          "source": "bandai"
+        },
+        {
+          "id": "ST01-006_p7",
+          "set": "PRB01",
+          "rarity": "C",
+          "block": "1",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST01-006_p7.png",
+          "source": "bandai"
+        },
+        {
+          "id": "ST01-006_p8",
+          "set": "PRB01",
+          "rarity": "C",
+          "block": "1",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST01-006_p8.png",
+          "source": "bandai"
+        },
+        {
+          "id": "ST01-006_r1",
+          "set": "PRB01",
+          "rarity": "C",
+          "block": "1",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST01-006_r1.png",
+          "source": "bandai"
+        }
+      ]
+    },
+    {
+      "number": "ST01-007",
+      "name": "Nami",
+      "category": "Character",
+      "cost": 1,
+      "power": 1000,
+      "counter": 1000,
+      "attributes": [
+        "Special"
+      ],
+      "colors": [
+        "Red"
+      ],
+      "types": [
+        "Straw Hat Crew"
+      ],
+      "printings": [
+        {
+          "id": "ST01-007",
+          "set": "ST01",
+          "rarity": "C",
+          "block": "1",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST01-007.png",
+          "source": "bandai"
+        },
+        {
+          "id": "ST01-007_p1",
+          "set": "OTHER",
+          "rarity": "C",
+          "block": "1",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST01-007_p1.png",
+          "source": "bandai"
+        },
+        {
+          "id": "ST01-007_p2",
+          "set": "P",
+          "rarity": "C",
+          "block": "1",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST01-007_p2.png",
+          "source": "bandai"
+        },
+        {
+          "id": "ST01-007_p3",
+          "set": "OP06",
+          "rarity": "TR",
+          "block": "1",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST01-007_p3.png",
+          "source": "bandai"
+        },
+        {
+          "id": "ST01-007_p4",
+          "set": "P",
+          "rarity": "C",
+          "block": "1",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST01-007_p4.png",
+          "source": "bandai"
+        },
+        {
+          "id": "ST01-007_p5",
+          "set": "P",
+          "rarity": "C",
+          "block": "1",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST01-007_p5.png",
+          "source": "bandai"
+        }
+      ]
+    },
+    {
+      "number": "ST01-008",
+      "name": "Nico Robin",
+      "category": "Character",
+      "cost": 3,
+      "power": 5000,
+      "counter": 1000,
+      "attributes": [
+        "Wisdom"
+      ],
+      "colors": [
+        "Red"
+      ],
+      "types": [
+        "Straw Hat Crew"
+      ],
+      "printings": [
+        {
+          "id": "ST01-008",
+          "set": "ST01",
+          "rarity": "C",
+          "block": "1",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST01-008.png",
+          "source": "bandai"
+        },
+        {
+          "id": "ST01-008_p1",
+          "set": "OTHER",
+          "rarity": "C",
+          "block": "1",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST01-008_p1.png",
+          "source": "bandai"
+        },
+        {
+          "id": "ST01-008_p2",
+          "set": "OTHER",
+          "rarity": "C",
+          "block": "1",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST01-008_p2.png",
+          "source": "bandai"
+        }
+      ]
+    },
+    {
+      "number": "ST01-009",
+      "name": "Nefeltari Vivi",
+      "category": "Character",
+      "cost": 2,
+      "power": 4000,
+      "counter": 1000,
+      "attributes": [
+        "Slash"
+      ],
+      "colors": [
+        "Red"
+      ],
+      "types": [
+        "Alabasta"
+      ],
+      "printings": [
+        {
+          "id": "ST01-009",
+          "set": "ST01",
+          "rarity": "C",
+          "block": "1",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST01-009.png",
+          "source": "bandai"
+        },
+        {
+          "id": "ST01-009_p1",
+          "set": "P",
+          "rarity": "C",
+          "block": "1",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST01-009_p1.png",
+          "source": "bandai"
+        }
+      ]
+    },
+    {
+      "number": "ST01-010",
+      "name": "Franky",
+      "category": "Character",
+      "cost": 4,
+      "power": 6000,
+      "counter": 1000,
+      "attributes": [
+        "Strike"
+      ],
+      "colors": [
+        "Red"
+      ],
+      "types": [
+        "Straw Hat Crew"
+      ],
+      "printings": [
+        {
+          "id": "ST01-010",
+          "set": "ST01",
+          "rarity": "C",
+          "block": "1",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST01-010.png",
+          "source": "bandai"
+        },
+        {
+          "id": "ST01-010_p1",
+          "set": "OTHER",
+          "rarity": "C",
+          "block": "1",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST01-010_p1.png",
+          "source": "bandai"
+        },
+        {
+          "id": "ST01-010_p2",
+          "set": "OTHER",
+          "rarity": "C",
+          "block": "1",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST01-010_p2.png",
+          "source": "bandai"
+        }
+      ]
+    },
+    {
+      "number": "ST01-011",
+      "name": "Brook",
+      "category": "Character",
+      "cost": 2,
+      "power": 3000,
+      "counter": 2000,
+      "attributes": [
+        "Slash"
+      ],
+      "colors": [
+        "Red"
+      ],
+      "types": [
+        "Straw Hat Crew"
+      ],
+      "printings": [
+        {
+          "id": "ST01-011",
+          "set": "ST01",
+          "rarity": "C",
+          "block": "1",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST01-011.png",
+          "source": "bandai"
+        },
+        {
+          "id": "ST01-011_p1",
+          "set": "OTHER",
+          "rarity": "C",
+          "block": "1",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST01-011_p1.png",
+          "source": "bandai"
+        },
+        {
+          "id": "ST01-011_p2",
+          "set": "P",
+          "rarity": "C",
+          "block": "1",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST01-011_p2.png",
+          "source": "bandai"
+        },
+        {
+          "id": "ST01-011_p3",
+          "set": "OTHER",
+          "rarity": "C",
+          "block": "1",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST01-011_p3.png",
+          "source": "bandai"
+        },
+        {
+          "id": "ST01-011_p4",
+          "set": "PRB02",
+          "rarity": "C",
+          "block": "1",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST01-011_p4.png",
+          "source": "bandai"
+        },
+        {
+          "id": "ST01-011_p5",
+          "set": "OTHER",
+          "rarity": "C",
+          "block": "1",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST01-011_p5.png",
+          "source": "bandai"
+        },
+        {
+          "id": "ST01-011_r1",
+          "set": "PRB02",
+          "rarity": "C",
+          "block": "1",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST01-011_r1.png",
+          "source": "bandai"
+        }
+      ]
+    },
+    {
+      "number": "ST01-012",
+      "name": "Monkey.D.Luffy",
+      "category": "Character",
+      "cost": 5,
+      "power": 6000,
+      "attributes": [
+        "Strike"
+      ],
+      "colors": [
+        "Red"
+      ],
+      "types": [
+        "Supernovas",
+        "Straw Hat Crew"
+      ],
+      "printings": [
+        {
+          "id": "ST01-012",
+          "set": "ST01",
+          "rarity": "SR",
+          "block": "1",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST01-012.png",
+          "source": "bandai"
+        },
+        {
+          "id": "ST01-012_p1",
+          "set": "OP03",
+          "rarity": "SP CARD",
+          "block": "1",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST01-012_p1.png",
+          "source": "bandai"
+        },
+        {
+          "id": "ST01-012_p2",
+          "set": "OP05",
+          "rarity": "SR",
+          "block": "1",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST01-012_p2.png",
+          "source": "bandai"
+        },
+        {
+          "id": "ST01-012_p3",
+          "set": "OP05",
+          "rarity": "SR",
+          "block": "1",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST01-012_p3.png",
+          "source": "bandai"
+        },
+        {
+          "id": "ST01-012_p4",
+          "set": "P",
+          "rarity": "SR",
+          "block": "1",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST01-012_p4.png",
+          "source": "bandai"
+        },
+        {
+          "id": "ST01-012_p5",
+          "set": "P",
+          "rarity": "SR",
+          "block": "1",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST01-012_p5.png",
+          "source": "bandai"
+        },
+        {
+          "id": "ST01-012_p6",
+          "set": "P",
+          "rarity": "SR",
+          "block": "1",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST01-012_p6.png",
+          "source": "bandai"
+        }
+      ]
+    },
+    {
+      "number": "ST01-013",
+      "name": "Roronoa Zoro",
+      "category": "Character",
+      "cost": 3,
+      "power": 5000,
+      "attributes": [
+        "Slash"
+      ],
+      "colors": [
+        "Red"
+      ],
+      "types": [
+        "Supernovas",
+        "Straw Hat Crew"
+      ],
+      "printings": [
+        {
+          "id": "ST01-013",
+          "set": "ST01",
+          "rarity": "SR",
+          "block": "1",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST01-013.png",
+          "source": "bandai"
+        },
+        {
+          "id": "ST01-013_p1",
+          "set": "OTHER",
+          "rarity": "SR",
+          "block": "1",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST01-013_p1.png",
+          "source": "bandai"
+        },
+        {
+          "id": "ST01-013_p2",
+          "set": "OTHER",
+          "rarity": "SR",
+          "block": "1",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST01-013_p2.png",
+          "source": "bandai"
+        }
+      ]
+    },
+    {
+      "number": "ST01-014",
+      "name": "Guard Point",
+      "category": "Event",
+      "cost": 1,
+      "colors": [
+        "Red"
+      ],
+      "types": [
+        "Animal",
+        "Straw Hat Crew"
+      ],
+      "printings": [
+        {
+          "id": "ST01-014",
+          "set": "ST01",
+          "rarity": "C",
+          "block": "1",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST01-014.png",
+          "source": "bandai"
+        },
+        {
+          "id": "ST01-014_p2",
+          "set": "PRB01",
+          "rarity": "C",
+          "block": "1",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST01-014_p2.png",
+          "source": "bandai"
+        },
+        {
+          "id": "ST01-014_p3",
+          "set": "PRB01",
+          "rarity": "C",
+          "block": "1",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST01-014_p3.png",
+          "source": "bandai"
+        },
+        {
+          "id": "ST01-014_r1",
+          "set": "PRB01",
+          "rarity": "C",
+          "block": "1",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST01-014_r1.png",
+          "source": "bandai"
+        }
+      ]
+    },
+    {
+      "number": "ST01-015",
+      "name": "Gum-Gum Jet Pistol",
+      "category": "Event",
+      "cost": 4,
+      "colors": [
+        "Red"
+      ],
+      "types": [
+        "Supernovas",
+        "Straw Hat Crew"
+      ],
+      "printings": [
+        {
+          "id": "ST01-015",
+          "set": "ST01",
+          "rarity": "C",
+          "block": "1",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST01-015.png",
+          "source": "bandai"
+        },
+        {
+          "id": "ST01-015_p1",
+          "set": "P",
+          "rarity": "C",
+          "block": "1",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST01-015_p1.png",
+          "source": "bandai"
+        }
+      ]
+    },
+    {
+      "number": "ST01-016",
+      "name": "Diable Jambe",
+      "category": "Event",
+      "cost": 1,
+      "colors": [
+        "Red"
+      ],
+      "types": [
+        "Straw Hat Crew"
+      ],
+      "printings": [
+        {
+          "id": "ST01-016",
+          "set": "ST01",
+          "rarity": "C",
+          "block": "1",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST01-016.png",
+          "source": "bandai"
+        }
+      ]
+    },
+    {
+      "number": "ST01-017",
+      "name": "Thousand Sunny",
+      "category": "Stage",
+      "cost": 2,
+      "colors": [
+        "Red"
+      ],
+      "types": [
+        "Straw Hat Crew"
+      ],
+      "printings": [
+        {
+          "id": "ST01-017",
+          "set": "ST01",
+          "rarity": "C",
+          "block": "1",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST01-017.png",
+          "source": "bandai"
+        }
+      ]
+    }
+  ]
+}

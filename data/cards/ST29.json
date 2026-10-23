@@ -1,0 +1,578 @@
+{
+  "cards": [
+    {
+      "number": "ST29-001",
+      "name": "Monkey.D.Luffy",
+      "category": "Leader",
+      "power": 5000,
+      "life": 6,
+      "attributes": [
+        "Strike"
+      ],
+      "colors": [
+        "Yellow"
+      ],
+      "types": [
+        "Egghead",
+        "The Four Emperors",
+        "Straw Hat Crew"
+      ],
+      "printings": [
+        {
+          "id": "ST29-001",
+          "set": "ST29",
+          "rarity": "L",
+          "block": "4",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST29-001.png",
+          "source": "bandai"
+        },
+        {
+          "id": "ST29-001_p1",
+          "set": "ST29",
+          "rarity": "L",
+          "block": "4",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST29-001_p1.png",
+          "source": "bandai"
+        }
+      ]
+    },
+    {
+      "number": "ST29-002",
+      "name": "Usopp",
+      "category": "Character",
+      "cost": 3,
+      "power": 4000,
+      "counter": 1000,
+      "attributes": [
+        "Ranged"
+      ],
+      "colors": [
+        "Yellow"
+      ],
+      "types": [
+        "Egghead",
+        "Straw Hat Crew"
+      ],
+      "printings": [
+        {
+          "id": "ST29-002",
+          "set": "ST29",
+          "rarity": "C",
+          "block": "4",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST29-002.png",
+          "source": "bandai"
+        },
+        {
+          "id": "ST29-002_p1",
+          "set": "ST29",
+          "rarity": "C",
+          "block": "4",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST29-002_p1.png",
+          "source": "bandai"
+        }
+      ]
+    },
+    {
+      "number": "ST29-003",
+      "name": "Kaku",
+      "category": "Character",
+      "cost": 4,
+      "power": 5000,
+      "counter": 1000,
+      "attributes": [
+        "Slash"
+      ],
+      "colors": [
+        "Yellow"
+      ],
+      "types": [
+        "Egghead",
+        "CP0"
+      ],
+      "printings": [
+        {
+          "id": "ST29-003",
+          "set": "ST29",
+          "rarity": "C",
+          "block": "4",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST29-003.png",
+          "source": "bandai"
+        },
+        {
+          "id": "ST29-003_p1",
+          "set": "ST29",
+          "rarity": "C",
+          "block": "4",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST29-003_p1.png",
+          "source": "bandai"
+        }
+      ]
+    },
+    {
+      "number": "ST29-004",
+      "name": "Sanji",
+      "category": "Character",
+      "cost": 4,
+      "power": 5000,
+      "counter": 1000,
+      "attributes": [
+        "Strike"
+      ],
+      "colors": [
+        "Yellow"
+      ],
+      "types": [
+        "Egghead",
+        "Straw Hat Crew"
+      ],
+      "printings": [
+        {
+          "id": "ST29-004",
+          "set": "ST29",
+          "rarity": "SR",
+          "block": "4",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST29-004.png",
+          "source": "bandai"
+        },
+        {
+          "id": "ST29-004_p1",
+          "set": "ST29",
+          "rarity": "SR",
+          "block": "4",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST29-004_p1.png",
+          "source": "bandai"
+        }
+      ]
+    },
+    {
+      "number": "ST29-005",
+      "name": "Jinbe",
+      "category": "Character",
+      "cost": 6,
+      "power": 5000,
+      "counter": 2000,
+      "attributes": [
+        "Strike"
+      ],
+      "colors": [
+        "Yellow"
+      ],
+      "types": [
+        "Fish-Man",
+        "Egghead",
+        "Straw Hat Crew"
+      ],
+      "printings": [
+        {
+          "id": "ST29-005",
+          "set": "ST29",
+          "rarity": "C",
+          "block": "4",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST29-005.png",
+          "source": "bandai"
+        },
+        {
+          "id": "ST29-005_p1",
+          "set": "ST29",
+          "rarity": "C",
+          "block": "4",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST29-005_p1.png",
+          "source": "bandai"
+        }
+      ]
+    },
+    {
+      "number": "ST29-006",
+      "name": "Stussy",
+      "category": "Character",
+      "cost": 6,
+      "power": 7000,
+      "counter": 2000,
+      "attributes": [
+        "Special"
+      ],
+      "colors": [
+        "Yellow"
+      ],
+      "types": [
+        "Egghead"
+      ],
+      "printings": [
+        {
+          "id": "ST29-006",
+          "set": "ST29",
+          "rarity": "C",
+          "block": "4",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST29-006.png",
+          "source": "bandai"
+        },
+        {
+          "id": "ST29-006_p1",
+          "set": "ST29",
+          "rarity": "C",
+          "block": "4",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST29-006_p1.png",
+          "source": "bandai"
+        }
+      ]
+    },
+    {
+      "number": "ST29-007",
+      "name": "Tony Tony.Chopper",
+      "category": "Character",
+      "cost": 4,
+      "power": 5000,
+      "counter": 1000,
+      "attributes": [
+        "Wisdom"
+      ],
+      "colors": [
+        "Yellow"
+      ],
+      "types": [
+        "Animal",
+        "Egghead",
+        "Straw Hat Crew"
+      ],
+      "printings": [
+        {
+          "id": "ST29-007",
+          "set": "ST29",
+          "rarity": "C",
+          "block": "4",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST29-007.png",
+          "source": "bandai"
+        },
+        {
+          "id": "ST29-007_p1",
+          "set": "ST29",
+          "rarity": "C",
+          "block": "4",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST29-007_p1.png",
+          "source": "bandai"
+        }
+      ]
+    },
+    {
+      "number": "ST29-008",
+      "name": "Nami",
+      "category": "Character",
+      "cost": 3,
+      "power": 1000,
+      "counter": 1000,
+      "attributes": [
+        "Special"
+      ],
+      "colors": [
+        "Yellow"
+      ],
+      "types": [
+        "Egghead",
+        "Straw Hat Crew"
+      ],
+      "printings": [
+        {
+          "id": "ST29-008",
+          "set": "ST29",
+          "rarity": "C",
+          "block": "4",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST29-008.png",
+          "source": "bandai"
+        },
+        {
+          "id": "ST29-008_p1",
+          "set": "ST29",
+          "rarity": "C",
+          "block": "4",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST29-008_p1.png",
+          "source": "bandai"
+        }
+      ]
+    },
+    {
+      "number": "ST29-009",
+      "name": "Nico Robin",
+      "category": "Character",
+      "cost": 4,
+      "power": 2000,
+      "counter": 2000,
+      "attributes": [
+        "Strike"
+      ],
+      "colors": [
+        "Yellow"
+      ],
+      "types": [
+        "Egghead",
+        "Straw Hat Crew"
+      ],
+      "printings": [
+        {
+          "id": "ST29-009",
+          "set": "ST29",
+          "rarity": "C",
+          "block": "4",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST29-009.png",
+          "source": "bandai"
+        },
+        {
+          "id": "ST29-009_p1",
+          "set": "ST29",
+          "rarity": "C",
+          "block": "4",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST29-009_p1.png",
+          "source": "bandai"
+        }
+      ]
+    },
+    {
+      "number": "ST29-010",
+      "name": "Franky",
+      "category": "Character",
+      "cost": 5,
+      "power": 6000,
+      "counter": 2000,
+      "attributes": [
+        "Ranged"
+      ],
+      "colors": [
+        "Yellow"
+      ],
+      "types": [
+        "Egghead",
+        "Straw Hat Crew"
+      ],
+      "printings": [
+        {
+          "id": "ST29-010",
+          "set": "ST29",
+          "rarity": "C",
+          "block": "4",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST29-010.png",
+          "source": "bandai"
+        },
+        {
+          "id": "ST29-010_p1",
+          "set": "ST29",
+          "rarity": "C",
+          "block": "4",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST29-010_p1.png",
+          "source": "bandai"
+        }
+      ]
+    },
+    {
+      "number": "ST29-011",
+      "name": "Brook",
+      "category": "Character",
+      "cost": 2,
+      "power": 2000,
+      "counter": 1000,
+      "attributes": [
+        "Slash"
+      ],
+      "colors": [
+        "Yellow"
+      ],
+      "types": [
+        "Egghead",
+        "Straw Hat Crew"
+      ],
+      "printings": [
+        {
+          "id": "ST29-011",
+          "set": "ST29",
+          "rarity": "C",
+          "block": "4",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST29-011.png",
+          "source": "bandai"
+        },
+        {
+          "id": "ST29-011_p1",
+          "set": "ST29",
+          "rarity": "C",
+          "block": "4",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST29-011_p1.png",
+          "source": "bandai"
+        }
+      ]
+    },
+    {
+      "number": "ST29-012",
+      "name": "Monkey.D.Luffy",
+      "category": "Character",
+      "cost": 1,
+      "counter": 1000,
+      "attributes": [
+        "Strike"
+      ],
+      "colors": [
+        "Yellow"
+      ],
+      "types": [
+        "Egghead",
+        "The Four Emperors",
+        "Straw Hat Crew"
+      ],
+      "printings": [
+        {
+          "id": "ST29-012",
+          "set": "ST29",
+          "rarity": "C",
+          "block": "4",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST29-012.png",
+          "source": "bandai"
+        },
+        {
+          "id": "ST29-012_p1",
+          "set": "ST29",
+          "rarity": "C",
+          "block": "4",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST29-012_p1.png",
+          "source": "bandai"
+        }
+      ]
+    },
+    {
+      "number": "ST29-013",
+      "name": "Rob Lucci",
+      "category": "Character",
+      "cost": 5,
+      "power": 6000,
+      "counter": 1000,
+      "attributes": [
+        "Strike"
+      ],
+      "colors": [
+        "Yellow"
+      ],
+      "types": [
+        "Egghead",
+        "CP0"
+      ],
+      "printings": [
+        {
+          "id": "ST29-013",
+          "set": "ST29",
+          "rarity": "C",
+          "block": "4",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST29-013.png",
+          "source": "bandai"
+        },
+        {
+          "id": "ST29-013_p1",
+          "set": "ST29",
+          "rarity": "C",
+          "block": "4",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST29-013_p1.png",
+          "source": "bandai"
+        }
+      ]
+    },
+    {
+      "number": "ST29-014",
+      "name": "Roronoa Zoro",
+      "category": "Character",
+      "cost": 6,
+      "power": 8000,
+      "attributes": [
+        "Slash"
+      ],
+      "colors": [
+        "Yellow"
+      ],
+      "types": [
+        "Egghead",
+        "Straw Hat Crew"
+      ],
+      "printings": [
+        {
+          "id": "ST29-014",
+          "set": "ST29",
+          "rarity": "SR",
+          "block": "4",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST29-014.png",
+          "source": "bandai"
+        },
+        {
+          "id": "ST29-014_p1",
+          "set": "ST29",
+          "rarity": "SR",
+          "block": "4",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST29-014_p1.png",
+          "source": "bandai"
+        }
+      ]
+    },
+    {
+      "number": "ST29-015",
+      "name": "Raw Heat Strike",
+      "category": "Event",
+      "cost": 1,
+      "colors": [
+        "Yellow"
+      ],
+      "types": [
+        "Egghead",
+        "Straw Hat Crew"
+      ],
+      "printings": [
+        {
+          "id": "ST29-015",
+          "set": "ST29",
+          "rarity": "C",
+          "block": "4",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST29-015.png",
+          "source": "bandai"
+        }
+      ]
+    },
+    {
+      "number": "ST29-016",
+      "name": "Kizaru!! Compared to Two Years Ago We're a Hundred Times Stronger Now!!",
+      "category": "Event",
+      "cost": 1,
+      "colors": [
+        "Yellow"
+      ],
+      "types": [
+        "Egghead",
+        "The Four Emperors",
+        "Straw Hat Crew"
+      ],
+      "printings": [
+        {
+          "id": "ST29-016",
+          "set": "ST29",
+          "rarity": "C",
+          "block": "4",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST29-016.png",
+          "source": "bandai"
+        }
+      ]
+    },
+    {
+      "number": "ST29-017",
+      "name": "Iai Death Lion Song",
+      "category": "Event",
+      "cost": 2,
+      "colors": [
+        "Yellow"
+      ],
+      "types": [
+        "Egghead",
+        "Straw Hat Crew"
+      ],
+      "printings": [
+        {
+          "id": "ST29-017",
+          "set": "ST29",
+          "rarity": "C",
+          "block": "4",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST29-017.png",
+          "source": "bandai"
+        }
+      ]
+    }
+  ]
+}

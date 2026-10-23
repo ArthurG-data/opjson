@@ -1,0 +1,4005 @@
+{
+  "cards": [
+    {
+      "number": "P-001",
+      "name": "Monkey.D.Luffy",
+      "category": "Character",
+      "cost": 6,
+      "power": 7000,
+      "attributes": [
+        "Strike"
+      ],
+      "colors": [
+        "Red"
+      ],
+      "types": [
+        "Supernovas",
+        "Straw Hat Crew"
+      ],
+      "printings": [
+        {
+          "id": "P-001",
+          "set": "P",
+          "rarity": "P",
+          "block": "1",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/P-001.png",
+          "source": "bandai"
+        },
+        {
+          "id": "P-001_p1",
+          "set": "P",
+          "rarity": "P",
+          "block": "1",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/P-001_p1.png",
+          "source": "bandai"
+        },
+        {
+          "id": "P-001_p2",
+          "set": "P",
+          "rarity": "P",
+          "block": "1",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/P-001_p2.png",
+          "source": "bandai"
+        },
+        {
+          "id": "P-001_p3",
+          "set": "OTHER",
+          "rarity": "P",
+          "block": "1",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/P-001_p3.png",
+          "source": "bandai"
+        },
+        {
+          "id": "P-001_p4",
+          "set": "OTHER",
+          "rarity": "P",
+          "block": "1",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/P-001_p4.png",
+          "source": "bandai"
+        },
+        {
+          "id": "P-001_p5",
+          "set": "P",
+          "rarity": "P",
+          "block": "1",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/P-001_p5.png",
+          "source": "bandai"
+        },
+        {
+          "id": "P-001_p6",
+          "set": "OTHER",
+          "rarity": "P",
+          "block": "1",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/P-001_p6.png",
+          "source": "bandai"
+        }
+      ]
+    },
+    {
+      "number": "P-002",
+      "name": "I Smell Adventure!!!",
+      "category": "Event",
+      "cost": 1,
+      "colors": [
+        "Red"
+      ],
+      "types": [
+        "Straw Hat Crew"
+      ],
+      "printings": [
+        {
+          "id": "P-002",
+          "set": "P",
+          "rarity": "P",
+          "block": "1",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/P-002.png",
+          "source": "bandai"
+        }
+      ]
+    },
+    {
+      "number": "P-003",
+      "name": "Eustass\"Captain\"Kid",
+      "category": "Character",
+      "cost": 3,
+      "power": 4000,
+      "counter": 1000,
+      "attributes": [
+        "Special"
+      ],
+      "colors": [
+        "Green"
+      ],
+      "types": [
+        "Supernovas",
+        "Kid Pirates"
+      ],
+      "printings": [
+        {
+          "id": "P-003",
+          "set": "P",
+          "rarity": "P",
+          "block": "1",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/P-003.png",
+          "source": "bandai"
+        },
+        {
+          "id": "P-003_p1",
+          "set": "P",
+          "rarity": "P",
+          "block": "1",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/P-003_p1.png",
+          "source": "bandai"
+        }
+      ]
+    },
+    {
+      "number": "P-004",
+      "name": "Crocodile",
+      "category": "Character",
+      "cost": 4,
+      "power": 5000,
+      "counter": 1000,
+      "attributes": [
+        "Special"
+      ],
+      "colors": [
+        "Blue"
+      ],
+      "types": [
+        "The Seven Warlords of the Sea",
+        "Baroque Works"
+      ],
+      "printings": [
+        {
+          "id": "P-004",
+          "set": "P",
+          "rarity": "P",
+          "block": "1",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/P-004.png",
+          "source": "bandai"
+        }
+      ]
+    },
+    {
+      "number": "P-005",
+      "name": "Kaido",
+      "category": "Character",
+      "cost": 7,
+      "power": 8000,
+      "attributes": [
+        "Strike"
+      ],
+      "colors": [
+        "Purple"
+      ],
+      "types": [
+        "The Four Emperors",
+        "Animal Kingdom Pirates"
+      ],
+      "printings": [
+        {
+          "id": "P-005",
+          "set": "P",
+          "rarity": "P",
+          "block": "1",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/P-005.png",
+          "source": "bandai"
+        }
+      ]
+    },
+    {
+      "number": "P-006",
+      "name": "Monkey.D.Luffy",
+      "category": "Character",
+      "cost": 3,
+      "power": 3000,
+      "counter": 2000,
+      "attributes": [
+        "Strike"
+      ],
+      "colors": [
+        "Red"
+      ],
+      "types": [
+        "Supernovas",
+        "Straw Hat Crew"
+      ],
+      "printings": [
+        {
+          "id": "P-006",
+          "set": "P",
+          "rarity": "P",
+          "block": "1",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/P-006.png",
+          "source": "bandai"
+        }
+      ]
+    },
+    {
+      "number": "P-007",
+      "name": "Monkey.D.Luffy",
+      "category": "Character",
+      "cost": 4,
+      "power": 5000,
+      "counter": 1000,
+      "attributes": [
+        "Strike"
+      ],
+      "colors": [
+        "Red"
+      ],
+      "types": [
+        "Supernovas",
+        "Straw Hat Crew"
+      ],
+      "printings": [
+        {
+          "id": "P-007",
+          "set": "P",
+          "rarity": "P",
+          "block": "1",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/P-007.png",
+          "source": "bandai"
+        }
+      ]
+    },
+    {
+      "number": "P-008",
+      "name": "Yamato",
+      "category": "Character",
+      "cost": 3,
+      "power": 5000,
+      "attributes": [
+        "Strike"
+      ],
+      "colors": [
+        "Green"
+      ],
+      "types": [
+        "Land of Wano"
+      ],
+      "printings": [
+        {
+          "id": "P-008",
+          "set": "P",
+          "rarity": "P",
+          "block": "1",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/P-008.png",
+          "source": "bandai"
+        }
+      ]
+    },
+    {
+      "number": "P-009",
+      "name": "Trafalgar Law",
+      "category": "Character",
+      "cost": 6,
+      "power": 7000,
+      "attributes": [
+        "Slash"
+      ],
+      "colors": [
+        "Blue"
+      ],
+      "types": [
+        "Supernovas",
+        "Heart Pirates"
+      ],
+      "printings": [
+        {
+          "id": "P-009",
+          "set": "P",
+          "rarity": "P",
+          "block": "1",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/P-009.png",
+          "source": "bandai"
+        }
+      ]
+    },
+    {
+      "number": "P-010",
+      "name": "Kaido",
+      "category": "Character",
+      "cost": 8,
+      "power": 9000,
+      "attributes": [
+        "Special"
+      ],
+      "colors": [
+        "Purple"
+      ],
+      "types": [
+        "The Four Emperors",
+        "Animal Kingdom Pirates"
+      ],
+      "printings": [
+        {
+          "id": "P-010",
+          "set": "P",
+          "rarity": "P",
+          "block": "1",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/P-010.png",
+          "source": "bandai"
+        }
+      ]
+    },
+    {
+      "number": "P-011",
+      "name": "Uta",
+      "category": "Leader",
+      "power": 5000,
+      "life": 5,
+      "attributes": [
+        "Special"
+      ],
+      "colors": [
+        "Red"
+      ],
+      "types": [
+        "FILM"
+      ],
+      "printings": [
+        {
+          "id": "P-011",
+          "set": "P",
+          "rarity": "L",
+          "block": "1",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/P-011.png",
+          "source": "bandai"
+        }
+      ]
+    },
+    {
+      "number": "P-012",
+      "name": "Jellyfish Pirates",
+      "category": "Character",
+      "cost": 3,
+      "power": 5000,
+      "counter": 1000,
+      "attributes": [
+        "Special"
+      ],
+      "colors": [
+        "Red"
+      ],
+      "types": [
+        "FILM",
+        "Jellyfish Pirates"
+      ],
+      "printings": [
+        {
+          "id": "P-012",
+          "set": "P",
+          "rarity": "P",
+          "block": "1",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/P-012.png",
+          "source": "bandai"
+        }
+      ]
+    },
+    {
+      "number": "P-013",
+      "name": "Gordon",
+      "category": "Character",
+      "cost": 1,
+      "power": 2000,
+      "attributes": [
+        "Wisdom"
+      ],
+      "colors": [
+        "Red"
+      ],
+      "types": [
+        "FILM"
+      ],
+      "printings": [
+        {
+          "id": "P-013",
+          "set": "P",
+          "rarity": "P",
+          "block": "1",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/P-013.png",
+          "source": "bandai"
+        }
+      ]
+    },
+    {
+      "number": "P-014",
+      "name": "Koby",
+      "category": "Character",
+      "cost": 3,
+      "power": 3000,
+      "attributes": [
+        "Strike"
+      ],
+      "colors": [
+        "Red"
+      ],
+      "types": [
+        "FILM",
+        "Navy"
+      ],
+      "printings": [
+        {
+          "id": "P-014",
+          "set": "P",
+          "rarity": "P",
+          "block": "1",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/P-014.png",
+          "source": "bandai"
+        },
+        {
+          "id": "P-014_p2",
+          "set": "PRB01",
+          "rarity": "P",
+          "block": "1",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/P-014_p2.png",
+          "source": "bandai"
+        },
+        {
+          "id": "P-014_p3",
+          "set": "PRB01",
+          "rarity": "P",
+          "block": "1",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/P-014_p3.png",
+          "source": "bandai"
+        },
+        {
+          "id": "P-014_r1",
+          "set": "PRB01",
+          "rarity": "P",
+          "block": "1",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/P-014_r1.png",
+          "source": "bandai"
+        }
+      ]
+    },
+    {
+      "number": "P-015",
+      "name": "Sunny-Kun",
+      "category": "Character",
+      "cost": 1,
+      "power": 3000,
+      "counter": 1000,
+      "attributes": [
+        "Wisdom"
+      ],
+      "colors": [
+        "Red"
+      ],
+      "types": [
+        "FILM",
+        "Straw Hat Crew"
+      ],
+      "printings": [
+        {
+          "id": "P-015",
+          "set": "P",
+          "rarity": "P",
+          "block": "1",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/P-015.png",
+          "source": "bandai"
+        }
+      ]
+    },
+    {
+      "number": "P-016",
+      "name": "Shanks",
+      "category": "Character",
+      "cost": 8,
+      "power": 10000,
+      "counter": 1000,
+      "attributes": [
+        "Slash"
+      ],
+      "colors": [
+        "Red"
+      ],
+      "types": [
+        "FILM",
+        "The Four Emperors",
+        "Red-Haired Pirates"
+      ],
+      "printings": [
+        {
+          "id": "P-016",
+          "set": "P",
+          "rarity": "P",
+          "block": "1",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/P-016.png",
+          "source": "bandai"
+        },
+        {
+          "id": "P-016_p1",
+          "set": "OTHER",
+          "rarity": "P",
+          "block": "1",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/P-016_p1.png",
+          "source": "bandai"
+        }
+      ]
+    },
+    {
+      "number": "P-017",
+      "name": "Trafalgar Law",
+      "category": "Character",
+      "cost": 4,
+      "power": 5000,
+      "counter": 1000,
+      "attributes": [
+        "Slash"
+      ],
+      "colors": [
+        "Red"
+      ],
+      "types": [
+        "FILM",
+        "Supernovas",
+        "Heart Pirates"
+      ],
+      "printings": [
+        {
+          "id": "P-017",
+          "set": "P",
+          "rarity": "P",
+          "block": "1",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/P-017.png",
+          "source": "bandai"
+        },
+        {
+          "id": "P-017_p1",
+          "set": "P",
+          "rarity": "P",
+          "block": "1",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/P-017_p1.png",
+          "source": "bandai"
+        }
+      ]
+    },
+    {
+      "number": "P-018",
+      "name": "Bartolomeo",
+      "category": "Character",
+      "cost": 2,
+      "power": 3000,
+      "attributes": [
+        "Strike"
+      ],
+      "colors": [
+        "Red"
+      ],
+      "types": [
+        "FILM",
+        "Supernovas",
+        "Barto Club"
+      ],
+      "printings": [
+        {
+          "id": "P-018",
+          "set": "P",
+          "rarity": "P",
+          "block": "1",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/P-018.png",
+          "source": "bandai"
+        }
+      ]
+    },
+    {
+      "number": "P-019",
+      "name": "Bepo",
+      "category": "Character",
+      "cost": 3,
+      "power": 2000,
+      "counter": 2000,
+      "attributes": [
+        "Strike"
+      ],
+      "colors": [
+        "Red"
+      ],
+      "types": [
+        "FILM",
+        "Minks",
+        "Heart Pirates"
+      ],
+      "printings": [
+        {
+          "id": "P-019",
+          "set": "P",
+          "rarity": "P",
+          "block": "1",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/P-019.png",
+          "source": "bandai"
+        },
+        {
+          "id": "P-019_p1",
+          "set": "P",
+          "rarity": "P",
+          "block": "1",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/P-019_p1.png",
+          "source": "bandai"
+        }
+      ]
+    },
+    {
+      "number": "P-020",
+      "name": "Helmeppo",
+      "category": "Character",
+      "cost": 1,
+      "power": 2000,
+      "counter": 1000,
+      "attributes": [
+        "Slash"
+      ],
+      "colors": [
+        "Red"
+      ],
+      "types": [
+        "FILM",
+        "Navy"
+      ],
+      "printings": [
+        {
+          "id": "P-020",
+          "set": "P",
+          "rarity": "P",
+          "block": "1",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/P-020.png",
+          "source": "bandai"
+        }
+      ]
+    },
+    {
+      "number": "P-021",
+      "name": "Benn.Beckman",
+      "category": "Character",
+      "cost": 7,
+      "power": 9000,
+      "counter": 1000,
+      "attributes": [
+        "Ranged"
+      ],
+      "colors": [
+        "Red"
+      ],
+      "types": [
+        "FILM",
+        "Red-Haired Pirates"
+      ],
+      "printings": [
+        {
+          "id": "P-021",
+          "set": "P",
+          "rarity": "P",
+          "block": "1",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/P-021.png",
+          "source": "bandai"
+        }
+      ]
+    },
+    {
+      "number": "P-022",
+      "name": "Monkey.D.Luffy",
+      "category": "Character",
+      "cost": 4,
+      "power": 6000,
+      "counter": 1000,
+      "attributes": [
+        "Strike"
+      ],
+      "colors": [
+        "Red"
+      ],
+      "types": [
+        "FILM",
+        "Supernovas",
+        "Straw Hat Crew"
+      ],
+      "printings": [
+        {
+          "id": "P-022",
+          "set": "P",
+          "rarity": "P",
+          "block": "1",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/P-022.png",
+          "source": "bandai"
+        },
+        {
+          "id": "P-022_p1",
+          "set": "OTHER",
+          "rarity": "P",
+          "block": "1",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/P-022_p1.png",
+          "source": "bandai"
+        }
+      ]
+    },
+    {
+      "number": "P-023",
+      "name": "Yasopp",
+      "category": "Character",
+      "cost": 6,
+      "power": 8000,
+      "counter": 1000,
+      "attributes": [
+        "Ranged"
+      ],
+      "colors": [
+        "Red"
+      ],
+      "types": [
+        "FILM",
+        "Red-Haired Pirates"
+      ],
+      "printings": [
+        {
+          "id": "P-023",
+          "set": "P",
+          "rarity": "P",
+          "block": "1",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/P-023.png",
+          "source": "bandai"
+        }
+      ]
+    },
+    {
+      "number": "P-024",
+      "name": "I'm Gonna Be King of the Pirates!!",
+      "category": "Event",
+      "cost": 2,
+      "colors": [
+        "Green"
+      ],
+      "types": [
+        "Supernovas",
+        "Straw Hat Crew"
+      ],
+      "printings": [
+        {
+          "id": "P-024",
+          "set": "P",
+          "rarity": "P",
+          "block": "1",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/P-024.png",
+          "source": "bandai"
+        }
+      ]
+    },
+    {
+      "number": "P-025",
+      "name": "Smoker",
+      "category": "Character",
+      "cost": 3,
+      "power": 5000,
+      "attributes": [
+        "Special"
+      ],
+      "colors": [
+        "Black"
+      ],
+      "types": [
+        "Navy"
+      ],
+      "printings": [
+        {
+          "id": "P-025",
+          "set": "P",
+          "rarity": "P",
+          "block": "1",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/P-025.png",
+          "source": "bandai"
+        }
+      ]
+    },
+    {
+      "number": "P-026",
+      "name": "Morgan",
+      "category": "Character",
+      "cost": 4,
+      "power": 5000,
+      "counter": 1000,
+      "attributes": [
+        "Slash"
+      ],
+      "colors": [
+        "Black"
+      ],
+      "types": [
+        "Navy"
+      ],
+      "printings": [
+        {
+          "id": "P-026",
+          "set": "P",
+          "rarity": "P",
+          "block": "1",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/P-026.png",
+          "source": "bandai"
+        }
+      ]
+    },
+    {
+      "number": "P-027",
+      "name": "General Franky",
+      "category": "Character",
+      "cost": 2,
+      "power": 4000,
+      "attributes": [
+        "Ranged"
+      ],
+      "colors": [
+        "Red"
+      ],
+      "types": [
+        "Straw Hat Crew"
+      ],
+      "printings": [
+        {
+          "id": "P-027",
+          "set": "P",
+          "rarity": "P",
+          "block": "1",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/P-027.png",
+          "source": "bandai"
+        }
+      ]
+    },
+    {
+      "number": "P-028",
+      "name": "Portgas.D.Ace",
+      "category": "Character",
+      "cost": 5,
+      "power": 6000,
+      "attributes": [
+        "Special"
+      ],
+      "colors": [
+        "Red"
+      ],
+      "types": [
+        "Whitebeard Pirates"
+      ],
+      "printings": [
+        {
+          "id": "P-028",
+          "set": "P",
+          "rarity": "P",
+          "block": "1",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/P-028.png",
+          "source": "bandai"
+        },
+        {
+          "id": "P-028_p1",
+          "set": "OTHER",
+          "rarity": "P",
+          "block": "1",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/P-028_p1.png",
+          "source": "bandai"
+        }
+      ]
+    },
+    {
+      "number": "P-029",
+      "name": "Bartolomeo",
+      "category": "Character",
+      "cost": 2,
+      "power": 3000,
+      "counter": 1000,
+      "attributes": [
+        "Special"
+      ],
+      "colors": [
+        "Green"
+      ],
+      "types": [
+        "FILM",
+        "Supernovas",
+        "Barto Club"
+      ],
+      "printings": [
+        {
+          "id": "P-029",
+          "set": "P",
+          "rarity": "P",
+          "block": "1",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/P-029.png",
+          "source": "bandai"
+        },
+        {
+          "id": "P-029_p3",
+          "set": "PRB01",
+          "rarity": "P",
+          "block": "1",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/P-029_p3.png",
+          "source": "bandai"
+        },
+        {
+          "id": "P-029_p4",
+          "set": "PRB01",
+          "rarity": "P",
+          "block": "1",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/P-029_p4.png",
+          "source": "bandai"
+        },
+        {
+          "id": "P-029_r1",
+          "set": "ST16",
+          "rarity": "P",
+          "block": "1",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/P-029_r1.png",
+          "source": "bandai"
+        },
+        {
+          "id": "P-029_r2",
+          "set": "PRB01",
+          "rarity": "P",
+          "block": "1",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/P-029_r2.png",
+          "source": "bandai"
+        }
+      ]
+    },
+    {
+      "number": "P-030",
+      "name": "Jinbe",
+      "category": "Character",
+      "cost": 4,
+      "power": 5000,
+      "counter": 1000,
+      "attributes": [
+        "Strike"
+      ],
+      "colors": [
+        "Blue"
+      ],
+      "types": [
+        "Fish-Man",
+        "The Seven Warlords of the Sea",
+        "The Sun Pirates"
+      ],
+      "printings": [
+        {
+          "id": "P-030",
+          "set": "P",
+          "rarity": "P",
+          "block": "1",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/P-030.png",
+          "source": "bandai"
+        },
+        {
+          "id": "P-030_p2",
+          "set": "OTHER",
+          "rarity": "P",
+          "block": "1",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/P-030_p2.png",
+          "source": "bandai"
+        },
+        {
+          "id": "P-030_p3",
+          "set": "OTHER",
+          "rarity": "P",
+          "block": "1",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/P-030_p3.png",
+          "source": "bandai"
+        },
+        {
+          "id": "P-030_r1",
+          "set": "ST17",
+          "rarity": "P",
+          "block": "1",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/P-030_r1.png",
+          "source": "bandai"
+        }
+      ]
+    },
+    {
+      "number": "P-031",
+      "name": "Uta",
+      "category": "Character",
+      "cost": 5,
+      "power": 6000,
+      "attributes": [
+        "Special"
+      ],
+      "colors": [
+        "Purple"
+      ],
+      "types": [
+        "FILM"
+      ],
+      "printings": [
+        {
+          "id": "P-031",
+          "set": "P",
+          "rarity": "P",
+          "block": "1",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/P-031.png",
+          "source": "bandai"
+        }
+      ]
+    },
+    {
+      "number": "P-032",
+      "name": "Sengoku",
+      "category": "Character",
+      "cost": 5,
+      "power": 6000,
+      "attributes": [
+        "Wisdom"
+      ],
+      "colors": [
+        "Black"
+      ],
+      "types": [
+        "Navy"
+      ],
+      "printings": [
+        {
+          "id": "P-032",
+          "set": "P",
+          "rarity": "P",
+          "block": "1",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/P-032.png",
+          "source": "bandai"
+        }
+      ]
+    },
+    {
+      "number": "P-033",
+      "name": "Monkey.D.Luffy",
+      "category": "Character",
+      "cost": 4,
+      "power": 5000,
+      "counter": 1000,
+      "attributes": [
+        "Strike"
+      ],
+      "colors": [
+        "Blue"
+      ],
+      "types": [
+        "Straw Hat Crew"
+      ],
+      "printings": [
+        {
+          "id": "P-033",
+          "set": "P",
+          "rarity": "P",
+          "block": "1",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/P-033.png",
+          "source": "bandai"
+        }
+      ]
+    },
+    {
+      "number": "P-034",
+      "name": "Sanji",
+      "category": "Character",
+      "cost": 3,
+      "power": 4000,
+      "counter": 1000,
+      "attributes": [
+        "Strike"
+      ],
+      "colors": [
+        "Yellow"
+      ],
+      "types": [
+        "The Vinsmoke Family"
+      ],
+      "printings": [
+        {
+          "id": "P-034",
+          "set": "P",
+          "rarity": "P",
+          "block": "1",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/P-034.png",
+          "source": "bandai"
+        }
+      ]
+    },
+    {
+      "number": "P-035",
+      "name": "Monkey.D.Luffy",
+      "category": "Character",
+      "cost": 6,
+      "power": 6000,
+      "attributes": [
+        "Strike"
+      ],
+      "colors": [
+        "Black"
+      ],
+      "types": [
+        "Straw Hat Crew"
+      ],
+      "printings": [
+        {
+          "id": "P-035",
+          "set": "P",
+          "rarity": "P",
+          "block": "1",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/P-035.png",
+          "source": "bandai"
+        }
+      ]
+    },
+    {
+      "number": "P-036",
+      "name": "Monkey.D.Luffy",
+      "category": "Character",
+      "cost": 3,
+      "power": 4000,
+      "counter": 1000,
+      "attributes": [
+        "Strike"
+      ],
+      "colors": [
+        "Yellow"
+      ],
+      "types": [
+        "Land of Wano",
+        "Straw Hat Crew"
+      ],
+      "printings": [
+        {
+          "id": "P-036",
+          "set": "P",
+          "rarity": "P",
+          "block": "1",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/P-036.png",
+          "source": "bandai"
+        }
+      ]
+    },
+    {
+      "number": "P-037",
+      "name": "Monkey.D.Luffy",
+      "category": "Character",
+      "cost": 2,
+      "power": 4000,
+      "attributes": [
+        "Strike"
+      ],
+      "colors": [
+        "Green"
+      ],
+      "types": [
+        "Straw Hat Crew"
+      ],
+      "printings": [
+        {
+          "id": "P-037",
+          "set": "P",
+          "rarity": "P",
+          "block": "1",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/P-037.png",
+          "source": "bandai"
+        }
+      ]
+    },
+    {
+      "number": "P-039",
+      "name": "Bellamy",
+      "category": "Character",
+      "cost": 5,
+      "power": 6000,
+      "attributes": [
+        "Strike"
+      ],
+      "colors": [
+        "Yellow"
+      ],
+      "types": [
+        "Bellamy Pirates"
+      ],
+      "printings": [
+        {
+          "id": "P-039",
+          "set": "P",
+          "rarity": "P",
+          "block": "1",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/P-039.png",
+          "source": "bandai"
+        }
+      ]
+    },
+    {
+      "number": "P-041",
+      "name": "Monkey.D.Luffy",
+      "category": "Character",
+      "cost": 10,
+      "power": 12000,
+      "counter": 1000,
+      "attributes": [
+        "Strike"
+      ],
+      "colors": [
+        "Purple"
+      ],
+      "types": [
+        "The Four Emperors",
+        "Straw Hat Crew"
+      ],
+      "printings": [
+        {
+          "id": "P-041",
+          "set": "P",
+          "rarity": "P",
+          "block": "2",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/P-041.png",
+          "source": "bandai"
+        },
+        {
+          "id": "P-041_p1",
+          "set": "P",
+          "rarity": "P",
+          "block": "2",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/P-041_p1.png",
+          "source": "bandai"
+        },
+        {
+          "id": "P-041_r1",
+          "set": "ST18",
+          "rarity": "P",
+          "block": "2",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/P-041_r1.png",
+          "source": "bandai"
+        }
+      ]
+    },
+    {
+      "number": "P-042",
+      "name": "Roronoa Zoro",
+      "category": "Character",
+      "cost": 4,
+      "power": 5000,
+      "counter": 1000,
+      "attributes": [
+        "Slash"
+      ],
+      "colors": [
+        "Yellow"
+      ],
+      "types": [
+        "Land of Wano",
+        "Straw Hat Crew"
+      ],
+      "printings": [
+        {
+          "id": "P-042",
+          "set": "P",
+          "rarity": "P",
+          "block": "2",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/P-042.png",
+          "source": "bandai"
+        }
+      ]
+    },
+    {
+      "number": "P-043",
+      "name": "Monkey.D.Luffy",
+      "category": "Character",
+      "cost": 7,
+      "power": 7000,
+      "counter": 1000,
+      "attributes": [
+        "Strike"
+      ],
+      "colors": [
+        "Blue"
+      ],
+      "types": [
+        "Straw Hat Crew"
+      ],
+      "printings": [
+        {
+          "id": "P-043",
+          "set": "P",
+          "rarity": "P",
+          "block": "2",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/P-043.png",
+          "source": "bandai"
+        }
+      ]
+    },
+    {
+      "number": "P-044",
+      "name": "Sabo",
+      "category": "Character",
+      "cost": 3,
+      "power": 4000,
+      "counter": 1000,
+      "attributes": [
+        "Special"
+      ],
+      "colors": [
+        "Red"
+      ],
+      "types": [
+        "Revolutionary Army"
+      ],
+      "printings": [
+        {
+          "id": "P-044",
+          "set": "PRB02",
+          "rarity": "P",
+          "block": "2",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/P-044.png",
+          "source": "bandai"
+        },
+        {
+          "id": "P-044_r1",
+          "set": "PRB02",
+          "rarity": "P",
+          "block": "2",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/P-044_r1.png",
+          "source": "bandai"
+        }
+      ]
+    },
+    {
+      "number": "P-045",
+      "name": "Roronoa Zoro",
+      "category": "Character",
+      "cost": 6,
+      "power": 7000,
+      "counter": 1000,
+      "attributes": [
+        "Slash"
+      ],
+      "colors": [
+        "Purple"
+      ],
+      "types": [
+        "Straw Hat Crew"
+      ],
+      "printings": [
+        {
+          "id": "P-045",
+          "set": "P",
+          "rarity": "P",
+          "block": "2",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/P-045.png",
+          "source": "bandai"
+        },
+        {
+          "id": "P-045_p1",
+          "set": "P",
+          "rarity": "P",
+          "block": "2",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/P-045_p1.png",
+          "source": "bandai"
+        }
+      ]
+    },
+    {
+      "number": "P-046",
+      "name": "Yamato",
+      "category": "Character",
+      "cost": 1,
+      "power": 2000,
+      "counter": 1000,
+      "attributes": [
+        "Strike"
+      ],
+      "colors": [
+        "Purple"
+      ],
+      "types": [
+        "Land of Wano"
+      ],
+      "printings": [
+        {
+          "id": "P-046",
+          "set": "P",
+          "rarity": "P",
+          "block": "2",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/P-046.png",
+          "source": "bandai"
+        }
+      ]
+    },
+    {
+      "number": "P-047",
+      "name": "Monkey.D.Luffy",
+      "category": "Leader",
+      "power": 5000,
+      "life": 5,
+      "attributes": [
+        "Strike"
+      ],
+      "colors": [
+        "Blue"
+      ],
+      "types": [
+        "Straw Hat Crew"
+      ],
+      "printings": [
+        {
+          "id": "P-047",
+          "set": "P",
+          "rarity": "P",
+          "block": "2",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/P-047.png",
+          "source": "bandai"
+        },
+        {
+          "id": "P-047_p1",
+          "set": "OTHER",
+          "rarity": "P",
+          "block": "2",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/P-047_p1.png",
+          "source": "bandai"
+        }
+      ]
+    },
+    {
+      "number": "P-048",
+      "name": "Arlong",
+      "category": "Character",
+      "cost": 3,
+      "power": 4000,
+      "counter": 1000,
+      "attributes": [
+        "Slash"
+      ],
+      "colors": [
+        "Blue"
+      ],
+      "types": [
+        "Fish-Man",
+        "Arlong Pirates"
+      ],
+      "printings": [
+        {
+          "id": "P-048",
+          "set": "P",
+          "rarity": "P",
+          "block": "2",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/P-048.png",
+          "source": "bandai"
+        },
+        {
+          "id": "P-048_p1",
+          "set": "OTHER",
+          "rarity": "P",
+          "block": "2",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/P-048_p1.png",
+          "source": "bandai"
+        }
+      ]
+    },
+    {
+      "number": "P-049",
+      "name": "Usopp",
+      "category": "Character",
+      "cost": 2,
+      "power": 3000,
+      "counter": 1000,
+      "attributes": [
+        "Ranged"
+      ],
+      "colors": [
+        "Blue"
+      ],
+      "types": [
+        "Straw Hat Crew"
+      ],
+      "printings": [
+        {
+          "id": "P-049",
+          "set": "P",
+          "rarity": "P",
+          "block": "2",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/P-049.png",
+          "source": "bandai"
+        },
+        {
+          "id": "P-049_p1",
+          "set": "OTHER",
+          "rarity": "P",
+          "block": "2",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/P-049_p1.png",
+          "source": "bandai"
+        }
+      ]
+    },
+    {
+      "number": "P-050",
+      "name": "Sanji",
+      "category": "Character",
+      "cost": 3,
+      "power": 2000,
+      "counter": 1000,
+      "attributes": [
+        "Strike"
+      ],
+      "colors": [
+        "Blue"
+      ],
+      "types": [
+        "Straw Hat Crew"
+      ],
+      "printings": [
+        {
+          "id": "P-050",
+          "set": "P",
+          "rarity": "P",
+          "block": "2",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/P-050.png",
+          "source": "bandai"
+        },
+        {
+          "id": "P-050_p1",
+          "set": "OTHER",
+          "rarity": "P",
+          "block": "2",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/P-050_p1.png",
+          "source": "bandai"
+        }
+      ]
+    },
+    {
+      "number": "P-051",
+      "name": "Shanks",
+      "category": "Character",
+      "cost": 7,
+      "power": 9000,
+      "attributes": [
+        "Slash"
+      ],
+      "colors": [
+        "Blue"
+      ],
+      "types": [
+        "Red-Haired Pirates"
+      ],
+      "printings": [
+        {
+          "id": "P-051",
+          "set": "P",
+          "rarity": "P",
+          "block": "2",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/P-051.png",
+          "source": "bandai"
+        },
+        {
+          "id": "P-051_p1",
+          "set": "OTHER",
+          "rarity": "P",
+          "block": "2",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/P-051_p1.png",
+          "source": "bandai"
+        }
+      ]
+    },
+    {
+      "number": "P-052",
+      "name": "Dracule Mihawk",
+      "category": "Character",
+      "cost": 6,
+      "power": 7000,
+      "counter": 1000,
+      "attributes": [
+        "Slash"
+      ],
+      "colors": [
+        "Blue"
+      ],
+      "types": [
+        "The Seven Warlords of the Sea"
+      ],
+      "printings": [
+        {
+          "id": "P-052",
+          "set": "P",
+          "rarity": "P",
+          "block": "2",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/P-052.png",
+          "source": "bandai"
+        },
+        {
+          "id": "P-052_p1",
+          "set": "OTHER",
+          "rarity": "P",
+          "block": "2",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/P-052_p1.png",
+          "source": "bandai"
+        }
+      ]
+    },
+    {
+      "number": "P-053",
+      "name": "Nami",
+      "category": "Character",
+      "cost": 1,
+      "power": 1000,
+      "counter": 2000,
+      "attributes": [
+        "Wisdom"
+      ],
+      "colors": [
+        "Blue"
+      ],
+      "types": [
+        "Straw Hat Crew"
+      ],
+      "printings": [
+        {
+          "id": "P-053",
+          "set": "P",
+          "rarity": "P",
+          "block": "2",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/P-053.png",
+          "source": "bandai"
+        },
+        {
+          "id": "P-053_p2",
+          "set": "PRB01",
+          "rarity": "P",
+          "block": "2",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/P-053_p2.png",
+          "source": "bandai"
+        },
+        {
+          "id": "P-053_p3",
+          "set": "PRB01",
+          "rarity": "P",
+          "block": "2",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/P-053_p3.png",
+          "source": "bandai"
+        },
+        {
+          "id": "P-053_p4",
+          "set": "OTHER",
+          "rarity": "P",
+          "block": "2",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/P-053_p4.png",
+          "source": "bandai"
+        },
+        {
+          "id": "P-053_r1",
+          "set": "PRB01",
+          "rarity": "P",
+          "block": "2",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/P-053_r1.png",
+          "source": "bandai"
+        }
+      ]
+    },
+    {
+      "number": "P-054",
+      "name": "Monkey.D.Garp",
+      "category": "Character",
+      "cost": 6,
+      "power": 7000,
+      "counter": 1000,
+      "attributes": [
+        "Strike"
+      ],
+      "colors": [
+        "Blue"
+      ],
+      "types": [
+        "Navy"
+      ],
+      "printings": [
+        {
+          "id": "P-054",
+          "set": "P",
+          "rarity": "P",
+          "block": "2",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/P-054.png",
+          "source": "bandai"
+        }
+      ]
+    },
+    {
+      "number": "P-055",
+      "name": "Monkey.D.Luffy",
+      "category": "Character",
+      "cost": 4,
+      "power": 5000,
+      "counter": 1000,
+      "attributes": [
+        "Strike"
+      ],
+      "colors": [
+        "Blue"
+      ],
+      "types": [
+        "Straw Hat Crew"
+      ],
+      "printings": [
+        {
+          "id": "P-055",
+          "set": "P",
+          "rarity": "P",
+          "block": "2",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/P-055.png",
+          "source": "bandai"
+        },
+        {
+          "id": "P-055_p2",
+          "set": "PRB01",
+          "rarity": "P",
+          "block": "2",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/P-055_p2.png",
+          "source": "bandai"
+        },
+        {
+          "id": "P-055_p3",
+          "set": "PRB01",
+          "rarity": "P",
+          "block": "2",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/P-055_p3.png",
+          "source": "bandai"
+        },
+        {
+          "id": "P-055_p4",
+          "set": "OTHER",
+          "rarity": "P",
+          "block": "2",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/P-055_p4.png",
+          "source": "bandai"
+        },
+        {
+          "id": "P-055_r1",
+          "set": "PRB01",
+          "rarity": "P",
+          "block": "2",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/P-055_r1.png",
+          "source": "bandai"
+        }
+      ]
+    },
+    {
+      "number": "P-056",
+      "name": "Roronoa Zoro",
+      "category": "Character",
+      "cost": 4,
+      "power": 6000,
+      "attributes": [
+        "Slash"
+      ],
+      "colors": [
+        "Blue"
+      ],
+      "types": [
+        "Straw Hat Crew"
+      ],
+      "printings": [
+        {
+          "id": "P-056",
+          "set": "P",
+          "rarity": "P",
+          "block": "2",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/P-056.png",
+          "source": "bandai"
+        },
+        {
+          "id": "P-056_p1",
+          "set": "OTHER",
+          "rarity": "P",
+          "block": "2",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/P-056_p1.png",
+          "source": "bandai"
+        }
+      ]
+    },
+    {
+      "number": "P-057",
+      "name": "Fleeting Lullaby",
+      "category": "Event",
+      "cost": 3,
+      "colors": [
+        "Green"
+      ],
+      "types": [
+        "Music",
+        "FILM"
+      ],
+      "printings": [
+        {
+          "id": "P-057",
+          "set": "P",
+          "rarity": "P",
+          "block": "2",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/P-057.png",
+          "source": "bandai"
+        },
+        {
+          "id": "P-057_p1",
+          "set": "ST16",
+          "rarity": "P",
+          "block": "2",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/P-057_p1.png",
+          "source": "bandai"
+        }
+      ]
+    },
+    {
+      "number": "P-058",
+      "name": "Where the Wind Blows",
+      "category": "Event",
+      "cost": 2,
+      "colors": [
+        "Green"
+      ],
+      "types": [
+        "Music",
+        "FILM"
+      ],
+      "printings": [
+        {
+          "id": "P-058",
+          "set": "P",
+          "rarity": "P",
+          "block": "2",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/P-058.png",
+          "source": "bandai"
+        },
+        {
+          "id": "P-058_p1",
+          "set": "ST16",
+          "rarity": "P",
+          "block": "2",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/P-058_p1.png",
+          "source": "bandai"
+        }
+      ]
+    },
+    {
+      "number": "P-059",
+      "name": "The World's Continuation",
+      "category": "Event",
+      "cost": 2,
+      "colors": [
+        "Green"
+      ],
+      "types": [
+        "Music",
+        "FILM"
+      ],
+      "printings": [
+        {
+          "id": "P-059",
+          "set": "P",
+          "rarity": "P",
+          "block": "2",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/P-059.png",
+          "source": "bandai"
+        },
+        {
+          "id": "P-059_p1",
+          "set": "ST16",
+          "rarity": "P",
+          "block": "2",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/P-059_p1.png",
+          "source": "bandai"
+        }
+      ]
+    },
+    {
+      "number": "P-060",
+      "name": "Tot Musica",
+      "category": "Event",
+      "cost": 2,
+      "colors": [
+        "Green"
+      ],
+      "types": [
+        "Music",
+        "FILM"
+      ],
+      "printings": [
+        {
+          "id": "P-060",
+          "set": "P",
+          "rarity": "P",
+          "block": "2",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/P-060.png",
+          "source": "bandai"
+        },
+        {
+          "id": "P-060_p1",
+          "set": "ST16",
+          "rarity": "P",
+          "block": "2",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/P-060_p1.png",
+          "source": "bandai"
+        }
+      ]
+    },
+    {
+      "number": "P-061",
+      "name": "Monkey.D.Luffy",
+      "category": "Character",
+      "cost": 8,
+      "power": 10000,
+      "counter": 1000,
+      "attributes": [
+        "Strike"
+      ],
+      "colors": [
+        "Green"
+      ],
+      "types": [
+        "FILM",
+        "Straw Hat Crew"
+      ],
+      "printings": [
+        {
+          "id": "P-061",
+          "set": "P",
+          "rarity": "P",
+          "block": "2",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/P-061.png",
+          "source": "bandai"
+        },
+        {
+          "id": "P-061_r1",
+          "set": "ST16",
+          "rarity": "P",
+          "block": "2",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/P-061_r1.png",
+          "source": "bandai"
+        }
+      ]
+    },
+    {
+      "number": "P-062",
+      "name": "Hody & Hyouzou",
+      "category": "Character",
+      "cost": 4,
+      "power": 6000,
+      "attributes": [
+        "Slash",
+        "Strike"
+      ],
+      "colors": [
+        "Green"
+      ],
+      "types": [
+        "Fish-Man",
+        "Merfolk",
+        "New Fish-Man Pirates"
+      ],
+      "printings": [
+        {
+          "id": "P-062",
+          "set": "P",
+          "rarity": "P",
+          "block": "2",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/P-062.png",
+          "source": "bandai"
+        }
+      ]
+    },
+    {
+      "number": "P-063",
+      "name": "Jinbe",
+      "category": "Character",
+      "cost": 4,
+      "power": 5000,
+      "counter": 2000,
+      "attributes": [
+        "Strike"
+      ],
+      "colors": [
+        "Green"
+      ],
+      "types": [
+        "Fish-Man"
+      ],
+      "printings": [
+        {
+          "id": "P-063",
+          "set": "PRB02",
+          "rarity": "P",
+          "block": "2",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/P-063.png",
+          "source": "bandai"
+        },
+        {
+          "id": "P-063_p1",
+          "set": "PRB02",
+          "rarity": "P",
+          "block": "2",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/P-063_p1.png",
+          "source": "bandai"
+        },
+        {
+          "id": "P-063_r1",
+          "set": "PRB02",
+          "rarity": "P",
+          "block": "2",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/P-063_r1.png",
+          "source": "bandai"
+        }
+      ]
+    },
+    {
+      "number": "P-065",
+      "name": "Tony Tony.Chopper",
+      "category": "Character",
+      "cost": 3,
+      "power": 4000,
+      "counter": 1000,
+      "attributes": [
+        "Wisdom"
+      ],
+      "colors": [
+        "Black"
+      ],
+      "types": [
+        "Animal",
+        "Straw Hat Crew"
+      ],
+      "printings": [
+        {
+          "id": "P-065",
+          "set": "P",
+          "rarity": "P",
+          "block": "2",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/P-065.png",
+          "source": "bandai"
+        },
+        {
+          "id": "P-065_p1",
+          "set": "P",
+          "rarity": "P",
+          "block": "2",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/P-065_p1.png",
+          "source": "bandai"
+        },
+        {
+          "id": "P-065_p2",
+          "set": "P",
+          "rarity": "P",
+          "block": "2",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/P-065_p2.png",
+          "source": "bandai"
+        }
+      ]
+    },
+    {
+      "number": "P-068",
+      "name": "Sanji",
+      "category": "Character",
+      "cost": 3,
+      "power": 4000,
+      "counter": 2000,
+      "attributes": [
+        "Strike"
+      ],
+      "colors": [
+        "Blue"
+      ],
+      "types": [
+        "Kingdom of GERMA",
+        "The Vinsmoke Family"
+      ],
+      "printings": [
+        {
+          "id": "P-068",
+          "set": "P",
+          "rarity": "P",
+          "block": "2",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/P-068.png",
+          "source": "bandai"
+        },
+        {
+          "id": "P-068_p1",
+          "set": "PRB02",
+          "rarity": "P",
+          "block": "2",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/P-068_p1.png",
+          "source": "bandai"
+        },
+        {
+          "id": "P-068_r1",
+          "set": "PRB02",
+          "rarity": "P",
+          "block": "2",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/P-068_r1.png",
+          "source": "bandai"
+        }
+      ]
+    },
+    {
+      "number": "P-069",
+      "name": "Koala",
+      "category": "Character",
+      "cost": 1,
+      "power": 1000,
+      "counter": 1000,
+      "attributes": [
+        "Strike"
+      ],
+      "colors": [
+        "Red"
+      ],
+      "types": [
+        "Revolutionary Army"
+      ],
+      "printings": [
+        {
+          "id": "P-069",
+          "set": "P",
+          "rarity": "P",
+          "block": "2",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/P-069.png",
+          "source": "bandai"
+        },
+        {
+          "id": "P-069_p1",
+          "set": "P",
+          "rarity": "P",
+          "block": "2",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/P-069_p1.png",
+          "source": "bandai"
+        },
+        {
+          "id": "P-069_p2",
+          "set": "P",
+          "rarity": "P",
+          "block": "2",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/P-069_p2.png",
+          "source": "bandai"
+        },
+        {
+          "id": "P-069_p3",
+          "set": "PRB02",
+          "rarity": "P",
+          "block": "2",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/P-069_p3.png",
+          "source": "bandai"
+        },
+        {
+          "id": "P-069_p4",
+          "set": "P",
+          "rarity": "P",
+          "block": "2",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/P-069_p4.png",
+          "source": "bandai"
+        },
+        {
+          "id": "P-069_p5",
+          "set": "P",
+          "rarity": "P",
+          "block": "2",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/P-069_p5.png",
+          "source": "bandai"
+        },
+        {
+          "id": "P-069_p6",
+          "set": "P",
+          "rarity": "P",
+          "block": "2",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/P-069_p6.png",
+          "source": "bandai"
+        },
+        {
+          "id": "P-069_r1",
+          "set": "PRB02",
+          "rarity": "P",
+          "block": "2",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/P-069_r1.png",
+          "source": "bandai"
+        }
+      ]
+    },
+    {
+      "number": "P-070",
+      "name": "Carrot",
+      "category": "Character",
+      "cost": 2,
+      "power": 2000,
+      "counter": 1000,
+      "attributes": [
+        "Special"
+      ],
+      "colors": [
+        "Green"
+      ],
+      "types": [
+        "Minks"
+      ],
+      "printings": [
+        {
+          "id": "P-070",
+          "set": "P",
+          "rarity": "P",
+          "block": "2",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/P-070.png",
+          "source": "bandai"
+        },
+        {
+          "id": "P-070_p1",
+          "set": "P",
+          "rarity": "P",
+          "block": "2",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/P-070_p1.png",
+          "source": "bandai"
+        },
+        {
+          "id": "P-070_p2",
+          "set": "P",
+          "rarity": "P",
+          "block": "2",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/P-070_p2.png",
+          "source": "bandai"
+        },
+        {
+          "id": "P-070_p3",
+          "set": "PRB02",
+          "rarity": "P",
+          "block": "2",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/P-070_p3.png",
+          "source": "bandai"
+        },
+        {
+          "id": "P-070_r1",
+          "set": "PRB02",
+          "rarity": "P",
+          "block": "2",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/P-070_r1.png",
+          "source": "bandai"
+        }
+      ]
+    },
+    {
+      "number": "P-071",
+      "name": "Marco",
+      "category": "Character",
+      "cost": 4,
+      "power": 6000,
+      "attributes": [
+        "Special"
+      ],
+      "colors": [
+        "Blue"
+      ],
+      "types": [
+        "Whitebeard Pirates"
+      ],
+      "printings": [
+        {
+          "id": "P-071",
+          "set": "P",
+          "rarity": "P",
+          "block": "3",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/P-071.png",
+          "source": "bandai"
+        }
+      ]
+    },
+    {
+      "number": "P-072",
+      "name": "Ryuma",
+      "category": "Character",
+      "cost": 4,
+      "power": 6000,
+      "attributes": [
+        "Slash"
+      ],
+      "colors": [
+        "Green"
+      ],
+      "types": [
+        "MONSTERS"
+      ],
+      "printings": [
+        {
+          "id": "P-072",
+          "set": "OTHER",
+          "rarity": "P",
+          "block": "3",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/P-072.png",
+          "source": "bandai"
+        }
+      ]
+    },
+    {
+      "number": "P-073",
+      "name": "Sabo",
+      "category": "Character",
+      "cost": 5,
+      "power": 5000,
+      "counter": 2000,
+      "attributes": [
+        "Special"
+      ],
+      "colors": [
+        "Yellow"
+      ],
+      "types": [
+        "Dressrosa",
+        "Revolutionary Army"
+      ],
+      "printings": [
+        {
+          "id": "P-073",
+          "set": "PRB02",
+          "rarity": "P",
+          "block": "2",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/P-073.png",
+          "source": "bandai"
+        },
+        {
+          "id": "P-073_p1",
+          "set": "OTHER",
+          "rarity": "P",
+          "block": "2",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/P-073_p1.png",
+          "source": "bandai"
+        },
+        {
+          "id": "P-073_r1",
+          "set": "PRB02",
+          "rarity": "P",
+          "block": "2",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/P-073_r1.png",
+          "source": "bandai"
+        }
+      ]
+    },
+    {
+      "number": "P-074",
+      "name": "Portgas.D.Ace",
+      "category": "Character",
+      "cost": 3,
+      "power": 4000,
+      "counter": 1000,
+      "attributes": [
+        "Special"
+      ],
+      "colors": [
+        "Blue"
+      ],
+      "types": [
+        "Whitebeard Pirates"
+      ],
+      "printings": [
+        {
+          "id": "P-074",
+          "set": "PRB02",
+          "rarity": "P",
+          "block": "2",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/P-074.png",
+          "source": "bandai"
+        },
+        {
+          "id": "P-074_p1",
+          "set": "OTHER",
+          "rarity": "P",
+          "block": "2",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/P-074_p1.png",
+          "source": "bandai"
+        },
+        {
+          "id": "P-074_r1",
+          "set": "PRB02",
+          "rarity": "P",
+          "block": "2",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/P-074_r1.png",
+          "source": "bandai"
+        }
+      ]
+    },
+    {
+      "number": "P-075",
+      "name": "Monkey.D.Luffy",
+      "category": "Character",
+      "cost": 7,
+      "power": 7000,
+      "attributes": [
+        "Strike"
+      ],
+      "colors": [
+        "Black"
+      ],
+      "types": [
+        "Supernovas",
+        "Straw Hat Crew"
+      ],
+      "printings": [
+        {
+          "id": "P-075",
+          "set": "PRB02",
+          "rarity": "P",
+          "block": "2",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/P-075.png",
+          "source": "bandai"
+        },
+        {
+          "id": "P-075_p1",
+          "set": "OTHER",
+          "rarity": "P",
+          "block": "2",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/P-075_p1.png",
+          "source": "bandai"
+        },
+        {
+          "id": "P-075_r1",
+          "set": "PRB02",
+          "rarity": "P",
+          "block": "2",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/P-075_r1.png",
+          "source": "bandai"
+        }
+      ]
+    },
+    {
+      "number": "P-076",
+      "name": "Sakazuki",
+      "category": "Leader",
+      "power": 5000,
+      "life": 4,
+      "attributes": [
+        "Special"
+      ],
+      "colors": [
+        "Blue",
+        "Black"
+      ],
+      "types": [
+        "Navy"
+      ],
+      "printings": [
+        {
+          "id": "P-076",
+          "set": "P",
+          "rarity": "P",
+          "block": "2",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/P-076.png",
+          "source": "bandai"
+        }
+      ]
+    },
+    {
+      "number": "P-077",
+      "name": "Ulti",
+      "category": "Character",
+      "cost": 6,
+      "power": 6000,
+      "counter": 1000,
+      "attributes": [
+        "Strike"
+      ],
+      "colors": [
+        "Purple"
+      ],
+      "types": [
+        "Animal Kingdom Pirates"
+      ],
+      "printings": [
+        {
+          "id": "P-077",
+          "set": "P",
+          "rarity": "P",
+          "block": "3",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/P-077.png",
+          "source": "bandai"
+        },
+        {
+          "id": "P-077_p1",
+          "set": "P",
+          "rarity": "P",
+          "block": "3",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/P-077_p1.png",
+          "source": "bandai"
+        },
+        {
+          "id": "P-077_p2",
+          "set": "P",
+          "rarity": "P",
+          "block": "3",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/P-077_p2.png",
+          "source": "bandai"
+        }
+      ]
+    },
+    {
+      "number": "P-078",
+      "name": "Adio",
+      "category": "Character",
+      "cost": 4,
+      "power": 5000,
+      "counter": 2000,
+      "attributes": [
+        "Ranged"
+      ],
+      "colors": [
+        "Green"
+      ],
+      "types": [
+        "ODYSSEY"
+      ],
+      "printings": [
+        {
+          "id": "P-078",
+          "set": "P",
+          "rarity": "P",
+          "block": "3",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/P-078.png",
+          "source": "bandai"
+        },
+        {
+          "id": "P-078_p1",
+          "set": "P",
+          "rarity": "P",
+          "block": "3",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/P-078_p1.png",
+          "source": "bandai"
+        },
+        {
+          "id": "P-078_p2",
+          "set": "P",
+          "rarity": "P",
+          "block": "3",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/P-078_p2.png",
+          "source": "bandai"
+        },
+        {
+          "id": "P-078_p3",
+          "set": "P",
+          "rarity": "P",
+          "block": "3",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/P-078_p3.png",
+          "source": "bandai"
+        },
+        {
+          "id": "P-078_p4",
+          "set": "P",
+          "rarity": "P",
+          "block": "3",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/P-078_p4.png",
+          "source": "bandai"
+        },
+        {
+          "id": "P-078_p5",
+          "set": "P",
+          "rarity": "P",
+          "block": "3",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/P-078_p5.png",
+          "source": "bandai"
+        },
+        {
+          "id": "P-078_p6",
+          "set": "PRB02",
+          "rarity": "P",
+          "block": "3",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/P-078_p6.png",
+          "source": "bandai"
+        },
+        {
+          "id": "P-078_r1",
+          "set": "PRB02",
+          "rarity": "P",
+          "block": "3",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/P-078_r1.png",
+          "source": "bandai"
+        }
+      ]
+    },
+    {
+      "number": "P-079",
+      "name": "Lim",
+      "category": "Character",
+      "cost": 2,
+      "counter": 1000,
+      "attributes": [
+        "Wisdom"
+      ],
+      "colors": [
+        "Green"
+      ],
+      "types": [
+        "ODYSSEY"
+      ],
+      "printings": [
+        {
+          "id": "P-079",
+          "set": "P",
+          "rarity": "P",
+          "block": "3",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/P-079.png",
+          "source": "bandai"
+        },
+        {
+          "id": "P-079_p1",
+          "set": "P",
+          "rarity": "P",
+          "block": "3",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/P-079_p1.png",
+          "source": "bandai"
+        },
+        {
+          "id": "P-079_p2",
+          "set": "P",
+          "rarity": "P",
+          "block": "3",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/P-079_p2.png",
+          "source": "bandai"
+        },
+        {
+          "id": "P-079_p3",
+          "set": "PRB02",
+          "rarity": "P",
+          "block": "3",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/P-079_p3.png",
+          "source": "bandai"
+        },
+        {
+          "id": "P-079_r1",
+          "set": "PRB02",
+          "rarity": "P",
+          "block": "3",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/P-079_r1.png",
+          "source": "bandai"
+        }
+      ]
+    },
+    {
+      "number": "P-081",
+      "name": "Dracule Mihawk",
+      "category": "Character",
+      "cost": 4,
+      "power": 5000,
+      "counter": 1000,
+      "attributes": [
+        "Slash"
+      ],
+      "colors": [
+        "Blue"
+      ],
+      "types": [
+        "Cross Guild"
+      ],
+      "printings": [
+        {
+          "id": "P-081",
+          "set": "P",
+          "rarity": "P",
+          "block": "3",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/P-081.png",
+          "source": "bandai"
+        },
+        {
+          "id": "P-081_p1",
+          "set": "P",
+          "rarity": "P",
+          "block": "3",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/P-081_p1.png",
+          "source": "bandai"
+        },
+        {
+          "id": "P-081_p2",
+          "set": "PRB02",
+          "rarity": "P",
+          "block": "3",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/P-081_p2.png",
+          "source": "bandai"
+        },
+        {
+          "id": "P-081_r1",
+          "set": "PRB02",
+          "rarity": "P",
+          "block": "3",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/P-081_r1.png",
+          "source": "bandai"
+        }
+      ]
+    },
+    {
+      "number": "P-082",
+      "name": "Crocodile",
+      "category": "Character",
+      "cost": 5,
+      "power": 7000,
+      "attributes": [
+        "Special"
+      ],
+      "colors": [
+        "Blue"
+      ],
+      "types": [
+        "Cross Guild",
+        "Former Baroque Works"
+      ],
+      "printings": [
+        {
+          "id": "P-082",
+          "set": "P",
+          "rarity": "P",
+          "block": "3",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/P-082.png",
+          "source": "bandai"
+        },
+        {
+          "id": "P-082_p1",
+          "set": "P",
+          "rarity": "P",
+          "block": "3",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/P-082_p1.png",
+          "source": "bandai"
+        },
+        {
+          "id": "P-082_p2",
+          "set": "PRB02",
+          "rarity": "P",
+          "block": "3",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/P-082_p2.png",
+          "source": "bandai"
+        },
+        {
+          "id": "P-082_r1",
+          "set": "PRB02",
+          "rarity": "P",
+          "block": "3",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/P-082_r1.png",
+          "source": "bandai"
+        }
+      ]
+    },
+    {
+      "number": "P-083",
+      "name": "Shanks",
+      "category": "Character",
+      "cost": 6,
+      "power": 7000,
+      "counter": 1000,
+      "attributes": [
+        "Slash"
+      ],
+      "colors": [
+        "Red"
+      ],
+      "types": [
+        "The Four Emperors",
+        "Red-Haired Pirates"
+      ],
+      "printings": [
+        {
+          "id": "P-083",
+          "set": "P",
+          "rarity": "P",
+          "block": "3",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/P-083.png",
+          "source": "bandai"
+        },
+        {
+          "id": "P-083_p1",
+          "set": "P",
+          "rarity": "P",
+          "block": "3",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/P-083_p1.png",
+          "source": "bandai"
+        },
+        {
+          "id": "P-083_p2",
+          "set": "P",
+          "rarity": "P",
+          "block": "3",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/P-083_p2.png",
+          "source": "bandai"
+        },
+        {
+          "id": "P-083_p3",
+          "set": "PRB02",
+          "rarity": "P",
+          "block": "3",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/P-083_p3.png",
+          "source": "bandai"
+        },
+        {
+          "id": "P-083_r1",
+          "set": "PRB02",
+          "rarity": "P",
+          "block": "3",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/P-083_r1.png",
+          "source": "bandai"
+        }
+      ]
+    },
+    {
+      "number": "P-084",
+      "name": "Buggy",
+      "category": "Character",
+      "cost": 7,
+      "power": 8000,
+      "attributes": [
+        "Slash"
+      ],
+      "colors": [
+        "Blue"
+      ],
+      "types": [
+        "The Four Emperors",
+        "Cross Guild"
+      ],
+      "printings": [
+        {
+          "id": "P-084",
+          "set": "ST25",
+          "rarity": "P",
+          "block": "3",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/P-084.png",
+          "source": "bandai"
+        },
+        {
+          "id": "P-084_p1",
+          "set": "OP17",
+          "rarity": "SP CARD",
+          "block": "3",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/P-084_p1.png",
+          "source": "bandai"
+        }
+      ]
+    },
+    {
+      "number": "P-085",
+      "name": "Jewelry Bonney",
+      "category": "Character",
+      "cost": 5,
+      "power": 6000,
+      "counter": 1000,
+      "attributes": [
+        "Special"
+      ],
+      "colors": [
+        "Yellow"
+      ],
+      "types": [
+        "Supernovas",
+        "Bonney Pirates"
+      ],
+      "printings": [
+        {
+          "id": "P-085",
+          "set": "P",
+          "rarity": "P",
+          "block": "3",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/P-085.png",
+          "source": "bandai"
+        },
+        {
+          "id": "P-085_p1",
+          "set": "P",
+          "rarity": "P",
+          "block": "3",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/P-085_p1.png",
+          "source": "bandai"
+        },
+        {
+          "id": "P-085_p2",
+          "set": "P",
+          "rarity": "P",
+          "block": "3",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/P-085_p2.png",
+          "source": "bandai"
+        },
+        {
+          "id": "P-085_p3",
+          "set": "PRB02",
+          "rarity": "P",
+          "block": "3",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/P-085_p3.png",
+          "source": "bandai"
+        },
+        {
+          "id": "P-085_r1",
+          "set": "PRB02",
+          "rarity": "P",
+          "block": "3",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/P-085_r1.png",
+          "source": "bandai"
+        },
+        {
+          "id": "P-085_r2",
+          "set": "ST36",
+          "rarity": "P",
+          "block": "3",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/P-085_r2.png",
+          "source": "bandai"
+        }
+      ]
+    },
+    {
+      "number": "P-088",
+      "name": "Trafalgar Law",
+      "category": "Character",
+      "cost": 4,
+      "power": 5000,
+      "counter": 2000,
+      "attributes": [
+        "Slash"
+      ],
+      "colors": [
+        "Yellow"
+      ],
+      "types": [
+        "Supernovas",
+        "Heart Pirates"
+      ],
+      "printings": [
+        {
+          "id": "P-088",
+          "set": "P",
+          "rarity": "P",
+          "block": "3",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/P-088.png",
+          "source": "bandai"
+        },
+        {
+          "id": "P-088_p3",
+          "set": "PRB02",
+          "rarity": "P",
+          "block": "3",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/P-088_p3.png",
+          "source": "bandai"
+        },
+        {
+          "id": "P-088_r1",
+          "set": "PRB02",
+          "rarity": "P",
+          "block": "3",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/P-088_r1.png",
+          "source": "bandai"
+        },
+        {
+          "id": "P-088_r2",
+          "set": "ST36",
+          "rarity": "P",
+          "block": "3",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/P-088_r2.png",
+          "source": "bandai"
+        }
+      ]
+    },
+    {
+      "number": "P-089",
+      "name": "Tony Tony.Chopper",
+      "category": "Character",
+      "cost": 5,
+      "power": 7000,
+      "counter": 1000,
+      "attributes": [
+        "Strike"
+      ],
+      "colors": [
+        "Yellow"
+      ],
+      "types": [
+        "Animal",
+        "Straw Hat Crew"
+      ],
+      "printings": [
+        {
+          "id": "P-089",
+          "set": "P",
+          "rarity": "P",
+          "block": "3",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/P-089.png",
+          "source": "bandai"
+        },
+        {
+          "id": "P-089_p1",
+          "set": "P",
+          "rarity": "P",
+          "block": "3",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/P-089_p1.png",
+          "source": "bandai"
+        },
+        {
+          "id": "P-089_p2",
+          "set": "P",
+          "rarity": "P",
+          "block": "3",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/P-089_p2.png",
+          "source": "bandai"
+        }
+      ]
+    },
+    {
+      "number": "P-090",
+      "name": "Charlotte Smoothie",
+      "category": "Character",
+      "cost": 7,
+      "power": 7000,
+      "counter": 1000,
+      "attributes": [
+        "Special"
+      ],
+      "colors": [
+        "Purple"
+      ],
+      "types": [
+        "Big Mom Pirates"
+      ],
+      "printings": [
+        {
+          "id": "P-090",
+          "set": "P",
+          "rarity": "P",
+          "block": "3",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/P-090.png",
+          "source": "bandai"
+        },
+        {
+          "id": "P-090_r1",
+          "set": "ST34",
+          "rarity": "P",
+          "block": "3",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/P-090_r1.png",
+          "source": "bandai"
+        }
+      ]
+    },
+    {
+      "number": "P-091",
+      "name": "Shirahoshi",
+      "category": "Character",
+      "cost": 4,
+      "counter": 1000,
+      "attributes": [
+        "Wisdom"
+      ],
+      "colors": [
+        "Green"
+      ],
+      "types": [
+        "Merfolk",
+        "Fish-Man Island"
+      ],
+      "printings": [
+        {
+          "id": "P-091",
+          "set": "P",
+          "rarity": "P",
+          "block": "3",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/P-091.png",
+          "source": "bandai"
+        }
+      ]
+    },
+    {
+      "number": "P-092",
+      "name": "Koby",
+      "category": "Character",
+      "cost": 7,
+      "power": 7000,
+      "counter": 1000,
+      "attributes": [
+        "Strike"
+      ],
+      "colors": [
+        "Red"
+      ],
+      "types": [
+        "Navy",
+        "SWORD"
+      ],
+      "printings": [
+        {
+          "id": "P-092",
+          "set": "P",
+          "rarity": "P",
+          "block": "3",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/P-092.png",
+          "source": "bandai"
+        },
+        {
+          "id": "P-092_p1",
+          "set": "P",
+          "rarity": "P",
+          "block": "3",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/P-092_p1.png",
+          "source": "bandai"
+        },
+        {
+          "id": "P-092_p2",
+          "set": "P",
+          "rarity": "P",
+          "block": "3",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/P-092_p2.png",
+          "source": "bandai"
+        }
+      ]
+    },
+    {
+      "number": "P-093",
+      "name": "Trafalgar Law",
+      "category": "Character",
+      "cost": 4,
+      "power": 6000,
+      "attributes": [
+        "Slash"
+      ],
+      "colors": [
+        "Purple"
+      ],
+      "types": [
+        "Heart Pirates"
+      ],
+      "printings": [
+        {
+          "id": "P-093",
+          "set": "OTHER",
+          "rarity": "P",
+          "block": "3",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/P-093.png",
+          "source": "bandai"
+        }
+      ]
+    },
+    {
+      "number": "P-096",
+      "name": "Girl",
+      "category": "Character",
+      "cost": 2,
+      "counter": 1000,
+      "attributes": [
+        "Wisdom"
+      ],
+      "colors": [
+        "Blue"
+      ],
+      "types": [
+        "Sabaody Archipelago"
+      ],
+      "printings": [
+        {
+          "id": "P-096",
+          "set": "P",
+          "rarity": "P",
+          "block": "3",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/P-096.png",
+          "source": "bandai"
+        },
+        {
+          "id": "P-096_p1",
+          "set": "P",
+          "rarity": "P",
+          "block": "3",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/P-096_p1.png",
+          "source": "bandai"
+        }
+      ]
+    },
+    {
+      "number": "P-097",
+      "name": "Shanks",
+      "category": "Character",
+      "cost": 10,
+      "power": 12000,
+      "attributes": [
+        "Slash"
+      ],
+      "colors": [
+        "Red"
+      ],
+      "types": [
+        "The Four Emperors",
+        "Red-Haired Pirates"
+      ],
+      "printings": [
+        {
+          "id": "P-097",
+          "set": "P",
+          "rarity": "P",
+          "block": "3",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/P-097.png",
+          "source": "bandai"
+        }
+      ]
+    },
+    {
+      "number": "P-098",
+      "name": "Buggy",
+      "category": "Character",
+      "cost": 10,
+      "power": 12000,
+      "attributes": [
+        "Slash"
+      ],
+      "colors": [
+        "Blue"
+      ],
+      "types": [
+        "The Four Emperors",
+        "Cross Guild"
+      ],
+      "printings": [
+        {
+          "id": "P-098",
+          "set": "P",
+          "rarity": "P",
+          "block": "3",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/P-098.png",
+          "source": "bandai"
+        }
+      ]
+    },
+    {
+      "number": "P-099",
+      "name": "Monkey.D.Luffy",
+      "category": "Character",
+      "cost": 10,
+      "power": 12000,
+      "attributes": [
+        "Strike"
+      ],
+      "colors": [
+        "Purple"
+      ],
+      "types": [
+        "The Four Emperors",
+        "Straw Hat Crew"
+      ],
+      "printings": [
+        {
+          "id": "P-099",
+          "set": "P",
+          "rarity": "P",
+          "block": "3",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/P-099.png",
+          "source": "bandai"
+        }
+      ]
+    },
+    {
+      "number": "P-100",
+      "name": "Marshall.D.Teach",
+      "category": "Character",
+      "cost": 10,
+      "power": 12000,
+      "attributes": [
+        "Special"
+      ],
+      "colors": [
+        "Black"
+      ],
+      "types": [
+        "The Four Emperors",
+        "Blackbeard Pirates"
+      ],
+      "printings": [
+        {
+          "id": "P-100",
+          "set": "P",
+          "rarity": "P",
+          "block": "3",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/P-100.png",
+          "source": "bandai"
+        }
+      ]
+    },
+    {
+      "number": "P-101",
+      "name": "Tony Tony.Chopper",
+      "category": "Character",
+      "cost": 4,
+      "power": 5000,
+      "counter": 1000,
+      "attributes": [
+        "Strike"
+      ],
+      "colors": [
+        "Red"
+      ],
+      "types": [
+        "Animal",
+        "Straw Hat Crew"
+      ],
+      "printings": [
+        {
+          "id": "P-101",
+          "set": "P",
+          "rarity": "P",
+          "block": "4",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/P-101.png",
+          "source": "bandai"
+        },
+        {
+          "id": "P-101_p1",
+          "set": "P",
+          "rarity": "P",
+          "block": "4",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/P-101_p1.png",
+          "source": "bandai"
+        },
+        {
+          "id": "P-101_p2",
+          "set": "P",
+          "rarity": "P",
+          "block": "4",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/P-101_p2.png",
+          "source": "bandai"
+        },
+        {
+          "id": "P-101_r1",
+          "set": "ST31",
+          "rarity": "P",
+          "block": "4",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/P-101_r1.png",
+          "source": "bandai"
+        }
+      ]
+    },
+    {
+      "number": "P-102",
+      "name": "Nami",
+      "category": "Character",
+      "cost": 4,
+      "power": 4000,
+      "counter": 2000,
+      "attributes": [
+        "Special"
+      ],
+      "colors": [
+        "Green"
+      ],
+      "types": [
+        "Egghead",
+        "Straw Hat Crew"
+      ],
+      "printings": [
+        {
+          "id": "P-102",
+          "set": "P",
+          "rarity": "P",
+          "block": "4",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/P-102.png",
+          "source": "bandai"
+        },
+        {
+          "id": "P-102_p1",
+          "set": "P",
+          "rarity": "P",
+          "block": "4",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/P-102_p1.png",
+          "source": "bandai"
+        },
+        {
+          "id": "P-102_p2",
+          "set": "P",
+          "rarity": "P",
+          "block": "4",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/P-102_p2.png",
+          "source": "bandai"
+        }
+      ]
+    },
+    {
+      "number": "P-103",
+      "name": "Portgas.D.Ace",
+      "category": "Character",
+      "cost": 4,
+      "power": 6000,
+      "attributes": [
+        "Special"
+      ],
+      "colors": [
+        "Blue"
+      ],
+      "types": [
+        "Whitebeard Pirates"
+      ],
+      "printings": [
+        {
+          "id": "P-103",
+          "set": "P",
+          "rarity": "P",
+          "block": "4",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/P-103.png",
+          "source": "bandai"
+        },
+        {
+          "id": "P-103_p1",
+          "set": "P",
+          "rarity": "P",
+          "block": "4",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/P-103_p1.png",
+          "source": "bandai"
+        },
+        {
+          "id": "P-103_p2",
+          "set": "P",
+          "rarity": "P",
+          "block": "4",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/P-103_p2.png",
+          "source": "bandai"
+        }
+      ]
+    },
+    {
+      "number": "P-104",
+      "name": "Shanks",
+      "category": "Character",
+      "cost": 8,
+      "power": 10000,
+      "attributes": [
+        "Slash"
+      ],
+      "colors": [
+        "Purple"
+      ],
+      "types": [
+        "The Four Emperors",
+        "Red-Haired Pirates",
+        "Former Roger Pirates"
+      ],
+      "printings": [
+        {
+          "id": "P-104",
+          "set": "P",
+          "rarity": "P",
+          "block": "4",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/P-104.png",
+          "source": "bandai"
+        },
+        {
+          "id": "P-104_p1",
+          "set": "P",
+          "rarity": "P",
+          "block": "4",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/P-104_p1.png",
+          "source": "bandai"
+        },
+        {
+          "id": "P-104_p2",
+          "set": "P",
+          "rarity": "P",
+          "block": "4",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/P-104_p2.png",
+          "source": "bandai"
+        }
+      ]
+    },
+    {
+      "number": "P-105",
+      "name": "Sabo",
+      "category": "Character",
+      "cost": 4,
+      "power": 6000,
+      "attributes": [
+        "Special"
+      ],
+      "colors": [
+        "Black"
+      ],
+      "types": [
+        "Revolutionary Army"
+      ],
+      "printings": [
+        {
+          "id": "P-105",
+          "set": "P",
+          "rarity": "P",
+          "block": "4",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/P-105.png",
+          "source": "bandai"
+        },
+        {
+          "id": "P-105_p1",
+          "set": "OP15-EB04",
+          "rarity": "SP CARD",
+          "block": "4",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/P-105_p1.png",
+          "source": "bandai"
+        },
+        {
+          "id": "P-105_p2",
+          "set": "P",
+          "rarity": "P",
+          "block": "4",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/P-105_p2.png",
+          "source": "bandai"
+        },
+        {
+          "id": "P-105_p3",
+          "set": "P",
+          "rarity": "P",
+          "block": "4",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/P-105_p3.png",
+          "source": "bandai"
+        },
+        {
+          "id": "P-105_r1",
+          "set": "ST35",
+          "rarity": "P",
+          "block": "4",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/P-105_r1.png",
+          "source": "bandai"
+        }
+      ]
+    },
+    {
+      "number": "P-106",
+      "name": "Monkey.D.Luffy",
+      "category": "Character",
+      "cost": 5,
+      "power": 6000,
+      "counter": 1000,
+      "attributes": [
+        "Strike"
+      ],
+      "colors": [
+        "Yellow"
+      ],
+      "types": [
+        "Egghead",
+        "The Four Emperors",
+        "Straw Hat Crew"
+      ],
+      "printings": [
+        {
+          "id": "P-106",
+          "set": "P",
+          "rarity": "P",
+          "block": "4",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/P-106.png",
+          "source": "bandai"
+        },
+        {
+          "id": "P-106_p1",
+          "set": "P",
+          "rarity": "P",
+          "block": "4",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/P-106_p1.png",
+          "source": "bandai"
+        },
+        {
+          "id": "P-106_p2",
+          "set": "P",
+          "rarity": "P",
+          "block": "4",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/P-106_p2.png",
+          "source": "bandai"
+        }
+      ]
+    },
+    {
+      "number": "P-107",
+      "name": "Gol.D.Roger",
+      "category": "Character",
+      "cost": 8,
+      "power": 10000,
+      "attributes": [
+        "Slash"
+      ],
+      "colors": [
+        "Purple"
+      ],
+      "types": [
+        "King of the Pirates",
+        "Roger Pirates"
+      ],
+      "printings": [
+        {
+          "id": "P-107",
+          "set": "P",
+          "rarity": "P",
+          "block": "4",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/P-107.png",
+          "source": "bandai"
+        },
+        {
+          "id": "P-107_p1",
+          "set": "OP17",
+          "rarity": "SP CARD",
+          "block": "4",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/P-107_p1.png",
+          "source": "bandai"
+        }
+      ]
+    },
+    {
+      "number": "P-110",
+      "name": "Monkey.D.Luffy",
+      "category": "Character",
+      "cost": 7,
+      "power": 9000,
+      "counter": 1000,
+      "attributes": [
+        "Strike"
+      ],
+      "colors": [
+        "Blue"
+      ],
+      "types": [
+        "Elbaph",
+        "The Four Emperors",
+        "Straw Hat Crew"
+      ],
+      "printings": [
+        {
+          "id": "P-110",
+          "set": "P",
+          "rarity": "P",
+          "block": "4",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/P-110.png",
+          "source": "bandai"
+        },
+        {
+          "id": "P-110_p1",
+          "set": "P",
+          "rarity": "P",
+          "block": "4",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/P-110_p1.png",
+          "source": "bandai"
+        }
+      ]
+    },
+    {
+      "number": "P-111",
+      "name": "Nico Robin",
+      "category": "Character",
+      "cost": 3,
+      "power": 4000,
+      "counter": 1000,
+      "attributes": [
+        "Strike"
+      ],
+      "colors": [
+        "Green"
+      ],
+      "types": [
+        "Straw Hat Crew"
+      ],
+      "printings": [
+        {
+          "id": "P-111",
+          "set": "P",
+          "rarity": "P",
+          "block": "4",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/P-111.png",
+          "source": "bandai"
+        },
+        {
+          "id": "P-111_p1",
+          "set": "P",
+          "rarity": "P",
+          "block": "4",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/P-111_p1.png",
+          "source": "bandai"
+        }
+      ]
+    },
+    {
+      "number": "P-112",
+      "name": "Nami",
+      "category": "Character",
+      "cost": 5,
+      "power": 6000,
+      "counter": 1000,
+      "attributes": [
+        "Special"
+      ],
+      "colors": [
+        "Blue"
+      ],
+      "types": [
+        "Straw Hat Crew"
+      ],
+      "printings": [
+        {
+          "id": "P-112",
+          "set": "P",
+          "rarity": "P",
+          "block": "4",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/P-112.png",
+          "source": "bandai"
+        },
+        {
+          "id": "P-112_p1",
+          "set": "P",
+          "rarity": "P",
+          "block": "4",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/P-112_p1.png",
+          "source": "bandai"
+        }
+      ]
+    },
+    {
+      "number": "P-113",
+      "name": "Jewelry Bonney",
+      "category": "Character",
+      "cost": 4,
+      "power": 4000,
+      "counter": 2000,
+      "attributes": [
+        "Special"
+      ],
+      "colors": [
+        "Yellow"
+      ],
+      "types": [
+        "Bonney Pirates"
+      ],
+      "printings": [
+        {
+          "id": "P-113",
+          "set": "P",
+          "rarity": "P",
+          "block": "4",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/P-113.png",
+          "source": "bandai"
+        },
+        {
+          "id": "P-113_p1",
+          "set": "P",
+          "rarity": "P",
+          "block": "4",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/P-113_p1.png",
+          "source": "bandai"
+        }
+      ]
+    },
+    {
+      "number": "P-115",
+      "name": "Boa Hancock",
+      "category": "Character",
+      "cost": 6,
+      "power": 7000,
+      "counter": 1000,
+      "attributes": [
+        "Special"
+      ],
+      "colors": [
+        "Yellow"
+      ],
+      "types": [
+        "The Seven Warlords of the Sea",
+        "Kuja Pirates"
+      ],
+      "printings": [
+        {
+          "id": "P-115",
+          "set": "P",
+          "rarity": "P",
+          "block": "4",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/P-115.png",
+          "source": "bandai"
+        },
+        {
+          "id": "P-115_p1",
+          "set": "P",
+          "rarity": "P",
+          "block": "4",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/P-115_p1.png",
+          "source": "bandai"
+        }
+      ]
+    },
+    {
+      "number": "P-117",
+      "name": "Nami",
+      "category": "Leader",
+      "power": 5000,
+      "life": 5,
+      "attributes": [
+        "Wisdom"
+      ],
+      "colors": [
+        "Blue"
+      ],
+      "types": [
+        "East Blue"
+      ],
+      "printings": [
+        {
+          "id": "P-117",
+          "set": "P",
+          "rarity": "P",
+          "block": "4",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/P-117.png",
+          "source": "bandai"
+        }
+      ]
+    },
+    {
+      "number": "P-119",
+      "name": "Portgas.D.Ace",
+      "category": "Character",
+      "cost": 4,
+      "power": 6000,
+      "counter": 1000,
+      "attributes": [
+        "Special"
+      ],
+      "colors": [
+        "Red"
+      ],
+      "types": [
+        "Whitebeard Pirates"
+      ],
+      "printings": [
+        {
+          "id": "P-119",
+          "set": "P",
+          "rarity": "P",
+          "block": "4",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/P-119.png",
+          "source": "bandai"
+        }
+      ]
+    },
+    {
+      "number": "P-135",
+      "name": "Monkey.D.Luffy",
+      "category": "Character",
+      "cost": 5,
+      "power": 5000,
+      "counter": 1000,
+      "attributes": [
+        "Strike"
+      ],
+      "colors": [
+        "Green"
+      ],
+      "types": [
+        "Straw Hat Crew"
+      ],
+      "printings": [
+        {
+          "id": "P-135",
+          "set": "P",
+          "rarity": "P",
+          "block": "5",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/P-135.png",
+          "source": "bandai"
+        },
+        {
+          "id": "P-135_p1",
+          "set": "P",
+          "rarity": "P",
+          "block": "5",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/P-135_p1.png",
+          "source": "bandai"
+        }
+      ]
+    },
+    {
+      "number": "P-152",
+      "name": "Edward.Newgate",
+      "category": "Character",
+      "cost": 10,
+      "power": 12000,
+      "attributes": [
+        "Special"
+      ],
+      "colors": [
+        "Red"
+      ],
+      "types": [
+        "The Four Emperors",
+        "Whitebeard Pirates"
+      ],
+      "printings": [
+        {
+          "id": "P-152",
+          "set": "OTHER",
+          "rarity": "P",
+          "block": "5",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/P-152.png",
+          "source": "bandai"
+        }
+      ]
+    },
+    {
+      "number": "P-153",
+      "name": "Portgas.D.Ace",
+      "category": "Character",
+      "cost": 6,
+      "power": 8000,
+      "attributes": [
+        "Special"
+      ],
+      "colors": [
+        "Red"
+      ],
+      "types": [
+        "Whitebeard Pirates"
+      ],
+      "printings": [
+        {
+          "id": "P-153",
+          "set": "OTHER",
+          "rarity": "P",
+          "block": "5",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/P-153.png",
+          "source": "bandai"
+        }
+      ]
+    },
+    {
+      "number": "P-154",
+      "name": "Monkey.D.Luffy",
+      "category": "Character",
+      "cost": 6,
+      "power": 8000,
+      "attributes": [
+        "Strike"
+      ],
+      "colors": [
+        "Red"
+      ],
+      "types": [
+        "Straw Hat Crew"
+      ],
+      "printings": [
+        {
+          "id": "P-154",
+          "set": "OTHER",
+          "rarity": "P",
+          "block": "5",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/P-154.png",
+          "source": "bandai"
+        }
+      ]
+    },
+    {
+      "number": "P-155",
+      "name": "Trafalgar Law",
+      "category": "Character",
+      "cost": 4,
+      "power": 5000,
+      "counter": 1000,
+      "attributes": [
+        "Slash"
+      ],
+      "colors": [
+        "Yellow"
+      ],
+      "types": [
+        "Supernovas",
+        "Heart Pirates"
+      ],
+      "printings": [
+        {
+          "id": "P-155",
+          "set": "P",
+          "rarity": "P",
+          "block": "5",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/P-155.png",
+          "source": "bandai"
+        }
+      ]
+    },
+    {
+      "number": "P-157",
+      "name": "Monkey.D.Luffy",
+      "category": "Character",
+      "cost": 7,
+      "power": 6000,
+      "counter": 1000,
+      "attributes": [
+        "Strike"
+      ],
+      "colors": [
+        "Black"
+      ],
+      "types": [
+        "Elbaph",
+        "The Four Emperors",
+        "Straw Hat Crew"
+      ],
+      "printings": [
+        {
+          "id": "P-157",
+          "set": "P",
+          "rarity": "P",
+          "block": "5",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/P-157.png",
+          "source": "bandai"
+        }
+      ]
+    }
+  ]
+}

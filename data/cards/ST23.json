@@ -1,0 +1,149 @@
+{
+  "cards": [
+    {
+      "number": "ST23-001",
+      "name": "Uta",
+      "category": "Character",
+      "cost": 6,
+      "power": 4000,
+      "counter": 2000,
+      "attributes": [
+        "Special"
+      ],
+      "colors": [
+        "Red"
+      ],
+      "types": [
+        "FILM"
+      ],
+      "printings": [
+        {
+          "id": "ST23-001",
+          "set": "ST23",
+          "rarity": "SR",
+          "block": "3",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST23-001.png",
+          "source": "bandai"
+        }
+      ]
+    },
+    {
+      "number": "ST23-002",
+      "name": "Shanks",
+      "category": "Character",
+      "cost": 9,
+      "power": 10000,
+      "attributes": [
+        "Slash"
+      ],
+      "colors": [
+        "Red"
+      ],
+      "types": [
+        "The Four Emperors",
+        "Red-Haired Pirates"
+      ],
+      "printings": [
+        {
+          "id": "ST23-002",
+          "set": "ST23",
+          "rarity": "SR",
+          "block": "3",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST23-002.png",
+          "source": "bandai"
+        }
+      ]
+    },
+    {
+      "number": "ST23-003",
+      "name": "Benn.Beckman",
+      "category": "Character",
+      "cost": 4,
+      "power": 5000,
+      "counter": 1000,
+      "attributes": [
+        "Ranged"
+      ],
+      "colors": [
+        "Red"
+      ],
+      "types": [
+        "Red-Haired Pirates"
+      ],
+      "printings": [
+        {
+          "id": "ST23-003",
+          "set": "ST23",
+          "rarity": "C",
+          "block": "3",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST23-003.png",
+          "source": "bandai"
+        }
+      ]
+    },
+    {
+      "number": "ST23-004",
+      "name": "Monkey.D.Luffy",
+      "category": "Character",
+      "cost": 1,
+      "power": 2000,
+      "counter": 1000,
+      "attributes": [
+        "Strike"
+      ],
+      "colors": [
+        "Red"
+      ],
+      "types": [
+        "FILM",
+        "Supernovas",
+        "Straw Hat Crew"
+      ],
+      "printings": [
+        {
+          "id": "ST23-004",
+          "set": "ST23",
+          "rarity": "C",
+          "block": "3",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST23-004.png",
+          "source": "bandai"
+        },
+        {
+          "id": "ST23-004_r1",
+          "set": "ST31",
+          "rarity": "C",
+          "block": "3",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST23-004_r1.png",
+          "source": "bandai"
+        }
+      ]
+    },
+    {
+      "number": "ST23-005",
+      "name": "Yasopp",
+      "category": "Character",
+      "cost": 1,
+      "power": 1000,
+      "counter": 1000,
+      "attributes": [
+        "Ranged"
+      ],
+      "colors": [
+        "Red"
+      ],
+      "types": [
+        "Red-Haired Pirates"
+      ],
+      "printings": [
+        {
+          "id": "ST23-005",
+          "set": "ST23",
+          "rarity": "C",
+          "block": "3",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST23-005.png",
+          "source": "bandai"
+        }
+      ]
+    }
+  ]
+}

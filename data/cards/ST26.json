@@ -1,0 +1,145 @@
+{
+  "cards": [
+    {
+      "number": "ST26-001",
+      "name": "Soba Mask",
+      "category": "Character",
+      "cost": 7,
+      "power": 9000,
+      "attributes": [
+        "Strike"
+      ],
+      "colors": [
+        "Purple"
+      ],
+      "types": [
+        "Straw Hat Crew"
+      ],
+      "printings": [
+        {
+          "id": "ST26-001",
+          "set": "ST26",
+          "rarity": "C",
+          "block": "3",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST26-001.png",
+          "source": "bandai"
+        }
+      ]
+    },
+    {
+      "number": "ST26-002",
+      "name": "Tony Tony.Chopper",
+      "category": "Character",
+      "cost": 3,
+      "power": 4000,
+      "counter": 1000,
+      "attributes": [
+        "Wisdom"
+      ],
+      "colors": [
+        "Purple"
+      ],
+      "types": [
+        "Animal",
+        "Straw Hat Crew"
+      ],
+      "printings": [
+        {
+          "id": "ST26-002",
+          "set": "ST26",
+          "rarity": "C",
+          "block": "3",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST26-002.png",
+          "source": "bandai"
+        }
+      ]
+    },
+    {
+      "number": "ST26-003",
+      "name": "Nico Robin",
+      "category": "Character",
+      "cost": 3,
+      "power": 4000,
+      "counter": 2000,
+      "attributes": [
+        "Strike"
+      ],
+      "colors": [
+        "Purple"
+      ],
+      "types": [
+        "Straw Hat Crew"
+      ],
+      "printings": [
+        {
+          "id": "ST26-003",
+          "set": "ST26",
+          "rarity": "SR",
+          "block": "3",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST26-003.png",
+          "source": "bandai"
+        }
+      ]
+    },
+    {
+      "number": "ST26-004",
+      "name": "General Franky",
+      "category": "Character",
+      "cost": 8,
+      "power": 10000,
+      "attributes": [
+        "Ranged"
+      ],
+      "colors": [
+        "Purple"
+      ],
+      "types": [
+        "Straw Hat Crew"
+      ],
+      "printings": [
+        {
+          "id": "ST26-004",
+          "set": "ST26",
+          "rarity": "C",
+          "block": "3",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST26-004.png",
+          "source": "bandai"
+        }
+      ]
+    },
+    {
+      "number": "ST26-005",
+      "name": "Monkey.D.Luffy",
+      "category": "Character",
+      "cost": 6,
+      "power": 7000,
+      "attributes": [
+        "Strike"
+      ],
+      "colors": [
+        "Purple"
+      ],
+      "types": [
+        "Straw Hat Crew"
+      ],
+      "printings": [
+        {
+          "id": "ST26-005",
+          "set": "ST26",
+          "rarity": "SR",
+          "block": "3",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST26-005.png",
+          "source": "bandai"
+        },
+        {
+          "id": "ST26-005_p1",
+          "set": "OP15-EB04",
+          "rarity": "SP CARD",
+          "block": "3",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST26-005_p1.png",
+          "source": "bandai"
+        }
+      ]
+    }
+  ]
+}

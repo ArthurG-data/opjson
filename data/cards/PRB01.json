@@ -1,0 +1,38 @@
+{
+  "cards": [
+    {
+      "number": "PRB01-001",
+      "name": "Sanji",
+      "category": "Leader",
+      "power": 5000,
+      "life": 5,
+      "attributes": [
+        "Strike"
+      ],
+      "colors": [
+        "Red"
+      ],
+      "types": [
+        "Straw Hat Crew"
+      ],
+      "printings": [
+        {
+          "id": "PRB01-001",
+          "set": "PRB01",
+          "rarity": "L",
+          "block": "3",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/PRB01-001.png",
+          "source": "bandai"
+        },
+        {
+          "id": "PRB01-001_p1",
+          "set": "PRB01",
+          "rarity": "L",
+          "block": "3",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/PRB01-001_p1.png",
+          "source": "bandai"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,76 @@
+"""TCGplayer's One Piece catalogue as mirrored by TCGCSV (category 68), cached under .cache/tcgcsv."""
+from __future__ import annotations
+
+import json
+import re
+import time
+import urllib.request
+from dataclasses import dataclass
+from pathlib import Path
+
+TCGCSV = "https://tcgcsv.com/tcgplayer"
+CATEGORY = 68
+USER_AGENT = "opjson/0.1 (+https://github.com/ArthurG-data/opjson)"
+FETCH_DELAY_S = 0.5
+
+# Name suffixes TCGplayer uses to tell a card's variants apart, as in "Shanks (Parallel) (Manga)".
+_SUFFIX = re.compile(r"\s*\(([^()]*)\)\s*$")
+
+
+@dataclass(frozen=True)
+class Product:
+    product_id: int
+    group_id: int
+    name: str
+    clean_name: str
+    image_url: str
+    url: str
+    extended: dict
+
+    @property
+    def number(self) -> str | None:
+        return self.extended.get("Number")
+
+    @property
+    def is_single(self) -> bool:
+        """A single has a card number or a rarity; sealed products and accessories have neither."""
+        return bool(self.extended.get("Number") or self.extended.get("Rarity"))
+
+    def base_name_and_tags(self) -> tuple[str, list[str]]:
+        """The name without its trailing parenthesised tags, and the tags in reading order."""
+        name, tags = self.name, []
+        while (m := _SUFFIX.search(name)) and m.start() > 0:
+            tags.insert(0, m.group(1).strip())
+            name = name[:m.start()]
+        return name.strip(), tags
+
+
+def _get(url: str, cache: Path, refresh: bool) -> dict:
+    cache.mkdir(parents=True, exist_ok=True)
+    path = cache / (url.removeprefix(TCGCSV + "/").replace("/", "_") + ".json")
+    if path.exists() and not refresh:
+        return json.loads(path.read_text(encoding="utf-8"))
+    time.sleep(FETCH_DELAY_S)
+    req = urllib.request.Request(url, headers={"User-Agent": USER_AGENT})
+    with urllib.request.urlopen(req, timeout=60) as resp:
+        data = json.loads(resp.read().decode("utf-8"))
+    if not data.get("success", True):
+        raise RuntimeError(f"{url}: {data.get('errors')}")
+    path.write_text(json.dumps(data), encoding="utf-8")
+    return data
+
+
+def groups(cache: Path, refresh: bool = False) -> list[dict]:
+    return _get(f"{TCGCSV}/{CATEGORY}/groups", cache, refresh)["results"]
+
+
+def products(group_id: int, cache: Path, refresh: bool = False) -> list[Product]:
+    rows = _get(f"{TCGCSV}/{CATEGORY}/{group_id}/products", cache, refresh)["results"]
+    return [Product(product_id=r["productId"], group_id=r["groupId"], name=r["name"],
+                    clean_name=r.get("cleanName") or "", image_url=r.get("imageUrl") or "", url=r.get("url") or "",
+                    extended={e["name"]: e["value"] for e in r.get("extendedData") or []})
+            for r in rows]
+
+
+def prices(group_id: int, cache: Path, refresh: bool = False) -> list[dict]:
+    return _get(f"{TCGCSV}/{CATEGORY}/{group_id}/prices", cache, refresh)["results"]

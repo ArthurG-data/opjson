@@ -1,0 +1,755 @@
+{
+  "cards": [
+    {
+      "number": "ST13-001",
+      "name": "Sabo",
+      "category": "Leader",
+      "power": 5000,
+      "life": 4,
+      "attributes": [
+        "Special"
+      ],
+      "colors": [
+        "Red",
+        "Yellow"
+      ],
+      "types": [
+        "Dressrosa",
+        "Revolutionary Army"
+      ],
+      "printings": [
+        {
+          "id": "ST13-001",
+          "set": "ST13",
+          "rarity": "L",
+          "block": "2",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST13-001.png",
+          "source": "bandai"
+        },
+        {
+          "id": "ST13-001_p1",
+          "set": "ST13",
+          "rarity": "L",
+          "block": "2",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST13-001_p1.png",
+          "source": "bandai"
+        }
+      ]
+    },
+    {
+      "number": "ST13-002",
+      "name": "Portgas.D.Ace",
+      "category": "Leader",
+      "power": 5000,
+      "life": 4,
+      "attributes": [
+        "Special"
+      ],
+      "colors": [
+        "Blue",
+        "Yellow"
+      ],
+      "types": [
+        "Whitebeard Pirates"
+      ],
+      "printings": [
+        {
+          "id": "ST13-002",
+          "set": "ST13",
+          "rarity": "L",
+          "block": "2",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST13-002.png",
+          "source": "bandai"
+        },
+        {
+          "id": "ST13-002_p1",
+          "set": "ST13",
+          "rarity": "L",
+          "block": "2",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST13-002_p1.png",
+          "source": "bandai"
+        }
+      ]
+    },
+    {
+      "number": "ST13-003",
+      "name": "Monkey.D.Luffy",
+      "category": "Leader",
+      "power": 5000,
+      "life": 4,
+      "attributes": [
+        "Strike"
+      ],
+      "colors": [
+        "Black",
+        "Yellow"
+      ],
+      "types": [
+        "Supernovas",
+        "Straw Hat Crew"
+      ],
+      "printings": [
+        {
+          "id": "ST13-003",
+          "set": "ST13",
+          "rarity": "L",
+          "block": "2",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST13-003.png",
+          "source": "bandai"
+        },
+        {
+          "id": "ST13-003_p1",
+          "set": "ST13",
+          "rarity": "L",
+          "block": "2",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST13-003_p1.png",
+          "source": "bandai"
+        },
+        {
+          "id": "ST13-003_p2",
+          "set": "P",
+          "rarity": "L",
+          "block": "1",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST13-003_p2.png",
+          "source": "bandai"
+        }
+      ]
+    },
+    {
+      "number": "ST13-004",
+      "name": "Edward.Newgate",
+      "category": "Character",
+      "cost": 6,
+      "power": 7000,
+      "counter": 1000,
+      "attributes": [
+        "Special"
+      ],
+      "colors": [
+        "Yellow"
+      ],
+      "types": [
+        "The Four Emperors",
+        "Whitebeard Pirates"
+      ],
+      "printings": [
+        {
+          "id": "ST13-004",
+          "set": "ST13",
+          "rarity": "C",
+          "block": "2",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST13-004.png",
+          "source": "bandai"
+        },
+        {
+          "id": "ST13-004_p1",
+          "set": "ST13",
+          "rarity": "C",
+          "block": "2",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST13-004_p1.png",
+          "source": "bandai"
+        },
+        {
+          "id": "ST13-004_p2",
+          "set": "PRB02",
+          "rarity": "C",
+          "block": "2",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST13-004_p2.png",
+          "source": "bandai"
+        },
+        {
+          "id": "ST13-004_r1",
+          "set": "PRB02",
+          "rarity": "C",
+          "block": "2",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST13-004_r1.png",
+          "source": "bandai"
+        }
+      ]
+    },
+    {
+      "number": "ST13-005",
+      "name": "Emporio.Ivankov",
+      "category": "Character",
+      "cost": 3,
+      "power": 4000,
+      "counter": 1000,
+      "attributes": [
+        "Special"
+      ],
+      "colors": [
+        "Yellow"
+      ],
+      "types": [
+        "Revolutionary Army"
+      ],
+      "printings": [
+        {
+          "id": "ST13-005",
+          "set": "ST13",
+          "rarity": "R",
+          "block": "2",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST13-005.png",
+          "source": "bandai"
+        },
+        {
+          "id": "ST13-005_p1",
+          "set": "ST13",
+          "rarity": "R",
+          "block": "2",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST13-005_p1.png",
+          "source": "bandai"
+        }
+      ]
+    },
+    {
+      "number": "ST13-006",
+      "name": "Curly.Dadan",
+      "category": "Character",
+      "cost": 5,
+      "power": 4000,
+      "counter": 1000,
+      "attributes": [
+        "Slash"
+      ],
+      "colors": [
+        "Yellow"
+      ],
+      "types": [
+        "Mountain Bandits"
+      ],
+      "printings": [
+        {
+          "id": "ST13-006",
+          "set": "ST13",
+          "rarity": "C",
+          "block": "2",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST13-006.png",
+          "source": "bandai"
+        },
+        {
+          "id": "ST13-006_p1",
+          "set": "ST13",
+          "rarity": "C",
+          "block": "2",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST13-006_p1.png",
+          "source": "bandai"
+        }
+      ]
+    },
+    {
+      "number": "ST13-007",
+      "name": "Sabo",
+      "category": "Character",
+      "cost": 2,
+      "power": 2000,
+      "counter": 1000,
+      "attributes": [
+        "Strike"
+      ],
+      "colors": [
+        "Yellow"
+      ],
+      "types": [
+        "Goa Kingdom"
+      ],
+      "printings": [
+        {
+          "id": "ST13-007",
+          "set": "ST13",
+          "rarity": "C",
+          "block": "2",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST13-007.png",
+          "source": "bandai"
+        },
+        {
+          "id": "ST13-007_p1",
+          "set": "ST13",
+          "rarity": "C",
+          "block": "2",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST13-007_p1.png",
+          "source": "bandai"
+        },
+        {
+          "id": "ST13-007_p2",
+          "set": "PRB02",
+          "rarity": "C",
+          "block": "2",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST13-007_p2.png",
+          "source": "bandai"
+        },
+        {
+          "id": "ST13-007_r1",
+          "set": "PRB02",
+          "rarity": "C",
+          "block": "2",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST13-007_r1.png",
+          "source": "bandai"
+        }
+      ]
+    },
+    {
+      "number": "ST13-008",
+      "name": "Sabo",
+      "category": "Character",
+      "cost": 5,
+      "power": 6000,
+      "counter": 1000,
+      "attributes": [
+        "Special"
+      ],
+      "colors": [
+        "Yellow"
+      ],
+      "types": [
+        "Dressrosa",
+        "Revolutionary Army"
+      ],
+      "printings": [
+        {
+          "id": "ST13-008",
+          "set": "ST13",
+          "rarity": "SR",
+          "block": "2",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST13-008.png",
+          "source": "bandai"
+        },
+        {
+          "id": "ST13-008_p1",
+          "set": "ST13",
+          "rarity": "SR",
+          "block": "2",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST13-008_p1.png",
+          "source": "bandai"
+        }
+      ]
+    },
+    {
+      "number": "ST13-009",
+      "name": "Shanks",
+      "category": "Character",
+      "cost": 7,
+      "power": 7000,
+      "attributes": [
+        "Slash"
+      ],
+      "colors": [
+        "Yellow"
+      ],
+      "types": [
+        "The Four Emperors",
+        "Red-Haired Pirates"
+      ],
+      "printings": [
+        {
+          "id": "ST13-009",
+          "set": "ST13",
+          "rarity": "C",
+          "block": "2",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST13-009.png",
+          "source": "bandai"
+        },
+        {
+          "id": "ST13-009_p1",
+          "set": "ST13",
+          "rarity": "C",
+          "block": "2",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST13-009_p1.png",
+          "source": "bandai"
+        }
+      ]
+    },
+    {
+      "number": "ST13-010",
+      "name": "Portgas.D.Ace",
+      "category": "Character",
+      "cost": 2,
+      "power": 2000,
+      "counter": 1000,
+      "attributes": [
+        "Strike"
+      ],
+      "colors": [
+        "Yellow"
+      ],
+      "types": [
+        "Goa Kingdom"
+      ],
+      "printings": [
+        {
+          "id": "ST13-010",
+          "set": "ST13",
+          "rarity": "C",
+          "block": "2",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST13-010.png",
+          "source": "bandai"
+        },
+        {
+          "id": "ST13-010_p1",
+          "set": "ST13",
+          "rarity": "C",
+          "block": "2",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST13-010_p1.png",
+          "source": "bandai"
+        },
+        {
+          "id": "ST13-010_p2",
+          "set": "PRB02",
+          "rarity": "C",
+          "block": "2",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST13-010_p2.png",
+          "source": "bandai"
+        },
+        {
+          "id": "ST13-010_r1",
+          "set": "PRB02",
+          "rarity": "C",
+          "block": "2",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST13-010_r1.png",
+          "source": "bandai"
+        }
+      ]
+    },
+    {
+      "number": "ST13-011",
+      "name": "Portgas.D.Ace",
+      "category": "Character",
+      "cost": 5,
+      "power": 7000,
+      "attributes": [
+        "Special"
+      ],
+      "colors": [
+        "Yellow"
+      ],
+      "types": [
+        "Whitebeard Pirates"
+      ],
+      "printings": [
+        {
+          "id": "ST13-011",
+          "set": "ST13",
+          "rarity": "SR",
+          "block": "2",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST13-011.png",
+          "source": "bandai"
+        },
+        {
+          "id": "ST13-011_p1",
+          "set": "ST13",
+          "rarity": "SR",
+          "block": "2",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST13-011_p1.png",
+          "source": "bandai"
+        },
+        {
+          "id": "ST13-011_p2",
+          "set": "OP12",
+          "rarity": "SP CARD",
+          "block": "2",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST13-011_p2.png",
+          "source": "bandai"
+        }
+      ]
+    },
+    {
+      "number": "ST13-012",
+      "name": "Makino",
+      "category": "Character",
+      "cost": 1,
+      "counter": 2000,
+      "attributes": [
+        "Wisdom"
+      ],
+      "colors": [
+        "Yellow"
+      ],
+      "types": [
+        "Windmill Village"
+      ],
+      "printings": [
+        {
+          "id": "ST13-012",
+          "set": "ST13",
+          "rarity": "C",
+          "block": "2",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST13-012.png",
+          "source": "bandai"
+        },
+        {
+          "id": "ST13-012_p1",
+          "set": "ST13",
+          "rarity": "C",
+          "block": "2",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST13-012_p1.png",
+          "source": "bandai"
+        },
+        {
+          "id": "ST13-012_p2",
+          "set": "OTHER",
+          "rarity": "C",
+          "block": "2",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST13-012_p2.png",
+          "source": "bandai"
+        }
+      ]
+    },
+    {
+      "number": "ST13-013",
+      "name": "Monkey.D.Garp",
+      "category": "Character",
+      "cost": 1,
+      "power": 2000,
+      "counter": 1000,
+      "attributes": [
+        "Strike"
+      ],
+      "colors": [
+        "Yellow"
+      ],
+      "types": [
+        "Navy"
+      ],
+      "printings": [
+        {
+          "id": "ST13-013",
+          "set": "ST13",
+          "rarity": "SR",
+          "block": "2",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST13-013.png",
+          "source": "bandai"
+        },
+        {
+          "id": "ST13-013_p1",
+          "set": "ST13",
+          "rarity": "SR",
+          "block": "2",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST13-013_p1.png",
+          "source": "bandai"
+        }
+      ]
+    },
+    {
+      "number": "ST13-014",
+      "name": "Monkey.D.Luffy",
+      "category": "Character",
+      "cost": 2,
+      "power": 2000,
+      "counter": 1000,
+      "attributes": [
+        "Strike"
+      ],
+      "colors": [
+        "Yellow"
+      ],
+      "types": [
+        "Goa Kingdom"
+      ],
+      "printings": [
+        {
+          "id": "ST13-014",
+          "set": "ST13",
+          "rarity": "C",
+          "block": "2",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST13-014.png",
+          "source": "bandai"
+        },
+        {
+          "id": "ST13-014_p1",
+          "set": "ST13",
+          "rarity": "C",
+          "block": "2",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST13-014_p1.png",
+          "source": "bandai"
+        },
+        {
+          "id": "ST13-014_p2",
+          "set": "PRB02",
+          "rarity": "C",
+          "block": "2",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST13-014_p2.png",
+          "source": "bandai"
+        },
+        {
+          "id": "ST13-014_r1",
+          "set": "PRB02",
+          "rarity": "C",
+          "block": "2",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST13-014_r1.png",
+          "source": "bandai"
+        }
+      ]
+    },
+    {
+      "number": "ST13-015",
+      "name": "Monkey.D.Luffy",
+      "category": "Character",
+      "cost": 5,
+      "power": 6000,
+      "counter": 1000,
+      "attributes": [
+        "Strike"
+      ],
+      "colors": [
+        "Yellow"
+      ],
+      "types": [
+        "Supernovas",
+        "Straw Hat Crew"
+      ],
+      "printings": [
+        {
+          "id": "ST13-015",
+          "set": "ST13",
+          "rarity": "SR",
+          "block": "2",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST13-015.png",
+          "source": "bandai"
+        },
+        {
+          "id": "ST13-015_p1",
+          "set": "ST13",
+          "rarity": "SR",
+          "block": "2",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST13-015_p1.png",
+          "source": "bandai"
+        },
+        {
+          "id": "ST13-015_p2",
+          "set": "OTHER",
+          "rarity": "SR",
+          "block": "2",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST13-015_p2.png",
+          "source": "bandai"
+        }
+      ]
+    },
+    {
+      "number": "ST13-016",
+      "name": "Yamato",
+      "category": "Character",
+      "cost": 5,
+      "power": 4000,
+      "counter": 2000,
+      "attributes": [
+        "Strike"
+      ],
+      "colors": [
+        "Yellow"
+      ],
+      "types": [
+        "Land of Wano"
+      ],
+      "printings": [
+        {
+          "id": "ST13-016",
+          "set": "ST13",
+          "rarity": "C",
+          "block": "2",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST13-016.png",
+          "source": "bandai"
+        },
+        {
+          "id": "ST13-016_p1",
+          "set": "ST13",
+          "rarity": "C",
+          "block": "2",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST13-016_p1.png",
+          "source": "bandai"
+        },
+        {
+          "id": "ST13-016_r1",
+          "set": "ST28",
+          "rarity": "C",
+          "block": "2",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST13-016_r1.png",
+          "source": "bandai"
+        }
+      ]
+    },
+    {
+      "number": "ST13-017",
+      "name": "Flame Dragon King",
+      "category": "Event",
+      "cost": 2,
+      "colors": [
+        "Yellow"
+      ],
+      "types": [
+        "Dressrosa",
+        "Revolutionary Army"
+      ],
+      "printings": [
+        {
+          "id": "ST13-017",
+          "set": "ST13",
+          "rarity": "C",
+          "block": "2",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST13-017.png",
+          "source": "bandai"
+        }
+      ]
+    },
+    {
+      "number": "ST13-018",
+      "name": "Gum-Gum Jet Spear",
+      "category": "Event",
+      "cost": 1,
+      "colors": [
+        "Yellow"
+      ],
+      "types": [
+        "Punk Hazard",
+        "Straw Hat Crew"
+      ],
+      "printings": [
+        {
+          "id": "ST13-018",
+          "set": "ST13",
+          "rarity": "C",
+          "block": "2",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST13-018.png",
+          "source": "bandai"
+        }
+      ]
+    },
+    {
+      "number": "ST13-019",
+      "name": "The Three Brothers' Bond",
+      "category": "Event",
+      "cost": 1,
+      "colors": [
+        "Yellow"
+      ],
+      "types": [
+        "Goa Kingdom"
+      ],
+      "printings": [
+        {
+          "id": "ST13-019",
+          "set": "ST13",
+          "rarity": "C",
+          "block": "2",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST13-019.png",
+          "source": "bandai"
+        },
+        {
+          "id": "ST13-019_p1",
+          "set": "PRB02",
+          "rarity": "C",
+          "block": "2",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST13-019_p1.png",
+          "source": "bandai"
+        },
+        {
+          "id": "ST13-019_r1",
+          "set": "PRB02",
+          "rarity": "C",
+          "block": "2",
+          "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST13-019_r1.png",
+          "source": "bandai"
+        }
+      ]
+    }
+  ]
+}

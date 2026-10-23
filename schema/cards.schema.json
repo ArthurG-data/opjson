@@ -44,7 +44,8 @@
         "block": {"type": "string", "pattern": "^([0-9]+|X)$", "description": "The block icon printed on the card; X on cards exempt from block rotation."},
         "image": {"type": "string", "format": "uri"},
         "source": {"enum": ["bandai", "tcgplayer"]},
-        "artOf": {"type": "string", "description": "The Bandai printing whose art this printing carries (a stamped or promo copy)."},
+        "artOf": {"type": "string", "description": "The Bandai printing whose art this printing carries (a stamped or promo copy). The two share one illustration."},
+        "artist": {"type": "string", "minLength": 1, "description": "The illustrator credited on the card. Neither source publishes it today; reserved for when one does."},
         "finishes": {"type": "array", "uniqueItems": true, "items": {"enum": ["nonfoil", "foil"]}},
         "treatments": {"type": "array", "uniqueItems": true, "items": {"enum": ["parallel", "alternate_art", "manga", "sp", "full_art", "wanted_poster", "reprint", "gold", "serial"]}},
         "promoTypes": {

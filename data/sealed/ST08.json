@@ -1,0 +1,115 @@
+{
+  "products": [
+    {
+      "id": "starter-deck-8-monkey-d-luffy",
+      "set": "ST08",
+      "category": "starter_deck",
+      "name": "Starter Deck 8: Monkey.D.Luffy",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          502975
+        ]
+      },
+      "contentsStatus": "partial",
+      "contents": {
+        "cards": [
+          {
+            "printing": "ST08-001"
+          },
+          {
+            "printing": "ST08-002"
+          },
+          {
+            "printing": "ST08-003"
+          },
+          {
+            "printing": "ST08-004"
+          },
+          {
+            "printing": "ST08-005"
+          },
+          {
+            "printing": "ST08-006"
+          },
+          {
+            "printing": "ST08-007"
+          },
+          {
+            "printing": "ST08-008"
+          },
+          {
+            "printing": "ST08-009"
+          },
+          {
+            "printing": "ST08-010"
+          },
+          {
+            "printing": "ST08-011"
+          },
+          {
+            "printing": "ST08-012"
+          },
+          {
+            "printing": "ST08-013"
+          },
+          {
+            "printing": "ST08-014"
+          },
+          {
+            "printing": "ST08-015"
+          }
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/502975"
+      ],
+      "releaseDate": "2023-08-11"
+    },
+    {
+      "id": "starter-deck-8-monkey-d-luffy-display",
+      "set": "ST08",
+      "category": "display",
+      "name": "Starter Deck 8: Monkey.D.Luffy Display",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          502976
+        ]
+      },
+      "contentsStatus": "partial",
+      "contents": {
+        "sealed": [
+          {
+            "product": "starter-deck-8-monkey-d-luffy"
+          }
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/502976"
+      ],
+      "releaseDate": "2023-08-11"
+    },
+    {
+      "id": "starter-deck-8-monkey-d-luffy-display-case",
+      "set": "ST08",
+      "category": "case",
+      "name": "Starter Deck 8: Monkey.D.Luffy Display Case",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          502977
+        ]
+      },
+      "contentsStatus": "partial",
+      "contents": {
+        "sealed": [
+          {
+            "product": "starter-deck-8-monkey-d-luffy"
+          }
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/502977"
+      ],
+      "releaseDate": "2023-08-11"
+    }
+  ]
+}

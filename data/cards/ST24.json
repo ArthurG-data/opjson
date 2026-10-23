@@ -24,7 +24,22 @@
           "rarity": "C",
           "block": "3",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST24-001.png",
-          "source": "bandai"
+          "cardSet": "-GREEN Jewelry Bonney- [ST-24]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              634615
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "Capone\"Gang\"Bege",
+            "match": "image-only-candidate",
+            "distance": 3
+          },
+          "artist": "Yasushi Yamaguchi"
         }
       ]
     },
@@ -53,7 +68,22 @@
           "rarity": "SR",
           "block": "3",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST24-002.png",
-          "source": "bandai"
+          "cardSet": "-GREEN Jewelry Bonney- [ST-24]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              634617
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Kid & Killer",
+            "match": "image-only-candidate",
+            "distance": 2
+          },
+          "artist": "Hokuyuu"
         }
       ]
     },
@@ -81,7 +111,22 @@
           "rarity": "C",
           "block": "3",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST24-003.png",
-          "source": "bandai"
+          "cardSet": "-GREEN Jewelry Bonney- [ST-24]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              634619
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "Basil Hawkins",
+            "match": "image-only-candidate",
+            "distance": 1
+          },
+          "artist": "Nekobayashi"
         }
       ]
     },
@@ -110,7 +155,22 @@
           "rarity": "SR",
           "block": "3",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST24-004.png",
-          "source": "bandai"
+          "cardSet": "-GREEN Jewelry Bonney- [ST-24]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              634621
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Law & Bepo",
+            "match": "image-only-candidate",
+            "distance": 3
+          },
+          "artist": "Koushi Rokushiro"
         }
       ]
     },
@@ -139,7 +199,22 @@
           "rarity": "C",
           "block": "3",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST24-005.png",
-          "source": "bandai"
+          "cardSet": "-GREEN Jewelry Bonney- [ST-24]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              634622
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "X.Drake",
+            "match": "image-only-candidate",
+            "distance": 0
+          },
+          "artist": "touge369"
         },
         {
           "id": "ST24-005_r1",
@@ -147,7 +222,10 @@
           "rarity": "C",
           "block": "3",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST24-005_r1.png",
-          "source": "bandai"
+          "cardSet": "STARTER DECK -GREEN Roronoa Zoro- [ST-32]",
+          "source": "bandai",
+          "artOf": "ST24-005",
+          "artist": "touge369"
         }
       ]
     }

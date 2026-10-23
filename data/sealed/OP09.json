@@ -1,0 +1,147 @@
+{
+  "products": [
+    {
+      "id": "double-pack-set-volume-6",
+      "set": "OP09",
+      "category": "double_pack",
+      "name": "Double Pack Set Volume 6",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          563842
+        ]
+      },
+      "contentsStatus": "unknown",
+      "contents": {},
+      "sources": [
+        "https://www.tcgplayer.com/product/563842"
+      ],
+      "releaseDate": "2024-12-13"
+    },
+    {
+      "id": "double-pack-set-volume-6-display",
+      "set": "OP09",
+      "category": "display",
+      "name": "Double Pack Set Volume 6 Display",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          563843
+        ]
+      },
+      "contentsStatus": "partial",
+      "contents": {
+        "sealed": [
+          {
+            "product": "double-pack-set-volume-6"
+          }
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/563843"
+      ],
+      "releaseDate": "2024-12-13"
+    },
+    {
+      "id": "emperors-in-the-new-world-booster-box",
+      "set": "OP09",
+      "category": "booster_box",
+      "name": "Emperors in the New World - Booster Box",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          563834
+        ]
+      },
+      "contentsStatus": "unknown",
+      "contents": {},
+      "sources": [
+        "https://www.tcgplayer.com/product/563834"
+      ],
+      "releaseDate": "2024-12-13"
+    },
+    {
+      "id": "emperors-in-the-new-world-booster-box-case",
+      "set": "OP09",
+      "category": "case",
+      "name": "Emperors in the New World - Booster Box Case",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          563835
+        ]
+      },
+      "contentsStatus": "partial",
+      "contents": {
+        "sealed": [
+          {
+            "product": "emperors-in-the-new-world-booster-box"
+          }
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/563835"
+      ],
+      "releaseDate": "2024-12-13"
+    },
+    {
+      "id": "emperors-in-the-new-world-booster-pack",
+      "set": "OP09",
+      "category": "booster_pack",
+      "name": "Emperors in the New World - Booster Pack",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          563833
+        ]
+      },
+      "contentsStatus": "partial",
+      "contents": {
+        "pool": [
+          {
+            "set": "OP09"
+          }
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/563833"
+      ],
+      "releaseDate": "2024-12-13"
+    },
+    {
+      "id": "emperors-in-the-new-world-sleeved-booster-pack",
+      "set": "OP09",
+      "category": "sleeved_booster_pack",
+      "name": "Emperors in the New World - Sleeved Booster Pack",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          606604
+        ]
+      },
+      "contentsStatus": "partial",
+      "contents": {
+        "pool": [
+          {
+            "set": "OP09"
+          }
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/606604"
+      ],
+      "releaseDate": "2024-12-13"
+    },
+    {
+      "id": "special-don-card-pack-dp-06",
+      "set": "OP09",
+      "category": "promo_pack",
+      "name": "Special DON!! Card Pack DP-06",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          617844
+        ]
+      },
+      "contentsStatus": "unknown",
+      "contents": {},
+      "sources": [
+        "https://www.tcgplayer.com/product/617844"
+      ],
+      "releaseDate": "2024-12-13"
+    }
+  ]
+}

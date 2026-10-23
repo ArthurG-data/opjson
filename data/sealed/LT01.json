@@ -1,0 +1,44 @@
+{
+  "products": [
+    {
+      "id": "learn-together-deck-set",
+      "set": "LT01",
+      "category": "starter_deck",
+      "name": "Learn Together Deck Set",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          628478
+        ]
+      },
+      "contentsStatus": "unknown",
+      "contents": {},
+      "sources": [
+        "https://www.tcgplayer.com/product/628478"
+      ],
+      "releaseDate": "2025-10-03"
+    },
+    {
+      "id": "learn-together-deck-set-display",
+      "set": "LT01",
+      "category": "display",
+      "name": "Learn Together Deck Set Display",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          628479
+        ]
+      },
+      "contentsStatus": "partial",
+      "contents": {
+        "sealed": [
+          {
+            "product": "learn-together-deck-set"
+          }
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/628479"
+      ],
+      "releaseDate": "2025-10-03"
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "products": [
+    {
+      "id": "memorial-collection-booster-box",
+      "set": "EB01",
+      "category": "booster_box",
+      "name": "Memorial Collection - Booster Box",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          521161
+        ]
+      },
+      "contentsStatus": "unknown",
+      "contents": {},
+      "sources": [
+        "https://www.tcgplayer.com/product/521161"
+      ],
+      "releaseDate": "2024-05-03"
+    },
+    {
+      "id": "memorial-collection-booster-box-case",
+      "set": "EB01",
+      "category": "case",
+      "name": "Memorial Collection - Booster Box Case",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          521162
+        ]
+      },
+      "contentsStatus": "partial",
+      "contents": {
+        "sealed": [
+          {
+            "product": "memorial-collection-booster-box"
+          }
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/521162"
+      ],
+      "releaseDate": "2024-05-03"
+    },
+    {
+      "id": "memorial-collection-booster-pack",
+      "set": "EB01",
+      "category": "booster_pack",
+      "name": "Memorial Collection - Booster Pack",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          521160
+        ]
+      },
+      "contentsStatus": "partial",
+      "contents": {
+        "pool": [
+          {
+            "set": "EB01"
+          }
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/521160"
+      ],
+      "releaseDate": "2024-05-03"
+    }
+  ]
+}

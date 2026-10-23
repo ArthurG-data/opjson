@@ -25,7 +25,21 @@
           "rarity": "L",
           "block": "2",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP08-001.png",
-          "source": "bandai"
+          "cardSet": "-TWO LEGENDS- [OP-08]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              558021
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "Tony Tony.Chopper (001)",
+            "match": "image",
+            "distance": 1
+          }
         },
         {
           "id": "OP08-001_p1",
@@ -33,7 +47,25 @@
           "rarity": "L",
           "block": "2",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP08-001_p1.png",
-          "source": "bandai"
+          "cardSet": "-TWO LEGENDS- [OP-08]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              558022
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Tony Tony.Chopper (001) (Parallel)",
+            "match": "image",
+            "distance": 3
+          },
+          "treatments": [
+            "parallel"
+          ],
+          "artist": "Rofta"
         },
         {
           "id": "OP08-001_p2",
@@ -41,7 +73,24 @@
           "rarity": "L",
           "block": "2",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP08-001_p2.png",
-          "source": "bandai"
+          "cardSet": "-Anime 25th Collection- [EB-02]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              629185
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Tony Tony.Chopper (SP)",
+            "match": "image-only-candidate",
+            "distance": 5
+          },
+          "treatments": [
+            "sp"
+          ]
         }
       ]
     },
@@ -68,7 +117,21 @@
           "rarity": "L",
           "block": "2",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP08-002.png",
-          "source": "bandai"
+          "cardSet": "-TWO LEGENDS- [OP-08]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              558023
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "Marco",
+            "match": "image",
+            "distance": 2
+          }
         },
         {
           "id": "OP08-002_p1",
@@ -76,7 +139,25 @@
           "rarity": "L",
           "block": "2",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP08-002_p1.png",
-          "source": "bandai"
+          "cardSet": "-TWO LEGENDS- [OP-08]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              558024
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Marco (Parallel)",
+            "match": "image",
+            "distance": 3
+          },
+          "treatments": [
+            "parallel"
+          ],
+          "artist": "lack"
         },
         {
           "id": "OP08-002_p2",
@@ -84,7 +165,24 @@
           "rarity": "L",
           "block": "2",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP08-002_p2.png",
-          "source": "bandai"
+          "cardSet": "-Anime 25th Collection- [EB-02]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              629186
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Marco (SP)",
+            "match": "image-only-candidate",
+            "distance": 2
+          },
+          "treatments": [
+            "sp"
+          ]
         }
       ]
     },
@@ -111,7 +209,50 @@
           "rarity": "C",
           "block": "2",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP08-003.png",
-          "source": "bandai"
+          "cardSet": "-TWO LEGENDS- [OP-08]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              558025
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "Twenty Doctors",
+            "match": "image-only-candidate",
+            "distance": 5
+          },
+          "artist": "Yoichi Amano"
+        },
+        {
+          "id": "OP08-003~tcg575915",
+          "set": "OP08-PRE",
+          "rarity": "C",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/575915_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              575915
+            ]
+          },
+          "tcgplayer": {
+            "name": "Twenty Doctors",
+            "match": "minted",
+            "distance": 5
+          },
+          "artOf": "OP08-003",
+          "finishes": [
+            "nonfoil"
+          ],
+          "promoTypes": [
+            {
+              "type": "prerelease",
+              "category": "event"
+            }
+          ],
+          "artist": "Yoichi Amano"
         }
       ]
     },
@@ -138,7 +279,50 @@
           "rarity": "C",
           "block": "2",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP08-004.png",
-          "source": "bandai"
+          "cardSet": "-TWO LEGENDS- [OP-08]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              558026
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "Kuromarimo",
+            "match": "image-only-candidate",
+            "distance": 3
+          },
+          "artist": "S-KINOKO"
+        },
+        {
+          "id": "OP08-004~tcg575916",
+          "set": "OP08-PRE",
+          "rarity": "C",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/575916_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              575916
+            ]
+          },
+          "tcgplayer": {
+            "name": "Kuromarimo",
+            "match": "minted",
+            "distance": 3
+          },
+          "artOf": "OP08-004",
+          "finishes": [
+            "nonfoil"
+          ],
+          "promoTypes": [
+            {
+              "type": "prerelease",
+              "category": "event"
+            }
+          ],
+          "artist": "S-KINOKO"
         }
       ]
     },
@@ -165,7 +349,50 @@
           "rarity": "C",
           "block": "2",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP08-005.png",
-          "source": "bandai"
+          "cardSet": "-TWO LEGENDS- [OP-08]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              558027
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "Chess",
+            "match": "image-only-candidate",
+            "distance": 6
+          },
+          "artist": "Aidle Co. Ltd."
+        },
+        {
+          "id": "OP08-005~tcg575917",
+          "set": "OP08-PRE",
+          "rarity": "C",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/575917_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              575917
+            ]
+          },
+          "tcgplayer": {
+            "name": "Chess",
+            "match": "minted",
+            "distance": 6
+          },
+          "artOf": "OP08-005",
+          "finishes": [
+            "nonfoil"
+          ],
+          "promoTypes": [
+            {
+              "type": "prerelease",
+              "category": "event"
+            }
+          ],
+          "artist": "Aidle Co. Ltd."
         }
       ]
     },
@@ -193,7 +420,50 @@
           "rarity": "UC",
           "block": "2",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP08-006.png",
-          "source": "bandai"
+          "cardSet": "-TWO LEGENDS- [OP-08]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              558028
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "Chessmarimo",
+            "match": "image-only-candidate",
+            "distance": 2
+          },
+          "artist": "KISUKE"
+        },
+        {
+          "id": "OP08-006~tcg576452",
+          "set": "OP08-PRE",
+          "rarity": "UC",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/576452_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              576452
+            ]
+          },
+          "tcgplayer": {
+            "name": "Chessmarimo",
+            "match": "minted",
+            "distance": 2
+          },
+          "artOf": "OP08-006",
+          "finishes": [
+            "nonfoil"
+          ],
+          "promoTypes": [
+            {
+              "type": "prerelease",
+              "category": "event"
+            }
+          ],
+          "artist": "KISUKE"
         }
       ]
     },
@@ -221,7 +491,22 @@
           "rarity": "SR",
           "block": "2",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP08-007.png",
-          "source": "bandai"
+          "cardSet": "-TWO LEGENDS- [OP-08]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              558029
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Tony Tony.Chopper (007)",
+            "match": "image",
+            "distance": 1
+          },
+          "artist": "Akihiro MIYANO"
         },
         {
           "id": "OP08-007_p1",
@@ -229,7 +514,25 @@
           "rarity": "SR",
           "block": "2",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP08-007_p1.png",
-          "source": "bandai"
+          "cardSet": "-TWO LEGENDS- [OP-08]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              558030
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Tony Tony.Chopper (0070) (Parallel)",
+            "match": "image",
+            "distance": 4
+          },
+          "treatments": [
+            "parallel"
+          ],
+          "artist": "Ryuda"
         }
       ]
     },
@@ -256,7 +559,22 @@
           "rarity": "R",
           "block": "2",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP08-008.png",
-          "source": "bandai"
+          "cardSet": "-TWO LEGENDS- [OP-08]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              558031
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Dalton",
+            "match": "image-only-candidate",
+            "distance": 1
+          },
+          "artist": "tasaka"
         }
       ]
     },
@@ -283,7 +601,50 @@
           "rarity": "C",
           "block": "2",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP08-009.png",
-          "source": "bandai"
+          "cardSet": "-TWO LEGENDS- [OP-08]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              558032
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "Maria Onion Bear",
+            "match": "image-only-candidate",
+            "distance": 3
+          },
+          "artist": "Aidle Co. Ltd."
+        },
+        {
+          "id": "OP08-009~tcg575918",
+          "set": "OP08-PRE",
+          "rarity": "C",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/575918_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              575918
+            ]
+          },
+          "tcgplayer": {
+            "name": "Maria Onion Bear",
+            "match": "minted",
+            "distance": 3
+          },
+          "artOf": "OP08-009",
+          "finishes": [
+            "nonfoil"
+          ],
+          "promoTypes": [
+            {
+              "type": "prerelease",
+              "category": "event"
+            }
+          ],
+          "artist": "Aidle Co. Ltd."
         }
       ]
     },
@@ -311,7 +672,50 @@
           "rarity": "UC",
           "block": "2",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP08-010.png",
-          "source": "bandai"
+          "cardSet": "-TWO LEGENDS- [OP-08]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              558033
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "Hiking Bear",
+            "match": "image-only-candidate",
+            "distance": 5
+          },
+          "artist": "COGA"
+        },
+        {
+          "id": "OP08-010~tcg576453",
+          "set": "OP08-PRE",
+          "rarity": "UC",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/576453_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              576453
+            ]
+          },
+          "tcgplayer": {
+            "name": "Hiking Bear",
+            "match": "minted",
+            "distance": 5
+          },
+          "artOf": "OP08-010",
+          "finishes": [
+            "nonfoil"
+          ],
+          "promoTypes": [
+            {
+              "type": "prerelease",
+              "category": "event"
+            }
+          ],
+          "artist": "COGA"
         }
       ]
     },
@@ -339,7 +743,50 @@
           "rarity": "C",
           "block": "2",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP08-011.png",
-          "source": "bandai"
+          "cardSet": "-TWO LEGENDS- [OP-08]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              558034
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "Musshuru",
+            "match": "image-only-candidate",
+            "distance": 3
+          },
+          "artist": "UGUME"
+        },
+        {
+          "id": "OP08-011~tcg575919",
+          "set": "OP08-PRE",
+          "rarity": "C",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/575919_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              575919
+            ]
+          },
+          "tcgplayer": {
+            "name": "Musshuru",
+            "match": "minted",
+            "distance": 3
+          },
+          "artOf": "OP08-011",
+          "finishes": [
+            "nonfoil"
+          ],
+          "promoTypes": [
+            {
+              "type": "prerelease",
+              "category": "event"
+            }
+          ],
+          "artist": "UGUME"
         }
       ]
     },
@@ -367,7 +814,50 @@
           "rarity": "UC",
           "block": "2",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP08-012.png",
-          "source": "bandai"
+          "cardSet": "-TWO LEGENDS- [OP-08]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              558035
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "Lapins",
+            "match": "image-only-candidate",
+            "distance": 7
+          },
+          "artist": "tatsuya"
+        },
+        {
+          "id": "OP08-012~tcg576454",
+          "set": "OP08-PRE",
+          "rarity": "UC",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/576454_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              576454
+            ]
+          },
+          "tcgplayer": {
+            "name": "Lapins",
+            "match": "minted",
+            "distance": 7
+          },
+          "artOf": "OP08-012",
+          "finishes": [
+            "nonfoil"
+          ],
+          "promoTypes": [
+            {
+              "type": "prerelease",
+              "category": "event"
+            }
+          ],
+          "artist": "tatsuya"
         }
       ]
     },
@@ -395,7 +885,50 @@
           "rarity": "UC",
           "block": "2",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP08-013.png",
-          "source": "bandai"
+          "cardSet": "-TWO LEGENDS- [OP-08]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              558036
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "Robson",
+            "match": "image-only-candidate",
+            "distance": 2
+          },
+          "artist": "nukadokomogera"
+        },
+        {
+          "id": "OP08-013~tcg576455",
+          "set": "OP08-PRE",
+          "rarity": "UC",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/576455_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              576455
+            ]
+          },
+          "tcgplayer": {
+            "name": "Robson",
+            "match": "minted",
+            "distance": 2
+          },
+          "artOf": "OP08-013",
+          "finishes": [
+            "nonfoil"
+          ],
+          "promoTypes": [
+            {
+              "type": "prerelease",
+              "category": "event"
+            }
+          ],
+          "artist": "nukadokomogera"
         }
       ]
     },
@@ -422,7 +955,22 @@
           "rarity": "R",
           "block": "2",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP08-014.png",
-          "source": "bandai"
+          "cardSet": "-TWO LEGENDS- [OP-08]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              558037
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Wapol",
+            "match": "image-only-candidate",
+            "distance": 6
+          },
+          "artist": "ASAKI KURODA"
         }
       ]
     },
@@ -449,7 +997,22 @@
           "rarity": "R",
           "block": "2",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP08-015.png",
-          "source": "bandai"
+          "cardSet": "-TWO LEGENDS- [OP-08]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              558038
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Dr.Kureha",
+            "match": "image",
+            "distance": 4
+          },
+          "artist": "yuu"
         },
         {
           "id": "OP08-015_p1",
@@ -457,7 +1020,24 @@
           "rarity": "R",
           "block": "2",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP08-015_p1.png",
-          "source": "bandai"
+          "cardSet": "-TWO LEGENDS- [OP-08]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              558039
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Dr.Kureha (Parallel)",
+            "match": "image",
+            "distance": 0
+          },
+          "treatments": [
+            "parallel"
+          ]
         }
       ]
     },
@@ -483,7 +1063,22 @@
           "rarity": "R",
           "block": "2",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP08-016.png",
-          "source": "bandai"
+          "cardSet": "-TWO LEGENDS- [OP-08]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              558040
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Dr.Hiriluk",
+            "match": "image-only-candidate",
+            "distance": 1
+          },
+          "artist": "Aidle Co. Ltd."
         }
       ]
     },
@@ -505,7 +1100,48 @@
           "rarity": "C",
           "block": "2",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP08-017.png",
-          "source": "bandai"
+          "cardSet": "-TWO LEGENDS- [OP-08]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              558041
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "I'd Never Shoot You!!!!",
+            "match": "image-only-candidate",
+            "distance": 2
+          }
+        },
+        {
+          "id": "OP08-017~tcg575920",
+          "set": "OP08-PRE",
+          "rarity": "C",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/575920_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              575920
+            ]
+          },
+          "tcgplayer": {
+            "name": "I'd Never Shoot You!!!!",
+            "match": "minted",
+            "distance": 2
+          },
+          "artOf": "OP08-017",
+          "finishes": [
+            "nonfoil"
+          ],
+          "promoTypes": [
+            {
+              "type": "prerelease",
+              "category": "event"
+            }
+          ]
         }
       ]
     },
@@ -529,7 +1165,21 @@
           "rarity": "R",
           "block": "2",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP08-018.png",
-          "source": "bandai"
+          "cardSet": "-TWO LEGENDS- [OP-08]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              558042
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Cloven Rose",
+            "match": "image-only-candidate",
+            "distance": 2
+          }
         }
       ]
     },
@@ -551,7 +1201,48 @@
           "rarity": "UC",
           "block": "2",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP08-019.png",
-          "source": "bandai"
+          "cardSet": "-TWO LEGENDS- [OP-08]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              558043
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "Munch-Munch Mutation",
+            "match": "image-only-candidate",
+            "distance": 3
+          }
+        },
+        {
+          "id": "OP08-019~tcg576456",
+          "set": "OP08-PRE",
+          "rarity": "UC",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/576456_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              576456
+            ]
+          },
+          "tcgplayer": {
+            "name": "Munch-Munch Mutation",
+            "match": "minted",
+            "distance": 3
+          },
+          "artOf": "OP08-019",
+          "finishes": [
+            "nonfoil"
+          ],
+          "promoTypes": [
+            {
+              "type": "prerelease",
+              "category": "event"
+            }
+          ]
         }
       ]
     },
@@ -573,7 +1264,156 @@
           "rarity": "C",
           "block": "2",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP08-020.png",
-          "source": "bandai"
+          "cardSet": "-TWO LEGENDS- [OP-08]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              558044
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "Drum Kingdom",
+            "match": "image-only-candidate",
+            "distance": 7
+          }
+        },
+        {
+          "id": "OP08-020~tcg575921",
+          "set": "OP08-PRE",
+          "rarity": "C",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/575921_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              575921
+            ]
+          },
+          "tcgplayer": {
+            "name": "Drum Kingdom",
+            "match": "minted",
+            "distance": 7
+          },
+          "artOf": "OP08-020",
+          "finishes": [
+            "nonfoil"
+          ],
+          "promoTypes": [
+            {
+              "type": "prerelease",
+              "category": "event"
+            }
+          ]
+        },
+        {
+          "id": "OP08-020~tcg579372",
+          "set": "P",
+          "rarity": "C",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/579372_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              579372
+            ]
+          },
+          "tcgplayer": {
+            "name": "Drum Kingdom (Championship 2024 Finalist Card Set)",
+            "match": "minted",
+            "distance": null
+          },
+          "promoTypes": [
+            {
+              "type": "championship",
+              "category": "championship"
+            },
+            {
+              "type": "placement",
+              "category": "placement"
+            }
+          ]
+        },
+        {
+          "id": "OP08-020~tcg579373",
+          "set": "P",
+          "rarity": "C",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/579373_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              579373
+            ]
+          },
+          "tcgplayer": {
+            "name": "Drum Kingdom (Championship 2024 Top Player Pack)",
+            "match": "minted",
+            "distance": null
+          },
+          "promoTypes": [
+            {
+              "type": "championship",
+              "category": "championship"
+            },
+            {
+              "type": "placement",
+              "category": "placement"
+            }
+          ]
+        },
+        {
+          "id": "OP08-020~tcg622725",
+          "set": "P",
+          "rarity": "C",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/622725_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              622725
+            ]
+          },
+          "tcgplayer": {
+            "name": "Drum Kingdom (Championship 2024 Top Player Pack Vol. 2)",
+            "match": "minted",
+            "distance": null
+          },
+          "promoTypes": [
+            {
+              "type": "championship",
+              "category": "championship"
+            },
+            {
+              "type": "placement",
+              "category": "placement"
+            }
+          ]
+        },
+        {
+          "id": "OP08-020~tcg622739",
+          "set": "P",
+          "rarity": "C",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/622739_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              622739
+            ]
+          },
+          "tcgplayer": {
+            "name": "Drum Kingdom (Championship 2024 Finalist Card Set Vol. 2)",
+            "match": "minted",
+            "distance": null
+          },
+          "promoTypes": [
+            {
+              "type": "championship",
+              "category": "championship"
+            },
+            {
+              "type": "placement",
+              "category": "placement"
+            }
+          ]
         }
       ]
     },
@@ -599,7 +1439,21 @@
           "rarity": "L",
           "block": "2",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP08-021.png",
-          "source": "bandai"
+          "cardSet": "-TWO LEGENDS- [OP-08]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              558045
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "Carrot (021)",
+            "match": "image",
+            "distance": 3
+          }
         },
         {
           "id": "OP08-021_p1",
@@ -607,7 +1461,25 @@
           "rarity": "L",
           "block": "2",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP08-021_p1.png",
-          "source": "bandai"
+          "cardSet": "-TWO LEGENDS- [OP-08]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              558046
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Carrot (021) (Parallel)",
+            "match": "image",
+            "distance": 3
+          },
+          "treatments": [
+            "parallel"
+          ],
+          "artist": "Sunohara"
         },
         {
           "id": "OP08-021_p2",
@@ -615,7 +1487,24 @@
           "rarity": "L",
           "block": "2",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP08-021_p2.png",
-          "source": "bandai"
+          "cardSet": "-Anime 25th Collection- [EB-02]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              629187
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Carrot (SP)",
+            "match": "image-only-candidate",
+            "distance": 5
+          },
+          "treatments": [
+            "sp"
+          ]
         }
       ]
     },
@@ -643,7 +1532,50 @@
           "rarity": "UC",
           "block": "2",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP08-022.png",
-          "source": "bandai"
+          "cardSet": "-TWO LEGENDS- [OP-08]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              558047
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "Inuarashi",
+            "match": "image-only-candidate",
+            "distance": 3
+          },
+          "artist": "tatsuya"
+        },
+        {
+          "id": "OP08-022~tcg576457",
+          "set": "OP08-PRE",
+          "rarity": "UC",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/576457_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              576457
+            ]
+          },
+          "tcgplayer": {
+            "name": "Inuarashi",
+            "match": "minted",
+            "distance": 3
+          },
+          "artOf": "OP08-022",
+          "finishes": [
+            "nonfoil"
+          ],
+          "promoTypes": [
+            {
+              "type": "prerelease",
+              "category": "event"
+            }
+          ],
+          "artist": "tatsuya"
         }
       ]
     },
@@ -670,7 +1602,22 @@
           "rarity": "SR",
           "block": "2",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP08-023.png",
-          "source": "bandai"
+          "cardSet": "-TWO LEGENDS- [OP-08]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              558048
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Carrot (023)",
+            "match": "image",
+            "distance": 2
+          },
+          "artist": "Hashimoto Q"
         },
         {
           "id": "OP08-023_p1",
@@ -678,7 +1625,25 @@
           "rarity": "SR",
           "block": "2",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP08-023_p1.png",
-          "source": "bandai"
+          "cardSet": "-TWO LEGENDS- [OP-08]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              558049
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Carrot (023) (Parallel)",
+            "match": "image",
+            "distance": 1
+          },
+          "treatments": [
+            "parallel"
+          ],
+          "artist": "TAPIOCA"
         },
         {
           "id": "OP08-023_p2",
@@ -686,7 +1651,25 @@
           "rarity": "SP CARD",
           "block": "2",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP08-023_p2.png",
-          "source": "bandai"
+          "cardSet": "-ONE PIECE CARD THE BEST vol.2- [PRB-02]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              654143
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Carrot (SP)",
+            "match": "image",
+            "distance": 3
+          },
+          "treatments": [
+            "sp"
+          ],
+          "artist": "Sunohara"
         },
         {
           "id": "OP08-023_r1",
@@ -694,7 +1677,26 @@
           "rarity": "SR",
           "block": "2",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP08-023_r1.png",
-          "source": "bandai"
+          "cardSet": "-ONE PIECE CARD THE BEST vol.2- [PRB-02]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              656232
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Carrot (Reprint)",
+            "match": "image",
+            "distance": 4
+          },
+          "treatments": [
+            "reprint"
+          ],
+          "artOf": "OP08-023",
+          "artist": "Hashimoto Q"
         }
       ]
     },
@@ -721,7 +1723,50 @@
           "rarity": "UC",
           "block": "2",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP08-024.png",
-          "source": "bandai"
+          "cardSet": "-TWO LEGENDS- [OP-08]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              558050
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "Concelot",
+            "match": "image-only-candidate",
+            "distance": 0
+          },
+          "artist": "Suzume Muraichi"
+        },
+        {
+          "id": "OP08-024~tcg576458",
+          "set": "OP08-PRE",
+          "rarity": "UC",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/576458_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              576458
+            ]
+          },
+          "tcgplayer": {
+            "name": "Concelot",
+            "match": "minted",
+            "distance": 0
+          },
+          "artOf": "OP08-024",
+          "finishes": [
+            "nonfoil"
+          ],
+          "promoTypes": [
+            {
+              "type": "prerelease",
+              "category": "event"
+            }
+          ],
+          "artist": "Suzume Muraichi"
         }
       ]
     },
@@ -748,7 +1793,50 @@
           "rarity": "C",
           "block": "2",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP08-025.png",
-          "source": "bandai"
+          "cardSet": "-TWO LEGENDS- [OP-08]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              558051
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "Shishilian",
+            "match": "image-only-candidate",
+            "distance": 0
+          },
+          "artist": "Anderson"
+        },
+        {
+          "id": "OP08-025~tcg575922",
+          "set": "OP08-PRE",
+          "rarity": "C",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/575922_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              575922
+            ]
+          },
+          "tcgplayer": {
+            "name": "Shishilian",
+            "match": "minted",
+            "distance": 0
+          },
+          "artOf": "OP08-025",
+          "finishes": [
+            "nonfoil"
+          ],
+          "promoTypes": [
+            {
+              "type": "prerelease",
+              "category": "event"
+            }
+          ],
+          "artist": "Anderson"
         }
       ]
     },
@@ -775,7 +1863,50 @@
           "rarity": "C",
           "block": "2",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP08-026.png",
-          "source": "bandai"
+          "cardSet": "-TWO LEGENDS- [OP-08]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              558052
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "Giovanni",
+            "match": "image-only-candidate",
+            "distance": 5
+          },
+          "artist": "SENNSU"
+        },
+        {
+          "id": "OP08-026~tcg575923",
+          "set": "OP08-PRE",
+          "rarity": "C",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/575923_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              575923
+            ]
+          },
+          "tcgplayer": {
+            "name": "Giovanni",
+            "match": "minted",
+            "distance": 5
+          },
+          "artOf": "OP08-026",
+          "finishes": [
+            "nonfoil"
+          ],
+          "promoTypes": [
+            {
+              "type": "prerelease",
+              "category": "event"
+            }
+          ],
+          "artist": "SENNSU"
         }
       ]
     },
@@ -802,7 +1933,50 @@
           "rarity": "C",
           "block": "2",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP08-027.png",
-          "source": "bandai"
+          "cardSet": "-TWO LEGENDS- [OP-08]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              558053
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "Tristan",
+            "match": "image-only-candidate",
+            "distance": 3
+          },
+          "artist": "UGUME"
+        },
+        {
+          "id": "OP08-027~tcg575924",
+          "set": "OP08-PRE",
+          "rarity": "C",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/575924_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              575924
+            ]
+          },
+          "tcgplayer": {
+            "name": "Tristan",
+            "match": "minted",
+            "distance": 3
+          },
+          "artOf": "OP08-027",
+          "finishes": [
+            "nonfoil"
+          ],
+          "promoTypes": [
+            {
+              "type": "prerelease",
+              "category": "event"
+            }
+          ],
+          "artist": "UGUME"
         }
       ]
     },
@@ -830,7 +2004,70 @@
           "rarity": "UC",
           "block": "2",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP08-028.png",
-          "source": "bandai"
+          "cardSet": "-TWO LEGENDS- [OP-08]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              558054
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "Nekomamushi",
+            "match": "image-only-candidate",
+            "distance": 0
+          },
+          "artist": "Bashikou"
+        },
+        {
+          "id": "OP08-028~tcg576459",
+          "set": "OP08-PRE",
+          "rarity": "UC",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/576459_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              576459
+            ]
+          },
+          "tcgplayer": {
+            "name": "Nekomamushi",
+            "match": "minted",
+            "distance": 0
+          },
+          "artOf": "OP08-028",
+          "finishes": [
+            "nonfoil"
+          ],
+          "promoTypes": [
+            {
+              "type": "prerelease",
+              "category": "event"
+            }
+          ],
+          "artist": "Bashikou"
+        },
+        {
+          "id": "OP08-028~tcg664053",
+          "set": "LT01",
+          "rarity": "UC",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/664053_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              664053
+            ]
+          },
+          "tcgplayer": {
+            "name": "Nekomamushi - OP08-028",
+            "match": "minted",
+            "distance": null
+          },
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
@@ -857,7 +2094,50 @@
           "rarity": "C",
           "block": "2",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP08-029.png",
-          "source": "bandai"
+          "cardSet": "-TWO LEGENDS- [OP-08]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              558055
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "Pekoms",
+            "match": "image-only-candidate",
+            "distance": 3
+          },
+          "artist": "Daiki Ihara"
+        },
+        {
+          "id": "OP08-029~tcg575925",
+          "set": "OP08-PRE",
+          "rarity": "C",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/575925_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              575925
+            ]
+          },
+          "tcgplayer": {
+            "name": "Pekoms",
+            "match": "minted",
+            "distance": 3
+          },
+          "artOf": "OP08-029",
+          "finishes": [
+            "nonfoil"
+          ],
+          "promoTypes": [
+            {
+              "type": "prerelease",
+              "category": "event"
+            }
+          ],
+          "artist": "Daiki Ihara"
         }
       ]
     },
@@ -884,7 +2164,22 @@
           "rarity": "R",
           "block": "2",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP08-030.png",
-          "source": "bandai"
+          "cardSet": "-TWO LEGENDS- [OP-08]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              558056
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Pedro",
+            "match": "image",
+            "distance": 0
+          },
+          "artist": "Hatori Kyoka"
         },
         {
           "id": "OP08-030_p1",
@@ -892,7 +2187,25 @@
           "rarity": "R",
           "block": "2",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP08-030_p1.png",
-          "source": "bandai"
+          "cardSet": "-TWO LEGENDS- [OP-08]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              558057
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Pedro (Parallel)",
+            "match": "image",
+            "distance": 2
+          },
+          "treatments": [
+            "parallel"
+          ],
+          "artist": "Yoichi Amano"
         }
       ]
     },
@@ -919,7 +2232,50 @@
           "rarity": "C",
           "block": "2",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP08-031.png",
-          "source": "bandai"
+          "cardSet": "-TWO LEGENDS- [OP-08]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              558058
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "Miyagi",
+            "match": "image-only-candidate",
+            "distance": 1
+          },
+          "artist": "SOWSOW"
+        },
+        {
+          "id": "OP08-031~tcg575926",
+          "set": "OP08-PRE",
+          "rarity": "C",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/575926_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              575926
+            ]
+          },
+          "tcgplayer": {
+            "name": "Miyagi",
+            "match": "minted",
+            "distance": 1
+          },
+          "artOf": "OP08-031",
+          "finishes": [
+            "nonfoil"
+          ],
+          "promoTypes": [
+            {
+              "type": "prerelease",
+              "category": "event"
+            }
+          ],
+          "artist": "SOWSOW"
         }
       ]
     },
@@ -945,7 +2301,50 @@
           "rarity": "UC",
           "block": "2",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP08-032.png",
-          "source": "bandai"
+          "cardSet": "-TWO LEGENDS- [OP-08]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              558059
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "Milky",
+            "match": "image-only-candidate",
+            "distance": 1
+          },
+          "artist": "Haru Miyajima"
+        },
+        {
+          "id": "OP08-032~tcg576460",
+          "set": "OP08-PRE",
+          "rarity": "UC",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/576460_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              576460
+            ]
+          },
+          "tcgplayer": {
+            "name": "Milky",
+            "match": "minted",
+            "distance": 1
+          },
+          "artOf": "OP08-032",
+          "finishes": [
+            "nonfoil"
+          ],
+          "promoTypes": [
+            {
+              "type": "prerelease",
+              "category": "event"
+            }
+          ],
+          "artist": "Haru Miyajima"
         }
       ]
     },
@@ -972,7 +2371,50 @@
           "rarity": "C",
           "block": "2",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP08-033.png",
-          "source": "bandai"
+          "cardSet": "-TWO LEGENDS- [OP-08]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              558060
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "Roddy",
+            "match": "image-only-candidate",
+            "distance": 1
+          },
+          "artist": "tasaka"
+        },
+        {
+          "id": "OP08-033~tcg575927",
+          "set": "OP08-PRE",
+          "rarity": "C",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/575927_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              575927
+            ]
+          },
+          "tcgplayer": {
+            "name": "Roddy",
+            "match": "minted",
+            "distance": 1
+          },
+          "artOf": "OP08-033",
+          "finishes": [
+            "nonfoil"
+          ],
+          "promoTypes": [
+            {
+              "type": "prerelease",
+              "category": "event"
+            }
+          ],
+          "artist": "tasaka"
         }
       ]
     },
@@ -999,7 +2441,22 @@
           "rarity": "R",
           "block": "2",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP08-034.png",
-          "source": "bandai"
+          "cardSet": "-TWO LEGENDS- [OP-08]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              558061
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Wanda",
+            "match": "image-only-candidate",
+            "distance": 1
+          },
+          "artist": "NIJIMAARC"
         }
       ]
     },
@@ -1026,7 +2483,50 @@
           "rarity": "C",
           "block": "2",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP08-035.png",
-          "source": "bandai"
+          "cardSet": "-TWO LEGENDS- [OP-08]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              558062
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "BB",
+            "match": "image-only-candidate",
+            "distance": 4
+          },
+          "artist": "S-KINOKO"
+        },
+        {
+          "id": "OP08-035~tcg575928",
+          "set": "OP08-PRE",
+          "rarity": "C",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/575928_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              575928
+            ]
+          },
+          "tcgplayer": {
+            "name": "BB",
+            "match": "minted",
+            "distance": 4
+          },
+          "artOf": "OP08-035",
+          "finishes": [
+            "nonfoil"
+          ],
+          "promoTypes": [
+            {
+              "type": "prerelease",
+              "category": "event"
+            }
+          ],
+          "artist": "S-KINOKO"
         }
       ]
     },
@@ -1048,7 +2548,21 @@
           "rarity": "R",
           "block": "2",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP08-036.png",
-          "source": "bandai"
+          "cardSet": "-TWO LEGENDS- [OP-08]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              558063
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Electrical Luna",
+            "match": "image-only-candidate",
+            "distance": 2
+          }
         },
         {
           "id": "OP08-036_p1",
@@ -1056,7 +2570,35 @@
           "rarity": "R",
           "block": "2",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP08-036_p1.png",
-          "source": "bandai"
+          "cardSet": "Premium Card Collection -Best Selection Vol.5-",
+          "source": "bandai",
+          "artist": "Hashimoto Q"
+        },
+        {
+          "id": "OP08-036~tcg657831",
+          "set": "P",
+          "rarity": "R",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/657831_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              657831
+            ]
+          },
+          "tcgplayer": {
+            "name": "Electrical Luna (Premium Card Collection -Best Selection Vol. 5-)",
+            "match": "minted",
+            "distance": null
+          },
+          "finishes": [
+            "foil"
+          ],
+          "promoTypes": [
+            {
+              "type": "retail_product",
+              "category": "retail"
+            }
+          ]
         }
       ]
     },
@@ -1078,7 +2620,48 @@
           "rarity": "UC",
           "block": "2",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP08-037.png",
-          "source": "bandai"
+          "cardSet": "-TWO LEGENDS- [OP-08]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              558064
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "Garchu",
+            "match": "image-only-candidate",
+            "distance": 9
+          }
+        },
+        {
+          "id": "OP08-037~tcg576461",
+          "set": "OP08-PRE",
+          "rarity": "UC",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/576461_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              576461
+            ]
+          },
+          "tcgplayer": {
+            "name": "Garchu",
+            "match": "minted",
+            "distance": 9
+          },
+          "artOf": "OP08-037",
+          "finishes": [
+            "nonfoil"
+          ],
+          "promoTypes": [
+            {
+              "type": "prerelease",
+              "category": "event"
+            }
+          ]
         }
       ]
     },
@@ -1101,7 +2684,48 @@
           "rarity": "C",
           "block": "2",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP08-038.png",
-          "source": "bandai"
+          "cardSet": "-TWO LEGENDS- [OP-08]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              558065
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "We Would Never Sell a Comrade to an Enemy!!!",
+            "match": "image-only-candidate",
+            "distance": 9
+          }
+        },
+        {
+          "id": "OP08-038~tcg575929",
+          "set": "OP08-PRE",
+          "rarity": "C",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/575929_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              575929
+            ]
+          },
+          "tcgplayer": {
+            "name": "We Would Never Sell a Comrade to an Enemy!!!",
+            "match": "minted",
+            "distance": 9
+          },
+          "artOf": "OP08-038",
+          "finishes": [
+            "nonfoil"
+          ],
+          "promoTypes": [
+            {
+              "type": "prerelease",
+              "category": "event"
+            }
+          ]
         }
       ]
     },
@@ -1123,7 +2747,21 @@
           "rarity": "R",
           "block": "2",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP08-039.png",
-          "source": "bandai"
+          "cardSet": "-TWO LEGENDS- [OP-08]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              558066
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Zou",
+            "match": "image-only-candidate",
+            "distance": 3
+          }
         }
       ]
     },
@@ -1150,7 +2788,22 @@
           "rarity": "UC",
           "block": "2",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP08-040.png",
-          "source": "bandai"
+          "cardSet": "-TWO LEGENDS- [OP-08]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              558067
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "Atmos",
+            "match": "image-only-candidate",
+            "distance": 5
+          },
+          "artist": "kankurou"
         },
         {
           "id": "OP08-040_p1",
@@ -1158,7 +2811,56 @@
           "rarity": "UC",
           "block": "2",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP08-040_p1.png",
-          "source": "bandai"
+          "cardSet": "Premium Card Collection -Best Selection Vol.3-",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              626672
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Atmos (Premium Card Collection -Best Selection Vol. 3-)",
+            "match": "image",
+            "distance": 15
+          },
+          "promoTypes": [
+            {
+              "type": "retail_product",
+              "category": "retail"
+            }
+          ],
+          "artist": "Studio Vigor Co. Ltd"
+        },
+        {
+          "id": "OP08-040~tcg576462",
+          "set": "OP08-PRE",
+          "rarity": "UC",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/576462_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              576462
+            ]
+          },
+          "tcgplayer": {
+            "name": "Atmos",
+            "match": "minted",
+            "distance": 5
+          },
+          "artOf": "OP08-040",
+          "finishes": [
+            "nonfoil"
+          ],
+          "promoTypes": [
+            {
+              "type": "prerelease",
+              "category": "event"
+            }
+          ],
+          "artist": "kankurou"
         }
       ]
     },
@@ -1185,7 +2887,50 @@
           "rarity": "C",
           "block": "2",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP08-041.png",
-          "source": "bandai"
+          "cardSet": "-TWO LEGENDS- [OP-08]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              558068
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "Aphelandra",
+            "match": "image-only-candidate",
+            "distance": 1
+          },
+          "artist": "Misa Matoki"
+        },
+        {
+          "id": "OP08-041~tcg575930",
+          "set": "OP08-PRE",
+          "rarity": "C",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/575930_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              575930
+            ]
+          },
+          "tcgplayer": {
+            "name": "Aphelandra",
+            "match": "minted",
+            "distance": 1
+          },
+          "artOf": "OP08-041",
+          "finishes": [
+            "nonfoil"
+          ],
+          "promoTypes": [
+            {
+              "type": "prerelease",
+              "category": "event"
+            }
+          ],
+          "artist": "Misa Matoki"
         }
       ]
     },
@@ -1212,7 +2957,50 @@
           "rarity": "UC",
           "block": "2",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP08-042.png",
-          "source": "bandai"
+          "cardSet": "-TWO LEGENDS- [OP-08]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              558069
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "Edward Weevil",
+            "match": "image-only-candidate",
+            "distance": 4
+          },
+          "artist": "kankurou"
+        },
+        {
+          "id": "OP08-042~tcg576463",
+          "set": "OP08-PRE",
+          "rarity": "UC",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/576463_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              576463
+            ]
+          },
+          "tcgplayer": {
+            "name": "Edward Weevil",
+            "match": "minted",
+            "distance": 4
+          },
+          "artOf": "OP08-042",
+          "finishes": [
+            "nonfoil"
+          ],
+          "promoTypes": [
+            {
+              "type": "prerelease",
+              "category": "event"
+            }
+          ],
+          "artist": "kankurou"
         }
       ]
     },
@@ -1239,7 +3027,22 @@
           "rarity": "SR",
           "block": "2",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP08-043.png",
-          "source": "bandai"
+          "cardSet": "-TWO LEGENDS- [OP-08]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              558070
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Edward.Newgate",
+            "match": "image",
+            "distance": 0
+          },
+          "artist": "Hayaken-sarena"
         },
         {
           "id": "OP08-043_p1",
@@ -1247,7 +3050,25 @@
           "rarity": "SR",
           "block": "2",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP08-043_p1.png",
-          "source": "bandai"
+          "cardSet": "-TWO LEGENDS- [OP-08]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              558071
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Edward.Newgate (Parallel)",
+            "match": "image",
+            "distance": 0
+          },
+          "treatments": [
+            "parallel"
+          ],
+          "artist": "DAI-XT."
         }
       ]
     },
@@ -1274,7 +3095,50 @@
           "rarity": "UC",
           "block": "2",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP08-044.png",
-          "source": "bandai"
+          "cardSet": "-TWO LEGENDS- [OP-08]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              558072
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "Kingdew",
+            "match": "image-only-candidate",
+            "distance": 3
+          },
+          "artist": "touge369"
+        },
+        {
+          "id": "OP08-044~tcg576464",
+          "set": "OP08-PRE",
+          "rarity": "UC",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/576464_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              576464
+            ]
+          },
+          "tcgplayer": {
+            "name": "Kingdew",
+            "match": "minted",
+            "distance": 3
+          },
+          "artOf": "OP08-044",
+          "finishes": [
+            "nonfoil"
+          ],
+          "promoTypes": [
+            {
+              "type": "prerelease",
+              "category": "event"
+            }
+          ],
+          "artist": "touge369"
         }
       ]
     },
@@ -1301,7 +3165,50 @@
           "rarity": "UC",
           "block": "2",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP08-045.png",
-          "source": "bandai"
+          "cardSet": "-TWO LEGENDS- [OP-08]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              558073
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "Thatch",
+            "match": "image-only-candidate",
+            "distance": 5
+          },
+          "artist": "Nekobayashi"
+        },
+        {
+          "id": "OP08-045~tcg576465",
+          "set": "OP08-PRE",
+          "rarity": "UC",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/576465_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              576465
+            ]
+          },
+          "tcgplayer": {
+            "name": "Thatch",
+            "match": "minted",
+            "distance": 5
+          },
+          "artOf": "OP08-045",
+          "finishes": [
+            "nonfoil"
+          ],
+          "promoTypes": [
+            {
+              "type": "prerelease",
+              "category": "event"
+            }
+          ],
+          "artist": "Nekobayashi"
         }
       ]
     },
@@ -1328,7 +3235,22 @@
           "rarity": "R",
           "block": "2",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP08-046.png",
-          "source": "bandai"
+          "cardSet": "-TWO LEGENDS- [OP-08]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              558074
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Shakuyaku",
+            "match": "image-only-candidate",
+            "distance": 4
+          },
+          "artist": "BISAI"
         }
       ]
     },
@@ -1355,7 +3277,109 @@
           "rarity": "R",
           "block": "2",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP08-047.png",
-          "source": "bandai"
+          "cardSet": "-TWO LEGENDS- [OP-08]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              558075
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Jozu",
+            "match": "image-only-candidate",
+            "distance": 1
+          },
+          "artist": "Yasushi Yamaguchi"
+        },
+        {
+          "id": "OP08-047~tcg710729",
+          "set": "P",
+          "rarity": "R",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/710729_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              710729
+            ]
+          },
+          "tcgplayer": {
+            "name": "Jozu (Regional Participation Pack 2026 Vol.2)",
+            "match": "minted",
+            "distance": null
+          },
+          "finishes": [
+            "foil"
+          ],
+          "promoTypes": [
+            {
+              "type": "championship",
+              "category": "championship"
+            },
+            {
+              "type": "event_pack",
+              "category": "event"
+            }
+          ]
+        },
+        {
+          "id": "OP08-047~tcg710734",
+          "set": "P",
+          "rarity": "R",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/710734_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              710734
+            ]
+          },
+          "tcgplayer": {
+            "name": "Jozu (Regionals Finalist Card Set 26-27 Vol.2)",
+            "match": "minted",
+            "distance": null
+          },
+          "finishes": [
+            "foil"
+          ],
+          "promoTypes": [
+            {
+              "type": "championship",
+              "category": "championship"
+            },
+            {
+              "type": "placement",
+              "category": "placement"
+            }
+          ]
+        },
+        {
+          "id": "OP08-047~tcg710739",
+          "set": "P",
+          "rarity": "R",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/710739_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              710739
+            ]
+          },
+          "tcgplayer": {
+            "name": "Jozu (Regionals Champion Card Set 26-27 Vol.2)",
+            "match": "minted",
+            "distance": null
+          },
+          "promoTypes": [
+            {
+              "type": "championship",
+              "category": "championship"
+            },
+            {
+              "type": "placement",
+              "category": "placement"
+            }
+          ]
         }
       ]
     },
@@ -1382,7 +3406,50 @@
           "rarity": "C",
           "block": "2",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP08-048.png",
-          "source": "bandai"
+          "cardSet": "-TWO LEGENDS- [OP-08]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              558076
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "Sweetpea",
+            "match": "image-only-candidate",
+            "distance": 3
+          },
+          "artist": "HISASHI HUJIWARA"
+        },
+        {
+          "id": "OP08-048~tcg575931",
+          "set": "OP08-PRE",
+          "rarity": "C",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/575931_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              575931
+            ]
+          },
+          "tcgplayer": {
+            "name": "Sweetpea",
+            "match": "minted",
+            "distance": 3
+          },
+          "artOf": "OP08-048",
+          "finishes": [
+            "nonfoil"
+          ],
+          "promoTypes": [
+            {
+              "type": "prerelease",
+              "category": "event"
+            }
+          ],
+          "artist": "HISASHI HUJIWARA"
         }
       ]
     },
@@ -1409,7 +3476,50 @@
           "rarity": "C",
           "block": "2",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP08-049.png",
-          "source": "bandai"
+          "cardSet": "-TWO LEGENDS- [OP-08]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              558077
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "Speed Jil",
+            "match": "image-only-candidate",
+            "distance": 1
+          },
+          "artist": "Nekobayashi"
+        },
+        {
+          "id": "OP08-049~tcg575932",
+          "set": "OP08-PRE",
+          "rarity": "C",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/575932_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              575932
+            ]
+          },
+          "tcgplayer": {
+            "name": "Speed Jil",
+            "match": "minted",
+            "distance": 1
+          },
+          "artOf": "OP08-049",
+          "finishes": [
+            "nonfoil"
+          ],
+          "promoTypes": [
+            {
+              "type": "prerelease",
+              "category": "event"
+            }
+          ],
+          "artist": "Nekobayashi"
         }
       ]
     },
@@ -1437,7 +3547,50 @@
           "rarity": "C",
           "block": "2",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP08-050.png",
-          "source": "bandai"
+          "cardSet": "-TWO LEGENDS- [OP-08]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              558078
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "Namule",
+            "match": "image-only-candidate",
+            "distance": 2
+          },
+          "artist": "Yasushi Yamaguchi"
+        },
+        {
+          "id": "OP08-050~tcg575933",
+          "set": "OP08-PRE",
+          "rarity": "C",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/575933_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              575933
+            ]
+          },
+          "tcgplayer": {
+            "name": "Namule",
+            "match": "minted",
+            "distance": 2
+          },
+          "artOf": "OP08-050",
+          "finishes": [
+            "nonfoil"
+          ],
+          "promoTypes": [
+            {
+              "type": "prerelease",
+              "category": "event"
+            }
+          ],
+          "artist": "Yasushi Yamaguchi"
         }
       ]
     },
@@ -1464,7 +3617,50 @@
           "rarity": "C",
           "block": "2",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP08-051.png",
-          "source": "bandai"
+          "cardSet": "-TWO LEGENDS- [OP-08]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              558079
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "Buckin",
+            "match": "image-only-candidate",
+            "distance": 6
+          },
+          "artist": "Misa Matoki"
+        },
+        {
+          "id": "OP08-051~tcg575934",
+          "set": "OP08-PRE",
+          "rarity": "C",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/575934_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              575934
+            ]
+          },
+          "tcgplayer": {
+            "name": "Buckin",
+            "match": "minted",
+            "distance": 6
+          },
+          "artOf": "OP08-051",
+          "finishes": [
+            "nonfoil"
+          ],
+          "promoTypes": [
+            {
+              "type": "prerelease",
+              "category": "event"
+            }
+          ],
+          "artist": "Misa Matoki"
         }
       ]
     },
@@ -1491,7 +3687,22 @@
           "rarity": "R",
           "block": "2",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP08-052.png",
-          "source": "bandai"
+          "cardSet": "-TWO LEGENDS- [OP-08]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              558080
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Portgas.D.Ace",
+            "match": "image",
+            "distance": 1
+          },
+          "artist": "touge369"
         },
         {
           "id": "OP08-052_p1",
@@ -1499,7 +3710,25 @@
           "rarity": "R",
           "block": "2",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP08-052_p1.png",
-          "source": "bandai"
+          "cardSet": "-TWO LEGENDS- [OP-08]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              558081
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Portgas.D.Ace (Parallel)",
+            "match": "image",
+            "distance": 3
+          },
+          "treatments": [
+            "parallel"
+          ],
+          "artist": "Daisuke Izuka"
         },
         {
           "id": "OP08-052_p2",
@@ -1507,7 +3736,22 @@
           "rarity": "TR",
           "block": "2",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP08-052_p2.png",
-          "source": "bandai"
+          "cardSet": "-ROYAL BLOOD- [OP-10]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              620135
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Portgas.D.Ace (TR)",
+            "match": "image-only-candidate",
+            "distance": 1
+          },
+          "artist": "tatsuya"
         }
       ]
     },
@@ -1529,7 +3773,21 @@
           "rarity": "R",
           "block": "2",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP08-053.png",
-          "source": "bandai"
+          "cardSet": "-TWO LEGENDS- [OP-08]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              558082
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Thank You...for Loving Me!!",
+            "match": "image-only-candidate",
+            "distance": 3
+          }
         }
       ]
     },
@@ -1551,7 +3809,48 @@
           "rarity": "C",
           "block": "2",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP08-054.png",
-          "source": "bandai"
+          "cardSet": "-TWO LEGENDS- [OP-08]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              558083
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "You Can't Take Our King This Early in the Game.",
+            "match": "image-only-candidate",
+            "distance": 8
+          }
+        },
+        {
+          "id": "OP08-054~tcg575935",
+          "set": "OP08-PRE",
+          "rarity": "C",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/575935_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              575935
+            ]
+          },
+          "tcgplayer": {
+            "name": "You Can't Take Our King This Early in the Game.",
+            "match": "minted",
+            "distance": 8
+          },
+          "artOf": "OP08-054",
+          "finishes": [
+            "nonfoil"
+          ],
+          "promoTypes": [
+            {
+              "type": "prerelease",
+              "category": "event"
+            }
+          ]
         }
       ]
     },
@@ -1573,7 +3872,48 @@
           "rarity": "UC",
           "block": "2",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP08-055.png",
-          "source": "bandai"
+          "cardSet": "-TWO LEGENDS- [OP-08]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              558084
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "Phoenix Brand",
+            "match": "image-only-candidate",
+            "distance": 2
+          }
+        },
+        {
+          "id": "OP08-055~tcg576466",
+          "set": "OP08-PRE",
+          "rarity": "UC",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/576466_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              576466
+            ]
+          },
+          "tcgplayer": {
+            "name": "Phoenix Brand",
+            "match": "minted",
+            "distance": 2
+          },
+          "artOf": "OP08-055",
+          "finishes": [
+            "nonfoil"
+          ],
+          "promoTypes": [
+            {
+              "type": "prerelease",
+              "category": "event"
+            }
+          ]
         }
       ]
     },
@@ -1595,7 +3935,48 @@
           "rarity": "C",
           "block": "2",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP08-056.png",
-          "source": "bandai"
+          "cardSet": "-TWO LEGENDS- [OP-08]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              558085
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "Moby Dick",
+            "match": "image-only-candidate",
+            "distance": 5
+          }
+        },
+        {
+          "id": "OP08-056~tcg575936",
+          "set": "OP08-PRE",
+          "rarity": "C",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/575936_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              575936
+            ]
+          },
+          "tcgplayer": {
+            "name": "Moby Dick",
+            "match": "minted",
+            "distance": 5
+          },
+          "artOf": "OP08-056",
+          "finishes": [
+            "nonfoil"
+          ],
+          "promoTypes": [
+            {
+              "type": "prerelease",
+              "category": "event"
+            }
+          ]
         }
       ]
     },
@@ -1622,7 +4003,21 @@
           "rarity": "L",
           "block": "2",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP08-057.png",
-          "source": "bandai"
+          "cardSet": "-TWO LEGENDS- [OP-08]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              558086
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "King (057)",
+            "match": "image",
+            "distance": 2
+          }
         },
         {
           "id": "OP08-057_p1",
@@ -1630,7 +4025,25 @@
           "rarity": "L",
           "block": "2",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP08-057_p1.png",
-          "source": "bandai"
+          "cardSet": "-TWO LEGENDS- [OP-08]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              558087
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "King (057) (Parallel)",
+            "match": "image",
+            "distance": 2
+          },
+          "treatments": [
+            "parallel"
+          ],
+          "artist": "akagi"
         },
         {
           "id": "OP08-057_p2",
@@ -1638,7 +4051,21 @@
           "rarity": "L",
           "block": "2",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP08-057_p2.png",
-          "source": "bandai"
+          "cardSet": "-Anime 25th Collection- [EB-02]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              629188
+            ]
+          },
+          "tcgplayer": {
+            "name": "King (SP)",
+            "match": "image-only-candidate",
+            "distance": 4
+          },
+          "treatments": [
+            "sp"
+          ]
         }
       ]
     },
@@ -1665,7 +4092,21 @@
           "rarity": "L",
           "block": "2",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP08-058.png",
-          "source": "bandai"
+          "cardSet": "-TWO LEGENDS- [OP-08]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              558088
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "Charlotte Pudding (058)",
+            "match": "image",
+            "distance": 4
+          }
         },
         {
           "id": "OP08-058_p1",
@@ -1673,7 +4114,25 @@
           "rarity": "L",
           "block": "2",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP08-058_p1.png",
-          "source": "bandai"
+          "cardSet": "-TWO LEGENDS- [OP-08]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              558089
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Charlotte Pudding (058) (Parallel)",
+            "match": "image",
+            "distance": 0
+          },
+          "treatments": [
+            "parallel"
+          ],
+          "artist": "otton"
         },
         {
           "id": "OP08-058_p2",
@@ -1681,7 +4140,24 @@
           "rarity": "L",
           "block": "2",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP08-058_p2.png",
-          "source": "bandai"
+          "cardSet": "-Anime 25th Collection- [EB-02]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              629189
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Charlotte Pudding (SP)",
+            "match": "image-only-candidate",
+            "distance": 4
+          },
+          "treatments": [
+            "sp"
+          ]
         }
       ]
     },
@@ -1709,7 +4185,50 @@
           "rarity": "UC",
           "block": "2",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP08-059.png",
-          "source": "bandai"
+          "cardSet": "-TWO LEGENDS- [OP-08]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              558090
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "Alber",
+            "match": "image-only-candidate",
+            "distance": 0
+          },
+          "artist": "Morechand"
+        },
+        {
+          "id": "OP08-059~tcg576467",
+          "set": "OP08-PRE",
+          "rarity": "UC",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/576467_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              576467
+            ]
+          },
+          "tcgplayer": {
+            "name": "Alber",
+            "match": "minted",
+            "distance": 0
+          },
+          "artOf": "OP08-059",
+          "finishes": [
+            "nonfoil"
+          ],
+          "promoTypes": [
+            {
+              "type": "prerelease",
+              "category": "event"
+            }
+          ],
+          "artist": "Morechand"
         }
       ]
     },
@@ -1735,7 +4254,22 @@
           "rarity": "R",
           "block": "2",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP08-060.png",
-          "source": "bandai"
+          "cardSet": "-TWO LEGENDS- [OP-08]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              558091
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "King (060)",
+            "match": "image-only-candidate",
+            "distance": 3
+          },
+          "artist": "eiji kaneda"
         }
       ]
     },
@@ -1762,7 +4296,50 @@
           "rarity": "UC",
           "block": "2",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP08-061.png",
-          "source": "bandai"
+          "cardSet": "-TWO LEGENDS- [OP-08]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              558092
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "Charlotte Oven",
+            "match": "image-only-candidate",
+            "distance": 2
+          },
+          "artist": "touge369"
+        },
+        {
+          "id": "OP08-061~tcg576468",
+          "set": "OP08-PRE",
+          "rarity": "UC",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/576468_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              576468
+            ]
+          },
+          "tcgplayer": {
+            "name": "Charlotte Oven",
+            "match": "minted",
+            "distance": 2
+          },
+          "artOf": "OP08-061",
+          "finishes": [
+            "nonfoil"
+          ],
+          "promoTypes": [
+            {
+              "type": "prerelease",
+              "category": "event"
+            }
+          ],
+          "artist": "touge369"
         }
       ]
     },
@@ -1789,7 +4366,22 @@
           "rarity": "UC",
           "block": "2",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP08-062.png",
-          "source": "bandai"
+          "cardSet": "-TWO LEGENDS- [OP-08]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              558093
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "Charlotte Katakuri (062)",
+            "match": "image-only-candidate",
+            "distance": 4
+          },
+          "artist": "BISAI"
         },
         {
           "id": "OP08-062_p1",
@@ -1797,7 +4389,28 @@
           "rarity": "UC",
           "block": "2",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP08-062_p1.png",
-          "source": "bandai"
+          "cardSet": "Tournament Pack 2025 Vol. 3",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              641196
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "Charlotte Katakuri (Tournament Pack 2025 Vol. 3)",
+            "match": "image",
+            "distance": 4
+          },
+          "promoTypes": [
+            {
+              "type": "event_pack",
+              "category": "event"
+            }
+          ],
+          "artist": "Bashikou"
         },
         {
           "id": "OP08-062_p2",
@@ -1805,7 +4418,56 @@
           "rarity": "UC",
           "block": "2",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP08-062_p2.png",
-          "source": "bandai"
+          "cardSet": "Winner Pack 2025 Vol. 3",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              641198
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Charlotte Katakuri (Winner Pack 2025 Vol. 3)",
+            "match": "image",
+            "distance": 4
+          },
+          "promoTypes": [
+            {
+              "type": "placement",
+              "category": "placement"
+            }
+          ],
+          "artist": "Bashikou"
+        },
+        {
+          "id": "OP08-062~tcg576469",
+          "set": "OP08-PRE",
+          "rarity": "UC",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/576469_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              576469
+            ]
+          },
+          "tcgplayer": {
+            "name": "Charlotte Katakuri (062)",
+            "match": "minted",
+            "distance": 4
+          },
+          "artOf": "OP08-062",
+          "finishes": [
+            "nonfoil"
+          ],
+          "promoTypes": [
+            {
+              "type": "prerelease",
+              "category": "event"
+            }
+          ],
+          "artist": "BISAI"
         }
       ]
     },
@@ -1832,7 +4494,22 @@
           "rarity": "R",
           "block": "2",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP08-063.png",
-          "source": "bandai"
+          "cardSet": "-TWO LEGENDS- [OP-08]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              558094
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Charlotte Katakuri (063)",
+            "match": "image-only-candidate",
+            "distance": 7
+          },
+          "artist": "Koushi Rokushiro"
         }
       ]
     },
@@ -1859,7 +4536,50 @@
           "rarity": "C",
           "block": "2",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP08-064.png",
-          "source": "bandai"
+          "cardSet": "-TWO LEGENDS- [OP-08]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              558095
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "Charlotte Cracker",
+            "match": "image-only-candidate",
+            "distance": 3
+          },
+          "artist": "BISAI"
+        },
+        {
+          "id": "OP08-064~tcg575937",
+          "set": "OP08-PRE",
+          "rarity": "C",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/575937_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              575937
+            ]
+          },
+          "tcgplayer": {
+            "name": "Charlotte Cracker",
+            "match": "minted",
+            "distance": 3
+          },
+          "artOf": "OP08-064",
+          "finishes": [
+            "nonfoil"
+          ],
+          "promoTypes": [
+            {
+              "type": "prerelease",
+              "category": "event"
+            }
+          ],
+          "artist": "BISAI"
         }
       ]
     },
@@ -1886,7 +4606,50 @@
           "rarity": "C",
           "block": "2",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP08-065.png",
-          "source": "bandai"
+          "cardSet": "-TWO LEGENDS- [OP-08]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              558096
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "Charlotte Smoothie",
+            "match": "image-only-candidate",
+            "distance": 2
+          },
+          "artist": "Koushi Rokushiro"
+        },
+        {
+          "id": "OP08-065~tcg575938",
+          "set": "OP08-PRE",
+          "rarity": "C",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/575938_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              575938
+            ]
+          },
+          "tcgplayer": {
+            "name": "Charlotte Smoothie",
+            "match": "minted",
+            "distance": 2
+          },
+          "artOf": "OP08-065",
+          "finishes": [
+            "nonfoil"
+          ],
+          "promoTypes": [
+            {
+              "type": "prerelease",
+              "category": "event"
+            }
+          ],
+          "artist": "Koushi Rokushiro"
         }
       ]
     },
@@ -1913,7 +4676,50 @@
           "rarity": "UC",
           "block": "2",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP08-066.png",
-          "source": "bandai"
+          "cardSet": "-TWO LEGENDS- [OP-08]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              558097
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "Charlotte Brulee",
+            "match": "image-only-candidate",
+            "distance": 4
+          },
+          "artist": "Yasushi Yamaguchi"
+        },
+        {
+          "id": "OP08-066~tcg576470",
+          "set": "OP08-PRE",
+          "rarity": "UC",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/576470_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              576470
+            ]
+          },
+          "tcgplayer": {
+            "name": "Charlotte Brulee",
+            "match": "minted",
+            "distance": 4
+          },
+          "artOf": "OP08-066",
+          "finishes": [
+            "nonfoil"
+          ],
+          "promoTypes": [
+            {
+              "type": "prerelease",
+              "category": "event"
+            }
+          ],
+          "artist": "Yasushi Yamaguchi"
         }
       ]
     },
@@ -1940,7 +4746,22 @@
           "rarity": "R",
           "block": "2",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP08-067.png",
-          "source": "bandai"
+          "cardSet": "-TWO LEGENDS- [OP-08]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              558098
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Charlotte Pudding (067)",
+            "match": "image",
+            "distance": 1
+          },
+          "artist": "Yuu Shimotsuki"
         },
         {
           "id": "OP08-067_p1",
@@ -1948,7 +4769,25 @@
           "rarity": "R",
           "block": "2",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP08-067_p1.png",
-          "source": "bandai"
+          "cardSet": "-TWO LEGENDS- [OP-08]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              558099
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Charlotte Pudding (067) (Parallel)",
+            "match": "image",
+            "distance": 1
+          },
+          "treatments": [
+            "parallel"
+          ],
+          "artist": "Hagane Tsurugi"
         },
         {
           "id": "OP08-067_p2",
@@ -1956,7 +4795,28 @@
           "rarity": "R",
           "block": "2",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP08-067_p2.png",
-          "source": "bandai"
+          "cardSet": "Treasure Cup May 2025~",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              629757
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Charlotte Pudding (Treasure Cup 2025)",
+            "match": "image",
+            "distance": 0
+          },
+          "promoTypes": [
+            {
+              "type": "treasure_cup",
+              "category": "championship"
+            }
+          ],
+          "artist": "kicori"
         },
         {
           "id": "OP08-067_r1",
@@ -1964,7 +4824,52 @@
           "rarity": "R",
           "block": "2",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP08-067_r1.png",
-          "source": "bandai"
+          "cardSet": "-ONE PIECE CARD THE BEST vol.2- [PRB-02]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              656235
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Charlotte Pudding - OP08-067 (Reprint)",
+            "match": "image-only-candidate",
+            "distance": 4
+          },
+          "treatments": [
+            "reprint"
+          ],
+          "artOf": "OP08-067",
+          "artist": "Yuu Shimotsuki"
+        },
+        {
+          "id": "OP08-067~tcg632670",
+          "set": "P",
+          "rarity": "R",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/632670_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              632670
+            ]
+          },
+          "tcgplayer": {
+            "name": "Charlotte Pudding (Store Treasure Cup 2025)",
+            "match": "minted",
+            "distance": null
+          },
+          "finishes": [
+            "foil"
+          ],
+          "promoTypes": [
+            {
+              "type": "treasure_cup",
+              "category": "championship"
+            }
+          ]
         }
       ]
     },
@@ -1990,7 +4895,50 @@
           "rarity": "C",
           "block": "2",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP08-068.png",
-          "source": "bandai"
+          "cardSet": "-TWO LEGENDS- [OP-08]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              558100
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "Charlotte Perospero",
+            "match": "image-only-candidate",
+            "distance": 2
+          },
+          "artist": "kankurou"
+        },
+        {
+          "id": "OP08-068~tcg575939",
+          "set": "OP08-PRE",
+          "rarity": "C",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/575939_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              575939
+            ]
+          },
+          "tcgplayer": {
+            "name": "Charlotte Perospero",
+            "match": "minted",
+            "distance": 2
+          },
+          "artOf": "OP08-068",
+          "finishes": [
+            "nonfoil"
+          ],
+          "promoTypes": [
+            {
+              "type": "prerelease",
+              "category": "event"
+            }
+          ],
+          "artist": "kankurou"
         }
       ]
     },
@@ -2017,7 +4965,22 @@
           "rarity": "SR",
           "block": "2",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP08-069.png",
-          "source": "bandai"
+          "cardSet": "-TWO LEGENDS- [OP-08]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              558101
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Charlotte Linlin",
+            "match": "image",
+            "distance": 4
+          },
+          "artist": "Nijihayashi"
         },
         {
           "id": "OP08-069_p1",
@@ -2025,7 +4988,25 @@
           "rarity": "SR",
           "block": "2",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP08-069_p1.png",
-          "source": "bandai"
+          "cardSet": "-TWO LEGENDS- [OP-08]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              558102
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Charlotte Linlin (Parallel)",
+            "match": "image",
+            "distance": 1
+          },
+          "treatments": [
+            "parallel"
+          ],
+          "artist": "DAI-XT."
         },
         {
           "id": "OP08-069_p2",
@@ -2033,7 +5014,39 @@
           "rarity": "SR",
           "block": "2",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP08-069_p2.png",
-          "source": "bandai"
+          "cardSet": "Japanese 2nd Anniversary Set",
+          "source": "bandai",
+          "artist": "Nijihayashi"
+        },
+        {
+          "id": "OP08-069~tcg617593",
+          "set": "P",
+          "rarity": "SR",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/617593_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              617593
+            ]
+          },
+          "tcgplayer": {
+            "name": "Charlotte Linlin (One Piece Japanese Version 2nd Anniversary Set)",
+            "match": "minted",
+            "distance": null
+          },
+          "finishes": [
+            "foil"
+          ],
+          "promoTypes": [
+            {
+              "type": "anniversary",
+              "category": "anniversary"
+            },
+            {
+              "type": "retail_product",
+              "category": "retail"
+            }
+          ]
         }
       ]
     },
@@ -2060,7 +5073,50 @@
           "rarity": "C",
           "block": "2",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP08-070.png",
-          "source": "bandai"
+          "cardSet": "-TWO LEGENDS- [OP-08]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              558103
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "Baron Tamago",
+            "match": "image-only-candidate",
+            "distance": 2
+          },
+          "artist": "HISASHI HUJIWARA"
+        },
+        {
+          "id": "OP08-070~tcg575940",
+          "set": "OP08-PRE",
+          "rarity": "C",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/575940_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              575940
+            ]
+          },
+          "tcgplayer": {
+            "name": "Baron Tamago",
+            "match": "minted",
+            "distance": 2
+          },
+          "artOf": "OP08-070",
+          "finishes": [
+            "nonfoil"
+          ],
+          "promoTypes": [
+            {
+              "type": "prerelease",
+              "category": "event"
+            }
+          ],
+          "artist": "HISASHI HUJIWARA"
         }
       ]
     },
@@ -2087,7 +5143,50 @@
           "rarity": "C",
           "block": "2",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP08-071.png",
-          "source": "bandai"
+          "cardSet": "-TWO LEGENDS- [OP-08]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              558104
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "Count Niwatori",
+            "match": "image-only-candidate",
+            "distance": 0
+          },
+          "artist": "HISASHI HUJIWARA"
+        },
+        {
+          "id": "OP08-071~tcg575941",
+          "set": "OP08-PRE",
+          "rarity": "C",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/575941_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              575941
+            ]
+          },
+          "tcgplayer": {
+            "name": "Count Niwatori",
+            "match": "minted",
+            "distance": 0
+          },
+          "artOf": "OP08-071",
+          "finishes": [
+            "nonfoil"
+          ],
+          "promoTypes": [
+            {
+              "type": "prerelease",
+              "category": "event"
+            }
+          ],
+          "artist": "HISASHI HUJIWARA"
         }
       ]
     },
@@ -2114,7 +5213,50 @@
           "rarity": "C",
           "block": "2",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP08-072.png",
-          "source": "bandai"
+          "cardSet": "-TWO LEGENDS- [OP-08]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              558105
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "Biscuit Warrior",
+            "match": "image-only-candidate",
+            "distance": 1
+          },
+          "artist": "Yasushi Yamaguchi"
+        },
+        {
+          "id": "OP08-072~tcg575942",
+          "set": "OP08-PRE",
+          "rarity": "C",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/575942_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              575942
+            ]
+          },
+          "tcgplayer": {
+            "name": "Biscuit Warrior",
+            "match": "minted",
+            "distance": 1
+          },
+          "artOf": "OP08-072",
+          "finishes": [
+            "nonfoil"
+          ],
+          "promoTypes": [
+            {
+              "type": "prerelease",
+              "category": "event"
+            }
+          ],
+          "artist": "Yasushi Yamaguchi"
         }
       ]
     },
@@ -2141,7 +5283,50 @@
           "rarity": "C",
           "block": "2",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP08-073.png",
-          "source": "bandai"
+          "cardSet": "-TWO LEGENDS- [OP-08]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              558106
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "Viscount Hiyoko",
+            "match": "image-only-candidate",
+            "distance": 7
+          },
+          "artist": "HISASHI HUJIWARA"
+        },
+        {
+          "id": "OP08-073~tcg575943",
+          "set": "OP08-PRE",
+          "rarity": "C",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/575943_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              575943
+            ]
+          },
+          "tcgplayer": {
+            "name": "Viscount Hiyoko",
+            "match": "minted",
+            "distance": 7
+          },
+          "artOf": "OP08-073",
+          "finishes": [
+            "nonfoil"
+          ],
+          "promoTypes": [
+            {
+              "type": "prerelease",
+              "category": "event"
+            }
+          ],
+          "artist": "HISASHI HUJIWARA"
         }
       ]
     },
@@ -2168,7 +5353,22 @@
           "rarity": "SR",
           "block": "2",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP08-074.png",
-          "source": "bandai"
+          "cardSet": "-TWO LEGENDS- [OP-08]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              558107
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Black Maria",
+            "match": "image",
+            "distance": 5
+          },
+          "artist": "BISAI"
         },
         {
           "id": "OP08-074_p1",
@@ -2176,7 +5376,25 @@
           "rarity": "SR",
           "block": "2",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP08-074_p1.png",
-          "source": "bandai"
+          "cardSet": "-TWO LEGENDS- [OP-08]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              558108
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Black Maria (Parallel)",
+            "match": "image",
+            "distance": 2
+          },
+          "treatments": [
+            "parallel"
+          ],
+          "artist": "Kaito Shibano"
         },
         {
           "id": "OP08-074_r1",
@@ -2184,7 +5402,82 @@
           "rarity": "SR",
           "block": "2",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP08-074_r1.png",
-          "source": "bandai"
+          "cardSet": "-ONE PIECE CARD THE BEST vol.2- [PRB-02]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              656239
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Black Maria (Reprint)",
+            "match": "image-only-candidate",
+            "distance": 2
+          },
+          "treatments": [
+            "reprint"
+          ],
+          "artOf": "OP08-074",
+          "artist": "BISAI"
+        },
+        {
+          "id": "OP08-074~tcg623068",
+          "set": "P",
+          "rarity": "SR",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/623068_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              623068
+            ]
+          },
+          "tcgplayer": {
+            "name": "Black Maria (Illustration Box Vol.2) (Textured)",
+            "match": "minted",
+            "distance": null
+          },
+          "finishes": [
+            "foil"
+          ],
+          "promoTypes": [
+            {
+              "type": "retail_product",
+              "category": "retail"
+            },
+            {
+              "type": "textured",
+              "category": "foil-pattern"
+            }
+          ]
+        },
+        {
+          "id": "OP08-074~tcg712037",
+          "set": "P",
+          "rarity": "SR",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/712037_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              712037
+            ]
+          },
+          "tcgplayer": {
+            "name": "Black Maria (Dash Pack 2025)",
+            "match": "minted",
+            "distance": null
+          },
+          "finishes": [
+            "foil"
+          ],
+          "promoTypes": [
+            {
+              "type": "retail_product",
+              "category": "retail"
+            }
+          ]
         }
       ]
     },
@@ -2206,7 +5499,48 @@
           "rarity": "C",
           "block": "2",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP08-075.png",
-          "source": "bandai"
+          "cardSet": "-TWO LEGENDS- [OP-08]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              558109
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "Candy Maiden",
+            "match": "image-only-candidate",
+            "distance": 4
+          }
+        },
+        {
+          "id": "OP08-075~tcg575944",
+          "set": "OP08-PRE",
+          "rarity": "C",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/575944_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              575944
+            ]
+          },
+          "tcgplayer": {
+            "name": "Candy Maiden",
+            "match": "minted",
+            "distance": 4
+          },
+          "artOf": "OP08-075",
+          "finishes": [
+            "nonfoil"
+          ],
+          "promoTypes": [
+            {
+              "type": "prerelease",
+              "category": "event"
+            }
+          ]
         }
       ]
     },
@@ -2229,7 +5563,21 @@
           "rarity": "UC",
           "block": "2",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP08-076.png",
-          "source": "bandai"
+          "cardSet": "-TWO LEGENDS- [OP-08]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              558110
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "It's to Die For",
+            "match": "image-only-candidate",
+            "distance": 0
+          }
         },
         {
           "id": "OP08-076_p1",
@@ -2237,7 +5585,27 @@
           "rarity": "UC",
           "block": "2",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP08-076_p1.png",
-          "source": "bandai"
+          "cardSet": "-ONE PIECE CARD THE BEST vol.2- [PRB-02]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              656241
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "It's to Die For (Pirate Foil)",
+            "match": "image+name",
+            "distance": 3
+          },
+          "promoTypes": [
+            {
+              "type": "pirate_foil",
+              "category": "foil-pattern"
+            }
+          ]
         },
         {
           "id": "OP08-076_r1",
@@ -2245,7 +5613,52 @@
           "rarity": "UC",
           "block": "2",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP08-076_r1.png",
-          "source": "bandai"
+          "cardSet": "-ONE PIECE CARD THE BEST vol.2- [PRB-02]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              656240
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "It's to Die For (Reprint)",
+            "match": "image+name",
+            "distance": 3
+          },
+          "treatments": [
+            "reprint"
+          ],
+          "artOf": "OP08-076"
+        },
+        {
+          "id": "OP08-076~tcg576471",
+          "set": "OP08-PRE",
+          "rarity": "UC",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/576471_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              576471
+            ]
+          },
+          "tcgplayer": {
+            "name": "It's to Die For",
+            "match": "minted",
+            "distance": 0
+          },
+          "artOf": "OP08-076",
+          "finishes": [
+            "nonfoil"
+          ],
+          "promoTypes": [
+            {
+              "type": "prerelease",
+              "category": "event"
+            }
+          ]
         }
       ]
     },
@@ -2269,7 +5682,21 @@
           "rarity": "R",
           "block": "2",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP08-077.png",
-          "source": "bandai"
+          "cardSet": "-TWO LEGENDS- [OP-08]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              558111
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Conquest of the Sea",
+            "match": "image-only-candidate",
+            "distance": 4
+          }
         }
       ]
     },
@@ -2296,7 +5723,50 @@
           "rarity": "C",
           "block": "2",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP08-078.png",
-          "source": "bandai"
+          "cardSet": "-TWO LEGENDS- [OP-08]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              558112
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "Ulti",
+            "match": "image-only-candidate",
+            "distance": 1
+          },
+          "artist": "Hagane Tsurugi"
+        },
+        {
+          "id": "OP08-078~tcg575945",
+          "set": "OP08-PRE",
+          "rarity": "C",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/575945_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              575945
+            ]
+          },
+          "tcgplayer": {
+            "name": "Ulti",
+            "match": "minted",
+            "distance": 1
+          },
+          "artOf": "OP08-078",
+          "finishes": [
+            "nonfoil"
+          ],
+          "promoTypes": [
+            {
+              "type": "prerelease",
+              "category": "event"
+            }
+          ],
+          "artist": "Hagane Tsurugi"
         }
       ]
     },
@@ -2323,7 +5793,22 @@
           "rarity": "SR",
           "block": "2",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP08-079.png",
-          "source": "bandai"
+          "cardSet": "-TWO LEGENDS- [OP-08]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              558113
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Kaido",
+            "match": "image",
+            "distance": 3
+          },
+          "artist": "Nijihayashi"
         },
         {
           "id": "OP08-079_p1",
@@ -2331,7 +5816,25 @@
           "rarity": "SR",
           "block": "2",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP08-079_p1.png",
-          "source": "bandai"
+          "cardSet": "-TWO LEGENDS- [OP-08]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              558114
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Kaido (Parallel)",
+            "match": "image",
+            "distance": 3
+          },
+          "treatments": [
+            "parallel"
+          ],
+          "artist": "DAI-XT."
         }
       ]
     },
@@ -2358,7 +5861,22 @@
           "rarity": "R",
           "block": "2",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP08-080.png",
-          "source": "bandai"
+          "cardSet": "-TWO LEGENDS- [OP-08]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              558115
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Queen",
+            "match": "image",
+            "distance": 1
+          },
+          "artist": "HISASHI HUJIWARA"
         },
         {
           "id": "OP08-080_p1",
@@ -2366,7 +5884,25 @@
           "rarity": "R",
           "block": "2",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP08-080_p1.png",
-          "source": "bandai"
+          "cardSet": "-TWO LEGENDS- [OP-08]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              558116
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Queen (Parallel)",
+            "match": "image",
+            "distance": 3
+          },
+          "treatments": [
+            "parallel"
+          ],
+          "artist": "Hokuyuu"
         }
       ]
     },
@@ -2393,7 +5929,50 @@
           "rarity": "C",
           "block": "2",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP08-081.png",
-          "source": "bandai"
+          "cardSet": "-TWO LEGENDS- [OP-08]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              558117
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "Guernica",
+            "match": "image-only-candidate",
+            "distance": 1
+          },
+          "artist": "Hayaken-sarena"
+        },
+        {
+          "id": "OP08-081~tcg576437",
+          "set": "OP08-PRE",
+          "rarity": "C",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/576437_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              576437
+            ]
+          },
+          "tcgplayer": {
+            "name": "Guernica",
+            "match": "minted",
+            "distance": 1
+          },
+          "artOf": "OP08-081",
+          "finishes": [
+            "nonfoil"
+          ],
+          "promoTypes": [
+            {
+              "type": "prerelease",
+              "category": "event"
+            }
+          ],
+          "artist": "Hayaken-sarena"
         }
       ]
     },
@@ -2420,7 +5999,22 @@
           "rarity": "R",
           "block": "2",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP08-082.png",
-          "source": "bandai"
+          "cardSet": "-TWO LEGENDS- [OP-08]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              558118
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Sasaki",
+            "match": "image-only-candidate",
+            "distance": 1
+          },
+          "artist": "Hokuyuu"
         }
       ]
     },
@@ -2448,7 +6042,50 @@
           "rarity": "UC",
           "block": "2",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP08-083.png",
-          "source": "bandai"
+          "cardSet": "-TWO LEGENDS- [OP-08]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              558119
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "Sheepshead",
+            "match": "image-only-candidate",
+            "distance": 2
+          },
+          "artist": "Morechand"
+        },
+        {
+          "id": "OP08-083~tcg576472",
+          "set": "OP08-PRE",
+          "rarity": "UC",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/576472_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              576472
+            ]
+          },
+          "tcgplayer": {
+            "name": "Sheepshead",
+            "match": "minted",
+            "distance": 2
+          },
+          "artOf": "OP08-083",
+          "finishes": [
+            "nonfoil"
+          ],
+          "promoTypes": [
+            {
+              "type": "prerelease",
+              "category": "event"
+            }
+          ],
+          "artist": "Morechand"
         }
       ]
     },
@@ -2474,7 +6111,22 @@
           "rarity": "SR",
           "block": "2",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP08-084.png",
-          "source": "bandai"
+          "cardSet": "-TWO LEGENDS- [OP-08]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              558120
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Jack",
+            "match": "image",
+            "distance": 0
+          },
+          "artist": "Yuu Shimotsuki"
         },
         {
           "id": "OP08-084_p1",
@@ -2482,7 +6134,25 @@
           "rarity": "SR",
           "block": "2",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP08-084_p1.png",
-          "source": "bandai"
+          "cardSet": "-TWO LEGENDS- [OP-08]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              558121
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Jack (Parallel)",
+            "match": "image",
+            "distance": 0
+          },
+          "treatments": [
+            "parallel"
+          ],
+          "artist": "Yosuke Adachi"
         },
         {
           "id": "OP08-084_p2",
@@ -2490,7 +6160,25 @@
           "rarity": "SR",
           "block": "2",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP08-084_p2.png",
-          "source": "bandai"
+          "cardSet": "Treasure Cup February 2025",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              615309
+            ]
+          },
+          "tcgplayer": {
+            "name": "Jack (Treasure Cup 2025)",
+            "match": "image",
+            "distance": 1
+          },
+          "promoTypes": [
+            {
+              "type": "treasure_cup",
+              "category": "championship"
+            }
+          ],
+          "artist": "tatsuya"
         }
       ]
     },
@@ -2517,7 +6205,50 @@
           "rarity": "UC",
           "block": "2",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP08-085.png",
-          "source": "bandai"
+          "cardSet": "-TWO LEGENDS- [OP-08]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              558122
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "Jinbe",
+            "match": "image-only-candidate",
+            "distance": 2
+          },
+          "artist": "Ryo Nakama"
+        },
+        {
+          "id": "OP08-085~tcg576473",
+          "set": "OP08-PRE",
+          "rarity": "UC",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/576473_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              576473
+            ]
+          },
+          "tcgplayer": {
+            "name": "Jinbe",
+            "match": "minted",
+            "distance": 2
+          },
+          "artOf": "OP08-085",
+          "finishes": [
+            "nonfoil"
+          ],
+          "promoTypes": [
+            {
+              "type": "prerelease",
+              "category": "event"
+            }
+          ],
+          "artist": "Ryo Nakama"
         }
       ]
     },
@@ -2545,7 +6276,50 @@
           "rarity": "C",
           "block": "2",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP08-086.png",
-          "source": "bandai"
+          "cardSet": "-TWO LEGENDS- [OP-08]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              558123
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "Ginrummy",
+            "match": "image-only-candidate",
+            "distance": 2
+          },
+          "artist": "eiji kaneda"
+        },
+        {
+          "id": "OP08-086~tcg576438",
+          "set": "OP08-PRE",
+          "rarity": "C",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/576438_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              576438
+            ]
+          },
+          "tcgplayer": {
+            "name": "Ginrummy",
+            "match": "minted",
+            "distance": 2
+          },
+          "artOf": "OP08-086",
+          "finishes": [
+            "nonfoil"
+          ],
+          "promoTypes": [
+            {
+              "type": "prerelease",
+              "category": "event"
+            }
+          ],
+          "artist": "eiji kaneda"
         }
       ]
     },
@@ -2573,7 +6347,22 @@
           "rarity": "UC",
           "block": "2",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP08-087.png",
-          "source": "bandai"
+          "cardSet": "-TWO LEGENDS- [OP-08]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              558124
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "Scratchmen Apoo",
+            "match": "image-only-candidate",
+            "distance": 3
+          },
+          "artist": "kankurou"
         },
         {
           "id": "OP08-087_p1",
@@ -2581,7 +6370,28 @@
           "rarity": "UC",
           "block": "2",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP08-087_p1.png",
-          "source": "bandai"
+          "cardSet": "-ONE PIECE CARD THE BEST vol.2- [PRB-02]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              656245
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Scratchmen Apoo - OP08-087 (Pirate Foil)",
+            "match": "image",
+            "distance": 3
+          },
+          "promoTypes": [
+            {
+              "type": "pirate_foil",
+              "category": "foil-pattern"
+            }
+          ],
+          "artist": "kankurou"
         },
         {
           "id": "OP08-087_r1",
@@ -2589,7 +6399,54 @@
           "rarity": "UC",
           "block": "2",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP08-087_r1.png",
-          "source": "bandai"
+          "cardSet": "-ONE PIECE CARD THE BEST vol.2- [PRB-02]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              656243
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "Scratchmen Apoo - OP08-087 (Reprint)",
+            "match": "image",
+            "distance": 5
+          },
+          "treatments": [
+            "reprint"
+          ],
+          "artOf": "OP08-087",
+          "artist": "kankurou"
+        },
+        {
+          "id": "OP08-087~tcg576474",
+          "set": "OP08-PRE",
+          "rarity": "UC",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/576474_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              576474
+            ]
+          },
+          "tcgplayer": {
+            "name": "Scratchmen Apoo",
+            "match": "minted",
+            "distance": 3
+          },
+          "artOf": "OP08-087",
+          "finishes": [
+            "nonfoil"
+          ],
+          "promoTypes": [
+            {
+              "type": "prerelease",
+              "category": "event"
+            }
+          ],
+          "artist": "kankurou"
         }
       ]
     },
@@ -2616,7 +6473,50 @@
           "rarity": "UC",
           "block": "2",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP08-088.png",
-          "source": "bandai"
+          "cardSet": "-TWO LEGENDS- [OP-08]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              558125
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "Duval",
+            "match": "image-only-candidate",
+            "distance": 4
+          },
+          "artist": "Koushi Rokushiro"
+        },
+        {
+          "id": "OP08-088~tcg576475",
+          "set": "OP08-PRE",
+          "rarity": "UC",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/576475_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              576475
+            ]
+          },
+          "tcgplayer": {
+            "name": "Duval",
+            "match": "minted",
+            "distance": 4
+          },
+          "artOf": "OP08-088",
+          "finishes": [
+            "nonfoil"
+          ],
+          "promoTypes": [
+            {
+              "type": "prerelease",
+              "category": "event"
+            }
+          ],
+          "artist": "Koushi Rokushiro"
         }
       ]
     },
@@ -2644,7 +6544,50 @@
           "rarity": "C",
           "block": "2",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP08-089.png",
-          "source": "bandai"
+          "cardSet": "-TWO LEGENDS- [OP-08]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              558126
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "Basil Hawkins",
+            "match": "image-only-candidate",
+            "distance": 1
+          },
+          "artist": "Yamada Rokkaku."
+        },
+        {
+          "id": "OP08-089~tcg576439",
+          "set": "OP08-PRE",
+          "rarity": "C",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/576439_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              576439
+            ]
+          },
+          "tcgplayer": {
+            "name": "Basil Hawkins",
+            "match": "minted",
+            "distance": 1
+          },
+          "artOf": "OP08-089",
+          "finishes": [
+            "nonfoil"
+          ],
+          "promoTypes": [
+            {
+              "type": "prerelease",
+              "category": "event"
+            }
+          ],
+          "artist": "Yamada Rokkaku."
         }
       ]
     },
@@ -2672,7 +6615,50 @@
           "rarity": "C",
           "block": "2",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP08-090.png",
-          "source": "bandai"
+          "cardSet": "-TWO LEGENDS- [OP-08]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              558127
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "Hamlet",
+            "match": "image-only-candidate",
+            "distance": 4
+          },
+          "artist": "HISASHI HUJIWARA"
+        },
+        {
+          "id": "OP08-090~tcg576440",
+          "set": "OP08-PRE",
+          "rarity": "C",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/576440_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              576440
+            ]
+          },
+          "tcgplayer": {
+            "name": "Hamlet",
+            "match": "minted",
+            "distance": 4
+          },
+          "artOf": "OP08-090",
+          "finishes": [
+            "nonfoil"
+          ],
+          "promoTypes": [
+            {
+              "type": "prerelease",
+              "category": "event"
+            }
+          ],
+          "artist": "HISASHI HUJIWARA"
         }
       ]
     },
@@ -2700,7 +6686,22 @@
           "rarity": "R",
           "block": "2",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP08-091.png",
-          "source": "bandai"
+          "cardSet": "-TWO LEGENDS- [OP-08]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              558128
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Who's.Who",
+            "match": "image-only-candidate",
+            "distance": 1
+          },
+          "artist": "Morechand"
         }
       ]
     },
@@ -2727,7 +6728,22 @@
           "rarity": "R",
           "block": "2",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP08-092.png",
-          "source": "bandai"
+          "cardSet": "-TWO LEGENDS- [OP-08]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              558129
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Page One",
+            "match": "image-only-candidate",
+            "distance": 4
+          },
+          "artist": "Yamada Rokkaku."
         }
       ]
     },
@@ -2755,7 +6771,50 @@
           "rarity": "C",
           "block": "2",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP08-093.png",
-          "source": "bandai"
+          "cardSet": "-TWO LEGENDS- [OP-08]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              558130
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "X.Drake",
+            "match": "image-only-candidate",
+            "distance": 3
+          },
+          "artist": "Yamada Rokkaku."
+        },
+        {
+          "id": "OP08-093~tcg576442",
+          "set": "OP08-PRE",
+          "rarity": "C",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/576442_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              576442
+            ]
+          },
+          "tcgplayer": {
+            "name": "X.Drake",
+            "match": "minted",
+            "distance": 3
+          },
+          "artOf": "OP08-093",
+          "finishes": [
+            "nonfoil"
+          ],
+          "promoTypes": [
+            {
+              "type": "prerelease",
+              "category": "event"
+            }
+          ],
+          "artist": "Yamada Rokkaku."
         }
       ]
     },
@@ -2777,7 +6836,21 @@
           "rarity": "R",
           "block": "2",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP08-094.png",
-          "source": "bandai"
+          "cardSet": "-TWO LEGENDS- [OP-08]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              558131
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Imperial Flame",
+            "match": "image-only-candidate",
+            "distance": 2
+          }
         }
       ]
     },
@@ -2800,7 +6873,48 @@
           "rarity": "UC",
           "block": "2",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP08-095.png",
-          "source": "bandai"
+          "cardSet": "-TWO LEGENDS- [OP-08]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              558132
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "Iron Body Fang Flash",
+            "match": "image-only-candidate",
+            "distance": 3
+          }
+        },
+        {
+          "id": "OP08-095~tcg576476",
+          "set": "OP08-PRE",
+          "rarity": "UC",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/576476_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              576476
+            ]
+          },
+          "tcgplayer": {
+            "name": "Iron Body Fang Flash",
+            "match": "minted",
+            "distance": 3
+          },
+          "artOf": "OP08-095",
+          "finishes": [
+            "nonfoil"
+          ],
+          "promoTypes": [
+            {
+              "type": "prerelease",
+              "category": "event"
+            }
+          ]
         }
       ]
     },
@@ -2822,7 +6936,48 @@
           "rarity": "C",
           "block": "2",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP08-096.png",
-          "source": "bandai"
+          "cardSet": "-TWO LEGENDS- [OP-08]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              558133
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "People's Dreams Don't Ever End!!",
+            "match": "image-only-candidate",
+            "distance": 2
+          }
+        },
+        {
+          "id": "OP08-096~tcg576443",
+          "set": "OP08-PRE",
+          "rarity": "C",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/576443_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              576443
+            ]
+          },
+          "tcgplayer": {
+            "name": "People's Dreams Don't Ever End!!",
+            "match": "minted",
+            "distance": 2
+          },
+          "artOf": "OP08-096",
+          "finishes": [
+            "nonfoil"
+          ],
+          "promoTypes": [
+            {
+              "type": "prerelease",
+              "category": "event"
+            }
+          ]
         }
       ]
     },
@@ -2844,7 +6999,48 @@
           "rarity": "C",
           "block": "2",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP08-097.png",
-          "source": "bandai"
+          "cardSet": "-TWO LEGENDS- [OP-08]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              558134
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "Heliceratops",
+            "match": "image-only-candidate",
+            "distance": 3
+          }
+        },
+        {
+          "id": "OP08-097~tcg576444",
+          "set": "OP08-PRE",
+          "rarity": "C",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/576444_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              576444
+            ]
+          },
+          "tcgplayer": {
+            "name": "Heliceratops",
+            "match": "minted",
+            "distance": 3
+          },
+          "artOf": "OP08-097",
+          "finishes": [
+            "nonfoil"
+          ],
+          "promoTypes": [
+            {
+              "type": "prerelease",
+              "category": "event"
+            }
+          ]
         }
       ]
     },
@@ -2872,7 +7068,21 @@
           "rarity": "L",
           "block": "2",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP08-098.png",
-          "source": "bandai"
+          "cardSet": "-TWO LEGENDS- [OP-08]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              558135
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "Kalgara (098)",
+            "match": "image",
+            "distance": 4
+          }
         },
         {
           "id": "OP08-098_p1",
@@ -2880,7 +7090,25 @@
           "rarity": "L",
           "block": "2",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP08-098_p1.png",
-          "source": "bandai"
+          "cardSet": "-TWO LEGENDS- [OP-08]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              558136
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Kalgara (098) (Parallel)",
+            "match": "image",
+            "distance": 3
+          },
+          "treatments": [
+            "parallel"
+          ],
+          "artist": "tunbolt"
         },
         {
           "id": "OP08-098_p2",
@@ -2888,7 +7116,24 @@
           "rarity": "L",
           "block": "2",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP08-098_p2.png",
-          "source": "bandai"
+          "cardSet": "-Anime 25th Collection- [EB-02]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              629190
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Kalgara (SP)",
+            "match": "image-only-candidate",
+            "distance": 1
+          },
+          "treatments": [
+            "sp"
+          ]
         }
       ]
     },
@@ -2917,7 +7162,22 @@
           "rarity": "C",
           "block": "2",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP08-099.png",
-          "source": "bandai"
+          "cardSet": "-TWO LEGENDS- [OP-08]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              558137
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "Kalgara (099)",
+            "match": "image-only-candidate",
+            "distance": 2
+          },
+          "artist": "Tanaka Kenichi"
         },
         {
           "id": "OP08-099_p1",
@@ -2925,7 +7185,28 @@
           "rarity": "C",
           "block": "2",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP08-099_p1.png",
-          "source": "bandai"
+          "cardSet": "-ONE PIECE CARD THE BEST vol.2- [PRB-02]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              656248
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Kalgara (Pirate Foil)",
+            "match": "image+name",
+            "distance": 3
+          },
+          "promoTypes": [
+            {
+              "type": "pirate_foil",
+              "category": "foil-pattern"
+            }
+          ],
+          "artist": "Tanaka Kenichi"
         },
         {
           "id": "OP08-099_p2",
@@ -2933,7 +7214,28 @@
           "rarity": "C",
           "block": "2",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP08-099_p2.png",
-          "source": "bandai"
+          "cardSet": "Premium Card Collection -Best Selection Vol.4-",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              649685
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Kalgara (Premium Card Collection -Best Selection Vol. 4-)",
+            "match": "image",
+            "distance": 22
+          },
+          "promoTypes": [
+            {
+              "type": "retail_product",
+              "category": "retail"
+            }
+          ],
+          "artist": "tatsuya"
         },
         {
           "id": "OP08-099_r1",
@@ -2941,7 +7243,54 @@
           "rarity": "C",
           "block": "2",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP08-099_r1.png",
-          "source": "bandai"
+          "cardSet": "-ONE PIECE CARD THE BEST vol.2- [PRB-02]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              656247
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "Kalgara (Reprint)",
+            "match": "image+name",
+            "distance": 4
+          },
+          "treatments": [
+            "reprint"
+          ],
+          "artOf": "OP08-099",
+          "artist": "Tanaka Kenichi"
+        },
+        {
+          "id": "OP08-099~tcg576445",
+          "set": "OP08-PRE",
+          "rarity": "C",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/576445_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              576445
+            ]
+          },
+          "tcgplayer": {
+            "name": "Kalgara (099)",
+            "match": "minted",
+            "distance": 2
+          },
+          "artOf": "OP08-099",
+          "finishes": [
+            "nonfoil"
+          ],
+          "promoTypes": [
+            {
+              "type": "prerelease",
+              "category": "event"
+            }
+          ],
+          "artist": "Tanaka Kenichi"
         }
       ]
     },
@@ -2970,7 +7319,50 @@
           "rarity": "UC",
           "block": "2",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP08-100.png",
-          "source": "bandai"
+          "cardSet": "-TWO LEGENDS- [OP-08]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              558138
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "South Bird",
+            "match": "image-only-candidate",
+            "distance": 4
+          },
+          "artist": "Yoichi Amano"
+        },
+        {
+          "id": "OP08-100~tcg576477",
+          "set": "OP08-PRE",
+          "rarity": "UC",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/576477_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              576477
+            ]
+          },
+          "tcgplayer": {
+            "name": "South Bird",
+            "match": "minted",
+            "distance": 4
+          },
+          "artOf": "OP08-100",
+          "finishes": [
+            "nonfoil"
+          ],
+          "promoTypes": [
+            {
+              "type": "prerelease",
+              "category": "event"
+            }
+          ],
+          "artist": "Yoichi Amano"
         }
       ]
     },
@@ -2997,7 +7389,50 @@
           "rarity": "C",
           "block": "2",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP08-101.png",
-          "source": "bandai"
+          "cardSet": "-TWO LEGENDS- [OP-08]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              558139
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "Charlotte Angel",
+            "match": "image-only-candidate",
+            "distance": 3
+          },
+          "artist": "phima"
+        },
+        {
+          "id": "OP08-101~tcg576446",
+          "set": "OP08-PRE",
+          "rarity": "C",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/576446_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              576446
+            ]
+          },
+          "tcgplayer": {
+            "name": "Charlotte Angel",
+            "match": "minted",
+            "distance": 3
+          },
+          "artOf": "OP08-101",
+          "finishes": [
+            "nonfoil"
+          ],
+          "promoTypes": [
+            {
+              "type": "prerelease",
+              "category": "event"
+            }
+          ],
+          "artist": "phima"
         }
       ]
     },
@@ -3024,7 +7459,50 @@
           "rarity": "UC",
           "block": "2",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP08-102.png",
-          "source": "bandai"
+          "cardSet": "-TWO LEGENDS- [OP-08]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              558140
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "Charlotte Opera",
+            "match": "image-only-candidate",
+            "distance": 3
+          },
+          "artist": "Mitsuaki Matsumoto"
+        },
+        {
+          "id": "OP08-102~tcg576478",
+          "set": "OP08-PRE",
+          "rarity": "UC",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/576478_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              576478
+            ]
+          },
+          "tcgplayer": {
+            "name": "Charlotte Opera",
+            "match": "minted",
+            "distance": 3
+          },
+          "artOf": "OP08-102",
+          "finishes": [
+            "nonfoil"
+          ],
+          "promoTypes": [
+            {
+              "type": "prerelease",
+              "category": "event"
+            }
+          ],
+          "artist": "Mitsuaki Matsumoto"
         }
       ]
     },
@@ -3051,7 +7529,50 @@
           "rarity": "UC",
           "block": "2",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP08-103.png",
-          "source": "bandai"
+          "cardSet": "-TWO LEGENDS- [OP-08]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              558141
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "Charlotte Custard",
+            "match": "image-only-candidate",
+            "distance": 4
+          },
+          "artist": "otton"
+        },
+        {
+          "id": "OP08-103~tcg576479",
+          "set": "OP08-PRE",
+          "rarity": "UC",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/576479_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              576479
+            ]
+          },
+          "tcgplayer": {
+            "name": "Charlotte Custard",
+            "match": "minted",
+            "distance": 4
+          },
+          "artOf": "OP08-103",
+          "finishes": [
+            "nonfoil"
+          ],
+          "promoTypes": [
+            {
+              "type": "prerelease",
+              "category": "event"
+            }
+          ],
+          "artist": "otton"
         }
       ]
     },
@@ -3078,7 +7599,50 @@
           "rarity": "C",
           "block": "2",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP08-104.png",
-          "source": "bandai"
+          "cardSet": "-TWO LEGENDS- [OP-08]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              558142
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "Charlotte Poire",
+            "match": "image-only-candidate",
+            "distance": 4
+          },
+          "artist": "Bashikou"
+        },
+        {
+          "id": "OP08-104~tcg576447",
+          "set": "OP08-PRE",
+          "rarity": "C",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/576447_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              576447
+            ]
+          },
+          "tcgplayer": {
+            "name": "Charlotte Poire",
+            "match": "minted",
+            "distance": 4
+          },
+          "artOf": "OP08-104",
+          "finishes": [
+            "nonfoil"
+          ],
+          "promoTypes": [
+            {
+              "type": "prerelease",
+              "category": "event"
+            }
+          ],
+          "artist": "Bashikou"
         }
       ]
     },
@@ -3106,7 +7670,22 @@
           "rarity": "SR",
           "block": "2",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP08-105.png",
-          "source": "bandai"
+          "cardSet": "-TWO LEGENDS- [OP-08]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              558143
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Jewelry Bonney",
+            "match": "image",
+            "distance": 3
+          },
+          "artist": "Daisuke Enoshima"
         },
         {
           "id": "OP08-105_p1",
@@ -3114,7 +7693,51 @@
           "rarity": "SR",
           "block": "2",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP08-105_p1.png",
-          "source": "bandai"
+          "cardSet": "-TWO LEGENDS- [OP-08]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              558144
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Jewelry Bonney (Parallel)",
+            "match": "image",
+            "distance": 2
+          },
+          "treatments": [
+            "parallel"
+          ],
+          "artist": "SHIE NANAHARA"
+        },
+        {
+          "id": "OP08-105~tcg623072",
+          "set": "P",
+          "rarity": "SR",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/623072_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              623072
+            ]
+          },
+          "tcgplayer": {
+            "name": "Jewelry Bonney (Illustration Box EX)",
+            "match": "minted",
+            "distance": null
+          },
+          "finishes": [
+            "foil"
+          ],
+          "promoTypes": [
+            {
+              "type": "retail_product",
+              "category": "retail"
+            }
+          ]
         }
       ]
     },
@@ -3142,7 +7765,22 @@
           "rarity": "SR",
           "block": "2",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP08-106.png",
-          "source": "bandai"
+          "cardSet": "-TWO LEGENDS- [OP-08]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              558145
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Nami",
+            "match": "image",
+            "distance": 1
+          },
+          "artist": "Sunohara"
         },
         {
           "id": "OP08-106_p1",
@@ -3150,7 +7788,25 @@
           "rarity": "SR",
           "block": "2",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP08-106_p1.png",
-          "source": "bandai"
+          "cardSet": "-TWO LEGENDS- [OP-08]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              558146
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Nami (Parallel)",
+            "match": "image",
+            "distance": 2
+          },
+          "treatments": [
+            "parallel"
+          ],
+          "artist": "POKImari"
         },
         {
           "id": "OP08-106_p2",
@@ -3158,7 +7814,55 @@
           "rarity": "SP CARD",
           "block": "2",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP08-106_p2.png",
-          "source": "bandai"
+          "cardSet": "-EMPERORS IN THE NEW WORLD- [OP-09]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              596918
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Nami (SP)",
+            "match": "image-only-candidate",
+            "distance": 9
+          },
+          "treatments": [
+            "sp"
+          ],
+          "artist": "otton"
+        },
+        {
+          "id": "OP08-106~tcg710222",
+          "set": "P",
+          "rarity": "SR",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/710222_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              710222
+            ]
+          },
+          "tcgplayer": {
+            "name": "Nami (CS 26-27 Celebration Pack) (Serial Numbered)",
+            "match": "minted",
+            "distance": null
+          },
+          "treatments": [
+            "serial"
+          ],
+          "promoTypes": [
+            {
+              "type": "championship",
+              "category": "championship"
+            },
+            {
+              "type": "event_pack",
+              "category": "event"
+            }
+          ]
         }
       ]
     },
@@ -3186,7 +7890,50 @@
           "rarity": "C",
           "block": "2",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP08-107.png",
-          "source": "bandai"
+          "cardSet": "-TWO LEGENDS- [OP-08]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              558147
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "Nitro",
+            "match": "image-only-candidate",
+            "distance": 1
+          },
+          "artist": "Aidle Co. Ltd."
+        },
+        {
+          "id": "OP08-107~tcg576448",
+          "set": "OP08-PRE",
+          "rarity": "C",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/576448_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              576448
+            ]
+          },
+          "tcgplayer": {
+            "name": "Nitro",
+            "match": "minted",
+            "distance": 1
+          },
+          "artOf": "OP08-107",
+          "finishes": [
+            "nonfoil"
+          ],
+          "promoTypes": [
+            {
+              "type": "prerelease",
+              "category": "event"
+            }
+          ],
+          "artist": "Aidle Co. Ltd."
         }
       ]
     },
@@ -3214,7 +7961,50 @@
           "rarity": "C",
           "block": "2",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP08-108.png",
-          "source": "bandai"
+          "cardSet": "-TWO LEGENDS- [OP-08]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              558148
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "Mont Blanc Cricket",
+            "match": "image-only-candidate",
+            "distance": 4
+          },
+          "artist": "Anderson"
+        },
+        {
+          "id": "OP08-108~tcg576449",
+          "set": "OP08-PRE",
+          "rarity": "C",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/576449_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              576449
+            ]
+          },
+          "tcgplayer": {
+            "name": "Mont Blanc Cricket",
+            "match": "minted",
+            "distance": 4
+          },
+          "artOf": "OP08-108",
+          "finishes": [
+            "nonfoil"
+          ],
+          "promoTypes": [
+            {
+              "type": "prerelease",
+              "category": "event"
+            }
+          ],
+          "artist": "Anderson"
         }
       ]
     },
@@ -3242,7 +8032,22 @@
           "rarity": "R",
           "block": "2",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP08-109.png",
-          "source": "bandai"
+          "cardSet": "-TWO LEGENDS- [OP-08]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              558149
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Mont Blanc Noland",
+            "match": "image-only-candidate",
+            "distance": 4
+          },
+          "artist": "Moopic"
         }
       ]
     },
@@ -3270,7 +8075,22 @@
           "rarity": "R",
           "block": "2",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP08-110.png",
-          "source": "bandai"
+          "cardSet": "-TWO LEGENDS- [OP-08]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              558150
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Wyper",
+            "match": "image",
+            "distance": 5
+          },
+          "artist": "Hatori Kyoka"
         },
         {
           "id": "OP08-110_p1",
@@ -3278,7 +8098,25 @@
           "rarity": "R",
           "block": "2",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP08-110_p1.png",
-          "source": "bandai"
+          "cardSet": "-TWO LEGENDS- [OP-08]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              558151
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Wyper (Parallel)",
+            "match": "image",
+            "distance": 1
+          },
+          "treatments": [
+            "parallel"
+          ],
+          "artist": "Ryuda"
         },
         {
           "id": "OP08-110_p2",
@@ -3286,7 +8124,28 @@
           "rarity": "R",
           "block": "2",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP08-110_p2.png",
-          "source": "bandai"
+          "cardSet": "Tournament Kit 2025 Vol.2",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              622593
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "Wyper (Tournament Pack 2025 Vol. 2)",
+            "match": "image",
+            "distance": 2
+          },
+          "promoTypes": [
+            {
+              "type": "event_pack",
+              "category": "event"
+            }
+          ],
+          "artist": "ASAKI KURODA"
         },
         {
           "id": "OP08-110_p3",
@@ -3294,7 +8153,28 @@
           "rarity": "R",
           "block": "2",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP08-110_p3.png",
-          "source": "bandai"
+          "cardSet": "Winner Pack 2025 Vol.2",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              622596
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Wyper (Winner Pack 2025 Vol. 2)",
+            "match": "image",
+            "distance": 1
+          },
+          "promoTypes": [
+            {
+              "type": "placement",
+              "category": "placement"
+            }
+          ],
+          "artist": "ASAKI KURODA"
         },
         {
           "id": "OP08-110_p4",
@@ -3302,7 +8182,32 @@
           "rarity": "R",
           "block": "2",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP08-110_p4.png",
-          "source": "bandai"
+          "cardSet": "CS 25-26 Celebration Pack",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              649645
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Wyper (CS 25-26 Celebration Pack)",
+            "match": "image",
+            "distance": 3
+          },
+          "promoTypes": [
+            {
+              "type": "championship",
+              "category": "championship"
+            },
+            {
+              "type": "event_pack",
+              "category": "event"
+            }
+          ],
+          "artist": "ASAKI KURODA"
         }
       ]
     },
@@ -3330,7 +8235,50 @@
           "rarity": "UC",
           "block": "2",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP08-111.png",
-          "source": "bandai"
+          "cardSet": "-TWO LEGENDS- [OP-08]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              558152
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "S-Shark",
+            "match": "image-only-candidate",
+            "distance": 1
+          },
+          "artist": "Suzume Muraichi"
+        },
+        {
+          "id": "OP08-111~tcg576480",
+          "set": "OP08-PRE",
+          "rarity": "UC",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/576480_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              576480
+            ]
+          },
+          "tcgplayer": {
+            "name": "S-Shark",
+            "match": "minted",
+            "distance": 1
+          },
+          "artOf": "OP08-111",
+          "finishes": [
+            "nonfoil"
+          ],
+          "promoTypes": [
+            {
+              "type": "prerelease",
+              "category": "event"
+            }
+          ],
+          "artist": "Suzume Muraichi"
         }
       ]
     },
@@ -3358,7 +8306,22 @@
           "rarity": "SR",
           "block": "2",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP08-112.png",
-          "source": "bandai"
+          "cardSet": "-TWO LEGENDS- [OP-08]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              558153
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "S-Snake",
+            "match": "image",
+            "distance": 5
+          },
+          "artist": "SHIE NANAHARA"
         },
         {
           "id": "OP08-112_p1",
@@ -3366,7 +8329,25 @@
           "rarity": "SR",
           "block": "2",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP08-112_p1.png",
-          "source": "bandai"
+          "cardSet": "-TWO LEGENDS- [OP-08]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              558154
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "S-Snake (Parallel)",
+            "match": "image",
+            "distance": 3
+          },
+          "treatments": [
+            "parallel"
+          ],
+          "artist": "nuisuke"
         }
       ]
     },
@@ -3394,7 +8375,50 @@
           "rarity": "C",
           "block": "2",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP08-113.png",
-          "source": "bandai"
+          "cardSet": "-TWO LEGENDS- [OP-08]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              558155
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "S-Bear",
+            "match": "image-only-candidate",
+            "distance": 2
+          },
+          "artist": "Tanaka Kenichi"
+        },
+        {
+          "id": "OP08-113~tcg576450",
+          "set": "OP08-PRE",
+          "rarity": "C",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/576450_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              576450
+            ]
+          },
+          "tcgplayer": {
+            "name": "S-Bear",
+            "match": "minted",
+            "distance": 2
+          },
+          "artOf": "OP08-113",
+          "finishes": [
+            "nonfoil"
+          ],
+          "promoTypes": [
+            {
+              "type": "prerelease",
+              "category": "event"
+            }
+          ],
+          "artist": "Tanaka Kenichi"
         }
       ]
     },
@@ -3422,7 +8446,22 @@
           "rarity": "R",
           "block": "2",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP08-114.png",
-          "source": "bandai"
+          "cardSet": "-TWO LEGENDS- [OP-08]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              558156
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "S-Hawk",
+            "match": "image-only-candidate",
+            "distance": 4
+          },
+          "artist": "Moopic"
         }
       ]
     },
@@ -3445,7 +8484,21 @@
           "rarity": "R",
           "block": "2",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP08-115.png",
-          "source": "bandai"
+          "cardSet": "-TWO LEGENDS- [OP-08]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              558157
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "The Earth Will Not Lose!",
+            "match": "image-only-candidate",
+            "distance": 2
+          }
         }
       ]
     },
@@ -3468,7 +8521,48 @@
           "rarity": "C",
           "block": "2",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP08-116.png",
-          "source": "bandai"
+          "cardSet": "-TWO LEGENDS- [OP-08]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              558158
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "Burn Bazooka",
+            "match": "image-only-candidate",
+            "distance": 2
+          }
+        },
+        {
+          "id": "OP08-116~tcg576451",
+          "set": "OP08-PRE",
+          "rarity": "C",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/576451_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              576451
+            ]
+          },
+          "tcgplayer": {
+            "name": "Burn Bazooka",
+            "match": "minted",
+            "distance": 2
+          },
+          "artOf": "OP08-116",
+          "finishes": [
+            "nonfoil"
+          ],
+          "promoTypes": [
+            {
+              "type": "prerelease",
+              "category": "event"
+            }
+          ]
         }
       ]
     },
@@ -3491,7 +8585,48 @@
           "rarity": "UC",
           "block": "2",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP08-117.png",
-          "source": "bandai"
+          "cardSet": "-TWO LEGENDS- [OP-08]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              558159
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "Burn Blade",
+            "match": "image-only-candidate",
+            "distance": 3
+          }
+        },
+        {
+          "id": "OP08-117~tcg576481",
+          "set": "OP08-PRE",
+          "rarity": "UC",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/576481_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              576481
+            ]
+          },
+          "tcgplayer": {
+            "name": "Burn Blade",
+            "match": "minted",
+            "distance": 3
+          },
+          "artOf": "OP08-117",
+          "finishes": [
+            "nonfoil"
+          ],
+          "promoTypes": [
+            {
+              "type": "prerelease",
+              "category": "event"
+            }
+          ]
         }
       ]
     },
@@ -3517,7 +8652,22 @@
           "rarity": "SEC",
           "block": "2",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP08-118.png",
-          "source": "bandai"
+          "cardSet": "-TWO LEGENDS- [OP-08]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              558160
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Silvers Rayleigh",
+            "match": "image",
+            "distance": 4
+          },
+          "artist": "AKIRA EGAWA"
         },
         {
           "id": "OP08-118_p1",
@@ -3525,7 +8675,24 @@
           "rarity": "SEC",
           "block": "2",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP08-118_p1.png",
-          "source": "bandai"
+          "cardSet": "-TWO LEGENDS- [OP-08]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              558161
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Silvers Rayleigh (Parallel)",
+            "match": "image",
+            "distance": 2
+          },
+          "treatments": [
+            "parallel"
+          ]
         },
         {
           "id": "OP08-118_p2",
@@ -3533,7 +8700,25 @@
           "rarity": "SEC",
           "block": "2",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP08-118_p2.png",
-          "source": "bandai"
+          "cardSet": "-TWO LEGENDS- [OP-08]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              558162
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Silvers Rayleigh (Parallel) (Manga)",
+            "match": "image",
+            "distance": 3
+          },
+          "treatments": [
+            "manga",
+            "parallel"
+          ]
         },
         {
           "id": "OP08-118_r1",
@@ -3541,7 +8726,26 @@
           "rarity": "SEC",
           "block": "2",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP08-118_r1.png",
-          "source": "bandai"
+          "cardSet": "-ONE PIECE CARD THE BEST vol.2- [PRB-02]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              656246
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Silvers Rayleigh - OP08-118 (Reprint)",
+            "match": "image-only-candidate",
+            "distance": 3
+          },
+          "treatments": [
+            "reprint"
+          ],
+          "artOf": "OP08-118",
+          "artist": "AKIRA EGAWA"
         }
       ]
     },
@@ -3570,7 +8774,22 @@
           "rarity": "SEC",
           "block": "2",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP08-119.png",
-          "source": "bandai"
+          "cardSet": "-TWO LEGENDS- [OP-08]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              558163
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Kaido & Linlin",
+            "match": "image",
+            "distance": 1
+          },
+          "artist": "K Akagishi"
         },
         {
           "id": "OP08-119_p1",
@@ -3578,7 +8797,24 @@
           "rarity": "SEC",
           "block": "2",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP08-119_p1.png",
-          "source": "bandai"
+          "cardSet": "-TWO LEGENDS- [OP-08]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              558164
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Kaido & Linlin (Parallel)",
+            "match": "image",
+            "distance": 4
+          },
+          "treatments": [
+            "parallel"
+          ]
         }
       ]
     }

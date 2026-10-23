@@ -1,0 +1,44 @@
+{
+  "products": [
+    {
+      "id": "super-pre-release-starter-deck-2-worst-generation",
+      "set": "ST02-PRE",
+      "category": "starter_deck",
+      "name": "Super Pre-Release Starter Deck 2: Worst Generation",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          408197
+        ]
+      },
+      "contentsStatus": "unknown",
+      "contents": {},
+      "sources": [
+        "https://www.tcgplayer.com/product/408197"
+      ],
+      "releaseDate": "2022-09-30"
+    },
+    {
+      "id": "super-pre-release-starter-deck-2-worst-generation-display",
+      "set": "ST02-PRE",
+      "category": "display",
+      "name": "Super Pre-Release Starter Deck 2: Worst Generation Display",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          408957
+        ]
+      },
+      "contentsStatus": "partial",
+      "contents": {
+        "sealed": [
+          {
+            "product": "super-pre-release-starter-deck-2-worst-generation"
+          }
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/408957"
+      ],
+      "releaseDate": "2022-09-30"
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "products": [
+    {
+      "id": "pillars-of-strength-booster-box",
+      "set": "OP03",
+      "category": "booster_box",
+      "name": "Pillars of Strength - Booster Box",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          477176
+        ]
+      },
+      "contentsStatus": "unknown",
+      "contents": {},
+      "sources": [
+        "https://www.tcgplayer.com/product/477176"
+      ],
+      "releaseDate": "2023-06-30"
+    },
+    {
+      "id": "pillars-of-strength-booster-box-case",
+      "set": "OP03",
+      "category": "case",
+      "name": "Pillars of Strength - Booster Box Case",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          477177
+        ]
+      },
+      "contentsStatus": "partial",
+      "contents": {
+        "sealed": [
+          {
+            "product": "pillars-of-strength-booster-box"
+          }
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/477177"
+      ],
+      "releaseDate": "2023-06-30"
+    },
+    {
+      "id": "pillars-of-strength-booster-pack",
+      "set": "OP03",
+      "category": "booster_pack",
+      "name": "Pillars of Strength - Booster Pack",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          477175
+        ]
+      },
+      "contentsStatus": "partial",
+      "contents": {
+        "pool": [
+          {
+            "set": "OP03"
+          }
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/477175"
+      ],
+      "releaseDate": "2023-06-30"
+    },
+    {
+      "id": "pillars-of-strength-sleeved-booster-pack",
+      "set": "OP03",
+      "category": "sleeved_booster_pack",
+      "name": "Pillars of Strength - Sleeved Booster Pack",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          531776
+        ]
+      },
+      "contentsStatus": "partial",
+      "contents": {
+        "pool": [
+          {
+            "set": "OP03"
+          }
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/531776"
+      ],
+      "releaseDate": "2023-06-30"
+    }
+  ]
+}

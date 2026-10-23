@@ -1,0 +1,121 @@
+{
+  "products": [
+    {
+      "id": "starter-deck-14-3d2y",
+      "set": "ST14",
+      "category": "starter_deck",
+      "name": "Starter Deck 14: 3D2Y",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          545026
+        ]
+      },
+      "contentsStatus": "partial",
+      "contents": {
+        "cards": [
+          {
+            "printing": "ST14-001"
+          },
+          {
+            "printing": "ST14-002"
+          },
+          {
+            "printing": "ST14-003"
+          },
+          {
+            "printing": "ST14-004"
+          },
+          {
+            "printing": "ST14-005"
+          },
+          {
+            "printing": "ST14-006"
+          },
+          {
+            "printing": "ST14-007"
+          },
+          {
+            "printing": "ST14-008"
+          },
+          {
+            "printing": "ST14-009"
+          },
+          {
+            "printing": "ST14-010"
+          },
+          {
+            "printing": "ST14-011"
+          },
+          {
+            "printing": "ST14-012"
+          },
+          {
+            "printing": "ST14-013"
+          },
+          {
+            "printing": "ST14-014"
+          },
+          {
+            "printing": "ST14-015"
+          },
+          {
+            "printing": "ST14-016"
+          },
+          {
+            "printing": "ST14-017"
+          }
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/545026"
+      ],
+      "releaseDate": "2024-08-16"
+    },
+    {
+      "id": "starter-deck-14-3d2y-display",
+      "set": "ST14",
+      "category": "display",
+      "name": "Starter Deck 14: 3D2Y Display",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          545028
+        ]
+      },
+      "contentsStatus": "partial",
+      "contents": {
+        "sealed": [
+          {
+            "product": "starter-deck-14-3d2y"
+          }
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/545028"
+      ],
+      "releaseDate": "2024-08-16"
+    },
+    {
+      "id": "starter-deck-14-3d2y-display-case",
+      "set": "ST14",
+      "category": "case",
+      "name": "Starter Deck 14: 3D2Y Display Case",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          545030
+        ]
+      },
+      "contentsStatus": "partial",
+      "contents": {
+        "sealed": [
+          {
+            "product": "starter-deck-14-3d2y"
+          }
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/545030"
+      ],
+      "releaseDate": "2024-08-16"
+    }
+  ]
+}

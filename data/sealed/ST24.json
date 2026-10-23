@@ -1,0 +1,92 @@
+{
+  "products": [
+    {
+      "id": "starter-deck-24-green-jewelry-bonney",
+      "set": "ST24",
+      "category": "starter_deck",
+      "name": "Starter Deck 24: GREEN Jewelry Bonney",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          627672
+        ]
+      },
+      "contentsStatus": "partial",
+      "contents": {
+        "cards": [
+          {
+            "printing": "EB01-015_p3"
+          },
+          {
+            "printing": "OP07-019_p3"
+          },
+          {
+            "printing": "OP07-021_r1"
+          },
+          {
+            "printing": "OP07-023_r1"
+          },
+          {
+            "printing": "OP07-025_r1"
+          },
+          {
+            "printing": "OP07-031_r1"
+          },
+          {
+            "printing": "OP07-033_r1"
+          },
+          {
+            "printing": "OP07-034_r1"
+          },
+          {
+            "printing": "OP07-036_p1"
+          },
+          {
+            "printing": "OP07-037_r1"
+          },
+          {
+            "printing": "ST24-001"
+          },
+          {
+            "printing": "ST24-002"
+          },
+          {
+            "printing": "ST24-003"
+          },
+          {
+            "printing": "ST24-004"
+          },
+          {
+            "printing": "ST24-005"
+          }
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/627672"
+      ],
+      "releaseDate": "2025-06-06"
+    },
+    {
+      "id": "starter-deck-24-green-jewelry-bonney-display",
+      "set": "ST24",
+      "category": "display",
+      "name": "Starter Deck 24: GREEN Jewelry Bonney Display",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          627671
+        ]
+      },
+      "contentsStatus": "partial",
+      "contents": {
+        "sealed": [
+          {
+            "product": "starter-deck-24-green-jewelry-bonney"
+          }
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/627671"
+      ],
+      "releaseDate": "2025-06-06"
+    }
+  ]
+}

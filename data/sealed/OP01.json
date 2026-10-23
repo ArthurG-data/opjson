@@ -1,0 +1,135 @@
+{
+  "products": [
+    {
+      "id": "box-promotion-pack",
+      "set": "OP01",
+      "category": "promo_pack",
+      "name": "Box Promotion Pack",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          532645
+        ]
+      },
+      "contentsStatus": "unknown",
+      "contents": {},
+      "sources": [
+        "https://www.tcgplayer.com/product/532645"
+      ],
+      "releaseDate": "2022-12-02"
+    },
+    {
+      "id": "romance-dawn-booster-box-case-wave-1-blue",
+      "set": "OP01",
+      "category": "case",
+      "name": "Romance Dawn - Booster Box Case (Wave 1 - Blue)",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          650853
+        ]
+      },
+      "contentsStatus": "unknown",
+      "contents": {},
+      "sources": [
+        "https://www.tcgplayer.com/product/650853"
+      ],
+      "releaseDate": "2022-12-02"
+    },
+    {
+      "id": "romance-dawn-booster-box-case-wave-2-white",
+      "set": "OP01",
+      "category": "case",
+      "name": "Romance Dawn - Booster Box Case (Wave 2 - White)",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          450087
+        ]
+      },
+      "contentsStatus": "unknown",
+      "contents": {},
+      "sources": [
+        "https://www.tcgplayer.com/product/450087"
+      ],
+      "releaseDate": "2022-12-02"
+    },
+    {
+      "id": "romance-dawn-booster-box-wave-1-blue",
+      "set": "OP01",
+      "category": "booster_box",
+      "name": "Romance Dawn - Booster Box (Wave 1 - Blue)",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          450086
+        ]
+      },
+      "contentsStatus": "unknown",
+      "contents": {},
+      "sources": [
+        "https://www.tcgplayer.com/product/450086"
+      ],
+      "releaseDate": "2022-12-02"
+    },
+    {
+      "id": "romance-dawn-booster-box-wave-2-white",
+      "set": "OP01",
+      "category": "booster_box",
+      "name": "Romance Dawn - Booster Box (Wave 2 - White)",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          557280
+        ]
+      },
+      "contentsStatus": "unknown",
+      "contents": {},
+      "sources": [
+        "https://www.tcgplayer.com/product/557280"
+      ],
+      "releaseDate": "2022-12-02"
+    },
+    {
+      "id": "romance-dawn-booster-pack",
+      "set": "OP01",
+      "category": "booster_pack",
+      "name": "Romance Dawn - Booster Pack",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          450085
+        ]
+      },
+      "contentsStatus": "partial",
+      "contents": {
+        "pool": [
+          {
+            "set": "OP01"
+          }
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/450085"
+      ],
+      "releaseDate": "2022-12-02"
+    },
+    {
+      "id": "romance-dawn-sleeved-booster-pack",
+      "set": "OP01",
+      "category": "sleeved_booster_pack",
+      "name": "Romance Dawn - Sleeved Booster Pack",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          531774
+        ]
+      },
+      "contentsStatus": "partial",
+      "contents": {
+        "pool": [
+          {
+            "set": "OP01"
+          }
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/531774"
+      ],
+      "releaseDate": "2022-12-02"
+    }
+  ]
+}

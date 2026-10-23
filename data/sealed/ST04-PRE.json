@@ -1,0 +1,44 @@
+{
+  "products": [
+    {
+      "id": "super-pre-release-starter-deck-4-animal-kingdom-pirates",
+      "set": "ST04-PRE",
+      "category": "starter_deck",
+      "name": "Super Pre-Release Starter Deck 4: Animal Kingdom Pirates",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          422137
+        ]
+      },
+      "contentsStatus": "unknown",
+      "contents": {},
+      "sources": [
+        "https://www.tcgplayer.com/product/422137"
+      ],
+      "releaseDate": "2022-09-30"
+    },
+    {
+      "id": "super-pre-release-starter-deck-4-animal-kingdom-pirates-display",
+      "set": "ST04-PRE",
+      "category": "display",
+      "name": "Super Pre-Release Starter Deck 4: Animal Kingdom Pirates Display",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          422760
+        ]
+      },
+      "contentsStatus": "partial",
+      "contents": {
+        "sealed": [
+          {
+            "product": "super-pre-release-starter-deck-4-animal-kingdom-pirates"
+          }
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/422760"
+      ],
+      "releaseDate": "2022-09-30"
+    }
+  ]
+}

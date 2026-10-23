@@ -23,7 +23,22 @@
           "rarity": "SR",
           "block": "3",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST20-001.png",
-          "source": "bandai"
+          "cardSet": "-Yellow Charlotte Katakuri- [ST-20]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              581061
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Charlotte Katakuri (ST20-001)",
+            "match": "image-only-candidate",
+            "distance": 2
+          },
+          "artist": "Koushi Rokushiro"
         }
       ]
     },
@@ -50,7 +65,22 @@
           "rarity": "C",
           "block": "3",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST20-002.png",
-          "source": "bandai"
+          "cardSet": "-Yellow Charlotte Katakuri- [ST-20]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              581062
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "Charlotte Cracker",
+            "match": "image-only-candidate",
+            "distance": 0
+          },
+          "artist": "Yamada Rokkaku."
         }
       ]
     },
@@ -77,7 +107,22 @@
           "rarity": "C",
           "block": "3",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST20-003.png",
-          "source": "bandai"
+          "cardSet": "-Yellow Charlotte Katakuri- [ST-20]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              581063
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "Charlotte Brulee",
+            "match": "image-only-candidate",
+            "distance": 2
+          },
+          "artist": "Nekobayashi"
         },
         {
           "id": "ST20-003_p1",
@@ -85,7 +130,28 @@
           "rarity": "C",
           "block": "3",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST20-003_p1.png",
-          "source": "bandai"
+          "cardSet": "-ONE PIECE CARD THE BEST vol.2- [PRB-02]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              656008
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Charlotte Brulee (Pirate Foil)",
+            "match": "image+name",
+            "distance": 3
+          },
+          "promoTypes": [
+            {
+              "type": "pirate_foil",
+              "category": "foil-pattern"
+            }
+          ],
+          "artist": "Nekobayashi"
         },
         {
           "id": "ST20-003_r1",
@@ -93,7 +159,26 @@
           "rarity": "C",
           "block": "3",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST20-003_r1.png",
-          "source": "bandai"
+          "cardSet": "-ONE PIECE CARD THE BEST vol.2- [PRB-02]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              656007
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "Charlotte Brulee (Reprint)",
+            "match": "image+name",
+            "distance": 2
+          },
+          "treatments": [
+            "reprint"
+          ],
+          "artOf": "ST20-003",
+          "artist": "Nekobayashi"
         }
       ]
     },
@@ -120,7 +205,22 @@
           "rarity": "C",
           "block": "3",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST20-004.png",
-          "source": "bandai"
+          "cardSet": "-Yellow Charlotte Katakuri- [ST-20]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              581064
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "Charlotte Pudding (ST20-004)",
+            "match": "image-only-candidate",
+            "distance": 2
+          },
+          "artist": "Koushi Rokushiro"
         }
       ]
     },
@@ -147,7 +247,52 @@
           "rarity": "SR",
           "block": "3",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST20-005.png",
-          "source": "bandai"
+          "cardSet": "-Yellow Charlotte Katakuri- [ST-20]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              581065
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Charlotte Linlin",
+            "match": "image-only-candidate",
+            "distance": 2
+          },
+          "artist": "Misa Matoki"
+        },
+        {
+          "id": "ST20-005~tcg714355",
+          "set": "P",
+          "rarity": "SR",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/714355_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              714355
+            ]
+          },
+          "tcgplayer": {
+            "name": "Charlotte Linlin (4th Anniversary Treasure Campaign Pack)",
+            "match": "minted",
+            "distance": null
+          },
+          "finishes": [
+            "foil"
+          ],
+          "promoTypes": [
+            {
+              "type": "anniversary",
+              "category": "anniversary"
+            },
+            {
+              "type": "retail_product",
+              "category": "retail"
+            }
+          ]
         }
       ]
     }

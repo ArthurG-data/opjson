@@ -23,7 +23,22 @@
           "rarity": "L",
           "block": "3",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST21-001.png",
-          "source": "bandai"
+          "cardSet": "-GEAR5- [ST-21]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              615564
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Monkey.D.Luffy (001)",
+            "match": "image",
+            "distance": 0
+          },
+          "artist": "Hokuyuu"
         },
         {
           "id": "ST21-001_p1",
@@ -31,7 +46,25 @@
           "rarity": "L",
           "block": "3",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST21-001_p1.png",
-          "source": "bandai"
+          "cardSet": "-GEAR5- [ST-21]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              615565
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Monkey.D.Luffy (001) (Parallel)",
+            "match": "image",
+            "distance": 0
+          },
+          "treatments": [
+            "parallel"
+          ],
+          "artist": "Hokuyuu"
         },
         {
           "id": "ST21-001_p2",
@@ -39,7 +72,22 @@
           "rarity": "L",
           "block": "3",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST21-001_p2.png",
-          "source": "bandai"
+          "cardSet": "Learn Together Deck Set",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              656655
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Monkey.D.Luffy - ST21-001 (Luffy Deck)",
+            "match": "image",
+            "distance": 5
+          },
+          "artist": "Bashikou"
         },
         {
           "id": "ST21-001_r1",
@@ -47,7 +95,21 @@
           "rarity": "L",
           "block": "3",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST21-001_r1.png",
-          "source": "bandai"
+          "cardSet": "STARTER DECK -RED Monkey.D.Luffy- [ST-31]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              706313
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Monkey.D.Luffy (ST21-001)",
+            "match": "image-only-candidate",
+            "distance": 3
+          }
         }
       ]
     },
@@ -74,7 +136,22 @@
           "rarity": "C",
           "block": "3",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST21-002.png",
-          "source": "bandai"
+          "cardSet": "-GEAR5- [ST-21]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              615566
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Usopp",
+            "match": "image",
+            "distance": 2
+          },
+          "artist": "Nekobayashi"
         },
         {
           "id": "ST21-002_p1",
@@ -82,7 +159,25 @@
           "rarity": "C",
           "block": "3",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST21-002_p1.png",
-          "source": "bandai"
+          "cardSet": "-GEAR5- [ST-21]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              615567
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Usopp (Parallel)",
+            "match": "image",
+            "distance": 2
+          },
+          "treatments": [
+            "parallel"
+          ],
+          "artist": "Nekobayashi"
         }
       ]
     },
@@ -109,7 +204,22 @@
           "rarity": "C",
           "block": "3",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST21-003.png",
-          "source": "bandai"
+          "cardSet": "-GEAR5- [ST-21]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              615568
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Sanji",
+            "match": "image",
+            "distance": 4
+          },
+          "artist": "Morechand"
         },
         {
           "id": "ST21-003_p1",
@@ -117,7 +227,25 @@
           "rarity": "C",
           "block": "3",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST21-003_p1.png",
-          "source": "bandai"
+          "cardSet": "-GEAR5- [ST-21]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              615569
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Sanji (Parallel)",
+            "match": "image",
+            "distance": 1
+          },
+          "treatments": [
+            "parallel"
+          ],
+          "artist": "Morechand"
         },
         {
           "id": "ST21-003_p2",
@@ -125,7 +253,29 @@
           "rarity": "C",
           "block": "3",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST21-003_p2.png",
-          "source": "bandai"
+          "cardSet": "-ONE PIECE CARD THE BEST vol.2- [PRB-02]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              656000
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Sanji - ST21-003 (Pirate Foil)",
+            "match": "image",
+            "distance": 3
+          },
+          "promoTypes": [
+            {
+              "type": "pirate_foil",
+              "category": "foil-pattern"
+            }
+          ],
+          "artOf": "ST21-003",
+          "artist": "Morechand"
         },
         {
           "id": "ST21-003_p3",
@@ -133,7 +283,28 @@
           "rarity": "C",
           "block": "3",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST21-003_p3.png",
-          "source": "bandai"
+          "cardSet": "Premium Card Collection -Best Selection Vol.6-",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              694886
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Sanji (Premium Card Collection -Best Selection Vol. 6-)",
+            "match": "image",
+            "distance": 3
+          },
+          "promoTypes": [
+            {
+              "type": "retail_product",
+              "category": "retail"
+            }
+          ],
+          "artist": "Morechand"
         },
         {
           "id": "ST21-003_r1",
@@ -141,7 +312,70 @@
           "rarity": "C",
           "block": "3",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST21-003_r1.png",
-          "source": "bandai"
+          "cardSet": "-ONE PIECE CARD THE BEST vol.2- [PRB-02]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              655997
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "Sanji - ST21-003 (Reprint)",
+            "match": "image",
+            "distance": 5
+          },
+          "treatments": [
+            "reprint"
+          ]
+        },
+        {
+          "id": "ST21-003~tcg656657",
+          "set": "LT01",
+          "rarity": "C",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/656657_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              656657
+            ]
+          },
+          "tcgplayer": {
+            "name": "Sanji - ST21-003 (Luffy Deck)",
+            "match": "minted",
+            "distance": null
+          },
+          "finishes": [
+            "nonfoil"
+          ]
+        },
+        {
+          "id": "ST21-003~tcg693117",
+          "set": "P",
+          "rarity": "C",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/693117_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              693117
+            ]
+          },
+          "tcgplayer": {
+            "name": "Sanji (Welcome Pack 2026 Vol.1)",
+            "match": "minted",
+            "distance": null
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "promoTypes": [
+            {
+              "type": "retail_product",
+              "category": "retail"
+            }
+          ]
         }
       ]
     },
@@ -168,7 +402,22 @@
           "rarity": "C",
           "block": "3",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST21-004.png",
-          "source": "bandai"
+          "cardSet": "-GEAR5- [ST-21]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              615570
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Jewelry Bonney",
+            "match": "image",
+            "distance": 0
+          },
+          "artist": "Koushi Rokushiro"
         },
         {
           "id": "ST21-004_p1",
@@ -176,7 +425,25 @@
           "rarity": "C",
           "block": "3",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST21-004_p1.png",
-          "source": "bandai"
+          "cardSet": "-GEAR5- [ST-21]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              615571
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Jewelry Bonney (Parallel)",
+            "match": "image",
+            "distance": 0
+          },
+          "treatments": [
+            "parallel"
+          ],
+          "artist": "Koushi Rokushiro"
         }
       ]
     },
@@ -204,7 +471,22 @@
           "rarity": "C",
           "block": "3",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST21-005.png",
-          "source": "bandai"
+          "cardSet": "-GEAR5- [ST-21]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              615572
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Jinbe",
+            "match": "image",
+            "distance": 3
+          },
+          "artist": "Koushi Rokushiro"
         },
         {
           "id": "ST21-005_p1",
@@ -212,7 +494,25 @@
           "rarity": "C",
           "block": "3",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST21-005_p1.png",
-          "source": "bandai"
+          "cardSet": "-GEAR5- [ST-21]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              615573
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Jinbe (Parallel)",
+            "match": "image",
+            "distance": 3
+          },
+          "treatments": [
+            "parallel"
+          ],
+          "artist": "Koushi Rokushiro"
         }
       ]
     },
@@ -239,7 +539,22 @@
           "rarity": "C",
           "block": "3",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST21-006.png",
-          "source": "bandai"
+          "cardSet": "-GEAR5- [ST-21]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              615574
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Stussy",
+            "match": "image",
+            "distance": 4
+          },
+          "artist": "Morechand"
         },
         {
           "id": "ST21-006_p1",
@@ -247,7 +562,25 @@
           "rarity": "C",
           "block": "3",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST21-006_p1.png",
-          "source": "bandai"
+          "cardSet": "-GEAR5- [ST-21]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              615575
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Stussy (Parallel)",
+            "match": "image",
+            "distance": 2
+          },
+          "treatments": [
+            "parallel"
+          ],
+          "artist": "Morechand"
         }
       ]
     },
@@ -275,7 +608,22 @@
           "rarity": "C",
           "block": "3",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST21-007.png",
-          "source": "bandai"
+          "cardSet": "-GEAR5- [ST-21]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              615576
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Sentomaru",
+            "match": "image",
+            "distance": 0
+          },
+          "artist": "DAI-XT."
         },
         {
           "id": "ST21-007_p1",
@@ -283,7 +631,25 @@
           "rarity": "C",
           "block": "3",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST21-007_p1.png",
-          "source": "bandai"
+          "cardSet": "-GEAR5- [ST-21]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              615577
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Sentomaru (Parallel)",
+            "match": "image",
+            "distance": 3
+          },
+          "treatments": [
+            "parallel"
+          ],
+          "artist": "DAI-XT."
         }
       ]
     },
@@ -311,7 +677,22 @@
           "rarity": "C",
           "block": "3",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST21-008.png",
-          "source": "bandai"
+          "cardSet": "-GEAR5- [ST-21]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              615578
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Tony Tony.Chopper",
+            "match": "image",
+            "distance": 6
+          },
+          "artist": "kito"
         },
         {
           "id": "ST21-008_p1",
@@ -319,7 +700,45 @@
           "rarity": "C",
           "block": "3",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST21-008_p1.png",
-          "source": "bandai"
+          "cardSet": "-GEAR5- [ST-21]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              615579
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Tony Tony.Chopper (Parallel)",
+            "match": "image",
+            "distance": 2
+          },
+          "treatments": [
+            "parallel"
+          ],
+          "artist": "kito"
+        },
+        {
+          "id": "ST21-008~tcg656662",
+          "set": "LT01",
+          "rarity": "C",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/656662_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              656662
+            ]
+          },
+          "tcgplayer": {
+            "name": "Tony Tony.Chopper - ST21-008 (Luffy Deck)",
+            "match": "minted",
+            "distance": null
+          },
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
@@ -346,7 +765,22 @@
           "rarity": "C",
           "block": "3",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST21-009.png",
-          "source": "bandai"
+          "cardSet": "-GEAR5- [ST-21]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              615580
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Nami",
+            "match": "image",
+            "distance": 3
+          },
+          "artist": "BISAI"
         },
         {
           "id": "ST21-009_p1",
@@ -354,7 +788,25 @@
           "rarity": "C",
           "block": "3",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST21-009_p1.png",
-          "source": "bandai"
+          "cardSet": "-GEAR5- [ST-21]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              615581
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Nami (Parallel)",
+            "match": "image",
+            "distance": 2
+          },
+          "treatments": [
+            "parallel"
+          ],
+          "artist": "BISAI"
         }
       ]
     },
@@ -381,7 +833,22 @@
           "rarity": "C",
           "block": "3",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST21-010.png",
-          "source": "bandai"
+          "cardSet": "-GEAR5- [ST-21]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              615582
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Nico Robin",
+            "match": "image",
+            "distance": 2
+          },
+          "artist": "eiji kaneda"
         },
         {
           "id": "ST21-010_p1",
@@ -389,7 +856,45 @@
           "rarity": "C",
           "block": "3",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST21-010_p1.png",
-          "source": "bandai"
+          "cardSet": "-GEAR5- [ST-21]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              615583
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Nico Robin (Parallel)",
+            "match": "image",
+            "distance": 3
+          },
+          "treatments": [
+            "parallel"
+          ],
+          "artist": "eiji kaneda"
+        },
+        {
+          "id": "ST21-010~tcg656659",
+          "set": "LT01",
+          "rarity": "C",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/656659_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              656659
+            ]
+          },
+          "tcgplayer": {
+            "name": "Nico Robin - ST21-010 (Luffy Deck)",
+            "match": "minted",
+            "distance": null
+          },
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
@@ -416,7 +921,22 @@
           "rarity": "C",
           "block": "3",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST21-011.png",
-          "source": "bandai"
+          "cardSet": "-GEAR5- [ST-21]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              615584
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Franky",
+            "match": "image",
+            "distance": 1
+          },
+          "artist": "DAI-XT."
         },
         {
           "id": "ST21-011_p1",
@@ -424,7 +944,51 @@
           "rarity": "C",
           "block": "3",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST21-011_p1.png",
-          "source": "bandai"
+          "cardSet": "-GEAR5- [ST-21]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              615585
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Franky (Parallel)",
+            "match": "image",
+            "distance": 4
+          },
+          "treatments": [
+            "parallel"
+          ],
+          "artist": "DAI-XT."
+        },
+        {
+          "id": "ST21-011~tcg707258",
+          "set": "P",
+          "rarity": "C",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/707258_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              707258
+            ]
+          },
+          "tcgplayer": {
+            "name": "Franky (Round 1 Promo)",
+            "match": "minted",
+            "distance": null
+          },
+          "finishes": [
+            "foil"
+          ],
+          "promoTypes": [
+            {
+              "type": "event_pack",
+              "category": "event"
+            }
+          ]
         }
       ]
     },
@@ -451,7 +1015,22 @@
           "rarity": "C",
           "block": "3",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST21-012.png",
-          "source": "bandai"
+          "cardSet": "-GEAR5- [ST-21]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              615586
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Brook",
+            "match": "image",
+            "distance": 3
+          },
+          "artist": "eiji kaneda"
         },
         {
           "id": "ST21-012_p1",
@@ -459,7 +1038,25 @@
           "rarity": "C",
           "block": "3",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST21-012_p1.png",
-          "source": "bandai"
+          "cardSet": "-GEAR5- [ST-21]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              615587
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Brook (Parallel)",
+            "match": "image",
+            "distance": 2
+          },
+          "treatments": [
+            "parallel"
+          ],
+          "artist": "eiji kaneda"
         }
       ]
     },
@@ -487,7 +1084,22 @@
           "rarity": "C",
           "block": "3",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST21-013.png",
-          "source": "bandai"
+          "cardSet": "-GEAR5- [ST-21]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              615588
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Vegapunk",
+            "match": "image",
+            "distance": 3
+          },
+          "artist": "kankurou"
         },
         {
           "id": "ST21-013_p1",
@@ -495,7 +1107,25 @@
           "rarity": "C",
           "block": "3",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST21-013_p1.png",
-          "source": "bandai"
+          "cardSet": "-GEAR5- [ST-21]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              615589
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Vegapunk (Parallel)",
+            "match": "image",
+            "distance": 2
+          },
+          "treatments": [
+            "parallel"
+          ],
+          "artist": "kankurou"
         }
       ]
     },
@@ -522,7 +1152,22 @@
           "rarity": "SR",
           "block": "3",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST21-014.png",
-          "source": "bandai"
+          "cardSet": "-GEAR5- [ST-21]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              615590
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Monkey.D.Luffy (014)",
+            "match": "image",
+            "distance": 1
+          },
+          "artist": "Hokuyuu"
         },
         {
           "id": "ST21-014_p1",
@@ -530,7 +1175,75 @@
           "rarity": "SR",
           "block": "3",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST21-014_p1.png",
-          "source": "bandai"
+          "cardSet": "-GEAR5- [ST-21]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              615591
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Monkey.D.Luffy (014) (Parallel)",
+            "match": "image",
+            "distance": 1
+          },
+          "treatments": [
+            "parallel"
+          ],
+          "artist": "Hokuyuu"
+        },
+        {
+          "id": "ST21-014~tcg656673",
+          "set": "LT01",
+          "rarity": "SR",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/656673_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              656673
+            ]
+          },
+          "tcgplayer": {
+            "name": "Monkey.D.Luffy - ST21-014 (Luffy Deck)",
+            "match": "minted",
+            "distance": null
+          },
+          "finishes": [
+            "nonfoil"
+          ]
+        },
+        {
+          "id": "ST21-014~tcg661704",
+          "set": "P",
+          "rarity": "SR",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/661704_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              661704
+            ]
+          },
+          "tcgplayer": {
+            "name": "Monkey.D.Luffy - ST21-014 (3rd Anniversary Treasure Campaign Pack)",
+            "match": "minted",
+            "distance": null
+          },
+          "finishes": [
+            "foil"
+          ],
+          "promoTypes": [
+            {
+              "type": "anniversary",
+              "category": "anniversary"
+            },
+            {
+              "type": "retail_product",
+              "category": "retail"
+            }
+          ]
         }
       ]
     },
@@ -557,7 +1270,22 @@
           "rarity": "SR",
           "block": "3",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST21-015.png",
-          "source": "bandai"
+          "cardSet": "-GEAR5- [ST-21]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              615592
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Roronoa Zoro",
+            "match": "image",
+            "distance": 3
+          },
+          "artist": "Yosuke Adachi"
         },
         {
           "id": "ST21-015_p1",
@@ -565,7 +1293,25 @@
           "rarity": "SR",
           "block": "3",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST21-015_p1.png",
-          "source": "bandai"
+          "cardSet": "-GEAR5- [ST-21]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              615593
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Roronoa Zoro (Parallel)",
+            "match": "image",
+            "distance": 4
+          },
+          "treatments": [
+            "parallel"
+          ],
+          "artist": "Yosuke Adachi"
         },
         {
           "id": "ST21-015_p2",
@@ -573,7 +1319,9 @@
           "rarity": "SR",
           "block": "3",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST21-015_p2.png",
-          "source": "bandai"
+          "cardSet": "Championship 25-26 Finals Season 1",
+          "source": "bandai",
+          "artist": "AKIRA EGAWA"
         },
         {
           "id": "ST21-015_p3",
@@ -581,7 +1329,10 @@
           "rarity": "SR",
           "block": "3",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST21-015_p3.png",
-          "source": "bandai"
+          "cardSet": "Championship 25-26 Finals Season 1",
+          "source": "bandai",
+          "artOf": "ST21-015_p2",
+          "artist": "AKIRA EGAWA"
         },
         {
           "id": "ST21-015_p4",
@@ -589,7 +1340,30 @@
           "rarity": "SR",
           "block": "3",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST21-015_p4.png",
-          "source": "bandai"
+          "cardSet": "Championship 25-26 Finals Season 1",
+          "source": "bandai",
+          "artOf": "ST21-015_p2",
+          "artist": "AKIRA EGAWA"
+        },
+        {
+          "id": "ST21-015~tcg656665",
+          "set": "LT01",
+          "rarity": "SR",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/656665_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              656665
+            ]
+          },
+          "tcgplayer": {
+            "name": "Roronoa Zoro - ST21-015 (Luffy Deck)",
+            "match": "minted",
+            "distance": null
+          },
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
@@ -612,7 +1386,21 @@
           "rarity": "C",
           "block": "3",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST21-016.png",
-          "source": "bandai"
+          "cardSet": "-GEAR5- [ST-21]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              615594
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Gum-Gum Dawn Whip",
+            "match": "image-only-candidate",
+            "distance": 5
+          }
         }
       ]
     },
@@ -635,7 +1423,21 @@
           "rarity": "C",
           "block": "3",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST21-017.png",
-          "source": "bandai"
+          "cardSet": "-GEAR5- [ST-21]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              615595
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Gum-Gum Mole Pistol",
+            "match": "image-only-candidate",
+            "distance": 4
+          }
         },
         {
           "id": "ST21-017_p1",
@@ -643,7 +1445,111 @@
           "rarity": "C",
           "block": "3",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST21-017_p1.png",
-          "source": "bandai"
+          "cardSet": "Premium Card Collection -Best Selection Vol.5-",
+          "source": "bandai",
+          "artist": "Bashikou"
+        },
+        {
+          "id": "ST21-017~tcg656677",
+          "set": "LT01",
+          "rarity": "C",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/656677_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              656677
+            ]
+          },
+          "tcgplayer": {
+            "name": "Gum-Gum Mole Pistol (Luffy Deck)",
+            "match": "minted",
+            "distance": null
+          },
+          "finishes": [
+            "nonfoil"
+          ]
+        },
+        {
+          "id": "ST21-017~tcg657484",
+          "set": "P",
+          "rarity": "C",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/657484_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              657484
+            ]
+          },
+          "tcgplayer": {
+            "name": "Gum-Gum Mole Pistol (Premium Card Collection -Best Selection Vol. 5-)",
+            "match": "minted",
+            "distance": null
+          },
+          "finishes": [
+            "foil"
+          ],
+          "promoTypes": [
+            {
+              "type": "retail_product",
+              "category": "retail"
+            }
+          ]
+        },
+        {
+          "id": "ST21-017~tcg712851",
+          "set": "P",
+          "rarity": "C",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/712851_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              712851
+            ]
+          },
+          "tcgplayer": {
+            "name": "Gum-Gum Mole Pistol (Beginners Deck Party [ST-31] - [ST-36])",
+            "match": "minted",
+            "distance": null
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "promoTypes": [
+            {
+              "type": "event_pack",
+              "category": "event"
+            }
+          ]
+        },
+        {
+          "id": "ST21-017~tcg712852",
+          "set": "P",
+          "rarity": "C",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/712852_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              712852
+            ]
+          },
+          "tcgplayer": {
+            "name": "Gum-Gum Mole Pistol (Beginners Deck Party [ST-31] - [ST-36]) (Winner)",
+            "match": "minted",
+            "distance": null
+          },
+          "finishes": [
+            "foil"
+          ],
+          "promoTypes": [
+            {
+              "type": "event_pack",
+              "category": "event"
+            },
+            {
+              "type": "placement",
+              "category": "placement"
+            }
+          ]
         }
       ]
     }

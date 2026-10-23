@@ -24,7 +24,21 @@
           "rarity": "L",
           "block": "1",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST05-001.png",
-          "source": "bandai"
+          "cardSet": "ONE PIECE FILM edition [ST-05]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              477316
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Shanks",
+            "match": "image-only-candidate",
+            "distance": 2
+          }
         }
       ]
     },
@@ -51,7 +65,21 @@
           "rarity": "C",
           "block": "1",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST05-002.png",
-          "source": "bandai"
+          "cardSet": "ONE PIECE FILM edition [ST-05]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              479844
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "Ain",
+            "match": "image-only-candidate",
+            "distance": 1
+          }
         },
         {
           "id": "ST05-002_p1",
@@ -59,7 +87,54 @@
           "rarity": "C",
           "block": "1",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST05-002_p1.png",
-          "source": "bandai"
+          "cardSet": "Premium Card Collection -Best Selection Vol.3-",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              627320
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Ain (Premium Card Collection -Best Selection Vol. 3-)",
+            "match": "image",
+            "distance": 19
+          },
+          "promoTypes": [
+            {
+              "type": "retail_product",
+              "category": "retail"
+            }
+          ],
+          "artist": "Hashimoto Q"
+        },
+        {
+          "id": "ST05-002~tcg583755",
+          "set": "P",
+          "rarity": "C",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/583755_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              583755
+            ]
+          },
+          "tcgplayer": {
+            "name": "Ain (Judge Pack Vol. 4)",
+            "match": "minted",
+            "distance": null
+          },
+          "finishes": [
+            "foil"
+          ],
+          "promoTypes": [
+            {
+              "type": "judgegift",
+              "category": "program"
+            }
+          ]
         }
       ]
     },
@@ -86,7 +161,21 @@
           "rarity": "C",
           "block": "1",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST05-003.png",
-          "source": "bandai"
+          "cardSet": "ONE PIECE FILM edition [ST-05]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              479845
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "Ann",
+            "match": "image-only-candidate",
+            "distance": 4
+          }
         }
       ]
     },
@@ -113,7 +202,47 @@
           "rarity": "SR",
           "block": "1",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST05-004.png",
-          "source": "bandai"
+          "cardSet": "ONE PIECE FILM edition [ST-05]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              477317
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Uta",
+            "match": "image-only-candidate",
+            "distance": 2
+          }
+        },
+        {
+          "id": "ST05-004~tcg564140",
+          "set": "P",
+          "rarity": "SR",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/564140_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              564140
+            ]
+          },
+          "tcgplayer": {
+            "name": "Uta - ST05-004 (Premium Card Collection -Uta-)",
+            "match": "minted",
+            "distance": null
+          },
+          "finishes": [
+            "foil"
+          ],
+          "promoTypes": [
+            {
+              "type": "retail_product",
+              "category": "retail"
+            }
+          ]
         }
       ]
     },
@@ -141,7 +270,21 @@
           "rarity": "C",
           "block": "1",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST05-005.png",
-          "source": "bandai"
+          "cardSet": "ONE PIECE FILM edition [ST-05]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              477318
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "Carina",
+            "match": "image-only-candidate",
+            "distance": 4
+          }
         }
       ]
     },
@@ -168,7 +311,21 @@
           "rarity": "C",
           "block": "1",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST05-006.png",
-          "source": "bandai"
+          "cardSet": "ONE PIECE FILM edition [ST-05]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              477320
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "Gild Tesoro",
+            "match": "image-only-candidate",
+            "distance": 0
+          }
         }
       ]
     },
@@ -195,7 +352,21 @@
           "rarity": "C",
           "block": "1",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST05-007.png",
-          "source": "bandai"
+          "cardSet": "ONE PIECE FILM edition [ST-05]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              479846
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "Gordon",
+            "match": "image-only-candidate",
+            "distance": 3
+          }
         }
       ]
     },
@@ -223,7 +394,51 @@
           "rarity": "C",
           "block": "1",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST05-008.png",
-          "source": "bandai"
+          "cardSet": "ONE PIECE FILM edition [ST-05]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              477321
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "Shiki",
+            "match": "image-only-candidate",
+            "distance": 3
+          }
+        },
+        {
+          "id": "ST05-008~tcg510728",
+          "set": "P",
+          "rarity": "P",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/510728_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              510728
+            ]
+          },
+          "tcgplayer": {
+            "name": "Shiki (Store Championship Participation Pack Vol. 2)",
+            "match": "minted",
+            "distance": null
+          },
+          "finishes": [
+            "foil"
+          ],
+          "promoTypes": [
+            {
+              "type": "championship",
+              "category": "championship"
+            },
+            {
+              "type": "event_pack",
+              "category": "event"
+            }
+          ]
         }
       ]
     },
@@ -252,7 +467,21 @@
           "rarity": "C",
           "block": "1",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST05-009.png",
-          "source": "bandai"
+          "cardSet": "ONE PIECE FILM edition [ST-05]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              479847
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "Scarlet",
+            "match": "image-only-candidate",
+            "distance": 4
+          }
         }
       ]
     },
@@ -279,7 +508,21 @@
           "rarity": "C",
           "block": "1",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST05-010.png",
-          "source": "bandai"
+          "cardSet": "ONE PIECE FILM edition [ST-05]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              477323
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "Zephyr",
+            "match": "image-only-candidate",
+            "distance": 3
+          }
         }
       ]
     },
@@ -306,7 +549,21 @@
           "rarity": "SR",
           "block": "1",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST05-011.png",
-          "source": "bandai"
+          "cardSet": "ONE PIECE FILM edition [ST-05]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              477324
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Douglas Bullet",
+            "match": "image-only-candidate",
+            "distance": 5
+          }
         }
       ]
     },
@@ -334,7 +591,21 @@
           "rarity": "C",
           "block": "1",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST05-012.png",
-          "source": "bandai"
+          "cardSet": "ONE PIECE FILM edition [ST-05]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              479848
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "Baccarat",
+            "match": "image-only-candidate",
+            "distance": 1
+          }
         }
       ]
     },
@@ -362,7 +633,21 @@
           "rarity": "C",
           "block": "1",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST05-013.png",
-          "source": "bandai"
+          "cardSet": "ONE PIECE FILM edition [ST-05]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              479849
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "Bins",
+            "match": "image-only-candidate",
+            "distance": 2
+          }
         }
       ]
     },
@@ -389,7 +674,21 @@
           "rarity": "C",
           "block": "1",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST05-014.png",
-          "source": "bandai"
+          "cardSet": "ONE PIECE FILM edition [ST-05]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              477325
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "Buena Festa",
+            "match": "image-only-candidate",
+            "distance": 6
+          }
         },
         {
           "id": "ST05-014_p1",
@@ -397,7 +696,28 @@
           "rarity": "C",
           "block": "1",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST05-014_p1.png",
-          "source": "bandai"
+          "cardSet": "Premium Card Collection -Best Selection-",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              546675
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Buena Festa (Premium Card Collection -Best Selection Vol. 1-)",
+            "match": "image",
+            "distance": 22
+          },
+          "promoTypes": [
+            {
+              "type": "retail_product",
+              "category": "retail"
+            }
+          ],
+          "artist": "ASAKI KURODA"
         }
       ]
     },
@@ -426,7 +746,21 @@
           "rarity": "C",
           "block": "1",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST05-015.png",
-          "source": "bandai"
+          "cardSet": "ONE PIECE FILM edition [ST-05]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              479850
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "Dr. Indigo",
+            "match": "image-only-candidate",
+            "distance": 3
+          }
         }
       ]
     },
@@ -449,7 +783,21 @@
           "rarity": "C",
           "block": "1",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST05-016.png",
-          "source": "bandai"
+          "cardSet": "ONE PIECE FILM edition [ST-05]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              479851
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "Lion's Threat Imperial Earth Bind",
+            "match": "image-only-candidate",
+            "distance": 3
+          }
         }
       ]
     },
@@ -472,7 +820,21 @@
           "rarity": "C",
           "block": "1",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST05-017.png",
-          "source": "bandai"
+          "cardSet": "ONE PIECE FILM edition [ST-05]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              477326
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "Union Armada",
+            "match": "image-only-candidate",
+            "distance": 10
+          }
         }
       ]
     }

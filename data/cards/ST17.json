@@ -24,7 +24,22 @@
           "rarity": "C",
           "block": "3",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST17-001.png",
-          "source": "bandai"
+          "cardSet": "-Blue Donquixote Doflamingo- [ST-17]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              581016
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "Crocodile",
+            "match": "image-only-candidate",
+            "distance": 1
+          },
+          "artist": "Morechand"
         }
       ]
     },
@@ -52,7 +67,22 @@
           "rarity": "SR",
           "block": "3",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST17-002.png",
-          "source": "bandai"
+          "cardSet": "-Blue Donquixote Doflamingo- [ST-17]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              581017
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Trafalgar Law (ST17-002)",
+            "match": "image-only-candidate",
+            "distance": 2
+          },
+          "artist": "Yuu Shimotsuki"
         },
         {
           "id": "ST17-002_p1",
@@ -60,7 +90,25 @@
           "rarity": "SR",
           "block": "3",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST17-002_p1.png",
-          "source": "bandai"
+          "cardSet": "-ONE PIECE CARD THE BEST vol.2- [PRB-02]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              653914
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Trafalgar Law - ST17-002 (Alternate Art)",
+            "match": "image",
+            "distance": 2
+          },
+          "treatments": [
+            "alternate_art"
+          ],
+          "artist": "Morechand"
         },
         {
           "id": "ST17-002_r1",
@@ -68,7 +116,26 @@
           "rarity": "SR",
           "block": "3",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST17-002_r1.png",
-          "source": "bandai"
+          "cardSet": "-ONE PIECE CARD THE BEST vol.2- [PRB-02]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              656045
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Trafalgar Law - ST17-002 (Reprint)",
+            "match": "image",
+            "distance": 2
+          },
+          "treatments": [
+            "reprint"
+          ],
+          "artOf": "ST17-002",
+          "artist": "Yuu Shimotsuki"
         }
       ]
     },
@@ -96,7 +163,22 @@
           "rarity": "C",
           "block": "3",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST17-003.png",
-          "source": "bandai"
+          "cardSet": "-Blue Donquixote Doflamingo- [ST-17]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              581018
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "Buggy",
+            "match": "image-only-candidate",
+            "distance": 4
+          },
+          "artist": "shosuke"
         },
         {
           "id": "ST17-003_p1",
@@ -104,7 +186,32 @@
           "rarity": "C",
           "block": "3",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST17-003_p1.png",
-          "source": "bandai"
+          "cardSet": "CS 25-26 Top Player Pack",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              649677
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Buggy (CS 25-26 Top Player Pack)",
+            "match": "image",
+            "distance": 4
+          },
+          "promoTypes": [
+            {
+              "type": "championship",
+              "category": "championship"
+            },
+            {
+              "type": "placement",
+              "category": "placement"
+            }
+          ],
+          "artist": "touge369"
         },
         {
           "id": "ST17-003_p2",
@@ -112,7 +219,30 @@
           "rarity": "C",
           "block": "3",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST17-003_p2.png",
-          "source": "bandai"
+          "cardSet": "CS 25-26 Finalist Card Set 1",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              649661
+            ]
+          },
+          "tcgplayer": {
+            "name": "Buggy (CS 25-26 Finalist Card Set 1)",
+            "match": "image+cardset",
+            "distance": 3
+          },
+          "promoTypes": [
+            {
+              "type": "championship",
+              "category": "championship"
+            },
+            {
+              "type": "placement",
+              "category": "placement"
+            }
+          ],
+          "artOf": "ST17-003_p1",
+          "artist": "shosuke"
         },
         {
           "id": "ST17-003_p3",
@@ -120,7 +250,28 @@
           "rarity": "C",
           "block": "3",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST17-003_p3.png",
-          "source": "bandai"
+          "cardSet": "-ONE PIECE CARD THE BEST vol.2- [PRB-02]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              656043
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Buggy - ST17-003 (Pirate Foil)",
+            "match": "image+name",
+            "distance": 4
+          },
+          "promoTypes": [
+            {
+              "type": "pirate_foil",
+              "category": "foil-pattern"
+            }
+          ],
+          "artist": "SHINRA AGENCY Co. Ltd."
         },
         {
           "id": "ST17-003_p4",
@@ -128,7 +279,27 @@
           "rarity": "C",
           "block": "3",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST17-003_p4.png",
-          "source": "bandai"
+          "cardSet": "Seven Warlords of the Sea Binder Set",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              648105
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Buggy (Seven Warlords of the Sea Binder Set)",
+            "match": "image",
+            "distance": 18
+          },
+          "promoTypes": [
+            {
+              "type": "retail_product",
+              "category": "retail"
+            }
+          ]
         },
         {
           "id": "ST17-003_r1",
@@ -136,7 +307,52 @@
           "rarity": "C",
           "block": "3",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST17-003_r1.png",
-          "source": "bandai"
+          "cardSet": "-ONE PIECE CARD THE BEST vol.2- [PRB-02]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              656041
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "Buggy - ST17-003 (Reprint)",
+            "match": "image+name",
+            "distance": 5
+          },
+          "treatments": [
+            "reprint"
+          ],
+          "artOf": "ST17-003_p3",
+          "artist": "SHINRA AGENCY Co. Ltd."
+        },
+        {
+          "id": "ST17-003~tcg619210",
+          "set": "P",
+          "rarity": "C",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/619210_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              619210
+            ]
+          },
+          "tcgplayer": {
+            "name": "Buggy (Judge Pack Vol. 5)",
+            "match": "minted",
+            "distance": null
+          },
+          "finishes": [
+            "foil"
+          ],
+          "promoTypes": [
+            {
+              "type": "judgegift",
+              "category": "program"
+            }
+          ]
         }
       ]
     },
@@ -163,7 +379,78 @@
           "rarity": "SR",
           "block": "3",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST17-004.png",
-          "source": "bandai"
+          "cardSet": "-Blue Donquixote Doflamingo- [ST-17]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              581019
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Boa Hancock",
+            "match": "image-only-candidate",
+            "distance": 2
+          },
+          "artist": "Misa Matoki"
+        },
+        {
+          "id": "ST17-004~tcg623069",
+          "set": "P",
+          "rarity": "SR",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/623069_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              623069
+            ]
+          },
+          "tcgplayer": {
+            "name": "Boa Hancock (Illustration Box Vol.1) (Textured)",
+            "match": "minted",
+            "distance": null
+          },
+          "finishes": [
+            "foil"
+          ],
+          "promoTypes": [
+            {
+              "type": "retail_product",
+              "category": "retail"
+            },
+            {
+              "type": "textured",
+              "category": "foil-pattern"
+            }
+          ]
+        },
+        {
+          "id": "ST17-004~tcg712035",
+          "set": "P",
+          "rarity": "SR",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/712035_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              712035
+            ]
+          },
+          "tcgplayer": {
+            "name": "Boa Hancock (Dash Pack 2025)",
+            "match": "minted",
+            "distance": null
+          },
+          "finishes": [
+            "foil"
+          ],
+          "promoTypes": [
+            {
+              "type": "retail_product",
+              "category": "retail"
+            }
+          ]
         }
       ]
     },
@@ -191,7 +478,22 @@
           "rarity": "C",
           "block": "3",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST17-005.png",
-          "source": "bandai"
+          "cardSet": "-Blue Donquixote Doflamingo- [ST-17]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              581020
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "Marshall.D.Teach",
+            "match": "image-only-candidate",
+            "distance": 2
+          },
+          "artist": "Hayaken-sarena"
         },
         {
           "id": "ST17-005_p1",
@@ -199,7 +501,28 @@
           "rarity": "C",
           "block": "3",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST17-005_p1.png",
-          "source": "bandai"
+          "cardSet": "-ONE PIECE CARD THE BEST vol.2- [PRB-02]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              656040
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Marshall.D.Teach - ST17-005 (Pirate Foil)",
+            "match": "image+name",
+            "distance": 3
+          },
+          "promoTypes": [
+            {
+              "type": "pirate_foil",
+              "category": "foil-pattern"
+            }
+          ],
+          "artist": "Hayaken-sarena"
         },
         {
           "id": "ST17-005_p2",
@@ -207,7 +530,28 @@
           "rarity": "C",
           "block": "3",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST17-005_p2.png",
-          "source": "bandai"
+          "cardSet": "Seven Warlords of the Sea Binder Set",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              648107
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Marshall.D.Teach (Seven Warlords of the Sea Binder Set)",
+            "match": "image",
+            "distance": 15
+          },
+          "promoTypes": [
+            {
+              "type": "retail_product",
+              "category": "retail"
+            }
+          ],
+          "artist": "Anderson"
         },
         {
           "id": "ST17-005_r1",
@@ -215,7 +559,29 @@
           "rarity": "C",
           "block": "3",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST17-005_r1.png",
-          "source": "bandai"
+          "cardSet": "-ONE PIECE CARD THE BEST vol.2- [PRB-02]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              668204
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Marshall.D.Teach (Judge Pack Vol. 7)",
+            "match": "image",
+            "distance": 10
+          },
+          "promoTypes": [
+            {
+              "type": "judgegift",
+              "category": "program"
+            }
+          ],
+          "artOf": "ST17-005",
+          "artist": "Hayaken-sarena"
         }
       ]
     }

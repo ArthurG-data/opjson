@@ -1,0 +1,90 @@
+{
+  "products": [
+    {
+      "id": "carrying-on-his-will-booster-box",
+      "set": "OP13",
+      "category": "booster_box",
+      "name": "Carrying On His Will Booster Box",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          628352
+        ]
+      },
+      "contentsStatus": "unknown",
+      "contents": {},
+      "sources": [
+        "https://www.tcgplayer.com/product/628352"
+      ],
+      "releaseDate": "2025-11-07"
+    },
+    {
+      "id": "carrying-on-his-will-booster-box-case",
+      "set": "OP13",
+      "category": "case",
+      "name": "Carrying On His Will Booster Box Case",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          628353
+        ]
+      },
+      "contentsStatus": "partial",
+      "contents": {
+        "sealed": [
+          {
+            "product": "carrying-on-his-will-booster-box"
+          }
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/628353"
+      ],
+      "releaseDate": "2025-11-07"
+    },
+    {
+      "id": "carrying-on-his-will-booster-pack",
+      "set": "OP13",
+      "category": "booster_pack",
+      "name": "Carrying On His Will Booster Pack",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          628351
+        ]
+      },
+      "contentsStatus": "partial",
+      "contents": {
+        "pool": [
+          {
+            "set": "OP13"
+          }
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/628351"
+      ],
+      "releaseDate": "2025-11-07"
+    },
+    {
+      "id": "carrying-on-his-will-sleeved-booster-pack",
+      "set": "OP13",
+      "category": "sleeved_booster_pack",
+      "name": "Carrying On His Will Sleeved Booster Pack",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          652643
+        ]
+      },
+      "contentsStatus": "partial",
+      "contents": {
+        "pool": [
+          {
+            "set": "OP13"
+          }
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/652643"
+      ],
+      "releaseDate": "2025-11-07"
+    }
+  ]
+}

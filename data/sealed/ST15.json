@@ -1,0 +1,132 @@
+{
+  "products": [
+    {
+      "id": "starter-deck-15-red-edward-newgate",
+      "set": "ST15",
+      "category": "starter_deck",
+      "name": "Starter Deck 15: RED Edward.Newgate",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          545033
+        ]
+      },
+      "contentsStatus": "partial",
+      "contents": {
+        "cards": [
+          {
+            "printing": "OP02-001_p2"
+          },
+          {
+            "printing": "OP02-008_r1"
+          },
+          {
+            "printing": "OP02-018_r1"
+          },
+          {
+            "printing": "OP02-019_r1"
+          },
+          {
+            "printing": "OP02-023_r1"
+          },
+          {
+            "printing": "OP03-003_r1"
+          },
+          {
+            "printing": "OP03-006_r1"
+          },
+          {
+            "printing": "OP03-007_r1"
+          },
+          {
+            "printing": "OP03-009_r1"
+          },
+          {
+            "printing": "OP03-010_r1"
+          },
+          {
+            "printing": "ST15-001"
+          },
+          {
+            "printing": "ST15-002"
+          },
+          {
+            "printing": "ST15-003"
+          },
+          {
+            "printing": "ST15-004"
+          },
+          {
+            "printing": "ST15-005"
+          }
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/545033"
+      ],
+      "releaseDate": "2024-10-25"
+    },
+    {
+      "id": "starter-deck-15-red-edward-newgate-display",
+      "set": "ST15",
+      "category": "display",
+      "name": "Starter Deck 15: RED Edward.Newgate Display",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          545034
+        ]
+      },
+      "contentsStatus": "partial",
+      "contents": {
+        "sealed": [
+          {
+            "product": "starter-deck-15-red-edward-newgate"
+          }
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/545034"
+      ],
+      "releaseDate": "2024-10-25"
+    },
+    {
+      "id": "starter-deck-15-red-edward-newgate-display-case",
+      "set": "ST15",
+      "category": "case",
+      "name": "Starter Deck 15: RED Edward.Newgate Display Case",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          545035
+        ]
+      },
+      "contentsStatus": "partial",
+      "contents": {
+        "sealed": [
+          {
+            "product": "starter-deck-15-red-edward-newgate"
+          }
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/545035"
+      ],
+      "releaseDate": "2024-10-25"
+    },
+    {
+      "id": "starter-decks-15-20-set-of-6",
+      "set": "ST15",
+      "category": "display",
+      "name": "Starter Decks 15-20 [Set of 6]",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          594381
+        ]
+      },
+      "contentsStatus": "unknown",
+      "contents": {},
+      "sources": [
+        "https://www.tcgplayer.com/product/594381"
+      ],
+      "releaseDate": "2024-10-25"
+    }
+  ]
+}

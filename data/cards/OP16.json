@@ -22,7 +22,22 @@
           "rarity": "L",
           "block": "5",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP16-001.png",
-          "source": "bandai"
+          "cardSet": "-THE TIME OF BATTLE- [OP-16]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              693417
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "Portgas.D.Ace (001)",
+            "match": "image",
+            "distance": 6
+          },
+          "artist": "Tamerlan Bekmurzaye"
         },
         {
           "id": "OP16-001_p1",
@@ -30,7 +45,25 @@
           "rarity": "L",
           "block": "5",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP16-001_p1.png",
-          "source": "bandai"
+          "cardSet": "-THE TIME OF BATTLE- [OP-16]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              693418
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Portgas.D.Ace (001) (Alternate Art)",
+            "match": "image",
+            "distance": 5
+          },
+          "treatments": [
+            "alternate_art"
+          ],
+          "artist": "otton"
         },
         {
           "id": "OP16-001_p2",
@@ -38,7 +71,48 @@
           "rarity": "L",
           "block": "5",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP16-001_p2.png",
-          "source": "bandai"
+          "cardSet": "Set Sail Deck Set [SD-01]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              716428
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Portgas.D.Ace (Ace Deck)",
+            "match": "image",
+            "distance": 12
+          },
+          "artist": "Akanegumo"
+        },
+        {
+          "id": "OP16-001~tcg717035",
+          "set": "P",
+          "rarity": "L",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/717035_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              717035
+            ]
+          },
+          "tcgplayer": {
+            "name": "Portgas.D.Ace (Official Playmat - Flame-Flame Fruit Coliseum Edition)",
+            "match": "minted",
+            "distance": null
+          },
+          "finishes": [
+            "foil"
+          ],
+          "promoTypes": [
+            {
+              "type": "retail_product",
+              "category": "retail"
+            }
+          ]
         }
       ]
     },
@@ -66,7 +140,68 @@
           "rarity": "UC",
           "block": "5",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP16-002.png",
-          "source": "bandai"
+          "cardSet": "-THE TIME OF BATTLE- [OP-16]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              695987
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "Izo",
+            "match": "image-only-candidate",
+            "distance": 3
+          },
+          "artist": "phima"
+        },
+        {
+          "id": "OP16-002~tcg696771",
+          "set": "OP16-RE",
+          "rarity": "UC",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/696771_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              696771
+            ]
+          },
+          "tcgplayer": {
+            "name": "Izo",
+            "match": "minted",
+            "distance": null
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "promoTypes": [
+            {
+              "type": "release",
+              "category": "event"
+            }
+          ]
+        },
+        {
+          "id": "OP16-002~tcg716666",
+          "set": "SD01",
+          "rarity": "UC",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/716666_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              716666
+            ]
+          },
+          "tcgplayer": {
+            "name": "Izo (Ace Deck)",
+            "match": "minted",
+            "distance": null
+          },
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
@@ -93,7 +228,22 @@
           "rarity": "SR",
           "block": "5",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP16-003.png",
-          "source": "bandai"
+          "cardSet": "-THE TIME OF BATTLE- [OP-16]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              693824
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Edward.Newgate",
+            "match": "image",
+            "distance": 3
+          },
+          "artist": "Hachi Takashi"
         },
         {
           "id": "OP16-003_p1",
@@ -101,7 +251,45 @@
           "rarity": "SR",
           "block": "5",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP16-003_p1.png",
-          "source": "bandai"
+          "cardSet": "-THE TIME OF BATTLE- [OP-16]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              693822
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Edward.Newgate (Alternate Art)",
+            "match": "image",
+            "distance": 3
+          },
+          "treatments": [
+            "alternate_art"
+          ],
+          "artist": "Bashikou"
+        },
+        {
+          "id": "OP16-003~tcg716725",
+          "set": "SD01",
+          "rarity": "SR",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/716725_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              716725
+            ]
+          },
+          "tcgplayer": {
+            "name": "Edward.Newgate (OP16-003) (Ace Deck)",
+            "match": "minted",
+            "distance": null
+          },
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
@@ -128,7 +316,68 @@
           "rarity": "C",
           "block": "5",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP16-004.png",
-          "source": "bandai"
+          "cardSet": "-THE TIME OF BATTLE- [OP-16]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              695988
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "Curiel",
+            "match": "image-only-candidate",
+            "distance": 3
+          },
+          "artist": "tasaka"
+        },
+        {
+          "id": "OP16-004~tcg696713",
+          "set": "OP16-RE",
+          "rarity": "C",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/696713_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              696713
+            ]
+          },
+          "tcgplayer": {
+            "name": "Curiel",
+            "match": "minted",
+            "distance": null
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "promoTypes": [
+            {
+              "type": "release",
+              "category": "event"
+            }
+          ]
+        },
+        {
+          "id": "OP16-004~tcg716742",
+          "set": "SD01",
+          "rarity": "C",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/716742_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              716742
+            ]
+          },
+          "tcgplayer": {
+            "name": "Curiel (Ace Deck)",
+            "match": "minted",
+            "distance": null
+          },
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
@@ -155,7 +404,68 @@
           "rarity": "UC",
           "block": "5",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP16-005.png",
-          "source": "bandai"
+          "cardSet": "-THE TIME OF BATTLE- [OP-16]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              695989
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "Thatch",
+            "match": "image-only-candidate",
+            "distance": 4
+          },
+          "artist": "Hatori Kyoka"
+        },
+        {
+          "id": "OP16-005~tcg696772",
+          "set": "OP16-RE",
+          "rarity": "UC",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/696772_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              696772
+            ]
+          },
+          "tcgplayer": {
+            "name": "Thatch",
+            "match": "minted",
+            "distance": null
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "promoTypes": [
+            {
+              "type": "release",
+              "category": "event"
+            }
+          ]
+        },
+        {
+          "id": "OP16-005~tcg716743",
+          "set": "SD01",
+          "rarity": "UC",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/716743_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              716743
+            ]
+          },
+          "tcgplayer": {
+            "name": "Thatch (Ace Deck)",
+            "match": "minted",
+            "distance": null
+          },
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
@@ -183,7 +493,48 @@
           "rarity": "C",
           "block": "5",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP16-006.png",
-          "source": "bandai"
+          "cardSet": "-THE TIME OF BATTLE- [OP-16]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              695990
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "Shanks",
+            "match": "image-only-candidate",
+            "distance": 2
+          },
+          "artist": "Naruse Uroko"
+        },
+        {
+          "id": "OP16-006~tcg696714",
+          "set": "OP16-RE",
+          "rarity": "C",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/696714_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              696714
+            ]
+          },
+          "tcgplayer": {
+            "name": "Shanks",
+            "match": "minted",
+            "distance": null
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "promoTypes": [
+            {
+              "type": "release",
+              "category": "event"
+            }
+          ]
         }
       ]
     },
@@ -209,7 +560,68 @@
           "rarity": "UC",
           "block": "5",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP16-007.png",
-          "source": "bandai"
+          "cardSet": "-THE TIME OF BATTLE- [OP-16]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              695991
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "Jozu",
+            "match": "image-only-candidate",
+            "distance": 4
+          },
+          "artist": "Tanaka Kenichi"
+        },
+        {
+          "id": "OP16-007~tcg696773",
+          "set": "OP16-RE",
+          "rarity": "UC",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/696773_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              696773
+            ]
+          },
+          "tcgplayer": {
+            "name": "Jozu",
+            "match": "minted",
+            "distance": null
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "promoTypes": [
+            {
+              "type": "release",
+              "category": "event"
+            }
+          ]
+        },
+        {
+          "id": "OP16-007~tcg721563",
+          "set": "SD01",
+          "rarity": "UC",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/721563_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              721563
+            ]
+          },
+          "tcgplayer": {
+            "name": "Jozu (Ace Deck)",
+            "match": "minted",
+            "distance": null
+          },
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
@@ -235,7 +647,48 @@
           "rarity": "C",
           "block": "5",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP16-008.png",
-          "source": "bandai"
+          "cardSet": "-THE TIME OF BATTLE- [OP-16]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              695992
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "Squard",
+            "match": "image-only-candidate",
+            "distance": 4
+          },
+          "artist": "Aidle Co. Ltd."
+        },
+        {
+          "id": "OP16-008~tcg696715",
+          "set": "OP16-RE",
+          "rarity": "C",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/696715_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              696715
+            ]
+          },
+          "tcgplayer": {
+            "name": "Squard",
+            "match": "minted",
+            "distance": null
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "promoTypes": [
+            {
+              "type": "release",
+              "category": "event"
+            }
+          ]
         }
       ]
     },
@@ -262,7 +715,48 @@
           "rarity": "C",
           "block": "5",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP16-009.png",
-          "source": "bandai"
+          "cardSet": "-THE TIME OF BATTLE- [OP-16]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              695993
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "Speed Jil",
+            "match": "image-only-candidate",
+            "distance": 6
+          },
+          "artist": "Suzume Muraichi"
+        },
+        {
+          "id": "OP16-009~tcg696716",
+          "set": "OP16-RE",
+          "rarity": "C",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/696716_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              696716
+            ]
+          },
+          "tcgplayer": {
+            "name": "Speed Jil",
+            "match": "minted",
+            "distance": null
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "promoTypes": [
+            {
+              "type": "release",
+              "category": "event"
+            }
+          ]
         }
       ]
     },
@@ -290,7 +784,68 @@
           "rarity": "UC",
           "block": "5",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP16-010.png",
-          "source": "bandai"
+          "cardSet": "-THE TIME OF BATTLE- [OP-16]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              695994
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "Namule",
+            "match": "image-only-candidate",
+            "distance": 5
+          },
+          "artist": "COGA"
+        },
+        {
+          "id": "OP16-010~tcg696774",
+          "set": "OP16-RE",
+          "rarity": "UC",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/696774_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              696774
+            ]
+          },
+          "tcgplayer": {
+            "name": "Namule",
+            "match": "minted",
+            "distance": null
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "promoTypes": [
+            {
+              "type": "release",
+              "category": "event"
+            }
+          ]
+        },
+        {
+          "id": "OP16-010~tcg716741",
+          "set": "SD01",
+          "rarity": "UC",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/716741_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              716741
+            ]
+          },
+          "tcgplayer": {
+            "name": "Namule (Ace Deck)",
+            "match": "minted",
+            "distance": null
+          },
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
@@ -316,7 +871,22 @@
           "rarity": "R",
           "block": "5",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP16-011.png",
-          "source": "bandai"
+          "cardSet": "-THE TIME OF BATTLE- [OP-16]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              695995
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Vista",
+            "match": "image",
+            "distance": 2
+          },
+          "artist": "Moopic"
         },
         {
           "id": "OP16-011_p1",
@@ -324,7 +894,42 @@
           "rarity": "TR",
           "block": "5",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP16-011_p1.png",
-          "source": "bandai"
+          "cardSet": "-THE TIME OF BATTLE- [OP-16]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              695996
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Vista (TR)",
+            "match": "image",
+            "distance": 3
+          },
+          "artist": "tessy"
+        },
+        {
+          "id": "OP16-011~tcg721565",
+          "set": "SD01",
+          "rarity": "R",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/721565_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              721565
+            ]
+          },
+          "tcgplayer": {
+            "name": "Vista (Ace Deck)",
+            "match": "minted",
+            "distance": null
+          },
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
@@ -351,7 +956,22 @@
           "rarity": "R",
           "block": "5",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP16-012.png",
-          "source": "bandai"
+          "cardSet": "-THE TIME OF BATTLE- [OP-16]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              695997
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Benn.Beckman",
+            "match": "image-only-candidate",
+            "distance": 2
+          },
+          "artist": "Katsuo Tadano"
         }
       ]
     },
@@ -377,7 +997,48 @@
           "rarity": "C",
           "block": "5",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP16-013.png",
-          "source": "bandai"
+          "cardSet": "-THE TIME OF BATTLE- [OP-16]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              695998
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "McGuy",
+            "match": "image-only-candidate",
+            "distance": 4
+          },
+          "artist": "SHINRA AGENCY Co. Ltd."
+        },
+        {
+          "id": "OP16-013~tcg696717",
+          "set": "OP16-RE",
+          "rarity": "C",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/696717_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              696717
+            ]
+          },
+          "tcgplayer": {
+            "name": "McGuy",
+            "match": "minted",
+            "distance": null
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "promoTypes": [
+            {
+              "type": "release",
+              "category": "event"
+            }
+          ]
         }
       ]
     },
@@ -403,7 +1064,22 @@
           "rarity": "R",
           "block": "5",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP16-014.png",
-          "source": "bandai"
+          "cardSet": "-THE TIME OF BATTLE- [OP-16]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              693827
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Marco",
+            "match": "image",
+            "distance": 6
+          },
+          "artist": "Oden"
         },
         {
           "id": "OP16-014_p1",
@@ -411,7 +1087,45 @@
           "rarity": "R",
           "block": "5",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP16-014_p1.png",
-          "source": "bandai"
+          "cardSet": "-THE TIME OF BATTLE- [OP-16]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              693826
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Marco (Alternate Art)",
+            "match": "image",
+            "distance": 6
+          },
+          "treatments": [
+            "alternate_art"
+          ],
+          "artist": "Ryuda"
+        },
+        {
+          "id": "OP16-014~tcg716668",
+          "set": "SD01",
+          "rarity": "R",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/716668_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              716668
+            ]
+          },
+          "tcgplayer": {
+            "name": "Marco (Ace Deck)",
+            "match": "minted",
+            "distance": null
+          },
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
@@ -438,7 +1152,22 @@
           "rarity": "SR",
           "block": "5",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP16-015.png",
-          "source": "bandai"
+          "cardSet": "-THE TIME OF BATTLE- [OP-16]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              693419
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Monkey.D.Luffy",
+            "match": "image",
+            "distance": 2
+          },
+          "artist": "Akanegumo"
         },
         {
           "id": "OP16-015_p1",
@@ -446,7 +1175,45 @@
           "rarity": "SR",
           "block": "5",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP16-015_p1.png",
-          "source": "bandai"
+          "cardSet": "-THE TIME OF BATTLE- [OP-16]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              693420
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Monkey.D.Luffy (Alternate Art)",
+            "match": "image",
+            "distance": 5
+          },
+          "treatments": [
+            "alternate_art"
+          ],
+          "artist": "Bashikou"
+        },
+        {
+          "id": "OP16-015~tcg716431",
+          "set": "SD01",
+          "rarity": "SR",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/716431_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              716431
+            ]
+          },
+          "tcgplayer": {
+            "name": "Monkey.D.Luffy (OP16-015) (Ace Deck)",
+            "match": "minted",
+            "distance": null
+          },
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
@@ -473,7 +1240,68 @@
           "rarity": "C",
           "block": "5",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP16-016.png",
-          "source": "bandai"
+          "cardSet": "-THE TIME OF BATTLE- [OP-16]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              695999
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "Ramba",
+            "match": "image-only-candidate",
+            "distance": 5
+          },
+          "artist": "SHINRA AGENCY Co. Ltd."
+        },
+        {
+          "id": "OP16-016~tcg696718",
+          "set": "OP16-RE",
+          "rarity": "C",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/696718_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              696718
+            ]
+          },
+          "tcgplayer": {
+            "name": "Ramba",
+            "match": "minted",
+            "distance": null
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "promoTypes": [
+            {
+              "type": "release",
+              "category": "event"
+            }
+          ]
+        },
+        {
+          "id": "OP16-016~tcg716667",
+          "set": "SD01",
+          "rarity": "C",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/716667_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              716667
+            ]
+          },
+          "tcgplayer": {
+            "name": "Ramba (Ace Deck)",
+            "match": "minted",
+            "distance": null
+          },
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
@@ -501,7 +1329,42 @@
           "rarity": "R",
           "block": "5",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP16-017.png",
-          "source": "bandai"
+          "cardSet": "-THE TIME OF BATTLE- [OP-16]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              696000
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "LittleOars Jr.",
+            "match": "image-only-candidate",
+            "distance": 4
+          },
+          "artist": "Tadaichi Nakama"
+        },
+        {
+          "id": "OP16-017~tcg721564",
+          "set": "SD01",
+          "rarity": "R",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/721564_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              721564
+            ]
+          },
+          "tcgplayer": {
+            "name": "LittleOars Jr. (Ace Deck)",
+            "match": "minted",
+            "distance": null
+          },
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
@@ -528,7 +1391,48 @@
           "rarity": "C",
           "block": "5",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP16-018.png",
-          "source": "bandai"
+          "cardSet": "-THE TIME OF BATTLE- [OP-16]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              696001
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "Rockstar",
+            "match": "image-only-candidate",
+            "distance": 3
+          },
+          "artist": "Aidle Co. Ltd."
+        },
+        {
+          "id": "OP16-018~tcg696719",
+          "set": "OP16-RE",
+          "rarity": "C",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/696719_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              696719
+            ]
+          },
+          "tcgplayer": {
+            "name": "Rockstar",
+            "match": "minted",
+            "distance": null
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "promoTypes": [
+            {
+              "type": "release",
+              "category": "event"
+            }
+          ]
         }
       ]
     },
@@ -550,7 +1454,47 @@
           "rarity": "C",
           "block": "5",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP16-019.png",
-          "source": "bandai"
+          "cardSet": "-THE TIME OF BATTLE- [OP-16]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              696002
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "Let's Show 'Em What We're Made Of!!",
+            "match": "image-only-candidate",
+            "distance": 6
+          }
+        },
+        {
+          "id": "OP16-019~tcg696720",
+          "set": "OP16-RE",
+          "rarity": "C",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/696720_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              696720
+            ]
+          },
+          "tcgplayer": {
+            "name": "Let's Show 'Em What We're Made Of!!",
+            "match": "minted",
+            "distance": null
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "promoTypes": [
+            {
+              "type": "release",
+              "category": "event"
+            }
+          ]
         }
       ]
     },
@@ -572,7 +1516,47 @@
           "rarity": "UC",
           "block": "5",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP16-020.png",
-          "source": "bandai"
+          "cardSet": "-THE TIME OF BATTLE- [OP-16]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              696003
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "If You're Coming with Me...Kiss Your Lives Goodbye!!",
+            "match": "image-only-candidate",
+            "distance": 6
+          }
+        },
+        {
+          "id": "OP16-020~tcg696775",
+          "set": "OP16-RE",
+          "rarity": "UC",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/696775_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              696775
+            ]
+          },
+          "tcgplayer": {
+            "name": "If You're Coming with Me...Kiss Your Lives Goodbye!!",
+            "match": "minted",
+            "distance": null
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "promoTypes": [
+            {
+              "type": "release",
+              "category": "event"
+            }
+          ]
         }
       ]
     },
@@ -594,7 +1578,21 @@
           "rarity": "R",
           "block": "5",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP16-021.png",
-          "source": "bandai"
+          "cardSet": "-THE TIME OF BATTLE- [OP-16]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              696004
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Moby Dick",
+            "match": "image",
+            "distance": 5
+          }
         },
         {
           "id": "OP16-021_p1",
@@ -602,7 +1600,45 @@
           "rarity": "R",
           "block": "5",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP16-021_p1.png",
-          "source": "bandai"
+          "cardSet": "-THE TIME OF BATTLE- [OP-16]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              696005
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Moby Dick (Alternate Art)",
+            "match": "image",
+            "distance": 3
+          },
+          "treatments": [
+            "alternate_art"
+          ],
+          "artist": "KISUKE"
+        },
+        {
+          "id": "OP16-021~tcg716430",
+          "set": "SD01",
+          "rarity": "R",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/716430_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              716430
+            ]
+          },
+          "tcgplayer": {
+            "name": "Moby Dick (Ace Deck)",
+            "match": "minted",
+            "distance": null
+          },
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
@@ -630,7 +1666,22 @@
           "rarity": "L",
           "block": "5",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP16-022.png",
-          "source": "bandai"
+          "cardSet": "-THE TIME OF BATTLE- [OP-16]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              696006
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "Monkey.D.Luffy (022)",
+            "match": "image",
+            "distance": 3
+          },
+          "artist": "Paji"
         },
         {
           "id": "OP16-022_p1",
@@ -638,7 +1689,25 @@
           "rarity": "L",
           "block": "5",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP16-022_p1.png",
-          "source": "bandai"
+          "cardSet": "-THE TIME OF BATTLE- [OP-16]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              696007
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Monkey.D.Luffy (022) (Alternate Art)",
+            "match": "image",
+            "distance": 4
+          },
+          "treatments": [
+            "alternate_art"
+          ],
+          "artist": "otton"
         }
       ]
     },
@@ -667,7 +1736,48 @@
           "rarity": "C",
           "block": "5",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP16-023.png",
-          "source": "bandai"
+          "cardSet": "-THE TIME OF BATTLE- [OP-16]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              696008
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "Arlong",
+            "match": "image-only-candidate",
+            "distance": 3
+          },
+          "artist": "KISUKE"
+        },
+        {
+          "id": "OP16-023~tcg696721",
+          "set": "OP16-RE",
+          "rarity": "C",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/696721_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              696721
+            ]
+          },
+          "tcgplayer": {
+            "name": "Arlong",
+            "match": "minted",
+            "distance": null
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "promoTypes": [
+            {
+              "type": "release",
+              "category": "event"
+            }
+          ]
         }
       ]
     },
@@ -695,7 +1805,48 @@
           "rarity": "UC",
           "block": "5",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP16-024.png",
-          "source": "bandai"
+          "cardSet": "-THE TIME OF BATTLE- [OP-16]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              696009
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "Inazuma",
+            "match": "image-only-candidate",
+            "distance": 4
+          },
+          "artist": "Aidle Co. Ltd."
+        },
+        {
+          "id": "OP16-024~tcg696776",
+          "set": "OP16-RE",
+          "rarity": "UC",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/696776_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              696776
+            ]
+          },
+          "tcgplayer": {
+            "name": "Inazuma",
+            "match": "minted",
+            "distance": null
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "promoTypes": [
+            {
+              "type": "release",
+              "category": "event"
+            }
+          ]
         }
       ]
     },
@@ -722,7 +1873,48 @@
           "rarity": "UC",
           "block": "5",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP16-025.png",
-          "source": "bandai"
+          "cardSet": "-THE TIME OF BATTLE- [OP-16]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              696010
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "Bunkov",
+            "match": "image-only-candidate",
+            "distance": 5
+          },
+          "artist": "Nakamaru"
+        },
+        {
+          "id": "OP16-025~tcg696777",
+          "set": "OP16-RE",
+          "rarity": "UC",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/696777_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              696777
+            ]
+          },
+          "tcgplayer": {
+            "name": "Bunkov",
+            "match": "minted",
+            "distance": null
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "promoTypes": [
+            {
+              "type": "release",
+              "category": "event"
+            }
+          ]
         }
       ]
     },
@@ -750,7 +1942,22 @@
           "rarity": "SR",
           "block": "5",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP16-026.png",
-          "source": "bandai"
+          "cardSet": "-THE TIME OF BATTLE- [OP-16]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              696011
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Emporio.Ivankov (026)",
+            "match": "image",
+            "distance": 3
+          },
+          "artist": "Studio Vigor Co. Ltd"
         },
         {
           "id": "OP16-026_p1",
@@ -758,7 +1965,25 @@
           "rarity": "SR",
           "block": "5",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP16-026_p1.png",
-          "source": "bandai"
+          "cardSet": "-THE TIME OF BATTLE- [OP-16]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              696012
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Emporio.Ivankov (026) (Alternate Art)",
+            "match": "image",
+            "distance": 4
+          },
+          "treatments": [
+            "alternate_art"
+          ],
+          "artist": "Sunohara"
         }
       ]
     },
@@ -787,7 +2012,22 @@
           "rarity": "R",
           "block": "5",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP16-027.png",
-          "source": "bandai"
+          "cardSet": "-THE TIME OF BATTLE- [OP-16]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              696013
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Jinbe (027)",
+            "match": "image-only-candidate",
+            "distance": 6
+          },
+          "artist": "akagi"
         }
       ]
     },
@@ -814,7 +2054,48 @@
           "rarity": "C",
           "block": "5",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP16-028.png",
-          "source": "bandai"
+          "cardSet": "-THE TIME OF BATTLE- [OP-16]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              696014
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "Smoker",
+            "match": "image-only-candidate",
+            "distance": 2
+          },
+          "artist": "SHINRA AGENCY Co. Ltd."
+        },
+        {
+          "id": "OP16-028~tcg696722",
+          "set": "OP16-RE",
+          "rarity": "C",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/696722_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              696722
+            ]
+          },
+          "tcgplayer": {
+            "name": "Smoker",
+            "match": "minted",
+            "distance": null
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "promoTypes": [
+            {
+              "type": "release",
+              "category": "event"
+            }
+          ]
         }
       ]
     },
@@ -841,7 +2122,48 @@
           "rarity": "UC",
           "block": "5",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP16-029.png",
-          "source": "bandai"
+          "cardSet": "-THE TIME OF BATTLE- [OP-16]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              696015
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "Antlerkov",
+            "match": "image-only-candidate",
+            "distance": 2
+          },
+          "artist": "Nakamaru"
+        },
+        {
+          "id": "OP16-029~tcg696778",
+          "set": "OP16-RE",
+          "rarity": "UC",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/696778_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              696778
+            ]
+          },
+          "tcgplayer": {
+            "name": "Antlerkov",
+            "match": "minted",
+            "distance": null
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "promoTypes": [
+            {
+              "type": "release",
+              "category": "event"
+            }
+          ]
         }
       ]
     },
@@ -868,7 +2190,22 @@
           "rarity": "R",
           "block": "5",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP16-030.png",
-          "source": "bandai"
+          "cardSet": "-THE TIME OF BATTLE- [OP-16]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              696016
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Trafalgar Law (030)",
+            "match": "image-only-candidate",
+            "distance": 3
+          },
+          "artist": "kudo sakiko"
         }
       ]
     },
@@ -896,7 +2233,48 @@
           "rarity": "UC",
           "block": "5",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP16-031.png",
-          "source": "bandai"
+          "cardSet": "-THE TIME OF BATTLE- [OP-16]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              696017
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "Buggy (031)",
+            "match": "image-only-candidate",
+            "distance": 5
+          },
+          "artist": "NIJIMAARC"
+        },
+        {
+          "id": "OP16-031~tcg696779",
+          "set": "OP16-RE",
+          "rarity": "UC",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/696779_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              696779
+            ]
+          },
+          "tcgplayer": {
+            "name": "Buggy (031)",
+            "match": "minted",
+            "distance": null
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "promoTypes": [
+            {
+              "type": "release",
+              "category": "event"
+            }
+          ]
         }
       ]
     },
@@ -924,7 +2302,22 @@
           "rarity": "SR",
           "block": "5",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP16-032.png",
-          "source": "bandai"
+          "cardSet": "-THE TIME OF BATTLE- [OP-16]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              695308
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Boa Hancock",
+            "match": "image",
+            "distance": 4
+          },
+          "artist": "SHIE NANAHARA"
         },
         {
           "id": "OP16-032_p1",
@@ -932,7 +2325,51 @@
           "rarity": "SR",
           "block": "5",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP16-032_p1.png",
-          "source": "bandai"
+          "cardSet": "-THE TIME OF BATTLE- [OP-16]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              695309
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Boa Hancock (Alternate Art)",
+            "match": "image",
+            "distance": 4
+          },
+          "treatments": [
+            "alternate_art"
+          ],
+          "artist": "lack"
+        },
+        {
+          "id": "OP16-032~tcg721093",
+          "set": "P",
+          "rarity": "SR",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/721093_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              721093
+            ]
+          },
+          "tcgplayer": {
+            "name": "Boa Hancock (Treasure Cup August 2026)",
+            "match": "minted",
+            "distance": null
+          },
+          "finishes": [
+            "foil"
+          ],
+          "promoTypes": [
+            {
+              "type": "treasure_cup",
+              "category": "championship"
+            }
+          ]
         }
       ]
     },
@@ -960,7 +2397,48 @@
           "rarity": "C",
           "block": "5",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP16-033.png",
-          "source": "bandai"
+          "cardSet": "-THE TIME OF BATTLE- [OP-16]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              696018
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "Morley",
+            "match": "image-only-candidate",
+            "distance": 4
+          },
+          "artist": "Akihiro MIYANO"
+        },
+        {
+          "id": "OP16-033~tcg696723",
+          "set": "OP16-RE",
+          "rarity": "C",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/696723_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              696723
+            ]
+          },
+          "tcgplayer": {
+            "name": "Morley",
+            "match": "minted",
+            "distance": null
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "promoTypes": [
+            {
+              "type": "release",
+              "category": "event"
+            }
+          ]
         }
       ]
     },
@@ -987,7 +2465,22 @@
           "rarity": "R",
           "block": "5",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP16-034.png",
-          "source": "bandai"
+          "cardSet": "-THE TIME OF BATTLE- [OP-16]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              696019
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Monkey.D.Luffy (034)",
+            "match": "image",
+            "distance": 8
+          },
+          "artist": "TAPIOCA"
         },
         {
           "id": "OP16-034_p1",
@@ -995,7 +2488,25 @@
           "rarity": "R",
           "block": "5",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP16-034_p1.png",
-          "source": "bandai"
+          "cardSet": "-THE TIME OF BATTLE- [OP-16]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              696020
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Monkey.D.Luffy (034) (Alternate Art)",
+            "match": "image",
+            "distance": 6
+          },
+          "treatments": [
+            "alternate_art"
+          ],
+          "artist": "Hachi Takashi"
         }
       ]
     },
@@ -1021,7 +2532,48 @@
           "rarity": "C",
           "block": "5",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP16-035.png",
-          "source": "bandai"
+          "cardSet": "-THE TIME OF BATTLE- [OP-16]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              696021
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "Roronoa Zoro (035)",
+            "match": "image-only-candidate",
+            "distance": 3
+          },
+          "artist": "Naruse Uroko"
+        },
+        {
+          "id": "OP16-035~tcg696724",
+          "set": "OP16-RE",
+          "rarity": "C",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/696724_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              696724
+            ]
+          },
+          "tcgplayer": {
+            "name": "Roronoa Zoro (035)",
+            "match": "minted",
+            "distance": null
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "promoTypes": [
+            {
+              "type": "release",
+              "category": "event"
+            }
+          ]
         }
       ]
     },
@@ -1049,7 +2601,48 @@
           "rarity": "C",
           "block": "5",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP16-036.png",
-          "source": "bandai"
+          "cardSet": "-THE TIME OF BATTLE- [OP-16]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              696022
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "Mr.2.Bon.Kurei(Bentham) (036)",
+            "match": "image-only-candidate",
+            "distance": 4
+          },
+          "artist": "S-KINOKO"
+        },
+        {
+          "id": "OP16-036~tcg696725",
+          "set": "OP16-RE",
+          "rarity": "C",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/696725_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              696725
+            ]
+          },
+          "tcgplayer": {
+            "name": "Mr.2.Bon.Kurei(Bentham) (036)",
+            "match": "minted",
+            "distance": null
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "promoTypes": [
+            {
+              "type": "release",
+              "category": "event"
+            }
+          ]
         }
       ]
     },
@@ -1077,7 +2670,48 @@
           "rarity": "C",
           "block": "5",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP16-037.png",
-          "source": "bandai"
+          "cardSet": "-THE TIME OF BATTLE- [OP-16]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              696023
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "Mr.3(Galdino) (037)",
+            "match": "image-only-candidate",
+            "distance": 4
+          },
+          "artist": "S-KINOKO"
+        },
+        {
+          "id": "OP16-037~tcg696726",
+          "set": "OP16-RE",
+          "rarity": "C",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/696726_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              696726
+            ]
+          },
+          "tcgplayer": {
+            "name": "Mr.3(Galdino) (037)",
+            "match": "minted",
+            "distance": null
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "promoTypes": [
+            {
+              "type": "release",
+              "category": "event"
+            }
+          ]
         }
       ]
     },
@@ -1100,7 +2734,21 @@
           "rarity": "R",
           "block": "5",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP16-038.png",
-          "source": "bandai"
+          "cardSet": "-THE TIME OF BATTLE- [OP-16]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              696024
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Let's Go!! To the Navy Headquarters..",
+            "match": "image-only-candidate",
+            "distance": 3
+          }
         }
       ]
     },
@@ -1123,7 +2771,47 @@
           "rarity": "C",
           "block": "5",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP16-039.png",
-          "source": "bandai"
+          "cardSet": "-THE TIME OF BATTLE- [OP-16]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              696025
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "Gum-Gum Twin Jet Pistol",
+            "match": "image-only-candidate",
+            "distance": 6
+          }
+        },
+        {
+          "id": "OP16-039~tcg696727",
+          "set": "OP16-RE",
+          "rarity": "C",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/696727_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              696727
+            ]
+          },
+          "tcgplayer": {
+            "name": "Gum-Gum Twin Jet Pistol",
+            "match": "minted",
+            "distance": null
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "promoTypes": [
+            {
+              "type": "release",
+              "category": "event"
+            }
+          ]
         }
       ]
     },
@@ -1146,7 +2834,47 @@
           "rarity": "UC",
           "block": "5",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP16-040.png",
-          "source": "bandai"
+          "cardSet": "-THE TIME OF BATTLE- [OP-16]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              696026
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "Gum-Gum Hammer Rifle",
+            "match": "image-only-candidate",
+            "distance": 6
+          }
+        },
+        {
+          "id": "OP16-040~tcg696780",
+          "set": "OP16-RE",
+          "rarity": "UC",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/696780_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              696780
+            ]
+          },
+          "tcgplayer": {
+            "name": "Gum-Gum Hammer Rifle",
+            "match": "minted",
+            "distance": null
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "promoTypes": [
+            {
+              "type": "release",
+              "category": "event"
+            }
+          ]
         }
       ]
     },
@@ -1173,7 +2901,22 @@
           "rarity": "L",
           "block": "5",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP16-041.png",
-          "source": "bandai"
+          "cardSet": "-THE TIME OF BATTLE- [OP-16]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              696027
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "Buggy (041)",
+            "match": "image",
+            "distance": 5
+          },
+          "artist": "Yukari Shoji"
         },
         {
           "id": "OP16-041_p1",
@@ -1181,7 +2924,25 @@
           "rarity": "L",
           "block": "5",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP16-041_p1.png",
-          "source": "bandai"
+          "cardSet": "-THE TIME OF BATTLE- [OP-16]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              696028
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Buggy (041) (Alternate Art)",
+            "match": "image",
+            "distance": 6
+          },
+          "treatments": [
+            "alternate_art"
+          ],
+          "artist": "Matsumoto Akira"
         }
       ]
     },
@@ -1208,7 +2969,22 @@
           "rarity": "R",
           "block": "5",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP16-042.png",
-          "source": "bandai"
+          "cardSet": "-THE TIME OF BATTLE- [OP-16]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              696029
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Prisoner of Impel Down",
+            "match": "image-only-candidate",
+            "distance": 8
+          },
+          "artist": "kankurou"
         }
       ]
     },
@@ -1236,7 +3012,48 @@
           "rarity": "UC",
           "block": "5",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP16-043.png",
-          "source": "bandai"
+          "cardSet": "-THE TIME OF BATTLE- [OP-16]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              696030
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "Usopp",
+            "match": "image-only-candidate",
+            "distance": 2
+          },
+          "artist": "kankurou"
+        },
+        {
+          "id": "OP16-043~tcg696781",
+          "set": "OP16-RE",
+          "rarity": "UC",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/696781_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              696781
+            ]
+          },
+          "tcgplayer": {
+            "name": "Usopp",
+            "match": "minted",
+            "distance": null
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "promoTypes": [
+            {
+              "type": "release",
+              "category": "event"
+            }
+          ]
         }
       ]
     },
@@ -1264,7 +3081,48 @@
           "rarity": "C",
           "block": "5",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP16-044.png",
-          "source": "bandai"
+          "cardSet": "-THE TIME OF BATTLE- [OP-16]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              696031
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "Emporio.Ivankov (044)",
+            "match": "image-only-candidate",
+            "distance": 5
+          },
+          "artist": "Yasushi Yamaguchi"
+        },
+        {
+          "id": "OP16-044~tcg696728",
+          "set": "OP16-RE",
+          "rarity": "C",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/696728_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              696728
+            ]
+          },
+          "tcgplayer": {
+            "name": "Emporio.Ivankov (044)",
+            "match": "minted",
+            "distance": null
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "promoTypes": [
+            {
+              "type": "release",
+              "category": "event"
+            }
+          ]
         }
       ]
     },
@@ -1291,7 +3149,48 @@
           "rarity": "UC",
           "block": "5",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP16-045.png",
-          "source": "bandai"
+          "cardSet": "-THE TIME OF BATTLE- [OP-16]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              696032
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "Crocodile",
+            "match": "image-only-candidate",
+            "distance": 3
+          },
+          "artist": "Koushi Rokushiro"
+        },
+        {
+          "id": "OP16-045~tcg696783",
+          "set": "OP16-RE",
+          "rarity": "UC",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/696783_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              696783
+            ]
+          },
+          "tcgplayer": {
+            "name": "Crocodile",
+            "match": "minted",
+            "distance": null
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "promoTypes": [
+            {
+              "type": "release",
+              "category": "event"
+            }
+          ]
         }
       ]
     },
@@ -1320,7 +3219,48 @@
           "rarity": "C",
           "block": "5",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP16-046.png",
-          "source": "bandai"
+          "cardSet": "-THE TIME OF BATTLE- [OP-16]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              696033
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "Jinbe (046)",
+            "match": "image-only-candidate",
+            "distance": 6
+          },
+          "artist": "shosuke"
+        },
+        {
+          "id": "OP16-046~tcg696729",
+          "set": "OP16-RE",
+          "rarity": "C",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/696729_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              696729
+            ]
+          },
+          "tcgplayer": {
+            "name": "Jinbe (046)",
+            "match": "minted",
+            "distance": null
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "promoTypes": [
+            {
+              "type": "release",
+              "category": "event"
+            }
+          ]
         }
       ]
     },
@@ -1347,7 +3287,48 @@
           "rarity": "C",
           "block": "5",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP16-047.png",
-          "source": "bandai"
+          "cardSet": "-THE TIME OF BATTLE- [OP-16]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              696034
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "Donquixote Doflamingo (047)",
+            "match": "image-only-candidate",
+            "distance": 8
+          },
+          "artist": "Kaito Shibano"
+        },
+        {
+          "id": "OP16-047~tcg696730",
+          "set": "OP16-RE",
+          "rarity": "C",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/696730_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              696730
+            ]
+          },
+          "tcgplayer": {
+            "name": "Donquixote Doflamingo (047)",
+            "match": "minted",
+            "distance": null
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "promoTypes": [
+            {
+              "type": "release",
+              "category": "event"
+            }
+          ]
         }
       ]
     },
@@ -1375,7 +3356,22 @@
           "rarity": "SR",
           "block": "5",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP16-048.png",
-          "source": "bandai"
+          "cardSet": "-THE TIME OF BATTLE- [OP-16]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              694644
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Buggy (048)",
+            "match": "image",
+            "distance": 6
+          },
+          "artist": "Yuu Shimotsuki"
         },
         {
           "id": "OP16-048_p1",
@@ -1383,7 +3379,25 @@
           "rarity": "SR",
           "block": "5",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP16-048_p1.png",
-          "source": "bandai"
+          "cardSet": "-THE TIME OF BATTLE- [OP-16]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              694645
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Buggy (048) (Alternate Art)",
+            "match": "image",
+            "distance": 2
+          },
+          "treatments": [
+            "alternate_art"
+          ],
+          "artist": "DAI-XT."
         }
       ]
     },
@@ -1410,7 +3424,48 @@
           "rarity": "C",
           "block": "5",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP16-049.png",
-          "source": "bandai"
+          "cardSet": "-THE TIME OF BATTLE- [OP-16]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              696035
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "Portgas.D.Ace (049)",
+            "match": "image-only-candidate",
+            "distance": 4
+          },
+          "artist": "Misa Matoki"
+        },
+        {
+          "id": "OP16-049~tcg696731",
+          "set": "OP16-RE",
+          "rarity": "C",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/696731_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              696731
+            ]
+          },
+          "tcgplayer": {
+            "name": "Portgas.D.Ace (049)",
+            "match": "minted",
+            "distance": null
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "promoTypes": [
+            {
+              "type": "release",
+              "category": "event"
+            }
+          ]
         }
       ]
     },
@@ -1437,7 +3492,48 @@
           "rarity": "UC",
           "block": "5",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP16-050.png",
-          "source": "bandai"
+          "cardSet": "-THE TIME OF BATTLE- [OP-16]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              696036
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "Miss Olive",
+            "match": "image-only-candidate",
+            "distance": 7
+          },
+          "artist": "kou tasake"
+        },
+        {
+          "id": "OP16-050~tcg696784",
+          "set": "OP16-RE",
+          "rarity": "UC",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/696784_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              696784
+            ]
+          },
+          "tcgplayer": {
+            "name": "Miss Olive",
+            "match": "minted",
+            "distance": null
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "promoTypes": [
+            {
+              "type": "release",
+              "category": "event"
+            }
+          ]
         }
       ]
     },
@@ -1465,7 +3561,48 @@
           "rarity": "C",
           "block": "5",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP16-051.png",
-          "source": "bandai"
+          "cardSet": "-THE TIME OF BATTLE- [OP-16]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              696037
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "Mohji & Cabaji",
+            "match": "image-only-candidate",
+            "distance": 5
+          },
+          "artist": "HISASHI HUJIWARA"
+        },
+        {
+          "id": "OP16-051~tcg696732",
+          "set": "OP16-RE",
+          "rarity": "C",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/696732_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              696732
+            ]
+          },
+          "tcgplayer": {
+            "name": "Mohji & Cabaji",
+            "match": "minted",
+            "distance": null
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "promoTypes": [
+            {
+              "type": "release",
+              "category": "event"
+            }
+          ]
         }
       ]
     },
@@ -1493,7 +3630,48 @@
           "rarity": "UC",
           "block": "5",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP16-052.png",
-          "source": "bandai"
+          "cardSet": "-THE TIME OF BATTLE- [OP-16]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              696038
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "Monkey.D.Luffy (052)",
+            "match": "image-only-candidate",
+            "distance": 4
+          },
+          "artist": "HISASHI HUJIWARA"
+        },
+        {
+          "id": "OP16-052~tcg696785",
+          "set": "OP16-RE",
+          "rarity": "UC",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/696785_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              696785
+            ]
+          },
+          "tcgplayer": {
+            "name": "Monkey.D.Luffy (052)",
+            "match": "minted",
+            "distance": null
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "promoTypes": [
+            {
+              "type": "release",
+              "category": "event"
+            }
+          ]
         }
       ]
     },
@@ -1521,7 +3699,48 @@
           "rarity": "C",
           "block": "5",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP16-053.png",
-          "source": "bandai"
+          "cardSet": "-THE TIME OF BATTLE- [OP-16]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              696039
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "Roronoa Zoro (053)",
+            "match": "image-only-candidate",
+            "distance": 6
+          },
+          "artist": "Morechand"
+        },
+        {
+          "id": "OP16-053~tcg696733",
+          "set": "OP16-RE",
+          "rarity": "C",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/696733_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              696733
+            ]
+          },
+          "tcgplayer": {
+            "name": "Roronoa Zoro (053)",
+            "match": "minted",
+            "distance": null
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "promoTypes": [
+            {
+              "type": "release",
+              "category": "event"
+            }
+          ]
         }
       ]
     },
@@ -1549,7 +3768,22 @@
           "rarity": "R",
           "block": "5",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP16-054.png",
-          "source": "bandai"
+          "cardSet": "-THE TIME OF BATTLE- [OP-16]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              696040
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Mr.1(Daz.Bonez)",
+            "match": "image-only-candidate",
+            "distance": 8
+          },
+          "artist": "Tadaichi Nakama"
         }
       ]
     },
@@ -1576,7 +3810,22 @@
           "rarity": "R",
           "block": "5",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP16-055.png",
-          "source": "bandai"
+          "cardSet": "-THE TIME OF BATTLE- [OP-16]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              696041
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Mr.2.Bon.Kurei(Bentham) (055)",
+            "match": "image",
+            "distance": 6
+          },
+          "artist": "HISASHI HUJIWARA"
         },
         {
           "id": "OP16-055_p1",
@@ -1584,7 +3833,25 @@
           "rarity": "R",
           "block": "5",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP16-055_p1.png",
-          "source": "bandai"
+          "cardSet": "-THE TIME OF BATTLE- [OP-16]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              696042
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Mr.2.Bon.Kurei(Bentham) (055) (Alternate Art)",
+            "match": "image",
+            "distance": 2
+          },
+          "treatments": [
+            "alternate_art"
+          ],
+          "artist": "Morechand"
         }
       ]
     },
@@ -1612,7 +3879,22 @@
           "rarity": "SR",
           "block": "5",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP16-056.png",
-          "source": "bandai"
+          "cardSet": "-THE TIME OF BATTLE- [OP-16]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              696043
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Mr.3(Galdino) (056)",
+            "match": "image",
+            "distance": 2
+          },
+          "artist": "touge369"
         },
         {
           "id": "OP16-056_p1",
@@ -1620,7 +3902,25 @@
           "rarity": "SR",
           "block": "5",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP16-056_p1.png",
-          "source": "bandai"
+          "cardSet": "-THE TIME OF BATTLE- [OP-16]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              696044
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Mr.3(Galdino) (056) (Alternate Art)",
+            "match": "image",
+            "distance": 4
+          },
+          "treatments": [
+            "alternate_art"
+          ],
+          "artist": "DAI-XT."
         }
       ]
     },
@@ -1642,7 +3942,47 @@
           "rarity": "C",
           "block": "5",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP16-057.png",
-          "source": "bandai"
+          "cardSet": "-THE TIME OF BATTLE- [OP-16]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              696045
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "Captain Buggy's Our Savior!!",
+            "match": "image-only-candidate",
+            "distance": 11
+          }
+        },
+        {
+          "id": "OP16-057~tcg696734",
+          "set": "OP16-RE",
+          "rarity": "C",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/696734_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              696734
+            ]
+          },
+          "tcgplayer": {
+            "name": "Captain Buggy's Our Savior!!",
+            "match": "minted",
+            "distance": null
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "promoTypes": [
+            {
+              "type": "release",
+              "category": "event"
+            }
+          ]
         }
       ]
     },
@@ -1664,7 +4004,21 @@
           "rarity": "R",
           "block": "5",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP16-058.png",
-          "source": "bandai"
+          "cardSet": "-THE TIME OF BATTLE- [OP-16]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              696046
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "The Prisoners Are Rioting!!",
+            "match": "image-only-candidate",
+            "distance": 8
+          }
         }
       ]
     },
@@ -1687,7 +4041,47 @@
           "rarity": "UC",
           "block": "5",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP16-059.png",
-          "source": "bandai"
+          "cardSet": "-THE TIME OF BATTLE- [OP-16]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              696047
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "We'll Change This Mission from Sneaky to Flashy!",
+            "match": "image-only-candidate",
+            "distance": 6
+          }
+        },
+        {
+          "id": "OP16-059~tcg696786",
+          "set": "OP16-RE",
+          "rarity": "UC",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/696786_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              696786
+            ]
+          },
+          "tcgplayer": {
+            "name": "We'll Change This Mission from Sneaky to Flashy!",
+            "match": "minted",
+            "distance": null
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "promoTypes": [
+            {
+              "type": "release",
+              "category": "event"
+            }
+          ]
         }
       ]
     },
@@ -1713,7 +4107,22 @@
           "rarity": "L",
           "block": "5",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP16-060.png",
-          "source": "bandai"
+          "cardSet": "-THE TIME OF BATTLE- [OP-16]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              694653
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "Sengoku (060)",
+            "match": "image",
+            "distance": 6
+          },
+          "artist": "nishinoshima"
         },
         {
           "id": "OP16-060_p1",
@@ -1721,7 +4130,25 @@
           "rarity": "L",
           "block": "5",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP16-060_p1.png",
-          "source": "bandai"
+          "cardSet": "-THE TIME OF BATTLE- [OP-16]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              694655
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Sengoku (060) (Alternate Art)",
+            "match": "image",
+            "distance": 4
+          },
+          "treatments": [
+            "alternate_art"
+          ],
+          "artist": "Anderson"
         }
       ]
     },
@@ -1748,7 +4175,48 @@
           "rarity": "C",
           "block": "5",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP16-061.png",
-          "source": "bandai"
+          "cardSet": "-THE TIME OF BATTLE- [OP-16]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              696048
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "Older Brother Marine",
+            "match": "image-only-candidate",
+            "distance": 5
+          },
+          "artist": "kankurou"
+        },
+        {
+          "id": "OP16-061~tcg696735",
+          "set": "OP16-RE",
+          "rarity": "C",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/696735_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              696735
+            ]
+          },
+          "tcgplayer": {
+            "name": "Older Brother Marine",
+            "match": "minted",
+            "distance": null
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "promoTypes": [
+            {
+              "type": "release",
+              "category": "event"
+            }
+          ]
         }
       ]
     },
@@ -1775,7 +4243,48 @@
           "rarity": "C",
           "block": "5",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP16-062.png",
-          "source": "bandai"
+          "cardSet": "-THE TIME OF BATTLE- [OP-16]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              696049
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "Younger Brother Marine",
+            "match": "image-only-candidate",
+            "distance": 4
+          },
+          "artist": "kankurou"
+        },
+        {
+          "id": "OP16-062~tcg696736",
+          "set": "OP16-RE",
+          "rarity": "C",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/696736_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              696736
+            ]
+          },
+          "tcgplayer": {
+            "name": "Younger Brother Marine",
+            "match": "minted",
+            "distance": null
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "promoTypes": [
+            {
+              "type": "release",
+              "category": "event"
+            }
+          ]
         }
       ]
     },
@@ -1802,7 +4311,22 @@
           "rarity": "R",
           "block": "X",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP16-063.png",
-          "source": "bandai"
+          "cardSet": "-THE TIME OF BATTLE- [OP-16]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              696050
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Kuzan",
+            "match": "image",
+            "distance": 4
+          },
+          "artist": "HISASHI HUJIWARA"
         },
         {
           "id": "OP16-063_p1",
@@ -1810,7 +4334,25 @@
           "rarity": "R",
           "block": "X",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP16-063_p1.png",
-          "source": "bandai"
+          "cardSet": "-THE TIME OF BATTLE- [OP-16]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              696051
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Kuzan (Alternate Art)",
+            "match": "image",
+            "distance": 2
+          },
+          "treatments": [
+            "alternate_art"
+          ],
+          "artist": "Koushi Rokushiro"
         },
         {
           "id": "OP16-063_p2",
@@ -1818,7 +4360,24 @@
           "rarity": "R",
           "block": "X",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP16-063_p2.png",
-          "source": "bandai"
+          "cardSet": "-THE TIME OF BATTLE- [OP-16]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              696052
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Kuzan (Manga)",
+            "match": "image",
+            "distance": 0
+          },
+          "treatments": [
+            "manga"
+          ]
         }
       ]
     },
@@ -1845,7 +4404,22 @@
           "rarity": "R",
           "block": "5",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP16-064.png",
-          "source": "bandai"
+          "cardSet": "-THE TIME OF BATTLE- [OP-16]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              696053
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Koby",
+            "match": "image-only-candidate",
+            "distance": 6
+          },
+          "artist": "Nekobayashi"
         }
       ]
     },
@@ -1872,7 +4446,22 @@
           "rarity": "SR",
           "block": "X",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP16-065.png",
-          "source": "bandai"
+          "cardSet": "-THE TIME OF BATTLE- [OP-16]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              694980
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Sakazuki",
+            "match": "image",
+            "distance": 4
+          },
+          "artist": "Tadaichi Nakama"
         },
         {
           "id": "OP16-065_p1",
@@ -1880,7 +4469,25 @@
           "rarity": "SR",
           "block": "X",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP16-065_p1.png",
-          "source": "bandai"
+          "cardSet": "-THE TIME OF BATTLE- [OP-16]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              694981
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Sakazuki (Alternate Art)",
+            "match": "image",
+            "distance": 3
+          },
+          "treatments": [
+            "alternate_art"
+          ],
+          "artist": "Hayaken-sarena"
         },
         {
           "id": "OP16-065_p2",
@@ -1888,7 +4495,24 @@
           "rarity": "SR",
           "block": "X",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP16-065_p2.png",
-          "source": "bandai"
+          "cardSet": "-THE TIME OF BATTLE- [OP-16]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              695986
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Sakazuki (Manga)",
+            "match": "image",
+            "distance": 4
+          },
+          "treatments": [
+            "manga"
+          ]
         }
       ]
     },
@@ -1915,7 +4539,48 @@
           "rarity": "UC",
           "block": "5",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP16-066.png",
-          "source": "bandai"
+          "cardSet": "-THE TIME OF BATTLE- [OP-16]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              696054
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "Sengoku (066)",
+            "match": "image-only-candidate",
+            "distance": 6
+          },
+          "artist": "Yasushi Yamaguchi"
+        },
+        {
+          "id": "OP16-066~tcg696787",
+          "set": "OP16-RE",
+          "rarity": "UC",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/696787_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              696787
+            ]
+          },
+          "tcgplayer": {
+            "name": "Sengoku (066)",
+            "match": "minted",
+            "distance": null
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "promoTypes": [
+            {
+              "type": "release",
+              "category": "event"
+            }
+          ]
         }
       ]
     },
@@ -1942,7 +4607,48 @@
           "rarity": "UC",
           "block": "5",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP16-067.png",
-          "source": "bandai"
+          "cardSet": "-THE TIME OF BATTLE- [OP-16]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              696055
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "Tsuru",
+            "match": "image-only-candidate",
+            "distance": 5
+          },
+          "artist": "kankurou"
+        },
+        {
+          "id": "OP16-067~tcg696788",
+          "set": "OP16-RE",
+          "rarity": "UC",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/696788_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              696788
+            ]
+          },
+          "tcgplayer": {
+            "name": "Tsuru",
+            "match": "minted",
+            "distance": null
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "promoTypes": [
+            {
+              "type": "release",
+              "category": "event"
+            }
+          ]
         }
       ]
     },
@@ -1969,7 +4675,48 @@
           "rarity": "C",
           "block": "5",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP16-068.png",
-          "source": "bandai"
+          "cardSet": "-THE TIME OF BATTLE- [OP-16]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              696056
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "Trafalgar Law (068)",
+            "match": "image-only-candidate",
+            "distance": 9
+          },
+          "artist": "BISAI"
+        },
+        {
+          "id": "OP16-068~tcg696738",
+          "set": "OP16-RE",
+          "rarity": "C",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/696738_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              696738
+            ]
+          },
+          "tcgplayer": {
+            "name": "Trafalgar Law (068)",
+            "match": "minted",
+            "distance": null
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "promoTypes": [
+            {
+              "type": "release",
+              "category": "event"
+            }
+          ]
         }
       ]
     },
@@ -1995,7 +4742,48 @@
           "rarity": "C",
           "block": "5",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP16-069.png",
-          "source": "bandai"
+          "cardSet": "-THE TIME OF BATTLE- [OP-16]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              696057
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "Donquixote Doflamingo (069)",
+            "match": "image-only-candidate",
+            "distance": 5
+          },
+          "artist": "BISAI"
+        },
+        {
+          "id": "OP16-069~tcg696739",
+          "set": "OP16-RE",
+          "rarity": "C",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/696739_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              696739
+            ]
+          },
+          "tcgplayer": {
+            "name": "Donquixote Doflamingo (069)",
+            "match": "minted",
+            "distance": null
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "promoTypes": [
+            {
+              "type": "release",
+              "category": "event"
+            }
+          ]
         }
       ]
     },
@@ -2023,7 +4811,48 @@
           "rarity": "UC",
           "block": "5",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP16-070.png",
-          "source": "bandai"
+          "cardSet": "-THE TIME OF BATTLE- [OP-16]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              696058
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "Donquixote Rosinante",
+            "match": "image-only-candidate",
+            "distance": 9
+          },
+          "artist": "BISAI"
+        },
+        {
+          "id": "OP16-070~tcg696789",
+          "set": "OP16-RE",
+          "rarity": "UC",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/696789_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              696789
+            ]
+          },
+          "tcgplayer": {
+            "name": "Donquixote Rosinante",
+            "match": "minted",
+            "distance": null
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "promoTypes": [
+            {
+              "type": "release",
+              "category": "event"
+            }
+          ]
         }
       ]
     },
@@ -2049,7 +4878,48 @@
           "rarity": "C",
           "block": "5",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP16-071.png",
-          "source": "bandai"
+          "cardSet": "-THE TIME OF BATTLE- [OP-16]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              696059
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "Benevolent King of the Waves",
+            "match": "image-only-candidate",
+            "distance": 6
+          },
+          "artist": "kankurou"
+        },
+        {
+          "id": "OP16-071~tcg696741",
+          "set": "OP16-RE",
+          "rarity": "C",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/696741_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              696741
+            ]
+          },
+          "tcgplayer": {
+            "name": "Benevolent King of the Waves",
+            "match": "minted",
+            "distance": null
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "promoTypes": [
+            {
+              "type": "release",
+              "category": "event"
+            }
+          ]
         }
       ]
     },
@@ -2076,7 +4946,48 @@
           "rarity": "C",
           "block": "5",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP16-072.png",
-          "source": "bandai"
+          "cardSet": "-THE TIME OF BATTLE- [OP-16]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              696060
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "Hannyabal",
+            "match": "image-only-candidate",
+            "distance": 3
+          },
+          "artist": "Misa Matoki"
+        },
+        {
+          "id": "OP16-072~tcg696743",
+          "set": "OP16-RE",
+          "rarity": "C",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/696743_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              696743
+            ]
+          },
+          "tcgplayer": {
+            "name": "Hannyabal",
+            "match": "minted",
+            "distance": null
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "promoTypes": [
+            {
+              "type": "release",
+              "category": "event"
+            }
+          ]
         }
       ]
     },
@@ -2103,7 +5014,22 @@
           "rarity": "R",
           "block": "X",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP16-073.png",
-          "source": "bandai"
+          "cardSet": "-THE TIME OF BATTLE- [OP-16]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              694978
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Borsalino",
+            "match": "image",
+            "distance": 4
+          },
+          "artist": "HISASHI HUJIWARA"
         },
         {
           "id": "OP16-073_p1",
@@ -2111,7 +5037,25 @@
           "rarity": "R",
           "block": "X",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP16-073_p1.png",
-          "source": "bandai"
+          "cardSet": "-THE TIME OF BATTLE- [OP-16]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              694979
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Borsalino (Alternate Art)",
+            "match": "image",
+            "distance": 2
+          },
+          "treatments": [
+            "alternate_art"
+          ],
+          "artist": "DAI-XT."
         },
         {
           "id": "OP16-073_p2",
@@ -2119,7 +5063,24 @@
           "rarity": "R",
           "block": "X",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP16-073_p2.png",
-          "source": "bandai"
+          "cardSet": "-THE TIME OF BATTLE- [OP-16]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              696108
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Borsalino (Manga)",
+            "match": "image",
+            "distance": 3
+          },
+          "treatments": [
+            "manga"
+          ]
         }
       ]
     },
@@ -2145,7 +5106,48 @@
           "rarity": "C",
           "block": "5",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP16-074.png",
-          "source": "bandai"
+          "cardSet": "-THE TIME OF BATTLE- [OP-16]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              696061
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "Magellan",
+            "match": "image-only-candidate",
+            "distance": 4
+          },
+          "artist": "Yasushi Yamaguchi"
+        },
+        {
+          "id": "OP16-074~tcg696744",
+          "set": "OP16-RE",
+          "rarity": "C",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/696744_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              696744
+            ]
+          },
+          "tcgplayer": {
+            "name": "Magellan",
+            "match": "minted",
+            "distance": null
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "promoTypes": [
+            {
+              "type": "release",
+              "category": "event"
+            }
+          ]
         }
       ]
     },
@@ -2172,7 +5174,48 @@
           "rarity": "C",
           "block": "5",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP16-075.png",
-          "source": "bandai"
+          "cardSet": "-THE TIME OF BATTLE- [OP-16]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              696062
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "Monkey.D.Garp",
+            "match": "image-only-candidate",
+            "distance": 7
+          },
+          "artist": "kankurou"
+        },
+        {
+          "id": "OP16-075~tcg696747",
+          "set": "OP16-RE",
+          "rarity": "C",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/696747_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              696747
+            ]
+          },
+          "tcgplayer": {
+            "name": "Monkey.D.Garp",
+            "match": "minted",
+            "distance": null
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "promoTypes": [
+            {
+              "type": "release",
+              "category": "event"
+            }
+          ]
         }
       ]
     },
@@ -2195,7 +5238,47 @@
           "rarity": "UC",
           "block": "5",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP16-076.png",
-          "source": "bandai"
+          "cardSet": "-THE TIME OF BATTLE- [OP-16]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              696063
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "The Three Admirals!!",
+            "match": "image-only-candidate",
+            "distance": 5
+          }
+        },
+        {
+          "id": "OP16-076~tcg696790",
+          "set": "OP16-RE",
+          "rarity": "UC",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/696790_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              696790
+            ]
+          },
+          "tcgplayer": {
+            "name": "The Three Admirals!!",
+            "match": "minted",
+            "distance": null
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "promoTypes": [
+            {
+              "type": "release",
+              "category": "event"
+            }
+          ]
         }
       ]
     },
@@ -2217,7 +5300,21 @@
           "rarity": "R",
           "block": "5",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP16-077.png",
-          "source": "bandai"
+          "cardSet": "-THE TIME OF BATTLE- [OP-16]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              696064
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "\"Buddha\" Sengoku",
+            "match": "image-only-candidate",
+            "distance": 4
+          }
         }
       ]
     },
@@ -2239,7 +5336,47 @@
           "rarity": "UC",
           "block": "5",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP16-078.png",
-          "source": "bandai"
+          "cardSet": "-THE TIME OF BATTLE- [OP-16]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              696065
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "Marineford",
+            "match": "image-only-candidate",
+            "distance": 2
+          }
+        },
+        {
+          "id": "OP16-078~tcg696791",
+          "set": "OP16-RE",
+          "rarity": "UC",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/696791_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              696791
+            ]
+          },
+          "tcgplayer": {
+            "name": "Marineford",
+            "match": "minted",
+            "distance": null
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "promoTypes": [
+            {
+              "type": "release",
+              "category": "event"
+            }
+          ]
         }
       ]
     },
@@ -2265,7 +5402,22 @@
           "rarity": "L",
           "block": "5",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP16-079.png",
-          "source": "bandai"
+          "cardSet": "-THE TIME OF BATTLE- [OP-16]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              694067
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "Yamato (079)",
+            "match": "image",
+            "distance": 5
+          },
+          "artist": "Kohei Mikoshi"
         },
         {
           "id": "OP16-079_p1",
@@ -2273,7 +5425,25 @@
           "rarity": "L",
           "block": "5",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP16-079_p1.png",
-          "source": "bandai"
+          "cardSet": "-THE TIME OF BATTLE- [OP-16]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              694068
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Yamato (079) (Alternate Art)",
+            "match": "image",
+            "distance": 4
+          },
+          "treatments": [
+            "alternate_art"
+          ],
+          "artist": "NAKAuMA"
         }
       ]
     },
@@ -2301,7 +5471,22 @@
           "rarity": "L",
           "block": "5",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP16-080.png",
-          "source": "bandai"
+          "cardSet": "-THE TIME OF BATTLE- [OP-16]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              694627
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "Marshall.D.Teach (080)",
+            "match": "image",
+            "distance": 5
+          },
+          "artist": "Anthony Nguyen"
         },
         {
           "id": "OP16-080_p1",
@@ -2309,7 +5494,25 @@
           "rarity": "L",
           "block": "5",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP16-080_p1.png",
-          "source": "bandai"
+          "cardSet": "-THE TIME OF BATTLE- [OP-16]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              694628
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Marshall.D.Teach (080) (Alternate Art)",
+            "match": "image",
+            "distance": 6
+          },
+          "treatments": [
+            "alternate_art"
+          ],
+          "artist": "Matsumoto Akira"
         }
       ]
     },
@@ -2335,7 +5538,48 @@
           "rarity": "C",
           "block": "5",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP16-081.png",
-          "source": "bandai"
+          "cardSet": "-THE TIME OF BATTLE- [OP-16]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              696066
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "Otama",
+            "match": "image-only-candidate",
+            "distance": 4
+          },
+          "artist": "Hagane Tsurugi"
+        },
+        {
+          "id": "OP16-081~tcg696749",
+          "set": "OP16-RE",
+          "rarity": "C",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/696749_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              696749
+            ]
+          },
+          "tcgplayer": {
+            "name": "Otama",
+            "match": "minted",
+            "distance": null
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "promoTypes": [
+            {
+              "type": "release",
+              "category": "event"
+            }
+          ]
         }
       ]
     },
@@ -2362,7 +5606,22 @@
           "rarity": "SR",
           "block": "5",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP16-082.png",
-          "source": "bandai"
+          "cardSet": "-THE TIME OF BATTLE- [OP-16]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              694629
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Kin'emon",
+            "match": "image",
+            "distance": 3
+          },
+          "artist": "Yosuke Adachi"
         },
         {
           "id": "OP16-082_p1",
@@ -2370,7 +5629,25 @@
           "rarity": "SR",
           "block": "5",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP16-082_p1.png",
-          "source": "bandai"
+          "cardSet": "-THE TIME OF BATTLE- [OP-16]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              694631
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Kin'emon (Alternate Art)",
+            "match": "image",
+            "distance": 7
+          },
+          "treatments": [
+            "alternate_art"
+          ],
+          "artist": "Nijihayashi"
         }
       ]
     },
@@ -2398,7 +5675,48 @@
           "rarity": "C",
           "block": "5",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP16-083.png",
-          "source": "bandai"
+          "cardSet": "-THE TIME OF BATTLE- [OP-16]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              696067
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "Kouzuki Oden",
+            "match": "image-only-candidate",
+            "distance": 4
+          },
+          "artist": "Yasushi Yamaguchi"
+        },
+        {
+          "id": "OP16-083~tcg696752",
+          "set": "OP16-RE",
+          "rarity": "C",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/696752_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              696752
+            ]
+          },
+          "tcgplayer": {
+            "name": "Kouzuki Oden",
+            "match": "minted",
+            "distance": null
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "promoTypes": [
+            {
+              "type": "release",
+              "category": "event"
+            }
+          ]
         }
       ]
     },
@@ -2425,7 +5743,48 @@
           "rarity": "UC",
           "block": "5",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP16-084.png",
-          "source": "bandai"
+          "cardSet": "-THE TIME OF BATTLE- [OP-16]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              696068
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "Kouzuki Momonosuke (084)",
+            "match": "image-only-candidate",
+            "distance": 3
+          },
+          "artist": "Nekobayashi"
+        },
+        {
+          "id": "OP16-084~tcg696792",
+          "set": "OP16-RE",
+          "rarity": "UC",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/696792_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              696792
+            ]
+          },
+          "tcgplayer": {
+            "name": "Kouzuki Momonosuke (084)",
+            "match": "minted",
+            "distance": null
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "promoTypes": [
+            {
+              "type": "release",
+              "category": "event"
+            }
+          ]
         }
       ]
     },
@@ -2453,7 +5812,22 @@
           "rarity": "R",
           "block": "5",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP16-085.png",
-          "source": "bandai"
+          "cardSet": "-THE TIME OF BATTLE- [OP-16]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              694642
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Kouzuki Momonosuke (085)",
+            "match": "image",
+            "distance": 4
+          },
+          "artist": "Miho Midorikawa"
         },
         {
           "id": "OP16-085_p1",
@@ -2461,7 +5835,25 @@
           "rarity": "R",
           "block": "5",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP16-085_p1.png",
-          "source": "bandai"
+          "cardSet": "-THE TIME OF BATTLE- [OP-16]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              694643
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Kouzuki Momonosuke (085) (Alternate Art)",
+            "match": "image",
+            "distance": 1
+          },
+          "treatments": [
+            "alternate_art"
+          ],
+          "artist": "Yuki Yoshida"
         }
       ]
     },
@@ -2489,7 +5881,48 @@
           "rarity": "C",
           "block": "5",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP16-086.png",
-          "source": "bandai"
+          "cardSet": "-THE TIME OF BATTLE- [OP-16]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              696069
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "Sanji",
+            "match": "image-only-candidate",
+            "distance": 6
+          },
+          "artist": "Morechand"
+        },
+        {
+          "id": "OP16-086~tcg696755",
+          "set": "OP16-RE",
+          "rarity": "C",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/696755_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              696755
+            ]
+          },
+          "tcgplayer": {
+            "name": "Sanji",
+            "match": "minted",
+            "distance": null
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "promoTypes": [
+            {
+              "type": "release",
+              "category": "event"
+            }
+          ]
         }
       ]
     },
@@ -2516,7 +5949,48 @@
           "rarity": "UC",
           "block": "5",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP16-087.png",
-          "source": "bandai"
+          "cardSet": "-THE TIME OF BATTLE- [OP-16]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              696070
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "Shinobu",
+            "match": "image-only-candidate",
+            "distance": 2
+          },
+          "artist": "kankurou"
+        },
+        {
+          "id": "OP16-087~tcg696793",
+          "set": "OP16-RE",
+          "rarity": "UC",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/696793_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              696793
+            ]
+          },
+          "tcgplayer": {
+            "name": "Shinobu",
+            "match": "minted",
+            "distance": null
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "promoTypes": [
+            {
+              "type": "release",
+              "category": "event"
+            }
+          ]
         }
       ]
     },
@@ -2543,7 +6017,48 @@
           "rarity": "C",
           "block": "5",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP16-088.png",
-          "source": "bandai"
+          "cardSet": "-THE TIME OF BATTLE- [OP-16]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              696071
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "Shimotsuki Ushimaru",
+            "match": "image-only-candidate",
+            "distance": 2
+          },
+          "artist": "Koushi Rokushiro"
+        },
+        {
+          "id": "OP16-088~tcg696757",
+          "set": "OP16-RE",
+          "rarity": "C",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/696757_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              696757
+            ]
+          },
+          "tcgplayer": {
+            "name": "Shimotsuki Ushimaru",
+            "match": "minted",
+            "distance": null
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "promoTypes": [
+            {
+              "type": "release",
+              "category": "event"
+            }
+          ]
         }
       ]
     },
@@ -2569,7 +6084,48 @@
           "rarity": "C",
           "block": "5",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP16-089.png",
-          "source": "bandai"
+          "cardSet": "-THE TIME OF BATTLE- [OP-16]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              696072
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "Dracule Mihawk",
+            "match": "image-only-candidate",
+            "distance": 6
+          },
+          "artist": "eiji kaneda"
+        },
+        {
+          "id": "OP16-089~tcg696758",
+          "set": "OP16-RE",
+          "rarity": "C",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/696758_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              696758
+            ]
+          },
+          "tcgplayer": {
+            "name": "Dracule Mihawk",
+            "match": "minted",
+            "distance": null
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "promoTypes": [
+            {
+              "type": "release",
+              "category": "event"
+            }
+          ]
         }
       ]
     },
@@ -2598,7 +6154,48 @@
           "rarity": "C",
           "block": "5",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP16-090.png",
-          "source": "bandai"
+          "cardSet": "-THE TIME OF BATTLE- [OP-16]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              696073
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "Tony Tony.Chopper",
+            "match": "image-only-candidate",
+            "distance": 5
+          },
+          "artist": "touge369"
+        },
+        {
+          "id": "OP16-090~tcg696759",
+          "set": "OP16-RE",
+          "rarity": "C",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/696759_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              696759
+            ]
+          },
+          "tcgplayer": {
+            "name": "Tony Tony.Chopper",
+            "match": "minted",
+            "distance": null
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "promoTypes": [
+            {
+              "type": "release",
+              "category": "event"
+            }
+          ]
         }
       ]
     },
@@ -2626,7 +6223,22 @@
           "rarity": "R",
           "block": "5",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP16-091.png",
-          "source": "bandai"
+          "cardSet": "-THE TIME OF BATTLE- [OP-16]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              696074
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Nami",
+            "match": "image-only-candidate",
+            "distance": 7
+          },
+          "artist": "kou takase"
         }
       ]
     },
@@ -2654,7 +6266,48 @@
           "rarity": "UC",
           "block": "5",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP16-092.png",
-          "source": "bandai"
+          "cardSet": "-THE TIME OF BATTLE- [OP-16]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              696075
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "Nico Robin",
+            "match": "image-only-candidate",
+            "distance": 4
+          },
+          "artist": "sho"
+        },
+        {
+          "id": "OP16-092~tcg696794",
+          "set": "OP16-RE",
+          "rarity": "UC",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/696794_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              696794
+            ]
+          },
+          "tcgplayer": {
+            "name": "Nico Robin",
+            "match": "minted",
+            "distance": null
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "promoTypes": [
+            {
+              "type": "release",
+              "category": "event"
+            }
+          ]
         }
       ]
     },
@@ -2682,7 +6335,48 @@
           "rarity": "C",
           "block": "5",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP16-093.png",
-          "source": "bandai"
+          "cardSet": "-THE TIME OF BATTLE- [OP-16]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              696076
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "Bartholomew Kuma (093)",
+            "match": "image-only-candidate",
+            "distance": 4
+          },
+          "artist": "Yoichi Amano"
+        },
+        {
+          "id": "OP16-093~tcg696760",
+          "set": "OP16-RE",
+          "rarity": "C",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/696760_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              696760
+            ]
+          },
+          "tcgplayer": {
+            "name": "Bartholomew Kuma (093)",
+            "match": "minted",
+            "distance": null
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "promoTypes": [
+            {
+              "type": "release",
+              "category": "event"
+            }
+          ]
         }
       ]
     },
@@ -2710,7 +6404,48 @@
           "rarity": "UC",
           "block": "5",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP16-094.png",
-          "source": "bandai"
+          "cardSet": "-THE TIME OF BATTLE- [OP-16]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              696077
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "Portgas.D.Ace (094)",
+            "match": "image-only-candidate",
+            "distance": 4
+          },
+          "artist": "BISAI"
+        },
+        {
+          "id": "OP16-094~tcg696795",
+          "set": "OP16-RE",
+          "rarity": "UC",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/696795_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              696795
+            ]
+          },
+          "tcgplayer": {
+            "name": "Portgas.D.Ace (094)",
+            "match": "minted",
+            "distance": null
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "promoTypes": [
+            {
+              "type": "release",
+              "category": "event"
+            }
+          ]
         }
       ]
     },
@@ -2738,7 +6473,48 @@
           "rarity": "R",
           "block": "5",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP16-095.png",
-          "source": "bandai"
+          "cardSet": "-THE TIME OF BATTLE- [OP-16]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              696078
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Monkey.D.Luffy (095)",
+            "match": "image-only-candidate",
+            "distance": 4
+          },
+          "artist": "BISAI"
+        },
+        {
+          "id": "OP16-095~tcg707248",
+          "set": "P",
+          "rarity": "R",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/707248_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              707248
+            ]
+          },
+          "tcgplayer": {
+            "name": "Monkey.D.Luffy (Round 1 Promo)",
+            "match": "minted",
+            "distance": null
+          },
+          "finishes": [
+            "foil"
+          ],
+          "promoTypes": [
+            {
+              "type": "event_pack",
+              "category": "event"
+            }
+          ]
         }
       ]
     },
@@ -2765,7 +6541,22 @@
           "rarity": "R",
           "block": "5",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP16-096.png",
-          "source": "bandai"
+          "cardSet": "-THE TIME OF BATTLE- [OP-16]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              696079
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Yamato (096)",
+            "match": "image-only-candidate",
+            "distance": 4
+          },
+          "artist": "HISASHI HUJIWARA"
         }
       ]
     },
@@ -2791,7 +6582,22 @@
           "rarity": "R",
           "block": "5",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP16-097.png",
-          "source": "bandai"
+          "cardSet": "-THE TIME OF BATTLE- [OP-16]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              696080
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Yamato (097)",
+            "match": "image-only-candidate",
+            "distance": 3
+          },
+          "artist": "Yuu Shimotsuki"
         }
       ]
     },
@@ -2818,7 +6624,22 @@
           "rarity": "SR",
           "block": "5",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP16-098.png",
-          "source": "bandai"
+          "cardSet": "-THE TIME OF BATTLE- [OP-16]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              694640
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Yamato (098)",
+            "match": "image",
+            "distance": 3
+          },
+          "artist": "Shin Kashiwaguma"
         },
         {
           "id": "OP16-098_p1",
@@ -2826,7 +6647,25 @@
           "rarity": "SR",
           "block": "5",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP16-098_p1.png",
-          "source": "bandai"
+          "cardSet": "-THE TIME OF BATTLE- [OP-16]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              694641
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Yamato (098) (Alternate Art)",
+            "match": "image",
+            "distance": 7
+          },
+          "treatments": [
+            "alternate_art"
+          ],
+          "artist": "Daisuke Izuka"
         },
         {
           "id": "OP16-098_p2",
@@ -2834,7 +6673,25 @@
           "rarity": "SP CARD",
           "block": "5",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP16-098_p2.png",
-          "source": "bandai"
+          "cardSet": "BOOSTER PACK -THE WORLD’S STRONGEST WARRIORS- [OP-17]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              708067
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Yamato (OP16-098) (SP)",
+            "match": "image-only-candidate",
+            "distance": 2
+          },
+          "treatments": [
+            "sp"
+          ],
+          "artist": "sakai/INO Ltd."
         }
       ]
     },
@@ -2856,7 +6713,47 @@
           "rarity": "UC",
           "block": "5",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP16-099.png",
-          "source": "bandai"
+          "cardSet": "-THE TIME OF BATTLE- [OP-16]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              696081
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "I've Come Here... To Cut Those Chains!!!",
+            "match": "image-only-candidate",
+            "distance": 6
+          }
+        },
+        {
+          "id": "OP16-099~tcg696796",
+          "set": "OP16-RE",
+          "rarity": "UC",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/696796_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              696796
+            ]
+          },
+          "tcgplayer": {
+            "name": "I've Come Here... To Cut Those Chains!!!",
+            "match": "minted",
+            "distance": null
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "promoTypes": [
+            {
+              "type": "release",
+              "category": "event"
+            }
+          ]
         }
       ]
     },
@@ -2878,7 +6775,47 @@
           "rarity": "C",
           "block": "5",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP16-100.png",
-          "source": "bandai"
+          "cardSet": "-THE TIME OF BATTLE- [OP-16]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              696082
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "Hallowed Glacier Slash",
+            "match": "image-only-candidate",
+            "distance": 7
+          }
+        },
+        {
+          "id": "OP16-100~tcg696761",
+          "set": "OP16-RE",
+          "rarity": "C",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/696761_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              696761
+            ]
+          },
+          "tcgplayer": {
+            "name": "Hallowed Glacier Slash",
+            "match": "minted",
+            "distance": null
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "promoTypes": [
+            {
+              "type": "release",
+              "category": "event"
+            }
+          ]
         }
       ]
     },
@@ -2900,7 +6837,47 @@
           "rarity": "C",
           "block": "5",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP16-101.png",
-          "source": "bandai"
+          "cardSet": "-THE TIME OF BATTLE- [OP-16]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              696083
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "Mahoroba",
+            "match": "image-only-candidate",
+            "distance": 7
+          }
+        },
+        {
+          "id": "OP16-101~tcg696762",
+          "set": "OP16-RE",
+          "rarity": "C",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/696762_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              696762
+            ]
+          },
+          "tcgplayer": {
+            "name": "Mahoroba",
+            "match": "minted",
+            "distance": null
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "promoTypes": [
+            {
+              "type": "release",
+              "category": "event"
+            }
+          ]
         }
       ]
     },
@@ -2928,7 +6905,48 @@
           "rarity": "UC",
           "block": "5",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP16-102.png",
-          "source": "bandai"
+          "cardSet": "-THE TIME OF BATTLE- [OP-16]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              696084
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "Avalo Pizarro",
+            "match": "image-only-candidate",
+            "distance": 5
+          },
+          "artist": "Moopic"
+        },
+        {
+          "id": "OP16-102~tcg696797",
+          "set": "OP16-RE",
+          "rarity": "UC",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/696797_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              696797
+            ]
+          },
+          "tcgplayer": {
+            "name": "Avalo Pizarro",
+            "match": "minted",
+            "distance": null
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "promoTypes": [
+            {
+              "type": "release",
+              "category": "event"
+            }
+          ]
         }
       ]
     },
@@ -2955,7 +6973,48 @@
           "rarity": "UC",
           "block": "5",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP16-103.png",
-          "source": "bandai"
+          "cardSet": "-THE TIME OF BATTLE- [OP-16]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              696085
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "Van Augur",
+            "match": "image-only-candidate",
+            "distance": 6
+          },
+          "artist": "Akihiro MIYANO"
+        },
+        {
+          "id": "OP16-103~tcg696798",
+          "set": "OP16-RE",
+          "rarity": "UC",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/696798_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              696798
+            ]
+          },
+          "tcgplayer": {
+            "name": "Van Augur",
+            "match": "minted",
+            "distance": null
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "promoTypes": [
+            {
+              "type": "release",
+              "category": "event"
+            }
+          ]
         }
       ]
     },
@@ -2983,7 +7042,22 @@
           "rarity": "R",
           "block": "5",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP16-104.png",
-          "source": "bandai"
+          "cardSet": "-THE TIME OF BATTLE- [OP-16]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              696086
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Catarina Devon",
+            "match": "image-only-candidate",
+            "distance": 3
+          },
+          "artist": "SHINRA AGENCY Co. Ltd."
         }
       ]
     },
@@ -3011,7 +7085,48 @@
           "rarity": "C",
           "block": "5",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP16-105.png",
-          "source": "bandai"
+          "cardSet": "-THE TIME OF BATTLE- [OP-16]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              696087
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "Gecko Moria",
+            "match": "image-only-candidate",
+            "distance": 6
+          },
+          "artist": "Ryuda"
+        },
+        {
+          "id": "OP16-105~tcg696763",
+          "set": "OP16-RE",
+          "rarity": "C",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/696763_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              696763
+            ]
+          },
+          "tcgplayer": {
+            "name": "Gecko Moria",
+            "match": "minted",
+            "distance": null
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "promoTypes": [
+            {
+              "type": "release",
+              "category": "event"
+            }
+          ]
         }
       ]
     },
@@ -3040,7 +7155,22 @@
           "rarity": "R",
           "block": "5",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP16-106.png",
-          "source": "bandai"
+          "cardSet": "-THE TIME OF BATTLE- [OP-16]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              696088
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Sanjuan.Wolf",
+            "match": "image-only-candidate",
+            "distance": 4
+          },
+          "artist": "tasaka"
         }
       ]
     },
@@ -3066,7 +7196,48 @@
           "rarity": "C",
           "block": "5",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP16-107.png",
-          "source": "bandai"
+          "cardSet": "-THE TIME OF BATTLE- [OP-16]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              696089
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "Jesus Burgess",
+            "match": "image-only-candidate",
+            "distance": 3
+          },
+          "artist": "Yoichi Amano"
+        },
+        {
+          "id": "OP16-107~tcg696765",
+          "set": "OP16-RE",
+          "rarity": "C",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/696765_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              696765
+            ]
+          },
+          "tcgplayer": {
+            "name": "Jesus Burgess",
+            "match": "minted",
+            "distance": null
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "promoTypes": [
+            {
+              "type": "release",
+              "category": "event"
+            }
+          ]
         }
       ]
     },
@@ -3093,7 +7264,22 @@
           "rarity": "SR",
           "block": "5",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP16-108.png",
-          "source": "bandai"
+          "cardSet": "-THE TIME OF BATTLE- [OP-16]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              696090
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Shiryu",
+            "match": "image",
+            "distance": 3
+          },
+          "artist": "tatsuya"
         },
         {
           "id": "OP16-108_p1",
@@ -3101,7 +7287,25 @@
           "rarity": "SR",
           "block": "5",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP16-108_p1.png",
-          "source": "bandai"
+          "cardSet": "-THE TIME OF BATTLE- [OP-16]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              696091
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Shiryu (Full Art)",
+            "match": "image",
+            "distance": 3
+          },
+          "treatments": [
+            "full_art"
+          ],
+          "artist": "Minato Sashima"
         }
       ]
     },
@@ -3127,7 +7331,48 @@
           "rarity": "UC",
           "block": "5",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP16-109.png",
-          "source": "bandai"
+          "cardSet": "-THE TIME OF BATTLE- [OP-16]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              696092
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "Doc Q",
+            "match": "image-only-candidate",
+            "distance": 6
+          },
+          "artist": "ASAKI KURODA"
+        },
+        {
+          "id": "OP16-109~tcg696799",
+          "set": "OP16-RE",
+          "rarity": "UC",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/696799_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              696799
+            ]
+          },
+          "tcgplayer": {
+            "name": "Doc Q",
+            "match": "minted",
+            "distance": null
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "promoTypes": [
+            {
+              "type": "release",
+              "category": "event"
+            }
+          ]
         }
       ]
     },
@@ -3155,7 +7400,22 @@
           "rarity": "R",
           "block": "5",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP16-110.png",
-          "source": "bandai"
+          "cardSet": "-THE TIME OF BATTLE- [OP-16]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              696093
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Vasco Shot",
+            "match": "image-only-candidate",
+            "distance": 5
+          },
+          "artist": "ASAKI KURODA"
         }
       ]
     },
@@ -3181,7 +7441,48 @@
           "rarity": "C",
           "block": "5",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP16-111.png",
-          "source": "bandai"
+          "cardSet": "-THE TIME OF BATTLE- [OP-16]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              696094
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "Boa Sandersonia",
+            "match": "image-only-candidate",
+            "distance": 8
+          },
+          "artist": "kudo sakiko"
+        },
+        {
+          "id": "OP16-111~tcg696766",
+          "set": "OP16-RE",
+          "rarity": "C",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/696766_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              696766
+            ]
+          },
+          "tcgplayer": {
+            "name": "Boa Sandersonia",
+            "match": "minted",
+            "distance": null
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "promoTypes": [
+            {
+              "type": "release",
+              "category": "event"
+            }
+          ]
         }
       ]
     },
@@ -3208,7 +7509,48 @@
           "rarity": "C",
           "block": "5",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP16-112.png",
-          "source": "bandai"
+          "cardSet": "-THE TIME OF BATTLE- [OP-16]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              696095
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "Boa Hancock (112)",
+            "match": "image-only-candidate",
+            "distance": 5
+          },
+          "artist": "kicori"
+        },
+        {
+          "id": "OP16-112~tcg696768",
+          "set": "OP16-RE",
+          "rarity": "C",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/696768_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              696768
+            ]
+          },
+          "tcgplayer": {
+            "name": "Boa Hancock (112)",
+            "match": "minted",
+            "distance": null
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "promoTypes": [
+            {
+              "type": "release",
+              "category": "event"
+            }
+          ]
         }
       ]
     },
@@ -3235,7 +7577,48 @@
           "rarity": "UC",
           "block": "5",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP16-113.png",
-          "source": "bandai"
+          "cardSet": "-THE TIME OF BATTLE- [OP-16]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              696096
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "Boa Marigold",
+            "match": "image-only-candidate",
+            "distance": 2
+          },
+          "artist": "COGA"
+        },
+        {
+          "id": "OP16-113~tcg696800",
+          "set": "OP16-RE",
+          "rarity": "UC",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/696800_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              696800
+            ]
+          },
+          "tcgplayer": {
+            "name": "Boa Marigold",
+            "match": "minted",
+            "distance": null
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "promoTypes": [
+            {
+              "type": "release",
+              "category": "event"
+            }
+          ]
         }
       ]
     },
@@ -3262,7 +7645,48 @@
           "rarity": "C",
           "block": "5",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP16-114.png",
-          "source": "bandai"
+          "cardSet": "-THE TIME OF BATTLE- [OP-16]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              696097
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "Laffitte",
+            "match": "image-only-candidate",
+            "distance": 7
+          },
+          "artist": "SHINRA AGENCY Co. Ltd."
+        },
+        {
+          "id": "OP16-114~tcg696769",
+          "set": "OP16-RE",
+          "rarity": "C",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/696769_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              696769
+            ]
+          },
+          "tcgplayer": {
+            "name": "Laffitte",
+            "match": "minted",
+            "distance": null
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "promoTypes": [
+            {
+              "type": "release",
+              "category": "event"
+            }
+          ]
         }
       ]
     },
@@ -3285,7 +7709,48 @@
           "rarity": "UC",
           "block": "5",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP16-115.png",
-          "source": "bandai"
+          "cardSet": "-THE TIME OF BATTLE- [OP-16]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              696098
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "Black Vortex",
+            "match": "image-only-candidate",
+            "distance": 3
+          },
+          "artist": "Studio Vigor Co. Ltd"
+        },
+        {
+          "id": "OP16-115~tcg696801",
+          "set": "OP16-RE",
+          "rarity": "UC",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/696801_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              696801
+            ]
+          },
+          "tcgplayer": {
+            "name": "Black Vortex",
+            "match": "minted",
+            "distance": null
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "promoTypes": [
+            {
+              "type": "release",
+              "category": "event"
+            }
+          ]
         }
       ]
     },
@@ -3308,7 +7773,21 @@
           "rarity": "R",
           "block": "5",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP16-116.png",
-          "source": "bandai"
+          "cardSet": "-THE TIME OF BATTLE- [OP-16]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              696099
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Zehahahahaha!",
+            "match": "image",
+            "distance": 5
+          }
         },
         {
           "id": "OP16-116_p1",
@@ -3316,7 +7795,24 @@
           "rarity": "R",
           "block": "5",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP16-116_p1.png",
-          "source": "bandai"
+          "cardSet": "-THE TIME OF BATTLE- [OP-16]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              696100
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Zehahahahaha! (Alternate Art)",
+            "match": "image",
+            "distance": 5
+          },
+          "treatments": [
+            "alternate_art"
+          ]
         }
       ]
     },
@@ -3339,7 +7835,48 @@
           "rarity": "C",
           "block": "5",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP16-117.png",
-          "source": "bandai"
+          "cardSet": "-THE TIME OF BATTLE- [OP-16]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              696101
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "Black Hole",
+            "match": "image-only-candidate",
+            "distance": 6
+          },
+          "artist": "Studio Vigor Co. Ltd"
+        },
+        {
+          "id": "OP16-117~tcg696770",
+          "set": "OP16-RE",
+          "rarity": "C",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/696770_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              696770
+            ]
+          },
+          "tcgplayer": {
+            "name": "Black Hole",
+            "match": "minted",
+            "distance": null
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "promoTypes": [
+            {
+              "type": "release",
+              "category": "event"
+            }
+          ]
         }
       ]
     },
@@ -3366,7 +7903,22 @@
           "rarity": "SEC",
           "block": "5",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP16-118.png",
-          "source": "bandai"
+          "cardSet": "-THE TIME OF BATTLE- [OP-16]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              694932
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Portgas.D.Ace (118)",
+            "match": "image",
+            "distance": 4
+          },
+          "artist": "Akanegumo"
         },
         {
           "id": "OP16-118_p1",
@@ -3374,7 +7926,25 @@
           "rarity": "SEC",
           "block": "5",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP16-118_p1.png",
-          "source": "bandai"
+          "cardSet": "-THE TIME OF BATTLE- [OP-16]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              694933
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Portgas.D.Ace (118) (Alternate Art)",
+            "match": "image",
+            "distance": 2
+          },
+          "treatments": [
+            "alternate_art"
+          ],
+          "artist": "Makitoshi"
         }
       ]
     },
@@ -3401,7 +7971,22 @@
           "rarity": "SEC",
           "block": "5",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP16-119.png",
-          "source": "bandai"
+          "cardSet": "-THE TIME OF BATTLE- [OP-16]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              695756
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Marshall.D.Teach (119)",
+            "match": "image",
+            "distance": 1
+          },
+          "artist": "Anderson"
         },
         {
           "id": "OP16-119_p1",
@@ -3409,7 +7994,25 @@
           "rarity": "SEC",
           "block": "5",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP16-119_p1.png",
-          "source": "bandai"
+          "cardSet": "-THE TIME OF BATTLE- [OP-16]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              695757
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Marshall.D.Teach (119) (Alternate Art)",
+            "match": "image",
+            "distance": 1
+          },
+          "treatments": [
+            "alternate_art"
+          ],
+          "artist": "AKIRA EGAWA"
         }
       ]
     }

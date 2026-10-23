@@ -1,0 +1,164 @@
+{
+  "products": [
+    {
+      "id": "double-pack-set-volume-1",
+      "set": "OP04",
+      "category": "double_pack",
+      "name": "Double Pack Set Volume 1",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          493752
+        ]
+      },
+      "contentsStatus": "unknown",
+      "contents": {},
+      "sources": [
+        "https://www.tcgplayer.com/product/493752"
+      ],
+      "releaseDate": "2023-09-22"
+    },
+    {
+      "id": "double-pack-set-volume-1-display",
+      "set": "OP04",
+      "category": "display",
+      "name": "Double Pack Set Volume 1 Display",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          514029
+        ]
+      },
+      "contentsStatus": "partial",
+      "contents": {
+        "sealed": [
+          {
+            "product": "double-pack-set-volume-1"
+          }
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/514029"
+      ],
+      "releaseDate": "2023-09-22"
+    },
+    {
+      "id": "kingdoms-of-intrigue-booster-box",
+      "set": "OP04",
+      "category": "booster_box",
+      "name": "Kingdoms of Intrigue - Booster Box",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          485833
+        ]
+      },
+      "contentsStatus": "unknown",
+      "contents": {},
+      "sources": [
+        "https://www.tcgplayer.com/product/485833"
+      ],
+      "releaseDate": "2023-09-22"
+    },
+    {
+      "id": "kingdoms-of-intrigue-booster-box-case",
+      "set": "OP04",
+      "category": "case",
+      "name": "Kingdoms of Intrigue - Booster Box Case",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          485834
+        ]
+      },
+      "contentsStatus": "partial",
+      "contents": {
+        "sealed": [
+          {
+            "product": "kingdoms-of-intrigue-booster-box"
+          }
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/485834"
+      ],
+      "releaseDate": "2023-09-22"
+    },
+    {
+      "id": "kingdoms-of-intrigue-booster-pack",
+      "set": "OP04",
+      "category": "booster_pack",
+      "name": "Kingdoms of Intrigue - Booster Pack",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          485832
+        ]
+      },
+      "contentsStatus": "partial",
+      "contents": {
+        "pool": [
+          {
+            "set": "OP04"
+          }
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/485832"
+      ],
+      "releaseDate": "2023-09-22"
+    },
+    {
+      "id": "kingdoms-of-intrigue-dash-pack",
+      "set": "OP04",
+      "category": "promo_pack",
+      "name": "Kingdoms of Intrigue - Dash Pack",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          516954
+        ]
+      },
+      "contentsStatus": "unknown",
+      "contents": {},
+      "sources": [
+        "https://www.tcgplayer.com/product/516954"
+      ],
+      "releaseDate": "2023-09-22"
+    },
+    {
+      "id": "kingdoms-of-intrigue-sleeved-booster-pack",
+      "set": "OP04",
+      "category": "sleeved_booster_pack",
+      "name": "Kingdoms of Intrigue - Sleeved Booster Pack",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          531777
+        ]
+      },
+      "contentsStatus": "partial",
+      "contents": {
+        "pool": [
+          {
+            "set": "OP04"
+          }
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/531777"
+      ],
+      "releaseDate": "2023-09-22"
+    },
+    {
+      "id": "special-don-card-pack-dp-01",
+      "set": "OP04",
+      "category": "promo_pack",
+      "name": "Special DON!! Card Pack DP-01",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          521201
+        ]
+      },
+      "contentsStatus": "unknown",
+      "contents": {},
+      "sources": [
+        "https://www.tcgplayer.com/product/521201"
+      ],
+      "releaseDate": "2023-09-22"
+    }
+  ]
+}

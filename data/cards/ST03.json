@@ -23,7 +23,94 @@
           "rarity": "L",
           "block": "1",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST03-001.png",
-          "source": "bandai"
+          "cardSet": "-The Seven Warlords of the Sea-[ST-03]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              288266
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Crocodile (001)",
+            "match": "image-only-candidate",
+            "distance": 2
+          }
+        },
+        {
+          "id": "ST03-001~tcg419882",
+          "set": "ST03-PRE",
+          "rarity": "L",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/419882_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              419882
+            ]
+          },
+          "tcgplayer": {
+            "name": "Crocodile (001)",
+            "match": "minted",
+            "distance": null
+          },
+          "finishes": [
+            "foil"
+          ],
+          "promoTypes": [
+            {
+              "type": "prerelease",
+              "category": "event"
+            }
+          ]
+        },
+        {
+          "id": "ST03-001~tcg567116",
+          "set": "P",
+          "rarity": "L",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/567116_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              567116
+            ]
+          },
+          "tcgplayer": {
+            "name": "Crocodile (Premium Card Collection -Leader Collection-)",
+            "match": "minted",
+            "distance": null
+          },
+          "finishes": [
+            "foil"
+          ],
+          "promoTypes": [
+            {
+              "type": "retail_product",
+              "category": "retail"
+            }
+          ]
+        },
+        {
+          "id": "ST03-001~tcg599838",
+          "set": "OP-RP",
+          "rarity": "L",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/599838_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              599838
+            ]
+          },
+          "tcgplayer": {
+            "name": "Crocodile (001)",
+            "match": "minted",
+            "distance": null
+          },
+          "finishes": [
+            "foil",
+            "nonfoil"
+          ]
         }
       ]
     },
@@ -50,7 +137,21 @@
           "rarity": "C",
           "block": "1",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST03-002.png",
-          "source": "bandai"
+          "cardSet": "-The Seven Warlords of the Sea-[ST-03]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              288267
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "Edward Weevil",
+            "match": "image-only-candidate",
+            "distance": 3
+          }
         },
         {
           "id": "ST03-002_r1",
@@ -58,7 +159,36 @@
           "rarity": "C",
           "block": "1",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST03-002_r1.png",
-          "source": "bandai"
+          "cardSet": "-Blue Donquixote Doflamingo- [ST-17]",
+          "source": "bandai",
+          "artOf": "ST03-002"
+        },
+        {
+          "id": "ST03-002~tcg422215",
+          "set": "ST03-PRE",
+          "rarity": "C",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/422215_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              422215
+            ]
+          },
+          "tcgplayer": {
+            "name": "Edward Weevil",
+            "match": "minted",
+            "distance": 6
+          },
+          "artOf": "ST03-002",
+          "finishes": [
+            "nonfoil"
+          ],
+          "promoTypes": [
+            {
+              "type": "prerelease",
+              "category": "event"
+            }
+          ]
         }
       ]
     },
@@ -85,7 +215,21 @@
           "rarity": "SR",
           "block": "1",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST03-003.png",
-          "source": "bandai"
+          "cardSet": "-The Seven Warlords of the Sea-[ST-03]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              288268
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Crocodile (003)",
+            "match": "image-only-candidate",
+            "distance": 1
+          }
         },
         {
           "id": "ST03-003_p1",
@@ -93,7 +237,131 @@
           "rarity": "SR",
           "block": "1",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST03-003_p1.png",
-          "source": "bandai"
+          "cardSet": "Tournament Pack Vol.5",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              519821
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "Crocodile (Tournament Pack Vol. 5)",
+            "match": "image",
+            "distance": 2
+          },
+          "promoTypes": [
+            {
+              "type": "event_pack",
+              "category": "event"
+            }
+          ]
+        },
+        {
+          "id": "ST03-003~tcg420103",
+          "set": "ST03-PRE",
+          "rarity": "SR",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/420103_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              420103
+            ]
+          },
+          "tcgplayer": {
+            "name": "Crocodile (003)",
+            "match": "minted",
+            "distance": 18
+          },
+          "artOf": "ST03-003",
+          "finishes": [
+            "foil"
+          ],
+          "promoTypes": [
+            {
+              "type": "prerelease",
+              "category": "event"
+            }
+          ]
+        },
+        {
+          "id": "ST03-003~tcg519822",
+          "set": "P",
+          "rarity": "SR",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/519822_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              519822
+            ]
+          },
+          "tcgplayer": {
+            "name": "Crocodile (Winner Pack Vol. 5)",
+            "match": "minted",
+            "distance": null
+          },
+          "finishes": [
+            "foil"
+          ],
+          "promoTypes": [
+            {
+              "type": "placement",
+              "category": "placement"
+            }
+          ]
+        },
+        {
+          "id": "ST03-003~tcg580052",
+          "set": "P",
+          "rarity": "SR",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/580052_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              580052
+            ]
+          },
+          "tcgplayer": {
+            "name": "Crocodile (CS 2024 Celebration Pack)",
+            "match": "minted",
+            "distance": null
+          },
+          "finishes": [
+            "foil"
+          ],
+          "promoTypes": [
+            {
+              "type": "championship",
+              "category": "championship"
+            },
+            {
+              "type": "event_pack",
+              "category": "event"
+            }
+          ]
+        },
+        {
+          "id": "ST03-003~tcg599837",
+          "set": "OP-RP",
+          "rarity": "SR",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/599837_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              599837
+            ]
+          },
+          "tcgplayer": {
+            "name": "Crocodile (003)",
+            "match": "minted",
+            "distance": null
+          },
+          "finishes": [
+            "foil",
+            "nonfoil"
+          ]
         }
       ]
     },
@@ -121,7 +389,21 @@
           "rarity": "C",
           "block": "1",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST03-004.png",
-          "source": "bandai"
+          "cardSet": "-The Seven Warlords of the Sea-[ST-03]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              288270
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "Gecko Moria",
+            "match": "image-only-candidate",
+            "distance": 3
+          }
         },
         {
           "id": "ST03-004_p1",
@@ -129,7 +411,25 @@
           "rarity": "SP CARD",
           "block": "1",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST03-004_p1.png",
-          "source": "bandai"
+          "cardSet": "-TWO LEGENDS- [OP-08]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              558166
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Gecko Moria (SP)",
+            "match": "image-only-candidate",
+            "distance": 2
+          },
+          "treatments": [
+            "sp"
+          ],
+          "artist": "touge369"
         },
         {
           "id": "ST03-004_p3",
@@ -137,7 +437,9 @@
           "rarity": "C",
           "block": "1",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST03-004_p3.png",
-          "source": "bandai"
+          "cardSet": "Seven Warlords of the Sea Binder Set",
+          "source": "bandai",
+          "artist": "touge369"
         },
         {
           "id": "ST03-004_r1",
@@ -145,7 +447,105 @@
           "rarity": "C",
           "block": "1",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST03-004_r1.png",
-          "source": "bandai"
+          "cardSet": "-Blue Donquixote Doflamingo- [ST-17]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              599835
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "Gecko Moria",
+            "match": "image",
+            "distance": 5
+          },
+          "artOf": "ST03-004"
+        },
+        {
+          "id": "ST03-004~tcg422032",
+          "set": "ST03-PRE",
+          "rarity": "C",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/422032_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              422032
+            ]
+          },
+          "tcgplayer": {
+            "name": "Gecko Moria",
+            "match": "minted",
+            "distance": 10
+          },
+          "artOf": "ST03-004",
+          "finishes": [
+            "nonfoil"
+          ],
+          "promoTypes": [
+            {
+              "type": "prerelease",
+              "category": "event"
+            }
+          ]
+        },
+        {
+          "id": "ST03-004~tcg503022",
+          "set": "P",
+          "rarity": "P",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/503022_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              503022
+            ]
+          },
+          "tcgplayer": {
+            "name": "Gecko Moria (Store Championship 2023 Participation Pack Vol.1)",
+            "match": "minted",
+            "distance": null
+          },
+          "finishes": [
+            "foil"
+          ],
+          "promoTypes": [
+            {
+              "type": "championship",
+              "category": "championship"
+            },
+            {
+              "type": "event_pack",
+              "category": "event"
+            }
+          ]
+        },
+        {
+          "id": "ST03-004~tcg648104",
+          "set": "P",
+          "rarity": "C",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/648104_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              648104
+            ]
+          },
+          "tcgplayer": {
+            "name": "Gecko Moria (Seven Warlords of the Sea Binder Set)",
+            "match": "minted",
+            "distance": null
+          },
+          "finishes": [
+            "foil"
+          ],
+          "promoTypes": [
+            {
+              "type": "retail_product",
+              "category": "retail"
+            }
+          ]
         }
       ]
     },
@@ -172,7 +572,21 @@
           "rarity": "C",
           "block": "1",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST03-005.png",
-          "source": "bandai"
+          "cardSet": "-The Seven Warlords of the Sea-[ST-03]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              288272
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "Dracule Mihawk",
+            "match": "image-only-candidate",
+            "distance": 4
+          }
         },
         {
           "id": "ST03-005_p1",
@@ -180,7 +594,28 @@
           "rarity": "C",
           "block": "1",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST03-005_p1.png",
-          "source": "bandai"
+          "cardSet": "Tournament Pack Vol.4",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              503245
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "Dracule Mihawk (Tournament Pack Vol. 4)",
+            "match": "image",
+            "distance": 4
+          },
+          "promoTypes": [
+            {
+              "type": "event_pack",
+              "category": "event"
+            }
+          ],
+          "artist": "Hayaken-sarena"
         },
         {
           "id": "ST03-005_p4",
@@ -188,7 +623,9 @@
           "rarity": "C",
           "block": "1",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST03-005_p4.png",
-          "source": "bandai"
+          "cardSet": "-ONE PIECE CARD THE BEST- [PRB-01]",
+          "source": "bandai",
+          "artOf": "ST03-005"
         },
         {
           "id": "ST03-005_p5",
@@ -196,7 +633,24 @@
           "rarity": "C",
           "block": "1",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST03-005_p5.png",
-          "source": "bandai"
+          "cardSet": "-ONE PIECE CARD THE BEST- [PRB-01]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              593581
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Dracule Mihawk (ST03-005) (Full Art)",
+            "match": "image",
+            "distance": 1
+          },
+          "treatments": [
+            "full_art"
+          ]
         },
         {
           "id": "ST03-005_r1",
@@ -204,7 +658,9 @@
           "rarity": "C",
           "block": "1",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST03-005_r1.png",
-          "source": "bandai"
+          "cardSet": "-Blue Donquixote Doflamingo- [ST-17]",
+          "source": "bandai",
+          "artOf": "ST03-005"
         },
         {
           "id": "ST03-005_r2",
@@ -212,7 +668,92 @@
           "rarity": "C",
           "block": "1",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST03-005_r2.png",
-          "source": "bandai"
+          "cardSet": "-ONE PIECE CARD THE BEST- [PRB-01]",
+          "source": "bandai",
+          "artOf": "ST03-005"
+        },
+        {
+          "id": "ST03-005~tcg422377",
+          "set": "ST03-PRE",
+          "rarity": "C",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/422377_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              422377
+            ]
+          },
+          "tcgplayer": {
+            "name": "Dracule Mihawk",
+            "match": "minted",
+            "distance": 5
+          },
+          "artOf": "ST03-005",
+          "finishes": [
+            "nonfoil"
+          ],
+          "promoTypes": [
+            {
+              "type": "prerelease",
+              "category": "event"
+            }
+          ]
+        },
+        {
+          "id": "ST03-005~tcg503249",
+          "set": "P",
+          "rarity": "C",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/503249_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              503249
+            ]
+          },
+          "tcgplayer": {
+            "name": "Dracule Mihawk (Winner Pack Vol. 4)",
+            "match": "minted",
+            "distance": null
+          },
+          "finishes": [
+            "foil"
+          ],
+          "promoTypes": [
+            {
+              "type": "placement",
+              "category": "placement"
+            }
+          ]
+        },
+        {
+          "id": "ST03-005~tcg525327",
+          "set": "P",
+          "rarity": "C",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/525327_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              525327
+            ]
+          },
+          "tcgplayer": {
+            "name": "Dracule Mihawk (CS 2023 Celebration Pack)",
+            "match": "minted",
+            "distance": null
+          },
+          "finishes": [
+            "foil"
+          ],
+          "promoTypes": [
+            {
+              "type": "championship",
+              "category": "championship"
+            },
+            {
+              "type": "event_pack",
+              "category": "event"
+            }
+          ]
         }
       ]
     },
@@ -241,7 +782,48 @@
           "rarity": "C",
           "block": "1",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST03-006.png",
-          "source": "bandai"
+          "cardSet": "-The Seven Warlords of the Sea-[ST-03]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              288273
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "Jinbe",
+            "match": "image-only-candidate",
+            "distance": 2
+          }
+        },
+        {
+          "id": "ST03-006~tcg421875",
+          "set": "ST03-PRE",
+          "rarity": "C",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/421875_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              421875
+            ]
+          },
+          "tcgplayer": {
+            "name": "Jinbe",
+            "match": "minted",
+            "distance": 3
+          },
+          "artOf": "ST03-006",
+          "finishes": [
+            "nonfoil"
+          ],
+          "promoTypes": [
+            {
+              "type": "prerelease",
+              "category": "event"
+            }
+          ]
         }
       ]
     },
@@ -268,7 +850,21 @@
           "rarity": "C",
           "block": "1",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST03-007.png",
-          "source": "bandai"
+          "cardSet": "-The Seven Warlords of the Sea-[ST-03]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              288275
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "Sentomaru",
+            "match": "image-only-candidate",
+            "distance": 2
+          }
         },
         {
           "id": "ST03-007_p1",
@@ -276,7 +872,22 @@
           "rarity": "C",
           "block": "1",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST03-007_p1.png",
-          "source": "bandai"
+          "cardSet": "Tournament Pack Vol.3",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              497003
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "Sentomaru (Tournament Pack Vol. 3) [Participant]",
+            "match": "image",
+            "distance": 1
+          },
+          "artist": "kankurou"
         },
         {
           "id": "ST03-007_p2",
@@ -284,7 +895,129 @@
           "rarity": "C",
           "block": "1",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST03-007_p2.png",
-          "source": "bandai"
+          "cardSet": "Premium Card Collection -BANDAI CARD GAMES Fest. 23-24 Edition-",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              525328
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Sentomaru (CS 2023 Celebration Pack)",
+            "match": "image",
+            "distance": 2
+          },
+          "promoTypes": [
+            {
+              "type": "championship",
+              "category": "championship"
+            },
+            {
+              "type": "event_pack",
+              "category": "event"
+            }
+          ],
+          "artist": "kankurou"
+        },
+        {
+          "id": "ST03-007~tcg420908",
+          "set": "ST03-PRE",
+          "rarity": "C",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/420908_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              420908
+            ]
+          },
+          "tcgplayer": {
+            "name": "Sentomaru",
+            "match": "minted",
+            "distance": 7
+          },
+          "artOf": "ST03-007",
+          "finishes": [
+            "nonfoil"
+          ],
+          "promoTypes": [
+            {
+              "type": "prerelease",
+              "category": "event"
+            }
+          ]
+        },
+        {
+          "id": "ST03-007~tcg497004",
+          "set": "P",
+          "rarity": "P",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/497004_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              497004
+            ]
+          },
+          "tcgplayer": {
+            "name": "Sentomaru (Tournament Pack Vol. 3) [Winner]",
+            "match": "minted",
+            "distance": null
+          },
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "ST03-007~tcg564254",
+          "set": "P",
+          "rarity": "C",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/564254_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              564254
+            ]
+          },
+          "tcgplayer": {
+            "name": "Sentomaru (Premium Card Collection -BANDAI CARD GAMES Fest. 23-24 Edition-)",
+            "match": "minted",
+            "distance": null
+          },
+          "finishes": [
+            "foil"
+          ],
+          "promoTypes": [
+            {
+              "type": "convention",
+              "category": "event"
+            },
+            {
+              "type": "retail_product",
+              "category": "retail"
+            }
+          ]
+        },
+        {
+          "id": "ST03-007~tcg599833",
+          "set": "OP-RP",
+          "rarity": "C",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/599833_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              599833
+            ]
+          },
+          "tcgplayer": {
+            "name": "Sentomaru",
+            "match": "minted",
+            "distance": null
+          },
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
@@ -311,7 +1044,21 @@
           "rarity": "C",
           "block": "1",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST03-008.png",
-          "source": "bandai"
+          "cardSet": "-The Seven Warlords of the Sea-[ST-03]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              288277
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "Trafalgar Law",
+            "match": "image-only-candidate",
+            "distance": 6
+          }
         },
         {
           "id": "ST03-008_p1",
@@ -319,7 +1066,9 @@
           "rarity": "C",
           "block": "1",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST03-008_p1.png",
-          "source": "bandai"
+          "cardSet": "GIFT COLLECTION 2023 [GC-01]",
+          "source": "bandai",
+          "artist": "BISAI"
         },
         {
           "id": "ST03-008_p2",
@@ -327,7 +1076,27 @@
           "rarity": "C",
           "block": "1",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST03-008_p2.png",
-          "source": "bandai"
+          "cardSet": "Event Pack Vol.3",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              539175
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Trafalgar Law (Event Pack Vol. 3)",
+            "match": "image",
+            "distance": 3
+          },
+          "promoTypes": [
+            {
+              "type": "event_pack",
+              "category": "event"
+            }
+          ]
         },
         {
           "id": "ST03-008_p3",
@@ -335,7 +1104,22 @@
           "rarity": "C",
           "block": "1",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST03-008_p3.png",
-          "source": "bandai"
+          "cardSet": "Offline Regional Participation Pack 2024 Vol. 2",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              544788
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Trafalgar Law (Offline Regional 2024 Vol. 2) [Participant]",
+            "match": "image",
+            "distance": 4
+          },
+          "artist": "Nijihayashi"
         },
         {
           "id": "ST03-008_p6",
@@ -343,7 +1127,9 @@
           "rarity": "C",
           "block": "1",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST03-008_p6.png",
-          "source": "bandai"
+          "cardSet": "-ONE PIECE CARD THE BEST- [PRB-01]",
+          "source": "bandai",
+          "artOf": "ST03-008"
         },
         {
           "id": "ST03-008_p7",
@@ -351,7 +1137,24 @@
           "rarity": "C",
           "block": "1",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST03-008_p7.png",
-          "source": "bandai"
+          "cardSet": "-ONE PIECE CARD THE BEST- [PRB-01]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              593584
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Trafalgar Law (ST03-008) (Full Art)",
+            "match": "image",
+            "distance": 2
+          },
+          "treatments": [
+            "full_art"
+          ]
         },
         {
           "id": "ST03-008_r1",
@@ -359,7 +1162,9 @@
           "rarity": "C",
           "block": "1",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST03-008_r1.png",
-          "source": "bandai"
+          "cardSet": "-Blue Donquixote Doflamingo- [ST-17]",
+          "source": "bandai",
+          "artOf": "ST03-008"
         },
         {
           "id": "ST03-008_r2",
@@ -367,7 +1172,278 @@
           "rarity": "C",
           "block": "1",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST03-008_r2.png",
-          "source": "bandai"
+          "cardSet": "-ONE PIECE CARD THE BEST- [PRB-01]",
+          "source": "bandai",
+          "artOf": "ST03-008"
+        },
+        {
+          "id": "ST03-008~tcg420581",
+          "set": "ST03-PRE",
+          "rarity": "C",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/420581_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              420581
+            ]
+          },
+          "tcgplayer": {
+            "name": "Trafalgar Law",
+            "match": "minted",
+            "distance": 6
+          },
+          "artOf": "ST03-008",
+          "finishes": [
+            "nonfoil"
+          ],
+          "promoTypes": [
+            {
+              "type": "prerelease",
+              "category": "event"
+            }
+          ]
+        },
+        {
+          "id": "ST03-008~tcg523776",
+          "set": "P",
+          "rarity": "R",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/523776_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              523776
+            ]
+          },
+          "tcgplayer": {
+            "name": "Trafalgar Law (Gift Collection 2023)",
+            "match": "minted",
+            "distance": null
+          },
+          "finishes": [
+            "foil"
+          ],
+          "promoTypes": [
+            {
+              "type": "retail_product",
+              "category": "retail"
+            }
+          ]
+        },
+        {
+          "id": "ST03-008~tcg525686",
+          "set": "P",
+          "rarity": "C",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/525686_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              525686
+            ]
+          },
+          "tcgplayer": {
+            "name": "Trafalgar Law (CS 2023 Top Players Pack)",
+            "match": "minted",
+            "distance": null
+          },
+          "promoTypes": [
+            {
+              "type": "championship",
+              "category": "championship"
+            },
+            {
+              "type": "placement",
+              "category": "placement"
+            }
+          ]
+        },
+        {
+          "id": "ST03-008~tcg525687",
+          "set": "P",
+          "rarity": "C",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/525687_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              525687
+            ]
+          },
+          "tcgplayer": {
+            "name": "Trafalgar Law (CS 2023 Top Players Pack) [Finalist]",
+            "match": "minted",
+            "distance": null
+          }
+        },
+        {
+          "id": "ST03-008~tcg525688",
+          "set": "P",
+          "rarity": "C",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/525688_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              525688
+            ]
+          },
+          "tcgplayer": {
+            "name": "Trafalgar Law (CS 2023 Top Players Pack) [Winner]",
+            "match": "minted",
+            "distance": null
+          }
+        },
+        {
+          "id": "ST03-008~tcg544789",
+          "set": "P",
+          "rarity": "P",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/544789_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              544789
+            ]
+          },
+          "tcgplayer": {
+            "name": "Trafalgar Law (Online Regional 2024 Vol. 2) [Participant]",
+            "match": "minted",
+            "distance": null
+          },
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "ST03-008~tcg544790",
+          "set": "P",
+          "rarity": "P",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/544790_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              544790
+            ]
+          },
+          "tcgplayer": {
+            "name": "Trafalgar Law (Offline Regional 2024 Vol. 2) [Finalist]",
+            "match": "minted",
+            "distance": null
+          },
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "ST03-008~tcg544791",
+          "set": "P",
+          "rarity": "P",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/544791_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              544791
+            ]
+          },
+          "tcgplayer": {
+            "name": "Trafalgar Law (Online Regional 2024 Vol. 2) [Finalist]",
+            "match": "minted",
+            "distance": null
+          },
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "ST03-008~tcg544792",
+          "set": "P",
+          "rarity": "P",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/544792_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              544792
+            ]
+          },
+          "tcgplayer": {
+            "name": "Trafalgar Law (Offline Regional 2024 Vol. 2) [Winner]",
+            "match": "minted",
+            "distance": null
+          }
+        },
+        {
+          "id": "ST03-008~tcg544793",
+          "set": "P",
+          "rarity": "P",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/544793_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              544793
+            ]
+          },
+          "tcgplayer": {
+            "name": "Trafalgar Law (Online Regional 2024 Vol. 2) [Winner]",
+            "match": "minted",
+            "distance": null
+          }
+        },
+        {
+          "id": "ST03-008~tcg579990",
+          "set": "P",
+          "rarity": "C",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/579990_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              579990
+            ]
+          },
+          "tcgplayer": {
+            "name": "Trafalgar Law - ST03-008 (CS 2024 Event Pack)",
+            "match": "minted",
+            "distance": null
+          },
+          "finishes": [
+            "foil"
+          ],
+          "promoTypes": [
+            {
+              "type": "championship",
+              "category": "championship"
+            },
+            {
+              "type": "event_pack",
+              "category": "event"
+            }
+          ]
+        },
+        {
+          "id": "ST03-008~tcg580040",
+          "set": "P",
+          "rarity": "C",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/580040_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              580040
+            ]
+          },
+          "tcgplayer": {
+            "name": "Trafalgar Law - ST03-008 (CS 2024 Event Pack Finalist)",
+            "match": "minted",
+            "distance": null
+          },
+          "promoTypes": [
+            {
+              "type": "championship",
+              "category": "championship"
+            },
+            {
+              "type": "event_pack",
+              "category": "event"
+            },
+            {
+              "type": "placement",
+              "category": "placement"
+            }
+          ]
         }
       ]
     },
@@ -394,7 +1470,21 @@
           "rarity": "SR",
           "block": "1",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST03-009.png",
-          "source": "bandai"
+          "cardSet": "-The Seven Warlords of the Sea-[ST-03]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              288279
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Donquixote Doflamingo",
+            "match": "image-only-candidate",
+            "distance": 1
+          }
         },
         {
           "id": "ST03-009_p1",
@@ -402,7 +1492,72 @@
           "rarity": "SP CARD",
           "block": "1",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST03-009_p1.png",
-          "source": "bandai"
+          "cardSet": "-PILLARS OF STRENGTH- [OP03]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              501679
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Donquixote Doflamingo (Wanted Poster)",
+            "match": "image-only-candidate",
+            "distance": 1
+          },
+          "treatments": [
+            "wanted_poster"
+          ]
+        },
+        {
+          "id": "ST03-009~tcg420317",
+          "set": "ST03-PRE",
+          "rarity": "SR",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/420317_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              420317
+            ]
+          },
+          "tcgplayer": {
+            "name": "Donquixote Doflamingo",
+            "match": "minted",
+            "distance": 10
+          },
+          "artOf": "ST03-009",
+          "finishes": [
+            "foil"
+          ],
+          "promoTypes": [
+            {
+              "type": "prerelease",
+              "category": "event"
+            }
+          ]
+        },
+        {
+          "id": "ST03-009~tcg599832",
+          "set": "OP-RP",
+          "rarity": "SR",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/599832_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              599832
+            ]
+          },
+          "tcgplayer": {
+            "name": "Donquixote Doflamingo",
+            "match": "minted",
+            "distance": null
+          },
+          "finishes": [
+            "foil",
+            "nonfoil"
+          ]
         }
       ]
     },
@@ -429,7 +1584,48 @@
           "rarity": "C",
           "block": "1",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST03-010.png",
-          "source": "bandai"
+          "cardSet": "-The Seven Warlords of the Sea-[ST-03]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              288280
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "Bartholomew Kuma",
+            "match": "image-only-candidate",
+            "distance": 8
+          }
+        },
+        {
+          "id": "ST03-010~tcg422877",
+          "set": "ST03-PRE",
+          "rarity": "C",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/422877_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              422877
+            ]
+          },
+          "tcgplayer": {
+            "name": "Bartholomew Kuma",
+            "match": "minted",
+            "distance": 6
+          },
+          "artOf": "ST03-010",
+          "finishes": [
+            "nonfoil"
+          ],
+          "promoTypes": [
+            {
+              "type": "prerelease",
+              "category": "event"
+            }
+          ]
         }
       ]
     },
@@ -457,7 +1653,48 @@
           "rarity": "C",
           "block": "1",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST03-011.png",
-          "source": "bandai"
+          "cardSet": "-The Seven Warlords of the Sea-[ST-03]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              288282
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "Buggy",
+            "match": "image-only-candidate",
+            "distance": 4
+          }
+        },
+        {
+          "id": "ST03-011~tcg422584",
+          "set": "ST03-PRE",
+          "rarity": "C",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/422584_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              422584
+            ]
+          },
+          "tcgplayer": {
+            "name": "Buggy",
+            "match": "minted",
+            "distance": 5
+          },
+          "artOf": "ST03-011",
+          "finishes": [
+            "nonfoil"
+          ],
+          "promoTypes": [
+            {
+              "type": "prerelease",
+              "category": "event"
+            }
+          ]
         }
       ]
     },
@@ -485,7 +1722,21 @@
           "rarity": "C",
           "block": "1",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST03-012.png",
-          "source": "bandai"
+          "cardSet": "-The Seven Warlords of the Sea-[ST-03]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              288284
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "Pacifista",
+            "match": "image-only-candidate",
+            "distance": 5
+          }
         },
         {
           "id": "ST03-012_p1",
@@ -493,7 +1744,55 @@
           "rarity": "C",
           "block": "1",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST03-012_p1.png",
-          "source": "bandai"
+          "cardSet": "Premium Card Collection -Best Selection-",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              546672
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Pacifista (Premium Card Collection -Best Selection Vol. 1-)",
+            "match": "image",
+            "distance": 18
+          },
+          "promoTypes": [
+            {
+              "type": "retail_product",
+              "category": "retail"
+            }
+          ],
+          "artist": "ASAKI KURODA"
+        },
+        {
+          "id": "ST03-012~tcg421246",
+          "set": "ST03-PRE",
+          "rarity": "C",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/421246_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              421246
+            ]
+          },
+          "tcgplayer": {
+            "name": "Pacifista",
+            "match": "minted",
+            "distance": 5
+          },
+          "artOf": "ST03-012",
+          "finishes": [
+            "nonfoil"
+          ],
+          "promoTypes": [
+            {
+              "type": "prerelease",
+              "category": "event"
+            }
+          ]
         }
       ]
     },
@@ -521,7 +1820,21 @@
           "rarity": "C",
           "block": "1",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST03-013.png",
-          "source": "bandai"
+          "cardSet": "-The Seven Warlords of the Sea-[ST-03]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              288286
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "Boa Hancock",
+            "match": "image-only-candidate",
+            "distance": 0
+          }
         },
         {
           "id": "ST03-013_p2",
@@ -529,7 +1842,27 @@
           "rarity": "C",
           "block": "1",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST03-013_p2.png",
-          "source": "bandai"
+          "cardSet": "-ONE PIECE CARD THE BEST- [PRB-01]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              586896
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Boa Hancock (ST03-013) (Jolly Roger Foil)",
+            "match": "image",
+            "distance": 2
+          },
+          "promoTypes": [
+            {
+              "type": "jolly_roger_foil",
+              "category": "foil-pattern"
+            }
+          ]
         },
         {
           "id": "ST03-013_p3",
@@ -537,7 +1870,25 @@
           "rarity": "C",
           "block": "1",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST03-013_p3.png",
-          "source": "bandai"
+          "cardSet": "-ONE PIECE CARD THE BEST- [PRB-01]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              593585
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Boa Hancock (ST03-013) (Full Art)",
+            "match": "image",
+            "distance": 5
+          },
+          "treatments": [
+            "full_art"
+          ],
+          "artist": "Pisuke"
         },
         {
           "id": "ST03-013_p4",
@@ -545,7 +1896,25 @@
           "rarity": "C",
           "block": "1",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST03-013_p4.png",
-          "source": "bandai"
+          "cardSet": "-ONE PIECE CARD THE BEST- [PRB-01]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              593586
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Boa Hancock (ST03-013) (Alternate Art)",
+            "match": "image",
+            "distance": 2
+          },
+          "treatments": [
+            "alternate_art"
+          ],
+          "artist": "Hashimoto Q"
         },
         {
           "id": "ST03-013_r1",
@@ -553,7 +1922,62 @@
           "rarity": "C",
           "block": "1",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST03-013_r1.png",
-          "source": "bandai"
+          "cardSet": "-ONE PIECE CARD THE BEST- [PRB-01]",
+          "source": "bandai",
+          "artOf": "ST03-013"
+        },
+        {
+          "id": "ST03-013~tcg422741",
+          "set": "ST03-PRE",
+          "rarity": "C",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/422741_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              422741
+            ]
+          },
+          "tcgplayer": {
+            "name": "Boa Hancock",
+            "match": "minted",
+            "distance": 1
+          },
+          "artOf": "ST03-013",
+          "finishes": [
+            "nonfoil"
+          ],
+          "promoTypes": [
+            {
+              "type": "prerelease",
+              "category": "event"
+            }
+          ]
+        },
+        {
+          "id": "ST03-013~tcg587224",
+          "set": "P",
+          "rarity": "C",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/587224_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              587224
+            ]
+          },
+          "tcgplayer": {
+            "name": "Boa Hancock (Premium Card Collection -Best Selection Vol. 2-)",
+            "match": "minted",
+            "distance": null
+          },
+          "finishes": [
+            "foil"
+          ],
+          "promoTypes": [
+            {
+              "type": "retail_product",
+              "category": "retail"
+            }
+          ]
         }
       ]
     },
@@ -581,7 +2005,21 @@
           "rarity": "C",
           "block": "1",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST03-014.png",
-          "source": "bandai"
+          "cardSet": "-The Seven Warlords of the Sea-[ST-03]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              288288
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "Marshall.D.Teach",
+            "match": "image-only-candidate",
+            "distance": 2
+          }
         },
         {
           "id": "ST03-014_p1",
@@ -589,7 +2027,186 @@
           "rarity": "C",
           "block": "1",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST03-014_p1.png",
-          "source": "bandai"
+          "cardSet": "Included in Online Regional Participation Pack Vol.1",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              482227
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Marshall.D.Teach (Online Regional 2023) [Participant]",
+            "match": "image",
+            "distance": 11
+          },
+          "artist": "DAI-XT."
+        },
+        {
+          "id": "ST03-014~tcg421466",
+          "set": "ST03-PRE",
+          "rarity": "C",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/421466_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              421466
+            ]
+          },
+          "tcgplayer": {
+            "name": "Marshall.D.Teach",
+            "match": "minted",
+            "distance": 6
+          },
+          "artOf": "ST03-014",
+          "finishes": [
+            "nonfoil"
+          ],
+          "promoTypes": [
+            {
+              "type": "prerelease",
+              "category": "event"
+            }
+          ]
+        },
+        {
+          "id": "ST03-014~tcg482228",
+          "set": "P",
+          "rarity": "P",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/482228_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              482228
+            ]
+          },
+          "tcgplayer": {
+            "name": "Marshall.D.Teach (Online Regional 2023) [Finalist]",
+            "match": "minted",
+            "distance": null
+          }
+        },
+        {
+          "id": "ST03-014~tcg482229",
+          "set": "P",
+          "rarity": "P",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/482229_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              482229
+            ]
+          },
+          "tcgplayer": {
+            "name": "Marshall.D.Teach (Online Regional 2023) [Winner]",
+            "match": "minted",
+            "distance": null
+          }
+        },
+        {
+          "id": "ST03-014~tcg483185",
+          "set": "P",
+          "rarity": "P",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/483185_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              483185
+            ]
+          },
+          "tcgplayer": {
+            "name": "Marshall.D.Teach (Offline Regional 2023) [Participant]",
+            "match": "minted",
+            "distance": null
+          },
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "ST03-014~tcg483186",
+          "set": "P",
+          "rarity": "P",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/483186_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              483186
+            ]
+          },
+          "tcgplayer": {
+            "name": "Marshall.D.Teach (Offline Regional 2023) [Finalist]",
+            "match": "minted",
+            "distance": null
+          },
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "ST03-014~tcg483187",
+          "set": "P",
+          "rarity": "P",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/483187_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              483187
+            ]
+          },
+          "tcgplayer": {
+            "name": "Marshall.D.Teach (Offline Regional 2023) [Winner]",
+            "match": "minted",
+            "distance": null
+          }
+        },
+        {
+          "id": "ST03-014~tcg583754",
+          "set": "P",
+          "rarity": "C",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/583754_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              583754
+            ]
+          },
+          "tcgplayer": {
+            "name": "Marshall.D.Teach (Judge Pack Vol. 4)",
+            "match": "minted",
+            "distance": null
+          },
+          "finishes": [
+            "foil"
+          ],
+          "promoTypes": [
+            {
+              "type": "judgegift",
+              "category": "program"
+            }
+          ]
+        },
+        {
+          "id": "ST03-014~tcg599830",
+          "set": "OP-RP",
+          "rarity": "C",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/599830_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              599830
+            ]
+          },
+          "tcgplayer": {
+            "name": "Marshall.D.Teach",
+            "match": "minted",
+            "distance": null
+          },
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
@@ -612,7 +2229,68 @@
           "rarity": "C",
           "block": "1",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST03-015.png",
-          "source": "bandai"
+          "cardSet": "-The Seven Warlords of the Sea-[ST-03]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              288289
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "Sables",
+            "match": "image-only-candidate",
+            "distance": 5
+          }
+        },
+        {
+          "id": "ST03-015~tcg421076",
+          "set": "ST03-PRE",
+          "rarity": "C",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/421076_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              421076
+            ]
+          },
+          "tcgplayer": {
+            "name": "Sables",
+            "match": "minted",
+            "distance": 9
+          },
+          "artOf": "ST03-015",
+          "finishes": [
+            "nonfoil"
+          ],
+          "promoTypes": [
+            {
+              "type": "prerelease",
+              "category": "event"
+            }
+          ]
+        },
+        {
+          "id": "ST03-015~tcg599829",
+          "set": "OP-RP",
+          "rarity": "C",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/599829_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              599829
+            ]
+          },
+          "tcgplayer": {
+            "name": "Sables",
+            "match": "minted",
+            "distance": null
+          },
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
@@ -635,7 +2313,68 @@
           "rarity": "C",
           "block": "1",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST03-016.png",
-          "source": "bandai"
+          "cardSet": "-The Seven Warlords of the Sea-[ST-03]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              288290
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "Thrust Pad Cannon",
+            "match": "image-only-candidate",
+            "distance": 4
+          }
+        },
+        {
+          "id": "ST03-016~tcg420715",
+          "set": "ST03-PRE",
+          "rarity": "C",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/420715_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              420715
+            ]
+          },
+          "tcgplayer": {
+            "name": "Thrust Pad Cannon",
+            "match": "minted",
+            "distance": 8
+          },
+          "artOf": "ST03-016",
+          "finishes": [
+            "nonfoil"
+          ],
+          "promoTypes": [
+            {
+              "type": "prerelease",
+              "category": "event"
+            }
+          ]
+        },
+        {
+          "id": "ST03-016~tcg599827",
+          "set": "OP-RP",
+          "rarity": "C",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/599827_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              599827
+            ]
+          },
+          "tcgplayer": {
+            "name": "Thrust Pad Cannon",
+            "match": "minted",
+            "distance": null
+          },
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
@@ -658,7 +2397,21 @@
           "rarity": "C",
           "block": "1",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST03-017.png",
-          "source": "bandai"
+          "cardSet": "-The Seven Warlords of the Sea-[ST-03]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              288291
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "Love-Love Mellow",
+            "match": "image-only-candidate",
+            "distance": 10
+          }
         },
         {
           "id": "ST03-017_p1",
@@ -666,7 +2419,75 @@
           "rarity": "C",
           "block": "1",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST03-017_p1.png",
-          "source": "bandai"
+          "cardSet": "Premium Card Collection -Best Selection-",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              546668
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Love-Love Mellow (Premium Card Collection -Best Selection Vol. 1-)",
+            "match": "image",
+            "distance": 16
+          },
+          "promoTypes": [
+            {
+              "type": "retail_product",
+              "category": "retail"
+            }
+          ],
+          "artist": "Sunohara"
+        },
+        {
+          "id": "ST03-017~tcg421695",
+          "set": "ST03-PRE",
+          "rarity": "C",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/421695_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              421695
+            ]
+          },
+          "tcgplayer": {
+            "name": "Love-Love Mellow",
+            "match": "minted",
+            "distance": 5
+          },
+          "artOf": "ST03-017",
+          "finishes": [
+            "nonfoil"
+          ],
+          "promoTypes": [
+            {
+              "type": "prerelease",
+              "category": "event"
+            }
+          ]
+        },
+        {
+          "id": "ST03-017~tcg599823",
+          "set": "OP-RP",
+          "rarity": "C",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/599823_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              599823
+            ]
+          },
+          "tcgplayer": {
+            "name": "Love-Love Mellow",
+            "match": "minted",
+            "distance": null
+          },
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     }

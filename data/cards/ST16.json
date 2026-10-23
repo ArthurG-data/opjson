@@ -22,7 +22,22 @@
           "rarity": "SR",
           "block": "3",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST16-001.png",
-          "source": "bandai"
+          "cardSet": "-Green Uta- [ST-16]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              581001
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Uta (ST16-001)",
+            "match": "image-only-candidate",
+            "distance": 0
+          },
+          "artist": "Yosuke Adachi"
         }
       ]
     },
@@ -48,7 +63,22 @@
           "rarity": "C",
           "block": "3",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST16-002.png",
-          "source": "bandai"
+          "cardSet": "-Green Uta- [ST-16]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              581002
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "Gordon",
+            "match": "image-only-candidate",
+            "distance": 2
+          },
+          "artist": "kankurou"
         }
       ]
     },
@@ -76,7 +106,22 @@
           "rarity": "C",
           "block": "3",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST16-003.png",
-          "source": "bandai"
+          "cardSet": "-Green Uta- [ST-16]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              581003
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "Charlotte Katakuri",
+            "match": "image-only-candidate",
+            "distance": 1
+          },
+          "artist": "eiji kaneda"
         },
         {
           "id": "ST16-003_p1",
@@ -84,7 +129,28 @@
           "rarity": "C",
           "block": "3",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST16-003_p1.png",
-          "source": "bandai"
+          "cardSet": "-ONE PIECE CARD THE BEST vol.2- [PRB-02]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              656068
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Charlotte Katakuri (Pirate Foil)",
+            "match": "image",
+            "distance": 4
+          },
+          "promoTypes": [
+            {
+              "type": "pirate_foil",
+              "category": "foil-pattern"
+            }
+          ],
+          "artist": "eiji kaneda"
         },
         {
           "id": "ST16-003_r1",
@@ -92,7 +158,26 @@
           "rarity": "C",
           "block": "3",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST16-003_r1.png",
-          "source": "bandai"
+          "cardSet": "-ONE PIECE CARD THE BEST vol.2- [PRB-02]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              656066
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "Charlotte Katakuri (Reprint)",
+            "match": "image",
+            "distance": 4
+          },
+          "treatments": [
+            "reprint"
+          ],
+          "artOf": "ST16-003",
+          "artist": "eiji kaneda"
         }
       ]
     },
@@ -120,7 +205,22 @@
           "rarity": "SR",
           "block": "3",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST16-004.png",
-          "source": "bandai"
+          "cardSet": "-Green Uta- [ST-16]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              581004
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Shanks",
+            "match": "image-only-candidate",
+            "distance": 1
+          },
+          "artist": "Nijihayashi"
         },
         {
           "id": "ST16-004_p1",
@@ -128,7 +228,25 @@
           "rarity": "SP CARD",
           "block": "3",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST16-004_p1.png",
-          "source": "bandai"
+          "cardSet": "-A FIST OF DIVINE SPEED- [OP-11]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              632508
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Shanks (SP)",
+            "match": "image-only-candidate",
+            "distance": 0
+          },
+          "treatments": [
+            "sp"
+          ],
+          "artist": "Sunohara"
         },
         {
           "id": "ST16-004_p2",
@@ -136,7 +254,25 @@
           "rarity": "SR",
           "block": "3",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST16-004_p2.png",
-          "source": "bandai"
+          "cardSet": "-ONE PIECE CARD THE BEST vol.2- [PRB-02]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              653839
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Shanks - ST16-004 (Alternate Art)",
+            "match": "image",
+            "distance": 3
+          },
+          "treatments": [
+            "alternate_art"
+          ],
+          "artist": "Nijihayashi"
         },
         {
           "id": "ST16-004_r1",
@@ -144,7 +280,26 @@
           "rarity": "SR",
           "block": "3",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST16-004_r1.png",
-          "source": "bandai"
+          "cardSet": "-ONE PIECE CARD THE BEST vol.2- [PRB-02]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              656060
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Shanks - ST16-004 (Reprint)",
+            "match": "image",
+            "distance": 1
+          },
+          "treatments": [
+            "reprint"
+          ],
+          "artOf": "ST16-004",
+          "artist": "Nijihayashi"
         }
       ]
     },
@@ -173,7 +328,22 @@
           "rarity": "C",
           "block": "3",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST16-005.png",
-          "source": "bandai"
+          "cardSet": "-Green Uta- [ST-16]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              581005
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "Monkey.D.Luffy (ST16-005)",
+            "match": "image-only-candidate",
+            "distance": 2
+          },
+          "artist": "Yasushi Yamaguchi"
         },
         {
           "id": "ST16-005_p1",
@@ -181,7 +351,29 @@
           "rarity": "C",
           "block": "3",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST16-005_p1.png",
-          "source": "bandai"
+          "cardSet": "-ONE PIECE CARD THE BEST vol.2- [PRB-02]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              656053
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Monkey.D.Luffy - ST16-005 (Pirate Foil)",
+            "match": "image+name",
+            "distance": 2
+          },
+          "promoTypes": [
+            {
+              "type": "pirate_foil",
+              "category": "foil-pattern"
+            }
+          ],
+          "artOf": "ST16-005",
+          "artist": "Yasushi Yamaguchi"
         },
         {
           "id": "ST16-005_r1",
@@ -189,7 +381,108 @@
           "rarity": "C",
           "block": "3",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST16-005_r1.png",
-          "source": "bandai"
+          "cardSet": "-ONE PIECE CARD THE BEST vol.2- [PRB-02]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              656051
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "Monkey.D.Luffy - ST16-005 (Reprint)",
+            "match": "image+name",
+            "distance": 4
+          },
+          "treatments": [
+            "reprint"
+          ],
+          "artOf": "ST16-005",
+          "artist": "Yasushi Yamaguchi"
+        },
+        {
+          "id": "ST16-005~tcg636545",
+          "set": "P",
+          "rarity": "C",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/636545_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              636545
+            ]
+          },
+          "tcgplayer": {
+            "name": "Monkey.D.Luffy (Beginners Deck Party [ST-23] - [ST-28] Participation Pack)",
+            "match": "minted",
+            "distance": null
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "promoTypes": [
+            {
+              "type": "event_pack",
+              "category": "event"
+            }
+          ]
+        },
+        {
+          "id": "ST16-005~tcg636546",
+          "set": "P",
+          "rarity": "C",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/636546_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              636546
+            ]
+          },
+          "tcgplayer": {
+            "name": "Monkey.D.Luffy (Beginners Deck Party [ST-23] - [ST-28] Winner Pack)",
+            "match": "minted",
+            "distance": null
+          },
+          "finishes": [
+            "foil"
+          ],
+          "promoTypes": [
+            {
+              "type": "event_pack",
+              "category": "event"
+            },
+            {
+              "type": "placement",
+              "category": "placement"
+            }
+          ]
+        },
+        {
+          "id": "ST16-005~tcg652240",
+          "set": "P",
+          "rarity": "C",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/652240_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              652240
+            ]
+          },
+          "tcgplayer": {
+            "name": "Monkey.D.Luffy (Welcome Pack Vol. 2)",
+            "match": "minted",
+            "distance": null
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "promoTypes": [
+            {
+              "type": "retail_product",
+              "category": "retail"
+            }
+          ]
         }
       ]
     }

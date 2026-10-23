@@ -1,0 +1,115 @@
+{
+  "products": [
+    {
+      "id": "starter-deck-17-blue-donquixote-doflamingo",
+      "set": "ST17",
+      "category": "starter_deck",
+      "name": "Starter Deck 17: BLUE Donquixote Doflamingo",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          545039
+        ]
+      },
+      "contentsStatus": "partial",
+      "contents": {
+        "cards": [
+          {
+            "printing": "OP01-060_p2"
+          },
+          {
+            "printing": "OP01-073_r1"
+          },
+          {
+            "printing": "OP01-086_r1"
+          },
+          {
+            "printing": "OP02-054_r1"
+          },
+          {
+            "printing": "OP02-057_r1"
+          },
+          {
+            "printing": "P-030_r1"
+          },
+          {
+            "printing": "ST03-002_r1"
+          },
+          {
+            "printing": "ST03-004_r1"
+          },
+          {
+            "printing": "ST03-005_r1"
+          },
+          {
+            "printing": "ST03-008_r1"
+          },
+          {
+            "printing": "ST17-001"
+          },
+          {
+            "printing": "ST17-002"
+          },
+          {
+            "printing": "ST17-003"
+          },
+          {
+            "printing": "ST17-004"
+          },
+          {
+            "printing": "ST17-005"
+          }
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/545039"
+      ],
+      "releaseDate": "2024-10-25"
+    },
+    {
+      "id": "starter-deck-17-blue-donquixote-doflamingo-display",
+      "set": "ST17",
+      "category": "display",
+      "name": "Starter Deck 17: BLUE Donquixote Doflamingo Display",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          545040
+        ]
+      },
+      "contentsStatus": "partial",
+      "contents": {
+        "sealed": [
+          {
+            "product": "starter-deck-17-blue-donquixote-doflamingo"
+          }
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/545040"
+      ],
+      "releaseDate": "2024-10-25"
+    },
+    {
+      "id": "starter-deck-17-blue-donquixote-doflamingo-display-case",
+      "set": "ST17",
+      "category": "case",
+      "name": "Starter Deck 17: BLUE Donquixote Doflamingo Display Case",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          545041
+        ]
+      },
+      "contentsStatus": "partial",
+      "contents": {
+        "sealed": [
+          {
+            "product": "starter-deck-17-blue-donquixote-doflamingo"
+          }
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/545041"
+      ],
+      "releaseDate": "2024-10-25"
+    }
+  ]
+}

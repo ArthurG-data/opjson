@@ -1,0 +1,164 @@
+{
+  "products": [
+    {
+      "id": "double-pack-set-vol-9",
+      "set": "OP14-EB04",
+      "category": "double_pack",
+      "name": "Double Pack Set Vol. 9",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          666578
+        ]
+      },
+      "contentsStatus": "unknown",
+      "contents": {},
+      "sources": [
+        "https://www.tcgplayer.com/product/666578"
+      ],
+      "releaseDate": "2026-01-16"
+    },
+    {
+      "id": "double-pack-set-vol-9-display",
+      "set": "OP14-EB04",
+      "category": "display",
+      "name": "Double Pack Set Vol. 9 Display",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          666579
+        ]
+      },
+      "contentsStatus": "partial",
+      "contents": {
+        "sealed": [
+          {
+            "product": "double-pack-set-vol-9"
+          }
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/666579"
+      ],
+      "releaseDate": "2026-01-16"
+    },
+    {
+      "id": "special-don-card-pack-dp-09",
+      "set": "OP14-EB04",
+      "category": "promo_pack",
+      "name": "Special DON!! Card Pack DP-09",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          675812
+        ]
+      },
+      "contentsStatus": "unknown",
+      "contents": {},
+      "sources": [
+        "https://www.tcgplayer.com/product/675812"
+      ],
+      "releaseDate": "2026-01-16"
+    },
+    {
+      "id": "the-azure-sea-s-seven-booster-box",
+      "set": "OP14-EB04",
+      "category": "booster_box",
+      "name": "The Azure Sea's Seven Booster Box",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          665598
+        ]
+      },
+      "contentsStatus": "unknown",
+      "contents": {},
+      "sources": [
+        "https://www.tcgplayer.com/product/665598"
+      ],
+      "releaseDate": "2026-01-16"
+    },
+    {
+      "id": "the-azure-sea-s-seven-booster-box-case",
+      "set": "OP14-EB04",
+      "category": "case",
+      "name": "The Azure Sea's Seven Booster Box Case",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          665599
+        ]
+      },
+      "contentsStatus": "partial",
+      "contents": {
+        "sealed": [
+          {
+            "product": "the-azure-sea-s-seven-booster-box"
+          }
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/665599"
+      ],
+      "releaseDate": "2026-01-16"
+    },
+    {
+      "id": "the-azure-sea-s-seven-booster-pack",
+      "set": "OP14-EB04",
+      "category": "booster_pack",
+      "name": "The Azure Sea's Seven Booster Pack",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          666577
+        ]
+      },
+      "contentsStatus": "partial",
+      "contents": {
+        "pool": [
+          {
+            "set": "OP14-EB04"
+          }
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/666577"
+      ],
+      "releaseDate": "2026-01-16"
+    },
+    {
+      "id": "the-azure-sea-s-seven-dash-pack",
+      "set": "OP14-EB04",
+      "category": "promo_pack",
+      "name": "The Azure Sea's Seven - Dash Pack",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          672372
+        ]
+      },
+      "contentsStatus": "unknown",
+      "contents": {},
+      "sources": [
+        "https://www.tcgplayer.com/product/672372"
+      ],
+      "releaseDate": "2026-01-16"
+    },
+    {
+      "id": "the-azure-sea-s-seven-sleeved-booster-pack",
+      "set": "OP14-EB04",
+      "category": "sleeved_booster_pack",
+      "name": "The Azure Sea's Seven Sleeved Booster Pack",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          666576
+        ]
+      },
+      "contentsStatus": "partial",
+      "contents": {
+        "pool": [
+          {
+            "set": "OP14-EB04"
+          }
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/666576"
+      ],
+      "releaseDate": "2026-01-16"
+    }
+  ]
+}

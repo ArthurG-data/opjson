@@ -1,0 +1,115 @@
+{
+  "products": [
+    {
+      "id": "starter-deck-18-purple-monkey-d-luffy",
+      "set": "ST18",
+      "category": "starter_deck",
+      "name": "Starter Deck 18: PURPLE Monkey.D.Luffy",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          545042
+        ]
+      },
+      "contentsStatus": "partial",
+      "contents": {
+        "cards": [
+          {
+            "printing": "OP05-060_p3"
+          },
+          {
+            "printing": "OP05-061_r1"
+          },
+          {
+            "printing": "OP05-063_r1"
+          },
+          {
+            "printing": "OP05-066_r1"
+          },
+          {
+            "printing": "OP05-067_r1"
+          },
+          {
+            "printing": "OP05-068_r1"
+          },
+          {
+            "printing": "OP05-070_r1"
+          },
+          {
+            "printing": "OP05-072_r1"
+          },
+          {
+            "printing": "OP05-076_p1"
+          },
+          {
+            "printing": "P-041_r1"
+          },
+          {
+            "printing": "ST18-001"
+          },
+          {
+            "printing": "ST18-002"
+          },
+          {
+            "printing": "ST18-003"
+          },
+          {
+            "printing": "ST18-004"
+          },
+          {
+            "printing": "ST18-005"
+          }
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/545042"
+      ],
+      "releaseDate": "2024-10-25"
+    },
+    {
+      "id": "starter-deck-18-purple-monkey-d-luffy-display",
+      "set": "ST18",
+      "category": "display",
+      "name": "Starter Deck 18: PURPLE Monkey.D.Luffy Display",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          545043
+        ]
+      },
+      "contentsStatus": "partial",
+      "contents": {
+        "sealed": [
+          {
+            "product": "starter-deck-18-purple-monkey-d-luffy"
+          }
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/545043"
+      ],
+      "releaseDate": "2024-10-25"
+    },
+    {
+      "id": "starter-deck-18-purple-monkey-d-luffy-display-case",
+      "set": "ST18",
+      "category": "case",
+      "name": "Starter Deck 18: PURPLE Monkey.D.Luffy Display Case",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          545044
+        ]
+      },
+      "contentsStatus": "partial",
+      "contents": {
+        "sealed": [
+          {
+            "product": "starter-deck-18-purple-monkey-d-luffy"
+          }
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/545044"
+      ],
+      "releaseDate": "2024-10-25"
+    }
+  ]
+}

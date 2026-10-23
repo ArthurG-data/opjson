@@ -23,7 +23,21 @@
           "rarity": "L",
           "block": "1",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST07-001.png",
-          "source": "bandai"
+          "cardSet": "Big Mom Pirates [ST-07]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              500128
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Charlotte Linlin",
+            "match": "image-only-candidate",
+            "distance": 3
+          }
         }
       ]
     },
@@ -50,7 +64,22 @@
           "rarity": "C",
           "block": "1",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST07-002.png",
-          "source": "bandai"
+          "cardSet": "Big Mom Pirates [ST-07]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              500129
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "Charlotte Anana",
+            "match": "image-only-candidate",
+            "distance": 3
+          },
+          "artist": "Misa Matoki"
         }
       ]
     },
@@ -76,7 +105,21 @@
           "rarity": "SR",
           "block": "1",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST07-003.png",
-          "source": "bandai"
+          "cardSet": "Big Mom Pirates [ST-07]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              500130
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Charlotte Katakuri",
+            "match": "image-only-candidate",
+            "distance": 1
+          }
         }
       ]
     },
@@ -102,7 +145,22 @@
           "rarity": "C",
           "block": "1",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST07-004.png",
-          "source": "bandai"
+          "cardSet": "Big Mom Pirates [ST-07]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              500132
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "Charlotte Snack",
+            "match": "image-only-candidate",
+            "distance": 3
+          },
+          "artist": "kankurou"
         }
       ]
     },
@@ -129,7 +187,22 @@
           "rarity": "C",
           "block": "1",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST07-005.png",
-          "source": "bandai"
+          "cardSet": "Big Mom Pirates [ST-07]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              500134
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "Charlotte Daifuku",
+            "match": "image-only-candidate",
+            "distance": 1
+          },
+          "artist": "kankurou"
         },
         {
           "id": "ST07-005_r1",
@@ -137,7 +210,23 @@
           "rarity": "C",
           "block": "1",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST07-005_r1.png",
-          "source": "bandai"
+          "cardSet": "-Yellow Charlotte Katakuri- [ST-20]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              581059
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "Charlotte Daifuku",
+            "match": "image-only-candidate",
+            "distance": 2
+          },
+          "artOf": "ST07-005",
+          "artist": "kankurou"
         }
       ]
     },
@@ -164,7 +253,22 @@
           "rarity": "C",
           "block": "1",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST07-006.png",
-          "source": "bandai"
+          "cardSet": "Big Mom Pirates [ST-07]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              500137
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "Charlotte Flampe",
+            "match": "image-only-candidate",
+            "distance": 2
+          },
+          "artist": "Misa Matoki"
         }
       ]
     },
@@ -191,7 +295,21 @@
           "rarity": "C",
           "block": "1",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST07-007.png",
-          "source": "bandai"
+          "cardSet": "Big Mom Pirates [ST-07]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              500139
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "Charlotte Brulee",
+            "match": "image-only-candidate",
+            "distance": 3
+          }
         },
         {
           "id": "ST07-007_p2",
@@ -199,7 +317,28 @@
           "rarity": "C",
           "block": "1",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST07-007_p2.png",
-          "source": "bandai"
+          "cardSet": "-ONE PIECE CARD THE BEST- [PRB-01]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              593676
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Charlotte Brulee (Jolly Roger Foil)",
+            "match": "image+name",
+            "distance": 3
+          },
+          "promoTypes": [
+            {
+              "type": "jolly_roger_foil",
+              "category": "foil-pattern"
+            }
+          ],
+          "artOf": "ST07-007"
         },
         {
           "id": "ST07-007_p3",
@@ -207,7 +346,24 @@
           "rarity": "C",
           "block": "1",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST07-007_p3.png",
-          "source": "bandai"
+          "cardSet": "-ONE PIECE CARD THE BEST- [PRB-01]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              593677
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Charlotte Brulee (Full Art)",
+            "match": "image",
+            "distance": 4
+          },
+          "treatments": [
+            "full_art"
+          ]
         },
         {
           "id": "ST07-007_r1",
@@ -215,7 +371,39 @@
           "rarity": "C",
           "block": "1",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST07-007_r1.png",
-          "source": "bandai"
+          "cardSet": "-ONE PIECE CARD THE BEST- [PRB-01]",
+          "source": "bandai",
+          "artOf": "ST07-007"
+        },
+        {
+          "id": "ST07-007~tcg503021",
+          "set": "P",
+          "rarity": "P",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/503021_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              503021
+            ]
+          },
+          "tcgplayer": {
+            "name": "Charlotte Brulee (Store Championship 2023 Participation Pack Vol.1)",
+            "match": "minted",
+            "distance": null
+          },
+          "finishes": [
+            "foil"
+          ],
+          "promoTypes": [
+            {
+              "type": "championship",
+              "category": "championship"
+            },
+            {
+              "type": "event_pack",
+              "category": "event"
+            }
+          ]
         }
       ]
     },
@@ -242,7 +430,21 @@
           "rarity": "C",
           "block": "1",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST07-008.png",
-          "source": "bandai"
+          "cardSet": "Big Mom Pirates [ST-07]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              500140
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "Charlotte Pudding",
+            "match": "image-only-candidate",
+            "distance": 1
+          }
         },
         {
           "id": "ST07-008_p1",
@@ -250,7 +452,116 @@
           "rarity": "C",
           "block": "1",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST07-008_p1.png",
-          "source": "bandai"
+          "cardSet": "Included in Online Regional Participation Pack Vol.1",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              482233
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Charlotte Pudding (Online Regional 2023) [Participant]",
+            "match": "image",
+            "distance": 5
+          },
+          "artist": "Nekobayashi"
+        },
+        {
+          "id": "ST07-008~tcg482234",
+          "set": "P",
+          "rarity": "P",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/482234_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              482234
+            ]
+          },
+          "tcgplayer": {
+            "name": "Charlotte Pudding (Online Regional 2023) [Finalist]",
+            "match": "minted",
+            "distance": null
+          },
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "ST07-008~tcg482235",
+          "set": "P",
+          "rarity": "P",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/482235_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              482235
+            ]
+          },
+          "tcgplayer": {
+            "name": "Charlotte Pudding (Online Regional 2023) [Winner]",
+            "match": "minted",
+            "distance": null
+          }
+        },
+        {
+          "id": "ST07-008~tcg483195",
+          "set": "P",
+          "rarity": "P",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/483195_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              483195
+            ]
+          },
+          "tcgplayer": {
+            "name": "Charlotte Pudding (Offline Regional 2023) [Participant]",
+            "match": "minted",
+            "distance": null
+          },
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "ST07-008~tcg483197",
+          "set": "P",
+          "rarity": "P",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/483197_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              483197
+            ]
+          },
+          "tcgplayer": {
+            "name": "Charlotte Pudding (Offline Regional 2023) [Finalist]",
+            "match": "minted",
+            "distance": null
+          },
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "ST07-008~tcg483198",
+          "set": "P",
+          "rarity": "P",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/483198_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              483198
+            ]
+          },
+          "tcgplayer": {
+            "name": "Charlotte Pudding (Offline Regional 2023) [Winner]",
+            "match": "minted",
+            "distance": null
+          }
         }
       ]
     },
@@ -277,7 +588,22 @@
           "rarity": "C",
           "block": "1",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST07-009.png",
-          "source": "bandai"
+          "cardSet": "Big Mom Pirates [ST-07]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              500142
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "Charlotte Mont-d'Or",
+            "match": "image-only-candidate",
+            "distance": 2
+          },
+          "artist": "BISAI"
         }
       ]
     },
@@ -304,7 +630,48 @@
           "rarity": "SR",
           "block": "1",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST07-010.png",
-          "source": "bandai"
+          "cardSet": "Big Mom Pirates [ST-07]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              500145
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Charlotte Linlin (010)",
+            "match": "image-only-candidate",
+            "distance": 1
+          },
+          "artist": "BISAI"
+        },
+        {
+          "id": "ST07-010~tcg561185",
+          "set": "P",
+          "rarity": "SR",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/561185_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              561185
+            ]
+          },
+          "tcgplayer": {
+            "name": "Charlotte Linlin (Treasure Cup)",
+            "match": "minted",
+            "distance": null
+          },
+          "finishes": [
+            "foil"
+          ],
+          "promoTypes": [
+            {
+              "type": "treasure_cup",
+              "category": "championship"
+            }
+          ]
         }
       ]
     },
@@ -332,7 +699,22 @@
           "rarity": "C",
           "block": "1",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST07-011.png",
-          "source": "bandai"
+          "cardSet": "Big Mom Pirates [ST-07]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              500147
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "Zeus",
+            "match": "image-only-candidate",
+            "distance": 6
+          },
+          "artist": "HISASHI HUJIWARA"
         }
       ]
     },
@@ -359,7 +741,21 @@
           "rarity": "C",
           "block": "1",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST07-012.png",
-          "source": "bandai"
+          "cardSet": "Big Mom Pirates [ST-07]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              500149
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "Baron Tamago",
+            "match": "image-only-candidate",
+            "distance": 1
+          }
         }
       ]
     },
@@ -387,7 +783,22 @@
           "rarity": "C",
           "block": "1",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST07-013.png",
-          "source": "bandai"
+          "cardSet": "Big Mom Pirates [ST-07]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              500150
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "Prometheus",
+            "match": "image-only-candidate",
+            "distance": 5
+          },
+          "artist": "HISASHI HUJIWARA"
         }
       ]
     },
@@ -415,7 +826,21 @@
           "rarity": "C",
           "block": "1",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST07-014.png",
-          "source": "bandai"
+          "cardSet": "Big Mom Pirates [ST-07]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              500151
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "Pekoms",
+            "match": "image-only-candidate",
+            "distance": 2
+          }
         },
         {
           "id": "ST07-014_r1",
@@ -423,7 +848,9 @@
           "rarity": "C",
           "block": "1",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST07-014_r1.png",
-          "source": "bandai"
+          "cardSet": "-Yellow Charlotte Katakuri- [ST-20]",
+          "source": "bandai",
+          "artOf": "ST07-014"
         }
       ]
     },
@@ -446,7 +873,21 @@
           "rarity": "C",
           "block": "1",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST07-015.png",
-          "source": "bandai"
+          "cardSet": "Big Mom Pirates [ST-07]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              500152
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "Soul Pocus",
+            "match": "image-only-candidate",
+            "distance": 3
+          }
         }
       ]
     },
@@ -468,7 +909,21 @@
           "rarity": "C",
           "block": "1",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST07-016.png",
-          "source": "bandai"
+          "cardSet": "Big Mom Pirates [ST-07]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              500153
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "Power Mochi",
+            "match": "image-only-candidate",
+            "distance": 4
+          }
         }
       ]
     },
@@ -491,7 +946,21 @@
           "rarity": "C",
           "block": "1",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST07-017.png",
-          "source": "bandai"
+          "cardSet": "Big Mom Pirates [ST-07]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              500154
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "Queen Mama Chanter",
+            "match": "image-only-candidate",
+            "distance": 2
+          }
         }
       ]
     }

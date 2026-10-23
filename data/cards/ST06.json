@@ -22,7 +22,21 @@
           "rarity": "L",
           "block": "1",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST06-001.png",
-          "source": "bandai"
+          "cardSet": "-Absolute Justice- [ST-06]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              485247
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Sakazuki",
+            "match": "image-only-candidate",
+            "distance": 3
+          }
         }
       ]
     },
@@ -49,7 +63,48 @@
           "rarity": "C",
           "block": "1",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST06-002.png",
-          "source": "bandai"
+          "cardSet": "-Absolute Justice- [ST-06]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              485248
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "Koby",
+            "match": "image-only-candidate",
+            "distance": 2
+          },
+          "artist": "BISAI"
+        },
+        {
+          "id": "ST06-002~tcg483106",
+          "set": "P",
+          "rarity": "P",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/483106_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              483106
+            ]
+          },
+          "tcgplayer": {
+            "name": "Koby (Promotion Pack 2023)",
+            "match": "minted",
+            "distance": null
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "promoTypes": [
+            {
+              "type": "retail_product",
+              "category": "retail"
+            }
+          ]
         }
       ]
     },
@@ -76,7 +131,21 @@
           "rarity": "C",
           "block": "1",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST06-003.png",
-          "source": "bandai"
+          "cardSet": "-Absolute Justice- [ST-06]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              486320
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "Jango",
+            "match": "image-only-candidate",
+            "distance": 4
+          }
         }
       ]
     },
@@ -102,7 +171,22 @@
           "rarity": "SR",
           "block": "1",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST06-004.png",
-          "source": "bandai"
+          "cardSet": "-Absolute Justice- [ST-06]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              485250
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Smoker",
+            "match": "image-only-candidate",
+            "distance": 3
+          },
+          "artist": "Nijihayashi"
         }
       ]
     },
@@ -129,7 +213,21 @@
           "rarity": "C",
           "block": "1",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST06-005.png",
-          "source": "bandai"
+          "cardSet": "-Absolute Justice- [ST-06]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              486321
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "Sengoku",
+            "match": "image-only-candidate",
+            "distance": 3
+          }
         }
       ]
     },
@@ -156,7 +254,21 @@
           "rarity": "C",
           "block": "1",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST06-006.png",
-          "source": "bandai"
+          "cardSet": "-Absolute Justice- [ST-06]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              485252
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "Tashigi",
+            "match": "image-only-candidate",
+            "distance": 5
+          }
         },
         {
           "id": "ST06-006_p1",
@@ -164,7 +276,28 @@
           "rarity": "C",
           "block": "1",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST06-006_p1.png",
-          "source": "bandai"
+          "cardSet": "Tournament Pack Vol.4",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              503246
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "Tashigi (Tournament Pack Vol. 4)",
+            "match": "image+cardset",
+            "distance": 3
+          },
+          "promoTypes": [
+            {
+              "type": "event_pack",
+              "category": "event"
+            }
+          ],
+          "artist": "Nekobayashi"
         },
         {
           "id": "ST06-006_p2",
@@ -172,7 +305,25 @@
           "rarity": "SP CARD",
           "block": "1",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST06-006_p2.png",
-          "source": "bandai"
+          "cardSet": "-TWO LEGENDS- [OP-08]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              558168
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Tashigi (SP)",
+            "match": "image-only-candidate",
+            "distance": 1
+          },
+          "treatments": [
+            "sp"
+          ],
+          "artist": "Nekobayashi"
         },
         {
           "id": "ST06-006_p3",
@@ -180,7 +331,33 @@
           "rarity": "C",
           "block": "1",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST06-006_p3.png",
-          "source": "bandai"
+          "cardSet": "ST15-20 Release Event",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              588180
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "Tashigi (ST15 - ST20 Release Event Pack)",
+            "match": "image",
+            "distance": 2
+          },
+          "promoTypes": [
+            {
+              "type": "event_pack",
+              "category": "event"
+            },
+            {
+              "type": "release",
+              "category": "event"
+            }
+          ],
+          "artOf": "ST06-006_p1",
+          "artist": "Nekobayashi"
         },
         {
           "id": "ST06-006_p4",
@@ -188,7 +365,125 @@
           "rarity": "C",
           "block": "1",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST06-006_p4.png",
-          "source": "bandai"
+          "cardSet": "Premium Card Collection -BANDAI CARD GAMES Fest. 23-24 Edition-",
+          "source": "bandai",
+          "artist": "Hashimoto Q"
+        },
+        {
+          "id": "ST06-006~tcg503250",
+          "set": "P",
+          "rarity": "C",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/503250_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              503250
+            ]
+          },
+          "tcgplayer": {
+            "name": "Tashigi (Winner Pack Vol. 4)",
+            "match": "minted",
+            "distance": null
+          },
+          "finishes": [
+            "foil"
+          ],
+          "promoTypes": [
+            {
+              "type": "placement",
+              "category": "placement"
+            }
+          ]
+        },
+        {
+          "id": "ST06-006~tcg525339",
+          "set": "P",
+          "rarity": "C",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/525339_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              525339
+            ]
+          },
+          "tcgplayer": {
+            "name": "Tashigi (CS 2023 Celebration Pack)",
+            "match": "minted",
+            "distance": null
+          },
+          "finishes": [
+            "foil"
+          ],
+          "promoTypes": [
+            {
+              "type": "championship",
+              "category": "championship"
+            },
+            {
+              "type": "event_pack",
+              "category": "event"
+            }
+          ]
+        },
+        {
+          "id": "ST06-006~tcg564256",
+          "set": "P",
+          "rarity": "C",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/564256_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              564256
+            ]
+          },
+          "tcgplayer": {
+            "name": "Tashigi (Premium Card Collection -BANDAI CARD GAMES Fest. 23-24 Edition-)",
+            "match": "minted",
+            "distance": null
+          },
+          "finishes": [
+            "foil"
+          ],
+          "promoTypes": [
+            {
+              "type": "convention",
+              "category": "event"
+            },
+            {
+              "type": "retail_product",
+              "category": "retail"
+            }
+          ]
+        },
+        {
+          "id": "ST06-006~tcg588181",
+          "set": "P",
+          "rarity": "C",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/588181_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              588181
+            ]
+          },
+          "tcgplayer": {
+            "name": "Tashigi (ST15 - ST20 Release Event Winner Pack)",
+            "match": "minted",
+            "distance": null
+          },
+          "finishes": [
+            "foil"
+          ],
+          "promoTypes": [
+            {
+              "type": "placement",
+              "category": "placement"
+            },
+            {
+              "type": "release",
+              "category": "event"
+            }
+          ]
         }
       ]
     },
@@ -215,7 +510,21 @@
           "rarity": "C",
           "block": "1",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST06-007.png",
-          "source": "bandai"
+          "cardSet": "-Absolute Justice- [ST-06]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              486322
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "Tsuru",
+            "match": "image-only-candidate",
+            "distance": 0
+          }
         }
       ]
     },
@@ -241,7 +550,21 @@
           "rarity": "C",
           "block": "1",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST06-008.png",
-          "source": "bandai"
+          "cardSet": "-Absolute Justice- [ST-06]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              486323
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "Hina",
+            "match": "image-only-candidate",
+            "distance": 2
+          }
         },
         {
           "id": "ST06-008_p1",
@@ -249,7 +572,29 @@
           "rarity": "C",
           "block": "1",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST06-008_p1.png",
-          "source": "bandai"
+          "cardSet": "-ONE PIECE CARD THE BEST vol.2- [PRB-02]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              656186
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Hina (Pirate Foil)",
+            "match": "image+name",
+            "distance": 2
+          },
+          "promoTypes": [
+            {
+              "type": "pirate_foil",
+              "category": "foil-pattern"
+            }
+          ],
+          "artOf": "ST06-008",
+          "artist": "Nico-Tine"
         },
         {
           "id": "ST06-008_r1",
@@ -257,7 +602,77 @@
           "rarity": "C",
           "block": "1",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST06-008_r1.png",
-          "source": "bandai"
+          "cardSet": "-ONE PIECE CARD THE BEST vol.2- [PRB-02]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              656184
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "Hina (Reprint)",
+            "match": "image+name",
+            "distance": 4
+          },
+          "treatments": [
+            "reprint"
+          ],
+          "artOf": "ST06-008"
+        },
+        {
+          "id": "ST06-008~tcg544625",
+          "set": "P",
+          "rarity": "C",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/544625_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              544625
+            ]
+          },
+          "tcgplayer": {
+            "name": "Hina (Judge Pack Vol. 3)",
+            "match": "minted",
+            "distance": null
+          },
+          "finishes": [
+            "foil"
+          ],
+          "promoTypes": [
+            {
+              "type": "judgegift",
+              "category": "program"
+            }
+          ]
+        },
+        {
+          "id": "ST06-008~tcg587225",
+          "set": "P",
+          "rarity": "C",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/587225_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              587225
+            ]
+          },
+          "tcgplayer": {
+            "name": "Hina (Premium Card Collection -Best Selection Vol. 2-)",
+            "match": "minted",
+            "distance": null
+          },
+          "finishes": [
+            "foil"
+          ],
+          "promoTypes": [
+            {
+              "type": "retail_product",
+              "category": "retail"
+            }
+          ]
         }
       ]
     },
@@ -284,7 +699,21 @@
           "rarity": "C",
           "block": "1",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST06-009.png",
-          "source": "bandai"
+          "cardSet": "-Absolute Justice- [ST-06]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              486324
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "Fullbody",
+            "match": "image-only-candidate",
+            "distance": 0
+          }
         }
       ]
     },
@@ -311,7 +740,22 @@
           "rarity": "C",
           "block": "1",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST06-010.png",
-          "source": "bandai"
+          "cardSet": "-Absolute Justice- [ST-06]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              485251
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "Helmeppo",
+            "match": "image-only-candidate",
+            "distance": 0
+          },
+          "artist": "BISAI"
         },
         {
           "id": "ST06-010_p2",
@@ -319,7 +763,28 @@
           "rarity": "C",
           "block": "1",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST06-010_p2.png",
-          "source": "bandai"
+          "cardSet": "-ONE PIECE CARD THE BEST- [PRB-01]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              593673
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Helmeppo (Jolly Roger Foil)",
+            "match": "image",
+            "distance": 4
+          },
+          "promoTypes": [
+            {
+              "type": "jolly_roger_foil",
+              "category": "foil-pattern"
+            }
+          ],
+          "artist": "BISAI"
         },
         {
           "id": "ST06-010_p3",
@@ -327,7 +792,24 @@
           "rarity": "C",
           "block": "1",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST06-010_p3.png",
-          "source": "bandai"
+          "cardSet": "-ONE PIECE CARD THE BEST- [PRB-01]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              593674
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Helmeppo (Full Art)",
+            "match": "image",
+            "distance": 7
+          },
+          "treatments": [
+            "full_art"
+          ]
         },
         {
           "id": "ST06-010_r1",
@@ -335,7 +817,52 @@
           "rarity": "C",
           "block": "1",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST06-010_r1.png",
-          "source": "bandai"
+          "cardSet": "-ONE PIECE CARD THE BEST- [PRB-01]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              594322
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "Helmeppo (Reprint)",
+            "match": "image",
+            "distance": 0
+          },
+          "treatments": [
+            "reprint"
+          ],
+          "artOf": "ST06-010",
+          "artist": "BISAI"
+        },
+        {
+          "id": "ST06-010~tcg499431",
+          "set": "P",
+          "rarity": "P",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/499431_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              499431
+            ]
+          },
+          "tcgplayer": {
+            "name": "Helmeppo (Judge)",
+            "match": "minted",
+            "distance": null
+          },
+          "finishes": [
+            "foil"
+          ],
+          "promoTypes": [
+            {
+              "type": "judgegift",
+              "category": "program"
+            }
+          ]
         }
       ]
     },
@@ -362,7 +889,22 @@
           "rarity": "C",
           "block": "1",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST06-011.png",
-          "source": "bandai"
+          "cardSet": "-Absolute Justice- [ST-06]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              486326
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "Momonga",
+            "match": "image-only-candidate",
+            "distance": 4
+          },
+          "artist": "HISASHI HUJIWARA"
         }
       ]
     },
@@ -388,7 +930,47 @@
           "rarity": "SR",
           "block": "1",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST06-012.png",
-          "source": "bandai"
+          "cardSet": "-Absolute Justice- [ST-06]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              485253
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Monkey.D.Garp",
+            "match": "image-only-candidate",
+            "distance": 5
+          }
+        },
+        {
+          "id": "ST06-012~tcg535278",
+          "set": "P",
+          "rarity": "SR",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/535278_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              535278
+            ]
+          },
+          "tcgplayer": {
+            "name": "Monkey.D.Garp (Treasure Cup)",
+            "match": "minted",
+            "distance": null
+          },
+          "finishes": [
+            "foil"
+          ],
+          "promoTypes": [
+            {
+              "type": "treasure_cup",
+              "category": "championship"
+            }
+          ]
         }
       ]
     },
@@ -415,7 +997,22 @@
           "rarity": "C",
           "block": "1",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST06-013.png",
-          "source": "bandai"
+          "cardSet": "-Absolute Justice- [ST-06]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              486328
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "T-Bone",
+            "match": "image-only-candidate",
+            "distance": 1
+          },
+          "artist": "HISASHI HUJIWARA"
         }
       ]
     },
@@ -437,7 +1034,21 @@
           "rarity": "C",
           "block": "1",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST06-014.png",
-          "source": "bandai"
+          "cardSet": "-Absolute Justice- [ST-06]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              486329
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "Shockwave",
+            "match": "image-only-candidate",
+            "distance": 2
+          }
         },
         {
           "id": "ST06-014_p2",
@@ -445,6 +1056,7 @@
           "rarity": "C",
           "block": "1",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST06-014_p2.png",
+          "cardSet": "-ONE PIECE CARD THE BEST- [PRB-01]",
           "source": "bandai"
         },
         {
@@ -453,6 +1065,7 @@
           "rarity": "C",
           "block": "1",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST06-014_p3.png",
+          "cardSet": "-ONE PIECE CARD THE BEST- [PRB-01]",
           "source": "bandai"
         },
         {
@@ -461,7 +1074,9 @@
           "rarity": "C",
           "block": "1",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST06-014_r1.png",
-          "source": "bandai"
+          "cardSet": "-ONE PIECE CARD THE BEST- [PRB-01]",
+          "source": "bandai",
+          "artOf": "ST06-014"
         }
       ]
     },
@@ -483,7 +1098,21 @@
           "rarity": "C",
           "block": "1",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST06-015.png",
-          "source": "bandai"
+          "cardSet": "-Absolute Justice- [ST-06]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              485254
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "Great Eruption",
+            "match": "image-only-candidate",
+            "distance": 1
+          }
         }
       ]
     },
@@ -505,7 +1134,21 @@
           "rarity": "C",
           "block": "1",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST06-016.png",
-          "source": "bandai"
+          "cardSet": "-Absolute Justice- [ST-06]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              486330
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "White Out",
+            "match": "image-only-candidate",
+            "distance": 4
+          }
         }
       ]
     },
@@ -527,7 +1170,21 @@
           "rarity": "C",
           "block": "1",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST06-017.png",
-          "source": "bandai"
+          "cardSet": "-Absolute Justice- [ST-06]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              486331
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "Navy HQ",
+            "match": "image-only-candidate",
+            "distance": 0
+          }
         }
       ]
     }

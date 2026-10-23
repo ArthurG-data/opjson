@@ -1,0 +1,121 @@
+{
+  "products": [
+    {
+      "id": "starter-deck-6-absolute-justice",
+      "set": "ST06",
+      "category": "starter_deck",
+      "name": "Starter Deck 6: Absolute Justice",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          455868
+        ]
+      },
+      "contentsStatus": "partial",
+      "contents": {
+        "cards": [
+          {
+            "printing": "ST06-001"
+          },
+          {
+            "printing": "ST06-002"
+          },
+          {
+            "printing": "ST06-003"
+          },
+          {
+            "printing": "ST06-004"
+          },
+          {
+            "printing": "ST06-005"
+          },
+          {
+            "printing": "ST06-006"
+          },
+          {
+            "printing": "ST06-007"
+          },
+          {
+            "printing": "ST06-008"
+          },
+          {
+            "printing": "ST06-009"
+          },
+          {
+            "printing": "ST06-010"
+          },
+          {
+            "printing": "ST06-011"
+          },
+          {
+            "printing": "ST06-012"
+          },
+          {
+            "printing": "ST06-013"
+          },
+          {
+            "printing": "ST06-014"
+          },
+          {
+            "printing": "ST06-015"
+          },
+          {
+            "printing": "ST06-016"
+          },
+          {
+            "printing": "ST06-017"
+          }
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/455868"
+      ],
+      "releaseDate": "2023-03-10"
+    },
+    {
+      "id": "starter-deck-6-absolute-justice-display",
+      "set": "ST06",
+      "category": "display",
+      "name": "Starter Deck 6: Absolute Justice Display",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          455869
+        ]
+      },
+      "contentsStatus": "partial",
+      "contents": {
+        "sealed": [
+          {
+            "product": "starter-deck-6-absolute-justice"
+          }
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/455869"
+      ],
+      "releaseDate": "2023-03-10"
+    },
+    {
+      "id": "starter-deck-6-absolute-justice-display-case",
+      "set": "ST06",
+      "category": "case",
+      "name": "Starter Deck 6: Absolute Justice Display Case",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          480247
+        ]
+      },
+      "contentsStatus": "partial",
+      "contents": {
+        "sealed": [
+          {
+            "product": "starter-deck-6-absolute-justice"
+          }
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/480247"
+      ],
+      "releaseDate": "2023-03-10"
+    }
+  ]
+}

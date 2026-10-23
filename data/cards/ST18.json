@@ -23,7 +23,22 @@
           "rarity": "C",
           "block": "3",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST18-001.png",
-          "source": "bandai"
+          "cardSet": "-Purple Monkey.D.Luffy- [ST-18]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              581031
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "Uso-Hachi (ST18-001)",
+            "match": "image-only-candidate",
+            "distance": 8
+          },
+          "artist": "Yasushi Yamaguchi"
         },
         {
           "id": "ST18-001_p1",
@@ -31,7 +46,25 @@
           "rarity": "SP CARD",
           "block": "3",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST18-001_p1.png",
-          "source": "bandai"
+          "cardSet": "-ROYAL BLOOD- [OP-10]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              617177
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Uso-Hachi (SP)",
+            "match": "image-only-candidate",
+            "distance": 2
+          },
+          "treatments": [
+            "sp"
+          ],
+          "artist": "Hashimoto Q"
         },
         {
           "id": "ST18-001_p2",
@@ -39,7 +72,28 @@
           "rarity": "C",
           "block": "3",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST18-001_p2.png",
-          "source": "bandai"
+          "cardSet": "-ONE PIECE CARD THE BEST vol.2- [PRB-02]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              656032
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Uso-Hachi (Pirate Foil)",
+            "match": "image+name",
+            "distance": 8
+          },
+          "promoTypes": [
+            {
+              "type": "pirate_foil",
+              "category": "foil-pattern"
+            }
+          ],
+          "artist": "Yasushi Yamaguchi"
         },
         {
           "id": "ST18-001_p3",
@@ -47,7 +101,25 @@
           "rarity": "C",
           "block": "3",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST18-001_p3.png",
-          "source": "bandai"
+          "cardSet": "-ONE PIECE CARD THE BEST vol.2- [PRB-02]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              656031
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Uso-Hachi (Alternate Art)",
+            "match": "image",
+            "distance": 2
+          },
+          "treatments": [
+            "alternate_art"
+          ],
+          "artist": "Misa Matoki"
         },
         {
           "id": "ST18-001_r1",
@@ -55,7 +127,26 @@
           "rarity": "C",
           "block": "3",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST18-001_r1.png",
-          "source": "bandai"
+          "cardSet": "-ONE PIECE CARD THE BEST vol.2- [PRB-02]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              656030
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "Uso-Hachi (Reprint)",
+            "match": "image+name",
+            "distance": 2
+          },
+          "treatments": [
+            "reprint"
+          ],
+          "artOf": "ST18-001",
+          "artist": "Yasushi Yamaguchi"
         }
       ]
     },
@@ -82,7 +173,22 @@
           "rarity": "C",
           "block": "3",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST18-002.png",
-          "source": "bandai"
+          "cardSet": "-Purple Monkey.D.Luffy- [ST-18]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              581032
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "O-Nami",
+            "match": "image-only-candidate",
+            "distance": 1
+          },
+          "artist": "Nekobayashi"
         },
         {
           "id": "ST18-002_p1",
@@ -90,7 +196,28 @@
           "rarity": "C",
           "block": "3",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST18-002_p1.png",
-          "source": "bandai"
+          "cardSet": "-ONE PIECE CARD THE BEST vol.2- [PRB-02]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              656028
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "O-Nami (Pirate Foil)",
+            "match": "image",
+            "distance": 3
+          },
+          "promoTypes": [
+            {
+              "type": "pirate_foil",
+              "category": "foil-pattern"
+            }
+          ],
+          "artist": "Nekobayashi"
         },
         {
           "id": "ST18-002_p2",
@@ -98,7 +225,28 @@
           "rarity": "C",
           "block": "3",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST18-002_p2.png",
-          "source": "bandai"
+          "cardSet": "ONE PIECE HEROINES CAMPAIGN Dash Pack",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              675748
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "O-Nami - ST18-002 (Dash Pack)",
+            "match": "image-other-set",
+            "distance": 3
+          },
+          "promoTypes": [
+            {
+              "type": "retail_product",
+              "category": "retail"
+            }
+          ],
+          "artist": "Naruse Uroko"
         },
         {
           "id": "ST18-002_r1",
@@ -106,7 +254,26 @@
           "rarity": "C",
           "block": "3",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST18-002_r1.png",
-          "source": "bandai"
+          "cardSet": "-ONE PIECE CARD THE BEST vol.2- [PRB-02]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              656023
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "O-Nami (Reprint)",
+            "match": "image",
+            "distance": 2
+          },
+          "treatments": [
+            "reprint"
+          ],
+          "artOf": "ST18-002",
+          "artist": "Nekobayashi"
         }
       ]
     },
@@ -133,7 +300,22 @@
           "rarity": "C",
           "block": "3",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST18-003.png",
-          "source": "bandai"
+          "cardSet": "-Purple Monkey.D.Luffy- [ST-18]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              581033
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "San-Gorou",
+            "match": "image-only-candidate",
+            "distance": 0
+          },
+          "artist": "Koushi Rokushiro"
         },
         {
           "id": "ST18-003_p1",
@@ -141,7 +323,28 @@
           "rarity": "C",
           "block": "3",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST18-003_p1.png",
-          "source": "bandai"
+          "cardSet": "Treasure Cup February 2025",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              615308
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "San-Gorou (Treasure Cup 2025)",
+            "match": "image",
+            "distance": 1
+          },
+          "promoTypes": [
+            {
+              "type": "treasure_cup",
+              "category": "championship"
+            }
+          ],
+          "artist": "Koushi Rokushiro"
         },
         {
           "id": "ST18-003_p2",
@@ -149,7 +352,29 @@
           "rarity": "C",
           "block": "3",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST18-003_p2.png",
-          "source": "bandai"
+          "cardSet": "-ONE PIECE CARD THE BEST vol.2- [PRB-02]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              656017
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "San-Gorou (Pirate Foil)",
+            "match": "image+name",
+            "distance": 2
+          },
+          "promoTypes": [
+            {
+              "type": "pirate_foil",
+              "category": "foil-pattern"
+            }
+          ],
+          "artOf": "ST18-003",
+          "artist": "Koushi Rokushiro"
         },
         {
           "id": "ST18-003_r1",
@@ -157,7 +382,26 @@
           "rarity": "C",
           "block": "3",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST18-003_r1.png",
-          "source": "bandai"
+          "cardSet": "-ONE PIECE CARD THE BEST vol.2- [PRB-02]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              656015
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "San-Gorou (Reprint)",
+            "match": "image+name",
+            "distance": 2
+          },
+          "treatments": [
+            "reprint"
+          ],
+          "artOf": "ST18-003",
+          "artist": "Koushi Rokushiro"
         }
       ]
     },
@@ -183,7 +427,22 @@
           "rarity": "SR",
           "block": "3",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST18-004.png",
-          "source": "bandai"
+          "cardSet": "-Purple Monkey.D.Luffy- [ST-18]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              581034
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Zoro-Juurou (ST18-004)",
+            "match": "image-only-candidate",
+            "distance": 1
+          },
+          "artist": "eiji kaneda"
         },
         {
           "id": "ST18-004_p1",
@@ -191,7 +450,22 @@
           "rarity": "TR",
           "block": "3",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST18-004_p1.png",
-          "source": "bandai"
+          "cardSet": "-EMPERORS IN THE NEW WORLD- [OP-09]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              600658
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Zoro-Juurou (ST18-004)",
+            "match": "image-only-candidate",
+            "distance": 7
+          },
+          "artist": "Midori Matsuda"
         },
         {
           "id": "ST18-004_p2",
@@ -199,7 +473,25 @@
           "rarity": "SP CARD",
           "block": "3",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST18-004_p2.png",
-          "source": "bandai"
+          "cardSet": "-LEGACY OF THE MASTER- [OP-12]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              646566
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Zoro-Juurou (SP)",
+            "match": "image-only-candidate",
+            "distance": 3
+          },
+          "treatments": [
+            "sp"
+          ],
+          "artist": "Hashimoto Q"
         }
       ]
     },
@@ -225,7 +517,22 @@
           "rarity": "SR",
           "block": "3",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST18-005.png",
-          "source": "bandai"
+          "cardSet": "-Purple Monkey.D.Luffy- [ST-18]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              581035
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Luffy-Tarou",
+            "match": "image-only-candidate",
+            "distance": 3
+          },
+          "artist": "Yamada Rokkaku."
         },
         {
           "id": "ST18-005_p1",
@@ -233,7 +540,25 @@
           "rarity": "SP CARD",
           "block": "3",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST18-005_p1.png",
-          "source": "bandai"
+          "cardSet": "-A FIST OF DIVINE SPEED- [OP-11]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              632509
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Luffy-Tarou (SP)",
+            "match": "image-only-candidate",
+            "distance": 0
+          },
+          "treatments": [
+            "sp"
+          ],
+          "artist": "otton"
         }
       ]
     }

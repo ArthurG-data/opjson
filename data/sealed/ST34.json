@@ -1,0 +1,92 @@
+{
+  "products": [
+    {
+      "id": "starter-deck-34-purple-charlotte-katakuri",
+      "set": "ST34",
+      "category": "starter_deck",
+      "name": "Starter Deck 34: PURPLE Charlotte Katakuri",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          704893
+        ]
+      },
+      "contentsStatus": "partial",
+      "contents": {
+        "cards": [
+          {
+            "printing": "EB03-032_r1"
+          },
+          {
+            "printing": "EB03-035_r1"
+          },
+          {
+            "printing": "OP11-062_p2"
+          },
+          {
+            "printing": "OP11-065_r1"
+          },
+          {
+            "printing": "OP11-066_r1"
+          },
+          {
+            "printing": "OP11-068_r1"
+          },
+          {
+            "printing": "OP11-071_r1"
+          },
+          {
+            "printing": "OP11-079_r1"
+          },
+          {
+            "printing": "OP11-081_r1"
+          },
+          {
+            "printing": "P-090_r1"
+          },
+          {
+            "printing": "ST34-001"
+          },
+          {
+            "printing": "ST34-002"
+          },
+          {
+            "printing": "ST34-003"
+          },
+          {
+            "printing": "ST34-004"
+          },
+          {
+            "printing": "ST34-005"
+          }
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/704893"
+      ],
+      "releaseDate": "2026-07-31"
+    },
+    {
+      "id": "starter-deck-34-purple-charlotte-katakuri-display",
+      "set": "ST34",
+      "category": "display",
+      "name": "Starter Deck 34: PURPLE Charlotte Katakuri Display",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          704892
+        ]
+      },
+      "contentsStatus": "partial",
+      "contents": {
+        "sealed": [
+          {
+            "product": "starter-deck-34-purple-charlotte-katakuri"
+          }
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/704892"
+      ],
+      "releaseDate": "2026-07-31"
+    }
+  ]
+}

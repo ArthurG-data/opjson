@@ -22,7 +22,22 @@
           "rarity": "C",
           "block": "3",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST19-001.png",
-          "source": "bandai"
+          "cardSet": "-Black Smoker- [ST-19]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              581046
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "Smoker (ST19-001)",
+            "match": "image-only-candidate",
+            "distance": 1
+          },
+          "artist": "Morechand"
         }
       ]
     },
@@ -49,7 +64,22 @@
           "rarity": "C",
           "block": "3",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST19-002.png",
-          "source": "bandai"
+          "cardSet": "-Black Smoker- [ST-19]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              581047
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "Sengoku",
+            "match": "image-only-candidate",
+            "distance": 7
+          },
+          "artist": "kankurou"
         },
         {
           "id": "ST19-002_p1",
@@ -57,7 +87,28 @@
           "rarity": "C",
           "block": "3",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST19-002_p1.png",
-          "source": "bandai"
+          "cardSet": "Tournament Pack 2025 Vol. 3",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              641199
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "Sengoku (Tournament Pack 2025 Vol. 3)",
+            "match": "image",
+            "distance": 2
+          },
+          "promoTypes": [
+            {
+              "type": "event_pack",
+              "category": "event"
+            }
+          ],
+          "artist": "Katsuo Tadano"
         },
         {
           "id": "ST19-002_p2",
@@ -65,7 +116,28 @@
           "rarity": "C",
           "block": "3",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST19-002_p2.png",
-          "source": "bandai"
+          "cardSet": "Winner Pack 2025 Vol. 3",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              641201
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Sengoku (Winner Pack 2025 Vol. 3)",
+            "match": "image",
+            "distance": 2
+          },
+          "promoTypes": [
+            {
+              "type": "placement",
+              "category": "placement"
+            }
+          ],
+          "artist": "Katsuo Tadano"
         },
         {
           "id": "ST19-002_p3",
@@ -73,7 +145,28 @@
           "rarity": "C",
           "block": "3",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST19-002_p3.png",
-          "source": "bandai"
+          "cardSet": "-ONE PIECE CARD THE BEST vol.2- [PRB-02]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              656012
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Sengoku - ST19-002 (Pirate Foil)",
+            "match": "image",
+            "distance": 2
+          },
+          "promoTypes": [
+            {
+              "type": "pirate_foil",
+              "category": "foil-pattern"
+            }
+          ],
+          "artist": "kankurou"
         },
         {
           "id": "ST19-002_r1",
@@ -81,7 +174,26 @@
           "rarity": "C",
           "block": "3",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST19-002_r1.png",
-          "source": "bandai"
+          "cardSet": "-ONE PIECE CARD THE BEST vol.2- [PRB-02]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              656011
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "Sengoku - ST19-002 (Reprint)",
+            "match": "image+name",
+            "distance": 7
+          },
+          "treatments": [
+            "reprint"
+          ],
+          "artOf": "ST19-002",
+          "artist": "kankurou"
         }
       ]
     },
@@ -108,7 +220,22 @@
           "rarity": "SR",
           "block": "3",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST19-003.png",
-          "source": "bandai"
+          "cardSet": "-Black Smoker- [ST-19]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              581048
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Tashigi",
+            "match": "image-only-candidate",
+            "distance": 2
+          },
+          "artist": "Romayasu"
         }
       ]
     },
@@ -134,7 +261,22 @@
           "rarity": "SR",
           "block": "3",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST19-004.png",
-          "source": "bandai"
+          "cardSet": "-Black Smoker- [ST-19]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              581049
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Hina",
+            "match": "image-only-candidate",
+            "distance": 4
+          },
+          "artist": "Yamada Rokkaku."
         }
       ]
     },
@@ -161,7 +303,22 @@
           "rarity": "C",
           "block": "3",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST19-005.png",
-          "source": "bandai"
+          "cardSet": "-Black Smoker- [ST-19]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              581050
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "Monkey.D.Garp",
+            "match": "image-only-candidate",
+            "distance": 1
+          },
+          "artist": "kankurou"
         }
       ]
     }

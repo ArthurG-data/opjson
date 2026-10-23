@@ -1,0 +1,127 @@
+{
+  "products": [
+    {
+      "id": "ultra-deck-the-three-captains",
+      "set": "ST10",
+      "category": "ultra_deck",
+      "name": "Ultra Deck: The Three Captains",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          502982
+        ]
+      },
+      "contentsStatus": "partial",
+      "contents": {
+        "cards": [
+          {
+            "printing": "OP01-016_p3"
+          },
+          {
+            "printing": "OP01-025_p2"
+          },
+          {
+            "printing": "ST10-001"
+          },
+          {
+            "printing": "ST10-002"
+          },
+          {
+            "printing": "ST10-003"
+          },
+          {
+            "printing": "ST10-004"
+          },
+          {
+            "printing": "ST10-005"
+          },
+          {
+            "printing": "ST10-006"
+          },
+          {
+            "printing": "ST10-007"
+          },
+          {
+            "printing": "ST10-008"
+          },
+          {
+            "printing": "ST10-009"
+          },
+          {
+            "printing": "ST10-010"
+          },
+          {
+            "printing": "ST10-011"
+          },
+          {
+            "printing": "ST10-012"
+          },
+          {
+            "printing": "ST10-013"
+          },
+          {
+            "printing": "ST10-014"
+          },
+          {
+            "printing": "ST10-015"
+          },
+          {
+            "printing": "ST10-016"
+          },
+          {
+            "printing": "ST10-017"
+          }
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/502982"
+      ],
+      "releaseDate": "2023-11-10"
+    },
+    {
+      "id": "ultra-deck-the-three-captains-display",
+      "set": "ST10",
+      "category": "display",
+      "name": "Ultra Deck: The Three Captains Display",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          502983
+        ]
+      },
+      "contentsStatus": "partial",
+      "contents": {
+        "sealed": [
+          {
+            "product": "ultra-deck-the-three-captains"
+          }
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/502983"
+      ],
+      "releaseDate": "2023-11-10"
+    },
+    {
+      "id": "ultra-deck-the-three-captains-display-case",
+      "set": "ST10",
+      "category": "case",
+      "name": "Ultra Deck: The Three Captains Display Case",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          502984
+        ]
+      },
+      "contentsStatus": "partial",
+      "contents": {
+        "sealed": [
+          {
+            "product": "ultra-deck-the-three-captains"
+          }
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/502984"
+      ],
+      "releaseDate": "2023-11-10"
+    }
+  ]
+}

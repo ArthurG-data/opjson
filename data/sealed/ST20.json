@@ -1,0 +1,115 @@
+{
+  "products": [
+    {
+      "id": "starter-deck-20-yellow-charlotte-katakuri",
+      "set": "ST20",
+      "category": "starter_deck",
+      "name": "Starter Deck 20: YELLOW Charlotte Katakuri",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          545048
+        ]
+      },
+      "contentsStatus": "partial",
+      "contents": {
+        "cards": [
+          {
+            "printing": "OP03-099_p2"
+          },
+          {
+            "printing": "OP03-106_r1"
+          },
+          {
+            "printing": "OP03-107_r1"
+          },
+          {
+            "printing": "OP03-110_r1"
+          },
+          {
+            "printing": "OP03-112_r1"
+          },
+          {
+            "printing": "OP03-115_r1"
+          },
+          {
+            "printing": "OP03-118_r1"
+          },
+          {
+            "printing": "OP03-121_r1"
+          },
+          {
+            "printing": "ST07-005_r1"
+          },
+          {
+            "printing": "ST07-014_r1"
+          },
+          {
+            "printing": "ST20-001"
+          },
+          {
+            "printing": "ST20-002"
+          },
+          {
+            "printing": "ST20-003"
+          },
+          {
+            "printing": "ST20-004"
+          },
+          {
+            "printing": "ST20-005"
+          }
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/545048"
+      ],
+      "releaseDate": "2024-10-25"
+    },
+    {
+      "id": "starter-deck-20-yellow-charlotte-katakuri-display",
+      "set": "ST20",
+      "category": "display",
+      "name": "Starter Deck 20: YELLOW Charlotte Katakuri Display",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          545049
+        ]
+      },
+      "contentsStatus": "partial",
+      "contents": {
+        "sealed": [
+          {
+            "product": "starter-deck-20-yellow-charlotte-katakuri"
+          }
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/545049"
+      ],
+      "releaseDate": "2024-10-25"
+    },
+    {
+      "id": "starter-deck-20-yellow-charlotte-katakuri-display-case",
+      "set": "ST20",
+      "category": "case",
+      "name": "Starter Deck 20: YELLOW Charlotte Katakuri Display Case",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          545050
+        ]
+      },
+      "contentsStatus": "partial",
+      "contents": {
+        "sealed": [
+          {
+            "product": "starter-deck-20-yellow-charlotte-katakuri"
+          }
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/545050"
+      ],
+      "releaseDate": "2024-10-25"
+    }
+  ]
+}

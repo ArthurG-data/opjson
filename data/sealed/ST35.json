@@ -1,0 +1,92 @@
+{
+  "products": [
+    {
+      "id": "starter-deck-35-red-black-sabo",
+      "set": "ST35",
+      "category": "starter_deck",
+      "name": "Starter Deck 35: RED/BLACK Sabo",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          704894
+        ]
+      },
+      "contentsStatus": "partial",
+      "contents": {
+        "cards": [
+          {
+            "printing": "OP12-090_r1"
+          },
+          {
+            "printing": "OP12-093_r1"
+          },
+          {
+            "printing": "OP12-098_r1"
+          },
+          {
+            "printing": "OP13-004_p2"
+          },
+          {
+            "printing": "OP13-005_r1"
+          },
+          {
+            "printing": "OP13-008_r1"
+          },
+          {
+            "printing": "OP13-017_r1"
+          },
+          {
+            "printing": "OP13-019_p2"
+          },
+          {
+            "printing": "OP13-081_r1"
+          },
+          {
+            "printing": "P-105_r1"
+          },
+          {
+            "printing": "ST35-001"
+          },
+          {
+            "printing": "ST35-002"
+          },
+          {
+            "printing": "ST35-003"
+          },
+          {
+            "printing": "ST35-004"
+          },
+          {
+            "printing": "ST35-005"
+          }
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/704894"
+      ],
+      "releaseDate": "2026-07-31"
+    },
+    {
+      "id": "starter-deck-35-red-black-sabo-display",
+      "set": "ST35",
+      "category": "display",
+      "name": "Starter Deck 35: RED/BLACK Sabo Display",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          704895
+        ]
+      },
+      "contentsStatus": "partial",
+      "contents": {
+        "sealed": [
+          {
+            "product": "starter-deck-35-red-black-sabo"
+          }
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/704895"
+      ],
+      "releaseDate": "2026-07-31"
+    }
+  ]
+}

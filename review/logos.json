@@ -1,0 +1,48 @@
+[
+  {
+    "page": "https://en.onepiece-cardgame.com/products/op18.html",
+    "logo": "https://en.onepiece-cardgame.com/onepiececg/bccard/en/products/2026/09/18/68g26pmHJowl0k6G/logo_product.webp",
+    "codes": [
+      "OP18"
+    ],
+    "reason": "set not in sets.json"
+  },
+  {
+    "page": "https://en.onepiece-cardgame.com/products/st38.html",
+    "logo": "https://en.onepiece-cardgame.com/onepiececg/bccard/en/products/2026/10/15/e85ohRUzKtlC5h3N/logo.webp",
+    "codes": [
+      "ST38"
+    ],
+    "reason": "set not in sets.json"
+  },
+  {
+    "page": "https://en.onepiece-cardgame.com/products/st37.html",
+    "logo": "https://en.onepiece-cardgame.com/onepiececg/bccard/en/products/2026/10/15/69sA7xjaXPulxPBR/logo.webp",
+    "codes": [
+      "ST37"
+    ],
+    "reason": "set not in sets.json"
+  },
+  {
+    "set": "OP17",
+    "reason": "several pages give different logos",
+    "pages": [
+      {
+        "page": "https://en.onepiece-cardgame.com/products/boosters/op17/",
+        "logo": "https://en.onepiece-cardgame.com/products/boosters/op17/images/common/logo.webp"
+      },
+      {
+        "page": "https://en.onepiece-cardgame.com/products/boosters/op17/",
+        "logo": "https://en.onepiece-cardgame.com/products/boosters/op17/images/nav/logo.webp"
+      },
+      {
+        "page": "https://en.onepiece-cardgame.com/products/boosters/op17/",
+        "logo": "https://en.onepiece-cardgame.com/products/boosters/op17/images/mv/logo.webp"
+      },
+      {
+        "page": "https://en.onepiece-cardgame.com/products/boosters/op17/",
+        "logo": "https://en.onepiece-cardgame.com/products/boosters/op17/images/howto/logo.webp"
+      }
+    ]
+  }
+]

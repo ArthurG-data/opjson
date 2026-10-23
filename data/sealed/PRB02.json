@@ -1,0 +1,90 @@
+{
+  "products": [
+    {
+      "id": "premium-booster-vol-2-booster-box",
+      "set": "PRB02",
+      "category": "booster_box",
+      "name": "Premium Booster Vol. 2 - Booster Box",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          628452
+        ]
+      },
+      "contentsStatus": "unknown",
+      "contents": {},
+      "sources": [
+        "https://www.tcgplayer.com/product/628452"
+      ],
+      "releaseDate": "2025-10-03"
+    },
+    {
+      "id": "premium-booster-vol-2-booster-box-case",
+      "set": "PRB02",
+      "category": "case",
+      "name": "Premium Booster Vol. 2 - Booster Box Case",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          628453
+        ]
+      },
+      "contentsStatus": "partial",
+      "contents": {
+        "sealed": [
+          {
+            "product": "premium-booster-vol-2-booster-box"
+          }
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/628453"
+      ],
+      "releaseDate": "2025-10-03"
+    },
+    {
+      "id": "premium-booster-vol-2-booster-pack",
+      "set": "PRB02",
+      "category": "booster_pack",
+      "name": "Premium Booster Vol. 2 - Booster Pack",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          628451
+        ]
+      },
+      "contentsStatus": "partial",
+      "contents": {
+        "pool": [
+          {
+            "set": "PRB02"
+          }
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/628451"
+      ],
+      "releaseDate": "2025-10-03"
+    },
+    {
+      "id": "premium-booster-vol-2-sleeved-booster-pack",
+      "set": "PRB02",
+      "category": "sleeved_booster_pack",
+      "name": "Premium Booster Vol. 2 - Sleeved Booster Pack",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          657211
+        ]
+      },
+      "contentsStatus": "partial",
+      "contents": {
+        "pool": [
+          {
+            "set": "PRB02"
+          }
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/657211"
+      ],
+      "releaseDate": "2025-10-03"
+    }
+  ]
+}

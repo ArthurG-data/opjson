@@ -23,7 +23,22 @@
           "rarity": "C",
           "block": "3",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST27-001.png",
-          "source": "bandai"
+          "cardSet": "-BLACK Marshall.D.Teach- [ST-27]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              633179
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "Avalo Pizarro",
+            "match": "image-only-candidate",
+            "distance": 2
+          },
+          "artist": "kankurou"
         }
       ]
     },
@@ -50,7 +65,22 @@
           "rarity": "C",
           "block": "3",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST27-002.png",
-          "source": "bandai"
+          "cardSet": "-BLACK Marshall.D.Teach- [ST-27]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              633180
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "Catarina Devon",
+            "match": "image-only-candidate",
+            "distance": 4
+          },
+          "artist": "HISASHI HUJIWARA"
         }
       ]
     },
@@ -78,7 +108,22 @@
           "rarity": "SR",
           "block": "3",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST27-003.png",
-          "source": "bandai"
+          "cardSet": "-BLACK Marshall.D.Teach- [ST-27]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              633092
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Kuzan",
+            "match": "image-only-candidate",
+            "distance": 3
+          },
+          "artist": "Koushi Rokushiro"
         }
       ]
     },
@@ -106,7 +151,22 @@
           "rarity": "C",
           "block": "3",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST27-004.png",
-          "source": "bandai"
+          "cardSet": "-BLACK Marshall.D.Teach- [ST-27]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              633181
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "Sanjuan.Wolf",
+            "match": "image-only-candidate",
+            "distance": 3
+          },
+          "artist": "kankurou"
         }
       ]
     },
@@ -133,7 +193,22 @@
           "rarity": "SR",
           "block": "3",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST27-005.png",
-          "source": "bandai"
+          "cardSet": "-BLACK Marshall.D.Teach- [ST-27]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              633093
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Marshall.D.Teach (ST27-005)",
+            "match": "image-only-candidate",
+            "distance": 3
+          },
+          "artist": "eiji kaneda"
         },
         {
           "id": "ST27-005_p1",
@@ -141,7 +216,25 @@
           "rarity": "SP CARD",
           "block": "3",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST27-005_p1.png",
-          "source": "bandai"
+          "cardSet": "BOOSTER PACK -THE WORLD’S STRONGEST WARRIORS- [OP-17]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              707128
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Marshall.D.Teach (ST27-005) (SP)",
+            "match": "image-only-candidate",
+            "distance": 1
+          },
+          "treatments": [
+            "sp"
+          ],
+          "artist": "Bashikou"
         }
       ]
     }

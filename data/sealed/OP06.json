@@ -1,0 +1,170 @@
+{
+  "products": [
+    {
+      "id": "double-pack-set-volume-3",
+      "set": "OP06",
+      "category": "double_pack",
+      "name": "Double Pack Set Volume 3",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          541542
+        ]
+      },
+      "contentsStatus": "unknown",
+      "contents": {},
+      "sources": [
+        "https://www.tcgplayer.com/product/541542"
+      ],
+      "releaseDate": "2024-03-15"
+    },
+    {
+      "id": "double-pack-set-volume-3-display",
+      "set": "OP06",
+      "category": "display",
+      "name": "Double Pack Set Volume 3 Display",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          541543
+        ]
+      },
+      "contentsStatus": "partial",
+      "contents": {
+        "sealed": [
+          {
+            "product": "double-pack-set-volume-3"
+          }
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/541543"
+      ],
+      "releaseDate": "2024-03-15"
+    },
+    {
+      "id": "double-pack-set-volume-3-display-case",
+      "set": "OP06",
+      "category": "case",
+      "name": "Double Pack Set Volume 3 Display Case",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          541544
+        ]
+      },
+      "contentsStatus": "partial",
+      "contents": {
+        "sealed": [
+          {
+            "product": "double-pack-set-volume-3"
+          }
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/541544"
+      ],
+      "releaseDate": "2024-03-15"
+    },
+    {
+      "id": "special-don-card-pack-dp-03",
+      "set": "OP06",
+      "category": "promo_pack",
+      "name": "Special DON!! Card Pack DP-03",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          543906
+        ]
+      },
+      "contentsStatus": "unknown",
+      "contents": {},
+      "sources": [
+        "https://www.tcgplayer.com/product/543906"
+      ],
+      "releaseDate": "2024-03-15"
+    },
+    {
+      "id": "wings-of-the-captain-booster-box",
+      "set": "OP06",
+      "category": "booster_box",
+      "name": "Wings of the Captain - Booster Box",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          515080
+        ]
+      },
+      "contentsStatus": "unknown",
+      "contents": {},
+      "sources": [
+        "https://www.tcgplayer.com/product/515080"
+      ],
+      "releaseDate": "2024-03-15"
+    },
+    {
+      "id": "wings-of-the-captain-booster-box-case",
+      "set": "OP06",
+      "category": "case",
+      "name": "Wings of the Captain - Booster Box Case",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          515081
+        ]
+      },
+      "contentsStatus": "partial",
+      "contents": {
+        "sealed": [
+          {
+            "product": "wings-of-the-captain-booster-box"
+          }
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/515081"
+      ],
+      "releaseDate": "2024-03-15"
+    },
+    {
+      "id": "wings-of-the-captain-booster-pack",
+      "set": "OP06",
+      "category": "booster_pack",
+      "name": "Wings of the Captain - Booster Pack",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          515077
+        ]
+      },
+      "contentsStatus": "partial",
+      "contents": {
+        "pool": [
+          {
+            "set": "OP06"
+          }
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/515077"
+      ],
+      "releaseDate": "2024-03-15"
+    },
+    {
+      "id": "wings-of-the-captain-sleeved-booster-pack",
+      "set": "OP06",
+      "category": "sleeved_booster_pack",
+      "name": "Wings of the Captain - Sleeved Booster Pack",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          543371
+        ]
+      },
+      "contentsStatus": "partial",
+      "contents": {
+        "pool": [
+          {
+            "set": "OP06"
+          }
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/543371"
+      ],
+      "releaseDate": "2024-03-15"
+    }
+  ]
+}

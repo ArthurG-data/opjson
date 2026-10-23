@@ -1,0 +1,115 @@
+{
+  "products": [
+    {
+      "id": "starter-deck-19-black-smoker",
+      "set": "ST19",
+      "category": "starter_deck",
+      "name": "Starter Deck 19: BLACK Smoker",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          545045
+        ]
+      },
+      "contentsStatus": "partial",
+      "contents": {
+        "cards": [
+          {
+            "printing": "OP02-093_p2"
+          },
+          {
+            "printing": "OP02-098_r1"
+          },
+          {
+            "printing": "OP02-106_r1"
+          },
+          {
+            "printing": "OP02-108_r1"
+          },
+          {
+            "printing": "OP02-109_r1"
+          },
+          {
+            "printing": "OP02-113_r1"
+          },
+          {
+            "printing": "OP02-116_r1"
+          },
+          {
+            "printing": "OP02-117_r1"
+          },
+          {
+            "printing": "OP03-079_r1"
+          },
+          {
+            "printing": "OP03-089_r1"
+          },
+          {
+            "printing": "ST19-001"
+          },
+          {
+            "printing": "ST19-002"
+          },
+          {
+            "printing": "ST19-003"
+          },
+          {
+            "printing": "ST19-004"
+          },
+          {
+            "printing": "ST19-005"
+          }
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/545045"
+      ],
+      "releaseDate": "2024-10-25"
+    },
+    {
+      "id": "starter-deck-19-black-smoker-display",
+      "set": "ST19",
+      "category": "display",
+      "name": "Starter Deck 19: BLACK Smoker Display",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          545046
+        ]
+      },
+      "contentsStatus": "partial",
+      "contents": {
+        "sealed": [
+          {
+            "product": "starter-deck-19-black-smoker"
+          }
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/545046"
+      ],
+      "releaseDate": "2024-10-25"
+    },
+    {
+      "id": "starter-deck-19-black-smoker-display-case",
+      "set": "ST19",
+      "category": "case",
+      "name": "Starter Deck 19: BLACK Smoker Display Case",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          545047
+        ]
+      },
+      "contentsStatus": "partial",
+      "contents": {
+        "sealed": [
+          {
+            "product": "starter-deck-19-black-smoker"
+          }
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/545047"
+      ],
+      "releaseDate": "2024-10-25"
+    }
+  ]
+}

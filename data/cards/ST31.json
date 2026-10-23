@@ -23,7 +23,22 @@
           "rarity": "SR",
           "block": "5",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST31-001.png",
-          "source": "bandai"
+          "cardSet": "STARTER DECK -RED Monkey.D.Luffy- [ST-31]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              706314
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Sanji",
+            "match": "image-only-candidate",
+            "distance": 4
+          },
+          "artist": "Mii Akio"
         }
       ]
     },
@@ -51,7 +66,22 @@
           "rarity": "C",
           "block": "5",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST31-002.png",
-          "source": "bandai"
+          "cardSet": "STARTER DECK -RED Monkey.D.Luffy- [ST-31]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              706315
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "Jinbe",
+            "match": "image-only-candidate",
+            "distance": 6
+          },
+          "artist": "Nekobayashi"
         }
       ]
     },
@@ -78,7 +108,22 @@
           "rarity": "C",
           "block": "5",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST31-003.png",
-          "source": "bandai"
+          "cardSet": "STARTER DECK -RED Monkey.D.Luffy- [ST-31]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              706316
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "Brook",
+            "match": "image-only-candidate",
+            "distance": 3
+          },
+          "artist": "shosuke"
         }
       ]
     },
@@ -105,7 +150,22 @@
           "rarity": "SR",
           "block": "5",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST31-004.png",
-          "source": "bandai"
+          "cardSet": "STARTER DECK -RED Monkey.D.Luffy- [ST-31]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              706317
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Monkey.D.Luffy (ST31-004)",
+            "match": "image-only-candidate",
+            "distance": 6
+          },
+          "artist": "GIDORA"
         },
         {
           "id": "ST31-004_p1",
@@ -113,7 +173,25 @@
           "rarity": "SP CARD",
           "block": "5",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST31-004_p1.png",
-          "source": "bandai"
+          "cardSet": "BOOSTER PACK -THE WORLD’S STRONGEST WARRIORS- [OP-17]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              712122
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Monkey.D.Luffy (ST31-004) (SP)",
+            "match": "image-only-candidate",
+            "distance": 3
+          },
+          "treatments": [
+            "sp"
+          ],
+          "artist": "Bashikou"
         }
       ]
     },
@@ -135,7 +213,22 @@
           "rarity": "C",
           "block": "5",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST31-005.png",
-          "source": "bandai"
+          "cardSet": "STARTER DECK -RED Monkey.D.Luffy- [ST-31]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              706318
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "Thousand Sunny",
+            "match": "image-only-candidate",
+            "distance": 4
+          },
+          "artist": "kankurou"
         }
       ]
     }

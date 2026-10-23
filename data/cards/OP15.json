@@ -24,7 +24,22 @@
           "rarity": "L",
           "block": "4",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP15-001.png",
-          "source": "bandai"
+          "cardSet": "-ADVENTURE ON KAMI'S ISLAND- [OP15-EB04]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              685336
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "Krieg (OP15-001)",
+            "match": "image",
+            "distance": 4
+          },
+          "artist": "Kang QiYun"
         },
         {
           "id": "OP15-001_p1",
@@ -32,7 +47,25 @@
           "rarity": "L",
           "block": "4",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP15-001_p1.png",
-          "source": "bandai"
+          "cardSet": "-ADVENTURE ON KAMI'S ISLAND- [OP15-EB04]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              685337
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Krieg (OP15-001) (Alternate Art)",
+            "match": "image",
+            "distance": 5
+          },
+          "treatments": [
+            "alternate_art"
+          ],
+          "artist": "tatsuya"
         }
       ]
     },
@@ -60,7 +93,22 @@
           "rarity": "L",
           "block": "4",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP15-002.png",
-          "source": "bandai"
+          "cardSet": "-ADVENTURE ON KAMI'S ISLAND- [OP15-EB04]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              685338
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "Lucy",
+            "match": "image",
+            "distance": 6
+          },
+          "artist": "He Ziwei"
         },
         {
           "id": "OP15-002_p1",
@@ -68,7 +116,45 @@
           "rarity": "L",
           "block": "4",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP15-002_p1.png",
-          "source": "bandai"
+          "cardSet": "-ADVENTURE ON KAMI'S ISLAND- [OP15-EB04]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              685339
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Lucy (Alternate Art)",
+            "match": "image",
+            "distance": 3
+          },
+          "treatments": [
+            "alternate_art"
+          ],
+          "artist": "Akanegumo"
+        },
+        {
+          "id": "OP15-002~tcg719667",
+          "set": "P",
+          "rarity": "L",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/719667_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              719667
+            ]
+          },
+          "tcgplayer": {
+            "name": "Lucy (Flame-Flame Fruit Coliseum)",
+            "match": "minted",
+            "distance": null
+          },
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
@@ -96,7 +182,22 @@
           "rarity": "R",
           "block": "4",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP15-003.png",
-          "source": "bandai"
+          "cardSet": "-ADVENTURE ON KAMI'S ISLAND- [OP15-EB04]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              685340
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Alvida",
+            "match": "image",
+            "distance": 2
+          },
+          "artist": "HISASHI HUJIWARA"
         },
         {
           "id": "OP15-003_p1",
@@ -104,7 +205,25 @@
           "rarity": "R",
           "block": "4",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP15-003_p1.png",
-          "source": "bandai"
+          "cardSet": "-ADVENTURE ON KAMI'S ISLAND- [OP15-EB04]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              685341
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Alvida (Alternate Art)",
+            "match": "image",
+            "distance": 3
+          },
+          "treatments": [
+            "alternate_art"
+          ],
+          "artist": "Koushi Rokushiro"
         }
       ]
     },
@@ -131,7 +250,50 @@
           "rarity": "C",
           "block": "4",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP15-004.png",
-          "source": "bandai"
+          "cardSet": "-ADVENTURE ON KAMI'S ISLAND- [OP15-EB04]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              685342
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "Sea Cat",
+            "match": "image-only-candidate",
+            "distance": 7
+          },
+          "artist": "Yasushi Yamaguchi"
+        },
+        {
+          "id": "OP15-004~tcg686356",
+          "set": "OP15-EB04-RE",
+          "rarity": "C",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/686356_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              686356
+            ]
+          },
+          "tcgplayer": {
+            "name": "Sea Cat",
+            "match": "minted",
+            "distance": 7
+          },
+          "artOf": "OP15-004",
+          "finishes": [
+            "nonfoil"
+          ],
+          "promoTypes": [
+            {
+              "type": "release",
+              "category": "event"
+            }
+          ],
+          "artist": "Yasushi Yamaguchi"
         }
       ]
     },
@@ -159,7 +321,50 @@
           "rarity": "C",
           "block": "4",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP15-005.png",
-          "source": "bandai"
+          "cardSet": "-ADVENTURE ON KAMI'S ISLAND- [OP15-EB04]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              685343
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "Cabaji",
+            "match": "image-only-candidate",
+            "distance": 6
+          },
+          "artist": "kankurou"
+        },
+        {
+          "id": "OP15-005~tcg686359",
+          "set": "OP15-EB04-RE",
+          "rarity": "C",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/686359_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              686359
+            ]
+          },
+          "tcgplayer": {
+            "name": "Cabaji",
+            "match": "minted",
+            "distance": 6
+          },
+          "artOf": "OP15-005",
+          "finishes": [
+            "nonfoil"
+          ],
+          "promoTypes": [
+            {
+              "type": "release",
+              "category": "event"
+            }
+          ],
+          "artist": "kankurou"
         }
       ]
     },
@@ -187,7 +392,50 @@
           "rarity": "UC",
           "block": "4",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP15-006.png",
-          "source": "bandai"
+          "cardSet": "-ADVENTURE ON KAMI'S ISLAND- [OP15-EB04]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              685344
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "Cavendish",
+            "match": "image-only-candidate",
+            "distance": 7
+          },
+          "artist": "Koushi Rokushiro"
+        },
+        {
+          "id": "OP15-006~tcg686422",
+          "set": "OP15-EB04-RE",
+          "rarity": "UC",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/686422_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              686422
+            ]
+          },
+          "tcgplayer": {
+            "name": "Cavendish",
+            "match": "minted",
+            "distance": 7
+          },
+          "artOf": "OP15-006",
+          "finishes": [
+            "nonfoil"
+          ],
+          "promoTypes": [
+            {
+              "type": "release",
+              "category": "event"
+            }
+          ],
+          "artist": "Koushi Rokushiro"
         }
       ]
     },
@@ -215,7 +463,22 @@
           "rarity": "SR",
           "block": "4",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP15-007.png",
-          "source": "bandai"
+          "cardSet": "-ADVENTURE ON KAMI'S ISLAND- [OP15-EB04]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              685345
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Gin",
+            "match": "image",
+            "distance": 6
+          },
+          "artist": "DAI-XT."
         },
         {
           "id": "OP15-007_p1",
@@ -223,7 +486,25 @@
           "rarity": "SR",
           "block": "4",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP15-007_p1.png",
-          "source": "bandai"
+          "cardSet": "-ADVENTURE ON KAMI'S ISLAND- [OP15-EB04]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              685346
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Gin (Alternate Art)",
+            "match": "image",
+            "distance": 1
+          },
+          "treatments": [
+            "alternate_art"
+          ],
+          "artist": "eiji kaneda"
         }
       ]
     },
@@ -250,7 +531,22 @@
           "rarity": "SR",
           "block": "4",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP15-008.png",
-          "source": "bandai"
+          "cardSet": "-ADVENTURE ON KAMI'S ISLAND- [OP15-EB04]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              685347
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Krieg (OP15-008)",
+            "match": "image",
+            "distance": 5
+          },
+          "artist": "Hayaken-sarena"
         },
         {
           "id": "OP15-008_p1",
@@ -258,7 +554,25 @@
           "rarity": "SR",
           "block": "4",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP15-008_p1.png",
-          "source": "bandai"
+          "cardSet": "-ADVENTURE ON KAMI'S ISLAND- [OP15-EB04]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              685348
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Krieg (OP15-008) (Alternate Art)",
+            "match": "image",
+            "distance": 3
+          },
+          "treatments": [
+            "alternate_art"
+          ],
+          "artist": "DAI-XT."
         }
       ]
     },
@@ -286,7 +600,50 @@
           "rarity": "UC",
           "block": "4",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP15-009.png",
-          "source": "bandai"
+          "cardSet": "-ADVENTURE ON KAMI'S ISLAND- [OP15-EB04]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              685349
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "Koby (OP15-009)",
+            "match": "image-only-candidate",
+            "distance": 4
+          },
+          "artist": "Nekobayashi"
+        },
+        {
+          "id": "OP15-009~tcg686423",
+          "set": "OP15-EB04-RE",
+          "rarity": "UC",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/686423_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              686423
+            ]
+          },
+          "tcgplayer": {
+            "name": "Koby (OP15-009)",
+            "match": "minted",
+            "distance": 4
+          },
+          "artOf": "OP15-009",
+          "finishes": [
+            "nonfoil"
+          ],
+          "promoTypes": [
+            {
+              "type": "release",
+              "category": "event"
+            }
+          ],
+          "artist": "Nekobayashi"
         }
       ]
     },
@@ -314,7 +671,50 @@
           "rarity": "C",
           "block": "4",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP15-010.png",
-          "source": "bandai"
+          "cardSet": "-ADVENTURE ON KAMI'S ISLAND- [OP15-EB04]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              685350
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "Nezumi",
+            "match": "image-only-candidate",
+            "distance": 3
+          },
+          "artist": "HISASHI HUJIWARA"
+        },
+        {
+          "id": "OP15-010~tcg686648",
+          "set": "OP15-EB04-RE",
+          "rarity": "C",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/686648_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              686648
+            ]
+          },
+          "tcgplayer": {
+            "name": "Nezumi",
+            "match": "minted",
+            "distance": 3
+          },
+          "artOf": "OP15-010",
+          "finishes": [
+            "nonfoil"
+          ],
+          "promoTypes": [
+            {
+              "type": "release",
+              "category": "event"
+            }
+          ],
+          "artist": "HISASHI HUJIWARA"
         }
       ]
     },
@@ -342,7 +742,22 @@
           "rarity": "R",
           "block": "4",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP15-011.png",
-          "source": "bandai"
+          "cardSet": "-ADVENTURE ON KAMI'S ISLAND- [OP15-EB04]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              685351
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Pearl",
+            "match": "image-only-candidate",
+            "distance": 6
+          },
+          "artist": "Kento Amemiya"
         }
       ]
     },
@@ -370,7 +785,50 @@
           "rarity": "C",
           "block": "4",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP15-012.png",
-          "source": "bandai"
+          "cardSet": "-ADVENTURE ON KAMI'S ISLAND- [OP15-EB04]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              685352
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "Buggy",
+            "match": "image-only-candidate",
+            "distance": 3
+          },
+          "artist": "Paji"
+        },
+        {
+          "id": "OP15-012~tcg686360",
+          "set": "OP15-EB04-RE",
+          "rarity": "C",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/686360_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              686360
+            ]
+          },
+          "tcgplayer": {
+            "name": "Buggy",
+            "match": "minted",
+            "distance": 3
+          },
+          "artOf": "OP15-012",
+          "finishes": [
+            "nonfoil"
+          ],
+          "promoTypes": [
+            {
+              "type": "release",
+              "category": "event"
+            }
+          ],
+          "artist": "Paji"
         }
       ]
     },
@@ -398,7 +856,50 @@
           "rarity": "C",
           "block": "4",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP15-013.png",
-          "source": "bandai"
+          "cardSet": "-ADVENTURE ON KAMI'S ISLAND- [OP15-EB04]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              685353
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "Pincers",
+            "match": "image-only-candidate",
+            "distance": 4
+          },
+          "artist": "Yasushi Yamaguchi"
+        },
+        {
+          "id": "OP15-013~tcg686361",
+          "set": "OP15-EB04-RE",
+          "rarity": "C",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/686361_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              686361
+            ]
+          },
+          "tcgplayer": {
+            "name": "Pincers",
+            "match": "minted",
+            "distance": 4
+          },
+          "artOf": "OP15-013",
+          "finishes": [
+            "nonfoil"
+          ],
+          "promoTypes": [
+            {
+              "type": "release",
+              "category": "event"
+            }
+          ],
+          "artist": "Yasushi Yamaguchi"
         }
       ]
     },
@@ -425,7 +926,22 @@
           "rarity": "R",
           "block": "4",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP15-014.png",
-          "source": "bandai"
+          "cardSet": "-ADVENTURE ON KAMI'S ISLAND- [OP15-EB04]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              685354
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Bartolomeo",
+            "match": "image-only-candidate",
+            "distance": 2
+          },
+          "artist": "touge369"
         }
       ]
     },
@@ -453,7 +969,50 @@
           "rarity": "C",
           "block": "4",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP15-015.png",
-          "source": "bandai"
+          "cardSet": "-ADVENTURE ON KAMI'S ISLAND- [OP15-EB04]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              685355
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "Higuma",
+            "match": "image-only-candidate",
+            "distance": 7
+          },
+          "artist": "eiji kaneda"
+        },
+        {
+          "id": "OP15-015~tcg686362",
+          "set": "OP15-EB04-RE",
+          "rarity": "C",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/686362_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              686362
+            ]
+          },
+          "tcgplayer": {
+            "name": "Higuma",
+            "match": "minted",
+            "distance": 7
+          },
+          "artOf": "OP15-015",
+          "finishes": [
+            "nonfoil"
+          ],
+          "promoTypes": [
+            {
+              "type": "release",
+              "category": "event"
+            }
+          ],
+          "artist": "eiji kaneda"
         }
       ]
     },
@@ -480,7 +1039,50 @@
           "rarity": "UC",
           "block": "4",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP15-016.png",
-          "source": "bandai"
+          "cardSet": "-ADVENTURE ON KAMI'S ISLAND- [OP15-EB04]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              685356
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "Fullbody",
+            "match": "image-only-candidate",
+            "distance": 5
+          },
+          "artist": "Morechand"
+        },
+        {
+          "id": "OP15-016~tcg686424",
+          "set": "OP15-EB04-RE",
+          "rarity": "UC",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/686424_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              686424
+            ]
+          },
+          "tcgplayer": {
+            "name": "Fullbody",
+            "match": "minted",
+            "distance": 5
+          },
+          "artOf": "OP15-016",
+          "finishes": [
+            "nonfoil"
+          ],
+          "promoTypes": [
+            {
+              "type": "release",
+              "category": "event"
+            }
+          ],
+          "artist": "Morechand"
         }
       ]
     },
@@ -508,7 +1110,50 @@
           "rarity": "C",
           "block": "4",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP15-017.png",
-          "source": "bandai"
+          "cardSet": "-ADVENTURE ON KAMI'S ISLAND- [OP15-EB04]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              685357
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "Morgan",
+            "match": "image-only-candidate",
+            "distance": 4
+          },
+          "artist": "touge369"
+        },
+        {
+          "id": "OP15-017~tcg686363",
+          "set": "OP15-EB04-RE",
+          "rarity": "C",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/686363_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              686363
+            ]
+          },
+          "tcgplayer": {
+            "name": "Morgan",
+            "match": "minted",
+            "distance": 4
+          },
+          "artOf": "OP15-017",
+          "finishes": [
+            "nonfoil"
+          ],
+          "promoTypes": [
+            {
+              "type": "release",
+              "category": "event"
+            }
+          ],
+          "artist": "touge369"
         }
       ]
     },
@@ -536,7 +1181,50 @@
           "rarity": "C",
           "block": "4",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP15-018.png",
-          "source": "bandai"
+          "cardSet": "-ADVENTURE ON KAMI'S ISLAND- [OP15-EB04]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              685358
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "Mohji",
+            "match": "image-only-candidate",
+            "distance": 3
+          },
+          "artist": "Misa Matoki"
+        },
+        {
+          "id": "OP15-018~tcg686364",
+          "set": "OP15-EB04-RE",
+          "rarity": "C",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/686364_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              686364
+            ]
+          },
+          "tcgplayer": {
+            "name": "Mohji",
+            "match": "minted",
+            "distance": 3
+          },
+          "artOf": "OP15-018",
+          "finishes": [
+            "nonfoil"
+          ],
+          "promoTypes": [
+            {
+              "type": "release",
+              "category": "event"
+            }
+          ],
+          "artist": "Misa Matoki"
         }
       ]
     },
@@ -559,7 +1247,48 @@
           "rarity": "UC",
           "block": "4",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP15-019.png",
-          "source": "bandai"
+          "cardSet": "-ADVENTURE ON KAMI'S ISLAND- [OP15-EB04]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              685359
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "Barrier Bulls",
+            "match": "image-only-candidate",
+            "distance": 7
+          }
+        },
+        {
+          "id": "OP15-019~tcg686425",
+          "set": "OP15-EB04-RE",
+          "rarity": "UC",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/686425_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              686425
+            ]
+          },
+          "tcgplayer": {
+            "name": "Barrier Bulls",
+            "match": "minted",
+            "distance": 7
+          },
+          "artOf": "OP15-019",
+          "finishes": [
+            "nonfoil"
+          ],
+          "promoTypes": [
+            {
+              "type": "release",
+              "category": "event"
+            }
+          ]
         }
       ]
     },
@@ -582,7 +1311,21 @@
           "rarity": "R",
           "block": "4",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP15-020.png",
-          "source": "bandai"
+          "cardSet": "-ADVENTURE ON KAMI'S ISLAND- [OP15-EB04]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              685360
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Fire Fist",
+            "match": "image-only-candidate",
+            "distance": 3
+          }
         }
       ]
     },
@@ -605,7 +1348,48 @@
           "rarity": "UC",
           "block": "4",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP15-021.png",
-          "source": "bandai"
+          "cardSet": "-ADVENTURE ON KAMI'S ISLAND- [OP15-EB04]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              685361
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "Just Watch Me, Ace!!!",
+            "match": "image-only-candidate",
+            "distance": 8
+          }
+        },
+        {
+          "id": "OP15-021~tcg686426",
+          "set": "OP15-EB04-RE",
+          "rarity": "UC",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/686426_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              686426
+            ]
+          },
+          "tcgplayer": {
+            "name": "Just Watch Me, Ace!!!",
+            "match": "minted",
+            "distance": 8
+          },
+          "artOf": "OP15-021",
+          "finishes": [
+            "nonfoil"
+          ],
+          "promoTypes": [
+            {
+              "type": "release",
+              "category": "event"
+            }
+          ]
         }
       ]
     },
@@ -632,7 +1416,22 @@
           "rarity": "L",
           "block": "4",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP15-022.png",
-          "source": "bandai"
+          "cardSet": "-ADVENTURE ON KAMI'S ISLAND- [OP15-EB04]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              685362
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "Brook (OP15-022)",
+            "match": "image",
+            "distance": 9
+          },
+          "artist": "Mehdi Aouichaoui"
         },
         {
           "id": "OP15-022_p1",
@@ -640,7 +1439,25 @@
           "rarity": "L",
           "block": "4",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP15-022_p1.png",
-          "source": "bandai"
+          "cardSet": "-ADVENTURE ON KAMI'S ISLAND- [OP15-EB04]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              685363
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Brook (OP15-022) (Alternate Art)",
+            "match": "image",
+            "distance": 4
+          },
+          "treatments": [
+            "alternate_art"
+          ],
+          "artist": "Bashikou"
         }
       ]
     },
@@ -669,7 +1486,22 @@
           "rarity": "R",
           "block": "4",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP15-023.png",
-          "source": "bandai"
+          "cardSet": "-ADVENTURE ON KAMI'S ISLAND- [OP15-EB04]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              685364
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Arlong",
+            "match": "image-only-candidate",
+            "distance": 4
+          },
+          "artist": "Tadaichi Nakama"
         }
       ]
     },
@@ -696,7 +1528,22 @@
           "rarity": "R",
           "block": "4",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP15-024.png",
-          "source": "bandai"
+          "cardSet": "-ADVENTURE ON KAMI'S ISLAND- [OP15-EB04]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              685365
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Usopp",
+            "match": "image-only-candidate",
+            "distance": 6
+          },
+          "artist": "NIJIMAARC"
         }
       ]
     },
@@ -724,7 +1571,22 @@
           "rarity": "R",
           "block": "4",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP15-025.png",
-          "source": "bandai"
+          "cardSet": "-ADVENTURE ON KAMI'S ISLAND- [OP15-EB04]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              685366
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Kuro",
+            "match": "image",
+            "distance": 4
+          },
+          "artist": "Ryuda"
         },
         {
           "id": "OP15-025_p1",
@@ -732,7 +1594,25 @@
           "rarity": "R",
           "block": "4",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP15-025_p1.png",
-          "source": "bandai"
+          "cardSet": "-ADVENTURE ON KAMI'S ISLAND- [OP15-EB04]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              685367
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Kuro (Alternate Art)",
+            "match": "image",
+            "distance": 3
+          },
+          "treatments": [
+            "alternate_art"
+          ],
+          "artist": "SENNSU"
         }
       ]
     },
@@ -760,7 +1640,50 @@
           "rarity": "UC",
           "block": "4",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP15-026.png",
-          "source": "bandai"
+          "cardSet": "-ADVENTURE ON KAMI'S ISLAND- [OP15-EB04]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              685368
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "Jango",
+            "match": "image-only-candidate",
+            "distance": 4
+          },
+          "artist": "Moopic"
+        },
+        {
+          "id": "OP15-026~tcg686427",
+          "set": "OP15-EB04-RE",
+          "rarity": "UC",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/686427_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              686427
+            ]
+          },
+          "tcgplayer": {
+            "name": "Jango",
+            "match": "minted",
+            "distance": 4
+          },
+          "artOf": "OP15-026",
+          "finishes": [
+            "nonfoil"
+          ],
+          "promoTypes": [
+            {
+              "type": "release",
+              "category": "event"
+            }
+          ],
+          "artist": "Moopic"
         }
       ]
     },
@@ -788,7 +1711,50 @@
           "rarity": "C",
           "block": "4",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP15-027.png",
-          "source": "bandai"
+          "cardSet": "-ADVENTURE ON KAMI'S ISLAND- [OP15-EB04]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              685369
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "Dracule Mihawk",
+            "match": "image-only-candidate",
+            "distance": 5
+          },
+          "artist": "Studio Vigor Co. Ltd"
+        },
+        {
+          "id": "OP15-027~tcg686365",
+          "set": "OP15-EB04-RE",
+          "rarity": "C",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/686365_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              686365
+            ]
+          },
+          "tcgplayer": {
+            "name": "Dracule Mihawk",
+            "match": "minted",
+            "distance": 5
+          },
+          "artOf": "OP15-027",
+          "finishes": [
+            "nonfoil"
+          ],
+          "promoTypes": [
+            {
+              "type": "release",
+              "category": "event"
+            }
+          ],
+          "artist": "Studio Vigor Co. Ltd"
         }
       ]
     },
@@ -816,7 +1782,50 @@
           "rarity": "UC",
           "block": "4",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP15-028.png",
-          "source": "bandai"
+          "cardSet": "-ADVENTURE ON KAMI'S ISLAND- [OP15-EB04]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              685370
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "Meowban Brothers",
+            "match": "image-only-candidate",
+            "distance": 3
+          },
+          "artist": "Tanaka Kenichi"
+        },
+        {
+          "id": "OP15-028~tcg686428",
+          "set": "OP15-EB04-RE",
+          "rarity": "UC",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/686428_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              686428
+            ]
+          },
+          "tcgplayer": {
+            "name": "Meowban Brothers",
+            "match": "minted",
+            "distance": 3
+          },
+          "artOf": "OP15-028",
+          "finishes": [
+            "nonfoil"
+          ],
+          "promoTypes": [
+            {
+              "type": "release",
+              "category": "event"
+            }
+          ],
+          "artist": "Tanaka Kenichi"
         }
       ]
     },
@@ -844,7 +1853,50 @@
           "rarity": "C",
           "block": "4",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP15-029.png",
-          "source": "bandai"
+          "cardSet": "-ADVENTURE ON KAMI'S ISLAND- [OP15-EB04]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              685371
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "Bartholomew Kuma (OP15-029)",
+            "match": "image-only-candidate",
+            "distance": 2
+          },
+          "artist": "tasaka"
+        },
+        {
+          "id": "OP15-029~tcg686366",
+          "set": "OP15-EB04-RE",
+          "rarity": "C",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/686366_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              686366
+            ]
+          },
+          "tcgplayer": {
+            "name": "Bartholomew Kuma (OP15-029)",
+            "match": "minted",
+            "distance": 2
+          },
+          "artOf": "OP15-029",
+          "finishes": [
+            "nonfoil"
+          ],
+          "promoTypes": [
+            {
+              "type": "release",
+              "category": "event"
+            }
+          ],
+          "artist": "tasaka"
         }
       ]
     },
@@ -872,7 +1924,50 @@
           "rarity": "UC",
           "block": "4",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP15-030.png",
-          "source": "bandai"
+          "cardSet": "-ADVENTURE ON KAMI'S ISLAND- [OP15-EB04]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              685372
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "Hyouzou",
+            "match": "image-only-candidate",
+            "distance": 3
+          },
+          "artist": "Aidle Co. Ltd."
+        },
+        {
+          "id": "OP15-030~tcg686429",
+          "set": "OP15-EB04-RE",
+          "rarity": "UC",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/686429_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              686429
+            ]
+          },
+          "tcgplayer": {
+            "name": "Hyouzou",
+            "match": "minted",
+            "distance": 3
+          },
+          "artOf": "OP15-030",
+          "finishes": [
+            "nonfoil"
+          ],
+          "promoTypes": [
+            {
+              "type": "release",
+              "category": "event"
+            }
+          ],
+          "artist": "Aidle Co. Ltd."
         }
       ]
     },
@@ -900,7 +1995,50 @@
           "rarity": "C",
           "block": "4",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP15-031.png",
-          "source": "bandai"
+          "cardSet": "-ADVENTURE ON KAMI'S ISLAND- [OP15-EB04]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              685373
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "Purinpurin",
+            "match": "image-only-candidate",
+            "distance": 5
+          },
+          "artist": "S-KINOKO"
+        },
+        {
+          "id": "OP15-031~tcg686367",
+          "set": "OP15-EB04-RE",
+          "rarity": "C",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/686367_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              686367
+            ]
+          },
+          "tcgplayer": {
+            "name": "Purinpurin",
+            "match": "minted",
+            "distance": 5
+          },
+          "artOf": "OP15-031",
+          "finishes": [
+            "nonfoil"
+          ],
+          "promoTypes": [
+            {
+              "type": "release",
+              "category": "event"
+            }
+          ],
+          "artist": "S-KINOKO"
         }
       ]
     },
@@ -927,7 +2065,22 @@
           "rarity": "SR",
           "block": "4",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP15-032.png",
-          "source": "bandai"
+          "cardSet": "-ADVENTURE ON KAMI'S ISLAND- [OP15-EB04]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              685374
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Brook (OP15-032)",
+            "match": "image",
+            "distance": 4
+          },
+          "artist": "Kento Amemiya"
         },
         {
           "id": "OP15-032_p1",
@@ -935,7 +2088,25 @@
           "rarity": "SR",
           "block": "4",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP15-032_p1.png",
-          "source": "bandai"
+          "cardSet": "-ADVENTURE ON KAMI'S ISLAND- [OP15-EB04]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              685375
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Brook (OP15-032) (Alternate Art)",
+            "match": "image",
+            "distance": 3
+          },
+          "treatments": [
+            "alternate_art"
+          ],
+          "artist": "Hashimoto Q"
         }
       ]
     },
@@ -964,7 +2135,50 @@
           "rarity": "C",
           "block": "4",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP15-033.png",
-          "source": "bandai"
+          "cardSet": "-ADVENTURE ON KAMI'S ISLAND- [OP15-EB04]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              685376
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "Hody Jones",
+            "match": "image-only-candidate",
+            "distance": 7
+          },
+          "artist": "ASAKI KURODA"
+        },
+        {
+          "id": "OP15-033~tcg686368",
+          "set": "OP15-EB04-RE",
+          "rarity": "C",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/686368_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              686368
+            ]
+          },
+          "tcgplayer": {
+            "name": "Hody Jones",
+            "match": "minted",
+            "distance": 7
+          },
+          "artOf": "OP15-033",
+          "finishes": [
+            "nonfoil"
+          ],
+          "promoTypes": [
+            {
+              "type": "release",
+              "category": "event"
+            }
+          ],
+          "artist": "ASAKI KURODA"
         }
       ]
     },
@@ -990,7 +2204,50 @@
           "rarity": "C",
           "block": "4",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP15-034.png",
-          "source": "bandai"
+          "cardSet": "-ADVENTURE ON KAMI'S ISLAND- [OP15-EB04]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              685377
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "Yorki",
+            "match": "image-only-candidate",
+            "distance": 8
+          },
+          "artist": "COGA"
+        },
+        {
+          "id": "OP15-034~tcg686369",
+          "set": "OP15-EB04-RE",
+          "rarity": "C",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/686369_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              686369
+            ]
+          },
+          "tcgplayer": {
+            "name": "Yorki",
+            "match": "minted",
+            "distance": 8
+          },
+          "artOf": "OP15-034",
+          "finishes": [
+            "nonfoil"
+          ],
+          "promoTypes": [
+            {
+              "type": "release",
+              "category": "event"
+            }
+          ],
+          "artist": "COGA"
         }
       ]
     },
@@ -1017,7 +2274,50 @@
           "rarity": "UC",
           "block": "4",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP15-035.png",
-          "source": "bandai"
+          "cardSet": "-ADVENTURE ON KAMI'S ISLAND- [OP15-EB04]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              685378
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "Laboon",
+            "match": "image-only-candidate",
+            "distance": 3
+          },
+          "artist": "COGA"
+        },
+        {
+          "id": "OP15-035~tcg686430",
+          "set": "OP15-EB04-RE",
+          "rarity": "UC",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/686430_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              686430
+            ]
+          },
+          "tcgplayer": {
+            "name": "Laboon",
+            "match": "minted",
+            "distance": 3
+          },
+          "artOf": "OP15-035",
+          "finishes": [
+            "nonfoil"
+          ],
+          "promoTypes": [
+            {
+              "type": "release",
+              "category": "event"
+            }
+          ],
+          "artist": "COGA"
         }
       ]
     },
@@ -1044,7 +2344,22 @@
           "rarity": "C",
           "block": "4",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP15-036.png",
-          "source": "bandai"
+          "cardSet": "-ADVENTURE ON KAMI'S ISLAND- [OP15-EB04]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              685379
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "Ryuma",
+            "match": "image-only-candidate",
+            "distance": 6
+          },
+          "artist": "ASAKI KURODA"
         },
         {
           "id": "OP15-036_r1",
@@ -1052,7 +2367,38 @@
           "rarity": "C",
           "block": "4",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP15-036_r1.png",
-          "source": "bandai"
+          "cardSet": "STARTER DECK -GREEN Roronoa Zoro- [ST-32]",
+          "source": "bandai",
+          "artOf": "OP15-036",
+          "artist": "ASAKI KURODA"
+        },
+        {
+          "id": "OP15-036~tcg686370",
+          "set": "OP15-EB04-RE",
+          "rarity": "C",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/686370_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              686370
+            ]
+          },
+          "tcgplayer": {
+            "name": "Ryuma",
+            "match": "minted",
+            "distance": 6
+          },
+          "artOf": "OP15-036",
+          "finishes": [
+            "nonfoil"
+          ],
+          "promoTypes": [
+            {
+              "type": "release",
+              "category": "event"
+            }
+          ],
+          "artist": "ASAKI KURODA"
         }
       ]
     },
@@ -1075,7 +2421,48 @@
           "rarity": "UC",
           "block": "4",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP15-037.png",
-          "source": "bandai"
+          "cardSet": "-ADVENTURE ON KAMI'S ISLAND- [OP15-EB04]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              685380
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "The Outcome Will Tell Us Who's Strong and Who's Weak",
+            "match": "image-only-candidate",
+            "distance": 6
+          }
+        },
+        {
+          "id": "OP15-037~tcg686431",
+          "set": "OP15-EB04-RE",
+          "rarity": "UC",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/686431_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              686431
+            ]
+          },
+          "tcgplayer": {
+            "name": "The Outcome Will Tell Us Who's Strong and Who's Weak",
+            "match": "minted",
+            "distance": 6
+          },
+          "artOf": "OP15-037",
+          "finishes": [
+            "nonfoil"
+          ],
+          "promoTypes": [
+            {
+              "type": "release",
+              "category": "event"
+            }
+          ]
         }
       ]
     },
@@ -1098,7 +2485,21 @@
           "rarity": "R",
           "block": "4",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP15-038.png",
-          "source": "bandai"
+          "cardSet": "-ADVENTURE ON KAMI'S ISLAND- [OP15-EB04]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              685381
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "It's an Order! Do Not Defy Me!!!",
+            "match": "image-only-candidate",
+            "distance": 5
+          }
         }
       ]
     },
@@ -1124,7 +2525,22 @@
           "rarity": "L",
           "block": "4",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP15-039.png",
-          "source": "bandai"
+          "cardSet": "-ADVENTURE ON KAMI'S ISLAND- [OP15-EB04]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              685382
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "Rebecca (OP15-039)",
+            "match": "image",
+            "distance": 10
+          },
+          "artist": "Kohei Mikoshi"
         },
         {
           "id": "OP15-039_p1",
@@ -1132,7 +2548,42 @@
           "rarity": "L",
           "block": "4",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP15-039_p1.png",
-          "source": "bandai"
+          "cardSet": "-ADVENTURE ON KAMI'S ISLAND- [OP15-EB04]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              685383
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Rebecca (OP15-039) (Alternate Art)",
+            "match": "image",
+            "distance": 3
+          },
+          "treatments": [
+            "alternate_art"
+          ],
+          "artist": "otton"
+        },
+        {
+          "id": "OP15-039~tcg719666",
+          "set": "P",
+          "rarity": "L",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/719666_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              719666
+            ]
+          },
+          "tcgplayer": {
+            "name": "Rebecca (Flame-Flame Fruit Coliseum)",
+            "match": "minted",
+            "distance": null
+          }
         }
       ]
     },
@@ -1160,7 +2611,22 @@
           "rarity": "R",
           "block": "4",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP15-040.png",
-          "source": "bandai"
+          "cardSet": "-ADVENTURE ON KAMI'S ISLAND- [OP15-EB04]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              685384
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Viola",
+            "match": "image-only-candidate",
+            "distance": 3
+          },
+          "artist": "Hagane Tsurugi"
         }
       ]
     },
@@ -1188,7 +2654,50 @@
           "rarity": "UC",
           "block": "4",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP15-041.png",
-          "source": "bandai"
+          "cardSet": "-ADVENTURE ON KAMI'S ISLAND- [OP15-EB04]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              685385
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "Orlumbus",
+            "match": "image-only-candidate",
+            "distance": 5
+          },
+          "artist": "Tadaichi Nakama"
+        },
+        {
+          "id": "OP15-041~tcg686432",
+          "set": "OP15-EB04-RE",
+          "rarity": "UC",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/686432_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              686432
+            ]
+          },
+          "tcgplayer": {
+            "name": "Orlumbus",
+            "match": "minted",
+            "distance": 5
+          },
+          "artOf": "OP15-041",
+          "finishes": [
+            "nonfoil"
+          ],
+          "promoTypes": [
+            {
+              "type": "release",
+              "category": "event"
+            }
+          ],
+          "artist": "Tadaichi Nakama"
         }
       ]
     },
@@ -1214,7 +2723,22 @@
           "rarity": "R",
           "block": "4",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP15-042.png",
-          "source": "bandai"
+          "cardSet": "-ADVENTURE ON KAMI'S ISLAND- [OP15-EB04]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              685386
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Kyros",
+            "match": "image-only-candidate",
+            "distance": 6
+          },
+          "artist": "Nekobayashi"
         }
       ]
     },
@@ -1242,7 +2766,50 @@
           "rarity": "C",
           "block": "4",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP15-043.png",
-          "source": "bandai"
+          "cardSet": "-ADVENTURE ON KAMI'S ISLAND- [OP15-EB04]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              685387
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "Kelly Funk",
+            "match": "image-only-candidate",
+            "distance": 8
+          },
+          "artist": "kankurou"
+        },
+        {
+          "id": "OP15-043~tcg686371",
+          "set": "OP15-EB04-RE",
+          "rarity": "C",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/686371_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              686371
+            ]
+          },
+          "tcgplayer": {
+            "name": "Kelly Funk",
+            "match": "minted",
+            "distance": 8
+          },
+          "artOf": "OP15-043",
+          "finishes": [
+            "nonfoil"
+          ],
+          "promoTypes": [
+            {
+              "type": "release",
+              "category": "event"
+            }
+          ],
+          "artist": "kankurou"
         }
       ]
     },
@@ -1270,7 +2837,50 @@
           "rarity": "C",
           "block": "4",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP15-044.png",
-          "source": "bandai"
+          "cardSet": "-ADVENTURE ON KAMI'S ISLAND- [OP15-EB04]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              685388
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "Koala",
+            "match": "image-only-candidate",
+            "distance": 2
+          },
+          "artist": "BISAI"
+        },
+        {
+          "id": "OP15-044~tcg686372",
+          "set": "OP15-EB04-RE",
+          "rarity": "C",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/686372_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              686372
+            ]
+          },
+          "tcgplayer": {
+            "name": "Koala",
+            "match": "minted",
+            "distance": 2
+          },
+          "artOf": "OP15-044",
+          "finishes": [
+            "nonfoil"
+          ],
+          "promoTypes": [
+            {
+              "type": "release",
+              "category": "event"
+            }
+          ],
+          "artist": "BISAI"
         }
       ]
     },
@@ -1298,7 +2908,50 @@
           "rarity": "UC",
           "block": "4",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP15-045.png",
-          "source": "bandai"
+          "cardSet": "-ADVENTURE ON KAMI'S ISLAND- [OP15-EB04]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              685389
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "Sai",
+            "match": "image-only-candidate",
+            "distance": 4
+          },
+          "artist": "touge369"
+        },
+        {
+          "id": "OP15-045~tcg686433",
+          "set": "OP15-EB04-RE",
+          "rarity": "UC",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/686433_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              686433
+            ]
+          },
+          "tcgplayer": {
+            "name": "Sai",
+            "match": "minted",
+            "distance": 4
+          },
+          "artOf": "OP15-045",
+          "finishes": [
+            "nonfoil"
+          ],
+          "promoTypes": [
+            {
+              "type": "release",
+              "category": "event"
+            }
+          ],
+          "artist": "touge369"
         }
       ]
     },
@@ -1325,7 +2978,22 @@
           "rarity": "SR",
           "block": "4",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP15-046.png",
-          "source": "bandai"
+          "cardSet": "-ADVENTURE ON KAMI'S ISLAND- [OP15-EB04]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              685390
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Sabo",
+            "match": "image",
+            "distance": 5
+          },
+          "artist": "Nijihayashi"
         },
         {
           "id": "OP15-046_p1",
@@ -1333,7 +3001,25 @@
           "rarity": "SR",
           "block": "4",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP15-046_p1.png",
-          "source": "bandai"
+          "cardSet": "-ADVENTURE ON KAMI'S ISLAND- [OP15-EB04]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              685391
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Sabo (Alternate Art)",
+            "match": "image",
+            "distance": 4
+          },
+          "treatments": [
+            "alternate_art"
+          ],
+          "artist": "Morechand"
         }
       ]
     },
@@ -1361,7 +3047,22 @@
           "rarity": "R",
           "block": "4",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP15-047.png",
-          "source": "bandai"
+          "cardSet": "-ADVENTURE ON KAMI'S ISLAND- [OP15-EB04]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              685392
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Sanji (OP15-047)",
+            "match": "image",
+            "distance": 3
+          },
+          "artist": "HISASHI HUJIWARA"
         },
         {
           "id": "OP15-047_p1",
@@ -1369,7 +3070,51 @@
           "rarity": "R",
           "block": "4",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP15-047_p1.png",
-          "source": "bandai"
+          "cardSet": "-ADVENTURE ON KAMI'S ISLAND- [OP15-EB04]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              685393
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Sanji (OP15-047) (Alternate Art)",
+            "match": "image",
+            "distance": 2
+          },
+          "treatments": [
+            "alternate_art"
+          ],
+          "artist": "Morechand"
+        },
+        {
+          "id": "OP15-047~tcg707246",
+          "set": "P",
+          "rarity": "R",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/707246_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              707246
+            ]
+          },
+          "tcgplayer": {
+            "name": "Sanji (Round 1 Promo)",
+            "match": "minted",
+            "distance": null
+          },
+          "finishes": [
+            "foil"
+          ],
+          "promoTypes": [
+            {
+              "type": "event_pack",
+              "category": "event"
+            }
+          ]
         }
       ]
     },
@@ -1397,7 +3142,50 @@
           "rarity": "C",
           "block": "4",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP15-048.png",
-          "source": "bandai"
+          "cardSet": "-ADVENTURE ON KAMI'S ISLAND- [OP15-EB04]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              685394
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "Chinjao",
+            "match": "image-only-candidate",
+            "distance": 8
+          },
+          "artist": "HISASHI HUJIWARA"
+        },
+        {
+          "id": "OP15-048~tcg686373",
+          "set": "OP15-EB04-RE",
+          "rarity": "C",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/686373_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              686373
+            ]
+          },
+          "tcgplayer": {
+            "name": "Chinjao",
+            "match": "minted",
+            "distance": 8
+          },
+          "artOf": "OP15-048",
+          "finishes": [
+            "nonfoil"
+          ],
+          "promoTypes": [
+            {
+              "type": "release",
+              "category": "event"
+            }
+          ],
+          "artist": "HISASHI HUJIWARA"
         }
       ]
     },
@@ -1426,7 +3214,50 @@
           "rarity": "UC",
           "block": "4",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP15-049.png",
-          "source": "bandai"
+          "cardSet": "-ADVENTURE ON KAMI'S ISLAND- [OP15-EB04]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              685395
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "Hajrudin",
+            "match": "image-only-candidate",
+            "distance": 2
+          },
+          "artist": "touge369"
+        },
+        {
+          "id": "OP15-049~tcg686434",
+          "set": "OP15-EB04-RE",
+          "rarity": "UC",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/686434_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              686434
+            ]
+          },
+          "tcgplayer": {
+            "name": "Hajrudin",
+            "match": "minted",
+            "distance": 2
+          },
+          "artOf": "OP15-049",
+          "finishes": [
+            "nonfoil"
+          ],
+          "promoTypes": [
+            {
+              "type": "release",
+              "category": "event"
+            }
+          ],
+          "artist": "touge369"
         }
       ]
     },
@@ -1454,7 +3285,50 @@
           "rarity": "C",
           "block": "4",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP15-050.png",
-          "source": "bandai"
+          "cardSet": "-ADVENTURE ON KAMI'S ISLAND- [OP15-EB04]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              685396
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "Bobby Funk",
+            "match": "image-only-candidate",
+            "distance": 8
+          },
+          "artist": "kankurou"
+        },
+        {
+          "id": "OP15-050~tcg686374",
+          "set": "OP15-EB04-RE",
+          "rarity": "C",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/686374_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              686374
+            ]
+          },
+          "tcgplayer": {
+            "name": "Bobby Funk",
+            "match": "minted",
+            "distance": 8
+          },
+          "artOf": "OP15-050",
+          "finishes": [
+            "nonfoil"
+          ],
+          "promoTypes": [
+            {
+              "type": "release",
+              "category": "event"
+            }
+          ],
+          "artist": "kankurou"
         }
       ]
     },
@@ -1482,7 +3356,50 @@
           "rarity": "UC",
           "block": "4",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP15-051.png",
-          "source": "bandai"
+          "cardSet": "-ADVENTURE ON KAMI'S ISLAND- [OP15-EB04]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              685397
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "Monkey.D.Luffy (OP15-051)",
+            "match": "image-only-candidate",
+            "distance": 6
+          },
+          "artist": "Koushi Rokushiro"
+        },
+        {
+          "id": "OP15-051~tcg686435",
+          "set": "OP15-EB04-RE",
+          "rarity": "UC",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/686435_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              686435
+            ]
+          },
+          "tcgplayer": {
+            "name": "Monkey.D.Luffy (OP15-051)",
+            "match": "minted",
+            "distance": 6
+          },
+          "artOf": "OP15-051",
+          "finishes": [
+            "nonfoil"
+          ],
+          "promoTypes": [
+            {
+              "type": "release",
+              "category": "event"
+            }
+          ],
+          "artist": "Koushi Rokushiro"
         }
       ]
     },
@@ -1510,7 +3427,50 @@
           "rarity": "UC",
           "block": "4",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP15-052.png",
-          "source": "bandai"
+          "cardSet": "-ADVENTURE ON KAMI'S ISLAND- [OP15-EB04]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              685398
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "Leo",
+            "match": "image-only-candidate",
+            "distance": 4
+          },
+          "artist": "kito"
+        },
+        {
+          "id": "OP15-052~tcg686440",
+          "set": "OP15-EB04-RE",
+          "rarity": "UC",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/686440_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              686440
+            ]
+          },
+          "tcgplayer": {
+            "name": "Leo",
+            "match": "minted",
+            "distance": 4
+          },
+          "artOf": "OP15-052",
+          "finishes": [
+            "nonfoil"
+          ],
+          "promoTypes": [
+            {
+              "type": "release",
+              "category": "event"
+            }
+          ],
+          "artist": "kito"
         }
       ]
     },
@@ -1536,7 +3496,22 @@
           "rarity": "SR",
           "block": "4",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP15-053.png",
-          "source": "bandai"
+          "cardSet": "-ADVENTURE ON KAMI'S ISLAND- [OP15-EB04]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              685399
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Rebecca (OP15-053)",
+            "match": "image",
+            "distance": 5
+          },
+          "artist": "sho"
         },
         {
           "id": "OP15-053_p1",
@@ -1544,7 +3519,25 @@
           "rarity": "SR",
           "block": "4",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP15-053_p1.png",
-          "source": "bandai"
+          "cardSet": "-ADVENTURE ON KAMI'S ISLAND- [OP15-EB04]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              685400
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Rebecca (OP15-053) (Alternate Art)",
+            "match": "image",
+            "distance": 5
+          },
+          "treatments": [
+            "alternate_art"
+          ],
+          "artist": "Yosuke Adachi"
         }
       ]
     },
@@ -1567,7 +3560,48 @@
           "rarity": "C",
           "block": "4",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP15-054.png",
-          "source": "bandai"
+          "cardSet": "-ADVENTURE ON KAMI'S ISLAND- [OP15-EB04]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              685401
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "And No One Else Can Have It! It's Our Memento of Him",
+            "match": "image-only-candidate",
+            "distance": 2
+          }
+        },
+        {
+          "id": "OP15-054~tcg686375",
+          "set": "OP15-EB04-RE",
+          "rarity": "C",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/686375_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              686375
+            ]
+          },
+          "tcgplayer": {
+            "name": "And No One Else Can Have It! It's Our Memento of Him",
+            "match": "minted",
+            "distance": 2
+          },
+          "artOf": "OP15-054",
+          "finishes": [
+            "nonfoil"
+          ],
+          "promoTypes": [
+            {
+              "type": "release",
+              "category": "event"
+            }
+          ]
         }
       ]
     },
@@ -1590,7 +3624,21 @@
           "rarity": "R",
           "block": "4",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP15-055.png",
-          "source": "bandai"
+          "cardSet": "-ADVENTURE ON KAMI'S ISLAND- [OP15-EB04]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              685402
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Go Ahead and Use 'Em, Mr. Luffy!!!",
+            "match": "image-only-candidate",
+            "distance": 5
+          }
         }
       ]
     },
@@ -1613,7 +3661,48 @@
           "rarity": "C",
           "block": "4",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP15-056.png",
-          "source": "bandai"
+          "cardSet": "-ADVENTURE ON KAMI'S ISLAND- [OP15-EB04]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              685403
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "Would You Let Me Eat the Flame-Flame Fruit?",
+            "match": "image-only-candidate",
+            "distance": 11
+          }
+        },
+        {
+          "id": "OP15-056~tcg686379",
+          "set": "OP15-EB04-RE",
+          "rarity": "C",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/686379_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              686379
+            ]
+          },
+          "tcgplayer": {
+            "name": "Would You Let Me Eat the Flame-Flame Fruit?",
+            "match": "minted",
+            "distance": 11
+          },
+          "artOf": "OP15-056",
+          "finishes": [
+            "nonfoil"
+          ],
+          "promoTypes": [
+            {
+              "type": "release",
+              "category": "event"
+            }
+          ]
         }
       ]
     },
@@ -1635,7 +3724,48 @@
           "rarity": "C",
           "block": "4",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP15-057.png",
-          "source": "bandai"
+          "cardSet": "-ADVENTURE ON KAMI'S ISLAND- [OP15-EB04]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              685404
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "Dressrosa Kingdom",
+            "match": "image-only-candidate",
+            "distance": 5
+          }
+        },
+        {
+          "id": "OP15-057~tcg686380",
+          "set": "OP15-EB04-RE",
+          "rarity": "C",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/686380_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              686380
+            ]
+          },
+          "tcgplayer": {
+            "name": "Dressrosa Kingdom",
+            "match": "minted",
+            "distance": 5
+          },
+          "artOf": "OP15-057",
+          "finishes": [
+            "nonfoil"
+          ],
+          "promoTypes": [
+            {
+              "type": "release",
+              "category": "event"
+            }
+          ]
         }
       ]
     },
@@ -1661,7 +3791,22 @@
           "rarity": "L",
           "block": "4",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP15-058.png",
-          "source": "bandai"
+          "cardSet": "-ADVENTURE ON KAMI'S ISLAND- [OP15-EB04]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              685405
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "Enel (OP15-058)",
+            "match": "image",
+            "distance": 5
+          },
+          "artist": "Zhiguang Liu"
         },
         {
           "id": "OP15-058_p1",
@@ -1669,7 +3814,25 @@
           "rarity": "L",
           "block": "4",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP15-058_p1.png",
-          "source": "bandai"
+          "cardSet": "-ADVENTURE ON KAMI'S ISLAND- [OP15-EB04]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              685406
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Enel (OP15-058) (Alternate Art)",
+            "match": "image",
+            "distance": 6
+          },
+          "treatments": [
+            "alternate_art"
+          ],
+          "artist": "Anderson"
         }
       ]
     },
@@ -1695,7 +3858,50 @@
           "rarity": "C",
           "block": "4",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP15-059.png",
-          "source": "bandai"
+          "cardSet": "-ADVENTURE ON KAMI'S ISLAND- [OP15-EB04]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              685407
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "Amazon",
+            "match": "image-only-candidate",
+            "distance": 8
+          },
+          "artist": "Suzume Muraichi"
+        },
+        {
+          "id": "OP15-059~tcg686381",
+          "set": "OP15-EB04-RE",
+          "rarity": "C",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/686381_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              686381
+            ]
+          },
+          "tcgplayer": {
+            "name": "Amazon",
+            "match": "minted",
+            "distance": 8
+          },
+          "artOf": "OP15-059",
+          "finishes": [
+            "nonfoil"
+          ],
+          "promoTypes": [
+            {
+              "type": "release",
+              "category": "event"
+            }
+          ],
+          "artist": "Suzume Muraichi"
         }
       ]
     },
@@ -1721,7 +3927,22 @@
           "rarity": "SR",
           "block": "4",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP15-060.png",
-          "source": "bandai"
+          "cardSet": "-ADVENTURE ON KAMI'S ISLAND- [OP15-EB04]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              685408
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Enel (OP15-060)",
+            "match": "image",
+            "distance": 2
+          },
+          "artist": "nishinoshima"
         },
         {
           "id": "OP15-060_p1",
@@ -1729,7 +3950,51 @@
           "rarity": "SR",
           "block": "4",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP15-060_p1.png",
-          "source": "bandai"
+          "cardSet": "-ADVENTURE ON KAMI'S ISLAND- [OP15-EB04]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              685409
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Enel (OP15-060) (Alternate Art)",
+            "match": "image",
+            "distance": 3
+          },
+          "treatments": [
+            "alternate_art"
+          ],
+          "artist": "Matsumoto Akira"
+        },
+        {
+          "id": "OP15-060~tcg692135",
+          "set": "P",
+          "rarity": "SR",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/692135_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              692135
+            ]
+          },
+          "tcgplayer": {
+            "name": "Enel (Treasure Cup May 2026)",
+            "match": "minted",
+            "distance": null
+          },
+          "finishes": [
+            "foil"
+          ],
+          "promoTypes": [
+            {
+              "type": "treasure_cup",
+              "category": "championship"
+            }
+          ]
         }
       ]
     },
@@ -1757,7 +4022,22 @@
           "rarity": "R",
           "block": "4",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP15-061.png",
-          "source": "bandai"
+          "cardSet": "-ADVENTURE ON KAMI'S ISLAND- [OP15-EB04]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              685410
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Ohm",
+            "match": "image",
+            "distance": 5
+          },
+          "artist": "Hatori Kyoka"
         },
         {
           "id": "OP15-061_p1",
@@ -1765,7 +4045,25 @@
           "rarity": "R",
           "block": "4",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP15-061_p1.png",
-          "source": "bandai"
+          "cardSet": "-ADVENTURE ON KAMI'S ISLAND- [OP15-EB04]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              685411
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Ohm (Alternate Art)",
+            "match": "image",
+            "distance": 4
+          },
+          "treatments": [
+            "alternate_art"
+          ],
+          "artist": "akagi"
         }
       ]
     },
@@ -1793,7 +4091,50 @@
           "rarity": "UC",
           "block": "4",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP15-062.png",
-          "source": "bandai"
+          "cardSet": "-ADVENTURE ON KAMI'S ISLAND- [OP15-EB04]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              685412
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "Captain Seamars",
+            "match": "image-only-candidate",
+            "distance": 5
+          },
+          "artist": "Akihiro MIYANO"
+        },
+        {
+          "id": "OP15-062~tcg686441",
+          "set": "OP15-EB04-RE",
+          "rarity": "UC",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/686441_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              686441
+            ]
+          },
+          "tcgplayer": {
+            "name": "Captain Seamars",
+            "match": "minted",
+            "distance": 5
+          },
+          "artOf": "OP15-062",
+          "finishes": [
+            "nonfoil"
+          ],
+          "promoTypes": [
+            {
+              "type": "release",
+              "category": "event"
+            }
+          ],
+          "artist": "Akihiro MIYANO"
         }
       ]
     },
@@ -1821,7 +4162,22 @@
           "rarity": "R",
           "block": "4",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP15-063.png",
-          "source": "bandai"
+          "cardSet": "-ADVENTURE ON KAMI'S ISLAND- [OP15-EB04]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              685413
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Gedatsu",
+            "match": "image-only-candidate",
+            "distance": 3
+          },
+          "artist": "Aidle Co. Ltd."
         }
       ]
     },
@@ -1848,7 +4204,50 @@
           "rarity": "C",
           "block": "4",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP15-064.png",
-          "source": "bandai"
+          "cardSet": "-ADVENTURE ON KAMI'S ISLAND- [OP15-EB04]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              685414
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "Kotori",
+            "match": "image-only-candidate",
+            "distance": 5
+          },
+          "artist": "Studio Vigor Co. Ltd"
+        },
+        {
+          "id": "OP15-064~tcg686382",
+          "set": "OP15-EB04-RE",
+          "rarity": "C",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/686382_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              686382
+            ]
+          },
+          "tcgplayer": {
+            "name": "Kotori",
+            "match": "minted",
+            "distance": 5
+          },
+          "artOf": "OP15-064",
+          "finishes": [
+            "nonfoil"
+          ],
+          "promoTypes": [
+            {
+              "type": "release",
+              "category": "event"
+            }
+          ],
+          "artist": "Studio Vigor Co. Ltd"
         }
       ]
     },
@@ -1875,7 +4274,50 @@
           "rarity": "C",
           "block": "4",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP15-065.png",
-          "source": "bandai"
+          "cardSet": "-ADVENTURE ON KAMI'S ISLAND- [OP15-EB04]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              685415
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "Goro",
+            "match": "image-only-candidate",
+            "distance": 8
+          },
+          "artist": "S-KINOKO"
+        },
+        {
+          "id": "OP15-065~tcg686383",
+          "set": "OP15-EB04-RE",
+          "rarity": "C",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/686383_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              686383
+            ]
+          },
+          "tcgplayer": {
+            "name": "Goro",
+            "match": "minted",
+            "distance": 8
+          },
+          "artOf": "OP15-065",
+          "finishes": [
+            "nonfoil"
+          ],
+          "promoTypes": [
+            {
+              "type": "release",
+              "category": "event"
+            }
+          ],
+          "artist": "S-KINOKO"
         }
       ]
     },
@@ -1903,7 +4345,74 @@
           "rarity": "R",
           "block": "4",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP15-066.png",
-          "source": "bandai"
+          "cardSet": "-ADVENTURE ON KAMI'S ISLAND- [OP15-EB04]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              685416
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Satori",
+            "match": "image-only-candidate",
+            "distance": 3
+          },
+          "artist": "SHINRA AGENCY Co. Ltd."
+        },
+        {
+          "id": "OP15-066~tcg722634",
+          "set": "P",
+          "rarity": "R",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/722634_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              722634
+            ]
+          },
+          "tcgplayer": {
+            "name": "Satori (Tournament Pack 2026 Vol. 4)",
+            "match": "minted",
+            "distance": null
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "promoTypes": [
+            {
+              "type": "event_pack",
+              "category": "event"
+            }
+          ]
+        },
+        {
+          "id": "OP15-066~tcg722636",
+          "set": "P",
+          "rarity": "R",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/722636_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              722636
+            ]
+          },
+          "tcgplayer": {
+            "name": "Satori (Winner Pack 2026 Vol. 4)",
+            "match": "minted",
+            "distance": null
+          },
+          "finishes": [
+            "foil"
+          ],
+          "promoTypes": [
+            {
+              "type": "placement",
+              "category": "placement"
+            }
+          ]
         }
       ]
     },
@@ -1931,7 +4440,22 @@
           "rarity": "R",
           "block": "4",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP15-067.png",
-          "source": "bandai"
+          "cardSet": "-ADVENTURE ON KAMI'S ISLAND- [OP15-EB04]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              685417
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Shura",
+            "match": "image-only-candidate",
+            "distance": 7
+          },
+          "artist": "Aidle Co. Ltd."
         }
       ]
     },
@@ -1958,7 +4482,50 @@
           "rarity": "C",
           "block": "4",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP15-068.png",
-          "source": "bandai"
+          "cardSet": "-ADVENTURE ON KAMI'S ISLAND- [OP15-EB04]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              685418
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "Heavenly Warriors",
+            "match": "image-only-candidate",
+            "distance": 4
+          },
+          "artist": "SHINRA AGENCY Co. Ltd."
+        },
+        {
+          "id": "OP15-068~tcg686401",
+          "set": "OP15-EB04-RE",
+          "rarity": "C",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/686401_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              686401
+            ]
+          },
+          "tcgplayer": {
+            "name": "Heavenly Warriors",
+            "match": "minted",
+            "distance": 4
+          },
+          "artOf": "OP15-068",
+          "finishes": [
+            "nonfoil"
+          ],
+          "promoTypes": [
+            {
+              "type": "release",
+              "category": "event"
+            }
+          ],
+          "artist": "SHINRA AGENCY Co. Ltd."
         }
       ]
     },
@@ -1986,7 +4553,50 @@
           "rarity": "UC",
           "block": "4",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP15-069.png",
-          "source": "bandai"
+          "cardSet": "-ADVENTURE ON KAMI'S ISLAND- [OP15-EB04]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              685419
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "Nola",
+            "match": "image-only-candidate",
+            "distance": 4
+          },
+          "artist": "KISUKE"
+        },
+        {
+          "id": "OP15-069~tcg686442",
+          "set": "OP15-EB04-RE",
+          "rarity": "UC",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/686442_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              686442
+            ]
+          },
+          "tcgplayer": {
+            "name": "Nola",
+            "match": "minted",
+            "distance": 4
+          },
+          "artOf": "OP15-069",
+          "finishes": [
+            "nonfoil"
+          ],
+          "promoTypes": [
+            {
+              "type": "release",
+              "category": "event"
+            }
+          ],
+          "artist": "KISUKE"
         }
       ]
     },
@@ -2014,7 +4624,50 @@
           "rarity": "C",
           "block": "4",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP15-070.png",
-          "source": "bandai"
+          "cardSet": "-ADVENTURE ON KAMI'S ISLAND- [OP15-EB04]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              685420
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "Fuza",
+            "match": "image-only-candidate",
+            "distance": 4
+          },
+          "artist": "Nakamaru"
+        },
+        {
+          "id": "OP15-070~tcg686402",
+          "set": "OP15-EB04-RE",
+          "rarity": "C",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/686402_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              686402
+            ]
+          },
+          "tcgplayer": {
+            "name": "Fuza",
+            "match": "minted",
+            "distance": 4
+          },
+          "artOf": "OP15-070",
+          "finishes": [
+            "nonfoil"
+          ],
+          "promoTypes": [
+            {
+              "type": "release",
+              "category": "event"
+            }
+          ],
+          "artist": "Nakamaru"
         }
       ]
     },
@@ -2042,7 +4695,50 @@
           "rarity": "C",
           "block": "4",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP15-071.png",
-          "source": "bandai"
+          "cardSet": "-ADVENTURE ON KAMI'S ISLAND- [OP15-EB04]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              685421
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "Holly",
+            "match": "image-only-candidate",
+            "distance": 4
+          },
+          "artist": "Moopic"
+        },
+        {
+          "id": "OP15-071~tcg686403",
+          "set": "OP15-EB04-RE",
+          "rarity": "C",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/686403_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              686403
+            ]
+          },
+          "tcgplayer": {
+            "name": "Holly",
+            "match": "minted",
+            "distance": 4
+          },
+          "artOf": "OP15-071",
+          "finishes": [
+            "nonfoil"
+          ],
+          "promoTypes": [
+            {
+              "type": "release",
+              "category": "event"
+            }
+          ],
+          "artist": "Moopic"
         }
       ]
     },
@@ -2069,7 +4765,50 @@
           "rarity": "C",
           "block": "4",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP15-072.png",
-          "source": "bandai"
+          "cardSet": "-ADVENTURE ON KAMI'S ISLAND- [OP15-EB04]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              685422
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "Hotori",
+            "match": "image-only-candidate",
+            "distance": 5
+          },
+          "artist": "Studio Vigor Co. Ltd"
+        },
+        {
+          "id": "OP15-072~tcg686404",
+          "set": "OP15-EB04-RE",
+          "rarity": "C",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/686404_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              686404
+            ]
+          },
+          "tcgplayer": {
+            "name": "Hotori",
+            "match": "minted",
+            "distance": 3
+          },
+          "artOf": "OP15-072",
+          "finishes": [
+            "nonfoil"
+          ],
+          "promoTypes": [
+            {
+              "type": "release",
+              "category": "event"
+            }
+          ],
+          "artist": "Studio Vigor Co. Ltd"
         }
       ]
     },
@@ -2096,7 +4835,50 @@
           "rarity": "C",
           "block": "4",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP15-073.png",
-          "source": "bandai"
+          "cardSet": "-ADVENTURE ON KAMI'S ISLAND- [OP15-EB04]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              685423
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "Yama",
+            "match": "image-only-candidate",
+            "distance": 2
+          },
+          "artist": "Suzume Muraichi"
+        },
+        {
+          "id": "OP15-073~tcg686405",
+          "set": "OP15-EB04-RE",
+          "rarity": "C",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/686405_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              686405
+            ]
+          },
+          "tcgplayer": {
+            "name": "Yama",
+            "match": "minted",
+            "distance": 2
+          },
+          "artOf": "OP15-073",
+          "finishes": [
+            "nonfoil"
+          ],
+          "promoTypes": [
+            {
+              "type": "release",
+              "category": "event"
+            }
+          ],
+          "artist": "Suzume Muraichi"
         }
       ]
     },
@@ -2117,7 +4899,48 @@
           "rarity": "UC",
           "block": "4",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP15-074.png",
-          "source": "bandai"
+          "cardSet": "-ADVENTURE ON KAMI'S ISLAND- [OP15-EB04]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              685424
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "Varie",
+            "match": "image-only-candidate",
+            "distance": 10
+          }
+        },
+        {
+          "id": "OP15-074~tcg686443",
+          "set": "OP15-EB04-RE",
+          "rarity": "UC",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/686443_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              686443
+            ]
+          },
+          "tcgplayer": {
+            "name": "Varie",
+            "match": "minted",
+            "distance": 10
+          },
+          "artOf": "OP15-074",
+          "finishes": [
+            "nonfoil"
+          ],
+          "promoTypes": [
+            {
+              "type": "release",
+              "category": "event"
+            }
+          ]
         }
       ]
     },
@@ -2138,7 +4961,21 @@
           "rarity": "UC",
           "block": "4",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP15-075.png",
-          "source": "bandai"
+          "cardSet": "-ADVENTURE ON KAMI'S ISLAND- [OP15-EB04]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              685425
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "El Thor",
+            "match": "image-only-candidate",
+            "distance": 6
+          }
         },
         {
           "id": "OP15-075_p1",
@@ -2146,7 +4983,55 @@
           "rarity": "UC",
           "block": "4",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP15-075_p1.png",
-          "source": "bandai"
+          "cardSet": "Premium Card Collection -Best Selection Vol.6-",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              694884
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "El Thor (Premium Card Collection -Best Selection Vol. 6-)",
+            "match": "image",
+            "distance": 13
+          },
+          "promoTypes": [
+            {
+              "type": "retail_product",
+              "category": "retail"
+            }
+          ],
+          "artist": "Hachi Takashi"
+        },
+        {
+          "id": "OP15-075~tcg686444",
+          "set": "OP15-EB04-RE",
+          "rarity": "UC",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/686444_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              686444
+            ]
+          },
+          "tcgplayer": {
+            "name": "El Thor",
+            "match": "minted",
+            "distance": 6
+          },
+          "artOf": "OP15-075",
+          "finishes": [
+            "nonfoil"
+          ],
+          "promoTypes": [
+            {
+              "type": "release",
+              "category": "event"
+            }
+          ]
         }
       ]
     },
@@ -2167,7 +5052,48 @@
           "rarity": "UC",
           "block": "4",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP15-076.png",
-          "source": "bandai"
+          "cardSet": "-ADVENTURE ON KAMI'S ISLAND- [OP15-EB04]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              685426
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "Lightning Beast Kiten",
+            "match": "image-only-candidate",
+            "distance": 7
+          }
+        },
+        {
+          "id": "OP15-076~tcg686445",
+          "set": "OP15-EB04-RE",
+          "rarity": "UC",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/686445_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              686445
+            ]
+          },
+          "tcgplayer": {
+            "name": "Lightning Beast Kiten",
+            "match": "minted",
+            "distance": 7
+          },
+          "artOf": "OP15-076",
+          "finishes": [
+            "nonfoil"
+          ],
+          "promoTypes": [
+            {
+              "type": "release",
+              "category": "event"
+            }
+          ]
         }
       ]
     },
@@ -2188,7 +5114,21 @@
           "rarity": "R",
           "block": "4",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP15-077.png",
-          "source": "bandai"
+          "cardSet": "-ADVENTURE ON KAMI'S ISLAND- [OP15-EB04]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              685427
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Lightning Dragon",
+            "match": "image",
+            "distance": 6
+          }
         },
         {
           "id": "OP15-077_p1",
@@ -2196,7 +5136,24 @@
           "rarity": "R",
           "block": "4",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP15-077_p1.png",
-          "source": "bandai"
+          "cardSet": "-ADVENTURE ON KAMI'S ISLAND- [OP15-EB04]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              685428
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Lightning Dragon (Alternate Art)",
+            "match": "image",
+            "distance": 0
+          },
+          "treatments": [
+            "alternate_art"
+          ]
         }
       ]
     },
@@ -2217,7 +5174,21 @@
           "rarity": "SR",
           "block": "4",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP15-078.png",
-          "source": "bandai"
+          "cardSet": "-ADVENTURE ON KAMI'S ISLAND- [OP15-EB04]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              685429
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Mamaragan",
+            "match": "image",
+            "distance": 3
+          }
         },
         {
           "id": "OP15-078_p1",
@@ -2225,7 +5196,25 @@
           "rarity": "SR",
           "block": "4",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP15-078_p1.png",
-          "source": "bandai"
+          "cardSet": "-ADVENTURE ON KAMI'S ISLAND- [OP15-EB04]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              685430
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Mamaragan (Alternate Art)",
+            "match": "image",
+            "distance": 4
+          },
+          "treatments": [
+            "alternate_art"
+          ],
+          "artist": "Hachi Takashi"
         }
       ]
     },
@@ -2252,7 +5241,50 @@
           "rarity": "C",
           "block": "4",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP15-079.png",
-          "source": "bandai"
+          "cardSet": "-ADVENTURE ON KAMI'S ISLAND- [OP15-EB04]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              685431
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "Absalom",
+            "match": "image-only-candidate",
+            "distance": 4
+          },
+          "artist": "Tanaka Kenichi"
+        },
+        {
+          "id": "OP15-079~tcg686406",
+          "set": "OP15-EB04-RE",
+          "rarity": "C",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/686406_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              686406
+            ]
+          },
+          "tcgplayer": {
+            "name": "Absalom",
+            "match": "minted",
+            "distance": 4
+          },
+          "artOf": "OP15-079",
+          "finishes": [
+            "nonfoil"
+          ],
+          "promoTypes": [
+            {
+              "type": "release",
+              "category": "event"
+            }
+          ],
+          "artist": "Tanaka Kenichi"
         }
       ]
     },
@@ -2279,7 +5311,22 @@
           "rarity": "R",
           "block": "4",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP15-080.png",
-          "source": "bandai"
+          "cardSet": "-ADVENTURE ON KAMI'S ISLAND- [OP15-EB04]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              685432
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Oars",
+            "match": "image-only-candidate",
+            "distance": 6
+          },
+          "artist": "nukadokomogera"
         }
       ]
     },
@@ -2306,7 +5353,50 @@
           "rarity": "UC",
           "block": "4",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP15-081.png",
-          "source": "bandai"
+          "cardSet": "-ADVENTURE ON KAMI'S ISLAND- [OP15-EB04]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              685433
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "Sanji (OP15-081)",
+            "match": "image-only-candidate",
+            "distance": 2
+          },
+          "artist": "Naruse Uroko"
+        },
+        {
+          "id": "OP15-081~tcg686446",
+          "set": "OP15-EB04-RE",
+          "rarity": "UC",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/686446_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              686446
+            ]
+          },
+          "tcgplayer": {
+            "name": "Sanji (OP15-081)",
+            "match": "minted",
+            "distance": 2
+          },
+          "artOf": "OP15-081",
+          "finishes": [
+            "nonfoil"
+          ],
+          "promoTypes": [
+            {
+              "type": "release",
+              "category": "event"
+            }
+          ],
+          "artist": "Naruse Uroko"
         }
       ]
     },
@@ -2333,7 +5423,50 @@
           "rarity": "C",
           "block": "4",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP15-082.png",
-          "source": "bandai"
+          "cardSet": "-ADVENTURE ON KAMI'S ISLAND- [OP15-EB04]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              685434
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "Charlotte Lola",
+            "match": "image-only-candidate",
+            "distance": 3
+          },
+          "artist": "Hatori Kyoka"
+        },
+        {
+          "id": "OP15-082~tcg686407",
+          "set": "OP15-EB04-RE",
+          "rarity": "C",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/686407_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              686407
+            ]
+          },
+          "tcgplayer": {
+            "name": "Charlotte Lola",
+            "match": "minted",
+            "distance": 3
+          },
+          "artOf": "OP15-082",
+          "finishes": [
+            "nonfoil"
+          ],
+          "promoTypes": [
+            {
+              "type": "release",
+              "category": "event"
+            }
+          ],
+          "artist": "Hatori Kyoka"
         }
       ]
     },
@@ -2359,7 +5492,50 @@
           "rarity": "C",
           "block": "4",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP15-083.png",
-          "source": "bandai"
+          "cardSet": "-ADVENTURE ON KAMI'S ISLAND- [OP15-EB04]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              685435
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "Spoil",
+            "match": "image-only-candidate",
+            "distance": 7
+          },
+          "artist": "Katsuo Tadano"
+        },
+        {
+          "id": "OP15-083~tcg686408",
+          "set": "OP15-EB04-RE",
+          "rarity": "C",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/686408_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              686408
+            ]
+          },
+          "tcgplayer": {
+            "name": "Spoil",
+            "match": "minted",
+            "distance": 7
+          },
+          "artOf": "OP15-083",
+          "finishes": [
+            "nonfoil"
+          ],
+          "promoTypes": [
+            {
+              "type": "release",
+              "category": "event"
+            }
+          ],
+          "artist": "Katsuo Tadano"
         }
       ]
     },
@@ -2386,7 +5562,50 @@
           "rarity": "C",
           "block": "4",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP15-084.png",
-          "source": "bandai"
+          "cardSet": "-ADVENTURE ON KAMI'S ISLAND- [OP15-EB04]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              685436
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "Dr. Hogback",
+            "match": "image-only-candidate",
+            "distance": 3
+          },
+          "artist": "tasaka"
+        },
+        {
+          "id": "OP15-084~tcg686409",
+          "set": "OP15-EB04-RE",
+          "rarity": "C",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/686409_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              686409
+            ]
+          },
+          "tcgplayer": {
+            "name": "Dr. Hogback",
+            "match": "minted",
+            "distance": 3
+          },
+          "artOf": "OP15-084",
+          "finishes": [
+            "nonfoil"
+          ],
+          "promoTypes": [
+            {
+              "type": "release",
+              "category": "event"
+            }
+          ],
+          "artist": "tasaka"
         }
       ]
     },
@@ -2414,7 +5633,22 @@
           "rarity": "R",
           "block": "4",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP15-085.png",
-          "source": "bandai"
+          "cardSet": "-ADVENTURE ON KAMI'S ISLAND- [OP15-EB04]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              685437
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Tony Tony.Chopper (OP15-085)",
+            "match": "image-only-candidate",
+            "distance": 4
+          },
+          "artist": "sacanahen"
         }
       ]
     },
@@ -2440,7 +5674,22 @@
           "rarity": "SR",
           "block": "4",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP15-086.png",
-          "source": "bandai"
+          "cardSet": "-ADVENTURE ON KAMI'S ISLAND- [OP15-EB04]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              685438
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Nami (OP15-086)",
+            "match": "image",
+            "distance": 3
+          },
+          "artist": "SHIE NANAHARA"
         },
         {
           "id": "OP15-086_p1",
@@ -2448,7 +5697,25 @@
           "rarity": "SR",
           "block": "4",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP15-086_p1.png",
-          "source": "bandai"
+          "cardSet": "-ADVENTURE ON KAMI'S ISLAND- [OP15-EB04]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              685439
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Nami (OP15-086) (Alternate Art)",
+            "match": "image",
+            "distance": 3
+          },
+          "treatments": [
+            "alternate_art"
+          ],
+          "artist": "NAKAuMA"
         }
       ]
     },
@@ -2474,7 +5741,50 @@
           "rarity": "C",
           "block": "4",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP15-087.png",
-          "source": "bandai"
+          "cardSet": "-ADVENTURE ON KAMI'S ISLAND- [OP15-EB04]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              685440
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "Nico Robin (OP15-087)",
+            "match": "image-only-candidate",
+            "distance": 3
+          },
+          "artist": "kicori"
+        },
+        {
+          "id": "OP15-087~tcg686410",
+          "set": "OP15-EB04-RE",
+          "rarity": "C",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/686410_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              686410
+            ]
+          },
+          "tcgplayer": {
+            "name": "Nico Robin (OP15-087)",
+            "match": "minted",
+            "distance": 3
+          },
+          "artOf": "OP15-087",
+          "finishes": [
+            "nonfoil"
+          ],
+          "promoTypes": [
+            {
+              "type": "release",
+              "category": "event"
+            }
+          ],
+          "artist": "kicori"
         }
       ]
     },
@@ -2500,7 +5810,22 @@
           "rarity": "R",
           "block": "4",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP15-088.png",
-          "source": "bandai"
+          "cardSet": "-ADVENTURE ON KAMI'S ISLAND- [OP15-EB04]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              685441
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Pirates Docking Six",
+            "match": "image-only-candidate",
+            "distance": 6
+          },
+          "artist": "phima"
         }
       ]
     },
@@ -2527,7 +5852,50 @@
           "rarity": "UC",
           "block": "4",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP15-089.png",
-          "source": "bandai"
+          "cardSet": "-ADVENTURE ON KAMI'S ISLAND- [OP15-EB04]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              685442
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "Franky",
+            "match": "image-only-candidate",
+            "distance": 9
+          },
+          "artist": "SHINRA AGENCY Co. Ltd."
+        },
+        {
+          "id": "OP15-089~tcg686447",
+          "set": "OP15-EB04-RE",
+          "rarity": "UC",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/686447_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              686447
+            ]
+          },
+          "tcgplayer": {
+            "name": "Franky",
+            "match": "minted",
+            "distance": 9
+          },
+          "artOf": "OP15-089",
+          "finishes": [
+            "nonfoil"
+          ],
+          "promoTypes": [
+            {
+              "type": "release",
+              "category": "event"
+            }
+          ],
+          "artist": "SHINRA AGENCY Co. Ltd."
         }
       ]
     },
@@ -2554,7 +5922,50 @@
           "rarity": "UC",
           "block": "4",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP15-090.png",
-          "source": "bandai"
+          "cardSet": "-ADVENTURE ON KAMI'S ISLAND- [OP15-EB04]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              685443
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "Perona",
+            "match": "image-only-candidate",
+            "distance": 5
+          },
+          "artist": "kusunoki harui"
+        },
+        {
+          "id": "OP15-090~tcg686448",
+          "set": "OP15-EB04-RE",
+          "rarity": "UC",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/686448_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              686448
+            ]
+          },
+          "tcgplayer": {
+            "name": "Perona",
+            "match": "minted",
+            "distance": 5
+          },
+          "artOf": "OP15-090",
+          "finishes": [
+            "nonfoil"
+          ],
+          "promoTypes": [
+            {
+              "type": "release",
+              "category": "event"
+            }
+          ],
+          "artist": "kusunoki harui"
         }
       ]
     },
@@ -2580,7 +5991,50 @@
           "rarity": "C",
           "block": "4",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP15-091.png",
-          "source": "bandai"
+          "cardSet": "-ADVENTURE ON KAMI'S ISLAND- [OP15-EB04]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              685444
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "Margarita",
+            "match": "image-only-candidate",
+            "distance": 8
+          },
+          "artist": "Sunohara"
+        },
+        {
+          "id": "OP15-091~tcg686411",
+          "set": "OP15-EB04-RE",
+          "rarity": "C",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/686411_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              686411
+            ]
+          },
+          "tcgplayer": {
+            "name": "Margarita",
+            "match": "minted",
+            "distance": 8
+          },
+          "artOf": "OP15-091",
+          "finishes": [
+            "nonfoil"
+          ],
+          "promoTypes": [
+            {
+              "type": "release",
+              "category": "event"
+            }
+          ],
+          "artist": "Sunohara"
         }
       ]
     },
@@ -2607,7 +6061,22 @@
           "rarity": "R",
           "block": "4",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP15-092.png",
-          "source": "bandai"
+          "cardSet": "-ADVENTURE ON KAMI'S ISLAND- [OP15-EB04]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              685445
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Monkey.D.Luffy (OP15-092)",
+            "match": "image",
+            "distance": 8
+          },
+          "artist": "Ryuda"
         },
         {
           "id": "OP15-092_p1",
@@ -2615,7 +6084,51 @@
           "rarity": "R",
           "block": "4",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP15-092_p1.png",
-          "source": "bandai"
+          "cardSet": "-ADVENTURE ON KAMI'S ISLAND- [OP15-EB04]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              685446
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Monkey.D.Luffy (OP15-092) (Alternate Art)",
+            "match": "image",
+            "distance": 4
+          },
+          "treatments": [
+            "alternate_art"
+          ],
+          "artist": "Matsumoto Akira"
+        },
+        {
+          "id": "OP15-092~tcg721297",
+          "set": "P",
+          "rarity": "R",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/721297_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              721297
+            ]
+          },
+          "tcgplayer": {
+            "name": "Monkey.D.Luffy (Treasure Cup August 2026)",
+            "match": "minted",
+            "distance": null
+          },
+          "finishes": [
+            "foil"
+          ],
+          "promoTypes": [
+            {
+              "type": "treasure_cup",
+              "category": "championship"
+            }
+          ]
         }
       ]
     },
@@ -2642,7 +6155,50 @@
           "rarity": "C",
           "block": "4",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP15-093.png",
-          "source": "bandai"
+          "cardSet": "-ADVENTURE ON KAMI'S ISLAND- [OP15-EB04]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              685447
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "The Risky Brothers",
+            "match": "image-only-candidate",
+            "distance": 6
+          },
+          "artist": "SHINRA AGENCY Co. Ltd."
+        },
+        {
+          "id": "OP15-093~tcg686412",
+          "set": "OP15-EB04-RE",
+          "rarity": "C",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/686412_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              686412
+            ]
+          },
+          "tcgplayer": {
+            "name": "The Risky Brothers",
+            "match": "minted",
+            "distance": 6
+          },
+          "artOf": "OP15-093",
+          "finishes": [
+            "nonfoil"
+          ],
+          "promoTypes": [
+            {
+              "type": "release",
+              "category": "event"
+            }
+          ],
+          "artist": "SHINRA AGENCY Co. Ltd."
         }
       ]
     },
@@ -2669,7 +6225,50 @@
           "rarity": "UC",
           "block": "4",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP15-094.png",
-          "source": "bandai"
+          "cardSet": "-ADVENTURE ON KAMI'S ISLAND- [OP15-EB04]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              685448
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "Roronoa Zoro (OP15-094)",
+            "match": "image-only-candidate",
+            "distance": 5
+          },
+          "artist": "Studio Vigor Co. Ltd"
+        },
+        {
+          "id": "OP15-094~tcg686449",
+          "set": "OP15-EB04-RE",
+          "rarity": "UC",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/686449_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              686449
+            ]
+          },
+          "tcgplayer": {
+            "name": "Roronoa Zoro (OP15-094)",
+            "match": "minted",
+            "distance": 5
+          },
+          "artOf": "OP15-094",
+          "finishes": [
+            "nonfoil"
+          ],
+          "promoTypes": [
+            {
+              "type": "release",
+              "category": "event"
+            }
+          ],
+          "artist": "Studio Vigor Co. Ltd"
         }
       ]
     },
@@ -2691,7 +6290,48 @@
           "rarity": "UC",
           "block": "4",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP15-095.png",
-          "source": "bandai"
+          "cardSet": "-ADVENTURE ON KAMI'S ISLAND- [OP15-EB04]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              685449
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "Gum-Gum Storm",
+            "match": "image-only-candidate",
+            "distance": 4
+          }
+        },
+        {
+          "id": "OP15-095~tcg686450",
+          "set": "OP15-EB04-RE",
+          "rarity": "UC",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/686450_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              686450
+            ]
+          },
+          "tcgplayer": {
+            "name": "Gum-Gum Storm",
+            "match": "minted",
+            "distance": 4
+          },
+          "artOf": "OP15-095",
+          "finishes": [
+            "nonfoil"
+          ],
+          "promoTypes": [
+            {
+              "type": "release",
+              "category": "event"
+            }
+          ]
         }
       ]
     },
@@ -2711,7 +6351,22 @@
           "set": "OP15-EB04",
           "rarity": "R",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP15-096.png",
-          "source": "bandai"
+          "cardSet": "-ADVENTURE ON KAMI'S ISLAND- [OP15-EB04]",
+          "source": "bandai",
+          "block": "4",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              685450
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Swallow Bond en Avant",
+            "match": "image-only-candidate",
+            "distance": 6
+          }
         }
       ]
     },
@@ -2733,7 +6388,48 @@
           "rarity": "C",
           "block": "4",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP15-097.png",
-          "source": "bandai"
+          "cardSet": "-ADVENTURE ON KAMI'S ISLAND- [OP15-EB04]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              685451
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "I Find It Embarrassing as a Human Being",
+            "match": "image-only-candidate",
+            "distance": 6
+          }
+        },
+        {
+          "id": "OP15-097~tcg686413",
+          "set": "OP15-EB04-RE",
+          "rarity": "C",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/686413_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              686413
+            ]
+          },
+          "tcgplayer": {
+            "name": "I Find It Embarrassing as a Human Being",
+            "match": "minted",
+            "distance": 6
+          },
+          "artOf": "OP15-097",
+          "finishes": [
+            "nonfoil"
+          ],
+          "promoTypes": [
+            {
+              "type": "release",
+              "category": "event"
+            }
+          ]
         }
       ]
     },
@@ -2760,7 +6456,22 @@
           "rarity": "L",
           "block": "4",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP15-098.png",
-          "source": "bandai"
+          "cardSet": "-ADVENTURE ON KAMI'S ISLAND- [OP15-EB04]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              685452
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "Monkey.D.Luffy (OP15-098)",
+            "match": "image",
+            "distance": 3
+          },
+          "artist": "Midori Matsuda"
         },
         {
           "id": "OP15-098_p1",
@@ -2768,7 +6479,25 @@
           "rarity": "L",
           "block": "4",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP15-098_p1.png",
-          "source": "bandai"
+          "cardSet": "-ADVENTURE ON KAMI'S ISLAND- [OP15-EB04]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              685453
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Monkey.D.Luffy (OP15-098) (Alternate Art)",
+            "match": "image",
+            "distance": 3
+          },
+          "treatments": [
+            "alternate_art"
+          ],
+          "artist": "Minato Sashima"
         },
         {
           "id": "OP15-098_p2",
@@ -2776,7 +6505,22 @@
           "rarity": "L",
           "block": "4",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP15-098_p2.png",
-          "source": "bandai"
+          "cardSet": "Set Sail Deck Set [SD-01]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              716429
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Monkey.D.Luffy (OP15-098) (Luffy Deck)",
+            "match": "image",
+            "distance": 12
+          },
+          "artist": "yukiya/INO Ltd."
         }
       ]
     },
@@ -2805,7 +6549,50 @@
           "rarity": "UC",
           "block": "4",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP15-099.png",
-          "source": "bandai"
+          "cardSet": "-ADVENTURE ON KAMI'S ISLAND- [OP15-EB04]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              685454
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "Urouge",
+            "match": "image-only-candidate",
+            "distance": 5
+          },
+          "artist": "kankurou"
+        },
+        {
+          "id": "OP15-099~tcg686451",
+          "set": "OP15-EB04-RE",
+          "rarity": "UC",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/686451_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              686451
+            ]
+          },
+          "tcgplayer": {
+            "name": "Urouge",
+            "match": "minted",
+            "distance": 5
+          },
+          "artOf": "OP15-099",
+          "finishes": [
+            "nonfoil"
+          ],
+          "promoTypes": [
+            {
+              "type": "release",
+              "category": "event"
+            }
+          ],
+          "artist": "kankurou"
         }
       ]
     },
@@ -2833,7 +6620,50 @@
           "rarity": "C",
           "block": "4",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP15-100.png",
-          "source": "bandai"
+          "cardSet": "-ADVENTURE ON KAMI'S ISLAND- [OP15-EB04]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              685455
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "Kamakiri",
+            "match": "image-only-candidate",
+            "distance": 4
+          },
+          "artist": "Koushi Rokushiro"
+        },
+        {
+          "id": "OP15-100~tcg686414",
+          "set": "OP15-EB04-RE",
+          "rarity": "C",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/686414_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              686414
+            ]
+          },
+          "tcgplayer": {
+            "name": "Kamakiri",
+            "match": "minted",
+            "distance": 4
+          },
+          "artOf": "OP15-100",
+          "finishes": [
+            "nonfoil"
+          ],
+          "promoTypes": [
+            {
+              "type": "release",
+              "category": "event"
+            }
+          ],
+          "artist": "Koushi Rokushiro"
         }
       ]
     },
@@ -2861,7 +6691,50 @@
           "rarity": "UC",
           "block": "4",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP15-101.png",
-          "source": "bandai"
+          "cardSet": "-ADVENTURE ON KAMI'S ISLAND- [OP15-EB04]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              685456
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "Kalgara",
+            "match": "image-only-candidate",
+            "distance": 3
+          },
+          "artist": "Morechand"
+        },
+        {
+          "id": "OP15-101~tcg686452",
+          "set": "OP15-EB04-RE",
+          "rarity": "UC",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/686452_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              686452
+            ]
+          },
+          "tcgplayer": {
+            "name": "Kalgara",
+            "match": "minted",
+            "distance": 3
+          },
+          "artOf": "OP15-101",
+          "finishes": [
+            "nonfoil"
+          ],
+          "promoTypes": [
+            {
+              "type": "release",
+              "category": "event"
+            }
+          ],
+          "artist": "Morechand"
         }
       ]
     },
@@ -2888,7 +6761,42 @@
           "rarity": "R",
           "block": "4",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP15-102.png",
-          "source": "bandai"
+          "cardSet": "-ADVENTURE ON KAMI'S ISLAND- [OP15-EB04]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              685457
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Gan.Fall",
+            "match": "image-only-candidate",
+            "distance": 4
+          },
+          "artist": "Hayaken-sarena"
+        },
+        {
+          "id": "OP15-102~tcg716726",
+          "set": "SD01",
+          "rarity": "R",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/716726_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              716726
+            ]
+          },
+          "tcgplayer": {
+            "name": "Gan.Fall (Luffy Deck)",
+            "match": "minted",
+            "distance": null
+          },
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
@@ -2916,7 +6824,70 @@
           "rarity": "C",
           "block": "4",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP15-103.png",
-          "source": "bandai"
+          "cardSet": "-ADVENTURE ON KAMI'S ISLAND- [OP15-EB04]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              685458
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "Genbo",
+            "match": "image-only-candidate",
+            "distance": 5
+          },
+          "artist": "kankurou"
+        },
+        {
+          "id": "OP15-103~tcg686415",
+          "set": "OP15-EB04-RE",
+          "rarity": "C",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/686415_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              686415
+            ]
+          },
+          "tcgplayer": {
+            "name": "Genbo",
+            "match": "minted",
+            "distance": 5
+          },
+          "artOf": "OP15-103",
+          "finishes": [
+            "nonfoil"
+          ],
+          "promoTypes": [
+            {
+              "type": "release",
+              "category": "event"
+            }
+          ],
+          "artist": "kankurou"
+        },
+        {
+          "id": "OP15-103~tcg716634",
+          "set": "SD01",
+          "rarity": "C",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/716634_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              716634
+            ]
+          },
+          "tcgplayer": {
+            "name": "Genbo (Luffy Deck)",
+            "match": "minted",
+            "distance": null
+          },
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
@@ -2942,7 +6913,50 @@
           "rarity": "C",
           "block": "4",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP15-104.png",
-          "source": "bandai"
+          "cardSet": "-ADVENTURE ON KAMI'S ISLAND- [OP15-EB04]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              685459
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "Conis",
+            "match": "image-only-candidate",
+            "distance": 5
+          },
+          "artist": "Nekobayashi"
+        },
+        {
+          "id": "OP15-104~tcg686416",
+          "set": "OP15-EB04-RE",
+          "rarity": "C",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/686416_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              686416
+            ]
+          },
+          "tcgplayer": {
+            "name": "Conis",
+            "match": "minted",
+            "distance": 5
+          },
+          "artOf": "OP15-104",
+          "finishes": [
+            "nonfoil"
+          ],
+          "promoTypes": [
+            {
+              "type": "release",
+              "category": "event"
+            }
+          ],
+          "artist": "Nekobayashi"
         }
       ]
     },
@@ -2970,7 +6984,50 @@
           "rarity": "UC",
           "block": "4",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP15-105.png",
-          "source": "bandai"
+          "cardSet": "-ADVENTURE ON KAMI'S ISLAND- [OP15-EB04]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              685460
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "Jewelry Bonney (OP15-105)",
+            "match": "image-only-candidate",
+            "distance": 7
+          },
+          "artist": "sho"
+        },
+        {
+          "id": "OP15-105~tcg686453",
+          "set": "OP15-EB04-RE",
+          "rarity": "UC",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/686453_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              686453
+            ]
+          },
+          "tcgplayer": {
+            "name": "Jewelry Bonney (OP15-105)",
+            "match": "minted",
+            "distance": 7
+          },
+          "artOf": "OP15-105",
+          "finishes": [
+            "nonfoil"
+          ],
+          "promoTypes": [
+            {
+              "type": "release",
+              "category": "event"
+            }
+          ],
+          "artist": "sho"
         }
       ]
     },
@@ -2997,7 +7054,50 @@
           "rarity": "C",
           "block": "4",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP15-106.png",
-          "source": "bandai"
+          "cardSet": "-ADVENTURE ON KAMI'S ISLAND- [OP15-EB04]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              685461
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "Octoballoon",
+            "match": "image-only-candidate",
+            "distance": 6
+          },
+          "artist": "Nakamaru"
+        },
+        {
+          "id": "OP15-106~tcg686417",
+          "set": "OP15-EB04-RE",
+          "rarity": "C",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/686417_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              686417
+            ]
+          },
+          "tcgplayer": {
+            "name": "Octoballoon",
+            "match": "minted",
+            "distance": 6
+          },
+          "artOf": "OP15-106",
+          "finishes": [
+            "nonfoil"
+          ],
+          "promoTypes": [
+            {
+              "type": "release",
+              "category": "event"
+            }
+          ],
+          "artist": "Nakamaru"
         }
       ]
     },
@@ -3026,7 +7126,70 @@
           "rarity": "UC",
           "block": "4",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP15-107.png",
-          "source": "bandai"
+          "cardSet": "-ADVENTURE ON KAMI'S ISLAND- [OP15-EB04]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              685462
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "Tony Tony.Chopper (OP15-107)",
+            "match": "image-only-candidate",
+            "distance": 9
+          },
+          "artist": "kito"
+        },
+        {
+          "id": "OP15-107~tcg686454",
+          "set": "OP15-EB04-RE",
+          "rarity": "UC",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/686454_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              686454
+            ]
+          },
+          "tcgplayer": {
+            "name": "Tony Tony.Chopper (OP15-107)",
+            "match": "minted",
+            "distance": 9
+          },
+          "artOf": "OP15-107",
+          "finishes": [
+            "nonfoil"
+          ],
+          "promoTypes": [
+            {
+              "type": "release",
+              "category": "event"
+            }
+          ],
+          "artist": "kito"
+        },
+        {
+          "id": "OP15-107~tcg716670",
+          "set": "SD01",
+          "rarity": "UC",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/716670_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              716670
+            ]
+          },
+          "tcgplayer": {
+            "name": "Tony Tony.Chopper (Luffy Deck)",
+            "match": "minted",
+            "distance": null
+          },
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
@@ -3054,7 +7217,22 @@
           "rarity": "R",
           "block": "4",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP15-108.png",
-          "source": "bandai"
+          "cardSet": "-ADVENTURE ON KAMI'S ISLAND- [OP15-EB04]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              685463
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Nami (OP15-108)",
+            "match": "image-only-candidate",
+            "distance": 3
+          },
+          "artist": "PENEKOR"
         },
         {
           "id": "OP15-108_p1",
@@ -3062,7 +7240,48 @@
           "rarity": "R",
           "block": "4",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP15-108_p1.png",
-          "source": "bandai"
+          "cardSet": "Premium Card Collection -Best Selection Vol.6-",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              694885
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Nami (Premium Card Collection -Best Selection Vol. 6-)",
+            "match": "image",
+            "distance": 8
+          },
+          "promoTypes": [
+            {
+              "type": "retail_product",
+              "category": "retail"
+            }
+          ],
+          "artist": "Hashimoto Q"
+        },
+        {
+          "id": "OP15-108~tcg716744",
+          "set": "SD01",
+          "rarity": "R",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/716744_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              716744
+            ]
+          },
+          "tcgplayer": {
+            "name": "Nami (Luffy Deck)",
+            "match": "minted",
+            "distance": null
+          },
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
@@ -3090,7 +7309,22 @@
           "rarity": "R",
           "block": "4",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP15-109.png",
-          "source": "bandai"
+          "cardSet": "-ADVENTURE ON KAMI'S ISLAND- [OP15-EB04]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              685464
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Nico Robin (OP15-109)",
+            "match": "image",
+            "distance": 4
+          },
+          "artist": "Nijihayashi"
         },
         {
           "id": "OP15-109_p1",
@@ -3098,7 +7332,75 @@
           "rarity": "R",
           "block": "4",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP15-109_p1.png",
-          "source": "bandai"
+          "cardSet": "-ADVENTURE ON KAMI'S ISLAND- [OP15-EB04]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              685465
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Nico Robin (OP15-109) (Alternate Art)",
+            "match": "image",
+            "distance": 2
+          },
+          "treatments": [
+            "alternate_art"
+          ],
+          "artist": "Yuu Shimotsuki"
+        },
+        {
+          "id": "OP15-109~tcg710741",
+          "set": "P",
+          "rarity": "R",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/710741_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              710741
+            ]
+          },
+          "tcgplayer": {
+            "name": "Nico Robin (CS26-27 Regionals Season 2 Top 16)",
+            "match": "minted",
+            "distance": null
+          },
+          "finishes": [
+            "foil"
+          ],
+          "promoTypes": [
+            {
+              "type": "championship",
+              "category": "championship"
+            },
+            {
+              "type": "placement",
+              "category": "placement"
+            }
+          ]
+        },
+        {
+          "id": "OP15-109~tcg716669",
+          "set": "SD01",
+          "rarity": "R",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/716669_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              716669
+            ]
+          },
+          "tcgplayer": {
+            "name": "Nico Robin (Luffy Deck)",
+            "match": "minted",
+            "distance": null
+          },
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
@@ -3126,7 +7428,50 @@
           "rarity": "C",
           "block": "4",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP15-110.png",
-          "source": "bandai"
+          "cardSet": "-ADVENTURE ON KAMI'S ISLAND- [OP15-EB04]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              685466
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "Braham",
+            "match": "image-only-candidate",
+            "distance": 4
+          },
+          "artist": "Yasushi Yamaguchi"
+        },
+        {
+          "id": "OP15-110~tcg686418",
+          "set": "OP15-EB04-RE",
+          "rarity": "C",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/686418_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              686418
+            ]
+          },
+          "tcgplayer": {
+            "name": "Braham",
+            "match": "minted",
+            "distance": 4
+          },
+          "artOf": "OP15-110",
+          "finishes": [
+            "nonfoil"
+          ],
+          "promoTypes": [
+            {
+              "type": "release",
+              "category": "event"
+            }
+          ],
+          "artist": "Yasushi Yamaguchi"
         }
       ]
     },
@@ -3154,7 +7499,50 @@
           "rarity": "C",
           "block": "4",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP15-111.png",
-          "source": "bandai"
+          "cardSet": "-ADVENTURE ON KAMI'S ISLAND- [OP15-EB04]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              685467
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "Mont Blanc Noland",
+            "match": "image-only-candidate",
+            "distance": 5
+          },
+          "artist": "kankurou"
+        },
+        {
+          "id": "OP15-111~tcg686419",
+          "set": "OP15-EB04-RE",
+          "rarity": "C",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/686419_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              686419
+            ]
+          },
+          "tcgplayer": {
+            "name": "Mont Blanc Noland",
+            "match": "minted",
+            "distance": 5
+          },
+          "artOf": "OP15-111",
+          "finishes": [
+            "nonfoil"
+          ],
+          "promoTypes": [
+            {
+              "type": "release",
+              "category": "event"
+            }
+          ],
+          "artist": "kankurou"
         }
       ]
     },
@@ -3182,7 +7570,50 @@
           "rarity": "C",
           "block": "4",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP15-112.png",
-          "source": "bandai"
+          "cardSet": "-ADVENTURE ON KAMI'S ISLAND- [OP15-EB04]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              685468
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "Raki",
+            "match": "image-only-candidate",
+            "distance": 3
+          },
+          "artist": "Misa Matoki"
+        },
+        {
+          "id": "OP15-112~tcg686420",
+          "set": "OP15-EB04-RE",
+          "rarity": "C",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/686420_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              686420
+            ]
+          },
+          "tcgplayer": {
+            "name": "Raki",
+            "match": "minted",
+            "distance": 3
+          },
+          "artOf": "OP15-112",
+          "finishes": [
+            "nonfoil"
+          ],
+          "promoTypes": [
+            {
+              "type": "release",
+              "category": "event"
+            }
+          ],
+          "artist": "Misa Matoki"
         }
       ]
     },
@@ -3209,7 +7640,22 @@
           "rarity": "SR",
           "block": "4",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP15-113.png",
-          "source": "bandai"
+          "cardSet": "-ADVENTURE ON KAMI'S ISLAND- [OP15-EB04]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              685469
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Roronoa Zoro (OP15-113)",
+            "match": "image",
+            "distance": 5
+          },
+          "artist": "Yuu Shimotsuki"
         },
         {
           "id": "OP15-113_p1",
@@ -3217,7 +7663,71 @@
           "rarity": "SR",
           "block": "4",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP15-113_p1.png",
-          "source": "bandai"
+          "cardSet": "-ADVENTURE ON KAMI'S ISLAND- [OP15-EB04]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              685470
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Roronoa Zoro (OP15-113) (Alternate Art)",
+            "match": "image",
+            "distance": 5
+          },
+          "treatments": [
+            "alternate_art"
+          ],
+          "artist": "Shishizaru"
+        },
+        {
+          "id": "OP15-113~tcg716628",
+          "set": "SD01",
+          "rarity": "SR",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/716628_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              716628
+            ]
+          },
+          "tcgplayer": {
+            "name": "Roronoa Zoro (Luffy Deck)",
+            "match": "minted",
+            "distance": null
+          },
+          "finishes": [
+            "nonfoil"
+          ]
+        },
+        {
+          "id": "OP15-113~tcg721296",
+          "set": "P",
+          "rarity": "SR",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/721296_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              721296
+            ]
+          },
+          "tcgplayer": {
+            "name": "Roronoa Zoro (Treasure Cup August 2026)",
+            "match": "minted",
+            "distance": null
+          },
+          "finishes": [
+            "foil"
+          ],
+          "promoTypes": [
+            {
+              "type": "treasure_cup",
+              "category": "championship"
+            }
+          ]
         }
       ]
     },
@@ -3245,7 +7755,22 @@
           "rarity": "SR",
           "block": "4",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP15-114.png",
-          "source": "bandai"
+          "cardSet": "-ADVENTURE ON KAMI'S ISLAND- [OP15-EB04]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              685471
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Wyper",
+            "match": "image",
+            "distance": 5
+          },
+          "artist": "BISAI"
         },
         {
           "id": "OP15-114_p1",
@@ -3253,7 +7778,45 @@
           "rarity": "SR",
           "block": "4",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP15-114_p1.png",
-          "source": "bandai"
+          "cardSet": "-ADVENTURE ON KAMI'S ISLAND- [OP15-EB04]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              685472
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Wyper (Alternate Art)",
+            "match": "image",
+            "distance": 3
+          },
+          "treatments": [
+            "alternate_art"
+          ],
+          "artist": "Hokuyuu"
+        },
+        {
+          "id": "OP15-114~tcg716433",
+          "set": "SD01",
+          "rarity": "SR",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/716433_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              716433
+            ]
+          },
+          "tcgplayer": {
+            "name": "Wyper (Luffy Deck)",
+            "match": "minted",
+            "distance": null
+          },
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
@@ -3276,7 +7839,48 @@
           "rarity": "C",
           "block": "4",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP15-115.png",
-          "source": "bandai"
+          "cardSet": "-ADVENTURE ON KAMI'S ISLAND- [OP15-EB04]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              685473
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "Impact Dial",
+            "match": "image-only-candidate",
+            "distance": 3
+          }
+        },
+        {
+          "id": "OP15-115~tcg686421",
+          "set": "OP15-EB04-RE",
+          "rarity": "C",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/686421_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              686421
+            ]
+          },
+          "tcgplayer": {
+            "name": "Impact Dial",
+            "match": "minted",
+            "distance": 3
+          },
+          "artOf": "OP15-115",
+          "finishes": [
+            "nonfoil"
+          ],
+          "promoTypes": [
+            {
+              "type": "release",
+              "category": "event"
+            }
+          ]
         }
       ]
     },
@@ -3299,7 +7903,21 @@
           "rarity": "R",
           "block": "4",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP15-116.png",
-          "source": "bandai"
+          "cardSet": "-ADVENTURE ON KAMI'S ISLAND- [OP15-EB04]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              685474
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Gum-Gum Golden Rifle",
+            "match": "image",
+            "distance": 4
+          }
         },
         {
           "id": "OP15-116_p1",
@@ -3307,7 +7925,44 @@
           "rarity": "R",
           "block": "4",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP15-116_p1.png",
-          "source": "bandai"
+          "cardSet": "-ADVENTURE ON KAMI'S ISLAND- [OP15-EB04]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              685475
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Gum-Gum Golden Rifle (Alternate Art)",
+            "match": "image",
+            "distance": 11
+          },
+          "treatments": [
+            "alternate_art"
+          ]
+        },
+        {
+          "id": "OP15-116~tcg716434",
+          "set": "SD01",
+          "rarity": "R",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/716434_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              716434
+            ]
+          },
+          "tcgplayer": {
+            "name": "Gum-Gum Golden Rifle (Luffy Deck)",
+            "match": "minted",
+            "distance": null
+          },
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
@@ -3329,7 +7984,48 @@
           "rarity": "UC",
           "block": "4",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP15-117.png",
-          "source": "bandai"
+          "cardSet": "-ADVENTURE ON KAMI'S ISLAND- [OP15-EB04]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              685476
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "Heso!!",
+            "match": "image-only-candidate",
+            "distance": 9
+          }
+        },
+        {
+          "id": "OP15-117~tcg686455",
+          "set": "OP15-EB04-RE",
+          "rarity": "UC",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/686455_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              686455
+            ]
+          },
+          "tcgplayer": {
+            "name": "Heso!!",
+            "match": "minted",
+            "distance": 9
+          },
+          "artOf": "OP15-117",
+          "finishes": [
+            "nonfoil"
+          ],
+          "promoTypes": [
+            {
+              "type": "release",
+              "category": "event"
+            }
+          ]
         }
       ]
     },
@@ -3355,7 +8051,22 @@
           "rarity": "SEC",
           "block": "4",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP15-118.png",
-          "source": "bandai"
+          "cardSet": "-ADVENTURE ON KAMI'S ISLAND- [OP15-EB04]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              685477
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Enel (OP15-118)",
+            "match": "image",
+            "distance": 2
+          },
+          "artist": "AKIRA EGAWA"
         },
         {
           "id": "OP15-118_p1",
@@ -3363,7 +8074,25 @@
           "rarity": "SEC",
           "block": "4",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP15-118_p1.png",
-          "source": "bandai"
+          "cardSet": "-ADVENTURE ON KAMI'S ISLAND- [OP15-EB04]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              685478
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Enel (OP15-118) (Alternate Art)",
+            "match": "image",
+            "distance": 3
+          },
+          "treatments": [
+            "alternate_art"
+          ],
+          "artist": "Makitoshi"
         },
         {
           "id": "OP15-118_p2",
@@ -3371,7 +8100,24 @@
           "rarity": "SEC",
           "block": "4",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP15-118_p2.png",
-          "source": "bandai"
+          "cardSet": "-ADVENTURE ON KAMI'S ISLAND- [OP15-EB04]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              685479
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Enel (OP15-118) (Manga)",
+            "match": "image",
+            "distance": 4
+          },
+          "treatments": [
+            "manga"
+          ]
         }
       ]
     },
@@ -3398,7 +8144,22 @@
           "rarity": "SEC",
           "block": "4",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP15-119.png",
-          "source": "bandai"
+          "cardSet": "-ADVENTURE ON KAMI'S ISLAND- [OP15-EB04]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              685480
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Monkey.D.Luffy (OP15-119)",
+            "match": "image",
+            "distance": 2
+          },
+          "artist": "tatsuya"
         },
         {
           "id": "OP15-119_p1",
@@ -3406,7 +8167,42 @@
           "rarity": "SEC",
           "block": "4",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP15-119_p1.png",
-          "source": "bandai"
+          "cardSet": "-ADVENTURE ON KAMI'S ISLAND- [OP15-EB04]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              685481
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Monkey.D.Luffy (OP15-119) (Alternate Art)",
+            "match": "image",
+            "distance": 2
+          },
+          "treatments": [
+            "alternate_art"
+          ],
+          "artist": "Makitoshi"
+        },
+        {
+          "id": "OP15-119~tcg710742",
+          "set": "P",
+          "rarity": "SEC",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/710742_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              710742
+            ]
+          },
+          "tcgplayer": {
+            "name": "Monkey.D.Luffy (OP15-119)",
+            "match": "minted",
+            "distance": null
+          }
         }
       ]
     }

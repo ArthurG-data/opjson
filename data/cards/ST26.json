@@ -22,7 +22,22 @@
           "rarity": "C",
           "block": "3",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST26-001.png",
-          "source": "bandai"
+          "cardSet": "-PURPLE/BLACK Monkey.D.Luffy- [ST-26]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              632779
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "Soba Mask",
+            "match": "image-only-candidate",
+            "distance": 2
+          },
+          "artist": "touge369"
         }
       ]
     },
@@ -50,7 +65,22 @@
           "rarity": "C",
           "block": "3",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST26-002.png",
-          "source": "bandai"
+          "cardSet": "-PURPLE/BLACK Monkey.D.Luffy- [ST-26]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              632780
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "Tony Tony.Chopper",
+            "match": "image-only-candidate",
+            "distance": 0
+          },
+          "artist": "kito"
         }
       ]
     },
@@ -77,7 +107,22 @@
           "rarity": "SR",
           "block": "3",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST26-003.png",
-          "source": "bandai"
+          "cardSet": "-PURPLE/BLACK Monkey.D.Luffy- [ST-26]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              632777
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Nico Robin",
+            "match": "image-only-candidate",
+            "distance": 2
+          },
+          "artist": "Nijihayashi"
         }
       ]
     },
@@ -103,7 +148,22 @@
           "rarity": "C",
           "block": "3",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST26-004.png",
-          "source": "bandai"
+          "cardSet": "-PURPLE/BLACK Monkey.D.Luffy- [ST-26]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              632781
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "General Franky",
+            "match": "image-only-candidate",
+            "distance": 10
+          },
+          "artist": "shosuke"
         }
       ]
     },
@@ -129,7 +189,22 @@
           "rarity": "SR",
           "block": "3",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST26-005.png",
-          "source": "bandai"
+          "cardSet": "-PURPLE/BLACK Monkey.D.Luffy- [ST-26]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              632778
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Monkey.D.Luffy (ST26-005)",
+            "match": "image-only-candidate",
+            "distance": 0
+          },
+          "artist": "Yosuke Adachi"
         },
         {
           "id": "ST26-005_p1",
@@ -137,7 +212,25 @@
           "rarity": "SP CARD",
           "block": "3",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST26-005_p1.png",
-          "source": "bandai"
+          "cardSet": "-ADVENTURE ON KAMI'S ISLAND- [OP15-EB04]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              685194
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Monkey.D.Luffy (SP)",
+            "match": "image-only-candidate",
+            "distance": 4
+          },
+          "treatments": [
+            "sp"
+          ],
+          "artist": "Bashikou"
         }
       ]
     }

@@ -1,0 +1,90 @@
+{
+  "products": [
+    {
+      "id": "premium-booster-booster-box",
+      "set": "PRB01",
+      "category": "booster_box",
+      "name": "Premium Booster - Booster Box",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          545399
+        ]
+      },
+      "contentsStatus": "unknown",
+      "contents": {},
+      "sources": [
+        "https://www.tcgplayer.com/product/545399"
+      ],
+      "releaseDate": "2024-11-08"
+    },
+    {
+      "id": "premium-booster-booster-box-case",
+      "set": "PRB01",
+      "category": "case",
+      "name": "Premium Booster - Booster Box Case",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          545400
+        ]
+      },
+      "contentsStatus": "partial",
+      "contents": {
+        "sealed": [
+          {
+            "product": "premium-booster-booster-box"
+          }
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/545400"
+      ],
+      "releaseDate": "2024-11-08"
+    },
+    {
+      "id": "premium-booster-booster-pack",
+      "set": "PRB01",
+      "category": "booster_pack",
+      "name": "Premium Booster - Booster Pack",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          545398
+        ]
+      },
+      "contentsStatus": "partial",
+      "contents": {
+        "pool": [
+          {
+            "set": "PRB01"
+          }
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/545398"
+      ],
+      "releaseDate": "2024-11-08"
+    },
+    {
+      "id": "premium-booster-sleeved-booster-pack",
+      "set": "PRB01",
+      "category": "sleeved_booster_pack",
+      "name": "Premium Booster - Sleeved Booster Pack",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          622980
+        ]
+      },
+      "contentsStatus": "partial",
+      "contents": {
+        "pool": [
+          {
+            "set": "PRB01"
+          }
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/622980"
+      ],
+      "releaseDate": "2024-11-08"
+    }
+  ]
+}

@@ -24,7 +24,22 @@
           "rarity": "L",
           "block": "4",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP14-001.png",
-          "source": "bandai"
+          "cardSet": "-THE AZURE SEA’S SEVEN- [OP14-EB04]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              666518
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "Trafalgar Law - OP14-001",
+            "match": "image",
+            "distance": 4
+          },
+          "artist": "Kaito Tomioka"
         },
         {
           "id": "OP14-001_p1",
@@ -32,7 +47,25 @@
           "rarity": "L",
           "block": "4",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP14-001_p1.png",
-          "source": "bandai"
+          "cardSet": "-THE AZURE SEA’S SEVEN- [OP14-EB04]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              666519
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Trafalgar Law - OP14-001 (Alternate Art)",
+            "match": "image",
+            "distance": 8
+          },
+          "treatments": [
+            "alternate_art"
+          ],
+          "artist": "otton"
         }
       ]
     },
@@ -60,7 +93,50 @@
           "rarity": "UC",
           "block": "4",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP14-002.png",
-          "source": "bandai"
+          "cardSet": "-THE AZURE SEA’S SEVEN- [OP14-EB04]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              671349
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "Urouge",
+            "match": "image-only-candidate",
+            "distance": 4
+          },
+          "artist": "Yasushi Yamaguchi"
+        },
+        {
+          "id": "OP14-002~tcg671852",
+          "set": "OP14-EB04-RE",
+          "rarity": "UC",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/671852_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              671852
+            ]
+          },
+          "tcgplayer": {
+            "name": "Urouge",
+            "match": "minted",
+            "distance": 4
+          },
+          "artOf": "OP14-002",
+          "finishes": [
+            "nonfoil"
+          ],
+          "promoTypes": [
+            {
+              "type": "release",
+              "category": "event"
+            }
+          ],
+          "artist": "Yasushi Yamaguchi"
         }
       ]
     },
@@ -88,7 +164,50 @@
           "rarity": "C",
           "block": "4",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP14-003.png",
-          "source": "bandai"
+          "cardSet": "-THE AZURE SEA’S SEVEN- [OP14-EB04]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              671350
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "Capone\"Gang\"Bege",
+            "match": "image-only-candidate",
+            "distance": 5
+          },
+          "artist": "touge369"
+        },
+        {
+          "id": "OP14-003~tcg671806",
+          "set": "OP14-EB04-RE",
+          "rarity": "C",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/671806_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              671806
+            ]
+          },
+          "tcgplayer": {
+            "name": "Capone\"Gang\"Bege",
+            "match": "minted",
+            "distance": 5
+          },
+          "artOf": "OP14-003",
+          "finishes": [
+            "nonfoil"
+          ],
+          "promoTypes": [
+            {
+              "type": "release",
+              "category": "event"
+            }
+          ],
+          "artist": "touge369"
         }
       ]
     },
@@ -117,7 +236,50 @@
           "rarity": "UC",
           "block": "4",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP14-004.png",
-          "source": "bandai"
+          "cardSet": "-THE AZURE SEA’S SEVEN- [OP14-EB04]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              671351
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "Cavendish",
+            "match": "image-only-candidate",
+            "distance": 5
+          },
+          "artist": "BISAI"
+        },
+        {
+          "id": "OP14-004~tcg671853",
+          "set": "OP14-EB04-RE",
+          "rarity": "UC",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/671853_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              671853
+            ]
+          },
+          "tcgplayer": {
+            "name": "Cavendish",
+            "match": "minted",
+            "distance": 5
+          },
+          "artOf": "OP14-004",
+          "finishes": [
+            "nonfoil"
+          ],
+          "promoTypes": [
+            {
+              "type": "release",
+              "category": "event"
+            }
+          ],
+          "artist": "BISAI"
         }
       ]
     },
@@ -145,7 +307,22 @@
           "rarity": "C",
           "block": "4",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP14-005.png",
-          "source": "bandai"
+          "cardSet": "-THE AZURE SEA’S SEVEN- [OP14-EB04]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              671352
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "Killer",
+            "match": "image-only-candidate",
+            "distance": 5
+          },
+          "artist": "DAI-XT."
         },
         {
           "id": "OP14-005_p1",
@@ -153,7 +330,56 @@
           "rarity": "C",
           "block": "4",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP14-005_p1.png",
-          "source": "bandai"
+          "cardSet": "Illustration Box Vol.8",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              709091
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Killer (One Piece Card Game Illustration Box Vol. 8)",
+            "match": "image",
+            "distance": 5
+          },
+          "promoTypes": [
+            {
+              "type": "retail_product",
+              "category": "retail"
+            }
+          ],
+          "artist": "Moopic"
+        },
+        {
+          "id": "OP14-005~tcg671807",
+          "set": "OP14-EB04-RE",
+          "rarity": "C",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/671807_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              671807
+            ]
+          },
+          "tcgplayer": {
+            "name": "Killer",
+            "match": "minted",
+            "distance": 5
+          },
+          "artOf": "OP14-005",
+          "finishes": [
+            "nonfoil"
+          ],
+          "promoTypes": [
+            {
+              "type": "release",
+              "category": "event"
+            }
+          ],
+          "artist": "DAI-XT."
         }
       ]
     },
@@ -180,7 +406,50 @@
           "rarity": "C",
           "block": "4",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP14-006.png",
-          "source": "bandai"
+          "cardSet": "-THE AZURE SEA’S SEVEN- [OP14-EB04]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              671353
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "Shachi & Penguin",
+            "match": "image-only-candidate",
+            "distance": 8
+          },
+          "artist": "Morechand"
+        },
+        {
+          "id": "OP14-006~tcg671808",
+          "set": "OP14-EB04-RE",
+          "rarity": "C",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/671808_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              671808
+            ]
+          },
+          "tcgplayer": {
+            "name": "Shachi & Penguin",
+            "match": "minted",
+            "distance": 8
+          },
+          "artOf": "OP14-006",
+          "finishes": [
+            "nonfoil"
+          ],
+          "promoTypes": [
+            {
+              "type": "release",
+              "category": "event"
+            }
+          ],
+          "artist": "Morechand"
         }
       ]
     },
@@ -208,7 +477,50 @@
           "rarity": "C",
           "block": "4",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP14-007.png",
-          "source": "bandai"
+          "cardSet": "-THE AZURE SEA’S SEVEN- [OP14-EB04]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              671354
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "Jewelry Bonney",
+            "match": "image-only-candidate",
+            "distance": 7
+          },
+          "artist": "Yuu Shimotsuki"
+        },
+        {
+          "id": "OP14-007~tcg671809",
+          "set": "OP14-EB04-RE",
+          "rarity": "C",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/671809_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              671809
+            ]
+          },
+          "tcgplayer": {
+            "name": "Jewelry Bonney",
+            "match": "minted",
+            "distance": 7
+          },
+          "artOf": "OP14-007",
+          "finishes": [
+            "nonfoil"
+          ],
+          "promoTypes": [
+            {
+              "type": "release",
+              "category": "event"
+            }
+          ],
+          "artist": "Yuu Shimotsuki"
         }
       ]
     },
@@ -236,7 +548,50 @@
           "rarity": "C",
           "block": "4",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP14-008.png",
-          "source": "bandai"
+          "cardSet": "-THE AZURE SEA’S SEVEN- [OP14-EB04]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              671355
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "Scratchmen Apoo",
+            "match": "image-only-candidate",
+            "distance": 4
+          },
+          "artist": "kankurou"
+        },
+        {
+          "id": "OP14-008~tcg671810",
+          "set": "OP14-EB04-RE",
+          "rarity": "C",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/671810_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              671810
+            ]
+          },
+          "tcgplayer": {
+            "name": "Scratchmen Apoo",
+            "match": "minted",
+            "distance": 4
+          },
+          "artOf": "OP14-008",
+          "finishes": [
+            "nonfoil"
+          ],
+          "promoTypes": [
+            {
+              "type": "release",
+              "category": "event"
+            }
+          ],
+          "artist": "kankurou"
         }
       ]
     },
@@ -264,7 +619,22 @@
           "rarity": "SR",
           "block": "4",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP14-009.png",
-          "source": "bandai"
+          "cardSet": "-THE AZURE SEA’S SEVEN- [OP14-EB04]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              668636
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Trafalgar Law - OP14-009",
+            "match": "image",
+            "distance": 7
+          },
+          "artist": "Yoichi Amano"
         },
         {
           "id": "OP14-009_p1",
@@ -272,7 +642,25 @@
           "rarity": "SR",
           "block": "4",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP14-009_p1.png",
-          "source": "bandai"
+          "cardSet": "-THE AZURE SEA’S SEVEN- [OP14-EB04]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              668637
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Trafalgar Law - OP14-009 (Alternate Art)",
+            "match": "image",
+            "distance": 4
+          },
+          "treatments": [
+            "alternate_art"
+          ],
+          "artist": "Bashikou"
         }
       ]
     },
@@ -300,7 +688,50 @@
           "rarity": "UC",
           "block": "4",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP14-010.png",
-          "source": "bandai"
+          "cardSet": "-THE AZURE SEA’S SEVEN- [OP14-EB04]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              671356
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "Basil Hawkins",
+            "match": "image-only-candidate",
+            "distance": 3
+          },
+          "artist": "HISASHI HUJIWARA"
+        },
+        {
+          "id": "OP14-010~tcg671854",
+          "set": "OP14-EB04-RE",
+          "rarity": "UC",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/671854_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              671854
+            ]
+          },
+          "tcgplayer": {
+            "name": "Basil Hawkins",
+            "match": "minted",
+            "distance": 3
+          },
+          "artOf": "OP14-010",
+          "finishes": [
+            "nonfoil"
+          ],
+          "promoTypes": [
+            {
+              "type": "release",
+              "category": "event"
+            }
+          ],
+          "artist": "HISASHI HUJIWARA"
         }
       ]
     },
@@ -329,7 +760,50 @@
           "rarity": "UC",
           "block": "4",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP14-011.png",
-          "source": "bandai"
+          "cardSet": "-THE AZURE SEA’S SEVEN- [OP14-EB04]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              671357
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "Bartolomeo",
+            "match": "image-only-candidate",
+            "distance": 6
+          },
+          "artist": "Yasushi Yamaguchi"
+        },
+        {
+          "id": "OP14-011~tcg671855",
+          "set": "OP14-EB04-RE",
+          "rarity": "UC",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/671855_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              671855
+            ]
+          },
+          "tcgplayer": {
+            "name": "Bartolomeo",
+            "match": "minted",
+            "distance": 6
+          },
+          "artOf": "OP14-011",
+          "finishes": [
+            "nonfoil"
+          ],
+          "promoTypes": [
+            {
+              "type": "release",
+              "category": "event"
+            }
+          ],
+          "artist": "Yasushi Yamaguchi"
         }
       ]
     },
@@ -357,7 +831,50 @@
           "rarity": "C",
           "block": "4",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP14-012.png",
-          "source": "bandai"
+          "cardSet": "-THE AZURE SEA’S SEVEN- [OP14-EB04]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              671358
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "Bepo",
+            "match": "image-only-candidate",
+            "distance": 4
+          },
+          "artist": "shosuke"
+        },
+        {
+          "id": "OP14-012~tcg671811",
+          "set": "OP14-EB04-RE",
+          "rarity": "C",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/671811_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              671811
+            ]
+          },
+          "tcgplayer": {
+            "name": "Bepo",
+            "match": "minted",
+            "distance": 4
+          },
+          "artOf": "OP14-012",
+          "finishes": [
+            "nonfoil"
+          ],
+          "promoTypes": [
+            {
+              "type": "release",
+              "category": "event"
+            }
+          ],
+          "artist": "shosuke"
         }
       ]
     },
@@ -384,7 +901,22 @@
           "rarity": "SR",
           "block": "4",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP14-013.png",
-          "source": "bandai"
+          "cardSet": "-THE AZURE SEA’S SEVEN- [OP14-EB04]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              666520
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Monkey.D.Luffy - OP14-013",
+            "match": "image",
+            "distance": 5
+          },
+          "artist": "Koushi Rokushiro"
         },
         {
           "id": "OP14-013_p1",
@@ -392,7 +924,25 @@
           "rarity": "SR",
           "block": "4",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP14-013_p1.png",
-          "source": "bandai"
+          "cardSet": "-THE AZURE SEA’S SEVEN- [OP14-EB04]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              666521
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Monkey.D.Luffy - OP14-013 (Alternate Art)",
+            "match": "image",
+            "distance": 3
+          },
+          "treatments": [
+            "alternate_art"
+          ],
+          "artist": "Nijihayashi"
         }
       ]
     },
@@ -420,7 +970,22 @@
           "rarity": "R",
           "block": "4",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP14-014.png",
-          "source": "bandai"
+          "cardSet": "-THE AZURE SEA’S SEVEN- [OP14-EB04]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              671359
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Eustass\"Captain\"Kid - OP14-014",
+            "match": "image-only-candidate",
+            "distance": 5
+          },
+          "artist": "BISAI"
         },
         {
           "id": "OP14-014_p1",
@@ -428,7 +993,28 @@
           "rarity": "R",
           "block": "4",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP14-014_p1.png",
-          "source": "bandai"
+          "cardSet": "Premium Card Collection -Best Selection Vol.6-",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              694881
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Eustass\"Captain\"Kid (Premium Card Collection -Best Selection Vol. 6-)",
+            "match": "image",
+            "distance": 10
+          },
+          "promoTypes": [
+            {
+              "type": "retail_product",
+              "category": "retail"
+            }
+          ],
+          "artist": "BISAI"
         },
         {
           "id": "OP14-014_p2",
@@ -436,7 +1022,28 @@
           "rarity": "R",
           "block": "4",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP14-014_p2.png",
-          "source": "bandai"
+          "cardSet": "Illustration Box Vol.8",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              709093
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Eustass\"Captain\"Kid (One Piece Card Game Illustration Box Vol. 8)",
+            "match": "image",
+            "distance": 3
+          },
+          "promoTypes": [
+            {
+              "type": "retail_product",
+              "category": "retail"
+            }
+          ],
+          "artist": "Moopic"
         },
         {
           "id": "OP14-014_p3",
@@ -444,7 +1051,28 @@
           "rarity": "R",
           "block": "4",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP14-014_p3.png",
-          "source": "bandai"
+          "cardSet": "OP14-EB04 Dash Pack Campaign",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              672373
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Eustass\"Captain\"Kid - OP14-014 (Dash Pack)",
+            "match": "image-other-set",
+            "distance": 3
+          },
+          "promoTypes": [
+            {
+              "type": "retail_product",
+              "category": "retail"
+            }
+          ],
+          "artist": "DAI-XT."
         }
       ]
     },
@@ -471,7 +1099,22 @@
           "rarity": "R",
           "block": "4",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP14-015.png",
-          "source": "bandai"
+          "cardSet": "-THE AZURE SEA’S SEVEN- [OP14-EB04]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              672111
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Roronoa Zoro - OP14-015",
+            "match": "image",
+            "distance": 3
+          },
+          "artist": "Yoichi Amano"
         },
         {
           "id": "OP14-015_p1",
@@ -479,7 +1122,25 @@
           "rarity": "R",
           "block": "4",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP14-015_p1.png",
-          "source": "bandai"
+          "cardSet": "-THE AZURE SEA’S SEVEN- [OP14-EB04]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              670250
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Roronoa Zoro - OP14-015 (Alternate Art)",
+            "match": "image",
+            "distance": 6
+          },
+          "treatments": [
+            "alternate_art"
+          ],
+          "artist": "PENEKOR"
         },
         {
           "id": "OP14-015_r1",
@@ -487,7 +1148,21 @@
           "rarity": "R",
           "block": "4",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP14-015_r1.png",
-          "source": "bandai"
+          "cardSet": "STARTER DECK -RED Monkey.D.Luffy- [ST-31]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              706312
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "Roronoa Zoro",
+            "match": "image-only-candidate",
+            "distance": 3
+          }
         }
       ]
     },
@@ -515,7 +1190,22 @@
           "rarity": "R",
           "block": "4",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP14-016.png",
-          "source": "bandai"
+          "cardSet": "-THE AZURE SEA’S SEVEN- [OP14-EB04]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              671360
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "X.Drake",
+            "match": "image-only-candidate",
+            "distance": 4
+          },
+          "artist": "Yosuke Adachi"
         }
       ]
     },
@@ -539,7 +1229,48 @@
           "rarity": "C",
           "block": "4",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP14-017.png",
-          "source": "bandai"
+          "cardSet": "-THE AZURE SEA’S SEVEN- [OP14-EB04]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              671361
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "Chambres",
+            "match": "image-only-candidate",
+            "distance": 7
+          }
+        },
+        {
+          "id": "OP14-017~tcg671812",
+          "set": "OP14-EB04-RE",
+          "rarity": "C",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/671812_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              671812
+            ]
+          },
+          "tcgplayer": {
+            "name": "Chambres",
+            "match": "minted",
+            "distance": 7
+          },
+          "artOf": "OP14-017",
+          "finishes": [
+            "nonfoil"
+          ],
+          "promoTypes": [
+            {
+              "type": "release",
+              "category": "event"
+            }
+          ]
         }
       ]
     },
@@ -563,7 +1294,21 @@
           "rarity": "R",
           "block": "4",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP14-018.png",
-          "source": "bandai"
+          "cardSet": "-THE AZURE SEA’S SEVEN- [OP14-EB04]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              671362
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Time for the Counterattack",
+            "match": "image-only-candidate",
+            "distance": 7
+          }
         }
       ]
     },
@@ -587,7 +1332,48 @@
           "rarity": "UC",
           "block": "4",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP14-019.png",
-          "source": "bandai"
+          "cardSet": "-THE AZURE SEA’S SEVEN- [OP14-EB04]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              671363
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "I Have a Plan to Take Down One of the Four Emperors!!",
+            "match": "image-only-candidate",
+            "distance": 5
+          }
+        },
+        {
+          "id": "OP14-019~tcg671856",
+          "set": "OP14-EB04-RE",
+          "rarity": "UC",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/671856_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              671856
+            ]
+          },
+          "tcgplayer": {
+            "name": "I Have a Plan to Take Down One of the Four Emperors!!",
+            "match": "minted",
+            "distance": 5
+          },
+          "artOf": "OP14-019",
+          "finishes": [
+            "nonfoil"
+          ],
+          "promoTypes": [
+            {
+              "type": "release",
+              "category": "event"
+            }
+          ]
         }
       ]
     },
@@ -613,7 +1399,22 @@
           "rarity": "L",
           "block": "4",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP14-020.png",
-          "source": "bandai"
+          "cardSet": "-THE AZURE SEA’S SEVEN- [OP14-EB04]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              666524
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "Dracule Mihawk - OP14-020",
+            "match": "image",
+            "distance": 9
+          },
+          "artist": "Midori Matsuda"
         },
         {
           "id": "OP14-020_p1",
@@ -621,7 +1422,51 @@
           "rarity": "L",
           "block": "4",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP14-020_p1.png",
-          "source": "bandai"
+          "cardSet": "-THE AZURE SEA’S SEVEN- [OP14-EB04]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              666525
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Dracule Mihawk - OP14-020 (Alternate Art)",
+            "match": "image",
+            "distance": 3
+          },
+          "treatments": [
+            "alternate_art"
+          ],
+          "artist": "Makitoshi"
+        },
+        {
+          "id": "OP14-020~tcg710762",
+          "set": "P",
+          "rarity": "L",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/710762_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              710762
+            ]
+          },
+          "tcgplayer": {
+            "name": "Dracule Mihawk (2026 PSA Magazine Promo)",
+            "match": "minted",
+            "distance": null
+          },
+          "finishes": [
+            "foil"
+          ],
+          "promoTypes": [
+            {
+              "type": "media",
+              "category": "media"
+            }
+          ]
         }
       ]
     },
@@ -649,7 +1494,50 @@
           "rarity": "C",
           "block": "4",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP14-021.png",
-          "source": "bandai"
+          "cardSet": "-THE AZURE SEA’S SEVEN- [OP14-EB04]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              671364
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "Issho - OP14-021",
+            "match": "image-only-candidate",
+            "distance": 4
+          },
+          "artist": "Hachi Takashi"
+        },
+        {
+          "id": "OP14-021~tcg671813",
+          "set": "OP14-EB04-RE",
+          "rarity": "C",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/671813_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              671813
+            ]
+          },
+          "tcgplayer": {
+            "name": "Issho - OP14-021",
+            "match": "minted",
+            "distance": 4
+          },
+          "artOf": "OP14-021",
+          "finishes": [
+            "nonfoil"
+          ],
+          "promoTypes": [
+            {
+              "type": "release",
+              "category": "event"
+            }
+          ],
+          "artist": "Hachi Takashi"
         }
       ]
     },
@@ -677,7 +1565,50 @@
           "rarity": "UC",
           "block": "4",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP14-022.png",
-          "source": "bandai"
+          "cardSet": "-THE AZURE SEA’S SEVEN- [OP14-EB04]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              671365
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "Usopp",
+            "match": "image-only-candidate",
+            "distance": 6
+          },
+          "artist": "Studio Vigor Co. Ltd"
+        },
+        {
+          "id": "OP14-022~tcg671857",
+          "set": "OP14-EB04-RE",
+          "rarity": "UC",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/671857_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              671857
+            ]
+          },
+          "tcgplayer": {
+            "name": "Usopp",
+            "match": "minted",
+            "distance": 6
+          },
+          "artOf": "OP14-022",
+          "finishes": [
+            "nonfoil"
+          ],
+          "promoTypes": [
+            {
+              "type": "release",
+              "category": "event"
+            }
+          ],
+          "artist": "Studio Vigor Co. Ltd"
         }
       ]
     },
@@ -705,7 +1636,74 @@
           "rarity": "R",
           "block": "4",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP14-023.png",
-          "source": "bandai"
+          "cardSet": "-THE AZURE SEA’S SEVEN- [OP14-EB04]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              671366
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Kikunojo - OP14-023",
+            "match": "image-only-candidate",
+            "distance": 3
+          },
+          "artist": "SHIE NANAHARA"
+        },
+        {
+          "id": "OP14-023~tcg708450",
+          "set": "P",
+          "rarity": "R",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/708450_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              708450
+            ]
+          },
+          "tcgplayer": {
+            "name": "Kikunojo (Tournament Pack 2026 Vol. 3)",
+            "match": "minted",
+            "distance": null
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "promoTypes": [
+            {
+              "type": "event_pack",
+              "category": "event"
+            }
+          ]
+        },
+        {
+          "id": "OP14-023~tcg708451",
+          "set": "P",
+          "rarity": "R",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/708451_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              708451
+            ]
+          },
+          "tcgplayer": {
+            "name": "Kikunojo (Winner Pack 2026 Vol. 3)",
+            "match": "minted",
+            "distance": null
+          },
+          "finishes": [
+            "foil"
+          ],
+          "promoTypes": [
+            {
+              "type": "placement",
+              "category": "placement"
+            }
+          ]
         }
       ]
     },
@@ -733,7 +1731,50 @@
           "rarity": "C",
           "block": "4",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP14-024.png",
-          "source": "bandai"
+          "cardSet": "-THE AZURE SEA’S SEVEN- [OP14-EB04]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              671367
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "Kin'emon",
+            "match": "image-only-candidate",
+            "distance": 4
+          },
+          "artist": "Hatori Kyoka"
+        },
+        {
+          "id": "OP14-024~tcg671814",
+          "set": "OP14-EB04-RE",
+          "rarity": "C",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/671814_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              671814
+            ]
+          },
+          "tcgplayer": {
+            "name": "Kin'emon",
+            "match": "minted",
+            "distance": 4
+          },
+          "artOf": "OP14-024",
+          "finishes": [
+            "nonfoil"
+          ],
+          "promoTypes": [
+            {
+              "type": "release",
+              "category": "event"
+            }
+          ],
+          "artist": "Hatori Kyoka"
         }
       ]
     },
@@ -760,7 +1801,50 @@
           "rarity": "C",
           "block": "4",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP14-025.png",
-          "source": "bandai"
+          "cardSet": "-THE AZURE SEA’S SEVEN- [OP14-EB04]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              671368
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "Kuro",
+            "match": "image-only-candidate",
+            "distance": 4
+          },
+          "artist": "Daisuke Enoshima"
+        },
+        {
+          "id": "OP14-025~tcg671815",
+          "set": "OP14-EB04-RE",
+          "rarity": "C",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/671815_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              671815
+            ]
+          },
+          "tcgplayer": {
+            "name": "Kuro",
+            "match": "minted",
+            "distance": 4
+          },
+          "artOf": "OP14-025",
+          "finishes": [
+            "nonfoil"
+          ],
+          "promoTypes": [
+            {
+              "type": "release",
+              "category": "event"
+            }
+          ],
+          "artist": "Daisuke Enoshima"
         }
       ]
     },
@@ -788,7 +1872,137 @@
           "rarity": "UC",
           "block": "4",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP14-026.png",
-          "source": "bandai"
+          "cardSet": "-THE AZURE SEA’S SEVEN- [OP14-EB04]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              671369
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "Kouzuki Oden",
+            "match": "image-only-candidate",
+            "distance": 4
+          },
+          "artist": "phima"
+        },
+        {
+          "id": "OP14-026~tcg671858",
+          "set": "OP14-EB04-RE",
+          "rarity": "UC",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/671858_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              671858
+            ]
+          },
+          "tcgplayer": {
+            "name": "Kouzuki Oden",
+            "match": "minted",
+            "distance": 4
+          },
+          "artOf": "OP14-026",
+          "finishes": [
+            "nonfoil"
+          ],
+          "promoTypes": [
+            {
+              "type": "release",
+              "category": "event"
+            }
+          ],
+          "artist": "phima"
+        },
+        {
+          "id": "OP14-026~tcg710730",
+          "set": "P",
+          "rarity": "UC",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/710730_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              710730
+            ]
+          },
+          "tcgplayer": {
+            "name": "Kouzuki Oden (Regional Participation Pack 2026 Vol.2)",
+            "match": "minted",
+            "distance": null
+          },
+          "finishes": [
+            "foil"
+          ],
+          "promoTypes": [
+            {
+              "type": "championship",
+              "category": "championship"
+            },
+            {
+              "type": "event_pack",
+              "category": "event"
+            }
+          ]
+        },
+        {
+          "id": "OP14-026~tcg710735",
+          "set": "P",
+          "rarity": "UC",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/710735_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              710735
+            ]
+          },
+          "tcgplayer": {
+            "name": "Kouzuki Oden (Regionals Finalist Card Set 26-27 Vol.2)",
+            "match": "minted",
+            "distance": null
+          },
+          "finishes": [
+            "foil"
+          ],
+          "promoTypes": [
+            {
+              "type": "championship",
+              "category": "championship"
+            },
+            {
+              "type": "placement",
+              "category": "placement"
+            }
+          ]
+        },
+        {
+          "id": "OP14-026~tcg710736",
+          "set": "P",
+          "rarity": "UC",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/710736_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              710736
+            ]
+          },
+          "tcgplayer": {
+            "name": "Kouzuki Oden (Regionals Champion Card Set 26-27 Vol.2)",
+            "match": "minted",
+            "distance": null
+          },
+          "promoTypes": [
+            {
+              "type": "championship",
+              "category": "championship"
+            },
+            {
+              "type": "placement",
+              "category": "placement"
+            }
+          ]
         }
       ]
     },
@@ -816,7 +2030,22 @@
           "rarity": "R",
           "block": "4",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP14-027.png",
-          "source": "bandai"
+          "cardSet": "-THE AZURE SEA’S SEVEN- [OP14-EB04]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              671370
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Shanks",
+            "match": "image",
+            "distance": 2
+          },
+          "artist": "Akanegumo"
         },
         {
           "id": "OP14-027_p1",
@@ -824,7 +2053,55 @@
           "rarity": "R",
           "block": "4",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP14-027_p1.png",
-          "source": "bandai"
+          "cardSet": "-THE AZURE SEA’S SEVEN- [OP14-EB04]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              670255
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Shanks (Alternate Art)",
+            "match": "image",
+            "distance": 4
+          },
+          "treatments": [
+            "alternate_art"
+          ],
+          "artist": "Minato Sashima"
+        },
+        {
+          "id": "OP14-027~tcg714351",
+          "set": "P",
+          "rarity": "R",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/714351_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              714351
+            ]
+          },
+          "tcgplayer": {
+            "name": "Shanks (4th Anniversary Treasure Campaign Pack)",
+            "match": "minted",
+            "distance": null
+          },
+          "finishes": [
+            "foil"
+          ],
+          "promoTypes": [
+            {
+              "type": "anniversary",
+              "category": "anniversary"
+            },
+            {
+              "type": "retail_product",
+              "category": "retail"
+            }
+          ]
         }
       ]
     },
@@ -851,7 +2128,50 @@
           "rarity": "C",
           "block": "4",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP14-028.png",
-          "source": "bandai"
+          "cardSet": "-THE AZURE SEA’S SEVEN- [OP14-EB04]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              671371
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "Johnny",
+            "match": "image-only-candidate",
+            "distance": 3
+          },
+          "artist": "S-KINOKO"
+        },
+        {
+          "id": "OP14-028~tcg671816",
+          "set": "OP14-EB04-RE",
+          "rarity": "C",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/671816_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              671816
+            ]
+          },
+          "tcgplayer": {
+            "name": "Johnny",
+            "match": "minted",
+            "distance": 3
+          },
+          "artOf": "OP14-028",
+          "finishes": [
+            "nonfoil"
+          ],
+          "promoTypes": [
+            {
+              "type": "release",
+              "category": "event"
+            }
+          ],
+          "artist": "S-KINOKO"
         }
       ]
     },
@@ -878,7 +2198,22 @@
           "rarity": "R",
           "block": "4",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP14-029.png",
-          "source": "bandai"
+          "cardSet": "-THE AZURE SEA’S SEVEN- [OP14-EB04]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              671372
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Tashigi",
+            "match": "image-only-candidate",
+            "distance": 6
+          },
+          "artist": "Naruse Uroko"
         },
         {
           "id": "OP14-029_p1",
@@ -886,7 +2221,25 @@
           "rarity": "SP CARD",
           "block": "4",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP14-029_p1.png",
-          "source": "bandai"
+          "cardSet": "-THE TIME OF BATTLE- [OP-16]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              695117
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Tashigi (SP)",
+            "match": "image-only-candidate",
+            "distance": 2
+          },
+          "treatments": [
+            "sp"
+          ],
+          "artist": "Naruse Uroko"
         },
         {
           "id": "OP14-029_p2",
@@ -894,7 +2247,28 @@
           "rarity": "R",
           "block": "4",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP14-029_p2.png",
-          "source": "bandai"
+          "cardSet": "OP14-EB04 Dash Pack Campaign",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              672374
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Tashigi (Dash Pack)",
+            "match": "image-other-set",
+            "distance": 6
+          },
+          "promoTypes": [
+            {
+              "type": "retail_product",
+              "category": "retail"
+            }
+          ],
+          "artist": "Hashimoto Q"
         }
       ]
     },
@@ -921,7 +2295,50 @@
           "rarity": "C",
           "block": "4",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP14-030.png",
-          "source": "bandai"
+          "cardSet": "-THE AZURE SEA’S SEVEN- [OP14-EB04]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              671373
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "Chaka & Pell - OP14-030",
+            "match": "image-only-candidate",
+            "distance": 7
+          },
+          "artist": "tasaka"
+        },
+        {
+          "id": "OP14-030~tcg671817",
+          "set": "OP14-EB04-RE",
+          "rarity": "C",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/671817_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              671817
+            ]
+          },
+          "tcgplayer": {
+            "name": "Chaka & Pell - OP14-030",
+            "match": "minted",
+            "distance": 7
+          },
+          "artOf": "OP14-030",
+          "finishes": [
+            "nonfoil"
+          ],
+          "promoTypes": [
+            {
+              "type": "release",
+              "category": "event"
+            }
+          ],
+          "artist": "tasaka"
         }
       ]
     },
@@ -949,7 +2366,22 @@
           "rarity": "SR",
           "block": "4",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP14-031.png",
-          "source": "bandai"
+          "cardSet": "-THE AZURE SEA’S SEVEN- [OP14-EB04]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              670252
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Nami",
+            "match": "image",
+            "distance": 4
+          },
+          "artist": "Niiii"
         },
         {
           "id": "OP14-031_p1",
@@ -957,7 +2389,51 @@
           "rarity": "SR",
           "block": "4",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP14-031_p1.png",
-          "source": "bandai"
+          "cardSet": "-THE AZURE SEA’S SEVEN- [OP14-EB04]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              670254
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Nami (Alternate Art)",
+            "match": "image",
+            "distance": 3
+          },
+          "treatments": [
+            "alternate_art"
+          ],
+          "artist": "Hashimoto Q"
+        },
+        {
+          "id": "OP14-031~tcg692133",
+          "set": "P",
+          "rarity": "SR",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/692133_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              692133
+            ]
+          },
+          "tcgplayer": {
+            "name": "Nami (Treasure Cup May 2026)",
+            "match": "minted",
+            "distance": null
+          },
+          "finishes": [
+            "foil"
+          ],
+          "promoTypes": [
+            {
+              "type": "treasure_cup",
+              "category": "championship"
+            }
+          ]
         }
       ]
     },
@@ -985,7 +2461,50 @@
           "rarity": "UC",
           "block": "4",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP14-032.png",
-          "source": "bandai"
+          "cardSet": "-THE AZURE SEA’S SEVEN- [OP14-EB04]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              671374
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "Humandrill",
+            "match": "image-only-candidate",
+            "distance": 6
+          },
+          "artist": "Aidle Co. Ltd."
+        },
+        {
+          "id": "OP14-032~tcg671859",
+          "set": "OP14-EB04-RE",
+          "rarity": "UC",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/671859_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              671859
+            ]
+          },
+          "tcgplayer": {
+            "name": "Humandrill",
+            "match": "minted",
+            "distance": 6
+          },
+          "artOf": "OP14-032",
+          "finishes": [
+            "nonfoil"
+          ],
+          "promoTypes": [
+            {
+              "type": "release",
+              "category": "event"
+            }
+          ],
+          "artist": "Aidle Co. Ltd."
         }
       ]
     },
@@ -1013,7 +2532,22 @@
           "rarity": "SR",
           "block": "4",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP14-033.png",
-          "source": "bandai"
+          "cardSet": "-THE AZURE SEA’S SEVEN- [OP14-EB04]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              666526
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Perona - OP14-033",
+            "match": "image",
+            "distance": 7
+          },
+          "artist": "Haru Miyajima"
         },
         {
           "id": "OP14-033_p1",
@@ -1021,7 +2555,25 @@
           "rarity": "SR",
           "block": "4",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP14-033_p1.png",
-          "source": "bandai"
+          "cardSet": "-THE AZURE SEA’S SEVEN- [OP14-EB04]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              666527
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Perona - OP14-033 (Alternate Art)",
+            "match": "image",
+            "distance": 4
+          },
+          "treatments": [
+            "alternate_art"
+          ],
+          "artist": "NAKAuMA"
         },
         {
           "id": "OP14-033_p2",
@@ -1029,7 +2581,80 @@
           "rarity": "SR",
           "block": "4",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP14-033_p2.png",
-          "source": "bandai"
+          "cardSet": "Extra Grand Battle for Stores 2026 May",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              692136
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Perona (Extra Grand Battle for Stores Spring 2026)",
+            "match": "image",
+            "distance": 3
+          },
+          "promoTypes": [
+            {
+              "type": "event_pack",
+              "category": "event"
+            }
+          ],
+          "artist": "nuisuke"
+        },
+        {
+          "id": "OP14-033~tcg719682",
+          "set": "P",
+          "rarity": "SR",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/719682_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              719682
+            ]
+          },
+          "tcgplayer": {
+            "name": "Perona (Extra Grand Battle for Stores Fall 2026)",
+            "match": "minted",
+            "distance": null
+          },
+          "finishes": [
+            "foil"
+          ],
+          "promoTypes": [
+            {
+              "type": "event_pack",
+              "category": "event"
+            }
+          ]
+        },
+        {
+          "id": "OP14-033~tcg722594",
+          "set": "P",
+          "rarity": "SR",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/722594_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              722594
+            ]
+          },
+          "tcgplayer": {
+            "name": "Perona (Large Scale Extra Grand Battle 2026)",
+            "match": "minted",
+            "distance": null
+          },
+          "finishes": [
+            "foil"
+          ],
+          "promoTypes": [
+            {
+              "type": "event_pack",
+              "category": "event"
+            }
+          ]
         }
       ]
     },
@@ -1058,7 +2683,22 @@
           "rarity": "R",
           "block": "4",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP14-034.png",
-          "source": "bandai"
+          "cardSet": "-THE AZURE SEA’S SEVEN- [OP14-EB04]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              671375
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Monkey.D.Luffy - OP14-34",
+            "match": "image-only-candidate",
+            "distance": 8
+          },
+          "artist": "Bashikou"
         }
       ]
     },
@@ -1085,7 +2725,50 @@
           "rarity": "C",
           "block": "4",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP14-035.png",
-          "source": "bandai"
+          "cardSet": "-THE AZURE SEA’S SEVEN- [OP14-EB04]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              671376
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "Yosaku",
+            "match": "image-only-candidate",
+            "distance": 4
+          },
+          "artist": "ASAKI KURODA"
+        },
+        {
+          "id": "OP14-035~tcg671818",
+          "set": "OP14-EB04-RE",
+          "rarity": "C",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/671818_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              671818
+            ]
+          },
+          "tcgplayer": {
+            "name": "Yosaku",
+            "match": "minted",
+            "distance": 4
+          },
+          "artOf": "OP14-035",
+          "finishes": [
+            "nonfoil"
+          ],
+          "promoTypes": [
+            {
+              "type": "release",
+              "category": "event"
+            }
+          ],
+          "artist": "ASAKI KURODA"
         }
       ]
     },
@@ -1108,7 +2791,48 @@
           "rarity": "C",
           "block": "4",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP14-036.png",
-          "source": "bandai"
+          "cardSet": "-THE AZURE SEA’S SEVEN- [OP14-EB04]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              671377
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "Strive to Surpass me, Roronoa Zoro!!!",
+            "match": "image-only-candidate",
+            "distance": 7
+          }
+        },
+        {
+          "id": "OP14-036~tcg671819",
+          "set": "OP14-EB04-RE",
+          "rarity": "C",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/671819_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              671819
+            ]
+          },
+          "tcgplayer": {
+            "name": "Strive to Surpass me, Roronoa Zoro!!!",
+            "match": "minted",
+            "distance": 7
+          },
+          "artOf": "OP14-036",
+          "finishes": [
+            "nonfoil"
+          ],
+          "promoTypes": [
+            {
+              "type": "release",
+              "category": "event"
+            }
+          ]
         }
       ]
     },
@@ -1131,7 +2855,21 @@
           "rarity": "R",
           "block": "4",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP14-037.png",
-          "source": "bandai"
+          "cardSet": "-THE AZURE SEA’S SEVEN- [OP14-EB04]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              671378
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "For Fun",
+            "match": "image-only-candidate",
+            "distance": 11
+          }
         },
         {
           "id": "OP14-037_p1",
@@ -1139,7 +2877,28 @@
           "rarity": "R",
           "block": "4",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP14-037_p1.png",
-          "source": "bandai"
+          "cardSet": "Premium Card Collection -Best Selection Vol.6-",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              694882
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "For Fun (Premium Card Collection -Best Selection Vol. 6-)",
+            "match": "image",
+            "distance": 10
+          },
+          "promoTypes": [
+            {
+              "type": "retail_product",
+              "category": "retail"
+            }
+          ],
+          "artist": "Sunohara"
         }
       ]
     },
@@ -1161,7 +2920,48 @@
           "rarity": "UC",
           "block": "4",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP14-038.png",
-          "source": "bandai"
+          "cardSet": "-THE AZURE SEA’S SEVEN- [OP14-EB04]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              671379
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "I Never Bother to Remember the Faces of Trash",
+            "match": "image-only-candidate",
+            "distance": 6
+          }
+        },
+        {
+          "id": "OP14-038~tcg671860",
+          "set": "OP14-EB04-RE",
+          "rarity": "UC",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/671860_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              671860
+            ]
+          },
+          "tcgplayer": {
+            "name": "I Never Bother to Remember the Faces of Trash",
+            "match": "minted",
+            "distance": 6
+          },
+          "artOf": "OP14-038",
+          "finishes": [
+            "nonfoil"
+          ],
+          "promoTypes": [
+            {
+              "type": "release",
+              "category": "event"
+            }
+          ]
         }
       ]
     },
@@ -1184,7 +2984,48 @@
           "rarity": "UC",
           "block": "4",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP14-039.png",
-          "source": "bandai"
+          "cardSet": "-THE AZURE SEA’S SEVEN- [OP14-EB04]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              671380
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "Coffin Boat",
+            "match": "image-only-candidate",
+            "distance": 4
+          }
+        },
+        {
+          "id": "OP14-039~tcg671861",
+          "set": "OP14-EB04-RE",
+          "rarity": "UC",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/671861_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              671861
+            ]
+          },
+          "tcgplayer": {
+            "name": "Coffin Boat",
+            "match": "minted",
+            "distance": 4
+          },
+          "artOf": "OP14-039",
+          "finishes": [
+            "nonfoil"
+          ],
+          "promoTypes": [
+            {
+              "type": "release",
+              "category": "event"
+            }
+          ]
         }
       ]
     },
@@ -1212,7 +3053,22 @@
           "rarity": "L",
           "block": "4",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP14-040.png",
-          "source": "bandai"
+          "cardSet": "-THE AZURE SEA’S SEVEN- [OP14-EB04]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              668568
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "Jinbe - OP14-040",
+            "match": "image",
+            "distance": 6
+          },
+          "artist": "Chiharu Akakura"
         },
         {
           "id": "OP14-040_p1",
@@ -1220,7 +3076,25 @@
           "rarity": "L",
           "block": "4",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP14-040_p1.png",
-          "source": "bandai"
+          "cardSet": "-THE AZURE SEA’S SEVEN- [OP14-EB04]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              668569
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Jinbe - OP14-040 (Alternate Art)",
+            "match": "image",
+            "distance": 4
+          },
+          "treatments": [
+            "alternate_art"
+          ],
+          "artist": "Bashikou"
         }
       ]
     },
@@ -1248,7 +3122,22 @@
           "rarity": "L",
           "block": "4",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP14-041.png",
-          "source": "bandai"
+          "cardSet": "-THE AZURE SEA’S SEVEN- [OP14-EB04]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              668333
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "Boa Hancock - OP14-041",
+            "match": "image",
+            "distance": 7
+          },
+          "artist": "mmmkawaine"
         },
         {
           "id": "OP14-041_p1",
@@ -1256,7 +3145,25 @@
           "rarity": "L",
           "block": "4",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP14-041_p1.png",
-          "source": "bandai"
+          "cardSet": "-THE AZURE SEA’S SEVEN- [OP14-EB04]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              668335
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Boa Hancock - OP14-041 (Alternate Art)",
+            "match": "image",
+            "distance": 2
+          },
+          "treatments": [
+            "alternate_art"
+          ],
+          "artist": "nuisuke"
         }
       ]
     },
@@ -1283,7 +3190,22 @@
           "rarity": "R",
           "block": "4",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP14-042.png",
-          "source": "bandai"
+          "cardSet": "-THE AZURE SEA’S SEVEN- [OP14-EB04]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              671381
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Arlong",
+            "match": "image",
+            "distance": 5
+          },
+          "artist": "Katsuo Tadano"
         },
         {
           "id": "OP14-042_p1",
@@ -1291,7 +3213,25 @@
           "rarity": "R",
           "block": "4",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP14-042_p1.png",
-          "source": "bandai"
+          "cardSet": "-THE AZURE SEA’S SEVEN- [OP14-EB04]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              670597
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Arlong (Alternate Art)",
+            "match": "image",
+            "distance": 5
+          },
+          "treatments": [
+            "alternate_art"
+          ],
+          "artist": "Anderson"
         }
       ]
     },
@@ -1319,7 +3259,22 @@
           "rarity": "R",
           "block": "4",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP14-043.png",
-          "source": "bandai"
+          "cardSet": "-THE AZURE SEA’S SEVEN- [OP14-EB04]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              671382
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Aladine",
+            "match": "image-only-candidate",
+            "distance": 11
+          },
+          "artist": "SHINRA AGENCY Co. Ltd."
         },
         {
           "id": "OP14-043_p1",
@@ -1327,7 +3282,28 @@
           "rarity": "R",
           "block": "4",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP14-043_p1.png",
-          "source": "bandai"
+          "cardSet": "OP14-EB04 Dash Pack Campaign",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              672375
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Aladine (Dash Pack)",
+            "match": "image-other-set",
+            "distance": 5
+          },
+          "promoTypes": [
+            {
+              "type": "retail_product",
+              "category": "retail"
+            }
+          ],
+          "artist": "SHINRA AGENCY Co. Ltd."
         }
       ]
     },
@@ -1355,7 +3331,50 @@
           "rarity": "C",
           "block": "4",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP14-044.png",
-          "source": "bandai"
+          "cardSet": "-THE AZURE SEA’S SEVEN- [OP14-EB04]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              671383
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "Edward.Newgate",
+            "match": "image-only-candidate",
+            "distance": 3
+          },
+          "artist": "NIJIMAARC"
+        },
+        {
+          "id": "OP14-044~tcg671820",
+          "set": "OP14-EB04-RE",
+          "rarity": "C",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/671820_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              671820
+            ]
+          },
+          "tcgplayer": {
+            "name": "Edward.Newgate",
+            "match": "minted",
+            "distance": 3
+          },
+          "artOf": "OP14-044",
+          "finishes": [
+            "nonfoil"
+          ],
+          "promoTypes": [
+            {
+              "type": "release",
+              "category": "event"
+            }
+          ],
+          "artist": "NIJIMAARC"
         }
       ]
     },
@@ -1383,7 +3402,50 @@
           "rarity": "UC",
           "block": "4",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP14-045.png",
-          "source": "bandai"
+          "cardSet": "-THE AZURE SEA’S SEVEN- [OP14-EB04]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              671384
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "Kuroobi",
+            "match": "image-only-candidate",
+            "distance": 4
+          },
+          "artist": "Tanaka Kenichi"
+        },
+        {
+          "id": "OP14-045~tcg671862",
+          "set": "OP14-EB04-RE",
+          "rarity": "UC",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/671862_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              671862
+            ]
+          },
+          "tcgplayer": {
+            "name": "Kuroobi",
+            "match": "minted",
+            "distance": 4
+          },
+          "artOf": "OP14-045",
+          "finishes": [
+            "nonfoil"
+          ],
+          "promoTypes": [
+            {
+              "type": "release",
+              "category": "event"
+            }
+          ],
+          "artist": "Tanaka Kenichi"
         }
       ]
     },
@@ -1409,7 +3471,50 @@
           "rarity": "UC",
           "block": "4",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP14-046.png",
-          "source": "bandai"
+          "cardSet": "-THE AZURE SEA’S SEVEN- [OP14-EB04]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              671385
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "Koala",
+            "match": "image-only-candidate",
+            "distance": 5
+          },
+          "artist": "sacanahen"
+        },
+        {
+          "id": "OP14-046~tcg671863",
+          "set": "OP14-EB04-RE",
+          "rarity": "UC",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/671863_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              671863
+            ]
+          },
+          "tcgplayer": {
+            "name": "Koala",
+            "match": "minted",
+            "distance": 5
+          },
+          "artOf": "OP14-046",
+          "finishes": [
+            "nonfoil"
+          ],
+          "promoTypes": [
+            {
+              "type": "release",
+              "category": "event"
+            }
+          ],
+          "artist": "sacanahen"
         }
       ]
     },
@@ -1436,7 +3541,22 @@
           "rarity": "R",
           "block": "4",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP14-047.png",
-          "source": "bandai"
+          "cardSet": "-THE AZURE SEA’S SEVEN- [OP14-EB04]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              671386
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Shirahoshi",
+            "match": "image-only-candidate",
+            "distance": 8
+          },
+          "artist": "kusunoki harui"
         }
       ]
     },
@@ -1462,7 +3582,50 @@
           "rarity": "C",
           "block": "4",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP14-048.png",
-          "source": "bandai"
+          "cardSet": "-THE AZURE SEA’S SEVEN- [OP14-EB04]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              671387
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "Shiryu",
+            "match": "image-only-candidate",
+            "distance": 5
+          },
+          "artist": "Studio Vigor Co. Ltd"
+        },
+        {
+          "id": "OP14-048~tcg671821",
+          "set": "OP14-EB04-RE",
+          "rarity": "C",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/671821_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              671821
+            ]
+          },
+          "tcgplayer": {
+            "name": "Shiryu",
+            "match": "minted",
+            "distance": 5
+          },
+          "artOf": "OP14-048",
+          "finishes": [
+            "nonfoil"
+          ],
+          "promoTypes": [
+            {
+              "type": "release",
+              "category": "event"
+            }
+          ],
+          "artist": "Studio Vigor Co. Ltd"
         }
       ]
     },
@@ -1490,7 +3653,22 @@
           "rarity": "SR",
           "block": "4",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP14-049.png",
-          "source": "bandai"
+          "cardSet": "-THE AZURE SEA’S SEVEN- [OP14-EB04]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              668570
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Jinbe - OP14-049",
+            "match": "image",
+            "distance": 2
+          },
+          "artist": "Ryuda"
         },
         {
           "id": "OP14-049_p1",
@@ -1498,7 +3676,25 @@
           "rarity": "SR",
           "block": "4",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP14-049_p1.png",
-          "source": "bandai"
+          "cardSet": "-THE AZURE SEA’S SEVEN- [OP14-EB04]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              668571
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Jinbe - OP14-049 (Alternate Art)",
+            "match": "image",
+            "distance": 3
+          },
+          "treatments": [
+            "alternate_art"
+          ],
+          "artist": "nukadokomogera"
         }
       ]
     },
@@ -1525,7 +3721,50 @@
           "rarity": "UC",
           "block": "4",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP14-050.png",
-          "source": "bandai"
+          "cardSet": "-THE AZURE SEA’S SEVEN- [OP14-EB04]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              671388
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "Chew",
+            "match": "image-only-candidate",
+            "distance": 7
+          },
+          "artist": "Tadaichi Nakama"
+        },
+        {
+          "id": "OP14-050~tcg671864",
+          "set": "OP14-EB04-RE",
+          "rarity": "UC",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/671864_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              671864
+            ]
+          },
+          "tcgplayer": {
+            "name": "Chew",
+            "match": "minted",
+            "distance": 7
+          },
+          "artOf": "OP14-050",
+          "finishes": [
+            "nonfoil"
+          ],
+          "promoTypes": [
+            {
+              "type": "release",
+              "category": "event"
+            }
+          ],
+          "artist": "Tadaichi Nakama"
         }
       ]
     },
@@ -1552,7 +3791,50 @@
           "rarity": "C",
           "block": "4",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP14-051.png",
-          "source": "bandai"
+          "cardSet": "-THE AZURE SEA’S SEVEN- [OP14-EB04]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              671389
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "Hatchan",
+            "match": "image-only-candidate",
+            "distance": 7
+          },
+          "artist": "COGA"
+        },
+        {
+          "id": "OP14-051~tcg671822",
+          "set": "OP14-EB04-RE",
+          "rarity": "C",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/671822_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              671822
+            ]
+          },
+          "tcgplayer": {
+            "name": "Hatchan",
+            "match": "minted",
+            "distance": 7
+          },
+          "artOf": "OP14-051",
+          "finishes": [
+            "nonfoil"
+          ],
+          "promoTypes": [
+            {
+              "type": "release",
+              "category": "event"
+            }
+          ],
+          "artist": "COGA"
         }
       ]
     },
@@ -1579,7 +3861,50 @@
           "rarity": "C",
           "block": "4",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP14-052.png",
-          "source": "bandai"
+          "cardSet": "-THE AZURE SEA’S SEVEN- [OP14-EB04]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              671390
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "Hannyabal",
+            "match": "image-only-candidate",
+            "distance": 2
+          },
+          "artist": "COGA"
+        },
+        {
+          "id": "OP14-052~tcg671823",
+          "set": "OP14-EB04-RE",
+          "rarity": "C",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/671823_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              671823
+            ]
+          },
+          "tcgplayer": {
+            "name": "Hannyabal",
+            "match": "minted",
+            "distance": 2
+          },
+          "artOf": "OP14-052",
+          "finishes": [
+            "nonfoil"
+          ],
+          "promoTypes": [
+            {
+              "type": "release",
+              "category": "event"
+            }
+          ],
+          "artist": "COGA"
         }
       ]
     },
@@ -1606,7 +3931,50 @@
           "rarity": "C",
           "block": "4",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP14-053.png",
-          "source": "bandai"
+          "cardSet": "-THE AZURE SEA’S SEVEN- [OP14-EB04]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              671391
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "Vista",
+            "match": "image-only-candidate",
+            "distance": 4
+          },
+          "artist": "tasaka"
+        },
+        {
+          "id": "OP14-053~tcg671824",
+          "set": "OP14-EB04-RE",
+          "rarity": "C",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/671824_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              671824
+            ]
+          },
+          "tcgplayer": {
+            "name": "Vista",
+            "match": "minted",
+            "distance": 4
+          },
+          "artOf": "OP14-053",
+          "finishes": [
+            "nonfoil"
+          ],
+          "promoTypes": [
+            {
+              "type": "release",
+              "category": "event"
+            }
+          ],
+          "artist": "tasaka"
         }
       ]
     },
@@ -1634,7 +4002,50 @@
           "rarity": "UC",
           "block": "4",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP14-054.png",
-          "source": "bandai"
+          "cardSet": "-THE AZURE SEA’S SEVEN- [OP14-EB04]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              671392
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "Fisher Tiger",
+            "match": "image-only-candidate",
+            "distance": 6
+          },
+          "artist": "Aidle Co. Ltd."
+        },
+        {
+          "id": "OP14-054~tcg671865",
+          "set": "OP14-EB04-RE",
+          "rarity": "UC",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/671865_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              671865
+            ]
+          },
+          "tcgplayer": {
+            "name": "Fisher Tiger",
+            "match": "minted",
+            "distance": 6
+          },
+          "artOf": "OP14-054",
+          "finishes": [
+            "nonfoil"
+          ],
+          "promoTypes": [
+            {
+              "type": "release",
+              "category": "event"
+            }
+          ],
+          "artist": "Aidle Co. Ltd."
         }
       ]
     },
@@ -1662,7 +4073,50 @@
           "rarity": "C",
           "block": "4",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP14-055.png",
-          "source": "bandai"
+          "cardSet": "-THE AZURE SEA’S SEVEN- [OP14-EB04]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              671393
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "The Macro Gang",
+            "match": "image-only-candidate",
+            "distance": 4
+          },
+          "artist": "SHINRA AGENCY Co. Ltd."
+        },
+        {
+          "id": "OP14-055~tcg671825",
+          "set": "OP14-EB04-RE",
+          "rarity": "C",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/671825_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              671825
+            ]
+          },
+          "tcgplayer": {
+            "name": "The Macro Gang",
+            "match": "minted",
+            "distance": 4
+          },
+          "artOf": "OP14-055",
+          "finishes": [
+            "nonfoil"
+          ],
+          "promoTypes": [
+            {
+              "type": "release",
+              "category": "event"
+            }
+          ],
+          "artist": "SHINRA AGENCY Co. Ltd."
         }
       ]
     },
@@ -1690,7 +4144,50 @@
           "rarity": "C",
           "block": "4",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP14-056.png",
-          "source": "bandai"
+          "cardSet": "-THE AZURE SEA’S SEVEN- [OP14-EB04]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              671394
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "Wadatsumi",
+            "match": "image-only-candidate",
+            "distance": 3
+          },
+          "artist": "Suzume Muraichi"
+        },
+        {
+          "id": "OP14-056~tcg671826",
+          "set": "OP14-EB04-RE",
+          "rarity": "C",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/671826_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              671826
+            ]
+          },
+          "tcgplayer": {
+            "name": "Wadatsumi",
+            "match": "minted",
+            "distance": 3
+          },
+          "artOf": "OP14-056",
+          "finishes": [
+            "nonfoil"
+          ],
+          "promoTypes": [
+            {
+              "type": "release",
+              "category": "event"
+            }
+          ],
+          "artist": "Suzume Muraichi"
         }
       ]
     },
@@ -1714,7 +4211,48 @@
           "rarity": "C",
           "block": "4",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP14-057.png",
-          "source": "bandai"
+          "cardSet": "-THE AZURE SEA’S SEVEN- [OP14-EB04]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              671395
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "Don't Worry!! I'm Here!!",
+            "match": "image-only-candidate",
+            "distance": 8
+          }
+        },
+        {
+          "id": "OP14-057~tcg671827",
+          "set": "OP14-EB04-RE",
+          "rarity": "C",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/671827_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              671827
+            ]
+          },
+          "tcgplayer": {
+            "name": "Don't Worry!! I'm Here!!",
+            "match": "minted",
+            "distance": 8
+          },
+          "artOf": "OP14-057",
+          "finishes": [
+            "nonfoil"
+          ],
+          "promoTypes": [
+            {
+              "type": "release",
+              "category": "event"
+            }
+          ]
         }
       ]
     },
@@ -1738,7 +4276,21 @@
           "rarity": "R",
           "block": "4",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP14-058.png",
-          "source": "bandai"
+          "cardSet": "-THE AZURE SEA’S SEVEN- [OP14-EB04]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              671396
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Ocean Current Shoulder Throw",
+            "match": "image-only-candidate",
+            "distance": 4
+          }
         }
       ]
     },
@@ -1762,7 +4314,48 @@
           "rarity": "UC",
           "block": "4",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP14-059.png",
-          "source": "bandai"
+          "cardSet": "-THE AZURE SEA’S SEVEN- [OP14-EB04]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              671397
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "Please Take Me with You!! I Can Be of Great Help to You!!",
+            "match": "image-only-candidate",
+            "distance": 8
+          }
+        },
+        {
+          "id": "OP14-059~tcg671866",
+          "set": "OP14-EB04-RE",
+          "rarity": "UC",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/671866_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              671866
+            ]
+          },
+          "tcgplayer": {
+            "name": "Please Take Me with You!! I Can Be of Great Help to You!!",
+            "match": "minted",
+            "distance": 8
+          },
+          "artOf": "OP14-059",
+          "finishes": [
+            "nonfoil"
+          ],
+          "promoTypes": [
+            {
+              "type": "release",
+              "category": "event"
+            }
+          ]
         }
       ]
     },
@@ -1789,7 +4382,22 @@
           "rarity": "L",
           "block": "4",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP14-060.png",
-          "source": "bandai"
+          "cardSet": "-THE AZURE SEA’S SEVEN- [OP14-EB04]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              666528
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "Donquixote Doflamingo - OP14-060",
+            "match": "image",
+            "distance": 6
+          },
+          "artist": "Shin Kashiwaguma"
         },
         {
           "id": "OP14-060_p1",
@@ -1797,7 +4405,45 @@
           "rarity": "L",
           "block": "4",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP14-060_p1.png",
-          "source": "bandai"
+          "cardSet": "-THE AZURE SEA’S SEVEN- [OP14-EB04]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              666529
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Donquixote Doflamingo - OP14-060 (Alternate Art)",
+            "match": "image",
+            "distance": 4
+          },
+          "treatments": [
+            "alternate_art"
+          ],
+          "artist": "Katsuo Tadano"
+        },
+        {
+          "id": "OP14-060~tcg719665",
+          "set": "P",
+          "rarity": "L",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/719665_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              719665
+            ]
+          },
+          "tcgplayer": {
+            "name": "Donquixote Doflamingo (Flame-Flame Fruit Coliseum)",
+            "match": "minted",
+            "distance": null
+          },
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
@@ -1825,7 +4471,22 @@
           "rarity": "R",
           "block": "4",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP14-061.png",
-          "source": "bandai"
+          "cardSet": "-THE AZURE SEA’S SEVEN- [OP14-EB04]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              671398
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Vergo",
+            "match": "image",
+            "distance": 4
+          },
+          "artist": "touge369"
         },
         {
           "id": "OP14-061_p1",
@@ -1833,7 +4494,25 @@
           "rarity": "R",
           "block": "4",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP14-061_p1.png",
-          "source": "bandai"
+          "cardSet": "-THE AZURE SEA’S SEVEN- [OP14-EB04]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              670251
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Vergo (Alternate Art)",
+            "match": "image",
+            "distance": 5
+          },
+          "treatments": [
+            "alternate_art"
+          ],
+          "artist": "Hokuyuu"
         }
       ]
     },
@@ -1860,7 +4539,50 @@
           "rarity": "C",
           "block": "4",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP14-062.png",
-          "source": "bandai"
+          "cardSet": "-THE AZURE SEA’S SEVEN- [OP14-EB04]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              671399
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "Gladius",
+            "match": "image-only-candidate",
+            "distance": 3
+          },
+          "artist": "Nekobayashi"
+        },
+        {
+          "id": "OP14-062~tcg671828",
+          "set": "OP14-EB04-RE",
+          "rarity": "C",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/671828_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              671828
+            ]
+          },
+          "tcgplayer": {
+            "name": "Gladius",
+            "match": "minted",
+            "distance": 3
+          },
+          "artOf": "OP14-062",
+          "finishes": [
+            "nonfoil"
+          ],
+          "promoTypes": [
+            {
+              "type": "release",
+              "category": "event"
+            }
+          ],
+          "artist": "Nekobayashi"
         }
       ]
     },
@@ -1887,7 +4609,22 @@
           "rarity": "R",
           "block": "4",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP14-063.png",
-          "source": "bandai"
+          "cardSet": "-THE AZURE SEA’S SEVEN- [OP14-EB04]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              666530
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Sugar",
+            "match": "image-only-candidate",
+            "distance": 5
+          },
+          "artist": "kito"
         }
       ]
     },
@@ -1914,7 +4651,50 @@
           "rarity": "C",
           "block": "4",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP14-064.png",
-          "source": "bandai"
+          "cardSet": "-THE AZURE SEA’S SEVEN- [OP14-EB04]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              671400
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "Giolla",
+            "match": "image-only-candidate",
+            "distance": 3
+          },
+          "artist": "kankurou"
+        },
+        {
+          "id": "OP14-064~tcg671829",
+          "set": "OP14-EB04-RE",
+          "rarity": "C",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/671829_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              671829
+            ]
+          },
+          "tcgplayer": {
+            "name": "Giolla",
+            "match": "minted",
+            "distance": 3
+          },
+          "artOf": "OP14-064",
+          "finishes": [
+            "nonfoil"
+          ],
+          "promoTypes": [
+            {
+              "type": "release",
+              "category": "event"
+            }
+          ],
+          "artist": "kankurou"
         }
       ]
     },
@@ -1941,7 +4721,50 @@
           "rarity": "C",
           "block": "4",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP14-065.png",
-          "source": "bandai"
+          "cardSet": "-THE AZURE SEA’S SEVEN- [OP14-EB04]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              671401
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "Senor Pink",
+            "match": "image-only-candidate",
+            "distance": 10
+          },
+          "artist": "HISASHI HUJIWARA"
+        },
+        {
+          "id": "OP14-065~tcg671830",
+          "set": "OP14-EB04-RE",
+          "rarity": "C",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/671830_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              671830
+            ]
+          },
+          "tcgplayer": {
+            "name": "Senor Pink",
+            "match": "minted",
+            "distance": 10
+          },
+          "artOf": "OP14-065",
+          "finishes": [
+            "nonfoil"
+          ],
+          "promoTypes": [
+            {
+              "type": "release",
+              "category": "event"
+            }
+          ],
+          "artist": "HISASHI HUJIWARA"
         }
       ]
     },
@@ -1968,7 +4791,50 @@
           "rarity": "C",
           "block": "4",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP14-066.png",
-          "source": "bandai"
+          "cardSet": "-THE AZURE SEA’S SEVEN- [OP14-EB04]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              671402
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "Diamante",
+            "match": "image-only-candidate",
+            "distance": 2
+          },
+          "artist": "Tadaichi Nakama"
+        },
+        {
+          "id": "OP14-066~tcg671831",
+          "set": "OP14-EB04-RE",
+          "rarity": "C",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/671831_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              671831
+            ]
+          },
+          "tcgplayer": {
+            "name": "Diamante",
+            "match": "minted",
+            "distance": 2
+          },
+          "artOf": "OP14-066",
+          "finishes": [
+            "nonfoil"
+          ],
+          "promoTypes": [
+            {
+              "type": "release",
+              "category": "event"
+            }
+          ],
+          "artist": "Tadaichi Nakama"
         }
       ]
     },
@@ -1995,7 +4861,50 @@
           "rarity": "UC",
           "block": "4",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP14-067.png",
-          "source": "bandai"
+          "cardSet": "-THE AZURE SEA’S SEVEN- [OP14-EB04]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              671403
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "Dellinger",
+            "match": "image-only-candidate",
+            "distance": 4
+          },
+          "artist": "Koushi Rokushiro"
+        },
+        {
+          "id": "OP14-067~tcg671867",
+          "set": "OP14-EB04-RE",
+          "rarity": "UC",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/671867_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              671867
+            ]
+          },
+          "tcgplayer": {
+            "name": "Dellinger",
+            "match": "minted",
+            "distance": 4
+          },
+          "artOf": "OP14-067",
+          "finishes": [
+            "nonfoil"
+          ],
+          "promoTypes": [
+            {
+              "type": "release",
+              "category": "event"
+            }
+          ],
+          "artist": "Koushi Rokushiro"
         }
       ]
     },
@@ -2022,7 +4931,50 @@
           "rarity": "UC",
           "block": "4",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP14-068.png",
-          "source": "bandai"
+          "cardSet": "-THE AZURE SEA’S SEVEN- [OP14-EB04]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              671404
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "Trebol",
+            "match": "image-only-candidate",
+            "distance": 7
+          },
+          "artist": "Nekobayashi"
+        },
+        {
+          "id": "OP14-068~tcg671868",
+          "set": "OP14-EB04-RE",
+          "rarity": "UC",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/671868_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              671868
+            ]
+          },
+          "tcgplayer": {
+            "name": "Trebol",
+            "match": "minted",
+            "distance": 7
+          },
+          "artOf": "OP14-068",
+          "finishes": [
+            "nonfoil"
+          ],
+          "promoTypes": [
+            {
+              "type": "release",
+              "category": "event"
+            }
+          ],
+          "artist": "Nekobayashi"
         }
       ]
     },
@@ -2049,7 +5001,22 @@
           "rarity": "SR",
           "block": "4",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP14-069.png",
-          "source": "bandai"
+          "cardSet": "-THE AZURE SEA’S SEVEN- [OP14-EB04]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              668638
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Donquixote Doflamingo - OP14-069",
+            "match": "image",
+            "distance": 5
+          },
+          "artist": "Morechand"
         },
         {
           "id": "OP14-069_p1",
@@ -2057,7 +5024,79 @@
           "rarity": "SR",
           "block": "4",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP14-069_p1.png",
-          "source": "bandai"
+          "cardSet": "-THE AZURE SEA’S SEVEN- [OP14-EB04]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              668639
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Donquixote Doflamingo - OP14-069 (Alternate Art)",
+            "match": "image",
+            "distance": 4
+          },
+          "treatments": [
+            "alternate_art"
+          ],
+          "artist": "Yosuke Adachi"
+        },
+        {
+          "id": "OP14-069~tcg710276",
+          "set": "P",
+          "rarity": "SR",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/710276_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              710276
+            ]
+          },
+          "tcgplayer": {
+            "name": "Donquixote Doflamingo (CS 26-27 3rd Place Trophy Card)",
+            "match": "minted",
+            "distance": null
+          },
+          "promoTypes": [
+            {
+              "type": "championship",
+              "category": "championship"
+            },
+            {
+              "type": "placement",
+              "category": "placement"
+            }
+          ]
+        },
+        {
+          "id": "OP14-069~tcg710277",
+          "set": "P",
+          "rarity": "SR",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/710277_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              710277
+            ]
+          },
+          "tcgplayer": {
+            "name": "Donquixote Doflamingo (CS 26-27 2nd Place Trophy Card)",
+            "match": "minted",
+            "distance": null
+          },
+          "promoTypes": [
+            {
+              "type": "championship",
+              "category": "championship"
+            },
+            {
+              "type": "placement",
+              "category": "placement"
+            }
+          ]
         }
       ]
     },
@@ -2084,7 +5123,50 @@
           "rarity": "C",
           "block": "4",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP14-070.png",
-          "source": "bandai"
+          "cardSet": "-THE AZURE SEA’S SEVEN- [OP14-EB04]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              671405
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "Buffalo",
+            "match": "image-only-candidate",
+            "distance": 4
+          },
+          "artist": "HISASHI HUJIWARA"
+        },
+        {
+          "id": "OP14-070~tcg671832",
+          "set": "OP14-EB04-RE",
+          "rarity": "C",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/671832_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              671832
+            ]
+          },
+          "tcgplayer": {
+            "name": "Buffalo",
+            "match": "minted",
+            "distance": 4
+          },
+          "artOf": "OP14-070",
+          "finishes": [
+            "nonfoil"
+          ],
+          "promoTypes": [
+            {
+              "type": "release",
+              "category": "event"
+            }
+          ],
+          "artist": "HISASHI HUJIWARA"
         }
       ]
     },
@@ -2111,7 +5193,50 @@
           "rarity": "UC",
           "block": "4",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP14-071.png",
-          "source": "bandai"
+          "cardSet": "-THE AZURE SEA’S SEVEN- [OP14-EB04]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              671406
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "Pica",
+            "match": "image-only-candidate",
+            "distance": 4
+          },
+          "artist": "Yasushi Yamaguchi"
+        },
+        {
+          "id": "OP14-071~tcg671869",
+          "set": "OP14-EB04-RE",
+          "rarity": "UC",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/671869_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              671869
+            ]
+          },
+          "tcgplayer": {
+            "name": "Pica",
+            "match": "minted",
+            "distance": 4
+          },
+          "artOf": "OP14-071",
+          "finishes": [
+            "nonfoil"
+          ],
+          "promoTypes": [
+            {
+              "type": "release",
+              "category": "event"
+            }
+          ],
+          "artist": "Yasushi Yamaguchi"
         }
       ]
     },
@@ -2138,7 +5263,50 @@
           "rarity": "UC",
           "block": "4",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP14-072.png",
-          "source": "bandai"
+          "cardSet": "-THE AZURE SEA’S SEVEN- [OP14-EB04]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              671407
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "Baby 5",
+            "match": "image-only-candidate",
+            "distance": 5
+          },
+          "artist": "Misa Matoki"
+        },
+        {
+          "id": "OP14-072~tcg671870",
+          "set": "OP14-EB04-RE",
+          "rarity": "UC",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/671870_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              671870
+            ]
+          },
+          "tcgplayer": {
+            "name": "Baby 5",
+            "match": "minted",
+            "distance": 5
+          },
+          "artOf": "OP14-072",
+          "finishes": [
+            "nonfoil"
+          ],
+          "promoTypes": [
+            {
+              "type": "release",
+              "category": "event"
+            }
+          ],
+          "artist": "Misa Matoki"
         }
       ]
     },
@@ -2165,7 +5333,50 @@
           "rarity": "C",
           "block": "4",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP14-073.png",
-          "source": "bandai"
+          "cardSet": "-THE AZURE SEA’S SEVEN- [OP14-EB04]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              671408
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "Machvise",
+            "match": "image-only-candidate",
+            "distance": 5
+          },
+          "artist": "kankurou"
+        },
+        {
+          "id": "OP14-073~tcg671833",
+          "set": "OP14-EB04-RE",
+          "rarity": "C",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/671833_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              671833
+            ]
+          },
+          "tcgplayer": {
+            "name": "Machvise",
+            "match": "minted",
+            "distance": 5
+          },
+          "artOf": "OP14-073",
+          "finishes": [
+            "nonfoil"
+          ],
+          "promoTypes": [
+            {
+              "type": "release",
+              "category": "event"
+            }
+          ],
+          "artist": "kankurou"
         }
       ]
     },
@@ -2193,7 +5404,22 @@
           "rarity": "R",
           "block": "4",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP14-074.png",
-          "source": "bandai"
+          "cardSet": "-THE AZURE SEA’S SEVEN- [OP14-EB04]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              671409
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Monet",
+            "match": "image-only-candidate",
+            "distance": 6
+          },
+          "artist": "kou takase"
         },
         {
           "id": "OP14-074_p1",
@@ -2201,7 +5427,28 @@
           "rarity": "R",
           "block": "4",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP14-074_p1.png",
-          "source": "bandai"
+          "cardSet": "OP14-EB04 Dash Pack Campaign",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              672376
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Monet (Dash Pack)",
+            "match": "image-other-set",
+            "distance": 3
+          },
+          "promoTypes": [
+            {
+              "type": "retail_product",
+              "category": "retail"
+            }
+          ],
+          "artist": "kou takase"
         }
       ]
     },
@@ -2228,7 +5475,50 @@
           "rarity": "C",
           "block": "4",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP14-075.png",
-          "source": "bandai"
+          "cardSet": "-THE AZURE SEA’S SEVEN- [OP14-EB04]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              671410
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "Lao.G",
+            "match": "image-only-candidate",
+            "distance": 4
+          },
+          "artist": "Hayaken-sarena"
+        },
+        {
+          "id": "OP14-075~tcg671834",
+          "set": "OP14-EB04-RE",
+          "rarity": "C",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/671834_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              671834
+            ]
+          },
+          "tcgplayer": {
+            "name": "Lao.G",
+            "match": "minted",
+            "distance": 4
+          },
+          "artOf": "OP14-075",
+          "finishes": [
+            "nonfoil"
+          ],
+          "promoTypes": [
+            {
+              "type": "release",
+              "category": "event"
+            }
+          ],
+          "artist": "Hayaken-sarena"
         }
       ]
     },
@@ -2251,7 +5541,21 @@
           "rarity": "R",
           "block": "4",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP14-076.png",
-          "source": "bandai"
+          "cardSet": "-THE AZURE SEA’S SEVEN- [OP14-EB04]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              671411
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Ever White",
+            "match": "image-only-candidate",
+            "distance": 6
+          }
         }
       ]
     },
@@ -2274,7 +5578,48 @@
           "rarity": "UC",
           "block": "4",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP14-077.png",
-          "source": "bandai"
+          "cardSet": "-THE AZURE SEA’S SEVEN- [OP14-EB04]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              671412
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "Penta-Chromatic String",
+            "match": "image-only-candidate",
+            "distance": 7
+          }
+        },
+        {
+          "id": "OP14-077~tcg671871",
+          "set": "OP14-EB04-RE",
+          "rarity": "UC",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/671871_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              671871
+            ]
+          },
+          "tcgplayer": {
+            "name": "Penta-Chromatic String",
+            "match": "minted",
+            "distance": 7
+          },
+          "artOf": "OP14-077",
+          "finishes": [
+            "nonfoil"
+          ],
+          "promoTypes": [
+            {
+              "type": "release",
+              "category": "event"
+            }
+          ]
         }
       ]
     },
@@ -2297,7 +5642,48 @@
           "rarity": "C",
           "block": "4",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP14-078.png",
-          "source": "bandai"
+          "cardSet": "-THE AZURE SEA’S SEVEN- [OP14-EB04]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              671413
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "Bullet String",
+            "match": "image-only-candidate",
+            "distance": 6
+          }
+        },
+        {
+          "id": "OP14-078~tcg671835",
+          "set": "OP14-EB04-RE",
+          "rarity": "C",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/671835_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              671835
+            ]
+          },
+          "tcgplayer": {
+            "name": "Bullet String",
+            "match": "minted",
+            "distance": 6
+          },
+          "artOf": "OP14-078",
+          "finishes": [
+            "nonfoil"
+          ],
+          "promoTypes": [
+            {
+              "type": "release",
+              "category": "event"
+            }
+          ]
         }
       ]
     },
@@ -2324,7 +5710,22 @@
           "rarity": "L",
           "block": "4",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP14-079.png",
-          "source": "bandai"
+          "cardSet": "-THE AZURE SEA’S SEVEN- [OP14-EB04]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              666761
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "Crocodile - OP14-079",
+            "match": "image",
+            "distance": 9
+          },
+          "artist": "Akiko Sugizono"
         },
         {
           "id": "OP14-079_p1",
@@ -2332,7 +5733,25 @@
           "rarity": "L",
           "block": "4",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP14-079_p1.png",
-          "source": "bandai"
+          "cardSet": "-THE AZURE SEA’S SEVEN- [OP14-EB04]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              666762
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Crocodile - OP14-079 (Alternate Art)",
+            "match": "image",
+            "distance": 4
+          },
+          "treatments": [
+            "alternate_art"
+          ],
+          "artist": "tatsuya"
         }
       ]
     },
@@ -2360,7 +5779,22 @@
           "rarity": "L",
           "block": "4",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP14-080.png",
-          "source": "bandai"
+          "cardSet": "-THE AZURE SEA’S SEVEN- [OP14-EB04]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              666572
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "Gecko Moria - OP14-080",
+            "match": "image",
+            "distance": 5
+          },
+          "artist": "Wataru Matsumi"
         },
         {
           "id": "OP14-080_p1",
@@ -2368,7 +5802,25 @@
           "rarity": "L",
           "block": "4",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP14-080_p1.png",
-          "source": "bandai"
+          "cardSet": "-THE AZURE SEA’S SEVEN- [OP14-EB04]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              666573
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Gecko Moria - OP14-080 (Alternate Art)",
+            "match": "image",
+            "distance": 5
+          },
+          "treatments": [
+            "alternate_art"
+          ],
+          "artist": "SENNSU"
         }
       ]
     },
@@ -2395,7 +5847,50 @@
           "rarity": "C",
           "block": "4",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP14-081.png",
-          "source": "bandai"
+          "cardSet": "-THE AZURE SEA’S SEVEN- [OP14-EB04]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              671414
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "Spider Mice",
+            "match": "image-only-candidate",
+            "distance": 3
+          },
+          "artist": "KISUKE"
+        },
+        {
+          "id": "OP14-081~tcg671836",
+          "set": "OP14-EB04-RE",
+          "rarity": "C",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/671836_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              671836
+            ]
+          },
+          "tcgplayer": {
+            "name": "Spider Mice",
+            "match": "minted",
+            "distance": 3
+          },
+          "artOf": "OP14-081",
+          "finishes": [
+            "nonfoil"
+          ],
+          "promoTypes": [
+            {
+              "type": "release",
+              "category": "event"
+            }
+          ],
+          "artist": "KISUKE"
         }
       ]
     },
@@ -2422,7 +5917,50 @@
           "rarity": "C",
           "block": "4",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP14-082.png",
-          "source": "bandai"
+          "cardSet": "-THE AZURE SEA’S SEVEN- [OP14-EB04]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              671415
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "Oinkchuck",
+            "match": "image-only-candidate",
+            "distance": 4
+          },
+          "artist": "SHINRA AGENCY Co. Ltd."
+        },
+        {
+          "id": "OP14-082~tcg671837",
+          "set": "OP14-EB04-RE",
+          "rarity": "C",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/671837_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              671837
+            ]
+          },
+          "tcgplayer": {
+            "name": "Oinkchuck",
+            "match": "minted",
+            "distance": 4
+          },
+          "artOf": "OP14-082",
+          "finishes": [
+            "nonfoil"
+          ],
+          "promoTypes": [
+            {
+              "type": "release",
+              "category": "event"
+            }
+          ],
+          "artist": "SHINRA AGENCY Co. Ltd."
         }
       ]
     },
@@ -2449,7 +5987,50 @@
           "rarity": "UC",
           "block": "4",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP14-083.png",
-          "source": "bandai"
+          "cardSet": "-THE AZURE SEA’S SEVEN- [OP14-EB04]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              671416
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "Ms. Wednesday",
+            "match": "image-only-candidate",
+            "distance": 5
+          },
+          "artist": "kicori"
+        },
+        {
+          "id": "OP14-083~tcg671872",
+          "set": "OP14-EB04-RE",
+          "rarity": "UC",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/671872_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              671872
+            ]
+          },
+          "tcgplayer": {
+            "name": "Ms. Wednesday",
+            "match": "minted",
+            "distance": 5
+          },
+          "artOf": "OP14-083",
+          "finishes": [
+            "nonfoil"
+          ],
+          "promoTypes": [
+            {
+              "type": "release",
+              "category": "event"
+            }
+          ],
+          "artist": "kicori"
         }
       ]
     },
@@ -2475,7 +6056,22 @@
           "rarity": "SR",
           "block": "4",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP14-084.png",
-          "source": "bandai"
+          "cardSet": "-THE AZURE SEA’S SEVEN- [OP14-EB04]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              666912
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Ms. All Sunday",
+            "match": "image",
+            "distance": 3
+          },
+          "artist": "Daisuke Enoshima"
         },
         {
           "id": "OP14-084_p1",
@@ -2483,7 +6079,25 @@
           "rarity": "SR",
           "block": "4",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP14-084_p1.png",
-          "source": "bandai"
+          "cardSet": "-THE AZURE SEA’S SEVEN- [OP14-EB04]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              666913
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Ms. All Sunday (Alternate Art)",
+            "match": "image",
+            "distance": 6
+          },
+          "treatments": [
+            "alternate_art"
+          ],
+          "artist": "Sunohara"
         },
         {
           "id": "OP14-084_p2",
@@ -2491,7 +6105,25 @@
           "rarity": "SP CARD",
           "block": "4",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP14-084_p2.png",
-          "source": "bandai"
+          "cardSet": "-THE TIME OF BATTLE- [OP-16]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              695324
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Ms. All Sunday (SP)",
+            "match": "image-only-candidate",
+            "distance": 2
+          },
+          "treatments": [
+            "sp"
+          ],
+          "artist": "Sunohara"
         }
       ]
     },
@@ -2518,7 +6150,50 @@
           "rarity": "UC",
           "block": "4",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP14-085.png",
-          "source": "bandai"
+          "cardSet": "-THE AZURE SEA’S SEVEN- [OP14-EB04]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              671417
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "Miss.Goldenweek(Marianne)",
+            "match": "image-only-candidate",
+            "distance": 4
+          },
+          "artist": "Akihiro MIYANO"
+        },
+        {
+          "id": "OP14-085~tcg671873",
+          "set": "OP14-EB04-RE",
+          "rarity": "UC",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/671873_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              671873
+            ]
+          },
+          "tcgplayer": {
+            "name": "Miss.Goldenweek(Marianne)",
+            "match": "minted",
+            "distance": 4
+          },
+          "artOf": "OP14-085",
+          "finishes": [
+            "nonfoil"
+          ],
+          "promoTypes": [
+            {
+              "type": "release",
+              "category": "event"
+            }
+          ],
+          "artist": "Akihiro MIYANO"
         }
       ]
     },
@@ -2545,7 +6220,50 @@
           "rarity": "C",
           "block": "4",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP14-086.png",
-          "source": "bandai"
+          "cardSet": "-THE AZURE SEA’S SEVEN- [OP14-EB04]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              671418
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "Miss Doublefinger(Zala)",
+            "match": "image-only-candidate",
+            "distance": 4
+          },
+          "artist": "Hatori Kyoka"
+        },
+        {
+          "id": "OP14-086~tcg671838",
+          "set": "OP14-EB04-RE",
+          "rarity": "C",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/671838_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              671838
+            ]
+          },
+          "tcgplayer": {
+            "name": "Miss Doublefinger(Zala)",
+            "match": "minted",
+            "distance": 4
+          },
+          "artOf": "OP14-086",
+          "finishes": [
+            "nonfoil"
+          ],
+          "promoTypes": [
+            {
+              "type": "release",
+              "category": "event"
+            }
+          ],
+          "artist": "Hatori Kyoka"
         }
       ]
     },
@@ -2572,7 +6290,22 @@
           "rarity": "R",
           "block": "4",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP14-087.png",
-          "source": "bandai"
+          "cardSet": "-THE AZURE SEA’S SEVEN- [OP14-EB04]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              671419
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Miss.Valentine(Mikita)",
+            "match": "image-only-candidate",
+            "distance": 6
+          },
+          "artist": "kicori"
         },
         {
           "id": "OP14-087_p1",
@@ -2580,7 +6313,80 @@
           "rarity": "R",
           "block": "4",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP14-087_p1.png",
-          "source": "bandai"
+          "cardSet": "OP14-EB04 Dash Pack Campaign",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              672377
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Miss.Valentine(Mikita) (Dash Pack)",
+            "match": "image-other-set",
+            "distance": 6
+          },
+          "promoTypes": [
+            {
+              "type": "retail_product",
+              "category": "retail"
+            }
+          ],
+          "artist": "kicori"
+        },
+        {
+          "id": "OP14-087~tcg708452",
+          "set": "P",
+          "rarity": "R",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/708452_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              708452
+            ]
+          },
+          "tcgplayer": {
+            "name": "Miss.Valentine(Mikita) (Tournament Pack 2026 Vol. 3)",
+            "match": "minted",
+            "distance": null
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "promoTypes": [
+            {
+              "type": "event_pack",
+              "category": "event"
+            }
+          ]
+        },
+        {
+          "id": "OP14-087~tcg708453",
+          "set": "P",
+          "rarity": "R",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/708453_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              708453
+            ]
+          },
+          "tcgplayer": {
+            "name": "Miss.Valentine(Mikita) (Winner Pack 2026 Vol. 3)",
+            "match": "minted",
+            "distance": null
+          },
+          "finishes": [
+            "foil"
+          ],
+          "promoTypes": [
+            {
+              "type": "placement",
+              "category": "placement"
+            }
+          ]
         }
       ]
     },
@@ -2607,7 +6413,50 @@
           "rarity": "C",
           "block": "4",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP14-088.png",
-          "source": "bandai"
+          "cardSet": "-THE AZURE SEA’S SEVEN- [OP14-EB04]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              671420
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "Miss.MerryChristmas(Drophy)",
+            "match": "image-only-candidate",
+            "distance": 4
+          },
+          "artist": "Haru Miyajima"
+        },
+        {
+          "id": "OP14-088~tcg671839",
+          "set": "OP14-EB04-RE",
+          "rarity": "C",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/671839_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              671839
+            ]
+          },
+          "tcgplayer": {
+            "name": "Miss.MerryChristmas(Drophy)",
+            "match": "minted",
+            "distance": 4
+          },
+          "artOf": "OP14-088",
+          "finishes": [
+            "nonfoil"
+          ],
+          "promoTypes": [
+            {
+              "type": "release",
+              "category": "event"
+            }
+          ],
+          "artist": "Haru Miyajima"
         }
       ]
     },
@@ -2634,7 +6483,50 @@
           "rarity": "C",
           "block": "4",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP14-089.png",
-          "source": "bandai"
+          "cardSet": "-THE AZURE SEA’S SEVEN- [OP14-EB04]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              671421
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "Ryuma",
+            "match": "image-only-candidate",
+            "distance": 6
+          },
+          "artist": "Studio Vigor Co. Ltd"
+        },
+        {
+          "id": "OP14-089~tcg671840",
+          "set": "OP14-EB04-RE",
+          "rarity": "C",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/671840_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              671840
+            ]
+          },
+          "tcgplayer": {
+            "name": "Ryuma",
+            "match": "minted",
+            "distance": 6
+          },
+          "artOf": "OP14-089",
+          "finishes": [
+            "nonfoil"
+          ],
+          "promoTypes": [
+            {
+              "type": "release",
+              "category": "event"
+            }
+          ],
+          "artist": "Studio Vigor Co. Ltd"
         }
       ]
     },
@@ -2661,7 +6553,22 @@
           "rarity": "R",
           "block": "4",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP14-090.png",
-          "source": "bandai"
+          "cardSet": "-THE AZURE SEA’S SEVEN- [OP14-EB04]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              671422
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Mr.1(Daz.Bonez)",
+            "match": "image",
+            "distance": 3
+          },
+          "artist": "SENNSU"
         },
         {
           "id": "OP14-090_p1",
@@ -2669,7 +6576,25 @@
           "rarity": "R",
           "block": "4",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP14-090_p1.png",
-          "source": "bandai"
+          "cardSet": "-THE AZURE SEA’S SEVEN- [OP14-EB04]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              670630
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Mr.1 (Daz.Bonez) (Alternate Art)",
+            "match": "image",
+            "distance": 2
+          },
+          "treatments": [
+            "alternate_art"
+          ],
+          "artist": "tatsuya"
         }
       ]
     },
@@ -2696,7 +6621,22 @@
           "rarity": "SR",
           "block": "4",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP14-091.png",
-          "source": "bandai"
+          "cardSet": "-THE AZURE SEA’S SEVEN- [OP14-EB04]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              670639
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Mr.2.Bon.Kurei (Bentham)",
+            "match": "image",
+            "distance": 6
+          },
+          "artist": "Matsumoto Akira"
         },
         {
           "id": "OP14-091_p1",
@@ -2704,7 +6644,25 @@
           "rarity": "SR",
           "block": "4",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP14-091_p1.png",
-          "source": "bandai"
+          "cardSet": "-THE AZURE SEA’S SEVEN- [OP14-EB04]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              670640
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Mr.2.Bon.Kurei (Bentham) (Alternate Art)",
+            "match": "image",
+            "distance": 6
+          },
+          "treatments": [
+            "alternate_art"
+          ],
+          "artist": "otton"
         }
       ]
     },
@@ -2730,7 +6688,22 @@
           "rarity": "R",
           "block": "4",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP14-092.png",
-          "source": "bandai"
+          "cardSet": "-THE AZURE SEA’S SEVEN- [OP14-EB04]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              671423
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Mr.3(Galdino)",
+            "match": "image-only-candidate",
+            "distance": 3
+          },
+          "artist": "KISUKE"
         }
       ]
     },
@@ -2757,7 +6730,50 @@
           "rarity": "C",
           "block": "4",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP14-093.png",
-          "source": "bandai"
+          "cardSet": "-THE AZURE SEA’S SEVEN- [OP14-EB04]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              671424
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "Mr.4(Babe)",
+            "match": "image-only-candidate",
+            "distance": 6
+          },
+          "artist": "S-KINOKO"
+        },
+        {
+          "id": "OP14-093~tcg671841",
+          "set": "OP14-EB04-RE",
+          "rarity": "C",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/671841_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              671841
+            ]
+          },
+          "tcgplayer": {
+            "name": "Mr.4(Babe)",
+            "match": "minted",
+            "distance": 6
+          },
+          "artOf": "OP14-093",
+          "finishes": [
+            "nonfoil"
+          ],
+          "promoTypes": [
+            {
+              "type": "release",
+              "category": "event"
+            }
+          ],
+          "artist": "S-KINOKO"
         }
       ]
     },
@@ -2784,7 +6800,50 @@
           "rarity": "UC",
           "block": "4",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP14-094.png",
-          "source": "bandai"
+          "cardSet": "-THE AZURE SEA’S SEVEN- [OP14-EB04]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              671425
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "Mr.5(Gem)",
+            "match": "image-only-candidate",
+            "distance": 3
+          },
+          "artist": "Moopic"
+        },
+        {
+          "id": "OP14-094~tcg671874",
+          "set": "OP14-EB04-RE",
+          "rarity": "UC",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/671874_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              671874
+            ]
+          },
+          "tcgplayer": {
+            "name": "Mr.5(Gem)",
+            "match": "minted",
+            "distance": 3
+          },
+          "artOf": "OP14-094",
+          "finishes": [
+            "nonfoil"
+          ],
+          "promoTypes": [
+            {
+              "type": "release",
+              "category": "event"
+            }
+          ],
+          "artist": "Moopic"
         }
       ]
     },
@@ -2811,7 +6870,50 @@
           "rarity": "C",
           "block": "4",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP14-095.png",
-          "source": "bandai"
+          "cardSet": "-THE AZURE SEA’S SEVEN- [OP14-EB04]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              671426
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "Mr.9",
+            "match": "image-only-candidate",
+            "distance": 4
+          },
+          "artist": "ASAKI KURODA"
+        },
+        {
+          "id": "OP14-095~tcg671842",
+          "set": "OP14-EB04-RE",
+          "rarity": "C",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/671842_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              671842
+            ]
+          },
+          "tcgplayer": {
+            "name": "Mr.9",
+            "match": "minted",
+            "distance": 4
+          },
+          "artOf": "OP14-095",
+          "finishes": [
+            "nonfoil"
+          ],
+          "promoTypes": [
+            {
+              "type": "release",
+              "category": "event"
+            }
+          ],
+          "artist": "ASAKI KURODA"
         }
       ]
     },
@@ -2834,7 +6936,21 @@
           "rarity": "R",
           "block": "4",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP14-096.png",
-          "source": "bandai"
+          "cardSet": "-THE AZURE SEA’S SEVEN- [OP14-EB04]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              671427
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Ground Death",
+            "match": "image",
+            "distance": 6
+          }
         },
         {
           "id": "OP14-096_p1",
@@ -2842,7 +6958,24 @@
           "rarity": "R",
           "block": "4",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP14-096_p1.png",
-          "source": "bandai"
+          "cardSet": "-THE AZURE SEA’S SEVEN- [OP14-EB04]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              670874
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Ground Death (Alternate Art)",
+            "match": "image",
+            "distance": 3
+          },
+          "treatments": [
+            "alternate_art"
+          ]
         }
       ]
     },
@@ -2865,7 +6998,48 @@
           "rarity": "UC",
           "block": "4",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP14-097.png",
-          "source": "bandai"
+          "cardSet": "-THE AZURE SEA’S SEVEN- [OP14-EB04]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              671428
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "Hurry Up and Make Me the Pirate King!",
+            "match": "image-only-candidate",
+            "distance": 5
+          }
+        },
+        {
+          "id": "OP14-097~tcg671875",
+          "set": "OP14-EB04-RE",
+          "rarity": "UC",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/671875_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              671875
+            ]
+          },
+          "tcgplayer": {
+            "name": "Hurry Up and Make Me the Pirate King!",
+            "match": "minted",
+            "distance": 5
+          },
+          "artOf": "OP14-097",
+          "finishes": [
+            "nonfoil"
+          ],
+          "promoTypes": [
+            {
+              "type": "release",
+              "category": "event"
+            }
+          ]
         }
       ]
     },
@@ -2888,7 +7062,48 @@
           "rarity": "C",
           "block": "4",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP14-098.png",
-          "source": "bandai"
+          "cardSet": "-THE AZURE SEA’S SEVEN- [OP14-EB04]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              671429
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "Crescent Cutlass",
+            "match": "image-only-candidate",
+            "distance": 8
+          }
+        },
+        {
+          "id": "OP14-098~tcg671843",
+          "set": "OP14-EB04-RE",
+          "rarity": "C",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/671843_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              671843
+            ]
+          },
+          "tcgplayer": {
+            "name": "Crescent Cutlass",
+            "match": "minted",
+            "distance": 8
+          },
+          "artOf": "OP14-098",
+          "finishes": [
+            "nonfoil"
+          ],
+          "promoTypes": [
+            {
+              "type": "release",
+              "category": "event"
+            }
+          ]
         }
       ]
     },
@@ -2911,7 +7126,21 @@
           "rarity": "UC",
           "block": "4",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP14-099.png",
-          "source": "bandai"
+          "cardSet": "-THE AZURE SEA’S SEVEN- [OP14-EB04]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              671430
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "Disappointed?",
+            "match": "image-only-candidate",
+            "distance": 6
+          }
         },
         {
           "id": "OP14-099_p1",
@@ -2919,7 +7148,55 @@
           "rarity": "UC",
           "block": "4",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP14-099_p1.png",
-          "source": "bandai"
+          "cardSet": "Premium Card Collection -Best Selection Vol.6-",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              694883
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Disappointed? (Premium Card Collection -Best Selection Vol. 6-)",
+            "match": "image",
+            "distance": 6
+          },
+          "promoTypes": [
+            {
+              "type": "retail_product",
+              "category": "retail"
+            }
+          ],
+          "artist": "Studio Vigor Co. Ltd"
+        },
+        {
+          "id": "OP14-099~tcg671876",
+          "set": "OP14-EB04-RE",
+          "rarity": "UC",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/671876_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              671876
+            ]
+          },
+          "tcgplayer": {
+            "name": "Disappointed?",
+            "match": "minted",
+            "distance": 6
+          },
+          "artOf": "OP14-099",
+          "finishes": [
+            "nonfoil"
+          ],
+          "promoTypes": [
+            {
+              "type": "release",
+              "category": "event"
+            }
+          ]
         }
       ]
     },
@@ -2945,7 +7222,22 @@
           "rarity": "R",
           "block": "4",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP14-100.png",
-          "source": "bandai"
+          "cardSet": "-THE AZURE SEA’S SEVEN- [OP14-EB04]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              671431
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Absalom",
+            "match": "image-only-candidate",
+            "distance": 4
+          },
+          "artist": "Morechand"
         }
       ]
     },
@@ -2973,7 +7265,50 @@
           "rarity": "C",
           "block": "4",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP14-101.png",
-          "source": "bandai"
+          "cardSet": "-THE AZURE SEA’S SEVEN- [OP14-EB04]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              671432
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "Oars",
+            "match": "image-only-candidate",
+            "distance": 5
+          },
+          "artist": "kankurou"
+        },
+        {
+          "id": "OP14-101~tcg671844",
+          "set": "OP14-EB04-RE",
+          "rarity": "C",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/671844_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              671844
+            ]
+          },
+          "tcgplayer": {
+            "name": "Oars",
+            "match": "minted",
+            "distance": 5
+          },
+          "artOf": "OP14-101",
+          "finishes": [
+            "nonfoil"
+          ],
+          "promoTypes": [
+            {
+              "type": "release",
+              "category": "event"
+            }
+          ],
+          "artist": "kankurou"
         }
       ]
     },
@@ -3000,7 +7335,50 @@
           "rarity": "C",
           "block": "4",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP14-102.png",
-          "source": "bandai"
+          "cardSet": "-THE AZURE SEA’S SEVEN- [OP14-EB04]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              671433
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "Kumacy",
+            "match": "image-only-candidate",
+            "distance": 2
+          },
+          "artist": "Yuu Shimotsuki"
+        },
+        {
+          "id": "OP14-102~tcg671845",
+          "set": "OP14-EB04-RE",
+          "rarity": "C",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/671845_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              671845
+            ]
+          },
+          "tcgplayer": {
+            "name": "Kumacy",
+            "match": "minted",
+            "distance": 2
+          },
+          "artOf": "OP14-102",
+          "finishes": [
+            "nonfoil"
+          ],
+          "promoTypes": [
+            {
+              "type": "release",
+              "category": "event"
+            }
+          ],
+          "artist": "Yuu Shimotsuki"
         }
       ]
     },
@@ -3026,7 +7404,50 @@
           "rarity": "C",
           "block": "4",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP14-103.png",
-          "source": "bandai"
+          "cardSet": "-THE AZURE SEA’S SEVEN- [OP14-EB04]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              671434
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "Gloriosa (Grandma Nyon)",
+            "match": "image-only-candidate",
+            "distance": 4
+          },
+          "artist": "HISASHI HUJIWARA"
+        },
+        {
+          "id": "OP14-103~tcg671846",
+          "set": "OP14-EB04-RE",
+          "rarity": "C",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/671846_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              671846
+            ]
+          },
+          "tcgplayer": {
+            "name": "Gloriosa (Grandma Nyon)",
+            "match": "minted",
+            "distance": 4
+          },
+          "artOf": "OP14-103",
+          "finishes": [
+            "nonfoil"
+          ],
+          "promoTypes": [
+            {
+              "type": "release",
+              "category": "event"
+            }
+          ],
+          "artist": "HISASHI HUJIWARA"
         }
       ]
     },
@@ -3053,7 +7474,22 @@
           "rarity": "SR",
           "block": "4",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP14-104.png",
-          "source": "bandai"
+          "cardSet": "-THE AZURE SEA’S SEVEN- [OP14-EB04]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              666574
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Gecko Moria - OP14-104",
+            "match": "image",
+            "distance": 3
+          },
+          "artist": "Hayaken-sarena"
         },
         {
           "id": "OP14-104_p1",
@@ -3061,7 +7497,25 @@
           "rarity": "SR",
           "block": "4",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP14-104_p1.png",
-          "source": "bandai"
+          "cardSet": "-THE AZURE SEA’S SEVEN- [OP14-EB04]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              666575
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Gecko Moria - OP14-104 (Alternate Art)",
+            "match": "image",
+            "distance": 8
+          },
+          "treatments": [
+            "alternate_art"
+          ],
+          "artist": "Hokuyuu"
         }
       ]
     },
@@ -3090,7 +7544,102 @@
           "rarity": "UC",
           "block": "4",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP14-105.png",
-          "source": "bandai"
+          "cardSet": "-THE AZURE SEA’S SEVEN- [OP14-EB04]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              671435
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "Gorgon Sisters",
+            "match": "image-only-candidate",
+            "distance": 7
+          },
+          "artist": "Misa Matoki"
+        },
+        {
+          "id": "OP14-105~tcg671877",
+          "set": "OP14-EB04-RE",
+          "rarity": "UC",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/671877_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              671877
+            ]
+          },
+          "tcgplayer": {
+            "name": "Gorgon Sisters",
+            "match": "minted",
+            "distance": 7
+          },
+          "artOf": "OP14-105",
+          "finishes": [
+            "nonfoil"
+          ],
+          "promoTypes": [
+            {
+              "type": "release",
+              "category": "event"
+            }
+          ],
+          "artist": "Misa Matoki"
+        },
+        {
+          "id": "OP14-105~tcg708457",
+          "set": "P",
+          "rarity": "UC",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/708457_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              708457
+            ]
+          },
+          "tcgplayer": {
+            "name": "Gorgon Sisters (Tournament Pack 2026 Vol. 3)",
+            "match": "minted",
+            "distance": null
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "promoTypes": [
+            {
+              "type": "event_pack",
+              "category": "event"
+            }
+          ]
+        },
+        {
+          "id": "OP14-105~tcg708459",
+          "set": "P",
+          "rarity": "UC",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/708459_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              708459
+            ]
+          },
+          "tcgplayer": {
+            "name": "Gorgon Sisters (Winner Pack 2026 Vol. 3)",
+            "match": "minted",
+            "distance": null
+          },
+          "finishes": [
+            "foil"
+          ],
+          "promoTypes": [
+            {
+              "type": "placement",
+              "category": "placement"
+            }
+          ]
         }
       ]
     },
@@ -3118,7 +7667,50 @@
           "rarity": "C",
           "block": "4",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP14-106.png",
-          "source": "bandai"
+          "cardSet": "-THE AZURE SEA’S SEVEN- [OP14-EB04]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              671436
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "Salome",
+            "match": "image-only-candidate",
+            "distance": 4
+          },
+          "artist": "shosuke"
+        },
+        {
+          "id": "OP14-106~tcg671847",
+          "set": "OP14-EB04-RE",
+          "rarity": "C",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/671847_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              671847
+            ]
+          },
+          "tcgplayer": {
+            "name": "Salome",
+            "match": "minted",
+            "distance": 4
+          },
+          "artOf": "OP14-106",
+          "finishes": [
+            "nonfoil"
+          ],
+          "promoTypes": [
+            {
+              "type": "release",
+              "category": "event"
+            }
+          ],
+          "artist": "shosuke"
         }
       ]
     },
@@ -3145,7 +7737,22 @@
           "rarity": "UC",
           "block": "4",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP14-107.png",
-          "source": "bandai"
+          "cardSet": "-THE AZURE SEA’S SEVEN- [OP14-EB04]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              671437
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "Shakuyaku",
+            "match": "image-only-candidate",
+            "distance": 3
+          },
+          "artist": "Morechand"
         },
         {
           "id": "OP14-107_p1",
@@ -3153,7 +7760,143 @@
           "rarity": "UC",
           "block": "4",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP14-107_p1.png",
-          "source": "bandai"
+          "cardSet": "Illustration Box Vol.7",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              709096
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Shakuyaku (One Piece Card Game Illustration Box Vol. 7)",
+            "match": "image",
+            "distance": 6
+          },
+          "promoTypes": [
+            {
+              "type": "retail_product",
+              "category": "retail"
+            }
+          ],
+          "artist": "tessy"
+        },
+        {
+          "id": "OP14-107~tcg671878",
+          "set": "OP14-EB04-RE",
+          "rarity": "UC",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/671878_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              671878
+            ]
+          },
+          "tcgplayer": {
+            "name": "Shakuyaku",
+            "match": "minted",
+            "distance": 3
+          },
+          "artOf": "OP14-107",
+          "finishes": [
+            "nonfoil"
+          ],
+          "promoTypes": [
+            {
+              "type": "release",
+              "category": "event"
+            }
+          ],
+          "artist": "Morechand"
+        },
+        {
+          "id": "OP14-107~tcg710731",
+          "set": "P",
+          "rarity": "UC",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/710731_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              710731
+            ]
+          },
+          "tcgplayer": {
+            "name": "Shakuyaku (Regional Participation Pack 2026 Vol.2)",
+            "match": "minted",
+            "distance": null
+          },
+          "finishes": [
+            "foil"
+          ],
+          "promoTypes": [
+            {
+              "type": "championship",
+              "category": "championship"
+            },
+            {
+              "type": "event_pack",
+              "category": "event"
+            }
+          ]
+        },
+        {
+          "id": "OP14-107~tcg710732",
+          "set": "P",
+          "rarity": "UC",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/710732_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              710732
+            ]
+          },
+          "tcgplayer": {
+            "name": "Shakuyaku (Regionals Finalist Card Set 26-27 Vol.2)",
+            "match": "minted",
+            "distance": null
+          },
+          "finishes": [
+            "foil"
+          ],
+          "promoTypes": [
+            {
+              "type": "championship",
+              "category": "championship"
+            },
+            {
+              "type": "placement",
+              "category": "placement"
+            }
+          ]
+        },
+        {
+          "id": "OP14-107~tcg710737",
+          "set": "P",
+          "rarity": "UC",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/710737_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              710737
+            ]
+          },
+          "tcgplayer": {
+            "name": "Shakuyaku (Regionals Champion Card Set 26-27 Vol.2)",
+            "match": "minted",
+            "distance": null
+          },
+          "promoTypes": [
+            {
+              "type": "championship",
+              "category": "championship"
+            },
+            {
+              "type": "placement",
+              "category": "placement"
+            }
+          ]
         }
       ]
     },
@@ -3180,7 +7923,22 @@
           "rarity": "R",
           "block": "4",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP14-108.png",
-          "source": "bandai"
+          "cardSet": "-THE AZURE SEA’S SEVEN- [OP14-EB04]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              671438
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Silvers Rayleigh",
+            "match": "image-only-candidate",
+            "distance": 5
+          },
+          "artist": "eiji kaneda"
         },
         {
           "id": "OP14-108_p1",
@@ -3188,7 +7946,28 @@
           "rarity": "R",
           "block": "4",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP14-108_p1.png",
-          "source": "bandai"
+          "cardSet": "Illustration Box Vol.7",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              709094
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Silvers Rayleigh (One Piece Card Game Illustration Box Vol. 7)",
+            "match": "image",
+            "distance": 6
+          },
+          "promoTypes": [
+            {
+              "type": "retail_product",
+              "category": "retail"
+            }
+          ],
+          "artist": "eiji kaneda"
         },
         {
           "id": "OP14-108_p2",
@@ -3196,7 +7975,28 @@
           "rarity": "R",
           "block": "4",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP14-108_p2.png",
-          "source": "bandai"
+          "cardSet": "OP14-EB04 Dash Pack Campaign",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              672378
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Silvers Rayleigh (Dash Pack)",
+            "match": "image-other-set",
+            "distance": 2
+          },
+          "promoTypes": [
+            {
+              "type": "retail_product",
+              "category": "retail"
+            }
+          ],
+          "artist": "tessy"
         },
         {
           "id": "OP14-108_p3",
@@ -3204,7 +8004,25 @@
           "rarity": "SP CARD",
           "block": "4",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP14-108_p3.png",
-          "source": "bandai"
+          "cardSet": "BOOSTER PACK -THE WORLD’S STRONGEST WARRIORS- [OP-17]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              712120
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Silvers Rayleigh (OP14-108) (SP)",
+            "match": "image-only-candidate",
+            "distance": 6
+          },
+          "treatments": [
+            "sp"
+          ],
+          "artist": "sakai/INO Ltd."
         }
       ]
     },
@@ -3231,7 +8049,50 @@
           "rarity": "C",
           "block": "4",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP14-109.png",
-          "source": "bandai"
+          "cardSet": "-THE AZURE SEA’S SEVEN- [OP14-EB04]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              671439
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "Victoria Cindry",
+            "match": "image-only-candidate",
+            "distance": 6
+          },
+          "artist": "Hagane Tsurugi"
+        },
+        {
+          "id": "OP14-109~tcg671848",
+          "set": "OP14-EB04-RE",
+          "rarity": "C",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/671848_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              671848
+            ]
+          },
+          "tcgplayer": {
+            "name": "Victoria Cindry",
+            "match": "minted",
+            "distance": 6
+          },
+          "artOf": "OP14-109",
+          "finishes": [
+            "nonfoil"
+          ],
+          "promoTypes": [
+            {
+              "type": "release",
+              "category": "event"
+            }
+          ],
+          "artist": "Hagane Tsurugi"
         }
       ]
     },
@@ -3258,7 +8119,22 @@
           "rarity": "R",
           "block": "4",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP14-110.png",
-          "source": "bandai"
+          "cardSet": "-THE AZURE SEA’S SEVEN- [OP14-EB04]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              671440
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Dr. Hogback",
+            "match": "image-only-candidate",
+            "distance": 3
+          },
+          "artist": "kankurou"
         }
       ]
     },
@@ -3285,7 +8161,22 @@
           "rarity": "R",
           "block": "4",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP14-111.png",
-          "source": "bandai"
+          "cardSet": "-THE AZURE SEA’S SEVEN- [OP14-EB04]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              671441
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Perona - OP14-111",
+            "match": "image",
+            "distance": 6
+          },
+          "artist": "Yuu Shimotsuki"
         },
         {
           "id": "OP14-111_p1",
@@ -3293,7 +8184,25 @@
           "rarity": "R",
           "block": "4",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP14-111_p1.png",
-          "source": "bandai"
+          "cardSet": "-THE AZURE SEA’S SEVEN- [OP14-EB04]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              670596
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Perona - OP14-111 (Alternate Art)",
+            "match": "image",
+            "distance": 4
+          },
+          "treatments": [
+            "alternate_art"
+          ],
+          "artist": "Koushi Rokushiro"
         }
       ]
     },
@@ -3320,7 +8229,22 @@
           "rarity": "SR",
           "block": "4",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP14-112.png",
-          "source": "bandai"
+          "cardSet": "-THE AZURE SEA’S SEVEN- [OP14-EB04]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              668342
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Boa Hancock - OP14-112",
+            "match": "image",
+            "distance": 3
+          },
+          "artist": "sho"
         },
         {
           "id": "OP14-112_p1",
@@ -3328,7 +8252,25 @@
           "rarity": "SR",
           "block": "4",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP14-112_p1.png",
-          "source": "bandai"
+          "cardSet": "-THE AZURE SEA’S SEVEN- [OP14-EB04]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              668343
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Boa Hancock - OP14-112 (Alternate Art)",
+            "match": "image",
+            "distance": 5
+          },
+          "treatments": [
+            "alternate_art"
+          ],
+          "artist": "PENEKOR"
         },
         {
           "id": "OP14-112_p2",
@@ -3336,7 +8278,51 @@
           "rarity": "SP CARD",
           "block": "4",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP14-112_p2.png",
-          "source": "bandai"
+          "cardSet": "-THE AZURE SEA’S SEVEN- [OP14-EB04]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              671457
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Boa Hancock - OP14-112 (SP)",
+            "match": "image",
+            "distance": 6
+          },
+          "treatments": [
+            "sp"
+          ],
+          "artist": "otton"
+        },
+        {
+          "id": "OP14-112~tcg684105",
+          "set": "P",
+          "rarity": "SR",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/684105_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              684105
+            ]
+          },
+          "tcgplayer": {
+            "name": "Boa Hancock (CS 26-27 Regionals Season 1)",
+            "match": "minted",
+            "distance": null
+          },
+          "finishes": [
+            "foil"
+          ],
+          "promoTypes": [
+            {
+              "type": "championship",
+              "category": "championship"
+            }
+          ]
         }
       ]
     },
@@ -3362,7 +8348,50 @@
           "rarity": "UC",
           "block": "4",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP14-113.png",
-          "source": "bandai"
+          "cardSet": "-THE AZURE SEA’S SEVEN- [OP14-EB04]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              671442
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "Marguerite",
+            "match": "image-only-candidate",
+            "distance": 4
+          },
+          "artist": "sho"
+        },
+        {
+          "id": "OP14-113~tcg671879",
+          "set": "OP14-EB04-RE",
+          "rarity": "UC",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/671879_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              671879
+            ]
+          },
+          "tcgplayer": {
+            "name": "Marguerite",
+            "match": "minted",
+            "distance": 4
+          },
+          "artOf": "OP14-113",
+          "finishes": [
+            "nonfoil"
+          ],
+          "promoTypes": [
+            {
+              "type": "release",
+              "category": "event"
+            }
+          ],
+          "artist": "sho"
         }
       ]
     },
@@ -3389,7 +8418,50 @@
           "rarity": "UC",
           "block": "4",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP14-114.png",
-          "source": "bandai"
+          "cardSet": "-THE AZURE SEA’S SEVEN- [OP14-EB04]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              671443
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "Ran",
+            "match": "image-only-candidate",
+            "distance": 3
+          },
+          "artist": "Nekobayashi"
+        },
+        {
+          "id": "OP14-114~tcg671880",
+          "set": "OP14-EB04-RE",
+          "rarity": "UC",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/671880_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              671880
+            ]
+          },
+          "tcgplayer": {
+            "name": "Ran",
+            "match": "minted",
+            "distance": 3
+          },
+          "artOf": "OP14-114",
+          "finishes": [
+            "nonfoil"
+          ],
+          "promoTypes": [
+            {
+              "type": "release",
+              "category": "event"
+            }
+          ],
+          "artist": "Nekobayashi"
         }
       ]
     },
@@ -3416,7 +8488,50 @@
           "rarity": "C",
           "block": "4",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP14-115.png",
-          "source": "bandai"
+          "cardSet": "-THE AZURE SEA’S SEVEN- [OP14-EB04]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              671444
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "Rindo",
+            "match": "image-only-candidate",
+            "distance": 5
+          },
+          "artist": "eiji kaneda"
+        },
+        {
+          "id": "OP14-115~tcg671849",
+          "set": "OP14-EB04-RE",
+          "rarity": "C",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/671849_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              671849
+            ]
+          },
+          "tcgplayer": {
+            "name": "Rindo",
+            "match": "minted",
+            "distance": 5
+          },
+          "artOf": "OP14-115",
+          "finishes": [
+            "nonfoil"
+          ],
+          "promoTypes": [
+            {
+              "type": "release",
+              "category": "event"
+            }
+          ],
+          "artist": "eiji kaneda"
         }
       ]
     },
@@ -3438,7 +8553,48 @@
           "rarity": "C",
           "block": "4",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP14-116.png",
-          "source": "bandai"
+          "cardSet": "-THE AZURE SEA’S SEVEN- [OP14-EB04]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              671445
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "Salamander",
+            "match": "image-only-candidate",
+            "distance": 11
+          }
+        },
+        {
+          "id": "OP14-116~tcg671850",
+          "set": "OP14-EB04-RE",
+          "rarity": "C",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/671850_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              671850
+            ]
+          },
+          "tcgplayer": {
+            "name": "Salamander",
+            "match": "minted",
+            "distance": 11
+          },
+          "artOf": "OP14-116",
+          "finishes": [
+            "nonfoil"
+          ],
+          "promoTypes": [
+            {
+              "type": "release",
+              "category": "event"
+            }
+          ]
         }
       ]
     },
@@ -3460,7 +8616,48 @@
           "rarity": "UC",
           "block": "4",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP14-117.png",
-          "source": "bandai"
+          "cardSet": "-THE AZURE SEA’S SEVEN- [OP14-EB04]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              671446
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "Brick Bat",
+            "match": "image-only-candidate",
+            "distance": 7
+          }
+        },
+        {
+          "id": "OP14-117~tcg671881",
+          "set": "OP14-EB04-RE",
+          "rarity": "UC",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/671881_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              671881
+            ]
+          },
+          "tcgplayer": {
+            "name": "Brick Bat",
+            "match": "minted",
+            "distance": 7
+          },
+          "artOf": "OP14-117",
+          "finishes": [
+            "nonfoil"
+          ],
+          "promoTypes": [
+            {
+              "type": "release",
+              "category": "event"
+            }
+          ]
         }
       ]
     },
@@ -3483,7 +8680,21 @@
           "rarity": "R",
           "block": "4",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP14-118.png",
-          "source": "bandai"
+          "cardSet": "-THE AZURE SEA’S SEVEN- [OP14-EB04]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              671447
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "You'll Frighten Me...",
+            "match": "image",
+            "distance": 6
+          }
         },
         {
           "id": "OP14-118_p1",
@@ -3491,7 +8702,24 @@
           "rarity": "R",
           "block": "4",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP14-118_p1.png",
-          "source": "bandai"
+          "cardSet": "-THE AZURE SEA’S SEVEN- [OP14-EB04]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              670875
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "You'll Frighten Me... (Alternate Art)",
+            "match": "image",
+            "distance": 5
+          },
+          "treatments": [
+            "alternate_art"
+          ]
         }
       ]
     },
@@ -3517,7 +8745,22 @@
           "rarity": "SEC",
           "block": "4",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP14-119.png",
-          "source": "bandai"
+          "cardSet": "-THE AZURE SEA’S SEVEN- [OP14-EB04]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              668641
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Dracule Mihawk - OP14-119",
+            "match": "image",
+            "distance": 5
+          },
+          "artist": "Akanegumo"
         },
         {
           "id": "OP14-119_p1",
@@ -3525,7 +8768,25 @@
           "rarity": "SEC",
           "block": "4",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP14-119_p1.png",
-          "source": "bandai"
+          "cardSet": "-THE AZURE SEA’S SEVEN- [OP14-EB04]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              668643
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Dracule Mihawk - OP14-119 (Alternate Art)",
+            "match": "image",
+            "distance": 4
+          },
+          "treatments": [
+            "alternate_art"
+          ],
+          "artist": "AKIRA EGAWA"
         },
         {
           "id": "OP14-119_p2",
@@ -3533,7 +8794,47 @@
           "rarity": "SEC",
           "block": "4",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP14-119_p2.png",
-          "source": "bandai"
+          "cardSet": "-THE AZURE SEA’S SEVEN- [OP14-EB04]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              671448
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Dracule Mihawk (Manga)",
+            "match": "image",
+            "distance": 3
+          },
+          "treatments": [
+            "manga"
+          ]
+        },
+        {
+          "id": "OP14-119~tcg684110",
+          "set": "P",
+          "rarity": "SEC",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/684110_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              684110
+            ]
+          },
+          "tcgplayer": {
+            "name": "Dracule Mihawk - (CS 26-27 Regionals Season 1)",
+            "match": "minted",
+            "distance": null
+          },
+          "promoTypes": [
+            {
+              "type": "championship",
+              "category": "championship"
+            }
+          ]
         }
       ]
     },
@@ -3560,7 +8861,22 @@
           "rarity": "SEC",
           "block": "4",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP14-120.png",
-          "source": "bandai"
+          "cardSet": "-THE AZURE SEA’S SEVEN- [OP14-EB04]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              668640
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Crocodile - OP14-120",
+            "match": "image",
+            "distance": 3
+          },
+          "artist": "Akanegumo"
         },
         {
           "id": "OP14-120_p1",
@@ -3568,7 +8884,51 @@
           "rarity": "SEC",
           "block": "4",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP14-120_p1.png",
-          "source": "bandai"
+          "cardSet": "-THE AZURE SEA’S SEVEN- [OP14-EB04]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              668642
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Crocodile - OP14-120 (Alternate Art)",
+            "match": "image",
+            "distance": 8
+          },
+          "treatments": [
+            "alternate_art"
+          ],
+          "artist": "K Akagishi"
+        },
+        {
+          "id": "OP14-120~tcg683981",
+          "set": "P",
+          "rarity": "P",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/683981_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              683981
+            ]
+          },
+          "tcgplayer": {
+            "name": "Crocodile - OP14-120 (CS26-27 Regionals Season 1)",
+            "match": "minted",
+            "distance": null
+          },
+          "finishes": [
+            "foil"
+          ],
+          "promoTypes": [
+            {
+              "type": "championship",
+              "category": "championship"
+            }
+          ]
         }
       ]
     }

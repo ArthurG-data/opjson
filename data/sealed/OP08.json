@@ -1,0 +1,170 @@
+{
+  "products": [
+    {
+      "id": "double-pack-set-volume-5",
+      "set": "OP08",
+      "category": "double_pack",
+      "name": "Double Pack Set Volume 5",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          561689
+        ]
+      },
+      "contentsStatus": "unknown",
+      "contents": {},
+      "sources": [
+        "https://www.tcgplayer.com/product/561689"
+      ],
+      "releaseDate": "2024-09-13"
+    },
+    {
+      "id": "double-pack-set-volume-5-display",
+      "set": "OP08",
+      "category": "display",
+      "name": "Double Pack Set Volume 5 Display",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          561690
+        ]
+      },
+      "contentsStatus": "partial",
+      "contents": {
+        "sealed": [
+          {
+            "product": "double-pack-set-volume-5"
+          }
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/561690"
+      ],
+      "releaseDate": "2024-09-13"
+    },
+    {
+      "id": "double-pack-set-volume-5-display-case",
+      "set": "OP08",
+      "category": "case",
+      "name": "Double Pack Set Volume 5 Display Case",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          561691
+        ]
+      },
+      "contentsStatus": "partial",
+      "contents": {
+        "sealed": [
+          {
+            "product": "double-pack-set-volume-5"
+          }
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/561691"
+      ],
+      "releaseDate": "2024-09-13"
+    },
+    {
+      "id": "special-don-card-pack-dp-05",
+      "set": "OP08",
+      "category": "promo_pack",
+      "name": "Special DON!! Card Pack DP-05",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          586061
+        ]
+      },
+      "contentsStatus": "unknown",
+      "contents": {},
+      "sources": [
+        "https://www.tcgplayer.com/product/586061"
+      ],
+      "releaseDate": "2024-09-13"
+    },
+    {
+      "id": "two-legends-booster-box",
+      "set": "OP08",
+      "category": "booster_box",
+      "name": "Two Legends - Booster Box",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          542504
+        ]
+      },
+      "contentsStatus": "unknown",
+      "contents": {},
+      "sources": [
+        "https://www.tcgplayer.com/product/542504"
+      ],
+      "releaseDate": "2024-09-13"
+    },
+    {
+      "id": "two-legends-booster-box-case",
+      "set": "OP08",
+      "category": "case",
+      "name": "Two Legends - Booster Box Case",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          542505
+        ]
+      },
+      "contentsStatus": "partial",
+      "contents": {
+        "sealed": [
+          {
+            "product": "two-legends-booster-box"
+          }
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/542505"
+      ],
+      "releaseDate": "2024-09-13"
+    },
+    {
+      "id": "two-legends-booster-pack",
+      "set": "OP08",
+      "category": "booster_pack",
+      "name": "Two Legends - Booster Pack",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          542502
+        ]
+      },
+      "contentsStatus": "partial",
+      "contents": {
+        "pool": [
+          {
+            "set": "OP08"
+          }
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/542502"
+      ],
+      "releaseDate": "2024-09-13"
+    },
+    {
+      "id": "two-legends-sleeved-booster-pack",
+      "set": "OP08",
+      "category": "sleeved_booster_pack",
+      "name": "Two Legends - Sleeved Booster Pack",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          542503
+        ]
+      },
+      "contentsStatus": "partial",
+      "contents": {
+        "pool": [
+          {
+            "set": "OP08"
+          }
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/542503"
+      ],
+      "releaseDate": "2024-09-13"
+    }
+  ]
+}

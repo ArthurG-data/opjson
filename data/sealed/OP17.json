@@ -1,0 +1,147 @@
+{
+  "products": [
+    {
+      "id": "double-pack-set-vol-12",
+      "set": "OP17",
+      "category": "double_pack",
+      "name": "Double Pack Set Vol. 12",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          704757
+        ]
+      },
+      "contentsStatus": "unknown",
+      "contents": {},
+      "sources": [
+        "https://www.tcgplayer.com/product/704757"
+      ],
+      "releaseDate": "2026-08-28"
+    },
+    {
+      "id": "double-pack-set-vol-12-display",
+      "set": "OP17",
+      "category": "display",
+      "name": "Double Pack Set Vol. 12 Display",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          704878
+        ]
+      },
+      "contentsStatus": "partial",
+      "contents": {
+        "sealed": [
+          {
+            "product": "double-pack-set-vol-12"
+          }
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/704878"
+      ],
+      "releaseDate": "2026-08-28"
+    },
+    {
+      "id": "the-world-s-strongest-warriors-booster-box",
+      "set": "OP17",
+      "category": "booster_box",
+      "name": "The World's Strongest Warriors Booster Box",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          704752
+        ]
+      },
+      "contentsStatus": "unknown",
+      "contents": {},
+      "sources": [
+        "https://www.tcgplayer.com/product/704752"
+      ],
+      "releaseDate": "2026-08-28"
+    },
+    {
+      "id": "the-world-s-strongest-warriors-booster-box-case",
+      "set": "OP17",
+      "category": "case",
+      "name": "The World's Strongest Warriors Booster Box Case",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          704754
+        ]
+      },
+      "contentsStatus": "partial",
+      "contents": {
+        "sealed": [
+          {
+            "product": "the-world-s-strongest-warriors-booster-box"
+          }
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/704754"
+      ],
+      "releaseDate": "2026-08-28"
+    },
+    {
+      "id": "the-world-s-strongest-warriors-booster-pack",
+      "set": "OP17",
+      "category": "booster_pack",
+      "name": "The World's Strongest Warriors Booster Pack",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          704756
+        ]
+      },
+      "contentsStatus": "partial",
+      "contents": {
+        "pool": [
+          {
+            "set": "OP17"
+          }
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/704756"
+      ],
+      "releaseDate": "2026-08-28"
+    },
+    {
+      "id": "the-world-s-strongest-warriors-sleeved-booster-pack",
+      "set": "OP17",
+      "category": "sleeved_booster_pack",
+      "name": "The World's Strongest Warriors Sleeved Booster Pack",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          704755
+        ]
+      },
+      "contentsStatus": "partial",
+      "contents": {
+        "pool": [
+          {
+            "set": "OP17"
+          }
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/704755"
+      ],
+      "releaseDate": "2026-08-28"
+    },
+    {
+      "id": "the-world-s-strongest-warriors-sleeved-booster-pack-art-bundle-set-of-4",
+      "set": "OP17",
+      "category": "display",
+      "name": "The World's Strongest Warriors Sleeved Booster Pack Art Bundle [Set of 4]",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          715980
+        ]
+      },
+      "contentsStatus": "unknown",
+      "contents": {},
+      "sources": [
+        "https://www.tcgplayer.com/product/715980"
+      ],
+      "releaseDate": "2026-08-28"
+    }
+  ]
+}

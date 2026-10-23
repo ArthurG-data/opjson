@@ -1,0 +1,124 @@
+{
+  "products": [
+    {
+      "id": "box-promotion-pack-488298",
+      "set": "OP02",
+      "category": "promo_pack",
+      "name": "Box Promotion Pack",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          488298
+        ]
+      },
+      "contentsStatus": "unknown",
+      "contents": {},
+      "sources": [
+        "https://www.tcgplayer.com/product/488298"
+      ],
+      "releaseDate": "2023-03-10"
+    },
+    {
+      "id": "paramount-war-booster-box",
+      "set": "OP02",
+      "category": "booster_box",
+      "name": "Paramount War - Booster Box",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          455866
+        ]
+      },
+      "contentsStatus": "unknown",
+      "contents": {},
+      "sources": [
+        "https://www.tcgplayer.com/product/455866"
+      ],
+      "releaseDate": "2023-03-10"
+    },
+    {
+      "id": "paramount-war-booster-box-case",
+      "set": "OP02",
+      "category": "case",
+      "name": "Paramount War - Booster Box Case",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          455867
+        ]
+      },
+      "contentsStatus": "partial",
+      "contents": {
+        "sealed": [
+          {
+            "product": "paramount-war-booster-box"
+          }
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/455867"
+      ],
+      "releaseDate": "2023-03-10"
+    },
+    {
+      "id": "paramount-war-booster-pack",
+      "set": "OP02",
+      "category": "booster_pack",
+      "name": "Paramount War - Booster Pack",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          455865
+        ]
+      },
+      "contentsStatus": "partial",
+      "contents": {
+        "pool": [
+          {
+            "set": "OP02"
+          }
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/455865"
+      ],
+      "releaseDate": "2023-03-10"
+    },
+    {
+      "id": "paramount-war-sleeved-booster-pack",
+      "set": "OP02",
+      "category": "sleeved_booster_pack",
+      "name": "Paramount War - Sleeved Booster Pack",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          531775
+        ]
+      },
+      "contentsStatus": "partial",
+      "contents": {
+        "pool": [
+          {
+            "set": "OP02"
+          }
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/531775"
+      ],
+      "releaseDate": "2023-03-10"
+    },
+    {
+      "id": "revision-pack",
+      "set": "OP02",
+      "category": "promo_pack",
+      "name": "Revision Pack",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          487126
+        ]
+      },
+      "contentsStatus": "unknown",
+      "contents": {},
+      "sources": [
+        "https://www.tcgplayer.com/product/487126"
+      ],
+      "releaseDate": "2023-03-10"
+    }
+  ]
+}

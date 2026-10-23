@@ -1,0 +1,115 @@
+{
+  "products": [
+    {
+      "id": "starter-deck-11-uta",
+      "set": "ST11",
+      "category": "starter_deck",
+      "name": "Starter Deck 11: Uta",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          515294
+        ]
+      },
+      "contentsStatus": "partial",
+      "contents": {
+        "cards": [
+          {
+            "printing": "OP02-028_p1"
+          },
+          {
+            "printing": "OP02-033_p1"
+          },
+          {
+            "printing": "OP02-034_p1"
+          },
+          {
+            "printing": "OP02-035_p2"
+          },
+          {
+            "printing": "OP02-037_p1"
+          },
+          {
+            "printing": "OP02-039_p1"
+          },
+          {
+            "printing": "OP02-040_p1"
+          },
+          {
+            "printing": "OP02-041_p2"
+          },
+          {
+            "printing": "OP02-043_p1"
+          },
+          {
+            "printing": "OP02-045_p1"
+          },
+          {
+            "printing": "ST11-001"
+          },
+          {
+            "printing": "ST11-002"
+          },
+          {
+            "printing": "ST11-003"
+          },
+          {
+            "printing": "ST11-004"
+          },
+          {
+            "printing": "ST11-005"
+          }
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/515294"
+      ],
+      "releaseDate": "2024-02-02"
+    },
+    {
+      "id": "starter-deck-11-uta-display",
+      "set": "ST11",
+      "category": "display",
+      "name": "Starter Deck 11: Uta Display",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          515296
+        ]
+      },
+      "contentsStatus": "partial",
+      "contents": {
+        "sealed": [
+          {
+            "product": "starter-deck-11-uta"
+          }
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/515296"
+      ],
+      "releaseDate": "2024-02-02"
+    },
+    {
+      "id": "starter-deck-11-uta-display-case",
+      "set": "ST11",
+      "category": "case",
+      "name": "Starter Deck 11: Uta Display Case",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          515297
+        ]
+      },
+      "contentsStatus": "partial",
+      "contents": {
+        "sealed": [
+          {
+            "product": "starter-deck-11-uta"
+          }
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/515297"
+      ],
+      "releaseDate": "2024-02-02"
+    }
+  ]
+}

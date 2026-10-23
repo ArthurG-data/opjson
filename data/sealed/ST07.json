@@ -1,0 +1,121 @@
+{
+  "products": [
+    {
+      "id": "starter-deck-7-big-mom-pirates",
+      "set": "ST07",
+      "category": "starter_deck",
+      "name": "Starter Deck 7: Big Mom Pirates",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          480236
+        ]
+      },
+      "contentsStatus": "partial",
+      "contents": {
+        "cards": [
+          {
+            "printing": "ST07-001"
+          },
+          {
+            "printing": "ST07-002"
+          },
+          {
+            "printing": "ST07-003"
+          },
+          {
+            "printing": "ST07-004"
+          },
+          {
+            "printing": "ST07-005"
+          },
+          {
+            "printing": "ST07-006"
+          },
+          {
+            "printing": "ST07-007"
+          },
+          {
+            "printing": "ST07-008"
+          },
+          {
+            "printing": "ST07-009"
+          },
+          {
+            "printing": "ST07-010"
+          },
+          {
+            "printing": "ST07-011"
+          },
+          {
+            "printing": "ST07-012"
+          },
+          {
+            "printing": "ST07-013"
+          },
+          {
+            "printing": "ST07-014"
+          },
+          {
+            "printing": "ST07-015"
+          },
+          {
+            "printing": "ST07-016"
+          },
+          {
+            "printing": "ST07-017"
+          }
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/480236"
+      ],
+      "releaseDate": "2023-06-30"
+    },
+    {
+      "id": "starter-deck-7-big-mom-pirates-display",
+      "set": "ST07",
+      "category": "display",
+      "name": "Starter Deck 7: Big Mom Pirates Display",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          480240
+        ]
+      },
+      "contentsStatus": "partial",
+      "contents": {
+        "sealed": [
+          {
+            "product": "starter-deck-7-big-mom-pirates"
+          }
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/480240"
+      ],
+      "releaseDate": "2023-06-30"
+    },
+    {
+      "id": "starter-deck-7-big-mom-pirates-display-case",
+      "set": "ST07",
+      "category": "case",
+      "name": "Starter Deck 7: Big Mom Pirates Display Case",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          480241
+        ]
+      },
+      "contentsStatus": "partial",
+      "contents": {
+        "sealed": [
+          {
+            "product": "starter-deck-7-big-mom-pirates"
+          }
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/480241"
+      ],
+      "releaseDate": "2023-06-30"
+    }
+  ]
+}

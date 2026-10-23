@@ -1,0 +1,121 @@
+{
+  "products": [
+    {
+      "id": "starter-deck-5-film-edition",
+      "set": "ST05",
+      "category": "starter_deck",
+      "name": "Starter Deck 5: Film Edition",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          455859
+        ]
+      },
+      "contentsStatus": "partial",
+      "contents": {
+        "cards": [
+          {
+            "printing": "ST05-001"
+          },
+          {
+            "printing": "ST05-002"
+          },
+          {
+            "printing": "ST05-003"
+          },
+          {
+            "printing": "ST05-004"
+          },
+          {
+            "printing": "ST05-005"
+          },
+          {
+            "printing": "ST05-006"
+          },
+          {
+            "printing": "ST05-007"
+          },
+          {
+            "printing": "ST05-008"
+          },
+          {
+            "printing": "ST05-009"
+          },
+          {
+            "printing": "ST05-010"
+          },
+          {
+            "printing": "ST05-011"
+          },
+          {
+            "printing": "ST05-012"
+          },
+          {
+            "printing": "ST05-013"
+          },
+          {
+            "printing": "ST05-014"
+          },
+          {
+            "printing": "ST05-015"
+          },
+          {
+            "printing": "ST05-016"
+          },
+          {
+            "printing": "ST05-017"
+          }
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/455859"
+      ],
+      "releaseDate": "2023-02-03"
+    },
+    {
+      "id": "starter-deck-5-film-edition-display",
+      "set": "ST05",
+      "category": "display",
+      "name": "Starter Deck 5: Film Edition Display",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          455860
+        ]
+      },
+      "contentsStatus": "partial",
+      "contents": {
+        "sealed": [
+          {
+            "product": "starter-deck-5-film-edition"
+          }
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/455860"
+      ],
+      "releaseDate": "2023-02-03"
+    },
+    {
+      "id": "starter-deck-5-film-edition-display-case",
+      "set": "ST05",
+      "category": "case",
+      "name": "Starter Deck 5: Film Edition Display Case",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          477332
+        ]
+      },
+      "contentsStatus": "partial",
+      "contents": {
+        "sealed": [
+          {
+            "product": "starter-deck-5-film-edition"
+          }
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/477332"
+      ],
+      "releaseDate": "2023-02-03"
+    }
+  ]
+}

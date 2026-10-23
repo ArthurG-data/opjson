@@ -1,0 +1,98 @@
+{
+  "products": [
+    {
+      "id": "starter-deck-4-animal-kingdom-pirates",
+      "set": "ST04",
+      "category": "starter_deck",
+      "name": "Starter Deck 4: Animal Kingdom Pirates",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          288224
+        ]
+      },
+      "contentsStatus": "partial",
+      "contents": {
+        "cards": [
+          {
+            "printing": "ST04-001"
+          },
+          {
+            "printing": "ST04-002"
+          },
+          {
+            "printing": "ST04-003"
+          },
+          {
+            "printing": "ST04-004"
+          },
+          {
+            "printing": "ST04-005"
+          },
+          {
+            "printing": "ST04-006"
+          },
+          {
+            "printing": "ST04-007"
+          },
+          {
+            "printing": "ST04-008"
+          },
+          {
+            "printing": "ST04-009"
+          },
+          {
+            "printing": "ST04-010"
+          },
+          {
+            "printing": "ST04-011"
+          },
+          {
+            "printing": "ST04-012"
+          },
+          {
+            "printing": "ST04-013"
+          },
+          {
+            "printing": "ST04-014"
+          },
+          {
+            "printing": "ST04-015"
+          },
+          {
+            "printing": "ST04-016"
+          },
+          {
+            "printing": "ST04-017"
+          }
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/288224"
+      ],
+      "releaseDate": "2022-12-02"
+    },
+    {
+      "id": "starter-deck-4-animal-kingdom-pirates-display",
+      "set": "ST04",
+      "category": "display",
+      "name": "Starter Deck 4: Animal Kingdom Pirates Display",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          288223
+        ]
+      },
+      "contentsStatus": "partial",
+      "contents": {
+        "sealed": [
+          {
+            "product": "starter-deck-4-animal-kingdom-pirates"
+          }
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/288223"
+      ],
+      "releaseDate": "2022-12-02"
+    }
+  ]
+}

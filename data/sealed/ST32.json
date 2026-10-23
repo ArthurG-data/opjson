@@ -1,0 +1,92 @@
+{
+  "products": [
+    {
+      "id": "starter-deck-32-green-roronoa-zoro",
+      "set": "ST32",
+      "category": "starter_deck",
+      "name": "Starter Deck 32: GREEN Roronoa Zoro",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          704889
+        ]
+      },
+      "contentsStatus": "partial",
+      "contents": {
+        "cards": [
+          {
+            "printing": "OP10-036_r1"
+          },
+          {
+            "printing": "OP12-020_p5"
+          },
+          {
+            "printing": "OP12-023_r1"
+          },
+          {
+            "printing": "OP12-026_r1"
+          },
+          {
+            "printing": "OP12-027_r1"
+          },
+          {
+            "printing": "OP12-028_r1"
+          },
+          {
+            "printing": "OP12-031_r1"
+          },
+          {
+            "printing": "OP12-039_p2"
+          },
+          {
+            "printing": "OP15-036_r1"
+          },
+          {
+            "printing": "ST24-005_r1"
+          },
+          {
+            "printing": "ST32-001"
+          },
+          {
+            "printing": "ST32-002"
+          },
+          {
+            "printing": "ST32-003"
+          },
+          {
+            "printing": "ST32-004"
+          },
+          {
+            "printing": "ST32-005"
+          }
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/704889"
+      ],
+      "releaseDate": "2026-07-31"
+    },
+    {
+      "id": "starter-deck-32-green-roronoa-zoro-display",
+      "set": "ST32",
+      "category": "display",
+      "name": "Starter Deck 32: GREEN Roronoa Zoro Display",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          704888
+        ]
+      },
+      "contentsStatus": "partial",
+      "contents": {
+        "sealed": [
+          {
+            "product": "starter-deck-32-green-roronoa-zoro"
+          }
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/704888"
+      ],
+      "releaseDate": "2026-07-31"
+    }
+  ]
+}

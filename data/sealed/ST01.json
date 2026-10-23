@@ -1,0 +1,115 @@
+{
+  "products": [
+    {
+      "id": "starter-deck-1-straw-hat-crew",
+      "set": "ST01",
+      "category": "starter_deck",
+      "name": "Starter Deck 1: Straw Hat Crew",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          288221
+        ]
+      },
+      "contentsStatus": "partial",
+      "contents": {
+        "cards": [
+          {
+            "printing": "ST01-001"
+          },
+          {
+            "printing": "ST01-002"
+          },
+          {
+            "printing": "ST01-003"
+          },
+          {
+            "printing": "ST01-004"
+          },
+          {
+            "printing": "ST01-005"
+          },
+          {
+            "printing": "ST01-006"
+          },
+          {
+            "printing": "ST01-007"
+          },
+          {
+            "printing": "ST01-008"
+          },
+          {
+            "printing": "ST01-009"
+          },
+          {
+            "printing": "ST01-010"
+          },
+          {
+            "printing": "ST01-011"
+          },
+          {
+            "printing": "ST01-012"
+          },
+          {
+            "printing": "ST01-013"
+          },
+          {
+            "printing": "ST01-014"
+          },
+          {
+            "printing": "ST01-015"
+          },
+          {
+            "printing": "ST01-016"
+          },
+          {
+            "printing": "ST01-017"
+          }
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/288221"
+      ],
+      "releaseDate": "2022-12-02"
+    },
+    {
+      "id": "starter-deck-1-straw-hat-crew-display",
+      "set": "ST01",
+      "category": "display",
+      "name": "Starter Deck 1: Straw Hat Crew Display",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          288222
+        ]
+      },
+      "contentsStatus": "partial",
+      "contents": {
+        "sealed": [
+          {
+            "product": "starter-deck-1-straw-hat-crew"
+          }
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/288222"
+      ],
+      "releaseDate": "2022-12-02"
+    },
+    {
+      "id": "starter-decks-1-4-set-of-4",
+      "set": "ST01",
+      "category": "display",
+      "name": "Starter Decks 1-4 [Set of 4]",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          288225
+        ]
+      },
+      "contentsStatus": "unknown",
+      "contents": {},
+      "sources": [
+        "https://www.tcgplayer.com/product/288225"
+      ],
+      "releaseDate": "2022-12-02"
+    }
+  ]
+}

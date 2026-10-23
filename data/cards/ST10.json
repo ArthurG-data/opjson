@@ -23,7 +23,22 @@
           "rarity": "L",
           "block": "2",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST10-001.png",
-          "source": "bandai"
+          "cardSet": "-The Three Captains-[ST-10]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              525044
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Trafalgar Law (001)",
+            "match": "image-only-candidate",
+            "distance": 0
+          },
+          "artist": "Makitoshi"
         }
       ]
     },
@@ -50,7 +65,22 @@
           "rarity": "L",
           "block": "2",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST10-002.png",
-          "source": "bandai"
+          "cardSet": "-The Three Captains-[ST-10]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              525045
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Monkey.D.Luffy (002)",
+            "match": "image-only-candidate",
+            "distance": 4
+          },
+          "artist": "Makitoshi"
         }
       ]
     },
@@ -77,7 +107,22 @@
           "rarity": "L",
           "block": "2",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST10-003.png",
-          "source": "bandai"
+          "cardSet": "-The Three Captains-[ST-10]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              525046
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Eustass\"Captain\"Kid (003)",
+            "match": "image-only-candidate",
+            "distance": 3
+          },
+          "artist": "Makitoshi"
         }
       ]
     },
@@ -104,7 +149,42 @@
           "rarity": "C",
           "block": "2",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST10-004.png",
-          "source": "bandai"
+          "cardSet": "-The Three Captains-[ST-10]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              525047
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Sanji",
+            "match": "image-only-candidate",
+            "distance": 5
+          },
+          "artist": "S-KINOKO"
+        },
+        {
+          "id": "ST10-004~tcg659233",
+          "set": "LT01",
+          "rarity": "C",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/659233_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              659233
+            ]
+          },
+          "tcgplayer": {
+            "name": "Sanji - ST10-004",
+            "match": "minted",
+            "distance": null
+          },
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
@@ -132,7 +212,22 @@
           "rarity": "C",
           "block": "2",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST10-005.png",
-          "source": "bandai"
+          "cardSet": "-The Three Captains-[ST-10]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              525048
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Jinbe",
+            "match": "image-only-candidate",
+            "distance": 3
+          },
+          "artist": "S-KINOKO"
         },
         {
           "id": "ST10-005_p1",
@@ -140,7 +235,32 @@
           "rarity": "C",
           "block": "2",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST10-005_p1.png",
-          "source": "bandai"
+          "cardSet": "English Version 1st Anniversary Set",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              557290
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Jinbe (English Version 1st Anniversary Set)",
+            "match": "image",
+            "distance": 20
+          },
+          "promoTypes": [
+            {
+              "type": "anniversary",
+              "category": "anniversary"
+            },
+            {
+              "type": "retail_product",
+              "category": "retail"
+            }
+          ],
+          "artist": "Ono Tako"
         },
         {
           "id": "ST10-005_p2",
@@ -148,7 +268,29 @@
           "rarity": "C",
           "block": "2",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST10-005_p2.png",
-          "source": "bandai"
+          "cardSet": "-ONE PIECE CARD THE BEST vol.2- [PRB-02]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              656180
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Jinbe - ST10-005 (Pirate Foil)",
+            "match": "image",
+            "distance": 4
+          },
+          "promoTypes": [
+            {
+              "type": "pirate_foil",
+              "category": "foil-pattern"
+            }
+          ],
+          "artOf": "ST10-005",
+          "artist": "S-KINOKO"
         },
         {
           "id": "ST10-005_r1",
@@ -156,7 +298,24 @@
           "rarity": "C",
           "block": "2",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST10-005_r1.png",
-          "source": "bandai"
+          "cardSet": "-ONE PIECE CARD THE BEST vol.2- [PRB-02]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              656178
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "Jinbe - ST10-005 (Reprint)",
+            "match": "image",
+            "distance": 4
+          },
+          "treatments": [
+            "reprint"
+          ]
         }
       ]
     },
@@ -182,7 +341,22 @@
           "rarity": "SR",
           "block": "2",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST10-006.png",
-          "source": "bandai"
+          "cardSet": "-The Three Captains-[ST-10]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              525049
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Monkey.D.Luffy (006)",
+            "match": "image-only-candidate",
+            "distance": 2
+          },
+          "artist": "phima"
         },
         {
           "id": "ST10-006_p1",
@@ -190,7 +364,19 @@
           "rarity": "SR",
           "block": "2",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST10-006_p1.png",
-          "source": "bandai"
+          "cardSet": "Regional 2024 wave1",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              539206
+            ]
+          },
+          "tcgplayer": {
+            "name": "Monkey.D.Luffy - ST10-006",
+            "match": "image",
+            "distance": 6
+          },
+          "artist": "Studio Vigor Co. Ltd"
         },
         {
           "id": "ST10-006_p2",
@@ -198,7 +384,9 @@
           "rarity": "SR",
           "block": "2",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST10-006_p2.png",
-          "source": "bandai"
+          "cardSet": "English Version 1st Anniversary Set",
+          "source": "bandai",
+          "artist": "Ono Tako"
         },
         {
           "id": "ST10-006_p4",
@@ -206,7 +394,114 @@
           "rarity": "SR",
           "block": "2",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST10-006_p4.png",
-          "source": "bandai"
+          "cardSet": "ONE PIECE DAY Dallas -Card Game Celebration-",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              620095
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Monkey.D.Luffy (One Piece Day Dallas 2025)",
+            "match": "image",
+            "distance": 3
+          },
+          "promoTypes": [
+            {
+              "type": "convention",
+              "category": "event"
+            }
+          ],
+          "artist": "DAI-XT."
+        },
+        {
+          "id": "ST10-006~tcg557283",
+          "set": "P",
+          "rarity": "SR",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/557283_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              557283
+            ]
+          },
+          "tcgplayer": {
+            "name": "Monkey.D.Luffy (English Version 1st Anniversary Set)",
+            "match": "minted",
+            "distance": null
+          },
+          "finishes": [
+            "foil"
+          ],
+          "promoTypes": [
+            {
+              "type": "anniversary",
+              "category": "anniversary"
+            },
+            {
+              "type": "retail_product",
+              "category": "retail"
+            }
+          ]
+        },
+        {
+          "id": "ST10-006~tcg565288",
+          "set": "P",
+          "rarity": "SR",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/565288_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              565288
+            ]
+          },
+          "tcgplayer": {
+            "name": "Monkey.D.Luffy (Treasure Booster Set)",
+            "match": "minted",
+            "distance": null
+          },
+          "finishes": [
+            "foil"
+          ],
+          "promoTypes": [
+            {
+              "type": "retail_product",
+              "category": "retail"
+            }
+          ]
+        },
+        {
+          "id": "ST10-006~tcg661694",
+          "set": "P",
+          "rarity": "C",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/661694_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              661694
+            ]
+          },
+          "tcgplayer": {
+            "name": "Monkey.D.Luffy - ST10-006 (3rd Anniversary Treasure Campaign Pack)",
+            "match": "minted",
+            "distance": null
+          },
+          "finishes": [
+            "foil"
+          ],
+          "promoTypes": [
+            {
+              "type": "anniversary",
+              "category": "anniversary"
+            },
+            {
+              "type": "retail_product",
+              "category": "retail"
+            }
+          ]
         }
       ]
     },
@@ -233,7 +528,22 @@
           "rarity": "C",
           "block": "2",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST10-007.png",
-          "source": "bandai"
+          "cardSet": "-The Three Captains-[ST-10]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              525050
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Killer",
+            "match": "image-only-candidate",
+            "distance": 0
+          },
+          "artist": "Studio Vigor Co. Ltd"
         }
       ]
     },
@@ -260,7 +570,22 @@
           "rarity": "C",
           "block": "2",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST10-008.png",
-          "source": "bandai"
+          "cardSet": "-The Three Captains-[ST-10]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              525051
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Shachi & Penguin",
+            "match": "image-only-candidate",
+            "distance": 1
+          },
+          "artist": "Studio Vigor Co. Ltd"
         },
         {
           "id": "ST10-008_p1",
@@ -268,7 +593,28 @@
           "rarity": "C",
           "block": "2",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST10-008_p1.png",
-          "source": "bandai"
+          "cardSet": "Tournament Pack 2025 Vol. 4",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              655969
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "Shachi & Penguin (Tournament Pack 2025 Vol. 4)",
+            "match": "image",
+            "distance": 8
+          },
+          "promoTypes": [
+            {
+              "type": "event_pack",
+              "category": "event"
+            }
+          ],
+          "artist": "Studio Vigor Co. Ltd"
         },
         {
           "id": "ST10-008_p2",
@@ -276,7 +622,28 @@
           "rarity": "C",
           "block": "2",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST10-008_p2.png",
-          "source": "bandai"
+          "cardSet": "Winner Pack 2025 Vol. 4",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              655974
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Shachi & Penguin (Winner Pack 2025 Vol. 4)",
+            "match": "image",
+            "distance": 5
+          },
+          "promoTypes": [
+            {
+              "type": "placement",
+              "category": "placement"
+            }
+          ],
+          "artist": "Bashikou"
         },
         {
           "id": "ST10-008_p3",
@@ -284,7 +651,28 @@
           "rarity": "C",
           "block": "2",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST10-008_p3.png",
-          "source": "bandai"
+          "cardSet": "-ONE PIECE CARD THE BEST vol.2- [PRB-02]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              656171
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Shachi & Penguin (Pirate Foil)",
+            "match": "image+name",
+            "distance": 3
+          },
+          "promoTypes": [
+            {
+              "type": "pirate_foil",
+              "category": "foil-pattern"
+            }
+          ],
+          "artist": "Bashikou"
         },
         {
           "id": "ST10-008_r1",
@@ -292,7 +680,54 @@
           "rarity": "C",
           "block": "2",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST10-008_r1.png",
-          "source": "bandai"
+          "cardSet": "-ONE PIECE CARD THE BEST vol.2- [PRB-02]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              656167
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "Shachi & Penguin (Reprint)",
+            "match": "image+name",
+            "distance": 3
+          },
+          "treatments": [
+            "reprint"
+          ]
+        },
+        {
+          "id": "ST10-008~tcg710245",
+          "set": "P",
+          "rarity": "C",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/710245_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              710245
+            ]
+          },
+          "tcgplayer": {
+            "name": "Shachi & Penguin (CS 26-27 Celebration Pack)",
+            "match": "minted",
+            "distance": null
+          },
+          "finishes": [
+            "foil"
+          ],
+          "promoTypes": [
+            {
+              "type": "championship",
+              "category": "championship"
+            },
+            {
+              "type": "event_pack",
+              "category": "event"
+            }
+          ]
         }
       ]
     },
@@ -319,7 +754,22 @@
           "rarity": "C",
           "block": "2",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST10-009.png",
-          "source": "bandai"
+          "cardSet": "-The Three Captains-[ST-10]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              525052
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Jean Bart",
+            "match": "image-only-candidate",
+            "distance": 4
+          },
+          "artist": "tatsuya"
         }
       ]
     },
@@ -346,7 +796,22 @@
           "rarity": "SR",
           "block": "2",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST10-010.png",
-          "source": "bandai"
+          "cardSet": "-The Three Captains-[ST-10]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              525053
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Trafalgar Law (010)",
+            "match": "image-only-candidate",
+            "distance": 1
+          },
+          "artist": "Minato Sashima"
         },
         {
           "id": "ST10-010_p1",
@@ -354,7 +819,22 @@
           "rarity": "SR",
           "block": "2",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST10-010_p1.png",
-          "source": "bandai"
+          "cardSet": "Regional 2024 wave1",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              539207
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Trafalgar Law - ST10-010",
+            "match": "image",
+            "distance": 10
+          },
+          "artist": "Bashikou"
         },
         {
           "id": "ST10-010_p2",
@@ -362,7 +842,22 @@
           "rarity": "TR",
           "block": "2",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST10-010_p2.png",
-          "source": "bandai"
+          "cardSet": "-500 YEARS IN THE FUTURE- [OP-07]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              555691
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Trafalgar Law (010) (TR)",
+            "match": "image-only-candidate",
+            "distance": 4
+          },
+          "artist": "Peach Momoko"
         },
         {
           "id": "ST10-010_p4",
@@ -370,7 +865,24 @@
           "rarity": "SR",
           "block": "2",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST10-010_p4.png",
-          "source": "bandai"
+          "cardSet": "-ONE PIECE CARD THE BEST- [PRB-01]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              587398
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Trafalgar Law (ST10-010) (Alternate Art)",
+            "match": "image",
+            "distance": 2
+          },
+          "treatments": [
+            "alternate_art"
+          ]
         },
         {
           "id": "ST10-010_r1",
@@ -378,7 +890,26 @@
           "rarity": "SR",
           "block": "2",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST10-010_r1.png",
-          "source": "bandai"
+          "cardSet": "-ONE PIECE CARD THE BEST- [PRB-01]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              594320
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Trafalgar Law (ST10-010) (Reprint)",
+            "match": "image",
+            "distance": 1
+          },
+          "treatments": [
+            "reprint"
+          ],
+          "artOf": "ST10-010",
+          "artist": "Minato Sashima"
         }
       ]
     },
@@ -405,7 +936,22 @@
           "rarity": "C",
           "block": "2",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST10-011.png",
-          "source": "bandai"
+          "cardSet": "-The Three Captains-[ST-10]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              525054
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Heat",
+            "match": "image-only-candidate",
+            "distance": 2
+          },
+          "artist": "ASAKI KURODA"
         }
       ]
     },
@@ -433,7 +979,22 @@
           "rarity": "C",
           "block": "2",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST10-012.png",
-          "source": "bandai"
+          "cardSet": "-The Three Captains-[ST-10]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              525055
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Bepo",
+            "match": "image-only-candidate",
+            "distance": 3
+          },
+          "artist": "COGA"
         }
       ]
     },
@@ -459,7 +1020,22 @@
           "rarity": "SR",
           "block": "2",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST10-013.png",
-          "source": "bandai"
+          "cardSet": "-The Three Captains-[ST-10]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              525057
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Eustass\"Captain\"Kid (013)",
+            "match": "image-only-candidate",
+            "distance": 3
+          },
+          "artist": "SENNSU"
         },
         {
           "id": "ST10-013_p1",
@@ -467,7 +1043,83 @@
           "rarity": "SR",
           "block": "2",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST10-013_p1.png",
-          "source": "bandai"
+          "cardSet": "Regional 2024 wave1",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              539209
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Eustass\"Captain\"Kid - ST10-013",
+            "match": "image",
+            "distance": 6
+          },
+          "artist": "shosuke"
+        },
+        {
+          "id": "ST10-013~tcg525689",
+          "set": "P",
+          "rarity": "SR",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/525689_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              525689
+            ]
+          },
+          "tcgplayer": {
+            "name": "Eustass\"Captain\"Kid (CS 2023 Top Players Pack)",
+            "match": "minted",
+            "distance": null
+          },
+          "promoTypes": [
+            {
+              "type": "championship",
+              "category": "championship"
+            },
+            {
+              "type": "placement",
+              "category": "placement"
+            }
+          ]
+        },
+        {
+          "id": "ST10-013~tcg525690",
+          "set": "P",
+          "rarity": "SR",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/525690_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              525690
+            ]
+          },
+          "tcgplayer": {
+            "name": "Eustass\"Captain\"Kid (CS 2023 Top Players Pack) [Finalist]",
+            "match": "minted",
+            "distance": null
+          }
+        },
+        {
+          "id": "ST10-013~tcg525691",
+          "set": "P",
+          "rarity": "SR",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/525691_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              525691
+            ]
+          },
+          "tcgplayer": {
+            "name": "Eustass\"Captain\"Kid (CS 2023 Top Players Pack) [Winner]",
+            "match": "minted",
+            "distance": null
+          }
         }
       ]
     },
@@ -494,7 +1146,22 @@
           "rarity": "C",
           "block": "2",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST10-014.png",
-          "source": "bandai"
+          "cardSet": "-The Three Captains-[ST-10]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              525058
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Wire",
+            "match": "image-only-candidate",
+            "distance": 5
+          },
+          "artist": "ASAKI KURODA"
         }
       ]
     },
@@ -516,7 +1183,21 @@
           "rarity": "C",
           "block": "2",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST10-015.png",
-          "source": "bandai"
+          "cardSet": "-The Three Captains-[ST-10]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              525059
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Gum-Gum Giant Sumo Slap",
+            "match": "image-only-candidate",
+            "distance": 2
+          }
         }
       ]
     },
@@ -538,7 +1219,21 @@
           "rarity": "C",
           "block": "2",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST10-016.png",
-          "source": "bandai"
+          "cardSet": "-The Three Captains-[ST-10]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              525061
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Gum-Gum Kong Gatling",
+            "match": "image-only-candidate",
+            "distance": 4
+          }
         }
       ]
     },
@@ -560,7 +1255,21 @@
           "rarity": "C",
           "block": "2",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST10-017.png",
-          "source": "bandai"
+          "cardSet": "-The Three Captains-[ST-10]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              525064
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Punk Vise",
+            "match": "image-only-candidate",
+            "distance": 1
+          }
         }
       ]
     }

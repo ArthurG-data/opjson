@@ -1,0 +1,44 @@
+{
+  "products": [
+    {
+      "id": "set-sail-deck-set",
+      "set": "SD01",
+      "category": "starter_deck",
+      "name": "Set Sail Deck Set",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          694893
+        ]
+      },
+      "contentsStatus": "unknown",
+      "contents": {},
+      "sources": [
+        "https://www.tcgplayer.com/product/694893"
+      ],
+      "releaseDate": "2026-09-18"
+    },
+    {
+      "id": "set-sail-deck-set-display",
+      "set": "SD01",
+      "category": "display",
+      "name": "Set Sail Deck Set Display",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          694894
+        ]
+      },
+      "contentsStatus": "partial",
+      "contents": {
+        "sealed": [
+          {
+            "product": "set-sail-deck-set"
+          }
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/694894"
+      ],
+      "releaseDate": "2026-09-18"
+    }
+  ]
+}

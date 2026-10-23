@@ -1,0 +1,115 @@
+{
+  "products": [
+    {
+      "id": "starter-deck-9-yamato",
+      "set": "ST09",
+      "category": "starter_deck",
+      "name": "Starter Deck 9: Yamato",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          502978
+        ]
+      },
+      "contentsStatus": "partial",
+      "contents": {
+        "cards": [
+          {
+            "printing": "ST09-001"
+          },
+          {
+            "printing": "ST09-002"
+          },
+          {
+            "printing": "ST09-003"
+          },
+          {
+            "printing": "ST09-004"
+          },
+          {
+            "printing": "ST09-005"
+          },
+          {
+            "printing": "ST09-006"
+          },
+          {
+            "printing": "ST09-007"
+          },
+          {
+            "printing": "ST09-008"
+          },
+          {
+            "printing": "ST09-009"
+          },
+          {
+            "printing": "ST09-010"
+          },
+          {
+            "printing": "ST09-011"
+          },
+          {
+            "printing": "ST09-012"
+          },
+          {
+            "printing": "ST09-013"
+          },
+          {
+            "printing": "ST09-014"
+          },
+          {
+            "printing": "ST09-015"
+          }
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/502978"
+      ],
+      "releaseDate": "2023-08-11"
+    },
+    {
+      "id": "starter-deck-9-yamato-display",
+      "set": "ST09",
+      "category": "display",
+      "name": "Starter Deck 9: Yamato Display",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          502979
+        ]
+      },
+      "contentsStatus": "partial",
+      "contents": {
+        "sealed": [
+          {
+            "product": "starter-deck-9-yamato"
+          }
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/502979"
+      ],
+      "releaseDate": "2023-08-11"
+    },
+    {
+      "id": "starter-deck-9-yamato-display-case",
+      "set": "ST09",
+      "category": "case",
+      "name": "Starter Deck 9: Yamato Display Case",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          502980
+        ]
+      },
+      "contentsStatus": "partial",
+      "contents": {
+        "sealed": [
+          {
+            "product": "starter-deck-9-yamato"
+          }
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/502980"
+      ],
+      "releaseDate": "2023-08-11"
+    }
+  ]
+}

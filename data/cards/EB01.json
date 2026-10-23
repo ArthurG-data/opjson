@@ -24,7 +24,21 @@
           "rarity": "L",
           "block": "2",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/EB01-001.png",
-          "source": "bandai"
+          "cardSet": "-Memorial Collection- [EB-01]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              544523
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "Kouzuki Oden",
+            "match": "image",
+            "distance": 1
+          }
         },
         {
           "id": "EB01-001_p1",
@@ -32,7 +46,25 @@
           "rarity": "L",
           "block": "2",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/EB01-001_p1.png",
-          "source": "bandai"
+          "cardSet": "-Memorial Collection- [EB-01]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              544524
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Kouzuki Oden (Alternate Art)",
+            "match": "image",
+            "distance": 2
+          },
+          "treatments": [
+            "alternate_art"
+          ],
+          "artist": "Hokuyuu"
         },
         {
           "id": "EB01-001_p2",
@@ -40,7 +72,21 @@
           "rarity": "L",
           "block": "2",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/EB01-001_p2.png",
-          "source": "bandai"
+          "cardSet": "-Anime 25th Collection- [EB-02]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              629086
+            ]
+          },
+          "tcgplayer": {
+            "name": "Kouzuki Oden (SP)",
+            "match": "image-only-candidate",
+            "distance": 3
+          },
+          "treatments": [
+            "sp"
+          ]
         }
       ]
     },
@@ -67,7 +113,22 @@
           "rarity": "R",
           "block": "2",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/EB01-002.png",
-          "source": "bandai"
+          "cardSet": "-Memorial Collection- [EB-01]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              544525
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Izo",
+            "match": "image-only-candidate",
+            "distance": 4
+          },
+          "artist": "Kaito Shibano"
         }
       ]
     },
@@ -95,7 +156,22 @@
           "rarity": "R",
           "block": "2",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/EB01-003.png",
-          "source": "bandai"
+          "cardSet": "-Memorial Collection- [EB-01]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              544526
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Kid & Killer",
+            "match": "image",
+            "distance": 2
+          },
+          "artist": "HISASHI HUJIWARA"
         },
         {
           "id": "EB01-003_p1",
@@ -103,7 +179,25 @@
           "rarity": "R",
           "block": "2",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/EB01-003_p1.png",
-          "source": "bandai"
+          "cardSet": "-Memorial Collection- [EB-01]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              544527
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Kid & Killer (Alternate Art)",
+            "match": "image",
+            "distance": 2
+          },
+          "treatments": [
+            "alternate_art"
+          ],
+          "artist": "Yosuke Adachi"
         },
         {
           "id": "EB01-003_p2",
@@ -111,7 +205,32 @@
           "rarity": "R",
           "block": "2",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/EB01-003_p2.png",
-          "source": "bandai"
+          "cardSet": "Offline Regional Participation Pack 2025 Vol.2",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              646722
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Kid & Killer (Offline Regional Participation Pack 2025 Vol.2)",
+            "match": "image",
+            "distance": 3
+          },
+          "promoTypes": [
+            {
+              "type": "championship",
+              "category": "championship"
+            },
+            {
+              "type": "event_pack",
+              "category": "event"
+            }
+          ],
+          "artist": "K Akagishi"
         },
         {
           "id": "EB01-003_p3",
@@ -119,7 +238,33 @@
           "rarity": "R",
           "block": "2",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/EB01-003_p3.png",
-          "source": "bandai"
+          "cardSet": "Offline Regional Finalist Card Set 2025 Vol.2",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              646721
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Kid & Killer (Offline Regional Finalist Card Set 2025 Vol.2)",
+            "match": "image+cardset",
+            "distance": 2
+          },
+          "promoTypes": [
+            {
+              "type": "championship",
+              "category": "championship"
+            },
+            {
+              "type": "placement",
+              "category": "placement"
+            }
+          ],
+          "artOf": "EB01-003_p2",
+          "artist": "Katsuo Tadano"
         },
         {
           "id": "EB01-003_p4",
@@ -127,7 +272,30 @@
           "rarity": "R",
           "block": "2",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/EB01-003_p4.png",
-          "source": "bandai"
+          "cardSet": "Offline Regional Champion Card Set 2025 Vol.2",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              646720
+            ]
+          },
+          "tcgplayer": {
+            "name": "Kid & Killer (Offline Regional Champion Card Set 2025 Vol.2)",
+            "match": "image+cardset",
+            "distance": 2
+          },
+          "promoTypes": [
+            {
+              "type": "championship",
+              "category": "championship"
+            },
+            {
+              "type": "placement",
+              "category": "placement"
+            }
+          ],
+          "artOf": "EB01-003_p2",
+          "artist": "K Akagishi"
         },
         {
           "id": "EB01-003_p5",
@@ -135,7 +303,161 @@
           "rarity": "SP CARD",
           "block": "2",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/EB01-003_p5.png",
-          "source": "bandai"
+          "cardSet": "-THE AZURE SEA’S SEVEN- [OP14-EB04]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              671449
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Kid & Killer - EB01-003 (SP)",
+            "match": "image-only-candidate",
+            "distance": 5
+          },
+          "treatments": [
+            "sp"
+          ]
+        },
+        {
+          "id": "EB01-003~tcg649731",
+          "set": "P",
+          "rarity": "R",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/649731_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              649731
+            ]
+          },
+          "tcgplayer": {
+            "name": "Kid & Killer (Online Regional Participation Pack 2025 Vol.2)",
+            "match": "minted",
+            "distance": null
+          },
+          "finishes": [
+            "foil"
+          ],
+          "promoTypes": [
+            {
+              "type": "championship",
+              "category": "championship"
+            },
+            {
+              "type": "event_pack",
+              "category": "event"
+            }
+          ]
+        },
+        {
+          "id": "EB01-003~tcg649737",
+          "set": "P",
+          "rarity": "R",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/649737_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              649737
+            ]
+          },
+          "tcgplayer": {
+            "name": "Kid & Killer (Online Regional Finalist Card Set 2025 Vol.2)",
+            "match": "minted",
+            "distance": null
+          },
+          "finishes": [
+            "foil"
+          ],
+          "promoTypes": [
+            {
+              "type": "championship",
+              "category": "championship"
+            },
+            {
+              "type": "placement",
+              "category": "placement"
+            }
+          ]
+        },
+        {
+          "id": "EB01-003~tcg649741",
+          "set": "P",
+          "rarity": "R",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/649741_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              649741
+            ]
+          },
+          "tcgplayer": {
+            "name": "Kid & Killer (Online Regional Champion Card Set 2025 Vol.2)",
+            "match": "minted",
+            "distance": null
+          },
+          "promoTypes": [
+            {
+              "type": "championship",
+              "category": "championship"
+            },
+            {
+              "type": "placement",
+              "category": "placement"
+            }
+          ]
+        },
+        {
+          "id": "EB01-003~tcg658339",
+          "set": "P",
+          "rarity": "R",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/658339_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              658339
+            ]
+          },
+          "tcgplayer": {
+            "name": "Kid & Killer (CS 25-26 Regionals Textured Chase Promo)",
+            "match": "minted",
+            "distance": null
+          },
+          "finishes": [
+            "foil"
+          ],
+          "promoTypes": [
+            {
+              "type": "championship",
+              "category": "championship"
+            },
+            {
+              "type": "textured",
+              "category": "foil-pattern"
+            }
+          ]
+        },
+        {
+          "id": "EB01-003~tcg659236",
+          "set": "LT01",
+          "rarity": "R",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/659236_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              659236
+            ]
+          },
+          "tcgplayer": {
+            "name": "Kid & Killer - EB01-003",
+            "match": "minted",
+            "distance": null
+          },
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
@@ -162,7 +484,22 @@
           "rarity": "C",
           "block": "2",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/EB01-004.png",
-          "source": "bandai"
+          "cardSet": "-Memorial Collection- [EB-01]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              544528
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "Koza",
+            "match": "image-only-candidate",
+            "distance": 3
+          },
+          "artist": "Nekobayashi"
         }
       ]
     },
@@ -189,7 +526,22 @@
           "rarity": "C",
           "block": "2",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/EB01-005.png",
-          "source": "bandai"
+          "cardSet": "-Memorial Collection- [EB-01]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              544529
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "Doma",
+            "match": "image-only-candidate",
+            "distance": 4
+          },
+          "artist": "Morechand"
         }
       ]
     },
@@ -217,7 +569,22 @@
           "rarity": "SR",
           "block": "2",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/EB01-006.png",
-          "source": "bandai"
+          "cardSet": "-Memorial Collection- [EB-01]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              544530
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Tony Tony.Chopper",
+            "match": "image",
+            "distance": 0
+          },
+          "artist": "kito"
         },
         {
           "id": "EB01-006_p1",
@@ -225,7 +592,25 @@
           "rarity": "SR",
           "block": "2",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/EB01-006_p1.png",
-          "source": "bandai"
+          "cardSet": "-Memorial Collection- [EB-01]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              544531
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Tony Tony.Chopper (Alternate Art)",
+            "match": "image",
+            "distance": 1
+          },
+          "treatments": [
+            "alternate_art"
+          ],
+          "artist": "SOWSOW"
         },
         {
           "id": "EB01-006_p2",
@@ -233,7 +618,25 @@
           "rarity": "SR",
           "block": "2",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/EB01-006_p2.png",
-          "source": "bandai"
+          "cardSet": "-Memorial Collection- [EB-01]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              544532
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Tony Tony.Chopper (Alternate Art) (Manga)",
+            "match": "image",
+            "distance": 4
+          },
+          "treatments": [
+            "alternate_art",
+            "manga"
+          ]
         },
         {
           "id": "EB01-006_p3",
@@ -241,7 +644,28 @@
           "rarity": "SR",
           "block": "2",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/EB01-006_p3.png",
-          "source": "bandai"
+          "cardSet": "Treasure Cup November-December",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              590986
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Tony Tony.Chopper (Treasure Cup 2024)",
+            "match": "image",
+            "distance": 3
+          },
+          "promoTypes": [
+            {
+              "type": "treasure_cup",
+              "category": "championship"
+            }
+          ],
+          "artist": "SOWSOW"
         },
         {
           "id": "EB01-006_r1",
@@ -249,7 +673,25 @@
           "rarity": "SR",
           "block": "2",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/EB01-006_r1.png",
-          "source": "bandai"
+          "cardSet": "-ONE PIECE CARD THE BEST- [PRB-01]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              587962
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Tony Tony.Chopper (EB01-006) (Manga)",
+            "match": "image-only-candidate",
+            "distance": 0
+          },
+          "treatments": [
+            "manga"
+          ],
+          "artOf": "EB01-006_p2"
         }
       ]
     },
@@ -276,7 +718,22 @@
           "rarity": "C",
           "block": "2",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/EB01-007.png",
-          "source": "bandai"
+          "cardSet": "-Memorial Collection- [EB-01]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              544533
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "Yamato",
+            "match": "image-only-candidate",
+            "distance": 5
+          },
+          "artist": "Koushi Rokushiro"
         },
         {
           "id": "EB01-007_p1",
@@ -284,7 +741,35 @@
           "rarity": "C",
           "block": "2",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/EB01-007_p1.png",
-          "source": "bandai"
+          "cardSet": "Premium Card Collection -Best Selection Vol.4-",
+          "source": "bandai",
+          "artist": "SHIE NANAHARA"
+        },
+        {
+          "id": "EB01-007~tcg649682",
+          "set": "P",
+          "rarity": "C",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/649682_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              649682
+            ]
+          },
+          "tcgplayer": {
+            "name": "Yamato (Premium Card Collection -Best Selection Vol. 4-)",
+            "match": "minted",
+            "distance": null
+          },
+          "finishes": [
+            "foil"
+          ],
+          "promoTypes": [
+            {
+              "type": "retail_product",
+              "category": "retail"
+            }
+          ]
         }
       ]
     },
@@ -312,7 +797,22 @@
           "rarity": "R",
           "block": "2",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/EB01-008.png",
-          "source": "bandai"
+          "cardSet": "-Memorial Collection- [EB-01]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              544534
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "LittleOars Jr.",
+            "match": "image-only-candidate",
+            "distance": 1
+          },
+          "artist": "Yasushi Yamaguchi"
         }
       ]
     },
@@ -335,7 +835,21 @@
           "rarity": "C",
           "block": "2",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/EB01-009.png",
-          "source": "bandai"
+          "cardSet": "-Memorial Collection- [EB-01]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              544535
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "Just Shut Up and Come with Us!!!!",
+            "match": "image-only-candidate",
+            "distance": 4
+          }
         },
         {
           "id": "EB01-009_p1",
@@ -343,7 +857,27 @@
           "rarity": "C",
           "block": "2",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/EB01-009_p1.png",
-          "source": "bandai"
+          "cardSet": "-ONE PIECE CARD THE BEST vol.2- [PRB-02]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              655980
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Just Shut Up and Come with Us!!!! (Pirate Foil)",
+            "match": "image",
+            "distance": 3
+          },
+          "promoTypes": [
+            {
+              "type": "pirate_foil",
+              "category": "foil-pattern"
+            }
+          ]
         },
         {
           "id": "EB01-009_r1",
@@ -351,7 +885,25 @@
           "rarity": "C",
           "block": "2",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/EB01-009_r1.png",
-          "source": "bandai"
+          "cardSet": "-ONE PIECE CARD THE BEST vol.2- [PRB-02]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              655979
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "Just Shut Up and Come with Us!!!! (Reprint)",
+            "match": "image",
+            "distance": 4
+          },
+          "treatments": [
+            "reprint"
+          ],
+          "artOf": "EB01-009"
         }
       ]
     },
@@ -374,7 +926,21 @@
           "rarity": "R",
           "block": "2",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/EB01-010.png",
-          "source": "bandai"
+          "cardSet": "-Memorial Collection- [EB-01]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              544536
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "There's No Way You Could Defeat Me!!",
+            "match": "image-only-candidate",
+            "distance": 2
+          }
         }
       ]
     },
@@ -396,7 +962,21 @@
           "rarity": "C",
           "block": "2",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/EB01-011.png",
-          "source": "bandai"
+          "cardSet": "-Memorial Collection- [EB-01]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              544537
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "Mini-Merry",
+            "match": "image-only-candidate",
+            "distance": 0
+          }
         }
       ]
     },
@@ -424,7 +1004,22 @@
           "rarity": "SR",
           "block": "2",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/EB01-012.png",
-          "source": "bandai"
+          "cardSet": "-Memorial Collection- [EB-01]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              544538
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Cavendish",
+            "match": "image",
+            "distance": 2
+          },
+          "artist": "phima"
         },
         {
           "id": "EB01-012_p1",
@@ -432,7 +1027,25 @@
           "rarity": "SR",
           "block": "2",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/EB01-012_p1.png",
-          "source": "bandai"
+          "cardSet": "-Memorial Collection- [EB-01]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              544539
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Cavendish (Alternate Art)",
+            "match": "image",
+            "distance": 1
+          },
+          "treatments": [
+            "alternate_art"
+          ],
+          "artist": "Studio Vigor Co. Ltd"
         },
         {
           "id": "EB01-012_p3",
@@ -440,7 +1053,27 @@
           "rarity": "SR",
           "block": "2",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/EB01-012_p3.png",
-          "source": "bandai"
+          "cardSet": "Treasure Cup November-December",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              590988
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Cavendish (Treasure Cup 2024)",
+            "match": "image",
+            "distance": 5
+          },
+          "promoTypes": [
+            {
+              "type": "treasure_cup",
+              "category": "championship"
+            }
+          ]
         },
         {
           "id": "EB01-012_r1",
@@ -448,7 +1081,46 @@
           "rarity": "SR",
           "block": "2",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/EB01-012_r1.png",
-          "source": "bandai"
+          "cardSet": "-ONE PIECE CARD THE BEST vol.2- [PRB-02]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              655981
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Cavendish - EB01-012 (Reprint)",
+            "match": "image-only-candidate",
+            "distance": 1
+          },
+          "treatments": [
+            "reprint"
+          ],
+          "artOf": "EB01-012",
+          "artist": "phima"
+        },
+        {
+          "id": "EB01-012~tcg656644",
+          "set": "LT01",
+          "rarity": "SR",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/656644_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              656644
+            ]
+          },
+          "tcgplayer": {
+            "name": "Cavendish (Zoro Deck)",
+            "match": "minted",
+            "distance": null
+          },
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
@@ -475,7 +1147,22 @@
           "rarity": "R",
           "block": "2",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/EB01-013.png",
-          "source": "bandai"
+          "cardSet": "-Memorial Collection- [EB-01]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              544540
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Kouzuki Hiyori",
+            "match": "image",
+            "distance": 3
+          },
+          "artist": "Haru Miyajima"
         },
         {
           "id": "EB01-013_p1",
@@ -483,7 +1170,25 @@
           "rarity": "R",
           "block": "2",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/EB01-013_p1.png",
-          "source": "bandai"
+          "cardSet": "-Memorial Collection- [EB-01]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              544541
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Kouzuki Hiyori (Alternate Art)",
+            "match": "image",
+            "distance": 2
+          },
+          "treatments": [
+            "alternate_art"
+          ],
+          "artist": "Sunohara"
         }
       ]
     },
@@ -511,7 +1216,22 @@
           "rarity": "R",
           "block": "2",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/EB01-014.png",
-          "source": "bandai"
+          "cardSet": "-Memorial Collection- [EB-01]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              544542
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Sanji",
+            "match": "image-only-candidate",
+            "distance": 4
+          },
+          "artist": "tatsuya"
         },
         {
           "id": "EB01-014_p1",
@@ -519,7 +1239,84 @@
           "rarity": "R",
           "block": "2",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/EB01-014_p1.png",
-          "source": "bandai"
+          "cardSet": "CS 25-26 Celebration Pack",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              649632
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Sanji (CS 25-26 Celebration Pack)",
+            "match": "image",
+            "distance": 5
+          },
+          "promoTypes": [
+            {
+              "type": "championship",
+              "category": "championship"
+            },
+            {
+              "type": "event_pack",
+              "category": "event"
+            }
+          ],
+          "artist": "Hashimoto Q"
+        },
+        {
+          "id": "EB01-014~tcg607971",
+          "set": "P",
+          "rarity": "R",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/607971_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              607971
+            ]
+          },
+          "tcgplayer": {
+            "name": "Sanji (Winner Pack 2025 Vol. 1)",
+            "match": "minted",
+            "distance": null
+          },
+          "finishes": [
+            "foil"
+          ],
+          "promoTypes": [
+            {
+              "type": "placement",
+              "category": "placement"
+            }
+          ]
+        },
+        {
+          "id": "EB01-014~tcg607976",
+          "set": "P",
+          "rarity": "R",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/607976_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              607976
+            ]
+          },
+          "tcgplayer": {
+            "name": "Sanji (Tournament Pack 2025 Vol. 1)",
+            "match": "minted",
+            "distance": null
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "promoTypes": [
+            {
+              "type": "event_pack",
+              "category": "event"
+            }
+          ]
         }
       ]
     },
@@ -547,7 +1344,22 @@
           "rarity": "R",
           "block": "2",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/EB01-015.png",
-          "source": "bandai"
+          "cardSet": "-Memorial Collection- [EB-01]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              544543
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Scratchmen Apoo",
+            "match": "image-only-candidate",
+            "distance": 3
+          },
+          "artist": "UGUME"
         },
         {
           "id": "EB01-015_p1",
@@ -555,7 +1367,28 @@
           "rarity": "R",
           "block": "2",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/EB01-015_p1.png",
-          "source": "bandai"
+          "cardSet": "Tournament Kit 2025 Vol.2",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              622592
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "Scratchmen Apoo (Tournament Pack 2025 Vol. 2)",
+            "match": "image",
+            "distance": 0
+          },
+          "promoTypes": [
+            {
+              "type": "event_pack",
+              "category": "event"
+            }
+          ],
+          "artist": "Bashikou"
         },
         {
           "id": "EB01-015_p2",
@@ -563,7 +1396,28 @@
           "rarity": "R",
           "block": "2",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/EB01-015_p2.png",
-          "source": "bandai"
+          "cardSet": "Winner Pack 2025 Vol.2",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              622597
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Scratchmen Apoo (Winner Pack 2025 Vol. 2)",
+            "match": "image",
+            "distance": 2
+          },
+          "promoTypes": [
+            {
+              "type": "placement",
+              "category": "placement"
+            }
+          ],
+          "artist": "Bashikou"
         },
         {
           "id": "EB01-015_p3",
@@ -571,7 +1425,25 @@
           "rarity": "R",
           "block": "2",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/EB01-015_p3.png",
-          "source": "bandai"
+          "cardSet": "-GREEN Jewelry Bonney- [ST-24]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              634598
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "Scratchmen Apoo (Reprint)",
+            "match": "image-only-candidate",
+            "distance": 1
+          },
+          "treatments": [
+            "reprint"
+          ],
+          "artist": "Bashikou"
         },
         {
           "id": "EB01-015_p4",
@@ -579,7 +1451,32 @@
           "rarity": "R",
           "block": "2",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/EB01-015_p4.png",
-          "source": "bandai"
+          "cardSet": "CS 25-26 Celebration Pack",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              649633
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Scratchmen Apoo (CS 25-26 Celebration Pack)",
+            "match": "image",
+            "distance": 3
+          },
+          "promoTypes": [
+            {
+              "type": "championship",
+              "category": "championship"
+            },
+            {
+              "type": "event_pack",
+              "category": "event"
+            }
+          ],
+          "artist": "Yuu Shimotsuki"
         },
         {
           "id": "EB01-015_p5",
@@ -587,7 +1484,24 @@
           "rarity": "R",
           "block": "2",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/EB01-015_p5.png",
-          "source": "bandai"
+          "cardSet": "-ONE PIECE CARD THE BEST vol.2- [PRB-02]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              653917
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Scratchmen Apoo - EB01-015 (Alternate Art)",
+            "match": "image",
+            "distance": 2
+          },
+          "treatments": [
+            "alternate_art"
+          ]
         },
         {
           "id": "EB01-015_r1",
@@ -595,7 +1509,26 @@
           "rarity": "R",
           "block": "2",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/EB01-015_r1.png",
-          "source": "bandai"
+          "cardSet": "-ONE PIECE CARD THE BEST vol.2- [PRB-02]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              655982
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Scratchmen Apoo - EB01-015 (Reprint)",
+            "match": "image",
+            "distance": 5
+          },
+          "treatments": [
+            "reprint"
+          ],
+          "artOf": "EB01-015",
+          "artist": "UGUME"
         }
       ]
     },
@@ -621,7 +1554,22 @@
           "rarity": "C",
           "block": "2",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/EB01-016.png",
-          "source": "bandai"
+          "cardSet": "-Memorial Collection- [EB-01]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              544544
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "Bingoh",
+            "match": "image-only-candidate",
+            "distance": 1
+          },
+          "artist": "ASAKI KURODA"
         }
       ]
     },
@@ -649,7 +1597,22 @@
           "rarity": "C",
           "block": "2",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/EB01-017.png",
-          "source": "bandai"
+          "cardSet": "-Memorial Collection- [EB-01]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              544545
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "Blueno (017)",
+            "match": "image-only-candidate",
+            "distance": 3
+          },
+          "artist": "COGA"
         }
       ]
     },
@@ -677,7 +1640,22 @@
           "rarity": "C",
           "block": "2",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/EB01-018.png",
-          "source": "bandai"
+          "cardSet": "-Memorial Collection- [EB-01]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              544546
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "Mountain God",
+            "match": "image-only-candidate",
+            "distance": 2
+          },
+          "artist": "nukadokomogera"
         },
         {
           "id": "EB01-018_p1",
@@ -685,7 +1663,28 @@
           "rarity": "C",
           "block": "2",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/EB01-018_p1.png",
-          "source": "bandai"
+          "cardSet": "-ONE PIECE CARD THE BEST vol.2- [PRB-02]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              655984
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Mountain God (Pirate Foil)",
+            "match": "image+name",
+            "distance": 4
+          },
+          "promoTypes": [
+            {
+              "type": "pirate_foil",
+              "category": "foil-pattern"
+            }
+          ],
+          "artist": "nukadokomogera"
         },
         {
           "id": "EB01-018_r1",
@@ -693,7 +1692,26 @@
           "rarity": "C",
           "block": "2",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/EB01-018_r1.png",
-          "source": "bandai"
+          "cardSet": "-ONE PIECE CARD THE BEST vol.2- [PRB-02]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              655983
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "Mountain God (Reprint)",
+            "match": "image+name",
+            "distance": 3
+          },
+          "treatments": [
+            "reprint"
+          ],
+          "artOf": "EB01-018",
+          "artist": "nukadokomogera"
         }
       ]
     },
@@ -716,7 +1734,21 @@
           "rarity": "R",
           "block": "2",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/EB01-019.png",
-          "source": "bandai"
+          "cardSet": "-Memorial Collection- [EB-01]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              544547
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Off-White",
+            "match": "image-only-candidate",
+            "distance": 4
+          }
         }
       ]
     },
@@ -739,7 +1771,21 @@
           "rarity": "C",
           "block": "2",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/EB01-020.png",
-          "source": "bandai"
+          "cardSet": "-Memorial Collection- [EB-01]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              544548
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "Chambres",
+            "match": "image-only-candidate",
+            "distance": 3
+          }
         }
       ]
     },
@@ -766,7 +1812,21 @@
           "rarity": "L",
           "block": "2",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/EB01-021.png",
-          "source": "bandai"
+          "cardSet": "-Memorial Collection- [EB-01]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              544549
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "Hannyabal",
+            "match": "image",
+            "distance": 4
+          }
         },
         {
           "id": "EB01-021_p1",
@@ -774,7 +1834,25 @@
           "rarity": "L",
           "block": "2",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/EB01-021_p1.png",
-          "source": "bandai"
+          "cardSet": "-Memorial Collection- [EB-01]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              544550
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Hannyabal (Alternate Art)",
+            "match": "image",
+            "distance": 1
+          },
+          "treatments": [
+            "alternate_art"
+          ],
+          "artist": "DAI-XT."
         },
         {
           "id": "EB01-021_p2",
@@ -782,7 +1860,24 @@
           "rarity": "L",
           "block": "2",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/EB01-021_p2.png",
-          "source": "bandai"
+          "cardSet": "-Anime 25th Collection- [EB-02]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              629087
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Hannyabal (SP)",
+            "match": "image-only-candidate",
+            "distance": 2
+          },
+          "treatments": [
+            "sp"
+          ]
         }
       ]
     },
@@ -810,7 +1905,22 @@
           "rarity": "SR",
           "block": "2",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/EB01-022.png",
-          "source": "bandai"
+          "cardSet": "-Memorial Collection- [EB-01]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              544551
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Inazuma",
+            "match": "image",
+            "distance": 0
+          },
+          "artist": "BISAI"
         },
         {
           "id": "EB01-022_p1",
@@ -818,7 +1928,25 @@
           "rarity": "SR",
           "block": "2",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/EB01-022_p1.png",
-          "source": "bandai"
+          "cardSet": "-Memorial Collection- [EB-01]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              544552
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Inazuma (Alternate Art)",
+            "match": "image",
+            "distance": 0
+          },
+          "treatments": [
+            "alternate_art"
+          ],
+          "artist": "Koushi Rokushiro"
         }
       ]
     },
@@ -844,7 +1972,22 @@
           "rarity": "R",
           "block": "2",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/EB01-023.png",
-          "source": "bandai"
+          "cardSet": "-Memorial Collection- [EB-01]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              544553
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Edward Weevil",
+            "match": "image-only-candidate",
+            "distance": 5
+          },
+          "artist": "HISASHI HUJIWARA"
         },
         {
           "id": "EB01-023_p1",
@@ -852,7 +1995,25 @@
           "rarity": "SP CARD",
           "block": "2",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/EB01-023_p1.png",
-          "source": "bandai"
+          "cardSet": "-THE AZURE SEA’S SEVEN- [OP14-EB04]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              670645
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Edward Weevil - EB01-023 (SP)",
+            "match": "image-only-candidate",
+            "distance": 1
+          },
+          "treatments": [
+            "sp"
+          ],
+          "artist": "Bashikou"
         },
         {
           "id": "EB01-023_p2",
@@ -860,7 +2021,54 @@
           "rarity": "R",
           "block": "2",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/EB01-023_p2.png",
-          "source": "bandai"
+          "cardSet": "Seven Warlords of the Sea Binder Set",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              648086
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Edward Weevil (Seven Warlords of the Sea Binder Set)",
+            "match": "image",
+            "distance": 22
+          },
+          "promoTypes": [
+            {
+              "type": "retail_product",
+              "category": "retail"
+            }
+          ],
+          "artist": "S-KINOKO"
+        },
+        {
+          "id": "EB01-023~tcg583745",
+          "set": "P",
+          "rarity": "R",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/583745_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              583745
+            ]
+          },
+          "tcgplayer": {
+            "name": "Edward Weevil (Judge Pack Vol. 4)",
+            "match": "minted",
+            "distance": null
+          },
+          "finishes": [
+            "foil"
+          ],
+          "promoTypes": [
+            {
+              "type": "judgegift",
+              "category": "program"
+            }
+          ]
         }
       ]
     },
@@ -888,7 +2096,22 @@
           "rarity": "C",
           "block": "2",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/EB01-024.png",
-          "source": "bandai"
+          "cardSet": "-Memorial Collection- [EB-01]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              544554
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "Hamlet",
+            "match": "image-only-candidate",
+            "distance": 1
+          },
+          "artist": "Misa Matoki"
         }
       ]
     },
@@ -916,7 +2139,22 @@
           "rarity": "C",
           "block": "2",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/EB01-025.png",
-          "source": "bandai"
+          "cardSet": "-Memorial Collection- [EB-01]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              544555
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "Fourtricks",
+            "match": "image-only-candidate",
+            "distance": 0
+          },
+          "artist": "Misa Matoki"
         }
       ]
     },
@@ -943,7 +2181,22 @@
           "rarity": "C",
           "block": "2",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/EB01-026.png",
-          "source": "bandai"
+          "cardSet": "-Memorial Collection- [EB-01]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              544556
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "Prince Bellett",
+            "match": "image-only-candidate",
+            "distance": 3
+          },
+          "artist": "Yasushi Yamaguchi"
         }
       ]
     },
@@ -970,7 +2223,22 @@
           "rarity": "R",
           "block": "2",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/EB01-027.png",
-          "source": "bandai"
+          "cardSet": "-Memorial Collection- [EB-01]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              544557
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Mr. 1 (Daz.Bonez)",
+            "match": "image",
+            "distance": 3
+          },
+          "artist": "DAI-XT."
         },
         {
           "id": "EB01-027_p1",
@@ -978,7 +2246,81 @@
           "rarity": "R",
           "block": "2",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/EB01-027_p1.png",
-          "source": "bandai"
+          "cardSet": "-Memorial Collection- [EB-01]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              544558
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Mr. 1 (Daz.Bonez) (Alternate Art)",
+            "match": "image",
+            "distance": 2
+          },
+          "treatments": [
+            "alternate_art"
+          ],
+          "artist": "eiji kaneda"
+        },
+        {
+          "id": "EB01-027~tcg636548",
+          "set": "P",
+          "rarity": "R",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/636548_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              636548
+            ]
+          },
+          "tcgplayer": {
+            "name": "Mr. 1 (Daz.Bonez) (Beginners Deck Party [ST-23] - [ST-28] Participation Pack)",
+            "match": "minted",
+            "distance": null
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "promoTypes": [
+            {
+              "type": "event_pack",
+              "category": "event"
+            }
+          ]
+        },
+        {
+          "id": "EB01-027~tcg636549",
+          "set": "P",
+          "rarity": "R",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/636549_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              636549
+            ]
+          },
+          "tcgplayer": {
+            "name": "Mr. 1 (Daz.Bonez) (Beginners Deck Party [ST-23] - [ST-28] Winner Pack)",
+            "match": "minted",
+            "distance": null
+          },
+          "finishes": [
+            "foil"
+          ],
+          "promoTypes": [
+            {
+              "type": "event_pack",
+              "category": "event"
+            },
+            {
+              "type": "placement",
+              "category": "placement"
+            }
+          ]
         }
       ]
     },
@@ -1001,7 +2343,21 @@
           "rarity": "R",
           "block": "2",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/EB01-028.png",
-          "source": "bandai"
+          "cardSet": "-Memorial Collection- [EB-01]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              544559
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Gum-Gum Champion Rifle",
+            "match": "image-only-candidate",
+            "distance": 2
+          }
         }
       ]
     },
@@ -1024,7 +2380,21 @@
           "rarity": "C",
           "block": "2",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/EB01-029.png",
-          "source": "bandai"
+          "cardSet": "-Memorial Collection- [EB-01]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              544560
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "Sorry. I'm a Goner.",
+            "match": "image-only-candidate",
+            "distance": 4
+          }
         }
       ]
     },
@@ -1046,7 +2416,21 @@
           "rarity": "C",
           "block": "2",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/EB01-030.png",
-          "source": "bandai"
+          "cardSet": "-Memorial Collection- [EB-01]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              544561
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "Loguetown",
+            "match": "image-only-candidate",
+            "distance": 0
+          }
         }
       ]
     },
@@ -1074,7 +2458,22 @@
           "rarity": "R",
           "block": "2",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/EB01-031.png",
-          "source": "bandai"
+          "cardSet": "-Memorial Collection- [EB-01]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              544562
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Kalifa",
+            "match": "image",
+            "distance": 1
+          },
+          "artist": "Aidle Co. Ltd."
         },
         {
           "id": "EB01-031_p1",
@@ -1082,7 +2481,25 @@
           "rarity": "R",
           "block": "2",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/EB01-031_p1.png",
-          "source": "bandai"
+          "cardSet": "-Memorial Collection- [EB-01]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              544563
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Kalifa (Alternate Art)",
+            "match": "image",
+            "distance": 1
+          },
+          "treatments": [
+            "alternate_art"
+          ],
+          "artist": "Hatori Kyoka"
         }
       ]
     },
@@ -1110,7 +2527,22 @@
           "rarity": "C",
           "block": "2",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/EB01-032.png",
-          "source": "bandai"
+          "cardSet": "-Memorial Collection- [EB-01]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              544564
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "Army Wolves",
+            "match": "image-only-candidate",
+            "distance": 0
+          },
+          "artist": "tatsuya"
         }
       ]
     },
@@ -1137,7 +2569,22 @@
           "rarity": "R",
           "block": "2",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/EB01-033.png",
-          "source": "bandai"
+          "cardSet": "-Memorial Collection- [EB-01]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              544565
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Blueno (033)",
+            "match": "image-only-candidate",
+            "distance": 2
+          },
+          "artist": "ASAKI KURODA"
         }
       ]
     },
@@ -1164,7 +2611,22 @@
           "rarity": "SR",
           "block": "2",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/EB01-034.png",
-          "source": "bandai"
+          "cardSet": "-Memorial Collection- [EB-01]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              544566
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Ms. Wednesday",
+            "match": "image",
+            "distance": 1
+          },
+          "artist": "Bashikou"
         },
         {
           "id": "EB01-034_p1",
@@ -1172,7 +2634,25 @@
           "rarity": "SR",
           "block": "2",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/EB01-034_p1.png",
-          "source": "bandai"
+          "cardSet": "-Memorial Collection- [EB-01]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              544567
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Ms. Wednesday (Alternate Art)",
+            "match": "image",
+            "distance": 3
+          },
+          "treatments": [
+            "alternate_art"
+          ],
+          "artist": "Yosuke Adachi"
         }
       ]
     },
@@ -1198,7 +2678,22 @@
           "rarity": "C",
           "block": "2",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/EB01-035.png",
-          "source": "bandai"
+          "cardSet": "-Memorial Collection- [EB-01]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              544568
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "Ms. Monday",
+            "match": "image-only-candidate",
+            "distance": 2
+          },
+          "artist": "Anderson"
         }
       ]
     },
@@ -1225,7 +2720,22 @@
           "rarity": "C",
           "block": "2",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/EB01-036.png",
-          "source": "bandai"
+          "cardSet": "-Memorial Collection- [EB-01]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              544569
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "Minochihuahua",
+            "match": "image-only-candidate",
+            "distance": 2
+          },
+          "artist": "Studio Vigor Co. Ltd"
         }
       ]
     },
@@ -1252,7 +2762,22 @@
           "rarity": "C",
           "block": "2",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/EB01-037.png",
-          "source": "bandai"
+          "cardSet": "-Memorial Collection- [EB-01]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              544570
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "Mr. 9",
+            "match": "image-only-candidate",
+            "distance": 2
+          },
+          "artist": "tasaka"
         }
       ]
     },
@@ -1274,7 +2799,21 @@
           "rarity": "C",
           "block": "2",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/EB01-038.png",
-          "source": "bandai"
+          "cardSet": "-Memorial Collection- [EB-01]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              544571
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "Oh Come My Way",
+            "match": "image-only-candidate",
+            "distance": 5
+          }
         },
         {
           "id": "EB01-038_p1",
@@ -1282,7 +2821,27 @@
           "rarity": "C",
           "block": "2",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/EB01-038_p1.png",
-          "source": "bandai"
+          "cardSet": "-ONE PIECE CARD THE BEST vol.2- [PRB-02]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              655987
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Oh Come My Way (Pirate Foil)",
+            "match": "image",
+            "distance": 3
+          },
+          "promoTypes": [
+            {
+              "type": "pirate_foil",
+              "category": "foil-pattern"
+            }
+          ]
         },
         {
           "id": "EB01-038_r1",
@@ -1290,7 +2849,25 @@
           "rarity": "C",
           "block": "2",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/EB01-038_r1.png",
-          "source": "bandai"
+          "cardSet": "-ONE PIECE CARD THE BEST vol.2- [PRB-02]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              655986
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "Oh Come My Way (Reprint)",
+            "match": "image",
+            "distance": 8
+          },
+          "treatments": [
+            "reprint"
+          ],
+          "artOf": "EB01-038"
         }
       ]
     },
@@ -1313,7 +2890,21 @@
           "rarity": "R",
           "block": "2",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/EB01-039.png",
-          "source": "bandai"
+          "cardSet": "-Memorial Collection- [EB-01]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              544572
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Conquerer of Three Worlds Ragnaraku",
+            "match": "image-only-candidate",
+            "distance": 1
+          }
         }
       ]
     },
@@ -1340,7 +2931,21 @@
           "rarity": "L",
           "block": "2",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/EB01-040.png",
-          "source": "bandai"
+          "cardSet": "-Memorial Collection- [EB-01]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              544573
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "Kyros",
+            "match": "image",
+            "distance": 5
+          }
         },
         {
           "id": "EB01-040_p1",
@@ -1348,7 +2953,25 @@
           "rarity": "L",
           "block": "2",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/EB01-040_p1.png",
-          "source": "bandai"
+          "cardSet": "-Memorial Collection- [EB-01]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              544574
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Kyros (Alternate Art)",
+            "match": "image",
+            "distance": 0
+          },
+          "treatments": [
+            "alternate_art"
+          ],
+          "artist": "Koushi Rokushiro"
         },
         {
           "id": "EB01-040_p2",
@@ -1356,7 +2979,24 @@
           "rarity": "L",
           "block": "2",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/EB01-040_p2.png",
-          "source": "bandai"
+          "cardSet": "-Anime 25th Collection- [EB-02]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              629088
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Kyros (SP)",
+            "match": "image-only-candidate",
+            "distance": 3
+          },
+          "treatments": [
+            "sp"
+          ]
         }
       ]
     },
@@ -1383,7 +3023,22 @@
           "rarity": "C",
           "block": "2",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/EB01-041.png",
-          "source": "bandai"
+          "cardSet": "-Memorial Collection- [EB-01]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              544575
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "Crocus",
+            "match": "image-only-candidate",
+            "distance": 2
+          },
+          "artist": "Nekobayashi"
         }
       ]
     },
@@ -1409,7 +3064,22 @@
           "rarity": "R",
           "block": "2",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/EB01-042.png",
-          "source": "bandai"
+          "cardSet": "-Memorial Collection- [EB-01]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              544576
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Scarlet",
+            "match": "image-only-candidate",
+            "distance": 1
+          },
+          "artist": "Hagane Tsurugi"
         }
       ]
     },
@@ -1436,7 +3106,22 @@
           "rarity": "R",
           "block": "2",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/EB01-043.png",
-          "source": "bandai"
+          "cardSet": "-Memorial Collection- [EB-01]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              544577
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Spandine",
+            "match": "image-only-candidate",
+            "distance": 3
+          },
+          "artist": "Amano Yoichi"
         },
         {
           "id": "EB01-043_p1",
@@ -1444,7 +3129,32 @@
           "rarity": "R",
           "block": "2",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/EB01-043_p1.png",
-          "source": "bandai"
+          "cardSet": "Offline Regional Participation Pack 2025 Vol.1",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              619195
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "Spandine (Offline Regional Participation Pack 2025 Vol.1)",
+            "match": "image+cardset",
+            "distance": 0
+          },
+          "promoTypes": [
+            {
+              "type": "championship",
+              "category": "championship"
+            },
+            {
+              "type": "event_pack",
+              "category": "event"
+            }
+          ],
+          "artist": "BISAI"
         },
         {
           "id": "EB01-043_p2",
@@ -1452,7 +3162,10 @@
           "rarity": "R",
           "block": "2",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/EB01-043_p2.png",
-          "source": "bandai"
+          "cardSet": "Offline Regional Finalist Card Set 25-26 Season 1",
+          "source": "bandai",
+          "artOf": "EB01-043_p1",
+          "artist": "BISAI"
         },
         {
           "id": "EB01-043_p3",
@@ -1460,7 +3173,10 @@
           "rarity": "R",
           "block": "2",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/EB01-043_p3.png",
-          "source": "bandai"
+          "cardSet": "Offline Regional Champion Card Set 25-26 Season 1",
+          "source": "bandai",
+          "artOf": "EB01-043_p1",
+          "artist": "BISAI"
         },
         {
           "id": "EB01-043_p4",
@@ -1468,7 +3184,10 @@
           "rarity": "R",
           "block": "2",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/EB01-043_p4.png",
-          "source": "bandai"
+          "cardSet": "Online Regional Participation Pack 25-26 Season 1",
+          "source": "bandai",
+          "artOf": "EB01-043_p1",
+          "artist": "BISAI"
         },
         {
           "id": "EB01-043_p5",
@@ -1476,7 +3195,10 @@
           "rarity": "R",
           "block": "2",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/EB01-043_p5.png",
-          "source": "bandai"
+          "cardSet": "Online Regional Finalist Card Set 25-26 Season 1",
+          "source": "bandai",
+          "artOf": "EB01-043_p1",
+          "artist": "BISAI"
         },
         {
           "id": "EB01-043_p6",
@@ -1484,7 +3206,10 @@
           "rarity": "R",
           "block": "2",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/EB01-043_p6.png",
-          "source": "bandai"
+          "cardSet": "Online Regional Champion Card Set 25-26 Season 1",
+          "source": "bandai",
+          "artOf": "EB01-043_p1",
+          "artist": "BISAI"
         }
       ]
     },
@@ -1511,7 +3236,22 @@
           "rarity": "C",
           "block": "2",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/EB01-044.png",
-          "source": "bandai"
+          "cardSet": "-Memorial Collection- [EB-01]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              544578
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "Funkfreed",
+            "match": "image-only-candidate",
+            "distance": 1
+          },
+          "artist": "kankurou"
         }
       ]
     },
@@ -1538,7 +3278,22 @@
           "rarity": "C",
           "block": "2",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/EB01-045.png",
-          "source": "bandai"
+          "cardSet": "-Memorial Collection- [EB-01]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              544579
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "Brook (045)",
+            "match": "image-only-candidate",
+            "distance": 3
+          },
+          "artist": "HISASHI HUJIWARA"
         }
       ]
     },
@@ -1565,7 +3320,22 @@
           "rarity": "SR",
           "block": "2",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/EB01-046.png",
-          "source": "bandai"
+          "cardSet": "-Memorial Collection- [EB-01]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              544580
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Brook (046)",
+            "match": "image",
+            "distance": 3
+          },
+          "artist": "BISAI"
         },
         {
           "id": "EB01-046_p1",
@@ -1573,7 +3343,25 @@
           "rarity": "SR",
           "block": "2",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/EB01-046_p1.png",
-          "source": "bandai"
+          "cardSet": "-Memorial Collection- [EB-01]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              544581
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Brook (046) (Alternate Art)",
+            "match": "image",
+            "distance": 3
+          },
+          "treatments": [
+            "alternate_art"
+          ],
+          "artist": "Nijihayashi"
         },
         {
           "id": "EB01-046_r1",
@@ -1581,7 +3369,26 @@
           "rarity": "SR",
           "block": "2",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/EB01-046_r1.png",
-          "source": "bandai"
+          "cardSet": "-ONE PIECE CARD THE BEST vol.2- [PRB-02]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              655988
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Brook - EB01-046 (Reprint)",
+            "match": "image-only-candidate",
+            "distance": 2
+          },
+          "treatments": [
+            "reprint"
+          ],
+          "artOf": "EB01-046",
+          "artist": "BISAI"
         }
       ]
     },
@@ -1607,7 +3414,22 @@
           "rarity": "C",
           "block": "2",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/EB01-047.png",
-          "source": "bandai"
+          "cardSet": "-Memorial Collection- [EB-01]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              544582
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "Laboon (047)",
+            "match": "image-only-candidate",
+            "distance": 4
+          },
+          "artist": "shosuke"
         }
       ]
     },
@@ -1634,7 +3456,22 @@
           "rarity": "SR",
           "block": "2",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/EB01-048.png",
-          "source": "bandai"
+          "cardSet": "-Memorial Collection- [EB-01]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              544583
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Laboon (048)",
+            "match": "image",
+            "distance": 2
+          },
+          "artist": "S-KINOKO"
         },
         {
           "id": "EB01-048_p1",
@@ -1642,7 +3479,25 @@
           "rarity": "SR",
           "block": "2",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/EB01-048_p1.png",
-          "source": "bandai"
+          "cardSet": "-Memorial Collection- [EB-01]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              544584
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Laboon (048) (Alternate Art)",
+            "match": "image",
+            "distance": 5
+          },
+          "treatments": [
+            "alternate_art"
+          ],
+          "artist": "SOWSOW"
         },
         {
           "id": "EB01-048_p2",
@@ -1650,7 +3505,28 @@
           "rarity": "SR",
           "block": "2",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/EB01-048_p2.png",
-          "source": "bandai"
+          "cardSet": "Treasure Cup May 2025~",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              629758
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Laboon (Treasure Cup 2025)",
+            "match": "image",
+            "distance": 9
+          },
+          "promoTypes": [
+            {
+              "type": "treasure_cup",
+              "category": "championship"
+            }
+          ],
+          "artist": "SOWSOW"
         },
         {
           "id": "EB01-048_r1",
@@ -1658,7 +3534,26 @@
           "rarity": "SR",
           "block": "2",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/EB01-048_r1.png",
-          "source": "bandai"
+          "cardSet": "-ONE PIECE CARD THE BEST vol.2- [PRB-02]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              655990
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Laboon (Reprint)",
+            "match": "image-only-candidate",
+            "distance": 5
+          },
+          "treatments": [
+            "reprint"
+          ],
+          "artOf": "EB01-048",
+          "artist": "S-KINOKO"
         }
       ]
     },
@@ -1686,7 +3581,22 @@
           "rarity": "R",
           "block": "2",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/EB01-049.png",
-          "source": "bandai"
+          "cardSet": "-Memorial Collection- [EB-01]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              544585
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "T-Bone",
+            "match": "image",
+            "distance": 4
+          },
+          "artist": "eiji kaneda"
         },
         {
           "id": "EB01-049_p1",
@@ -1694,7 +3604,51 @@
           "rarity": "R",
           "block": "2",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/EB01-049_p1.png",
-          "source": "bandai"
+          "cardSet": "-Memorial Collection- [EB-01]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              544586
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "T-Bone (Alternate Art)",
+            "match": "image",
+            "distance": 1
+          },
+          "treatments": [
+            "alternate_art"
+          ],
+          "artist": "Hayaken-sarena"
+        },
+        {
+          "id": "EB01-049~tcg619206",
+          "set": "P",
+          "rarity": "R",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/619206_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              619206
+            ]
+          },
+          "tcgplayer": {
+            "name": "T-Bone (Judge Pack Vol. 5)",
+            "match": "minted",
+            "distance": null
+          },
+          "finishes": [
+            "foil"
+          ],
+          "promoTypes": [
+            {
+              "type": "judgegift",
+              "category": "program"
+            }
+          ]
         }
       ]
     },
@@ -1716,7 +3670,21 @@
           "rarity": "C",
           "block": "2",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/EB01-050.png",
-          "source": "bandai"
+          "cardSet": "-Memorial Collection- [EB-01]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              544587
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "...I Want to Live!!",
+            "match": "image-only-candidate",
+            "distance": 1
+          }
         }
       ]
     },
@@ -1738,7 +3706,21 @@
           "rarity": "R",
           "block": "2",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/EB01-051.png",
-          "source": "bandai"
+          "cardSet": "-Memorial Collection- [EB-01]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              544588
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Finger Pistol",
+            "match": "image-only-candidate",
+            "distance": 1
+          }
         },
         {
           "id": "EB01-051_p1",
@@ -1746,7 +3728,25 @@
           "rarity": "R",
           "block": "2",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/EB01-051_p1.png",
-          "source": "bandai"
+          "cardSet": "-ONE PIECE CARD THE BEST vol.2- [PRB-02]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              655992
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Finger Pistol (Alternate Art)",
+            "match": "image",
+            "distance": 5
+          },
+          "treatments": [
+            "alternate_art"
+          ],
+          "artist": "Misa Matoki"
         },
         {
           "id": "EB01-051_r1",
@@ -1754,7 +3754,25 @@
           "rarity": "R",
           "block": "2",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/EB01-051_r1.png",
-          "source": "bandai"
+          "cardSet": "-ONE PIECE CARD THE BEST vol.2- [PRB-02]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              655991
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Finger Pistol (Reprint)",
+            "match": "image",
+            "distance": 3
+          },
+          "treatments": [
+            "reprint"
+          ],
+          "artOf": "EB01-051"
         }
       ]
     },
@@ -1780,7 +3798,22 @@
           "rarity": "SR",
           "block": "2",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/EB01-052.png",
-          "source": "bandai"
+          "cardSet": "-Memorial Collection- [EB-01]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              544589
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Viola",
+            "match": "image",
+            "distance": 2
+          },
+          "artist": "otton"
         },
         {
           "id": "EB01-052_p1",
@@ -1788,7 +3821,25 @@
           "rarity": "SR",
           "block": "2",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/EB01-052_p1.png",
-          "source": "bandai"
+          "cardSet": "-Memorial Collection- [EB-01]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              544590
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Viola (Alternate Art)",
+            "match": "image",
+            "distance": 2
+          },
+          "treatments": [
+            "alternate_art"
+          ],
+          "artist": "NIJIMAARC"
         }
       ]
     },
@@ -1814,7 +3865,22 @@
           "rarity": "C",
           "block": "2",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/EB01-053.png",
-          "source": "bandai"
+          "cardSet": "-Memorial Collection- [EB-01]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              544591
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "Gastino",
+            "match": "image-only-candidate",
+            "distance": 2
+          },
+          "artist": "Ryuda"
         }
       ]
     },
@@ -1841,7 +3907,22 @@
           "rarity": "R",
           "block": "2",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/EB01-054.png",
-          "source": "bandai"
+          "cardSet": "-Memorial Collection- [EB-01]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              544592
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Gan.Fall",
+            "match": "image-only-candidate",
+            "distance": 1
+          },
+          "artist": "UGUME"
         }
       ]
     },
@@ -1868,7 +3949,22 @@
           "rarity": "C",
           "block": "2",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/EB01-055.png",
-          "source": "bandai"
+          "cardSet": "-Memorial Collection- [EB-01]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              544593
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "Charlotte Compote",
+            "match": "image-only-candidate",
+            "distance": 1
+          },
+          "artist": "Akihiro MIYANO"
         }
       ]
     },
@@ -1895,7 +3991,22 @@
           "rarity": "R",
           "block": "2",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/EB01-056.png",
-          "source": "bandai"
+          "cardSet": "-Memorial Collection- [EB-01]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              544594
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Charlotte Flampe",
+            "match": "image",
+            "distance": 1
+          },
+          "artist": "Haru Miyajima"
         },
         {
           "id": "EB01-056_p1",
@@ -1903,7 +4014,25 @@
           "rarity": "R",
           "block": "2",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/EB01-056_p1.png",
-          "source": "bandai"
+          "cardSet": "-Memorial Collection- [EB-01]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              544595
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Charlotte Flampe (Alternate Art)",
+            "match": "image",
+            "distance": 2
+          },
+          "treatments": [
+            "alternate_art"
+          ],
+          "artist": "Norikoi"
         },
         {
           "id": "EB01-056_p2",
@@ -1911,7 +4040,25 @@
           "rarity": "SP CARD",
           "block": "2",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/EB01-056_p2.png",
-          "source": "bandai"
+          "cardSet": "-ROYAL BLOOD- [OP-10]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              617028
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Charlotte Flampe (SP)",
+            "match": "image-only-candidate",
+            "distance": 4
+          },
+          "treatments": [
+            "sp"
+          ],
+          "artist": "otton"
         }
       ]
     },
@@ -1937,7 +4084,22 @@
           "rarity": "SR",
           "block": "2",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/EB01-057.png",
-          "source": "bandai"
+          "cardSet": "-Memorial Collection- [EB-01]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              544596
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Shirahoshi",
+            "match": "image",
+            "distance": 0
+          },
+          "artist": "Bashikou"
         },
         {
           "id": "EB01-057_p1",
@@ -1945,7 +4107,25 @@
           "rarity": "SR",
           "block": "2",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/EB01-057_p1.png",
-          "source": "bandai"
+          "cardSet": "-Memorial Collection- [EB-01]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              544597
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Shirahoshi (Alternate Art)",
+            "match": "image",
+            "distance": 5
+          },
+          "treatments": [
+            "alternate_art"
+          ],
+          "artist": "otton"
         },
         {
           "id": "EB01-057_p2",
@@ -1953,7 +4133,25 @@
           "rarity": "SP CARD",
           "block": "2",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/EB01-057_p2.png",
-          "source": "bandai"
+          "cardSet": "-A FIST OF DIVINE SPEED- [OP-11]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              632502
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Shirahoshi (SP)",
+            "match": "image-only-candidate",
+            "distance": 6
+          },
+          "treatments": [
+            "sp"
+          ],
+          "artist": "Akihiro MIYANO"
         },
         {
           "id": "EB01-057_r1",
@@ -1961,7 +4159,26 @@
           "rarity": "SR",
           "block": "2",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/EB01-057_r1.png",
-          "source": "bandai"
+          "cardSet": "-ONE PIECE CARD THE BEST vol.2- [PRB-02]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              655993
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Shirahoshi (Reprint)",
+            "match": "image-only-candidate",
+            "distance": 5
+          },
+          "treatments": [
+            "reprint"
+          ],
+          "artOf": "EB01-057",
+          "artist": "Bashikou"
         }
       ]
     },
@@ -1988,7 +4205,22 @@
           "rarity": "C",
           "block": "2",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/EB01-058.png",
-          "source": "bandai"
+          "cardSet": "-Memorial Collection- [EB-01]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              544598
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "Mont Blanc Cricket",
+            "match": "image-only-candidate",
+            "distance": 7
+          },
+          "artist": "Aidle Co. Ltd."
         }
       ]
     },
@@ -2010,7 +4242,21 @@
           "rarity": "R",
           "block": "2",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/EB01-059.png",
-          "source": "bandai"
+          "cardSet": "-Memorial Collection- [EB-01]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              544599
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Kingdom Come",
+            "match": "image-only-candidate",
+            "distance": 2
+          }
         }
       ]
     },
@@ -2032,7 +4278,21 @@
           "rarity": "C",
           "block": "2",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/EB01-060.png",
-          "source": "bandai"
+          "cardSet": "-Memorial Collection- [EB-01]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              544600
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "Did Someone Say...Kami?",
+            "match": "image-only-candidate",
+            "distance": 1
+          }
         },
         {
           "id": "EB01-060_p1",
@@ -2040,7 +4300,27 @@
           "rarity": "C",
           "block": "2",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/EB01-060_p1.png",
-          "source": "bandai"
+          "cardSet": "-ONE PIECE CARD THE BEST vol.2- [PRB-02]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              655995
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Did Someone Say...Kami? (Pirate Foil)",
+            "match": "image",
+            "distance": 7
+          },
+          "promoTypes": [
+            {
+              "type": "pirate_foil",
+              "category": "foil-pattern"
+            }
+          ]
         },
         {
           "id": "EB01-060_r1",
@@ -2048,7 +4328,25 @@
           "rarity": "C",
           "block": "2",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/EB01-060_r1.png",
-          "source": "bandai"
+          "cardSet": "-ONE PIECE CARD THE BEST vol.2- [PRB-02]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              655994
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "Did Someone Say...Kami? (Reprint)",
+            "match": "image+name",
+            "distance": 7
+          },
+          "treatments": [
+            "reprint"
+          ],
+          "artOf": "EB01-060"
         }
       ]
     },
@@ -2075,7 +4373,22 @@
           "rarity": "SEC",
           "block": "2",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/EB01-061.png",
-          "source": "bandai"
+          "cardSet": "-Memorial Collection- [EB-01]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              544601
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Mr.2.Bon.Kurei (Bentham)",
+            "match": "image",
+            "distance": 0
+          },
+          "artist": "tunbolt"
         },
         {
           "id": "EB01-061_p1",
@@ -2083,7 +4396,25 @@
           "rarity": "SEC",
           "block": "2",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/EB01-061_p1.png",
-          "source": "bandai"
+          "cardSet": "-Memorial Collection- [EB-01]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              544602
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Mr.2.Bon.Kurei (Bentham) (Alternate Art)",
+            "match": "image",
+            "distance": 2
+          },
+          "treatments": [
+            "alternate_art"
+          ],
+          "artist": "Sunohara"
         },
         {
           "id": "EB01-061_r1",
@@ -2091,7 +4422,26 @@
           "rarity": "SEC",
           "block": "2",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/EB01-061_r1.png",
-          "source": "bandai"
+          "cardSet": "-ONE PIECE CARD THE BEST vol.2- [PRB-02]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              655996
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Mr.2.Bon.Kurei (Bentham) (Reprint)",
+            "match": "image-only-candidate",
+            "distance": 5
+          },
+          "treatments": [
+            "reprint"
+          ],
+          "artOf": "EB01-061",
+          "artist": "tunbolt"
         }
       ]
     }

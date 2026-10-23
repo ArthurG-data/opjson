@@ -23,7 +23,22 @@
           "rarity": "L",
           "block": "3",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST22-001.png",
-          "source": "bandai"
+          "cardSet": "-Ace & Newgate- [ST-22]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              647683
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Ace & Newgate",
+            "match": "image",
+            "distance": 0
+          },
+          "artist": "Daisuke Izuka"
         },
         {
           "id": "ST22-001_p1",
@@ -31,7 +46,25 @@
           "rarity": "L",
           "block": "3",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST22-001_p1.png",
-          "source": "bandai"
+          "cardSet": "-Ace & Newgate- [ST-22]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              647684
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Ace & Newgate (Parallel)",
+            "match": "image",
+            "distance": 4
+          },
+          "treatments": [
+            "parallel"
+          ],
+          "artist": "Daisuke Izuka"
         }
       ]
     },
@@ -58,7 +91,22 @@
           "rarity": "SR",
           "block": "3",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST22-002.png",
-          "source": "bandai"
+          "cardSet": "-Ace & Newgate- [ST-22]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              647685
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Izo",
+            "match": "image",
+            "distance": 2
+          },
+          "artist": "Hokuyuu"
         },
         {
           "id": "ST22-002_p1",
@@ -66,7 +114,25 @@
           "rarity": "SR",
           "block": "3",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST22-002_p1.png",
-          "source": "bandai"
+          "cardSet": "-Ace & Newgate- [ST-22]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              647686
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Izo (Parallel)",
+            "match": "image",
+            "distance": 4
+          },
+          "treatments": [
+            "parallel"
+          ],
+          "artist": "Hokuyuu"
         }
       ]
     },
@@ -93,7 +159,22 @@
           "rarity": "C",
           "block": "3",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST22-003.png",
-          "source": "bandai"
+          "cardSet": "-Ace & Newgate- [ST-22]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              647687
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "Edward.Newgate",
+            "match": "image",
+            "distance": 3
+          },
+          "artist": "Yosuke Adachi"
         },
         {
           "id": "ST22-003_p1",
@@ -101,7 +182,51 @@
           "rarity": "C",
           "block": "3",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST22-003_p1.png",
-          "source": "bandai"
+          "cardSet": "-Ace & Newgate- [ST-22]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              647688
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Edward.Newgate (Parallel)",
+            "match": "image",
+            "distance": 4
+          },
+          "treatments": [
+            "parallel"
+          ],
+          "artist": "Yosuke Adachi"
+        },
+        {
+          "id": "ST22-003~tcg649709",
+          "set": "P",
+          "rarity": "C",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/649709_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              649709
+            ]
+          },
+          "tcgplayer": {
+            "name": "Edward.Newgate (Premium Card Collection -6 assort vol.1-)",
+            "match": "minted",
+            "distance": null
+          },
+          "finishes": [
+            "foil"
+          ],
+          "promoTypes": [
+            {
+              "type": "retail_product",
+              "category": "retail"
+            }
+          ]
         }
       ]
     },
@@ -128,7 +253,22 @@
           "rarity": "C",
           "block": "3",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST22-004.png",
-          "source": "bandai"
+          "cardSet": "-Ace & Newgate- [ST-22]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              647689
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "Elmy",
+            "match": "image",
+            "distance": 4
+          },
+          "artist": "Nekobayashi"
         },
         {
           "id": "ST22-004_p1",
@@ -136,7 +276,25 @@
           "rarity": "C",
           "block": "3",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST22-004_p1.png",
-          "source": "bandai"
+          "cardSet": "-Ace & Newgate- [ST-22]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              647690
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Elmy (Parallel)",
+            "match": "image",
+            "distance": 8
+          },
+          "treatments": [
+            "parallel"
+          ],
+          "artist": "Nekobayashi"
         }
       ]
     },
@@ -164,7 +322,22 @@
           "rarity": "SR",
           "block": "3",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST22-005.png",
-          "source": "bandai"
+          "cardSet": "-Ace & Newgate- [ST-22]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              647691
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Kouzuki Oden",
+            "match": "image",
+            "distance": 1
+          },
+          "artist": "Yosuke Adachi"
         },
         {
           "id": "ST22-005_p1",
@@ -172,7 +345,25 @@
           "rarity": "SR",
           "block": "3",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST22-005_p1.png",
-          "source": "bandai"
+          "cardSet": "-Ace & Newgate- [ST-22]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              647692
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Kouzuki Oden (Parallel)",
+            "match": "image",
+            "distance": 5
+          },
+          "treatments": [
+            "parallel"
+          ],
+          "artist": "Yosuke Adachi"
         }
       ]
     },
@@ -199,7 +390,22 @@
           "rarity": "C",
           "block": "3",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST22-006.png",
-          "source": "bandai"
+          "cardSet": "-Ace & Newgate- [ST-22]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              647693
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "Jozu",
+            "match": "image",
+            "distance": 1
+          },
+          "artist": "DAI-XT."
         },
         {
           "id": "ST22-006_p1",
@@ -207,7 +413,25 @@
           "rarity": "C",
           "block": "3",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST22-006_p1.png",
-          "source": "bandai"
+          "cardSet": "-Ace & Newgate- [ST-22]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              647694
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Jozu (Parallel)",
+            "match": "image",
+            "distance": 1
+          },
+          "treatments": [
+            "parallel"
+          ],
+          "artist": "DAI-XT."
         }
       ]
     },
@@ -234,7 +458,22 @@
           "rarity": "C",
           "block": "3",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST22-007.png",
-          "source": "bandai"
+          "cardSet": "-Ace & Newgate- [ST-22]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              647695
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "Squard",
+            "match": "image",
+            "distance": 0
+          },
+          "artist": "BISAI"
         },
         {
           "id": "ST22-007_p1",
@@ -242,7 +481,25 @@
           "rarity": "C",
           "block": "3",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST22-007_p1.png",
-          "source": "bandai"
+          "cardSet": "-Ace & Newgate- [ST-22]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              647696
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Squard (Parallel)",
+            "match": "image",
+            "distance": 0
+          },
+          "treatments": [
+            "parallel"
+          ],
+          "artist": "BISAI"
         }
       ]
     },
@@ -269,7 +526,22 @@
           "rarity": "C",
           "block": "3",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST22-008.png",
-          "source": "bandai"
+          "cardSet": "-Ace & Newgate- [ST-22]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              647697
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "Decalvan Brothers",
+            "match": "image",
+            "distance": 2
+          },
+          "artist": "kankurou"
         },
         {
           "id": "ST22-008_p1",
@@ -277,7 +549,25 @@
           "rarity": "C",
           "block": "3",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST22-008_p1.png",
-          "source": "bandai"
+          "cardSet": "-Ace & Newgate- [ST-22]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              647698
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Decalvan Brothers (Parallel)",
+            "match": "image",
+            "distance": 4
+          },
+          "treatments": [
+            "parallel"
+          ],
+          "artist": "kankurou"
         }
       ]
     },
@@ -303,7 +593,22 @@
           "rarity": "C",
           "block": "3",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST22-009.png",
-          "source": "bandai"
+          "cardSet": "-Ace & Newgate- [ST-22]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              647699
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "Vista",
+            "match": "image",
+            "distance": 4
+          },
+          "artist": "Koushi Rokushiro"
         },
         {
           "id": "ST22-009_p1",
@@ -311,7 +616,25 @@
           "rarity": "C",
           "block": "3",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST22-009_p1.png",
-          "source": "bandai"
+          "cardSet": "-Ace & Newgate- [ST-22]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              647700
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Vista (Parallel)",
+            "match": "image",
+            "distance": 3
+          },
+          "treatments": [
+            "parallel"
+          ],
+          "artist": "Koushi Rokushiro"
         }
       ]
     },
@@ -338,7 +661,22 @@
           "rarity": "C",
           "block": "3",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST22-010.png",
-          "source": "bandai"
+          "cardSet": "-Ace & Newgate- [ST-22]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              647701
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "Portgas.D.Ace",
+            "match": "image",
+            "distance": 1
+          },
+          "artist": "Hokuyuu"
         },
         {
           "id": "ST22-010_p1",
@@ -346,7 +684,25 @@
           "rarity": "C",
           "block": "3",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST22-010_p1.png",
-          "source": "bandai"
+          "cardSet": "-Ace & Newgate- [ST-22]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              647702
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Portgas.D.Ace (Parallel)",
+            "match": "image",
+            "distance": 5
+          },
+          "treatments": [
+            "parallel"
+          ],
+          "artist": "Hokuyuu"
         }
       ]
     },
@@ -373,7 +729,22 @@
           "rarity": "C",
           "block": "3",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST22-011.png",
-          "source": "bandai"
+          "cardSet": "-Ace & Newgate- [ST-22]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              647703
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "Whitey Bay",
+            "match": "image",
+            "distance": 3
+          },
+          "artist": "Koushi Rokushiro"
         },
         {
           "id": "ST22-011_p1",
@@ -381,7 +752,25 @@
           "rarity": "C",
           "block": "3",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST22-011_p1.png",
-          "source": "bandai"
+          "cardSet": "-Ace & Newgate- [ST-22]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              647704
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Whitey Bay (Parallel)",
+            "match": "image",
+            "distance": 3
+          },
+          "treatments": [
+            "parallel"
+          ],
+          "artist": "Koushi Rokushiro"
         }
       ]
     },
@@ -408,7 +797,22 @@
           "rarity": "C",
           "block": "3",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST22-012.png",
-          "source": "bandai"
+          "cardSet": "-Ace & Newgate- [ST-22]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              647705
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "Marco",
+            "match": "image",
+            "distance": 1
+          },
+          "artist": "Hokuyuu"
         },
         {
           "id": "ST22-012_p1",
@@ -416,7 +820,25 @@
           "rarity": "C",
           "block": "3",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST22-012_p1.png",
-          "source": "bandai"
+          "cardSet": "-Ace & Newgate- [ST-22]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              647706
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Marco (Parallel)",
+            "match": "image",
+            "distance": 4
+          },
+          "treatments": [
+            "parallel"
+          ],
+          "artist": "Hokuyuu"
         }
       ]
     },
@@ -444,7 +866,22 @@
           "rarity": "C",
           "block": "3",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST22-013.png",
-          "source": "bandai"
+          "cardSet": "-Ace & Newgate- [ST-22]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              647707
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "LittleOars Jr.",
+            "match": "image",
+            "distance": 0
+          },
+          "artist": "shosuke"
         },
         {
           "id": "ST22-013_p1",
@@ -452,7 +889,25 @@
           "rarity": "C",
           "block": "3",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST22-013_p1.png",
-          "source": "bandai"
+          "cardSet": "-Ace & Newgate- [ST-22]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              647708
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "LittleOars Jr. (Parallel)",
+            "match": "image",
+            "distance": 1
+          },
+          "treatments": [
+            "parallel"
+          ],
+          "artist": "shosuke"
         }
       ]
     },
@@ -479,7 +934,22 @@
           "rarity": "C",
           "block": "3",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST22-014.png",
-          "source": "bandai"
+          "cardSet": "-Ace & Newgate- [ST-22]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              647709
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "A.O.",
+            "match": "image",
+            "distance": 2
+          },
+          "artist": "kankurou"
         },
         {
           "id": "ST22-014_p1",
@@ -487,7 +957,25 @@
           "rarity": "C",
           "block": "3",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST22-014_p1.png",
-          "source": "bandai"
+          "cardSet": "-Ace & Newgate- [ST-22]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              647710
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "A.O. (Parallel)",
+            "match": "image",
+            "distance": 8
+          },
+          "treatments": [
+            "parallel"
+          ],
+          "artist": "kankurou"
         }
       ]
     },
@@ -510,7 +998,21 @@
           "rarity": "C",
           "block": "3",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST22-015.png",
-          "source": "bandai"
+          "cardSet": "-Ace & Newgate- [ST-22]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              647711
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "I Am Whitebeard!!",
+            "match": "image-only-candidate",
+            "distance": 2
+          }
         }
       ]
     },
@@ -532,7 +1034,21 @@
           "rarity": "C",
           "block": "3",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST22-016.png",
-          "source": "bandai"
+          "cardSet": "-Ace & Newgate- [ST-22]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              647712
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "Take That Back!! Take Back What You Said!!",
+            "match": "image-only-candidate",
+            "distance": 5
+          }
         }
       ]
     },
@@ -554,7 +1070,21 @@
           "rarity": "C",
           "block": "3",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST22-017.png",
-          "source": "bandai"
+          "cardSet": "-Ace & Newgate- [ST-22]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              647713
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "Fire Fist",
+            "match": "image-only-candidate",
+            "distance": 2
+          }
         }
       ]
     }

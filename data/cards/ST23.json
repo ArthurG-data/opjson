@@ -23,7 +23,22 @@
           "rarity": "SR",
           "block": "3",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST23-001.png",
-          "source": "bandai"
+          "cardSet": "-RED Shanks- [ST-23]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              633761
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Uta",
+            "match": "image-only-candidate",
+            "distance": 4
+          },
+          "artist": "Koushi Rokushiro"
         }
       ]
     },
@@ -50,7 +65,22 @@
           "rarity": "SR",
           "block": "3",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST23-002.png",
-          "source": "bandai"
+          "cardSet": "-RED Shanks- [ST-23]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              633762
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Shanks (002)",
+            "match": "image-only-candidate",
+            "distance": 4
+          },
+          "artist": "Morechand"
         }
       ]
     },
@@ -77,7 +107,22 @@
           "rarity": "C",
           "block": "3",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST23-003.png",
-          "source": "bandai"
+          "cardSet": "-RED Shanks- [ST-23]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              633763
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "Benn.Beckman",
+            "match": "image-only-candidate",
+            "distance": 2
+          },
+          "artist": "eiji kaneda"
         }
       ]
     },
@@ -106,7 +151,22 @@
           "rarity": "C",
           "block": "3",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST23-004.png",
-          "source": "bandai"
+          "cardSet": "-RED Shanks- [ST-23]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              633764
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "Monkey.D.Luffy",
+            "match": "image-only-candidate",
+            "distance": 1
+          },
+          "artist": "HISASHI HUJIWARA"
         },
         {
           "id": "ST23-004_r1",
@@ -114,7 +174,10 @@
           "rarity": "C",
           "block": "3",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST23-004_r1.png",
-          "source": "bandai"
+          "cardSet": "STARTER DECK -RED Monkey.D.Luffy- [ST-31]",
+          "source": "bandai",
+          "artOf": "ST23-004",
+          "artist": "HISASHI HUJIWARA"
         }
       ]
     },
@@ -141,7 +204,22 @@
           "rarity": "C",
           "block": "3",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST23-005.png",
-          "source": "bandai"
+          "cardSet": "-RED Shanks- [ST-23]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              633943
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "Yasopp",
+            "match": "image-only-candidate",
+            "distance": 4
+          },
+          "artist": "Yasushi Yamaguchi"
         }
       ]
     }

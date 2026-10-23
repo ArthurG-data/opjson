@@ -1,0 +1,147 @@
+{
+  "products": [
+    {
+      "id": "double-pack-set-vol-11",
+      "set": "OP16",
+      "category": "double_pack",
+      "name": "Double Pack Set Vol. 11",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          693364
+        ]
+      },
+      "contentsStatus": "unknown",
+      "contents": {},
+      "sources": [
+        "https://www.tcgplayer.com/product/693364"
+      ],
+      "releaseDate": "2026-06-12"
+    },
+    {
+      "id": "double-pack-set-vol-11-display",
+      "set": "OP16",
+      "category": "display",
+      "name": "Double Pack Set Vol. 11 Display",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          693365
+        ]
+      },
+      "contentsStatus": "partial",
+      "contents": {
+        "sealed": [
+          {
+            "product": "double-pack-set-vol-11"
+          }
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/693365"
+      ],
+      "releaseDate": "2026-06-12"
+    },
+    {
+      "id": "special-don-card-pack-dp-11",
+      "set": "OP16",
+      "category": "promo_pack",
+      "name": "Special DON!! Card Pack DP-11",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          701593
+        ]
+      },
+      "contentsStatus": "unknown",
+      "contents": {},
+      "sources": [
+        "https://www.tcgplayer.com/product/701593"
+      ],
+      "releaseDate": "2026-06-12"
+    },
+    {
+      "id": "the-time-of-battle-booster-box",
+      "set": "OP16",
+      "category": "booster_box",
+      "name": "The Time of Battle Booster Box",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          689336
+        ]
+      },
+      "contentsStatus": "unknown",
+      "contents": {},
+      "sources": [
+        "https://www.tcgplayer.com/product/689336"
+      ],
+      "releaseDate": "2026-06-12"
+    },
+    {
+      "id": "the-time-of-battle-booster-box-case",
+      "set": "OP16",
+      "category": "case",
+      "name": "The Time of Battle Booster Box Case",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          689338
+        ]
+      },
+      "contentsStatus": "partial",
+      "contents": {
+        "sealed": [
+          {
+            "product": "the-time-of-battle-booster-box"
+          }
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/689338"
+      ],
+      "releaseDate": "2026-06-12"
+    },
+    {
+      "id": "the-time-of-battle-booster-pack",
+      "set": "OP16",
+      "category": "booster_pack",
+      "name": "The Time of Battle Booster Pack",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          689341
+        ]
+      },
+      "contentsStatus": "partial",
+      "contents": {
+        "pool": [
+          {
+            "set": "OP16"
+          }
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/689341"
+      ],
+      "releaseDate": "2026-06-12"
+    },
+    {
+      "id": "the-time-of-battle-sleeved-booster-pack",
+      "set": "OP16",
+      "category": "sleeved_booster_pack",
+      "name": "The Time of Battle Sleeved Booster Pack",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          689347
+        ]
+      },
+      "contentsStatus": "partial",
+      "contents": {
+        "pool": [
+          {
+            "set": "OP16"
+          }
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/689347"
+      ],
+      "releaseDate": "2026-06-12"
+    }
+  ]
+}

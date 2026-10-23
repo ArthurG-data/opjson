@@ -1,0 +1,147 @@
+{
+  "products": [
+    {
+      "id": "double-pack-set-vol-8",
+      "set": "OP12",
+      "category": "double_pack",
+      "name": "Double Pack Set Vol. 8",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          628348
+        ]
+      },
+      "contentsStatus": "unknown",
+      "contents": {},
+      "sources": [
+        "https://www.tcgplayer.com/product/628348"
+      ],
+      "releaseDate": "2025-08-22"
+    },
+    {
+      "id": "double-pack-set-vol-8-display",
+      "set": "OP12",
+      "category": "display",
+      "name": "Double Pack Set Vol. 8 Display",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          628349
+        ]
+      },
+      "contentsStatus": "partial",
+      "contents": {
+        "sealed": [
+          {
+            "product": "double-pack-set-vol-8"
+          }
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/628349"
+      ],
+      "releaseDate": "2025-08-22"
+    },
+    {
+      "id": "legacy-of-the-master-booster-box",
+      "set": "OP12",
+      "category": "booster_box",
+      "name": "Legacy of the Master Booster Box",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          628346
+        ]
+      },
+      "contentsStatus": "unknown",
+      "contents": {},
+      "sources": [
+        "https://www.tcgplayer.com/product/628346"
+      ],
+      "releaseDate": "2025-08-22"
+    },
+    {
+      "id": "legacy-of-the-master-booster-box-case",
+      "set": "OP12",
+      "category": "case",
+      "name": "Legacy of the Master Booster Box Case",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          628347
+        ]
+      },
+      "contentsStatus": "partial",
+      "contents": {
+        "sealed": [
+          {
+            "product": "legacy-of-the-master-booster-box"
+          }
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/628347"
+      ],
+      "releaseDate": "2025-08-22"
+    },
+    {
+      "id": "legacy-of-the-master-booster-pack",
+      "set": "OP12",
+      "category": "booster_pack",
+      "name": "Legacy of the Master Booster Pack",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          628345
+        ]
+      },
+      "contentsStatus": "partial",
+      "contents": {
+        "pool": [
+          {
+            "set": "OP12"
+          }
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/628345"
+      ],
+      "releaseDate": "2025-08-22"
+    },
+    {
+      "id": "legacy-of-the-master-sleeved-booster-pack",
+      "set": "OP12",
+      "category": "sleeved_booster_pack",
+      "name": "Legacy of the Master - Sleeved Booster Pack",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          650645
+        ]
+      },
+      "contentsStatus": "partial",
+      "contents": {
+        "pool": [
+          {
+            "set": "OP12"
+          }
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/650645"
+      ],
+      "releaseDate": "2025-08-22"
+    },
+    {
+      "id": "special-don-card-pack-dp-08",
+      "set": "OP12",
+      "category": "promo_pack",
+      "name": "Special DON!! Card Pack DP-08",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          651980
+        ]
+      },
+      "contentsStatus": "unknown",
+      "contents": {},
+      "sources": [
+        "https://www.tcgplayer.com/product/651980"
+      ],
+      "releaseDate": "2025-08-22"
+    }
+  ]
+}

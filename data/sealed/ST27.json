@@ -1,0 +1,92 @@
+{
+  "products": [
+    {
+      "id": "starter-deck-27-black-marshall-d-teach",
+      "set": "ST27",
+      "category": "starter_deck",
+      "name": "Starter Deck 27: BLACK Marshall.D.Teach",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          627678
+        ]
+      },
+      "contentsStatus": "partial",
+      "contents": {
+        "cards": [
+          {
+            "printing": "OP09-081_p2"
+          },
+          {
+            "printing": "OP09-083_r1"
+          },
+          {
+            "printing": "OP09-086_r1"
+          },
+          {
+            "printing": "OP09-088_r1"
+          },
+          {
+            "printing": "OP09-089_r1"
+          },
+          {
+            "printing": "OP09-090_r1"
+          },
+          {
+            "printing": "OP09-091_r1"
+          },
+          {
+            "printing": "OP09-095_r1"
+          },
+          {
+            "printing": "OP09-099_r1"
+          },
+          {
+            "printing": "OP10-084_r1"
+          },
+          {
+            "printing": "ST27-001"
+          },
+          {
+            "printing": "ST27-002"
+          },
+          {
+            "printing": "ST27-003"
+          },
+          {
+            "printing": "ST27-004"
+          },
+          {
+            "printing": "ST27-005"
+          }
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/627678"
+      ],
+      "releaseDate": "2025-06-06"
+    },
+    {
+      "id": "starter-deck-27-black-marshall-d-teach-display",
+      "set": "ST27",
+      "category": "display",
+      "name": "Starter Deck 27: BLACK Marshall.D.Teach Display",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          627679
+        ]
+      },
+      "contentsStatus": "partial",
+      "contents": {
+        "sealed": [
+          {
+            "product": "starter-deck-27-black-marshall-d-teach"
+          }
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/627679"
+      ],
+      "releaseDate": "2025-06-06"
+    }
+  ]
+}

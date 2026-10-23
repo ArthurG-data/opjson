@@ -23,7 +23,22 @@
           "rarity": "L",
           "block": "5",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP17-001.png",
-          "source": "bandai"
+          "cardSet": "BOOSTER PACK -THE WORLD’S STRONGEST WARRIORS- [OP-17]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              705925
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "Edward.Newgate (001)",
+            "match": "image",
+            "distance": 4
+          },
+          "artist": "Kohei Mikoshi"
         },
         {
           "id": "OP17-001_p1",
@@ -31,7 +46,24 @@
           "rarity": "L",
           "block": "5",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP17-001_p1.png",
-          "source": "bandai"
+          "cardSet": "BOOSTER PACK -THE WORLD’S STRONGEST WARRIORS- [OP-17]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              705924
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Edward.Newgate (001) (Alternate Art)",
+            "match": "image",
+            "distance": 5
+          },
+          "treatments": [
+            "alternate_art"
+          ]
         }
       ]
     },
@@ -57,7 +89,50 @@
           "rarity": "C",
           "block": "5",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP17-002.png",
-          "source": "bandai"
+          "cardSet": "BOOSTER PACK -THE WORLD’S STRONGEST WARRIORS- [OP-17]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              712591
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "Atmos",
+            "match": "image-only-candidate",
+            "distance": 4
+          },
+          "artist": "touge369"
+        },
+        {
+          "id": "OP17-002~tcg712666",
+          "set": "OP17-RE",
+          "rarity": "C",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/712666_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              712666
+            ]
+          },
+          "tcgplayer": {
+            "name": "Atmos",
+            "match": "minted",
+            "distance": 4
+          },
+          "artOf": "OP17-002",
+          "finishes": [
+            "nonfoil"
+          ],
+          "promoTypes": [
+            {
+              "type": "release",
+              "category": "event"
+            }
+          ],
+          "artist": "touge369"
         }
       ]
     },
@@ -84,7 +159,22 @@
           "rarity": "R",
           "block": "5",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP17-003.png",
-          "source": "bandai"
+          "cardSet": "BOOSTER PACK -THE WORLD’S STRONGEST WARRIORS- [OP-17]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              708075
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Izo",
+            "match": "image-only-candidate",
+            "distance": 1
+          },
+          "artist": "Hokuyuu"
         }
       ]
     },
@@ -113,7 +203,50 @@
           "rarity": "C",
           "block": "5",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP17-004.png",
-          "source": "bandai"
+          "cardSet": "BOOSTER PACK -THE WORLD’S STRONGEST WARRIORS- [OP-17]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              705921
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "Inuarashi & Nekomamushi",
+            "match": "image-only-candidate",
+            "distance": 2
+          },
+          "artist": "kito"
+        },
+        {
+          "id": "OP17-004~tcg712667",
+          "set": "OP17-RE",
+          "rarity": "C",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/712667_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              712667
+            ]
+          },
+          "tcgplayer": {
+            "name": "Inuarashi & Nekomamushi",
+            "match": "minted",
+            "distance": 3
+          },
+          "artOf": "OP17-004",
+          "finishes": [
+            "nonfoil"
+          ],
+          "promoTypes": [
+            {
+              "type": "release",
+              "category": "event"
+            }
+          ],
+          "artist": "kito"
         }
       ]
     },
@@ -140,7 +273,22 @@
           "rarity": "SR",
           "block": "X",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP17-005.png",
-          "source": "bandai"
+          "cardSet": "BOOSTER PACK -THE WORLD’S STRONGEST WARRIORS- [OP-17]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              711499
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Edward.Newgate (005)",
+            "match": "image",
+            "distance": 1
+          },
+          "artist": "Yosuke Adachi"
         },
         {
           "id": "OP17-005_p1",
@@ -148,7 +296,25 @@
           "rarity": "SR",
           "block": "X",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP17-005_p1.png",
-          "source": "bandai"
+          "cardSet": "BOOSTER PACK -THE WORLD’S STRONGEST WARRIORS- [OP-17]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              708077
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Edward.Newgate (005) (Alternate Art)",
+            "match": "image",
+            "distance": 0
+          },
+          "treatments": [
+            "alternate_art"
+          ],
+          "artist": "DAI-XT."
         },
         {
           "id": "OP17-005_p2",
@@ -156,7 +322,24 @@
           "rarity": "SR",
           "block": "X",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP17-005_p2.png",
-          "source": "bandai"
+          "cardSet": "BOOSTER PACK -THE WORLD’S STRONGEST WARRIORS- [OP-17]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              712083
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Edward.Newgate (005) (Manga)",
+            "match": "image",
+            "distance": 4
+          },
+          "treatments": [
+            "manga"
+          ]
         }
       ]
     },
@@ -183,7 +366,22 @@
           "rarity": "C",
           "block": "5",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP17-006.png",
-          "source": "bandai"
+          "cardSet": "BOOSTER PACK -THE WORLD’S STRONGEST WARRIORS- [OP-17]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              712592
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "Kingdew",
+            "match": "image",
+            "distance": 1
+          },
+          "artist": "kankurou"
         },
         {
           "id": "OP17-006_p1",
@@ -191,7 +389,50 @@
           "rarity": "C",
           "block": "5",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP17-006_p1.png",
-          "source": "bandai"
+          "cardSet": "BOOSTER PACK -THE WORLD’S STRONGEST WARRIORS- [OP-17]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              712593
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "Kingdew (Pandaman Art)",
+            "match": "image",
+            "distance": 2
+          },
+          "artist": "kankurou"
+        },
+        {
+          "id": "OP17-006~tcg712668",
+          "set": "OP17-RE",
+          "rarity": "C",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/712668_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              712668
+            ]
+          },
+          "tcgplayer": {
+            "name": "Kingdew",
+            "match": "minted",
+            "distance": 0
+          },
+          "artOf": "OP17-006",
+          "finishes": [
+            "nonfoil"
+          ],
+          "promoTypes": [
+            {
+              "type": "release",
+              "category": "event"
+            }
+          ],
+          "artist": "kankurou"
         }
       ]
     },
@@ -219,7 +460,22 @@
           "rarity": "R",
           "block": "5",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP17-007.png",
-          "source": "bandai"
+          "cardSet": "BOOSTER PACK -THE WORLD’S STRONGEST WARRIORS- [OP-17]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              708065
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Kouzuki Oden",
+            "match": "image-only-candidate",
+            "distance": 2
+          },
+          "artist": "Nijihayashi"
         }
       ]
     },
@@ -245,7 +501,22 @@
           "rarity": "R",
           "block": "5",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP17-008.png",
-          "source": "bandai"
+          "cardSet": "BOOSTER PACK -THE WORLD’S STRONGEST WARRIORS- [OP-17]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              712594
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Jozu",
+            "match": "image-only-candidate",
+            "distance": 4
+          },
+          "artist": "HISASHI HUJIWARA"
         }
       ]
     },
@@ -272,7 +543,50 @@
           "rarity": "UC",
           "block": "5",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP17-009.png",
-          "source": "bandai"
+          "cardSet": "BOOSTER PACK -THE WORLD’S STRONGEST WARRIORS- [OP-17]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              712595
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "Haruta",
+            "match": "image-only-candidate",
+            "distance": 5
+          },
+          "artist": "Nekobayashi"
+        },
+        {
+          "id": "OP17-009~tcg712669",
+          "set": "OP17-RE",
+          "rarity": "UC",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/712669_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              712669
+            ]
+          },
+          "tcgplayer": {
+            "name": "Haruta",
+            "match": "minted",
+            "distance": 2
+          },
+          "artOf": "OP17-009",
+          "finishes": [
+            "nonfoil"
+          ],
+          "promoTypes": [
+            {
+              "type": "release",
+              "category": "event"
+            }
+          ],
+          "artist": "Nekobayashi"
         }
       ]
     },
@@ -298,7 +612,50 @@
           "rarity": "C",
           "block": "5",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP17-010.png",
-          "source": "bandai"
+          "cardSet": "BOOSTER PACK -THE WORLD’S STRONGEST WARRIORS- [OP-17]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              712596
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "Fossa",
+            "match": "image-only-candidate",
+            "distance": 2
+          },
+          "artist": "kankurou"
+        },
+        {
+          "id": "OP17-010~tcg712670",
+          "set": "OP17-RE",
+          "rarity": "C",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/712670_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              712670
+            ]
+          },
+          "tcgplayer": {
+            "name": "Fossa",
+            "match": "minted",
+            "distance": 3
+          },
+          "artOf": "OP17-010",
+          "finishes": [
+            "nonfoil"
+          ],
+          "promoTypes": [
+            {
+              "type": "release",
+              "category": "event"
+            }
+          ],
+          "artist": "kankurou"
         }
       ]
     },
@@ -325,7 +682,50 @@
           "rarity": "C",
           "block": "5",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP17-011.png",
-          "source": "bandai"
+          "cardSet": "BOOSTER PACK -THE WORLD’S STRONGEST WARRIORS- [OP-17]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              712597
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "Blamenco",
+            "match": "image-only-candidate",
+            "distance": 1
+          },
+          "artist": "Yasushi Yamaguchi"
+        },
+        {
+          "id": "OP17-011~tcg712671",
+          "set": "OP17-RE",
+          "rarity": "C",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/712671_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              712671
+            ]
+          },
+          "tcgplayer": {
+            "name": "Blamenco",
+            "match": "minted",
+            "distance": 0
+          },
+          "artOf": "OP17-011",
+          "finishes": [
+            "nonfoil"
+          ],
+          "promoTypes": [
+            {
+              "type": "release",
+              "category": "event"
+            }
+          ],
+          "artist": "Yasushi Yamaguchi"
         }
       ]
     },
@@ -352,7 +752,50 @@
           "rarity": "C",
           "block": "5",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP17-012.png",
-          "source": "bandai"
+          "cardSet": "BOOSTER PACK -THE WORLD’S STRONGEST WARRIORS- [OP-17]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              707125
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "Blenheim",
+            "match": "image-only-candidate",
+            "distance": 2
+          },
+          "artist": "Nekobayashi"
+        },
+        {
+          "id": "OP17-012~tcg712672",
+          "set": "OP17-RE",
+          "rarity": "C",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/712672_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              712672
+            ]
+          },
+          "tcgplayer": {
+            "name": "Blenheim",
+            "match": "minted",
+            "distance": 2
+          },
+          "artOf": "OP17-012",
+          "finishes": [
+            "nonfoil"
+          ],
+          "promoTypes": [
+            {
+              "type": "release",
+              "category": "event"
+            }
+          ],
+          "artist": "Nekobayashi"
         }
       ]
     },
@@ -379,7 +822,50 @@
           "rarity": "UC",
           "block": "5",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP17-013.png",
-          "source": "bandai"
+          "cardSet": "BOOSTER PACK -THE WORLD’S STRONGEST WARRIORS- [OP-17]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              708780
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "Portgas.D.Ace",
+            "match": "image-only-candidate",
+            "distance": 2
+          },
+          "artist": "Tadaichi Nakama"
+        },
+        {
+          "id": "OP17-013~tcg712673",
+          "set": "OP17-RE",
+          "rarity": "UC",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/712673_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              712673
+            ]
+          },
+          "tcgplayer": {
+            "name": "Portgas.D.Ace",
+            "match": "minted",
+            "distance": 2
+          },
+          "artOf": "OP17-013",
+          "finishes": [
+            "nonfoil"
+          ],
+          "promoTypes": [
+            {
+              "type": "release",
+              "category": "event"
+            }
+          ],
+          "artist": "Tadaichi Nakama"
         }
       ]
     },
@@ -406,7 +892,50 @@
           "rarity": "C",
           "block": "5",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP17-014.png",
-          "source": "bandai"
+          "cardSet": "BOOSTER PACK -THE WORLD’S STRONGEST WARRIORS- [OP-17]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              712598
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "Whitey Bay",
+            "match": "image-only-candidate",
+            "distance": 2
+          },
+          "artist": "BISAI"
+        },
+        {
+          "id": "OP17-014~tcg712674",
+          "set": "OP17-RE",
+          "rarity": "C",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/712674_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              712674
+            ]
+          },
+          "tcgplayer": {
+            "name": "Whitey Bay",
+            "match": "minted",
+            "distance": 2
+          },
+          "artOf": "OP17-014",
+          "finishes": [
+            "nonfoil"
+          ],
+          "promoTypes": [
+            {
+              "type": "release",
+              "category": "event"
+            }
+          ],
+          "artist": "BISAI"
         }
       ]
     },
@@ -433,7 +962,50 @@
           "rarity": "UC",
           "block": "5",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP17-015.png",
-          "source": "bandai"
+          "cardSet": "BOOSTER PACK -THE WORLD’S STRONGEST WARRIORS- [OP-17]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              708073
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "Marco",
+            "match": "image-only-candidate",
+            "distance": 2
+          },
+          "artist": "BISAI"
+        },
+        {
+          "id": "OP17-015~tcg712675",
+          "set": "OP17-RE",
+          "rarity": "UC",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/712675_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              712675
+            ]
+          },
+          "tcgplayer": {
+            "name": "Marco",
+            "match": "minted",
+            "distance": 1
+          },
+          "artOf": "OP17-015",
+          "finishes": [
+            "nonfoil"
+          ],
+          "promoTypes": [
+            {
+              "type": "release",
+              "category": "event"
+            }
+          ],
+          "artist": "BISAI"
         }
       ]
     },
@@ -460,7 +1032,50 @@
           "rarity": "UC",
           "block": "5",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP17-016.png",
-          "source": "bandai"
+          "cardSet": "BOOSTER PACK -THE WORLD’S STRONGEST WARRIORS- [OP-17]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              712599
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "Rakuyo",
+            "match": "image-only-candidate",
+            "distance": 2
+          },
+          "artist": "Nekobayashi"
+        },
+        {
+          "id": "OP17-016~tcg712676",
+          "set": "OP17-RE",
+          "rarity": "UC",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/712676_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              712676
+            ]
+          },
+          "tcgplayer": {
+            "name": "Rakuyo",
+            "match": "minted",
+            "distance": 2
+          },
+          "artOf": "OP17-016",
+          "finishes": [
+            "nonfoil"
+          ],
+          "promoTypes": [
+            {
+              "type": "release",
+              "category": "event"
+            }
+          ],
+          "artist": "Nekobayashi"
         }
       ]
     },
@@ -483,7 +1098,48 @@
           "rarity": "C",
           "block": "5",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP17-017.png",
-          "source": "bandai"
+          "cardSet": "BOOSTER PACK -THE WORLD’S STRONGEST WARRIORS- [OP-17]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              712600
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "Ga Ha Ha Ha!!",
+            "match": "image-only-candidate",
+            "distance": 4
+          }
+        },
+        {
+          "id": "OP17-017~tcg712677",
+          "set": "OP17-RE",
+          "rarity": "C",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/712677_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              712677
+            ]
+          },
+          "tcgplayer": {
+            "name": "Ga Ha Ha Ha!!",
+            "match": "minted",
+            "distance": 5
+          },
+          "artOf": "OP17-017",
+          "finishes": [
+            "nonfoil"
+          ],
+          "promoTypes": [
+            {
+              "type": "release",
+              "category": "event"
+            }
+          ]
         }
       ]
     },
@@ -506,7 +1162,48 @@
           "rarity": "UC",
           "block": "5",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP17-018.png",
-          "source": "bandai"
+          "cardSet": "BOOSTER PACK -THE WORLD’S STRONGEST WARRIORS- [OP-17]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              712601
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "The Power to Destroy the World",
+            "match": "image-only-candidate",
+            "distance": 5
+          }
+        },
+        {
+          "id": "OP17-018~tcg712678",
+          "set": "OP17-RE",
+          "rarity": "UC",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/712678_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              712678
+            ]
+          },
+          "tcgplayer": {
+            "name": "The Power to Destroy the World",
+            "match": "minted",
+            "distance": 6
+          },
+          "artOf": "OP17-018",
+          "finishes": [
+            "nonfoil"
+          ],
+          "promoTypes": [
+            {
+              "type": "release",
+              "category": "event"
+            }
+          ]
         }
       ]
     },
@@ -529,7 +1226,21 @@
           "rarity": "R",
           "block": "5",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP17-019.png",
-          "source": "bandai"
+          "cardSet": "BOOSTER PACK -THE WORLD’S STRONGEST WARRIORS- [OP-17]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              712602
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "I Don't Have Time to Chat with Snot-Nosed Brats",
+            "match": "image-only-candidate",
+            "distance": 0
+          }
         }
       ]
     },
@@ -556,7 +1267,22 @@
           "rarity": "L",
           "block": "5",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP17-020.png",
-          "source": "bandai"
+          "cardSet": "BOOSTER PACK -THE WORLD’S STRONGEST WARRIORS- [OP-17]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              705922
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "Shanks (020)",
+            "match": "image",
+            "distance": 1
+          },
+          "artist": "Paji"
         },
         {
           "id": "OP17-020_p1",
@@ -564,7 +1290,24 @@
           "rarity": "L",
           "block": "5",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP17-020_p1.png",
-          "source": "bandai"
+          "cardSet": "BOOSTER PACK -THE WORLD’S STRONGEST WARRIORS- [OP-17]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              705923
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Shanks (020) (Alternate Art)",
+            "match": "image",
+            "distance": 3
+          },
+          "treatments": [
+            "alternate_art"
+          ]
         }
       ]
     },
@@ -590,7 +1333,50 @@
           "rarity": "UC",
           "block": "5",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP17-021.png",
-          "source": "bandai"
+          "cardSet": "BOOSTER PACK -THE WORLD’S STRONGEST WARRIORS- [OP-17]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              712603
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "Crone Oli",
+            "match": "image-only-candidate",
+            "distance": 1
+          },
+          "artist": "COGA"
+        },
+        {
+          "id": "OP17-021~tcg712679",
+          "set": "OP17-RE",
+          "rarity": "UC",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/712679_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              712679
+            ]
+          },
+          "tcgplayer": {
+            "name": "Crone Oli",
+            "match": "minted",
+            "distance": 1
+          },
+          "artOf": "OP17-021",
+          "finishes": [
+            "nonfoil"
+          ],
+          "promoTypes": [
+            {
+              "type": "release",
+              "category": "event"
+            }
+          ],
+          "artist": "COGA"
         }
       ]
     },
@@ -617,7 +1403,22 @@
           "rarity": "SR",
           "block": "X",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP17-022.png",
-          "source": "bandai"
+          "cardSet": "BOOSTER PACK -THE WORLD’S STRONGEST WARRIORS- [OP-17]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              707120
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Shanks (022)",
+            "match": "image",
+            "distance": 4
+          },
+          "artist": "Bashikou"
         },
         {
           "id": "OP17-022_p1",
@@ -625,7 +1426,25 @@
           "rarity": "SR",
           "block": "X",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP17-022_p1.png",
-          "source": "bandai"
+          "cardSet": "BOOSTER PACK -THE WORLD’S STRONGEST WARRIORS- [OP-17]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              707121
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Shanks (022) (Alternate Art)",
+            "match": "image",
+            "distance": 3
+          },
+          "treatments": [
+            "alternate_art"
+          ],
+          "artist": "Matsumoto Akira"
         },
         {
           "id": "OP17-022_p2",
@@ -633,7 +1452,24 @@
           "rarity": "SR",
           "block": "X",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP17-022_p2.png",
-          "source": "bandai"
+          "cardSet": "BOOSTER PACK -THE WORLD’S STRONGEST WARRIORS- [OP-17]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              712084
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Shanks (022) (Manga)",
+            "match": "image",
+            "distance": 2
+          },
+          "treatments": [
+            "manga"
+          ]
         }
       ]
     },
@@ -661,7 +1497,50 @@
           "rarity": "UC",
           "block": "5",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP17-023.png",
-          "source": "bandai"
+          "cardSet": "BOOSTER PACK -THE WORLD’S STRONGEST WARRIORS- [OP-17]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              712604
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "Nami (023)",
+            "match": "image-only-candidate",
+            "distance": 0
+          },
+          "artist": "sacanahen"
+        },
+        {
+          "id": "OP17-023~tcg712680",
+          "set": "OP17-RE",
+          "rarity": "UC",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/712680_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              712680
+            ]
+          },
+          "tcgplayer": {
+            "name": "Nami (023)",
+            "match": "minted",
+            "distance": 1
+          },
+          "artOf": "OP17-023",
+          "finishes": [
+            "nonfoil"
+          ],
+          "promoTypes": [
+            {
+              "type": "release",
+              "category": "event"
+            }
+          ],
+          "artist": "sacanahen"
         }
       ]
     },
@@ -688,7 +1567,50 @@
           "rarity": "C",
           "block": "5",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP17-024.png",
-          "source": "bandai"
+          "cardSet": "BOOSTER PACK -THE WORLD’S STRONGEST WARRIORS- [OP-17]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              708398
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "Howling Gab",
+            "match": "image-only-candidate",
+            "distance": 4
+          },
+          "artist": "Sotaro Nishii"
+        },
+        {
+          "id": "OP17-024~tcg712681",
+          "set": "OP17-RE",
+          "rarity": "C",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/712681_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              712681
+            ]
+          },
+          "tcgplayer": {
+            "name": "Howling Gab",
+            "match": "minted",
+            "distance": 3
+          },
+          "artOf": "OP17-024",
+          "finishes": [
+            "nonfoil"
+          ],
+          "promoTypes": [
+            {
+              "type": "release",
+              "category": "event"
+            }
+          ],
+          "artist": "Sotaro Nishii"
         }
       ]
     },
@@ -715,7 +1637,22 @@
           "rarity": "UC",
           "block": "5",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP17-025.png",
-          "source": "bandai"
+          "cardSet": "BOOSTER PACK -THE WORLD’S STRONGEST WARRIORS- [OP-17]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              708068
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "Building Snake",
+            "match": "image",
+            "distance": 2
+          },
+          "artist": "ASAKI KURODA"
         },
         {
           "id": "OP17-025_p1",
@@ -723,7 +1660,50 @@
           "rarity": "UC",
           "block": "5",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP17-025_p1.png",
-          "source": "bandai"
+          "cardSet": "BOOSTER PACK -THE WORLD’S STRONGEST WARRIORS- [OP-17]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              712605
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "Building Snake (Pandaman Art)",
+            "match": "image",
+            "distance": 7
+          },
+          "artist": "ASAKI KURODA"
+        },
+        {
+          "id": "OP17-025~tcg712682",
+          "set": "OP17-RE",
+          "rarity": "UC",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/712682_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              712682
+            ]
+          },
+          "tcgplayer": {
+            "name": "Building Snake",
+            "match": "minted",
+            "distance": 2
+          },
+          "artOf": "OP17-025",
+          "finishes": [
+            "nonfoil"
+          ],
+          "promoTypes": [
+            {
+              "type": "release",
+              "category": "event"
+            }
+          ],
+          "artist": "ASAKI KURODA"
         }
       ]
     },
@@ -750,7 +1730,50 @@
           "rarity": "UC",
           "block": "5",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP17-026.png",
-          "source": "bandai"
+          "cardSet": "BOOSTER PACK -THE WORLD’S STRONGEST WARRIORS- [OP-17]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              712606
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "Fugar",
+            "match": "image-only-candidate",
+            "distance": 1
+          },
+          "artist": "Suzume Muraichi"
+        },
+        {
+          "id": "OP17-026~tcg712683",
+          "set": "OP17-RE",
+          "rarity": "UC",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/712683_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              712683
+            ]
+          },
+          "tcgplayer": {
+            "name": "Fugar",
+            "match": "minted",
+            "distance": 1
+          },
+          "artOf": "OP17-026",
+          "finishes": [
+            "nonfoil"
+          ],
+          "promoTypes": [
+            {
+              "type": "release",
+              "category": "event"
+            }
+          ],
+          "artist": "Suzume Muraichi"
         }
       ]
     },
@@ -776,7 +1799,22 @@
           "rarity": "R",
           "block": "5",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP17-027.png",
-          "source": "bandai"
+          "cardSet": "BOOSTER PACK -THE WORLD’S STRONGEST WARRIORS- [OP-17]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              708210
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Benn.Beckman",
+            "match": "image",
+            "distance": 3
+          },
+          "artist": "Kantaro Ito"
         },
         {
           "id": "OP17-027_p1",
@@ -784,7 +1822,25 @@
           "rarity": "R",
           "block": "5",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP17-027_p1.png",
-          "source": "bandai"
+          "cardSet": "BOOSTER PACK -THE WORLD’S STRONGEST WARRIORS- [OP-17]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              712085
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Benn.Beckman (Alternate Art)",
+            "match": "image",
+            "distance": 7
+          },
+          "treatments": [
+            "alternate_art"
+          ],
+          "artist": "Oden"
         }
       ]
     },
@@ -812,7 +1868,50 @@
           "rarity": "C",
           "block": "5",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP17-028.png",
-          "source": "bandai"
+          "cardSet": "BOOSTER PACK -THE WORLD’S STRONGEST WARRIORS- [OP-17]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              705920
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "Bonk Punch & Monster",
+            "match": "image-only-candidate",
+            "distance": 2
+          },
+          "artist": "COGA"
+        },
+        {
+          "id": "OP17-028~tcg712684",
+          "set": "OP17-RE",
+          "rarity": "C",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/712684_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              712684
+            ]
+          },
+          "tcgplayer": {
+            "name": "Bonk Punch & Monster",
+            "match": "minted",
+            "distance": 5
+          },
+          "artOf": "OP17-028",
+          "finishes": [
+            "nonfoil"
+          ],
+          "promoTypes": [
+            {
+              "type": "release",
+              "category": "event"
+            }
+          ],
+          "artist": "COGA"
         }
       ]
     },
@@ -839,7 +1938,22 @@
           "rarity": "R",
           "block": "5",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP17-029.png",
-          "source": "bandai"
+          "cardSet": "BOOSTER PACK -THE WORLD’S STRONGEST WARRIORS- [OP-17]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              708076
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Hongo",
+            "match": "image-only-candidate",
+            "distance": 0
+          },
+          "artist": "phima"
         }
       ]
     },
@@ -867,7 +1981,50 @@
           "rarity": "C",
           "block": "5",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP17-030.png",
-          "source": "bandai"
+          "cardSet": "BOOSTER PACK -THE WORLD’S STRONGEST WARRIORS- [OP-17]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              712607
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "Monkey.D.Luffy (030)",
+            "match": "image-only-candidate",
+            "distance": 3
+          },
+          "artist": "Hachi Takashi"
+        },
+        {
+          "id": "OP17-030~tcg712685",
+          "set": "OP17-RE",
+          "rarity": "C",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/712685_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              712685
+            ]
+          },
+          "tcgplayer": {
+            "name": "Monkey.D.Luffy (030)",
+            "match": "minted",
+            "distance": 2
+          },
+          "artOf": "OP17-030",
+          "finishes": [
+            "nonfoil"
+          ],
+          "promoTypes": [
+            {
+              "type": "release",
+              "category": "event"
+            }
+          ],
+          "artist": "Hachi Takashi"
         }
       ]
     },
@@ -894,7 +2051,22 @@
           "rarity": "SR",
           "block": "5",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP17-031.png",
-          "source": "bandai"
+          "cardSet": "BOOSTER PACK -THE WORLD’S STRONGEST WARRIORS- [OP-17]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              711422
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Yasopp",
+            "match": "image",
+            "distance": 2
+          },
+          "artist": "Ryuda"
         },
         {
           "id": "OP17-031_p1",
@@ -902,7 +2074,25 @@
           "rarity": "SR",
           "block": "5",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP17-031_p1.png",
-          "source": "bandai"
+          "cardSet": "BOOSTER PACK -THE WORLD’S STRONGEST WARRIORS- [OP-17]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              711423
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Yasopp (Alternate Art)",
+            "match": "image",
+            "distance": 4
+          },
+          "treatments": [
+            "alternate_art"
+          ],
+          "artist": "Minato Sashima"
         }
       ]
     },
@@ -929,7 +2119,22 @@
           "rarity": "R",
           "block": "5",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP17-032.png",
-          "source": "bandai"
+          "cardSet": "BOOSTER PACK -THE WORLD’S STRONGEST WARRIORS- [OP-17]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              712608
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Limejuice",
+            "match": "image-only-candidate",
+            "distance": 2
+          },
+          "artist": "Akihiro MIYANO"
         }
       ]
     },
@@ -956,7 +2161,22 @@
           "rarity": "R",
           "block": "5",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP17-033.png",
-          "source": "bandai"
+          "cardSet": "BOOSTER PACK -THE WORLD’S STRONGEST WARRIORS- [OP-17]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              710616
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Lucky.Roux",
+            "match": "image-only-candidate",
+            "distance": 6
+          },
+          "artist": "Akihiro MIYANO"
         }
       ]
     },
@@ -983,7 +2203,50 @@
           "rarity": "C",
           "block": "5",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP17-034.png",
-          "source": "bandai"
+          "cardSet": "BOOSTER PACK -THE WORLD’S STRONGEST WARRIORS- [OP-17]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              707122
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "Rockstar",
+            "match": "image-only-candidate",
+            "distance": 0
+          },
+          "artist": "Tanaka Kenichi"
+        },
+        {
+          "id": "OP17-034~tcg712686",
+          "set": "OP17-RE",
+          "rarity": "C",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/712686_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              712686
+            ]
+          },
+          "tcgplayer": {
+            "name": "Rockstar",
+            "match": "minted",
+            "distance": 0
+          },
+          "artOf": "OP17-034",
+          "finishes": [
+            "nonfoil"
+          ],
+          "promoTypes": [
+            {
+              "type": "release",
+              "category": "event"
+            }
+          ],
+          "artist": "Tanaka Kenichi"
         }
       ]
     },
@@ -1011,7 +2274,50 @@
           "rarity": "C",
           "block": "5",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP17-035.png",
-          "source": "bandai"
+          "cardSet": "BOOSTER PACK -THE WORLD’S STRONGEST WARRIORS- [OP-17]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              712609
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "Roronoa Zoro (035)",
+            "match": "image-only-candidate",
+            "distance": 3
+          },
+          "artist": "tatsuya"
+        },
+        {
+          "id": "OP17-035~tcg712687",
+          "set": "OP17-RE",
+          "rarity": "C",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/712687_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              712687
+            ]
+          },
+          "tcgplayer": {
+            "name": "Roronoa Zoro (035)",
+            "match": "minted",
+            "distance": 2
+          },
+          "artOf": "OP17-035",
+          "finishes": [
+            "nonfoil"
+          ],
+          "promoTypes": [
+            {
+              "type": "release",
+              "category": "event"
+            }
+          ],
+          "artist": "tatsuya"
         }
       ]
     },
@@ -1034,7 +2340,48 @@
           "rarity": "UC",
           "block": "5",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP17-036.png",
-          "source": "bandai"
+          "cardSet": "BOOSTER PACK -THE WORLD’S STRONGEST WARRIORS- [OP-17]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              712610
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "Withdraw Now and Allow Me to Save Face",
+            "match": "image-only-candidate",
+            "distance": 4
+          }
+        },
+        {
+          "id": "OP17-036~tcg712688",
+          "set": "OP17-RE",
+          "rarity": "UC",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/712688_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              712688
+            ]
+          },
+          "tcgplayer": {
+            "name": "Withdraw Now and Allow Me to Save Face",
+            "match": "minted",
+            "distance": 3
+          },
+          "artOf": "OP17-036",
+          "finishes": [
+            "nonfoil"
+          ],
+          "promoTypes": [
+            {
+              "type": "release",
+              "category": "event"
+            }
+          ]
         }
       ]
     },
@@ -1057,7 +2404,21 @@
           "rarity": "R",
           "block": "5",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP17-037.png",
-          "source": "bandai"
+          "cardSet": "BOOSTER PACK -THE WORLD’S STRONGEST WARRIORS- [OP-17]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              711424
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Are You That Afraid of the New Era?!",
+            "match": "image",
+            "distance": 2
+          }
         },
         {
           "id": "OP17-037_p1",
@@ -1065,7 +2426,24 @@
           "rarity": "R",
           "block": "5",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP17-037_p1.png",
-          "source": "bandai"
+          "cardSet": "BOOSTER PACK -THE WORLD’S STRONGEST WARRIORS- [OP-17]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              711425
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Are You That Afraid of the New Era?! (Alternate Art)",
+            "match": "image",
+            "distance": 4
+          },
+          "treatments": [
+            "alternate_art"
+          ]
         }
       ]
     },
@@ -1086,7 +2464,48 @@
           "rarity": "C",
           "block": "5",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP17-038.png",
-          "source": "bandai"
+          "cardSet": "BOOSTER PACK -THE WORLD’S STRONGEST WARRIORS- [OP-17]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              712611
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "I Think He's Seen an Ugly Future...",
+            "match": "image-only-candidate",
+            "distance": 4
+          }
+        },
+        {
+          "id": "OP17-038~tcg712689",
+          "set": "OP17-RE",
+          "rarity": "C",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/712689_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              712689
+            ]
+          },
+          "tcgplayer": {
+            "name": "I Think He's Seen an Ugly Future...",
+            "match": "minted",
+            "distance": 3
+          },
+          "artOf": "OP17-038",
+          "finishes": [
+            "nonfoil"
+          ],
+          "promoTypes": [
+            {
+              "type": "release",
+              "category": "event"
+            }
+          ]
         }
       ]
     },
@@ -1112,7 +2531,22 @@
           "rarity": "L",
           "block": "5",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP17-039.png",
-          "source": "bandai"
+          "cardSet": "BOOSTER PACK -THE WORLD’S STRONGEST WARRIORS- [OP-17]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              712086
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "Rocks.D.Xebec (039)",
+            "match": "image",
+            "distance": 5
+          },
+          "artist": "Bashikou"
         },
         {
           "id": "OP17-039_p1",
@@ -1120,7 +2554,24 @@
           "rarity": "L",
           "block": "5",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP17-039_p1.png",
-          "source": "bandai"
+          "cardSet": "BOOSTER PACK -THE WORLD’S STRONGEST WARRIORS- [OP-17]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              710591
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Rocks.D.Xebec (039) (Alternate Art)",
+            "match": "image",
+            "distance": 1
+          },
+          "treatments": [
+            "alternate_art"
+          ]
         }
       ]
     },
@@ -1146,7 +2597,22 @@
           "rarity": "R",
           "block": "5",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP17-040.png",
-          "source": "bandai"
+          "cardSet": "BOOSTER PACK -THE WORLD’S STRONGEST WARRIORS- [OP-17]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              712031
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Edward.Newgate (040)",
+            "match": "image",
+            "distance": 4
+          },
+          "artist": "Hatori Kyoka"
         },
         {
           "id": "OP17-040_p1",
@@ -1154,7 +2620,22 @@
           "rarity": "TR",
           "block": "5",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP17-040_p1.png",
-          "source": "bandai"
+          "cardSet": "BOOSTER PACK -THE WORLD’S STRONGEST WARRIORS- [OP-17]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              710858
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Edward.Newgate (040) (TR)",
+            "match": "image",
+            "distance": 5
+          },
+          "artist": "Bashikou"
         }
       ]
     },
@@ -1180,7 +2661,50 @@
           "rarity": "UC",
           "block": "5",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP17-041.png",
-          "source": "bandai"
+          "cardSet": "BOOSTER PACK -THE WORLD’S STRONGEST WARRIORS- [OP-17]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              712612
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "Wang Zhi",
+            "match": "image-only-candidate",
+            "distance": 6
+          },
+          "artist": "ASAKI KURODA"
+        },
+        {
+          "id": "OP17-041~tcg712690",
+          "set": "OP17-RE",
+          "rarity": "UC",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/712690_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              712690
+            ]
+          },
+          "tcgplayer": {
+            "name": "Wang Zhi",
+            "match": "minted",
+            "distance": 2
+          },
+          "artOf": "OP17-041",
+          "finishes": [
+            "nonfoil"
+          ],
+          "promoTypes": [
+            {
+              "type": "release",
+              "category": "event"
+            }
+          ],
+          "artist": "ASAKI KURODA"
         }
       ]
     },
@@ -1206,7 +2730,22 @@
           "rarity": "R",
           "block": "5",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP17-042.png",
-          "source": "bandai"
+          "cardSet": "BOOSTER PACK -THE WORLD’S STRONGEST WARRIORS- [OP-17]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              712613
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Kaido (042)",
+            "match": "image-only-candidate",
+            "distance": 1
+          },
+          "artist": "tatsuya"
         }
       ]
     },
@@ -1232,7 +2771,50 @@
           "rarity": "UC",
           "block": "5",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP17-043.png",
-          "source": "bandai"
+          "cardSet": "BOOSTER PACK -THE WORLD’S STRONGEST WARRIORS- [OP-17]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              712614
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "Ganzui",
+            "match": "image-only-candidate",
+            "distance": 2
+          },
+          "artist": "tasaka"
+        },
+        {
+          "id": "OP17-043~tcg712691",
+          "set": "OP17-RE",
+          "rarity": "UC",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/712691_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              712691
+            ]
+          },
+          "tcgplayer": {
+            "name": "Ganzui",
+            "match": "minted",
+            "distance": 3
+          },
+          "artOf": "OP17-043",
+          "finishes": [
+            "nonfoil"
+          ],
+          "promoTypes": [
+            {
+              "type": "release",
+              "category": "event"
+            }
+          ],
+          "artist": "tasaka"
         }
       ]
     },
@@ -1258,7 +2840,50 @@
           "rarity": "UC",
           "block": "5",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP17-044.png",
-          "source": "bandai"
+          "cardSet": "BOOSTER PACK -THE WORLD’S STRONGEST WARRIORS- [OP-17]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              712615
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "Captain John",
+            "match": "image-only-candidate",
+            "distance": 3
+          },
+          "artist": "Naruse Uroko"
+        },
+        {
+          "id": "OP17-044~tcg712692",
+          "set": "OP17-RE",
+          "rarity": "UC",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/712692_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              712692
+            ]
+          },
+          "tcgplayer": {
+            "name": "Captain John",
+            "match": "minted",
+            "distance": 2
+          },
+          "artOf": "OP17-044",
+          "finishes": [
+            "nonfoil"
+          ],
+          "promoTypes": [
+            {
+              "type": "release",
+              "category": "event"
+            }
+          ],
+          "artist": "Naruse Uroko"
         }
       ]
     },
@@ -1284,7 +2909,9 @@
           "rarity": "UC",
           "block": "5",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP17-045.png",
-          "source": "bandai"
+          "cardSet": "BOOSTER PACK -THE WORLD’S STRONGEST WARRIORS- [OP-17]",
+          "source": "bandai",
+          "artist": "Studio Vigor Co. Ltd"
         },
         {
           "id": "OP17-045_p1",
@@ -1292,7 +2919,36 @@
           "rarity": "UC",
           "block": "5",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP17-045_p1.png",
-          "source": "bandai"
+          "cardSet": "BOOSTER PACK -THE WORLD’S STRONGEST WARRIORS- [OP-17]",
+          "source": "bandai",
+          "artOf": "OP17-045",
+          "artist": "Studio Vigor Co. Ltd"
+        },
+        {
+          "id": "OP17-045~tcg712693",
+          "set": "OP17-RE",
+          "rarity": "UC",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/712693_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              712693
+            ]
+          },
+          "tcgplayer": {
+            "name": "Kyo",
+            "match": "minted",
+            "distance": null
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "promoTypes": [
+            {
+              "type": "release",
+              "category": "event"
+            }
+          ]
         }
       ]
     },
@@ -1319,7 +2975,22 @@
           "rarity": "SR",
           "block": "5",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP17-046.png",
-          "source": "bandai"
+          "cardSet": "BOOSTER PACK -THE WORLD’S STRONGEST WARRIORS- [OP-17]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              710541
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Gloriosa",
+            "match": "image",
+            "distance": 2
+          },
+          "artist": "SHIE NANAHARA"
         },
         {
           "id": "OP17-046_p1",
@@ -1327,7 +2998,25 @@
           "rarity": "SR",
           "block": "5",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP17-046_p1.png",
-          "source": "bandai"
+          "cardSet": "BOOSTER PACK -THE WORLD’S STRONGEST WARRIORS- [OP-17]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              711513
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Gloriosa (Alternate Art)",
+            "match": "image",
+            "distance": 3
+          },
+          "treatments": [
+            "alternate_art"
+          ],
+          "artist": "otton"
         }
       ]
     },
@@ -1355,7 +3044,50 @@
           "rarity": "C",
           "block": "5",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP17-047.png",
-          "source": "bandai"
+          "cardSet": "BOOSTER PACK -THE WORLD’S STRONGEST WARRIORS- [OP-17]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              712618
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "Shiki (047)",
+            "match": "image-only-candidate",
+            "distance": 5
+          },
+          "artist": "tatsuya"
+        },
+        {
+          "id": "OP17-047~tcg712694",
+          "set": "OP17-RE",
+          "rarity": "C",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/712694_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              712694
+            ]
+          },
+          "tcgplayer": {
+            "name": "Shiki (047)",
+            "match": "minted",
+            "distance": 5
+          },
+          "artOf": "OP17-047",
+          "finishes": [
+            "nonfoil"
+          ],
+          "promoTypes": [
+            {
+              "type": "release",
+              "category": "event"
+            }
+          ],
+          "artist": "tatsuya"
         }
       ]
     },
@@ -1381,7 +3113,22 @@
           "rarity": "SR",
           "block": "5",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP17-048.png",
-          "source": "bandai"
+          "cardSet": "BOOSTER PACK -THE WORLD’S STRONGEST WARRIORS- [OP-17]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              710542
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Shiki (048)",
+            "match": "image",
+            "distance": 4
+          },
+          "artist": "Katsuo Tadano"
         },
         {
           "id": "OP17-048_p1",
@@ -1389,7 +3136,25 @@
           "rarity": "SR",
           "block": "5",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP17-048_p1.png",
-          "source": "bandai"
+          "cardSet": "BOOSTER PACK -THE WORLD’S STRONGEST WARRIORS- [OP-17]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              712087
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Shiki (048) (Alternate Art)",
+            "match": "image",
+            "distance": 1
+          },
+          "treatments": [
+            "alternate_art"
+          ],
+          "artist": "SENNSU"
         }
       ]
     },
@@ -1415,7 +3180,22 @@
           "rarity": "R",
           "block": "5",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP17-049.png",
-          "source": "bandai"
+          "cardSet": "BOOSTER PACK -THE WORLD’S STRONGEST WARRIORS- [OP-17]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              712088
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Charlotte Linlin (049)",
+            "match": "image",
+            "distance": 2
+          },
+          "artist": "kicori"
         },
         {
           "id": "OP17-049_p1",
@@ -1423,7 +3203,25 @@
           "rarity": "R",
           "block": "5",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP17-049_p1.png",
-          "source": "bandai"
+          "cardSet": "BOOSTER PACK -THE WORLD’S STRONGEST WARRIORS- [OP-17]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              710540
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Charlotte Linlin (049) (Alternate Art)",
+            "match": "image",
+            "distance": 2
+          },
+          "treatments": [
+            "alternate_art"
+          ],
+          "artist": "Hashimoto Q"
         }
       ]
     },
@@ -1449,7 +3247,50 @@
           "rarity": "C",
           "block": "5",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP17-050.png",
-          "source": "bandai"
+          "cardSet": "BOOSTER PACK -THE WORLD’S STRONGEST WARRIORS- [OP-17]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              712619
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "Streusen (050)",
+            "match": "image-only-candidate",
+            "distance": 2
+          },
+          "artist": "SHINRA AGENCY Co. Ltd."
+        },
+        {
+          "id": "OP17-050~tcg712695",
+          "set": "OP17-RE",
+          "rarity": "C",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/712695_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              712695
+            ]
+          },
+          "tcgplayer": {
+            "name": "Streusen (050)",
+            "match": "minted",
+            "distance": 3
+          },
+          "artOf": "OP17-050",
+          "finishes": [
+            "nonfoil"
+          ],
+          "promoTypes": [
+            {
+              "type": "release",
+              "category": "event"
+            }
+          ],
+          "artist": "SHINRA AGENCY Co. Ltd."
         }
       ]
     },
@@ -1478,7 +3319,50 @@
           "rarity": "C",
           "block": "5",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP17-051.png",
-          "source": "bandai"
+          "cardSet": "BOOSTER PACK -THE WORLD’S STRONGEST WARRIORS- [OP-17]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              712620
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "Jinbe (051)",
+            "match": "image-only-candidate",
+            "distance": 3
+          },
+          "artist": "Moopic"
+        },
+        {
+          "id": "OP17-051~tcg712696",
+          "set": "OP17-RE",
+          "rarity": "C",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/712696_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              712696
+            ]
+          },
+          "tcgplayer": {
+            "name": "Jinbe (051)",
+            "match": "minted",
+            "distance": 2
+          },
+          "artOf": "OP17-051",
+          "finishes": [
+            "nonfoil"
+          ],
+          "promoTypes": [
+            {
+              "type": "release",
+              "category": "event"
+            }
+          ],
+          "artist": "Moopic"
         }
       ]
     },
@@ -1504,7 +3388,50 @@
           "rarity": "C",
           "block": "5",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP17-052.png",
-          "source": "bandai"
+          "cardSet": "BOOSTER PACK -THE WORLD’S STRONGEST WARRIORS- [OP-17]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              712621
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "Don Marlon",
+            "match": "image-only-candidate",
+            "distance": 7
+          },
+          "artist": "Studio Vigor Co. Ltd"
+        },
+        {
+          "id": "OP17-052~tcg712697",
+          "set": "OP17-RE",
+          "rarity": "C",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/712697_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              712697
+            ]
+          },
+          "tcgplayer": {
+            "name": "Don Marlon",
+            "match": "minted",
+            "distance": 4
+          },
+          "artOf": "OP17-052",
+          "finishes": [
+            "nonfoil"
+          ],
+          "promoTypes": [
+            {
+              "type": "release",
+              "category": "event"
+            }
+          ],
+          "artist": "Studio Vigor Co. Ltd"
         }
       ]
     },
@@ -1531,7 +3458,50 @@
           "rarity": "C",
           "block": "5",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP17-053.png",
-          "source": "bandai"
+          "cardSet": "BOOSTER PACK -THE WORLD’S STRONGEST WARRIORS- [OP-17]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              712622
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "Barbell",
+            "match": "image-only-candidate",
+            "distance": 1
+          },
+          "artist": "nukadokomogera"
+        },
+        {
+          "id": "OP17-053~tcg712698",
+          "set": "OP17-RE",
+          "rarity": "C",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/712698_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              712698
+            ]
+          },
+          "tcgplayer": {
+            "name": "Barbell",
+            "match": "minted",
+            "distance": 2
+          },
+          "artOf": "OP17-053",
+          "finishes": [
+            "nonfoil"
+          ],
+          "promoTypes": [
+            {
+              "type": "release",
+              "category": "event"
+            }
+          ],
+          "artist": "nukadokomogera"
         }
       ]
     },
@@ -1557,7 +3527,22 @@
           "rarity": "R",
           "block": "5",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP17-054.png",
-          "source": "bandai"
+          "cardSet": "BOOSTER PACK -THE WORLD’S STRONGEST WARRIORS- [OP-17]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              712089
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Miss Buckingham Stussy",
+            "match": "image",
+            "distance": 3
+          },
+          "artist": "kicori"
         },
         {
           "id": "OP17-054_p1",
@@ -1565,7 +3550,25 @@
           "rarity": "R",
           "block": "5",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP17-054_p1.png",
-          "source": "bandai"
+          "cardSet": "BOOSTER PACK -THE WORLD’S STRONGEST WARRIORS- [OP-17]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              710539
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Miss Buckingham Stussy (Alternate Art)",
+            "match": "image",
+            "distance": 5
+          },
+          "treatments": [
+            "alternate_art"
+          ],
+          "artist": "nuisuke"
         }
       ]
     },
@@ -1586,7 +3589,21 @@
           "rarity": "R",
           "block": "5",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP17-055.png",
-          "source": "bandai"
+          "cardSet": "BOOSTER PACK -THE WORLD’S STRONGEST WARRIORS- [OP-17]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              712623
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "There's No Authority in the World That Lasts Forever!!!",
+            "match": "image-only-candidate",
+            "distance": 2
+          }
         }
       ]
     },
@@ -1607,7 +3624,48 @@
           "rarity": "UC",
           "block": "5",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP17-056.png",
-          "source": "bandai"
+          "cardSet": "BOOSTER PACK -THE WORLD’S STRONGEST WARRIORS- [OP-17]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              712624
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "Rocks Pirates",
+            "match": "image-only-candidate",
+            "distance": 3
+          }
+        },
+        {
+          "id": "OP17-056~tcg712699",
+          "set": "OP17-RE",
+          "rarity": "UC",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/712699_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              712699
+            ]
+          },
+          "tcgplayer": {
+            "name": "Rocks Pirates",
+            "match": "minted",
+            "distance": 2
+          },
+          "artOf": "OP17-056",
+          "finishes": [
+            "nonfoil"
+          ],
+          "promoTypes": [
+            {
+              "type": "release",
+              "category": "event"
+            }
+          ]
         }
       ]
     },
@@ -1629,7 +3687,48 @@
           "rarity": "C",
           "block": "5",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP17-057.png",
-          "source": "bandai"
+          "cardSet": "BOOSTER PACK -THE WORLD’S STRONGEST WARRIORS- [OP-17]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              710614
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "Fullalead",
+            "match": "image-only-candidate",
+            "distance": 4
+          }
+        },
+        {
+          "id": "OP17-057~tcg712700",
+          "set": "OP17-RE",
+          "rarity": "C",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/712700_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              712700
+            ]
+          },
+          "tcgplayer": {
+            "name": "Fullalead",
+            "match": "minted",
+            "distance": 4
+          },
+          "artOf": "OP17-057",
+          "finishes": [
+            "nonfoil"
+          ],
+          "promoTypes": [
+            {
+              "type": "release",
+              "category": "event"
+            }
+          ]
         }
       ]
     },
@@ -1656,7 +3755,22 @@
           "rarity": "L",
           "block": "5",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP17-058.png",
-          "source": "bandai"
+          "cardSet": "BOOSTER PACK -THE WORLD’S STRONGEST WARRIORS- [OP-17]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              707117
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "Kaido (058)",
+            "match": "image",
+            "distance": 5
+          },
+          "artist": "Chansard Vincent"
         },
         {
           "id": "OP17-058_p1",
@@ -1664,7 +3778,24 @@
           "rarity": "L",
           "block": "5",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP17-058_p1.png",
-          "source": "bandai"
+          "cardSet": "BOOSTER PACK -THE WORLD’S STRONGEST WARRIORS- [OP-17]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              707118
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Kaido (058) (Alternate Art)",
+            "match": "image",
+            "distance": 6
+          },
+          "treatments": [
+            "alternate_art"
+          ]
         }
       ]
     },
@@ -1691,7 +3822,50 @@
           "rarity": "UC",
           "block": "5",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP17-059.png",
-          "source": "bandai"
+          "cardSet": "BOOSTER PACK -THE WORLD’S STRONGEST WARRIORS- [OP-17]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              709104
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "Aramaki",
+            "match": "image-only-candidate",
+            "distance": 3
+          },
+          "artist": "Morechand"
+        },
+        {
+          "id": "OP17-059~tcg712701",
+          "set": "OP17-RE",
+          "rarity": "UC",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/712701_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              712701
+            ]
+          },
+          "tcgplayer": {
+            "name": "Aramaki",
+            "match": "minted",
+            "distance": 2
+          },
+          "artOf": "OP17-059",
+          "finishes": [
+            "nonfoil"
+          ],
+          "promoTypes": [
+            {
+              "type": "release",
+              "category": "event"
+            }
+          ],
+          "artist": "Morechand"
         }
       ]
     },
@@ -1718,7 +3892,22 @@
           "rarity": "R",
           "block": "5",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP17-060.png",
-          "source": "bandai"
+          "cardSet": "BOOSTER PACK -THE WORLD’S STRONGEST WARRIORS- [OP-17]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              708395
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Ulti & Page One",
+            "match": "image-only-candidate",
+            "distance": 2
+          },
+          "artist": "Koushi Rokushiro"
         }
       ]
     },
@@ -1746,7 +3935,22 @@
           "rarity": "R",
           "block": "5",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP17-061.png",
-          "source": "bandai"
+          "cardSet": "BOOSTER PACK -THE WORLD’S STRONGEST WARRIORS- [OP-17]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              712625
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Lead Performers",
+            "match": "image",
+            "distance": 3
+          },
+          "artist": "DAI-XT."
         },
         {
           "id": "OP17-061_p1",
@@ -1754,7 +3958,25 @@
           "rarity": "R",
           "block": "5",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP17-061_p1.png",
-          "source": "bandai"
+          "cardSet": "BOOSTER PACK -THE WORLD’S STRONGEST WARRIORS- [OP-17]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              712626
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Lead Performers (Alternate Art)",
+            "match": "image",
+            "distance": 3
+          },
+          "treatments": [
+            "alternate_art"
+          ],
+          "artist": "Morechand"
         }
       ]
     },
@@ -1781,7 +4003,22 @@
           "rarity": "SR",
           "block": "X",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP17-062.png",
-          "source": "bandai"
+          "cardSet": "BOOSTER PACK -THE WORLD’S STRONGEST WARRIORS- [OP-17]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              707133
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Kaido (062)",
+            "match": "image",
+            "distance": 2
+          },
+          "artist": "Hayaken-sarena"
         },
         {
           "id": "OP17-062_p1",
@@ -1789,7 +4026,25 @@
           "rarity": "SR",
           "block": "X",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP17-062_p1.png",
-          "source": "bandai"
+          "cardSet": "BOOSTER PACK -THE WORLD’S STRONGEST WARRIORS- [OP-17]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              707135
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Kaido (062) (Alternate Art)",
+            "match": "image",
+            "distance": 1
+          },
+          "treatments": [
+            "alternate_art"
+          ],
+          "artist": "DAI-XT."
         },
         {
           "id": "OP17-062_p2",
@@ -1797,7 +4052,24 @@
           "rarity": "SR",
           "block": "X",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP17-062_p2.png",
-          "source": "bandai"
+          "cardSet": "BOOSTER PACK -THE WORLD’S STRONGEST WARRIORS- [OP-17]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              712090
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Kaido (062) (Manga)",
+            "match": "image",
+            "distance": 5
+          },
+          "treatments": [
+            "manga"
+          ]
         },
         {
           "id": "OP17-062_p3",
@@ -1805,7 +4077,25 @@
           "rarity": "SR",
           "block": "X",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP17-062_p3.png",
-          "source": "bandai"
+          "cardSet": "BOOSTER PACK -THE WORLD’S STRONGEST WARRIORS- [OP-17]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              712091
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Kaido (062) (Super Alternate Art)",
+            "match": "image",
+            "distance": 0
+          },
+          "treatments": [
+            "alternate_art"
+          ],
+          "artist": "KEISUKE ITAGAKI"
         }
       ]
     },
@@ -1832,7 +4122,22 @@
           "rarity": "SR",
           "block": "5",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP17-063.png",
-          "source": "bandai"
+          "cardSet": "BOOSTER PACK -THE WORLD’S STRONGEST WARRIORS- [OP-17]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              710578
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Kaido (063)",
+            "match": "image",
+            "distance": 1
+          },
+          "artist": "eiji kaneda"
         },
         {
           "id": "OP17-063_p1",
@@ -1840,7 +4145,25 @@
           "rarity": "SR",
           "block": "5",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP17-063_p1.png",
-          "source": "bandai"
+          "cardSet": "BOOSTER PACK -THE WORLD’S STRONGEST WARRIORS- [OP-17]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              712092
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Kaido (063) (Alternate Art)",
+            "match": "image",
+            "distance": 1
+          },
+          "treatments": [
+            "alternate_art"
+          ],
+          "artist": "Shishizaru"
         }
       ]
     },
@@ -1867,7 +4190,50 @@
           "rarity": "C",
           "block": "5",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP17-064.png",
-          "source": "bandai"
+          "cardSet": "BOOSTER PACK -THE WORLD’S STRONGEST WARRIORS- [OP-17]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              712627
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "King",
+            "match": "image-only-candidate",
+            "distance": 2
+          },
+          "artist": "Koushi Rokushiro"
+        },
+        {
+          "id": "OP17-064~tcg712702",
+          "set": "OP17-RE",
+          "rarity": "C",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/712702_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              712702
+            ]
+          },
+          "tcgplayer": {
+            "name": "King",
+            "match": "minted",
+            "distance": 1
+          },
+          "artOf": "OP17-064",
+          "finishes": [
+            "nonfoil"
+          ],
+          "promoTypes": [
+            {
+              "type": "release",
+              "category": "event"
+            }
+          ],
+          "artist": "Koushi Rokushiro"
         }
       ]
     },
@@ -1893,7 +4259,50 @@
           "rarity": "UC",
           "block": "5",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP17-065.png",
-          "source": "bandai"
+          "cardSet": "BOOSTER PACK -THE WORLD’S STRONGEST WARRIORS- [OP-17]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              708066
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "Queen",
+            "match": "image-only-candidate",
+            "distance": 4
+          },
+          "artist": "kankurou"
+        },
+        {
+          "id": "OP17-065~tcg712703",
+          "set": "OP17-RE",
+          "rarity": "UC",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/712703_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              712703
+            ]
+          },
+          "tcgplayer": {
+            "name": "Queen",
+            "match": "minted",
+            "distance": 3
+          },
+          "artOf": "OP17-065",
+          "finishes": [
+            "nonfoil"
+          ],
+          "promoTypes": [
+            {
+              "type": "release",
+              "category": "event"
+            }
+          ],
+          "artist": "kankurou"
         }
       ]
     },
@@ -1920,7 +4329,50 @@
           "rarity": "C",
           "block": "5",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP17-066.png",
-          "source": "bandai"
+          "cardSet": "BOOSTER PACK -THE WORLD’S STRONGEST WARRIORS- [OP-17]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              712628
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "Kurozumi Orochi",
+            "match": "image-only-candidate",
+            "distance": 2
+          },
+          "artist": "kankurou"
+        },
+        {
+          "id": "OP17-066~tcg712704",
+          "set": "OP17-RE",
+          "rarity": "C",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/712704_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              712704
+            ]
+          },
+          "tcgplayer": {
+            "name": "Kurozumi Orochi",
+            "match": "minted",
+            "distance": 2
+          },
+          "artOf": "OP17-066",
+          "finishes": [
+            "nonfoil"
+          ],
+          "promoTypes": [
+            {
+              "type": "release",
+              "category": "event"
+            }
+          ],
+          "artist": "kankurou"
         }
       ]
     },
@@ -1948,7 +4400,50 @@
           "rarity": "C",
           "block": "5",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP17-067.png",
-          "source": "bandai"
+          "cardSet": "BOOSTER PACK -THE WORLD’S STRONGEST WARRIORS- [OP-17]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              712629
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "Kurozumi Kanjuro",
+            "match": "image-only-candidate",
+            "distance": 3
+          },
+          "artist": "Hayaken-sarena"
+        },
+        {
+          "id": "OP17-067~tcg712705",
+          "set": "OP17-RE",
+          "rarity": "C",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/712705_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              712705
+            ]
+          },
+          "tcgplayer": {
+            "name": "Kurozumi Kanjuro",
+            "match": "minted",
+            "distance": 2
+          },
+          "artOf": "OP17-067",
+          "finishes": [
+            "nonfoil"
+          ],
+          "promoTypes": [
+            {
+              "type": "release",
+              "category": "event"
+            }
+          ],
+          "artist": "Hayaken-sarena"
         }
       ]
     },
@@ -1975,7 +4470,50 @@
           "rarity": "C",
           "block": "5",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP17-068.png",
-          "source": "bandai"
+          "cardSet": "BOOSTER PACK -THE WORLD’S STRONGEST WARRIORS- [OP-17]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              712630
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "Sasaki",
+            "match": "image-only-candidate",
+            "distance": 3
+          },
+          "artist": "Yasushi Yamaguchi"
+        },
+        {
+          "id": "OP17-068~tcg712706",
+          "set": "OP17-RE",
+          "rarity": "C",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/712706_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              712706
+            ]
+          },
+          "tcgplayer": {
+            "name": "Sasaki",
+            "match": "minted",
+            "distance": 3
+          },
+          "artOf": "OP17-068",
+          "finishes": [
+            "nonfoil"
+          ],
+          "promoTypes": [
+            {
+              "type": "release",
+              "category": "event"
+            }
+          ],
+          "artist": "Yasushi Yamaguchi"
         }
       ]
     },
@@ -2002,7 +4540,50 @@
           "rarity": "UC",
           "block": "5",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP17-069.png",
-          "source": "bandai"
+          "cardSet": "BOOSTER PACK -THE WORLD’S STRONGEST WARRIORS- [OP-17]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              712631
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "Jack",
+            "match": "image-only-candidate",
+            "distance": 1
+          },
+          "artist": "eiji kaneda"
+        },
+        {
+          "id": "OP17-069~tcg712707",
+          "set": "OP17-RE",
+          "rarity": "UC",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/712707_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              712707
+            ]
+          },
+          "tcgplayer": {
+            "name": "Jack",
+            "match": "minted",
+            "distance": 4
+          },
+          "artOf": "OP17-069",
+          "finishes": [
+            "nonfoil"
+          ],
+          "promoTypes": [
+            {
+              "type": "release",
+              "category": "event"
+            }
+          ],
+          "artist": "eiji kaneda"
         }
       ]
     },
@@ -2030,7 +4611,22 @@
           "rarity": "C",
           "block": "5",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP17-070.png",
-          "source": "bandai"
+          "cardSet": "BOOSTER PACK -THE WORLD’S STRONGEST WARRIORS- [OP-17]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              712632
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "Scratchmen Apoo",
+            "match": "image",
+            "distance": 3
+          },
+          "artist": "Yasushi Yamaguchi"
         },
         {
           "id": "OP17-070_p1",
@@ -2038,7 +4634,50 @@
           "rarity": "C",
           "block": "5",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP17-070_p1.png",
-          "source": "bandai"
+          "cardSet": "BOOSTER PACK -THE WORLD’S STRONGEST WARRIORS- [OP-17]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              712633
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "Scratchmen Apoo (Pandaman Art)",
+            "match": "image",
+            "distance": 4
+          },
+          "artist": "Yasushi Yamaguchi"
+        },
+        {
+          "id": "OP17-070~tcg712708",
+          "set": "OP17-RE",
+          "rarity": "C",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/712708_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              712708
+            ]
+          },
+          "tcgplayer": {
+            "name": "Scratchmen Apoo",
+            "match": "minted",
+            "distance": 1
+          },
+          "artOf": "OP17-070",
+          "finishes": [
+            "nonfoil"
+          ],
+          "promoTypes": [
+            {
+              "type": "release",
+              "category": "event"
+            }
+          ],
+          "artist": "Yasushi Yamaguchi"
         }
       ]
     },
@@ -2066,7 +4705,50 @@
           "rarity": "C",
           "block": "5",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP17-071.png",
-          "source": "bandai"
+          "cardSet": "BOOSTER PACK -THE WORLD’S STRONGEST WARRIORS- [OP-17]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              707131
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "Who's.Who",
+            "match": "image-only-candidate",
+            "distance": 4
+          },
+          "artist": "Daisuke Enoshima"
+        },
+        {
+          "id": "OP17-071~tcg712709",
+          "set": "OP17-RE",
+          "rarity": "C",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/712709_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              712709
+            ]
+          },
+          "tcgplayer": {
+            "name": "Who's.Who",
+            "match": "minted",
+            "distance": 6
+          },
+          "artOf": "OP17-071",
+          "finishes": [
+            "nonfoil"
+          ],
+          "promoTypes": [
+            {
+              "type": "release",
+              "category": "event"
+            }
+          ],
+          "artist": "Daisuke Enoshima"
         }
       ]
     },
@@ -2093,7 +4775,50 @@
           "rarity": "C",
           "block": "5",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP17-072.png",
-          "source": "bandai"
+          "cardSet": "BOOSTER PACK -THE WORLD’S STRONGEST WARRIORS- [OP-17]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              705990
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "Black Maria",
+            "match": "image-only-candidate",
+            "distance": 2
+          },
+          "artist": "kou tasake"
+        },
+        {
+          "id": "OP17-072~tcg712710",
+          "set": "OP17-RE",
+          "rarity": "C",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/712710_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              712710
+            ]
+          },
+          "tcgplayer": {
+            "name": "Black Maria",
+            "match": "minted",
+            "distance": 2
+          },
+          "artOf": "OP17-072",
+          "finishes": [
+            "nonfoil"
+          ],
+          "promoTypes": [
+            {
+              "type": "release",
+              "category": "event"
+            }
+          ],
+          "artist": "kou tasake"
         }
       ]
     },
@@ -2121,7 +4846,50 @@
           "rarity": "UC",
           "block": "5",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP17-073.png",
-          "source": "bandai"
+          "cardSet": "BOOSTER PACK -THE WORLD’S STRONGEST WARRIORS- [OP-17]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              712634
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "Basil Hawkins",
+            "match": "image-only-candidate",
+            "distance": 5
+          },
+          "artist": "Nijihayashi"
+        },
+        {
+          "id": "OP17-073~tcg712711",
+          "set": "OP17-RE",
+          "rarity": "UC",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/712711_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              712711
+            ]
+          },
+          "tcgplayer": {
+            "name": "Basil Hawkins",
+            "match": "minted",
+            "distance": 2
+          },
+          "artOf": "OP17-073",
+          "finishes": [
+            "nonfoil"
+          ],
+          "promoTypes": [
+            {
+              "type": "release",
+              "category": "event"
+            }
+          ],
+          "artist": "Nijihayashi"
         }
       ]
     },
@@ -2148,7 +4916,22 @@
           "rarity": "R",
           "block": "5",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP17-074.png",
-          "source": "bandai"
+          "cardSet": "BOOSTER PACK -THE WORLD’S STRONGEST WARRIORS- [OP-17]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              710615
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Yamato",
+            "match": "image-only-candidate",
+            "distance": 8
+          },
+          "artist": "sho"
         }
       ]
     },
@@ -2177,7 +4960,50 @@
           "rarity": "C",
           "block": "5",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP17-075.png",
-          "source": "bandai"
+          "cardSet": "BOOSTER PACK -THE WORLD’S STRONGEST WARRIORS- [OP-17]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              712635
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "X.Drake",
+            "match": "image-only-candidate",
+            "distance": 2
+          },
+          "artist": "touge369"
+        },
+        {
+          "id": "OP17-075~tcg712712",
+          "set": "OP17-RE",
+          "rarity": "C",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/712712_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              712712
+            ]
+          },
+          "tcgplayer": {
+            "name": "X.Drake",
+            "match": "minted",
+            "distance": 2
+          },
+          "artOf": "OP17-075",
+          "finishes": [
+            "nonfoil"
+          ],
+          "promoTypes": [
+            {
+              "type": "release",
+              "category": "event"
+            }
+          ],
+          "artist": "touge369"
         }
       ]
     },
@@ -2199,7 +5025,21 @@
           "rarity": "R",
           "block": "5",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP17-076.png",
-          "source": "bandai"
+          "cardSet": "BOOSTER PACK -THE WORLD’S STRONGEST WARRIORS- [OP-17]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              712636
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Wo Ro Ro Ro Ro... I Think I've Sobered Up",
+            "match": "image-only-candidate",
+            "distance": 6
+          }
         }
       ]
     },
@@ -2222,7 +5062,48 @@
           "rarity": "UC",
           "block": "5",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP17-077.png",
-          "source": "bandai"
+          "cardSet": "BOOSTER PACK -THE WORLD’S STRONGEST WARRIORS- [OP-17]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              712637
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "Kundali Dragon Swarm",
+            "match": "image-only-candidate",
+            "distance": 1
+          }
+        },
+        {
+          "id": "OP17-077~tcg712713",
+          "set": "OP17-RE",
+          "rarity": "UC",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/712713_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              712713
+            ]
+          },
+          "tcgplayer": {
+            "name": "Kundali Dragon Swarm",
+            "match": "minted",
+            "distance": 1
+          },
+          "artOf": "OP17-077",
+          "finishes": [
+            "nonfoil"
+          ],
+          "promoTypes": [
+            {
+              "type": "release",
+              "category": "event"
+            }
+          ]
         }
       ]
     },
@@ -2245,7 +5126,48 @@
           "rarity": "C",
           "block": "5",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP17-078.png",
-          "source": "bandai"
+          "cardSet": "BOOSTER PACK -THE WORLD’S STRONGEST WARRIORS- [OP-17]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              712638
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "Drunken Dragon Bagua",
+            "match": "image-only-candidate",
+            "distance": 1
+          }
+        },
+        {
+          "id": "OP17-078~tcg712714",
+          "set": "OP17-RE",
+          "rarity": "C",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/712714_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              712714
+            ]
+          },
+          "tcgplayer": {
+            "name": "Drunken Dragon Bagua",
+            "match": "minted",
+            "distance": 0
+          },
+          "artOf": "OP17-078",
+          "finishes": [
+            "nonfoil"
+          ],
+          "promoTypes": [
+            {
+              "type": "release",
+              "category": "event"
+            }
+          ]
         }
       ]
     },
@@ -2273,7 +5195,22 @@
           "rarity": "L",
           "block": "5",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP17-079.png",
-          "source": "bandai"
+          "cardSet": "BOOSTER PACK -THE WORLD’S STRONGEST WARRIORS- [OP-17]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              707123
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "Monkey.D.Luffy (079)",
+            "match": "image",
+            "distance": 3
+          },
+          "artist": "Bahi JD"
         },
         {
           "id": "OP17-079_p1",
@@ -2281,7 +5218,24 @@
           "rarity": "L",
           "block": "5",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP17-079_p1.png",
-          "source": "bandai"
+          "cardSet": "BOOSTER PACK -THE WORLD’S STRONGEST WARRIORS- [OP-17]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              707124
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Monkey.D.Luffy (079) (Alternate Art)",
+            "match": "image",
+            "distance": 7
+          },
+          "treatments": [
+            "alternate_art"
+          ]
         },
         {
           "id": "OP17-079_p2",
@@ -2289,7 +5243,24 @@
           "rarity": "L",
           "block": "5",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP17-079_p2.png",
-          "source": "bandai"
+          "cardSet": "BOOSTER PACK -THE WORLD’S STRONGEST WARRIORS- [OP-17]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              712114
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Monkey.D.Luffy (079) (Super Leader Alternate Art)",
+            "match": "image",
+            "distance": 4
+          },
+          "treatments": [
+            "alternate_art"
+          ]
         }
       ]
     },
@@ -2317,7 +5288,22 @@
           "rarity": "SR",
           "block": "5",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP17-080.png",
-          "source": "bandai"
+          "cardSet": "BOOSTER PACK -THE WORLD’S STRONGEST WARRIORS- [OP-17]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              711426
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Usopp",
+            "match": "image",
+            "distance": 0
+          },
+          "artist": "Madoka Suzuki"
         },
         {
           "id": "OP17-080_p1",
@@ -2325,7 +5311,25 @@
           "rarity": "SR",
           "block": "5",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP17-080_p1.png",
-          "source": "bandai"
+          "cardSet": "BOOSTER PACK -THE WORLD’S STRONGEST WARRIORS- [OP-17]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              711427
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Usopp (Alternate Art)",
+            "match": "image",
+            "distance": 2
+          },
+          "treatments": [
+            "alternate_art"
+          ],
+          "artist": "SENNSU"
         }
       ]
     },
@@ -2354,7 +5358,22 @@
           "rarity": "R",
           "block": "5",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP17-081.png",
-          "source": "bandai"
+          "cardSet": "BOOSTER PACK -THE WORLD’S STRONGEST WARRIORS- [OP-17]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              712639
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Gerd",
+            "match": "image-only-candidate",
+            "distance": 0
+          },
+          "artist": "Hashimoto Q"
         }
       ]
     },
@@ -2382,7 +5401,50 @@
           "rarity": "C",
           "block": "5",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP17-082.png",
-          "source": "bandai"
+          "cardSet": "BOOSTER PACK -THE WORLD’S STRONGEST WARRIORS- [OP-17]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              707316
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "Sanji",
+            "match": "image-only-candidate",
+            "distance": 1
+          },
+          "artist": "NIJIMAARC"
+        },
+        {
+          "id": "OP17-082~tcg712715",
+          "set": "OP17-RE",
+          "rarity": "C",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/712715_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              712715
+            ]
+          },
+          "tcgplayer": {
+            "name": "Sanji",
+            "match": "minted",
+            "distance": 1
+          },
+          "artOf": "OP17-082",
+          "finishes": [
+            "nonfoil"
+          ],
+          "promoTypes": [
+            {
+              "type": "release",
+              "category": "event"
+            }
+          ],
+          "artist": "NIJIMAARC"
         }
       ]
     },
@@ -2411,7 +5473,50 @@
           "rarity": "C",
           "block": "5",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP17-083.png",
-          "source": "bandai"
+          "cardSet": "BOOSTER PACK -THE WORLD’S STRONGEST WARRIORS- [OP-17]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              707119
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "Jinbe (083)",
+            "match": "image-only-candidate",
+            "distance": 3
+          },
+          "artist": "Katsuo Tadano"
+        },
+        {
+          "id": "OP17-083~tcg712716",
+          "set": "OP17-RE",
+          "rarity": "C",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/712716_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              712716
+            ]
+          },
+          "tcgplayer": {
+            "name": "Jinbe (083)",
+            "match": "minted",
+            "distance": 4
+          },
+          "artOf": "OP17-083",
+          "finishes": [
+            "nonfoil"
+          ],
+          "promoTypes": [
+            {
+              "type": "release",
+              "category": "event"
+            }
+          ],
+          "artist": "Katsuo Tadano"
         }
       ]
     },
@@ -2440,7 +5545,50 @@
           "rarity": "UC",
           "block": "5",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP17-084.png",
-          "source": "bandai"
+          "cardSet": "BOOSTER PACK -THE WORLD’S STRONGEST WARRIORS- [OP-17]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              708392
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "Tony Tony.Chopper",
+            "match": "image-only-candidate",
+            "distance": 4
+          },
+          "artist": "TAPIOCA"
+        },
+        {
+          "id": "OP17-084~tcg712717",
+          "set": "OP17-RE",
+          "rarity": "UC",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/712717_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              712717
+            ]
+          },
+          "tcgplayer": {
+            "name": "Tony Tony.Chopper",
+            "match": "minted",
+            "distance": 3
+          },
+          "artOf": "OP17-084",
+          "finishes": [
+            "nonfoil"
+          ],
+          "promoTypes": [
+            {
+              "type": "release",
+              "category": "event"
+            }
+          ],
+          "artist": "TAPIOCA"
         }
       ]
     },
@@ -2469,7 +5617,50 @@
           "rarity": "UC",
           "block": "5",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP17-085.png",
-          "source": "bandai"
+          "cardSet": "BOOSTER PACK -THE WORLD’S STRONGEST WARRIORS- [OP-17]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              712640
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "Dorry",
+            "match": "image-only-candidate",
+            "distance": 3
+          },
+          "artist": "KISUKE"
+        },
+        {
+          "id": "OP17-085~tcg712718",
+          "set": "OP17-RE",
+          "rarity": "UC",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/712718_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              712718
+            ]
+          },
+          "tcgplayer": {
+            "name": "Dorry",
+            "match": "minted",
+            "distance": 2
+          },
+          "artOf": "OP17-085",
+          "finishes": [
+            "nonfoil"
+          ],
+          "promoTypes": [
+            {
+              "type": "release",
+              "category": "event"
+            }
+          ],
+          "artist": "KISUKE"
         }
       ]
     },
@@ -2497,7 +5688,50 @@
           "rarity": "UC",
           "block": "5",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP17-086.png",
-          "source": "bandai"
+          "cardSet": "BOOSTER PACK -THE WORLD’S STRONGEST WARRIORS- [OP-17]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              712641
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "Nami (086)",
+            "match": "image-only-candidate",
+            "distance": 3
+          },
+          "artist": "Sunohara"
+        },
+        {
+          "id": "OP17-086~tcg712719",
+          "set": "OP17-RE",
+          "rarity": "UC",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/712719_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              712719
+            ]
+          },
+          "tcgplayer": {
+            "name": "Nami (086)",
+            "match": "minted",
+            "distance": 1
+          },
+          "artOf": "OP17-086",
+          "finishes": [
+            "nonfoil"
+          ],
+          "promoTypes": [
+            {
+              "type": "release",
+              "category": "event"
+            }
+          ],
+          "artist": "Sunohara"
         }
       ]
     },
@@ -2525,7 +5759,22 @@
           "rarity": "R",
           "block": "5",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP17-087.png",
-          "source": "bandai"
+          "cardSet": "BOOSTER PACK -THE WORLD’S STRONGEST WARRIORS- [OP-17]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              708399
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Nico Robin",
+            "match": "image",
+            "distance": 3
+          },
+          "artist": "Sunohara"
         },
         {
           "id": "OP17-087_p1",
@@ -2533,7 +5782,25 @@
           "rarity": "R",
           "block": "5",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP17-087_p1.png",
-          "source": "bandai"
+          "cardSet": "BOOSTER PACK -THE WORLD’S STRONGEST WARRIORS- [OP-17]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              712115
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Nico Robin (Alternate Art)",
+            "match": "image",
+            "distance": 2
+          },
+          "treatments": [
+            "alternate_art"
+          ],
+          "artist": "otton"
         }
       ]
     },
@@ -2562,7 +5829,22 @@
           "rarity": "C",
           "block": "5",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP17-088.png",
-          "source": "bandai"
+          "cardSet": "BOOSTER PACK -THE WORLD’S STRONGEST WARRIORS- [OP-17]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              712642
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "Hajrudin",
+            "match": "image",
+            "distance": 3
+          },
+          "artist": "Moopic"
         },
         {
           "id": "OP17-088_p1",
@@ -2570,7 +5852,50 @@
           "rarity": "C",
           "block": "5",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP17-088_p1.png",
-          "source": "bandai"
+          "cardSet": "BOOSTER PACK -THE WORLD’S STRONGEST WARRIORS- [OP-17]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              712643
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "Hajrudin (Pandaman Art)",
+            "match": "image",
+            "distance": 2
+          },
+          "artist": "Moopic"
+        },
+        {
+          "id": "OP17-088~tcg712720",
+          "set": "OP17-RE",
+          "rarity": "C",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/712720_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              712720
+            ]
+          },
+          "tcgplayer": {
+            "name": "Hajrudin",
+            "match": "minted",
+            "distance": 0
+          },
+          "artOf": "OP17-088",
+          "finishes": [
+            "nonfoil"
+          ],
+          "promoTypes": [
+            {
+              "type": "release",
+              "category": "event"
+            }
+          ],
+          "artist": "Moopic"
         }
       ]
     },
@@ -2598,7 +5923,22 @@
           "rarity": "R",
           "block": "5",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP17-089.png",
-          "source": "bandai"
+          "cardSet": "BOOSTER PACK -THE WORLD’S STRONGEST WARRIORS- [OP-17]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              708782
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Jaguar.D.Saul",
+            "match": "image-only-candidate",
+            "distance": 2
+          },
+          "artist": "tessy"
         }
       ]
     },
@@ -2626,7 +5966,50 @@
           "rarity": "C",
           "block": "5",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP17-090.png",
-          "source": "bandai"
+          "cardSet": "BOOSTER PACK -THE WORLD’S STRONGEST WARRIORS- [OP-17]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              712644
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "Franky",
+            "match": "image-only-candidate",
+            "distance": 2
+          },
+          "artist": "Tadaichi Nakama"
+        },
+        {
+          "id": "OP17-090~tcg712721",
+          "set": "OP17-RE",
+          "rarity": "C",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/712721_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              712721
+            ]
+          },
+          "tcgplayer": {
+            "name": "Franky",
+            "match": "minted",
+            "distance": 0
+          },
+          "artOf": "OP17-090",
+          "finishes": [
+            "nonfoil"
+          ],
+          "promoTypes": [
+            {
+              "type": "release",
+              "category": "event"
+            }
+          ],
+          "artist": "Tadaichi Nakama"
         }
       ]
     },
@@ -2654,7 +6037,50 @@
           "rarity": "C",
           "block": "5",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP17-091.png",
-          "source": "bandai"
+          "cardSet": "BOOSTER PACK -THE WORLD’S STRONGEST WARRIORS- [OP-17]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              712645
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "Brook",
+            "match": "image-only-candidate",
+            "distance": 2
+          },
+          "artist": "teo"
+        },
+        {
+          "id": "OP17-091~tcg712722",
+          "set": "OP17-RE",
+          "rarity": "C",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/712722_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              712722
+            ]
+          },
+          "tcgplayer": {
+            "name": "Brook",
+            "match": "minted",
+            "distance": 1
+          },
+          "artOf": "OP17-091",
+          "finishes": [
+            "nonfoil"
+          ],
+          "promoTypes": [
+            {
+              "type": "release",
+              "category": "event"
+            }
+          ],
+          "artist": "teo"
         }
       ]
     },
@@ -2683,7 +6109,50 @@
           "rarity": "UC",
           "block": "5",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP17-092.png",
-          "source": "bandai"
+          "cardSet": "BOOSTER PACK -THE WORLD’S STRONGEST WARRIORS- [OP-17]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              712646
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "Brogy",
+            "match": "image-only-candidate",
+            "distance": 4
+          },
+          "artist": "KISUKE"
+        },
+        {
+          "id": "OP17-092~tcg712723",
+          "set": "OP17-RE",
+          "rarity": "UC",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/712723_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              712723
+            ]
+          },
+          "tcgplayer": {
+            "name": "Brogy",
+            "match": "minted",
+            "distance": 3
+          },
+          "artOf": "OP17-092",
+          "finishes": [
+            "nonfoil"
+          ],
+          "promoTypes": [
+            {
+              "type": "release",
+              "category": "event"
+            }
+          ],
+          "artist": "KISUKE"
         }
       ]
     },
@@ -2711,7 +6180,22 @@
           "rarity": "SR",
           "block": "5",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP17-093.png",
-          "source": "bandai"
+          "cardSet": "BOOSTER PACK -THE WORLD’S STRONGEST WARRIORS- [OP-17]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              710861
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Monkey.D.Luffy (093)",
+            "match": "image",
+            "distance": 1
+          },
+          "artist": "kudo sakiko"
         },
         {
           "id": "OP17-093_p1",
@@ -2719,7 +6203,25 @@
           "rarity": "SR",
           "block": "5",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP17-093_p1.png",
-          "source": "bandai"
+          "cardSet": "BOOSTER PACK -THE WORLD’S STRONGEST WARRIORS- [OP-17]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              710862
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Monkey.D.Luffy (093) (Alternate Art)",
+            "match": "image",
+            "distance": 1
+          },
+          "treatments": [
+            "alternate_art"
+          ],
+          "artist": "Bashikou"
         }
       ]
     },
@@ -2748,7 +6250,50 @@
           "rarity": "UC",
           "block": "5",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP17-094.png",
-          "source": "bandai"
+          "cardSet": "BOOSTER PACK -THE WORLD’S STRONGEST WARRIORS- [OP-17]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              712647
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "Rodo",
+            "match": "image-only-candidate",
+            "distance": 0
+          },
+          "artist": "tasaka"
+        },
+        {
+          "id": "OP17-094~tcg712724",
+          "set": "OP17-RE",
+          "rarity": "UC",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/712724_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              712724
+            ]
+          },
+          "tcgplayer": {
+            "name": "Rodo",
+            "match": "minted",
+            "distance": 0
+          },
+          "artOf": "OP17-094",
+          "finishes": [
+            "nonfoil"
+          ],
+          "promoTypes": [
+            {
+              "type": "release",
+              "category": "event"
+            }
+          ],
+          "artist": "tasaka"
         }
       ]
     },
@@ -2776,7 +6321,50 @@
           "rarity": "C",
           "block": "5",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP17-095.png",
-          "source": "bandai"
+          "cardSet": "BOOSTER PACK -THE WORLD’S STRONGEST WARRIORS- [OP-17]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              710617
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "Roronoa Zoro (095)",
+            "match": "image-only-candidate",
+            "distance": 3
+          },
+          "artist": "kudo sakiko"
+        },
+        {
+          "id": "OP17-095~tcg712725",
+          "set": "OP17-RE",
+          "rarity": "C",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/712725_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              712725
+            ]
+          },
+          "tcgplayer": {
+            "name": "Roronoa Zoro (095)",
+            "match": "minted",
+            "distance": 0
+          },
+          "artOf": "OP17-095",
+          "finishes": [
+            "nonfoil"
+          ],
+          "promoTypes": [
+            {
+              "type": "release",
+              "category": "event"
+            }
+          ],
+          "artist": "kudo sakiko"
         }
       ]
     },
@@ -2800,7 +6388,21 @@
           "rarity": "R",
           "block": "5",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP17-096.png",
-          "source": "bandai"
+          "cardSet": "BOOSTER PACK -THE WORLD’S STRONGEST WARRIORS- [OP-17]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              712648
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "I'm Luffy!! The Man Who Will Be King of the Pirates!!",
+            "match": "image-only-candidate",
+            "distance": 4
+          }
         }
       ]
     },
@@ -2823,7 +6425,48 @@
           "rarity": "C",
           "block": "5",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP17-097.png",
-          "source": "bandai"
+          "cardSet": "BOOSTER PACK -THE WORLD’S STRONGEST WARRIORS- [OP-17]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              712649
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "I'll Feed on This Rage and Use It to Bring the World to Ruin!!!",
+            "match": "image-only-candidate",
+            "distance": 2
+          }
+        },
+        {
+          "id": "OP17-097~tcg712726",
+          "set": "OP17-RE",
+          "rarity": "C",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/712726_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              712726
+            ]
+          },
+          "tcgplayer": {
+            "name": "I'll Feed on This Rage and Use It to Bring the World to Ruin!!!",
+            "match": "minted",
+            "distance": 2
+          },
+          "artOf": "OP17-097",
+          "finishes": [
+            "nonfoil"
+          ],
+          "promoTypes": [
+            {
+              "type": "release",
+              "category": "event"
+            }
+          ]
         }
       ]
     },
@@ -2847,7 +6490,48 @@
           "rarity": "C",
           "block": "5",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP17-098.png",
-          "source": "bandai"
+          "cardSet": "BOOSTER PACK -THE WORLD’S STRONGEST WARRIORS- [OP-17]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              712650
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "Gum-Gum Kong Gun",
+            "match": "image-only-candidate",
+            "distance": 3
+          }
+        },
+        {
+          "id": "OP17-098~tcg712727",
+          "set": "OP17-RE",
+          "rarity": "C",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/712727_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              712727
+            ]
+          },
+          "tcgplayer": {
+            "name": "Gum-Gum Kong Gun",
+            "match": "minted",
+            "distance": 1
+          },
+          "artOf": "OP17-098",
+          "finishes": [
+            "nonfoil"
+          ],
+          "promoTypes": [
+            {
+              "type": "release",
+              "category": "event"
+            }
+          ]
         }
       ]
     },
@@ -2874,7 +6558,22 @@
           "rarity": "L",
           "block": "5",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP17-099.png",
-          "source": "bandai"
+          "cardSet": "BOOSTER PACK -THE WORLD’S STRONGEST WARRIORS- [OP-17]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              707138
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "Charlotte Linlin (099)",
+            "match": "image",
+            "distance": 5
+          },
+          "artist": "Kantaro Ito"
         },
         {
           "id": "OP17-099_p1",
@@ -2882,7 +6581,24 @@
           "rarity": "L",
           "block": "5",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP17-099_p1.png",
-          "source": "bandai"
+          "cardSet": "BOOSTER PACK -THE WORLD’S STRONGEST WARRIORS- [OP-17]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              707139
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Charlotte Linlin (099) (Alternate Art)",
+            "match": "image",
+            "distance": 3
+          },
+          "treatments": [
+            "alternate_art"
+          ]
         }
       ]
     },
@@ -2910,7 +6626,50 @@
           "rarity": "C",
           "block": "5",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP17-100.png",
-          "source": "bandai"
+          "cardSet": "BOOSTER PACK -THE WORLD’S STRONGEST WARRIORS- [OP-17]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              712651
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "Capone\"Gang\"Bege",
+            "match": "image-only-candidate",
+            "distance": 3
+          },
+          "artist": "touge369"
+        },
+        {
+          "id": "OP17-100~tcg712728",
+          "set": "OP17-RE",
+          "rarity": "C",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/712728_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              712728
+            ]
+          },
+          "tcgplayer": {
+            "name": "Capone\"Gang\"Bege",
+            "match": "minted",
+            "distance": 2
+          },
+          "artOf": "OP17-100",
+          "finishes": [
+            "nonfoil"
+          ],
+          "promoTypes": [
+            {
+              "type": "release",
+              "category": "event"
+            }
+          ],
+          "artist": "touge369"
         }
       ]
     },
@@ -2938,7 +6697,50 @@
           "rarity": "C",
           "block": "5",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP17-101.png",
-          "source": "bandai"
+          "cardSet": "BOOSTER PACK -THE WORLD’S STRONGEST WARRIORS- [OP-17]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              712652
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "Caribou",
+            "match": "image-only-candidate",
+            "distance": 3
+          },
+          "artist": "kankurou"
+        },
+        {
+          "id": "OP17-101~tcg712729",
+          "set": "OP17-RE",
+          "rarity": "C",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/712729_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              712729
+            ]
+          },
+          "tcgplayer": {
+            "name": "Caribou",
+            "match": "minted",
+            "distance": 3
+          },
+          "artOf": "OP17-101",
+          "finishes": [
+            "nonfoil"
+          ],
+          "promoTypes": [
+            {
+              "type": "release",
+              "category": "event"
+            }
+          ],
+          "artist": "kankurou"
         }
       ]
     },
@@ -2965,7 +6767,50 @@
           "rarity": "UC",
           "block": "5",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP17-102.png",
-          "source": "bandai"
+          "cardSet": "BOOSTER PACK -THE WORLD’S STRONGEST WARRIORS- [OP-17]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              712653
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "Charlotte Oven",
+            "match": "image-only-candidate",
+            "distance": 5
+          },
+          "artist": "Yasushi Yamaguchi"
+        },
+        {
+          "id": "OP17-102~tcg712730",
+          "set": "OP17-RE",
+          "rarity": "UC",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/712730_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              712730
+            ]
+          },
+          "tcgplayer": {
+            "name": "Charlotte Oven",
+            "match": "minted",
+            "distance": 2
+          },
+          "artOf": "OP17-102",
+          "finishes": [
+            "nonfoil"
+          ],
+          "promoTypes": [
+            {
+              "type": "release",
+              "category": "event"
+            }
+          ],
+          "artist": "Yasushi Yamaguchi"
         }
       ]
     },
@@ -2992,7 +6837,50 @@
           "rarity": "UC",
           "block": "5",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP17-103.png",
-          "source": "bandai"
+          "cardSet": "BOOSTER PACK -THE WORLD’S STRONGEST WARRIORS- [OP-17]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              710863
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "Charlotte Katakuri",
+            "match": "image-only-candidate",
+            "distance": 2
+          },
+          "artist": "Koushi Rokushiro"
+        },
+        {
+          "id": "OP17-103~tcg712731",
+          "set": "OP17-RE",
+          "rarity": "UC",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/712731_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              712731
+            ]
+          },
+          "tcgplayer": {
+            "name": "Charlotte Katakuri",
+            "match": "minted",
+            "distance": 2
+          },
+          "artOf": "OP17-103",
+          "finishes": [
+            "nonfoil"
+          ],
+          "promoTypes": [
+            {
+              "type": "release",
+              "category": "event"
+            }
+          ],
+          "artist": "Koushi Rokushiro"
         }
       ]
     },
@@ -3019,7 +6907,50 @@
           "rarity": "UC",
           "block": "5",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP17-104.png",
-          "source": "bandai"
+          "cardSet": "BOOSTER PACK -THE WORLD’S STRONGEST WARRIORS- [OP-17]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              708209
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "Charlotte Cracker",
+            "match": "image-only-candidate",
+            "distance": 2
+          },
+          "artist": "BISAI"
+        },
+        {
+          "id": "OP17-104~tcg712732",
+          "set": "OP17-RE",
+          "rarity": "UC",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/712732_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              712732
+            ]
+          },
+          "tcgplayer": {
+            "name": "Charlotte Cracker",
+            "match": "minted",
+            "distance": 0
+          },
+          "artOf": "OP17-104",
+          "finishes": [
+            "nonfoil"
+          ],
+          "promoTypes": [
+            {
+              "type": "release",
+              "category": "event"
+            }
+          ],
+          "artist": "BISAI"
         }
       ]
     },
@@ -3046,7 +6977,50 @@
           "rarity": "C",
           "block": "5",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP17-105.png",
-          "source": "bandai"
+          "cardSet": "BOOSTER PACK -THE WORLD’S STRONGEST WARRIORS- [OP-17]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              707116
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "Charlotte Chiffon",
+            "match": "image-only-candidate",
+            "distance": 2
+          },
+          "artist": "Retsu"
+        },
+        {
+          "id": "OP17-105~tcg712733",
+          "set": "OP17-RE",
+          "rarity": "C",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/712733_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              712733
+            ]
+          },
+          "tcgplayer": {
+            "name": "Charlotte Chiffon",
+            "match": "minted",
+            "distance": 4
+          },
+          "artOf": "OP17-105",
+          "finishes": [
+            "nonfoil"
+          ],
+          "promoTypes": [
+            {
+              "type": "release",
+              "category": "event"
+            }
+          ],
+          "artist": "Retsu"
         }
       ]
     },
@@ -3073,7 +7047,50 @@
           "rarity": "C",
           "block": "5",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP17-106.png",
-          "source": "bandai"
+          "cardSet": "BOOSTER PACK -THE WORLD’S STRONGEST WARRIORS- [OP-17]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              707144
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "Charlotte Smoothie",
+            "match": "image-only-candidate",
+            "distance": 5
+          },
+          "artist": "Kaito Shibano"
+        },
+        {
+          "id": "OP17-106~tcg712734",
+          "set": "OP17-RE",
+          "rarity": "C",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/712734_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              712734
+            ]
+          },
+          "tcgplayer": {
+            "name": "Charlotte Smoothie",
+            "match": "minted",
+            "distance": 6
+          },
+          "artOf": "OP17-106",
+          "finishes": [
+            "nonfoil"
+          ],
+          "promoTypes": [
+            {
+              "type": "release",
+              "category": "event"
+            }
+          ],
+          "artist": "Kaito Shibano"
         }
       ]
     },
@@ -3100,7 +7117,22 @@
           "rarity": "UC",
           "block": "5",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP17-107.png",
-          "source": "bandai"
+          "cardSet": "BOOSTER PACK -THE WORLD’S STRONGEST WARRIORS- [OP-17]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              712654
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "Charlotte Daifuku",
+            "match": "whole-card",
+            "distance": 4
+          },
+          "artist": "HISASHI HUJIWARA"
         },
         {
           "id": "OP17-107_p1",
@@ -3108,7 +7140,48 @@
           "rarity": "UC",
           "block": "5",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP17-107_p1.png",
-          "source": "bandai"
+          "cardSet": "BOOSTER PACK -THE WORLD’S STRONGEST WARRIORS- [OP-17]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              712655
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "Charlotte Daifuku (Pandaman Art)",
+            "match": "whole-card",
+            "distance": 2
+          },
+          "artist": "HISASHI HUJIWARA"
+        },
+        {
+          "id": "OP17-107~tcg712735",
+          "set": "OP17-RE",
+          "rarity": "UC",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/712735_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              712735
+            ]
+          },
+          "tcgplayer": {
+            "name": "Charlotte Daifuku",
+            "match": "minted",
+            "distance": null
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "promoTypes": [
+            {
+              "type": "release",
+              "category": "event"
+            }
+          ]
         }
       ]
     },
@@ -3135,7 +7208,50 @@
           "rarity": "C",
           "block": "5",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP17-108.png",
-          "source": "bandai"
+          "cardSet": "BOOSTER PACK -THE WORLD’S STRONGEST WARRIORS- [OP-17]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              712656
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "Charlotte Brulee",
+            "match": "image-only-candidate",
+            "distance": 3
+          },
+          "artist": "kankurou"
+        },
+        {
+          "id": "OP17-108~tcg712736",
+          "set": "OP17-RE",
+          "rarity": "C",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/712736_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              712736
+            ]
+          },
+          "tcgplayer": {
+            "name": "Charlotte Brulee",
+            "match": "minted",
+            "distance": 4
+          },
+          "artOf": "OP17-108",
+          "finishes": [
+            "nonfoil"
+          ],
+          "promoTypes": [
+            {
+              "type": "release",
+              "category": "event"
+            }
+          ],
+          "artist": "kankurou"
         }
       ]
     },
@@ -3162,7 +7278,22 @@
           "rarity": "R",
           "block": "5",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP17-109.png",
-          "source": "bandai"
+          "cardSet": "BOOSTER PACK -THE WORLD’S STRONGEST WARRIORS- [OP-17]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              708074
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Charlotte Pudding",
+            "match": "image-only-candidate",
+            "distance": 1
+          },
+          "artist": "sho"
         }
       ]
     },
@@ -3189,7 +7320,50 @@
           "rarity": "C",
           "block": "5",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP17-110.png",
-          "source": "bandai"
+          "cardSet": "BOOSTER PACK -THE WORLD’S STRONGEST WARRIORS- [OP-17]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              712657
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "Charlotte Perospero",
+            "match": "image-only-candidate",
+            "distance": 0
+          },
+          "artist": "Nekobayashi"
+        },
+        {
+          "id": "OP17-110~tcg712737",
+          "set": "OP17-RE",
+          "rarity": "C",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/712737_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              712737
+            ]
+          },
+          "tcgplayer": {
+            "name": "Charlotte Perospero",
+            "match": "minted",
+            "distance": 0
+          },
+          "artOf": "OP17-110",
+          "finishes": [
+            "nonfoil"
+          ],
+          "promoTypes": [
+            {
+              "type": "release",
+              "category": "event"
+            }
+          ],
+          "artist": "Nekobayashi"
         }
       ]
     },
@@ -3216,7 +7390,50 @@
           "rarity": "C",
           "block": "5",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP17-111.png",
-          "source": "bandai"
+          "cardSet": "BOOSTER PACK -THE WORLD’S STRONGEST WARRIORS- [OP-17]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              712658
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "Charlotte Mont-d'or",
+            "match": "image-only-candidate",
+            "distance": 3
+          },
+          "artist": "Morechand"
+        },
+        {
+          "id": "OP17-111~tcg712738",
+          "set": "OP17-RE",
+          "rarity": "C",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/712738_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              712738
+            ]
+          },
+          "tcgplayer": {
+            "name": "Charlotte Mont-d'or",
+            "match": "minted",
+            "distance": 1
+          },
+          "artOf": "OP17-111",
+          "finishes": [
+            "nonfoil"
+          ],
+          "promoTypes": [
+            {
+              "type": "release",
+              "category": "event"
+            }
+          ],
+          "artist": "Morechand"
         }
       ]
     },
@@ -3243,7 +7460,22 @@
           "rarity": "SR",
           "block": "X",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP17-112.png",
-          "source": "bandai"
+          "cardSet": "BOOSTER PACK -THE WORLD’S STRONGEST WARRIORS- [OP-17]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              711325
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Charlotte Linlin (112)",
+            "match": "image",
+            "distance": 2
+          },
+          "artist": "Hokuyuu"
         },
         {
           "id": "OP17-112_p1",
@@ -3251,7 +7483,25 @@
           "rarity": "SR",
           "block": "X",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP17-112_p1.png",
-          "source": "bandai"
+          "cardSet": "BOOSTER PACK -THE WORLD’S STRONGEST WARRIORS- [OP-17]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              711324
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Charlotte Linlin (112) (Alternate Art)",
+            "match": "image",
+            "distance": 4
+          },
+          "treatments": [
+            "alternate_art"
+          ],
+          "artist": "Tadaichi Nakama"
         },
         {
           "id": "OP17-112_p2",
@@ -3259,7 +7509,24 @@
           "rarity": "SR",
           "block": "X",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP17-112_p2.png",
-          "source": "bandai"
+          "cardSet": "BOOSTER PACK -THE WORLD’S STRONGEST WARRIORS- [OP-17]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              708072
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Charlotte Linlin (112) (Manga)",
+            "match": "image",
+            "distance": 2
+          },
+          "treatments": [
+            "manga"
+          ]
         }
       ]
     },
@@ -3286,7 +7553,22 @@
           "rarity": "R",
           "block": "5",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP17-113.png",
-          "source": "bandai"
+          "cardSet": "BOOSTER PACK -THE WORLD’S STRONGEST WARRIORS- [OP-17]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              712659
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Streusen (113)",
+            "match": "image-only-candidate",
+            "distance": 4
+          },
+          "artist": "Misa Matoki"
         }
       ]
     },
@@ -3314,7 +7596,22 @@
           "rarity": "R",
           "block": "5",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP17-114.png",
-          "source": "bandai"
+          "cardSet": "BOOSTER PACK -THE WORLD’S STRONGEST WARRIORS- [OP-17]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              709105
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Sweet 3 Generals",
+            "match": "image",
+            "distance": 1
+          },
+          "artist": "Koushi Rokushiro"
         },
         {
           "id": "OP17-114_p1",
@@ -3322,7 +7619,25 @@
           "rarity": "R",
           "block": "5",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP17-114_p1.png",
-          "source": "bandai"
+          "cardSet": "BOOSTER PACK -THE WORLD’S STRONGEST WARRIORS- [OP-17]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              712116
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Sweet 3 Generals (Alternate Art)",
+            "match": "image",
+            "distance": 3
+          },
+          "treatments": [
+            "alternate_art"
+          ],
+          "artist": "BISAI"
         }
       ]
     },
@@ -3345,7 +7660,21 @@
           "rarity": "R",
           "block": "5",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP17-115.png",
-          "source": "bandai"
+          "cardSet": "BOOSTER PACK -THE WORLD’S STRONGEST WARRIORS- [OP-17]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              712660
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Don't you know that even in the cruel world of pirates there's still a code of honor?!!",
+            "match": "image-only-candidate",
+            "distance": 2
+          }
         }
       ]
     },
@@ -3368,7 +7697,48 @@
           "rarity": "UC",
           "block": "5",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP17-116.png",
-          "source": "bandai"
+          "cardSet": "BOOSTER PACK -THE WORLD’S STRONGEST WARRIORS- [OP-17]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              712661
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "Fulgora",
+            "match": "image-only-candidate",
+            "distance": 3
+          }
+        },
+        {
+          "id": "OP17-116~tcg712739",
+          "set": "OP17-RE",
+          "rarity": "UC",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/712739_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              712739
+            ]
+          },
+          "tcgplayer": {
+            "name": "Fulgora",
+            "match": "minted",
+            "distance": 2
+          },
+          "artOf": "OP17-116",
+          "finishes": [
+            "nonfoil"
+          ],
+          "promoTypes": [
+            {
+              "type": "release",
+              "category": "event"
+            }
+          ]
         }
       ]
     },
@@ -3391,7 +7761,48 @@
           "rarity": "C",
           "block": "5",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP17-117.png",
-          "source": "bandai"
+          "cardSet": "BOOSTER PACK -THE WORLD’S STRONGEST WARRIORS- [OP-17]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              712662
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "Maser Saber",
+            "match": "image-only-candidate",
+            "distance": 1
+          }
+        },
+        {
+          "id": "OP17-117~tcg712740",
+          "set": "OP17-RE",
+          "rarity": "C",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/712740_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              712740
+            ]
+          },
+          "tcgplayer": {
+            "name": "Maser Saber",
+            "match": "minted",
+            "distance": 1
+          },
+          "artOf": "OP17-117",
+          "finishes": [
+            "nonfoil"
+          ],
+          "promoTypes": [
+            {
+              "type": "release",
+              "category": "event"
+            }
+          ]
         }
       ]
     },
@@ -3417,7 +7828,22 @@
           "rarity": "SEC",
           "block": "X",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP17-118.png",
-          "source": "bandai"
+          "cardSet": "BOOSTER PACK -THE WORLD’S STRONGEST WARRIORS- [OP-17]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              709836
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Rocks.D.Xebec (118)",
+            "match": "image",
+            "distance": 4
+          },
+          "artist": "Anderson"
         },
         {
           "id": "OP17-118_p1",
@@ -3425,7 +7851,25 @@
           "rarity": "SEC",
           "block": "X",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP17-118_p1.png",
-          "source": "bandai"
+          "cardSet": "BOOSTER PACK -THE WORLD’S STRONGEST WARRIORS- [OP-17]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              709837
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Rocks.D.Xebec (118) (Alternate Art)",
+            "match": "image",
+            "distance": 1
+          },
+          "treatments": [
+            "alternate_art"
+          ],
+          "artist": "Matsumoto Akira"
         },
         {
           "id": "OP17-118_p2",
@@ -3433,7 +7877,24 @@
           "rarity": "SEC",
           "block": "X",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP17-118_p2.png",
-          "source": "bandai"
+          "cardSet": "BOOSTER PACK -THE WORLD’S STRONGEST WARRIORS- [OP-17]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              712117
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Rocks.D.Xebec (118) (Super Alternate Art)",
+            "match": "image",
+            "distance": 0
+          },
+          "treatments": [
+            "alternate_art"
+          ]
         }
       ]
     },
@@ -3460,7 +7921,22 @@
           "rarity": "SEC",
           "block": "5",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP17-119.png",
-          "source": "bandai"
+          "cardSet": "BOOSTER PACK -THE WORLD’S STRONGEST WARRIORS- [OP-17]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              710585
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Loki",
+            "match": "image",
+            "distance": 2
+          },
+          "artist": "Akanegumo"
         },
         {
           "id": "OP17-119_p1",
@@ -3468,7 +7944,25 @@
           "rarity": "SEC",
           "block": "5",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP17-119_p1.png",
-          "source": "bandai"
+          "cardSet": "BOOSTER PACK -THE WORLD’S STRONGEST WARRIORS- [OP-17]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              710586
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Loki (Alternate Art)",
+            "match": "image",
+            "distance": 5
+          },
+          "treatments": [
+            "alternate_art"
+          ],
+          "artist": "AKIRA EGAWA"
         }
       ]
     }

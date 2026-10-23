@@ -1,0 +1,98 @@
+{
+  "products": [
+    {
+      "id": "starter-deck-2-worst-generation",
+      "set": "ST02",
+      "category": "starter_deck",
+      "name": "Starter Deck 2: Worst Generation",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          288226
+        ]
+      },
+      "contentsStatus": "partial",
+      "contents": {
+        "cards": [
+          {
+            "printing": "ST02-001"
+          },
+          {
+            "printing": "ST02-002"
+          },
+          {
+            "printing": "ST02-003"
+          },
+          {
+            "printing": "ST02-004"
+          },
+          {
+            "printing": "ST02-005"
+          },
+          {
+            "printing": "ST02-006"
+          },
+          {
+            "printing": "ST02-007"
+          },
+          {
+            "printing": "ST02-008"
+          },
+          {
+            "printing": "ST02-009"
+          },
+          {
+            "printing": "ST02-010"
+          },
+          {
+            "printing": "ST02-011"
+          },
+          {
+            "printing": "ST02-012"
+          },
+          {
+            "printing": "ST02-013"
+          },
+          {
+            "printing": "ST02-014"
+          },
+          {
+            "printing": "ST02-015"
+          },
+          {
+            "printing": "ST02-016"
+          },
+          {
+            "printing": "ST02-017"
+          }
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/288226"
+      ],
+      "releaseDate": "2022-12-02"
+    },
+    {
+      "id": "starter-deck-2-worst-generation-display",
+      "set": "ST02",
+      "category": "display",
+      "name": "Starter Deck 2: Worst Generation Display",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          288231
+        ]
+      },
+      "contentsStatus": "partial",
+      "contents": {
+        "sealed": [
+          {
+            "product": "starter-deck-2-worst-generation"
+          }
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/288231"
+      ],
+      "releaseDate": "2022-12-02"
+    }
+  ]
+}

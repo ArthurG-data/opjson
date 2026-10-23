@@ -24,7 +24,22 @@
           "rarity": "C",
           "block": "5",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST32-001.png",
-          "source": "bandai"
+          "cardSet": "STARTER DECK -GREEN Roronoa Zoro- [ST-32]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              706323
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "Kin'emon",
+            "match": "image-only-candidate",
+            "distance": 4
+          },
+          "artist": "Yasushi Yamaguchi"
         }
       ]
     },
@@ -52,7 +67,22 @@
           "rarity": "SR",
           "block": "5",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST32-002.png",
-          "source": "bandai"
+          "cardSet": "STARTER DECK -GREEN Roronoa Zoro- [ST-32]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              706324
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Kouzuki Oden",
+            "match": "image-only-candidate",
+            "distance": 4
+          },
+          "artist": "Minato Sashima"
         },
         {
           "id": "ST32-002_p1",
@@ -60,7 +90,25 @@
           "rarity": "SP CARD",
           "block": "5",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST32-002_p1.png",
-          "source": "bandai"
+          "cardSet": "BOOSTER PACK -THE WORLD’S STRONGEST WARRIORS- [OP-17]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              712123
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Kouzuki Oden (ST32-002) (SP)",
+            "match": "image-only-candidate",
+            "distance": 2
+          },
+          "treatments": [
+            "sp"
+          ],
+          "artist": "sakai/INO Ltd."
         }
       ]
     },
@@ -87,7 +135,22 @@
           "rarity": "SR",
           "block": "5",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST32-003.png",
-          "source": "bandai"
+          "cardSet": "STARTER DECK -GREEN Roronoa Zoro- [ST-32]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              706325
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Dracule Mihawk",
+            "match": "image-only-candidate",
+            "distance": 2
+          },
+          "artist": "kicori"
         }
       ]
     },
@@ -114,7 +177,22 @@
           "rarity": "C",
           "block": "5",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST32-004.png",
-          "source": "bandai"
+          "cardSet": "STARTER DECK -GREEN Roronoa Zoro- [ST-32]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              706326
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "Silvers Rayleigh",
+            "match": "image-only-candidate",
+            "distance": 8
+          },
+          "artist": "Nijihayashi"
         }
       ]
     },
@@ -142,7 +220,22 @@
           "rarity": "C",
           "block": "5",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST32-005.png",
-          "source": "bandai"
+          "cardSet": "STARTER DECK -GREEN Roronoa Zoro- [ST-32]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              706327
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "Roronoa Zoro (ST32-005)",
+            "match": "image-only-candidate",
+            "distance": 3
+          },
+          "artist": "Koushi Rokushiro"
         }
       ]
     }

@@ -24,7 +24,22 @@
           "rarity": "C",
           "block": "3",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST28-001.png",
-          "source": "bandai"
+          "cardSet": "-GREEN/YELLOW Yamato- [ST-28]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              635312
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "Ashura Doji",
+            "match": "image-only-candidate",
+            "distance": 4
+          },
+          "artist": "Yasushi Yamaguchi"
         }
       ]
     },
@@ -52,7 +67,22 @@
           "rarity": "C",
           "block": "3",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST28-002.png",
-          "source": "bandai"
+          "cardSet": "-GREEN/YELLOW Yamato- [ST-28]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              635313
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "Izo",
+            "match": "image-only-candidate",
+            "distance": 4
+          },
+          "artist": "Morechand"
         }
       ]
     },
@@ -80,7 +110,22 @@
           "rarity": "C",
           "block": "3",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST28-003.png",
-          "source": "bandai"
+          "cardSet": "-GREEN/YELLOW Yamato- [ST-28]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              635314
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "Kin'emon",
+            "match": "image-only-candidate",
+            "distance": 1
+          },
+          "artist": "kankurou"
         }
       ]
     },
@@ -107,7 +152,22 @@
           "rarity": "SR",
           "block": "3",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST28-004.png",
-          "source": "bandai"
+          "cardSet": "-GREEN/YELLOW Yamato- [ST-28]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              635315
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Kouzuki Momonosuke",
+            "match": "image-only-candidate",
+            "distance": 2
+          },
+          "artist": "Misa Matoki"
         }
       ]
     },
@@ -133,7 +193,22 @@
           "rarity": "SR",
           "block": "3",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST28-005.png",
-          "source": "bandai"
+          "cardSet": "-GREEN/YELLOW Yamato- [ST-28]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              635316
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Yamato",
+            "match": "image-only-candidate",
+            "distance": 1
+          },
+          "artist": "PENEKOR"
         }
       ]
     }

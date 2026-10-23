@@ -1,0 +1,90 @@
+{
+  "products": [
+    {
+      "id": "royal-blood-booster-box",
+      "set": "OP10",
+      "category": "booster_box",
+      "name": "Royal Blood Booster Box",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          586671
+        ]
+      },
+      "contentsStatus": "unknown",
+      "contents": {},
+      "sources": [
+        "https://www.tcgplayer.com/product/586671"
+      ],
+      "releaseDate": "2025-03-21"
+    },
+    {
+      "id": "royal-blood-booster-box-case",
+      "set": "OP10",
+      "category": "case",
+      "name": "Royal Blood Booster Box Case",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          586673
+        ]
+      },
+      "contentsStatus": "partial",
+      "contents": {
+        "sealed": [
+          {
+            "product": "royal-blood-booster-box"
+          }
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/586673"
+      ],
+      "releaseDate": "2025-03-21"
+    },
+    {
+      "id": "royal-blood-booster-pack",
+      "set": "OP10",
+      "category": "booster_pack",
+      "name": "Royal Blood Booster Pack",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          586670
+        ]
+      },
+      "contentsStatus": "partial",
+      "contents": {
+        "pool": [
+          {
+            "set": "OP10"
+          }
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/586670"
+      ],
+      "releaseDate": "2025-03-21"
+    },
+    {
+      "id": "royal-blood-sleeved-booster-pack",
+      "set": "OP10",
+      "category": "sleeved_booster_pack",
+      "name": "Royal Blood - Sleeved Booster Pack",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          624523
+        ]
+      },
+      "contentsStatus": "partial",
+      "contents": {
+        "pool": [
+          {
+            "set": "OP10"
+          }
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/624523"
+      ],
+      "releaseDate": "2025-03-21"
+    }
+  ]
+}

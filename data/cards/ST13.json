@@ -24,7 +24,22 @@
           "rarity": "L",
           "block": "2",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST13-001.png",
-          "source": "bandai"
+          "cardSet": "-The Three Brothers-[ST13]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              543603
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Sabo (001)",
+            "match": "image",
+            "distance": 1
+          },
+          "artist": "Hokuyuu"
         },
         {
           "id": "ST13-001_p1",
@@ -32,7 +47,77 @@
           "rarity": "L",
           "block": "2",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST13-001_p1.png",
-          "source": "bandai"
+          "cardSet": "-The Three Brothers-[ST13]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              543622
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Sabo (001) (Parallel)",
+            "match": "image",
+            "distance": 2
+          },
+          "treatments": [
+            "parallel"
+          ],
+          "artist": "Hokuyuu"
+        },
+        {
+          "id": "ST13-001~tcg567114",
+          "set": "P",
+          "rarity": "L",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/567114_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              567114
+            ]
+          },
+          "tcgplayer": {
+            "name": "Sabo (Premium Card Collection -Leader Collection-)",
+            "match": "minted",
+            "distance": null
+          },
+          "finishes": [
+            "foil"
+          ],
+          "promoTypes": [
+            {
+              "type": "retail_product",
+              "category": "retail"
+            }
+          ]
+        },
+        {
+          "id": "ST13-001~tcg600707",
+          "set": "P",
+          "rarity": "L",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/600707_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              600707
+            ]
+          },
+          "tcgplayer": {
+            "name": "Sabo (2nd Anniversary Tournament)",
+            "match": "minted",
+            "distance": null
+          },
+          "finishes": [
+            "foil"
+          ],
+          "promoTypes": [
+            {
+              "type": "anniversary",
+              "category": "anniversary"
+            }
+          ]
         }
       ]
     },
@@ -59,7 +144,22 @@
           "rarity": "L",
           "block": "2",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST13-002.png",
-          "source": "bandai"
+          "cardSet": "-The Three Brothers-[ST13]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              543604
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Portgas.D.Ace (002)",
+            "match": "image",
+            "distance": 3
+          },
+          "artist": "Hokuyuu"
         },
         {
           "id": "ST13-002_p1",
@@ -67,7 +167,77 @@
           "rarity": "L",
           "block": "2",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST13-002_p1.png",
-          "source": "bandai"
+          "cardSet": "-The Three Brothers-[ST13]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              543623
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Portgas.D.Ace (002) (Parallel)",
+            "match": "image",
+            "distance": 3
+          },
+          "treatments": [
+            "parallel"
+          ],
+          "artist": "Hokuyuu"
+        },
+        {
+          "id": "ST13-002~tcg566953",
+          "set": "P",
+          "rarity": "L",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/566953_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              566953
+            ]
+          },
+          "tcgplayer": {
+            "name": "Portgas.D.Ace (Premium Card Collection -Leader Collection-)",
+            "match": "minted",
+            "distance": null
+          },
+          "finishes": [
+            "foil"
+          ],
+          "promoTypes": [
+            {
+              "type": "retail_product",
+              "category": "retail"
+            }
+          ]
+        },
+        {
+          "id": "ST13-002~tcg600709",
+          "set": "P",
+          "rarity": "L",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/600709_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              600709
+            ]
+          },
+          "tcgplayer": {
+            "name": "Portgas.D.Ace (2nd Anniversary Tournament)",
+            "match": "minted",
+            "distance": null
+          },
+          "finishes": [
+            "foil"
+          ],
+          "promoTypes": [
+            {
+              "type": "anniversary",
+              "category": "anniversary"
+            }
+          ]
         }
       ]
     },
@@ -95,7 +265,22 @@
           "rarity": "L",
           "block": "2",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST13-003.png",
-          "source": "bandai"
+          "cardSet": "-The Three Brothers-[ST13]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              543605
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Monkey.D.Luffy (003)",
+            "match": "image",
+            "distance": 1
+          },
+          "artist": "Hokuyuu"
         },
         {
           "id": "ST13-003_p1",
@@ -103,15 +288,106 @@
           "rarity": "L",
           "block": "2",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST13-003_p1.png",
-          "source": "bandai"
+          "cardSet": "-The Three Brothers-[ST13]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              543624
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Monkey.D.Luffy (003) (Parallel)",
+            "match": "image",
+            "distance": 6
+          },
+          "treatments": [
+            "parallel"
+          ],
+          "artist": "Hokuyuu"
         },
         {
           "id": "ST13-003_p2",
           "set": "P",
           "rarity": "L",
-          "block": "1",
+          "block": "2",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST13-003_p2.png",
-          "source": "bandai"
+          "cardSet": "ONE PIECE CARD GAME and Football Team DORTMUND collaboration event",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              624989
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Monkey.D.Luffy (BVB x One Piece Campaign)",
+            "match": "image",
+            "distance": 2
+          },
+          "promoTypes": [
+            {
+              "type": "collaboration",
+              "category": "retail"
+            }
+          ],
+          "artist": "DAI-XT."
+        },
+        {
+          "id": "ST13-003~tcg566952",
+          "set": "P",
+          "rarity": "L",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/566952_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              566952
+            ]
+          },
+          "tcgplayer": {
+            "name": "Monkey.D.Luffy (Premium Card Collection -Leader Collection-)",
+            "match": "minted",
+            "distance": null
+          },
+          "finishes": [
+            "foil"
+          ],
+          "promoTypes": [
+            {
+              "type": "retail_product",
+              "category": "retail"
+            }
+          ]
+        },
+        {
+          "id": "ST13-003~tcg600711",
+          "set": "P",
+          "rarity": "L",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/600711_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              600711
+            ]
+          },
+          "tcgplayer": {
+            "name": "Monkey.D.Luffy (2nd Anniversary Tournament)",
+            "match": "minted",
+            "distance": null
+          },
+          "finishes": [
+            "foil"
+          ],
+          "promoTypes": [
+            {
+              "type": "anniversary",
+              "category": "anniversary"
+            }
+          ]
         }
       ]
     },
@@ -139,7 +415,22 @@
           "rarity": "C",
           "block": "2",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST13-004.png",
-          "source": "bandai"
+          "cardSet": "-The Three Brothers-[ST13]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              543606
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Edward.Newgate",
+            "match": "image",
+            "distance": 1
+          },
+          "artist": "eiji kaneda"
         },
         {
           "id": "ST13-004_p1",
@@ -147,7 +438,25 @@
           "rarity": "C",
           "block": "2",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST13-004_p1.png",
-          "source": "bandai"
+          "cardSet": "-The Three Brothers-[ST13]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              543625
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Edward.Newgate (Parallel)",
+            "match": "image",
+            "distance": 1
+          },
+          "treatments": [
+            "parallel"
+          ],
+          "artist": "eiji kaneda"
         },
         {
           "id": "ST13-004_p2",
@@ -155,7 +464,29 @@
           "rarity": "C",
           "block": "2",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST13-004_p2.png",
-          "source": "bandai"
+          "cardSet": "-ONE PIECE CARD THE BEST vol.2- [PRB-02]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              656156
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Edward.Newgate - ST13-004 (Pirate Foil)",
+            "match": "image+name",
+            "distance": 2
+          },
+          "promoTypes": [
+            {
+              "type": "pirate_foil",
+              "category": "foil-pattern"
+            }
+          ],
+          "artOf": "ST13-004",
+          "artist": "eiji kaneda"
         },
         {
           "id": "ST13-004_r1",
@@ -163,7 +494,24 @@
           "rarity": "C",
           "block": "2",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST13-004_r1.png",
-          "source": "bandai"
+          "cardSet": "-ONE PIECE CARD THE BEST vol.2- [PRB-02]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              656153
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "Edward.Newgate - ST13-004 (Reprint)",
+            "match": "image+name",
+            "distance": 5
+          },
+          "treatments": [
+            "reprint"
+          ]
         }
       ]
     },
@@ -190,7 +538,22 @@
           "rarity": "R",
           "block": "2",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST13-005.png",
-          "source": "bandai"
+          "cardSet": "-The Three Brothers-[ST13]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              543607
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Emporio.Ivankov",
+            "match": "image",
+            "distance": 3
+          },
+          "artist": "tasaka"
         },
         {
           "id": "ST13-005_p1",
@@ -198,7 +561,25 @@
           "rarity": "R",
           "block": "2",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST13-005_p1.png",
-          "source": "bandai"
+          "cardSet": "-The Three Brothers-[ST13]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              543626
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Emporio.Ivankov (Parallel)",
+            "match": "image",
+            "distance": 5
+          },
+          "treatments": [
+            "parallel"
+          ],
+          "artist": "tasaka"
         }
       ]
     },
@@ -225,7 +606,22 @@
           "rarity": "C",
           "block": "2",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST13-006.png",
-          "source": "bandai"
+          "cardSet": "-The Three Brothers-[ST13]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              543608
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Curly.Dadan",
+            "match": "image",
+            "distance": 3
+          },
+          "artist": "Studio Vigor Co. Ltd"
         },
         {
           "id": "ST13-006_p1",
@@ -233,7 +629,25 @@
           "rarity": "C",
           "block": "2",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST13-006_p1.png",
-          "source": "bandai"
+          "cardSet": "-The Three Brothers-[ST13]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              543627
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Curly.Dadan (Parallel)",
+            "match": "image",
+            "distance": 4
+          },
+          "treatments": [
+            "parallel"
+          ],
+          "artist": "Studio Vigor Co. Ltd"
         }
       ]
     },
@@ -260,7 +674,22 @@
           "rarity": "C",
           "block": "2",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST13-007.png",
-          "source": "bandai"
+          "cardSet": "-The Three Brothers-[ST13]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              543609
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Sabo (007)",
+            "match": "image",
+            "distance": 3
+          },
+          "artist": "Suzume Muraichi"
         },
         {
           "id": "ST13-007_p1",
@@ -268,7 +697,25 @@
           "rarity": "C",
           "block": "2",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST13-007_p1.png",
-          "source": "bandai"
+          "cardSet": "-The Three Brothers-[ST13]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              543628
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Sabo (007) (Parallel)",
+            "match": "image",
+            "distance": 5
+          },
+          "treatments": [
+            "parallel"
+          ],
+          "artist": "Suzume Muraichi"
         },
         {
           "id": "ST13-007_p2",
@@ -276,7 +723,29 @@
           "rarity": "C",
           "block": "2",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST13-007_p2.png",
-          "source": "bandai"
+          "cardSet": "-ONE PIECE CARD THE BEST vol.2- [PRB-02]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              656148
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Sabo - ST13-007 (Pirate Foil)",
+            "match": "image+name",
+            "distance": 2
+          },
+          "promoTypes": [
+            {
+              "type": "pirate_foil",
+              "category": "foil-pattern"
+            }
+          ],
+          "artOf": "ST13-007",
+          "artist": "Suzume Muraichi"
         },
         {
           "id": "ST13-007_r1",
@@ -284,7 +753,26 @@
           "rarity": "C",
           "block": "2",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST13-007_r1.png",
-          "source": "bandai"
+          "cardSet": "-ONE PIECE CARD THE BEST vol.2- [PRB-02]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              656146
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "Sabo - ST13-007 (Reprint)",
+            "match": "image+name",
+            "distance": 3
+          },
+          "treatments": [
+            "reprint"
+          ],
+          "artOf": "ST13-007",
+          "artist": "Suzume Muraichi"
         }
       ]
     },
@@ -312,7 +800,22 @@
           "rarity": "SR",
           "block": "2",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST13-008.png",
-          "source": "bandai"
+          "cardSet": "-The Three Brothers-[ST13]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              543610
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Sabo (008)",
+            "match": "image",
+            "distance": 0
+          },
+          "artist": "otton"
         },
         {
           "id": "ST13-008_p1",
@@ -320,7 +823,25 @@
           "rarity": "SR",
           "block": "2",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST13-008_p1.png",
-          "source": "bandai"
+          "cardSet": "-The Three Brothers-[ST13]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              543629
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Sabo (008) (Parallel)",
+            "match": "image",
+            "distance": 3
+          },
+          "treatments": [
+            "parallel"
+          ],
+          "artist": "otton"
         }
       ]
     },
@@ -347,7 +868,22 @@
           "rarity": "C",
           "block": "2",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST13-009.png",
-          "source": "bandai"
+          "cardSet": "-The Three Brothers-[ST13]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              543611
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Shanks",
+            "match": "image",
+            "distance": 2
+          },
+          "artist": "phima"
         },
         {
           "id": "ST13-009_p1",
@@ -355,7 +891,25 @@
           "rarity": "C",
           "block": "2",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST13-009_p1.png",
-          "source": "bandai"
+          "cardSet": "-The Three Brothers-[ST13]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              543630
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Shanks (Parallel)",
+            "match": "image",
+            "distance": 1
+          },
+          "treatments": [
+            "parallel"
+          ],
+          "artist": "phima"
         }
       ]
     },
@@ -382,7 +936,22 @@
           "rarity": "C",
           "block": "2",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST13-010.png",
-          "source": "bandai"
+          "cardSet": "-The Three Brothers-[ST13]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              543612
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Portgas.D.Ace (010)",
+            "match": "image",
+            "distance": 2
+          },
+          "artist": "Suzume Muraichi"
         },
         {
           "id": "ST13-010_p1",
@@ -390,7 +959,25 @@
           "rarity": "C",
           "block": "2",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST13-010_p1.png",
-          "source": "bandai"
+          "cardSet": "-The Three Brothers-[ST13]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              543631
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Portgas.D.Ace (010) (Parallel)",
+            "match": "image",
+            "distance": 5
+          },
+          "treatments": [
+            "parallel"
+          ],
+          "artist": "Suzume Muraichi"
         },
         {
           "id": "ST13-010_p2",
@@ -398,7 +985,29 @@
           "rarity": "C",
           "block": "2",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST13-010_p2.png",
-          "source": "bandai"
+          "cardSet": "-ONE PIECE CARD THE BEST vol.2- [PRB-02]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              656140
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Portgas.D.Ace - ST13-010 (Pirate Foil)",
+            "match": "image+name",
+            "distance": 3
+          },
+          "promoTypes": [
+            {
+              "type": "pirate_foil",
+              "category": "foil-pattern"
+            }
+          ],
+          "artOf": "ST13-010",
+          "artist": "Suzume Muraichi"
         },
         {
           "id": "ST13-010_r1",
@@ -406,7 +1015,24 @@
           "rarity": "C",
           "block": "2",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST13-010_r1.png",
-          "source": "bandai"
+          "cardSet": "-ONE PIECE CARD THE BEST vol.2- [PRB-02]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              656137
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "Portgas.D.Ace - ST13-010 (Reprint)",
+            "match": "image+name",
+            "distance": 5
+          },
+          "treatments": [
+            "reprint"
+          ]
         }
       ]
     },
@@ -432,7 +1058,22 @@
           "rarity": "SR",
           "block": "2",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST13-011.png",
-          "source": "bandai"
+          "cardSet": "-The Three Brothers-[ST13]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              543613
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Portgas.D.Ace (011)",
+            "match": "image",
+            "distance": 1
+          },
+          "artist": "Denim2"
         },
         {
           "id": "ST13-011_p1",
@@ -440,7 +1081,25 @@
           "rarity": "SR",
           "block": "2",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST13-011_p1.png",
-          "source": "bandai"
+          "cardSet": "-The Three Brothers-[ST13]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              543632
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Portgas.D.Ace (011) (Parallel)",
+            "match": "image",
+            "distance": 2
+          },
+          "treatments": [
+            "parallel"
+          ],
+          "artist": "Denim2"
         },
         {
           "id": "ST13-011_p2",
@@ -448,7 +1107,25 @@
           "rarity": "SP CARD",
           "block": "2",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST13-011_p2.png",
-          "source": "bandai"
+          "cardSet": "-LEGACY OF THE MASTER- [OP-12]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              646571
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Portgas.D.Ace (SP)",
+            "match": "image-only-candidate",
+            "distance": 5
+          },
+          "treatments": [
+            "sp"
+          ],
+          "artist": "otton"
         }
       ]
     },
@@ -474,7 +1151,22 @@
           "rarity": "C",
           "block": "2",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST13-012.png",
-          "source": "bandai"
+          "cardSet": "-The Three Brothers-[ST13]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              543614
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Makino",
+            "match": "image",
+            "distance": 1
+          },
+          "artist": "Koushi Rokushiro"
         },
         {
           "id": "ST13-012_p1",
@@ -482,7 +1174,25 @@
           "rarity": "C",
           "block": "2",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST13-012_p1.png",
-          "source": "bandai"
+          "cardSet": "-The Three Brothers-[ST13]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              543633
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Makino (Parallel)",
+            "match": "image",
+            "distance": 5
+          },
+          "treatments": [
+            "parallel"
+          ],
+          "artist": "Koushi Rokushiro"
         },
         {
           "id": "ST13-012_p2",
@@ -490,7 +1200,54 @@
           "rarity": "C",
           "block": "2",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST13-012_p2.png",
-          "source": "bandai"
+          "cardSet": "Premium Card Collection -Best Selection Vol.3-",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              627456
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Makino (Premium Card Collection -Best Selection Vol. 3-)",
+            "match": "image",
+            "distance": 26
+          },
+          "promoTypes": [
+            {
+              "type": "retail_product",
+              "category": "retail"
+            }
+          ],
+          "artist": "otton"
+        },
+        {
+          "id": "ST13-012~tcg583756",
+          "set": "P",
+          "rarity": "C",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/583756_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              583756
+            ]
+          },
+          "tcgplayer": {
+            "name": "Makino (Judge Pack Vol. 4)",
+            "match": "minted",
+            "distance": null
+          },
+          "finishes": [
+            "foil"
+          ],
+          "promoTypes": [
+            {
+              "type": "judgegift",
+              "category": "program"
+            }
+          ]
         }
       ]
     },
@@ -517,7 +1274,22 @@
           "rarity": "SR",
           "block": "2",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST13-013.png",
-          "source": "bandai"
+          "cardSet": "-The Three Brothers-[ST13]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              543615
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Monkey.D.Garp",
+            "match": "image",
+            "distance": 2
+          },
+          "artist": "TAPIOCA"
         },
         {
           "id": "ST13-013_p1",
@@ -525,7 +1297,25 @@
           "rarity": "SR",
           "block": "2",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST13-013_p1.png",
-          "source": "bandai"
+          "cardSet": "-The Three Brothers-[ST13]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              543634
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Monkey.D.Garp (Parallel)",
+            "match": "image",
+            "distance": 0
+          },
+          "treatments": [
+            "parallel"
+          ],
+          "artist": "TAPIOCA"
         }
       ]
     },
@@ -552,7 +1342,22 @@
           "rarity": "C",
           "block": "2",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST13-014.png",
-          "source": "bandai"
+          "cardSet": "-The Three Brothers-[ST13]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              543616
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Monkey.D.Luffy (014)",
+            "match": "image",
+            "distance": 3
+          },
+          "artist": "Suzume Muraichi"
         },
         {
           "id": "ST13-014_p1",
@@ -560,7 +1365,25 @@
           "rarity": "C",
           "block": "2",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST13-014_p1.png",
-          "source": "bandai"
+          "cardSet": "-The Three Brothers-[ST13]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              543635
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Monkey.D.Luffy (014) (Parallel)",
+            "match": "image",
+            "distance": 1
+          },
+          "treatments": [
+            "parallel"
+          ],
+          "artist": "Suzume Muraichi"
         },
         {
           "id": "ST13-014_p2",
@@ -568,7 +1391,29 @@
           "rarity": "C",
           "block": "2",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST13-014_p2.png",
-          "source": "bandai"
+          "cardSet": "-ONE PIECE CARD THE BEST vol.2- [PRB-02]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              656133
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Monkey.D.Luffy - ST13-014 (Pirate Foil)",
+            "match": "image+name",
+            "distance": 4
+          },
+          "promoTypes": [
+            {
+              "type": "pirate_foil",
+              "category": "foil-pattern"
+            }
+          ],
+          "artOf": "ST13-014",
+          "artist": "Suzume Muraichi"
         },
         {
           "id": "ST13-014_r1",
@@ -576,7 +1421,26 @@
           "rarity": "C",
           "block": "2",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST13-014_r1.png",
-          "source": "bandai"
+          "cardSet": "-ONE PIECE CARD THE BEST vol.2- [PRB-02]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              656131
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "Monkey.D.Luffy - ST13-014 (Reprint)",
+            "match": "image+name",
+            "distance": 5
+          },
+          "treatments": [
+            "reprint"
+          ],
+          "artOf": "ST13-014",
+          "artist": "Suzume Muraichi"
         }
       ]
     },
@@ -604,7 +1468,22 @@
           "rarity": "SR",
           "block": "2",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST13-015.png",
-          "source": "bandai"
+          "cardSet": "-The Three Brothers-[ST13]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              543617
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Monkey.D.Luffy (015)",
+            "match": "image",
+            "distance": 2
+          },
+          "artist": "phima"
         },
         {
           "id": "ST13-015_p1",
@@ -612,7 +1491,25 @@
           "rarity": "SR",
           "block": "2",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST13-015_p1.png",
-          "source": "bandai"
+          "cardSet": "-The Three Brothers-[ST13]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              543636
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Monkey.D.Luffy (015) (Parallel)",
+            "match": "image",
+            "distance": 1
+          },
+          "treatments": [
+            "parallel"
+          ],
+          "artist": "phima"
         },
         {
           "id": "ST13-015_p2",
@@ -620,7 +1517,39 @@
           "rarity": "SR",
           "block": "2",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST13-015_p2.png",
-          "source": "bandai"
+          "cardSet": "Japanese 2nd Anniversary Set",
+          "source": "bandai",
+          "artist": "phima"
+        },
+        {
+          "id": "ST13-015~tcg617594",
+          "set": "P",
+          "rarity": "SR",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/617594_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              617594
+            ]
+          },
+          "tcgplayer": {
+            "name": "Monkey.D.Luffy (One Piece Japanese Version 2nd Anniversary Set)",
+            "match": "minted",
+            "distance": null
+          },
+          "finishes": [
+            "foil"
+          ],
+          "promoTypes": [
+            {
+              "type": "anniversary",
+              "category": "anniversary"
+            },
+            {
+              "type": "retail_product",
+              "category": "retail"
+            }
+          ]
         }
       ]
     },
@@ -647,7 +1576,22 @@
           "rarity": "C",
           "block": "2",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST13-016.png",
-          "source": "bandai"
+          "cardSet": "-The Three Brothers-[ST13]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              543618
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Yamato",
+            "match": "image",
+            "distance": 3
+          },
+          "artist": "BISAI"
         },
         {
           "id": "ST13-016_p1",
@@ -655,7 +1599,25 @@
           "rarity": "C",
           "block": "2",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST13-016_p1.png",
-          "source": "bandai"
+          "cardSet": "-The Three Brothers-[ST13]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              543637
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Yamato (Parallel)",
+            "match": "image",
+            "distance": 1
+          },
+          "treatments": [
+            "parallel"
+          ],
+          "artist": "BISAI"
         },
         {
           "id": "ST13-016_r1",
@@ -663,7 +1625,80 @@
           "rarity": "C",
           "block": "2",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST13-016_r1.png",
-          "source": "bandai"
+          "cardSet": "-GREEN/YELLOW Yamato- [ST-28]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              635311
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "Yamato (Reprint)",
+            "match": "image-only-candidate",
+            "distance": 0
+          },
+          "treatments": [
+            "reprint"
+          ]
+        },
+        {
+          "id": "ST13-016~tcg623071",
+          "set": "P",
+          "rarity": "C",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/623071_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              623071
+            ]
+          },
+          "tcgplayer": {
+            "name": "Yamato (Illustration Box Vol.2) (Textured)",
+            "match": "minted",
+            "distance": null
+          },
+          "finishes": [
+            "foil"
+          ],
+          "promoTypes": [
+            {
+              "type": "retail_product",
+              "category": "retail"
+            },
+            {
+              "type": "textured",
+              "category": "foil-pattern"
+            }
+          ]
+        },
+        {
+          "id": "ST13-016~tcg712036",
+          "set": "P",
+          "rarity": "C",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/712036_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              712036
+            ]
+          },
+          "tcgplayer": {
+            "name": "Yamato (Dash Pack 2025)",
+            "match": "minted",
+            "distance": null
+          },
+          "finishes": [
+            "foil"
+          ],
+          "promoTypes": [
+            {
+              "type": "retail_product",
+              "category": "retail"
+            }
+          ]
         }
       ]
     },
@@ -686,7 +1721,21 @@
           "rarity": "C",
           "block": "2",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST13-017.png",
-          "source": "bandai"
+          "cardSet": "-The Three Brothers-[ST13]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              543619
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Flame Dragon King",
+            "match": "image-only-candidate",
+            "distance": 4
+          }
         }
       ]
     },
@@ -709,7 +1758,21 @@
           "rarity": "C",
           "block": "2",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST13-018.png",
-          "source": "bandai"
+          "cardSet": "-The Three Brothers-[ST13]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              543620
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Gum-Gum Jet Spear",
+            "match": "image-only-candidate",
+            "distance": 1
+          }
         }
       ]
     },
@@ -731,7 +1794,21 @@
           "rarity": "C",
           "block": "2",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST13-019.png",
-          "source": "bandai"
+          "cardSet": "-The Three Brothers-[ST13]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              543621
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "The Three Brothers' Bond",
+            "match": "image-only-candidate",
+            "distance": 0
+          }
         },
         {
           "id": "ST13-019_p1",
@@ -739,7 +1816,28 @@
           "rarity": "C",
           "block": "2",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST13-019_p1.png",
-          "source": "bandai"
+          "cardSet": "-ONE PIECE CARD THE BEST vol.2- [PRB-02]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              656120
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "The Three Brothers' Bond (Pirate Foil)",
+            "match": "image",
+            "distance": 1
+          },
+          "promoTypes": [
+            {
+              "type": "pirate_foil",
+              "category": "foil-pattern"
+            }
+          ],
+          "artOf": "ST13-019"
         },
         {
           "id": "ST13-019_r1",
@@ -747,7 +1845,24 @@
           "rarity": "C",
           "block": "2",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST13-019_r1.png",
-          "source": "bandai"
+          "cardSet": "-ONE PIECE CARD THE BEST vol.2- [PRB-02]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              656119
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "The Three Brothers' Bond (Reprint)",
+            "match": "image",
+            "distance": 6
+          },
+          "treatments": [
+            "reprint"
+          ]
         }
       ]
     }

@@ -24,7 +24,22 @@
           "rarity": "L",
           "block": "3",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP11-001.png",
-          "source": "bandai"
+          "cardSet": "-A FIST OF DIVINE SPEED- [OP-11]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              632355
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "Koby (001)",
+            "match": "image",
+            "distance": 2
+          },
+          "artist": "Moeka Araki"
         },
         {
           "id": "OP11-001_p1",
@@ -32,7 +47,25 @@
           "rarity": "L",
           "block": "3",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP11-001_p1.png",
-          "source": "bandai"
+          "cardSet": "-A FIST OF DIVINE SPEED- [OP-11]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              632356
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Koby (001) (Alternate Art)",
+            "match": "image",
+            "distance": 2
+          },
+          "treatments": [
+            "alternate_art"
+          ],
+          "artist": "Ryuda"
         }
       ]
     },
@@ -60,7 +93,50 @@
           "rarity": "C",
           "block": "3",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP11-002.png",
-          "source": "bandai"
+          "cardSet": "-A FIST OF DIVINE SPEED- [OP-11]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              632357
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "Ain",
+            "match": "image-only-candidate",
+            "distance": 4
+          },
+          "artist": "Hatori Kyoka"
+        },
+        {
+          "id": "OP11-002~tcg634447",
+          "set": "OP11-RE",
+          "rarity": "C",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/634447_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              634447
+            ]
+          },
+          "tcgplayer": {
+            "name": "Ain",
+            "match": "minted",
+            "distance": 4
+          },
+          "artOf": "OP11-002",
+          "finishes": [
+            "nonfoil"
+          ],
+          "promoTypes": [
+            {
+              "type": "release",
+              "category": "event"
+            }
+          ],
+          "artist": "Hatori Kyoka"
         }
       ]
     },
@@ -87,7 +163,22 @@
           "rarity": "UC",
           "block": "3",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP11-003.png",
-          "source": "bandai"
+          "cardSet": "-A FIST OF DIVINE SPEED- [OP-11]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              632358
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "Usopp",
+            "match": "image-only-candidate",
+            "distance": 0
+          },
+          "artist": "Aidle Co. Ltd."
         },
         {
           "id": "OP11-003_r1",
@@ -95,7 +186,84 @@
           "rarity": "UC",
           "block": "3",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP11-003_r1.png",
-          "source": "bandai"
+          "cardSet": "STARTER DECK -RED Monkey.D.Luffy- [ST-31]",
+          "source": "bandai",
+          "artOf": "OP11-003",
+          "artist": "Aidle Co. Ltd."
+        },
+        {
+          "id": "OP11-003~tcg634448",
+          "set": "OP11-RE",
+          "rarity": "UC",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/634448_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              634448
+            ]
+          },
+          "tcgplayer": {
+            "name": "Usopp",
+            "match": "minted",
+            "distance": 0
+          },
+          "artOf": "OP11-003",
+          "finishes": [
+            "nonfoil"
+          ],
+          "promoTypes": [
+            {
+              "type": "release",
+              "category": "event"
+            }
+          ],
+          "artist": "Aidle Co. Ltd."
+        },
+        {
+          "id": "OP11-003~tcg656670",
+          "set": "LT01",
+          "rarity": "UC",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/656670_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              656670
+            ]
+          },
+          "tcgplayer": {
+            "name": "Usopp - OP11-003 (Luffy Deck)",
+            "match": "minted",
+            "distance": null
+          },
+          "finishes": [
+            "nonfoil"
+          ]
+        },
+        {
+          "id": "OP11-003~tcg707256",
+          "set": "P",
+          "rarity": "UC",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/707256_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              707256
+            ]
+          },
+          "tcgplayer": {
+            "name": "Usopp (Round 1 Promo)",
+            "match": "minted",
+            "distance": null
+          },
+          "finishes": [
+            "foil"
+          ],
+          "promoTypes": [
+            {
+              "type": "event_pack",
+              "category": "event"
+            }
+          ]
         }
       ]
     },
@@ -122,7 +290,22 @@
           "rarity": "SR",
           "block": "3",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP11-004.png",
-          "source": "bandai"
+          "cardSet": "-A FIST OF DIVINE SPEED- [OP-11]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              632359
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Kujyaku",
+            "match": "image",
+            "distance": 5
+          },
+          "artist": "SHIE NANAHARA"
         },
         {
           "id": "OP11-004_p1",
@@ -130,7 +313,25 @@
           "rarity": "SR",
           "block": "3",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP11-004_p1.png",
-          "source": "bandai"
+          "cardSet": "-A FIST OF DIVINE SPEED- [OP-11]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              632360
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Kujyaku (Alternate Art)",
+            "match": "image",
+            "distance": 3
+          },
+          "treatments": [
+            "alternate_art"
+          ],
+          "artist": "Hashimoto Q"
         },
         {
           "id": "OP11-004_p2",
@@ -138,7 +339,28 @@
           "rarity": "SR",
           "block": "3",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP11-004_p2.png",
-          "source": "bandai"
+          "cardSet": "Treasure Cup August 2025~",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              646745
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Kujyaku (Treasure Cup August 2025)",
+            "match": "image",
+            "distance": 4
+          },
+          "promoTypes": [
+            {
+              "type": "treasure_cup",
+              "category": "championship"
+            }
+          ],
+          "artist": "Hashimoto Q"
         }
       ]
     },
@@ -165,7 +387,50 @@
           "rarity": "C",
           "block": "3",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP11-005.png",
-          "source": "bandai"
+          "cardSet": "-A FIST OF DIVINE SPEED- [OP-11]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              632361
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "Smoker",
+            "match": "image-only-candidate",
+            "distance": 2
+          },
+          "artist": "Studio Vigor Co. Ltd"
+        },
+        {
+          "id": "OP11-005~tcg634449",
+          "set": "OP11-RE",
+          "rarity": "C",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/634449_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              634449
+            ]
+          },
+          "tcgplayer": {
+            "name": "Smoker",
+            "match": "minted",
+            "distance": 2
+          },
+          "artOf": "OP11-005",
+          "finishes": [
+            "nonfoil"
+          ],
+          "promoTypes": [
+            {
+              "type": "release",
+              "category": "event"
+            }
+          ],
+          "artist": "Studio Vigor Co. Ltd"
         }
       ]
     },
@@ -193,7 +458,50 @@
           "rarity": "C",
           "block": "3",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP11-006.png",
-          "source": "bandai"
+          "cardSet": "-A FIST OF DIVINE SPEED- [OP-11]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              632362
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "Zephyr",
+            "match": "image-only-candidate",
+            "distance": 0
+          },
+          "artist": "Anderson"
+        },
+        {
+          "id": "OP11-006~tcg634450",
+          "set": "OP11-RE",
+          "rarity": "C",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/634450_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              634450
+            ]
+          },
+          "tcgplayer": {
+            "name": "Zephyr",
+            "match": "minted",
+            "distance": 0
+          },
+          "artOf": "OP11-006",
+          "finishes": [
+            "nonfoil"
+          ],
+          "promoTypes": [
+            {
+              "type": "release",
+              "category": "event"
+            }
+          ],
+          "artist": "Anderson"
         }
       ]
     },
@@ -220,7 +528,50 @@
           "rarity": "C",
           "block": "3",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP11-007.png",
-          "source": "bandai"
+          "cardSet": "-A FIST OF DIVINE SPEED- [OP-11]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              632363
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "Tashigi",
+            "match": "image-only-candidate",
+            "distance": 5
+          },
+          "artist": "SHINRA AGENCY Co. Ltd."
+        },
+        {
+          "id": "OP11-007~tcg634451",
+          "set": "OP11-RE",
+          "rarity": "C",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/634451_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              634451
+            ]
+          },
+          "tcgplayer": {
+            "name": "Tashigi",
+            "match": "minted",
+            "distance": 5
+          },
+          "artOf": "OP11-007",
+          "finishes": [
+            "nonfoil"
+          ],
+          "promoTypes": [
+            {
+              "type": "release",
+              "category": "event"
+            }
+          ],
+          "artist": "SHINRA AGENCY Co. Ltd."
         }
       ]
     },
@@ -247,7 +598,22 @@
           "rarity": "R",
           "block": "3",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP11-008.png",
-          "source": "bandai"
+          "cardSet": "-A FIST OF DIVINE SPEED- [OP-11]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              632364
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Doll",
+            "match": "image",
+            "distance": 5
+          },
+          "artist": "SHINRA AGENCY Co. Ltd."
         },
         {
           "id": "OP11-008_p1",
@@ -255,7 +621,25 @@
           "rarity": "R",
           "block": "3",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP11-008_p1.png",
-          "source": "bandai"
+          "cardSet": "-A FIST OF DIVINE SPEED- [OP-11]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              632365
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Doll (Alternate Art)",
+            "match": "image",
+            "distance": 2
+          },
+          "treatments": [
+            "alternate_art"
+          ],
+          "artist": "phima"
         }
       ]
     },
@@ -282,7 +666,22 @@
           "rarity": "C",
           "block": "3",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP11-009.png",
-          "source": "bandai"
+          "cardSet": "-A FIST OF DIVINE SPEED- [OP-11]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              632366
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "Nico Robin",
+            "match": "image-only-candidate",
+            "distance": 3
+          },
+          "artist": "Naruse Uroko"
         },
         {
           "id": "OP11-009_r1",
@@ -290,7 +689,38 @@
           "rarity": "C",
           "block": "3",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP11-009_r1.png",
-          "source": "bandai"
+          "cardSet": "STARTER DECK -RED Monkey.D.Luffy- [ST-31]",
+          "source": "bandai",
+          "artOf": "OP11-009",
+          "artist": "Naruse Uroko"
+        },
+        {
+          "id": "OP11-009~tcg634452",
+          "set": "OP11-RE",
+          "rarity": "C",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/634452_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              634452
+            ]
+          },
+          "tcgplayer": {
+            "name": "Nico Robin",
+            "match": "minted",
+            "distance": 3
+          },
+          "artOf": "OP11-009",
+          "finishes": [
+            "nonfoil"
+          ],
+          "promoTypes": [
+            {
+              "type": "release",
+              "category": "event"
+            }
+          ],
+          "artist": "Naruse Uroko"
         }
       ]
     },
@@ -317,7 +747,22 @@
           "rarity": "SR",
           "block": "3",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP11-010.png",
-          "source": "bandai"
+          "cardSet": "-A FIST OF DIVINE SPEED- [OP-11]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              632367
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Hibari",
+            "match": "image",
+            "distance": 0
+          },
+          "artist": "Sunohara"
         },
         {
           "id": "OP11-010_p1",
@@ -325,7 +770,25 @@
           "rarity": "SR",
           "block": "3",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP11-010_p1.png",
-          "source": "bandai"
+          "cardSet": "-A FIST OF DIVINE SPEED- [OP-11]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              632368
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Hibari (Alternate Art)",
+            "match": "image",
+            "distance": 3
+          },
+          "treatments": [
+            "alternate_art"
+          ],
+          "artist": "Chiharu Akakura"
         },
         {
           "id": "OP11-010_p2",
@@ -333,7 +796,25 @@
           "rarity": "SR",
           "block": "3",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP11-010_p2.png",
-          "source": "bandai"
+          "cardSet": "Treasure Cup August 2025~",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              646746
+            ]
+          },
+          "tcgplayer": {
+            "name": "Hibari (Treasure Cup August 2025)",
+            "match": "image",
+            "distance": 5
+          },
+          "promoTypes": [
+            {
+              "type": "treasure_cup",
+              "category": "championship"
+            }
+          ],
+          "artist": "nuisuke"
         }
       ]
     },
@@ -361,7 +842,50 @@
           "rarity": "C",
           "block": "3",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP11-011.png",
-          "source": "bandai"
+          "cardSet": "-A FIST OF DIVINE SPEED- [OP-11]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              632369
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "Bins",
+            "match": "image-only-candidate",
+            "distance": 1
+          },
+          "artist": "Yoichi Amano"
+        },
+        {
+          "id": "OP11-011~tcg634453",
+          "set": "OP11-RE",
+          "rarity": "C",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/634453_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              634453
+            ]
+          },
+          "tcgplayer": {
+            "name": "Bins",
+            "match": "minted",
+            "distance": 1
+          },
+          "artOf": "OP11-011",
+          "finishes": [
+            "nonfoil"
+          ],
+          "promoTypes": [
+            {
+              "type": "release",
+              "category": "event"
+            }
+          ],
+          "artist": "Yoichi Amano"
         }
       ]
     },
@@ -388,7 +912,22 @@
           "rarity": "UC",
           "block": "3",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP11-012.png",
-          "source": "bandai"
+          "cardSet": "-A FIST OF DIVINE SPEED- [OP-11]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              632370
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "Franky",
+            "match": "image-only-candidate",
+            "distance": 4
+          },
+          "artist": "tasaka"
         },
         {
           "id": "OP11-012_r1",
@@ -396,7 +935,119 @@
           "rarity": "UC",
           "block": "3",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP11-012_r1.png",
-          "source": "bandai"
+          "cardSet": "STARTER DECK -RED Monkey.D.Luffy- [ST-31]",
+          "source": "bandai",
+          "artOf": "OP11-012",
+          "artist": "tasaka"
+        },
+        {
+          "id": "OP11-012~tcg634454",
+          "set": "OP11-RE",
+          "rarity": "UC",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/634454_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              634454
+            ]
+          },
+          "tcgplayer": {
+            "name": "Franky",
+            "match": "minted",
+            "distance": 4
+          },
+          "artOf": "OP11-012",
+          "finishes": [
+            "nonfoil"
+          ],
+          "promoTypes": [
+            {
+              "type": "release",
+              "category": "event"
+            }
+          ],
+          "artist": "tasaka"
+        },
+        {
+          "id": "OP11-012~tcg710250",
+          "set": "P",
+          "rarity": "UC",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/710250_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              710250
+            ]
+          },
+          "tcgplayer": {
+            "name": "Franky (CS 26-27 Top Player Pack Vol. 1)",
+            "match": "minted",
+            "distance": null
+          },
+          "promoTypes": [
+            {
+              "type": "championship",
+              "category": "championship"
+            },
+            {
+              "type": "placement",
+              "category": "placement"
+            }
+          ]
+        },
+        {
+          "id": "OP11-012~tcg710264",
+          "set": "P",
+          "rarity": "UC",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/710264_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              710264
+            ]
+          },
+          "tcgplayer": {
+            "name": "Franky (CS 26-27 Finalist Card Set Vol.1)",
+            "match": "minted",
+            "distance": null
+          },
+          "promoTypes": [
+            {
+              "type": "championship",
+              "category": "championship"
+            },
+            {
+              "type": "placement",
+              "category": "placement"
+            }
+          ]
+        },
+        {
+          "id": "OP11-012~tcg710265",
+          "set": "P",
+          "rarity": "UC",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/710265_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              710265
+            ]
+          },
+          "tcgplayer": {
+            "name": "Franky (CS 26-27 Winner Card Set Vol.1)",
+            "match": "minted",
+            "distance": null
+          },
+          "promoTypes": [
+            {
+              "type": "championship",
+              "category": "championship"
+            },
+            {
+              "type": "placement",
+              "category": "placement"
+            }
+          ]
         }
       ]
     },
@@ -424,7 +1075,48 @@
           "rarity": "R",
           "block": "3",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP11-013.png",
-          "source": "bandai"
+          "cardSet": "-A FIST OF DIVINE SPEED- [OP-11]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              632371
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Prince Grus",
+            "match": "image-only-candidate",
+            "distance": 6
+          },
+          "artist": "Haru Miyajima"
+        },
+        {
+          "id": "OP11-013~tcg668195",
+          "set": "P",
+          "rarity": "R",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/668195_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              668195
+            ]
+          },
+          "tcgplayer": {
+            "name": "Prince Grus (Judge Pack Vol. 7)",
+            "match": "minted",
+            "distance": null
+          },
+          "finishes": [
+            "foil"
+          ],
+          "promoTypes": [
+            {
+              "type": "judgegift",
+              "category": "program"
+            }
+          ]
         }
       ]
     },
@@ -452,7 +1144,22 @@
           "rarity": "R",
           "block": "3",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP11-014.png",
-          "source": "bandai"
+          "cardSet": "-A FIST OF DIVINE SPEED- [OP-11]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              632372
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Borsalino",
+            "match": "image-only-candidate",
+            "distance": 2
+          },
+          "artist": "ASAKI KURODA"
         }
       ]
     },
@@ -479,7 +1186,50 @@
           "rarity": "C",
           "block": "3",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP11-015.png",
-          "source": "bandai"
+          "cardSet": "-A FIST OF DIVINE SPEED- [OP-11]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              632373
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "Mocha",
+            "match": "image-only-candidate",
+            "distance": 0
+          },
+          "artist": "COGA"
+        },
+        {
+          "id": "OP11-015~tcg634455",
+          "set": "OP11-RE",
+          "rarity": "C",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/634455_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              634455
+            ]
+          },
+          "tcgplayer": {
+            "name": "Mocha",
+            "match": "minted",
+            "distance": 0
+          },
+          "artOf": "OP11-015",
+          "finishes": [
+            "nonfoil"
+          ],
+          "promoTypes": [
+            {
+              "type": "release",
+              "category": "event"
+            }
+          ],
+          "artist": "COGA"
         }
       ]
     },
@@ -506,7 +1256,70 @@
           "rarity": "UC",
           "block": "3",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP11-016.png",
-          "source": "bandai"
+          "cardSet": "-A FIST OF DIVINE SPEED- [OP-11]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              632374
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "Roronoa Zoro",
+            "match": "image-only-candidate",
+            "distance": 0
+          },
+          "artist": "Akanegumo"
+        },
+        {
+          "id": "OP11-016~tcg634456",
+          "set": "OP11-RE",
+          "rarity": "UC",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/634456_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              634456
+            ]
+          },
+          "tcgplayer": {
+            "name": "Roronoa Zoro",
+            "match": "minted",
+            "distance": 0
+          },
+          "artOf": "OP11-016",
+          "finishes": [
+            "nonfoil"
+          ],
+          "promoTypes": [
+            {
+              "type": "release",
+              "category": "event"
+            }
+          ],
+          "artist": "Akanegumo"
+        },
+        {
+          "id": "OP11-016~tcg656671",
+          "set": "LT01",
+          "rarity": "UC",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/656671_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              656671
+            ]
+          },
+          "tcgplayer": {
+            "name": "Roronoa Zoro - OP11-016 (Luffy Deck)",
+            "match": "minted",
+            "distance": null
+          },
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
@@ -535,7 +1348,76 @@
           "rarity": "UC",
           "block": "3",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP11-017.png",
-          "source": "bandai"
+          "cardSet": "-A FIST OF DIVINE SPEED- [OP-11]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              632375
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "X.Drake",
+            "match": "image-only-candidate",
+            "distance": 2
+          },
+          "artist": "Aidle Co. Ltd."
+        },
+        {
+          "id": "OP11-017~tcg634457",
+          "set": "OP11-RE",
+          "rarity": "UC",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/634457_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              634457
+            ]
+          },
+          "tcgplayer": {
+            "name": "X.Drake",
+            "match": "minted",
+            "distance": 2
+          },
+          "artOf": "OP11-017",
+          "finishes": [
+            "nonfoil"
+          ],
+          "promoTypes": [
+            {
+              "type": "release",
+              "category": "event"
+            }
+          ],
+          "artist": "Aidle Co. Ltd."
+        },
+        {
+          "id": "OP11-017~tcg668196",
+          "set": "P",
+          "rarity": "UC",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/668196_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              668196
+            ]
+          },
+          "tcgplayer": {
+            "name": "X.Drake (Judge Pack Vol. 7)",
+            "match": "minted",
+            "distance": null
+          },
+          "finishes": [
+            "foil"
+          ],
+          "promoTypes": [
+            {
+              "type": "judgegift",
+              "category": "program"
+            }
+          ]
         }
       ]
     },
@@ -558,7 +1440,21 @@
           "rarity": "R",
           "block": "3",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP11-018.png",
-          "source": "bandai"
+          "cardSet": "-A FIST OF DIVINE SPEED- [OP-11]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              632376
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Honesty Impact",
+            "match": "image",
+            "distance": 5
+          }
         },
         {
           "id": "OP11-018_p1",
@@ -566,7 +1462,24 @@
           "rarity": "R",
           "block": "3",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP11-018_p1.png",
-          "source": "bandai"
+          "cardSet": "-A FIST OF DIVINE SPEED- [OP-11]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              632377
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Honesty Impact (Alternate Art)",
+            "match": "image",
+            "distance": 4
+          },
+          "treatments": [
+            "alternate_art"
+          ]
         }
       ]
     },
@@ -589,7 +1502,48 @@
           "rarity": "C",
           "block": "3",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP11-019.png",
-          "source": "bandai"
+          "cardSet": "-A FIST OF DIVINE SPEED- [OP-11]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              632378
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "Glorp Web!!",
+            "match": "image-only-candidate",
+            "distance": 0
+          }
+        },
+        {
+          "id": "OP11-019~tcg634458",
+          "set": "OP11-RE",
+          "rarity": "C",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/634458_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              634458
+            ]
+          },
+          "tcgplayer": {
+            "name": "Glorp Web!!",
+            "match": "minted",
+            "distance": 0
+          },
+          "artOf": "OP11-019",
+          "finishes": [
+            "nonfoil"
+          ],
+          "promoTypes": [
+            {
+              "type": "release",
+              "category": "event"
+            }
+          ]
         }
       ]
     },
@@ -613,7 +1567,48 @@
           "rarity": "UC",
           "block": "3",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP11-020.png",
-          "source": "bandai"
+          "cardSet": "-A FIST OF DIVINE SPEED- [OP-11]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              632379
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "X Calibur",
+            "match": "image-only-candidate",
+            "distance": 2
+          }
+        },
+        {
+          "id": "OP11-020~tcg634459",
+          "set": "OP11-RE",
+          "rarity": "UC",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/634459_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              634459
+            ]
+          },
+          "tcgplayer": {
+            "name": "X Calibur",
+            "match": "minted",
+            "distance": 2
+          },
+          "artOf": "OP11-020",
+          "finishes": [
+            "nonfoil"
+          ],
+          "promoTypes": [
+            {
+              "type": "release",
+              "category": "event"
+            }
+          ]
         }
       ]
     },
@@ -640,7 +1635,22 @@
           "rarity": "L",
           "block": "3",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP11-021.png",
-          "source": "bandai"
+          "cardSet": "-A FIST OF DIVINE SPEED- [OP-11]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              632380
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "Jinbe (021)",
+            "match": "image",
+            "distance": 3
+          },
+          "artist": "Midori Matsuda"
         },
         {
           "id": "OP11-021_p1",
@@ -648,7 +1658,25 @@
           "rarity": "L",
           "block": "3",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP11-021_p1.png",
-          "source": "bandai"
+          "cardSet": "-A FIST OF DIVINE SPEED- [OP-11]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              632381
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Jinbe (021) (Alternate Art)",
+            "match": "image",
+            "distance": 1
+          },
+          "treatments": [
+            "alternate_art"
+          ],
+          "artist": "SENNSU"
         }
       ]
     },
@@ -676,7 +1704,22 @@
           "rarity": "L",
           "block": "3",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP11-022.png",
-          "source": "bandai"
+          "cardSet": "-A FIST OF DIVINE SPEED- [OP-11]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              632382
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "Shirahoshi (022)",
+            "match": "image",
+            "distance": 1
+          },
+          "artist": "Keiichi Ichikawa"
         },
         {
           "id": "OP11-022_p1",
@@ -684,7 +1727,25 @@
           "rarity": "L",
           "block": "3",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP11-022_p1.png",
-          "source": "bandai"
+          "cardSet": "-A FIST OF DIVINE SPEED- [OP-11]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              632383
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Shirahoshi (022) (Alternate Art)",
+            "match": "image",
+            "distance": 1
+          },
+          "treatments": [
+            "alternate_art"
+          ],
+          "artist": "Naruse Uroko"
         }
       ]
     },
@@ -713,7 +1774,22 @@
           "rarity": "R",
           "block": "3",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP11-023.png",
-          "source": "bandai"
+          "cardSet": "-A FIST OF DIVINE SPEED- [OP-11]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              632384
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Arlong",
+            "match": "image",
+            "distance": 4
+          },
+          "artist": "Hokuyuu"
         },
         {
           "id": "OP11-023_p1",
@@ -721,7 +1797,25 @@
           "rarity": "R",
           "block": "3",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP11-023_p1.png",
-          "source": "bandai"
+          "cardSet": "-A FIST OF DIVINE SPEED- [OP-11]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              632385
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Arlong (Alternate Art)",
+            "match": "image",
+            "distance": 2
+          },
+          "treatments": [
+            "alternate_art"
+          ],
+          "artist": "DAI-XT."
         }
       ]
     },
@@ -750,7 +1844,50 @@
           "rarity": "C",
           "block": "3",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP11-024.png",
-          "source": "bandai"
+          "cardSet": "-A FIST OF DIVINE SPEED- [OP-11]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              632386
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "Aladine",
+            "match": "image-only-candidate",
+            "distance": 3
+          },
+          "artist": "DAI-XT."
+        },
+        {
+          "id": "OP11-024~tcg634460",
+          "set": "OP11-RE",
+          "rarity": "C",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/634460_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              634460
+            ]
+          },
+          "tcgplayer": {
+            "name": "Aladine",
+            "match": "minted",
+            "distance": 3
+          },
+          "artOf": "OP11-024",
+          "finishes": [
+            "nonfoil"
+          ],
+          "promoTypes": [
+            {
+              "type": "release",
+              "category": "event"
+            }
+          ],
+          "artist": "DAI-XT."
         }
       ]
     },
@@ -777,7 +1914,50 @@
           "rarity": "C",
           "block": "3",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP11-025.png",
-          "source": "bandai"
+          "cardSet": "-A FIST OF DIVINE SPEED- [OP-11]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              632387
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "Ishilly",
+            "match": "image-only-candidate",
+            "distance": 4
+          },
+          "artist": "Koushi Rokushiro"
+        },
+        {
+          "id": "OP11-025~tcg634461",
+          "set": "OP11-RE",
+          "rarity": "C",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/634461_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              634461
+            ]
+          },
+          "tcgplayer": {
+            "name": "Ishilly",
+            "match": "minted",
+            "distance": 4
+          },
+          "artOf": "OP11-025",
+          "finishes": [
+            "nonfoil"
+          ],
+          "promoTypes": [
+            {
+              "type": "release",
+              "category": "event"
+            }
+          ],
+          "artist": "Koushi Rokushiro"
         }
       ]
     },
@@ -804,7 +1984,50 @@
           "rarity": "C",
           "block": "3",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP11-026.png",
-          "source": "bandai"
+          "cardSet": "-A FIST OF DIVINE SPEED- [OP-11]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              632388
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "Scaled Neptunian",
+            "match": "image-only-candidate",
+            "distance": 2
+          },
+          "artist": "HISASHI HUJIWARA"
+        },
+        {
+          "id": "OP11-026~tcg634462",
+          "set": "OP11-RE",
+          "rarity": "C",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/634462_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              634462
+            ]
+          },
+          "tcgplayer": {
+            "name": "Scaled Neptunian",
+            "match": "minted",
+            "distance": 2
+          },
+          "artOf": "OP11-026",
+          "finishes": [
+            "nonfoil"
+          ],
+          "promoTypes": [
+            {
+              "type": "release",
+              "category": "event"
+            }
+          ],
+          "artist": "HISASHI HUJIWARA"
         }
       ]
     },
@@ -830,7 +2053,50 @@
           "rarity": "C",
           "block": "3",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP11-027.png",
-          "source": "bandai"
+          "cardSet": "-A FIST OF DIVINE SPEED- [OP-11]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              632389
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "Bulge-Eyed Neptunian",
+            "match": "image-only-candidate",
+            "distance": 2
+          },
+          "artist": "kankurou"
+        },
+        {
+          "id": "OP11-027~tcg634463",
+          "set": "OP11-RE",
+          "rarity": "C",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/634463_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              634463
+            ]
+          },
+          "tcgplayer": {
+            "name": "Bulge-Eyed Neptunian",
+            "match": "minted",
+            "distance": 2
+          },
+          "artOf": "OP11-027",
+          "finishes": [
+            "nonfoil"
+          ],
+          "promoTypes": [
+            {
+              "type": "release",
+              "category": "event"
+            }
+          ],
+          "artist": "kankurou"
         }
       ]
     },
@@ -858,7 +2124,48 @@
           "rarity": "R",
           "block": "3",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP11-028.png",
-          "source": "bandai"
+          "cardSet": "-A FIST OF DIVINE SPEED- [OP-11]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              632390
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Lord of the Coast",
+            "match": "image-only-candidate",
+            "distance": 1
+          },
+          "artist": "shosuke"
+        },
+        {
+          "id": "OP11-028~tcg668197",
+          "set": "P",
+          "rarity": "R",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/668197_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              668197
+            ]
+          },
+          "tcgplayer": {
+            "name": "Lord of the Coast (Judge Pack Vol. 7)",
+            "match": "minted",
+            "distance": null
+          },
+          "finishes": [
+            "foil"
+          ],
+          "promoTypes": [
+            {
+              "type": "judgegift",
+              "category": "program"
+            }
+          ]
         }
       ]
     },
@@ -887,7 +2194,50 @@
           "rarity": "UC",
           "block": "3",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP11-029.png",
-          "source": "bandai"
+          "cardSet": "-A FIST OF DIVINE SPEED- [OP-11]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              632391
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "Charlotte Praline",
+            "match": "image-only-candidate",
+            "distance": 4
+          },
+          "artist": "Hagane Tsurugi"
+        },
+        {
+          "id": "OP11-029~tcg634464",
+          "set": "OP11-RE",
+          "rarity": "UC",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/634464_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              634464
+            ]
+          },
+          "tcgplayer": {
+            "name": "Charlotte Praline",
+            "match": "minted",
+            "distance": 4
+          },
+          "artOf": "OP11-029",
+          "finishes": [
+            "nonfoil"
+          ],
+          "promoTypes": [
+            {
+              "type": "release",
+              "category": "event"
+            }
+          ],
+          "artist": "Hagane Tsurugi"
         }
       ]
     },
@@ -914,7 +2264,48 @@
           "rarity": "R",
           "block": "3",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP11-030.png",
-          "source": "bandai"
+          "cardSet": "-A FIST OF DIVINE SPEED- [OP-11]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              632392
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Shirahoshi (030)",
+            "match": "image-only-candidate",
+            "distance": 3
+          },
+          "artist": "BISAI"
+        },
+        {
+          "id": "OP11-030~tcg668199",
+          "set": "P",
+          "rarity": "R",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/668199_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              668199
+            ]
+          },
+          "tcgplayer": {
+            "name": "Shirahoshi (Judge Pack Vol. 7)",
+            "match": "minted",
+            "distance": null
+          },
+          "finishes": [
+            "foil"
+          ],
+          "promoTypes": [
+            {
+              "type": "judgegift",
+              "category": "program"
+            }
+          ]
         }
       ]
     },
@@ -942,7 +2333,22 @@
           "rarity": "SR",
           "block": "3",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP11-031.png",
-          "source": "bandai"
+          "cardSet": "-A FIST OF DIVINE SPEED- [OP-11]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              632393
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Jinbe (031)",
+            "match": "image",
+            "distance": 2
+          },
+          "artist": "Hayaken-sarena"
         },
         {
           "id": "OP11-031_p1",
@@ -950,7 +2356,25 @@
           "rarity": "SR",
           "block": "3",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP11-031_p1.png",
-          "source": "bandai"
+          "cardSet": "-A FIST OF DIVINE SPEED- [OP-11]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              632394
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Jinbe (031) (Alternate Art)",
+            "match": "image",
+            "distance": 3
+          },
+          "treatments": [
+            "alternate_art"
+          ],
+          "artist": "Yosuke Adachi"
         }
       ]
     },
@@ -978,7 +2402,50 @@
           "rarity": "UC",
           "block": "3",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP11-032.png",
-          "source": "bandai"
+          "cardSet": "-A FIST OF DIVINE SPEED- [OP-11]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              632395
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "Surume",
+            "match": "image-only-candidate",
+            "distance": 5
+          },
+          "artist": "HISASHI HUJIWARA"
+        },
+        {
+          "id": "OP11-032~tcg634465",
+          "set": "OP11-RE",
+          "rarity": "UC",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/634465_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              634465
+            ]
+          },
+          "tcgplayer": {
+            "name": "Surume",
+            "match": "minted",
+            "distance": 5
+          },
+          "artOf": "OP11-032",
+          "finishes": [
+            "nonfoil"
+          ],
+          "promoTypes": [
+            {
+              "type": "release",
+              "category": "event"
+            }
+          ],
+          "artist": "HISASHI HUJIWARA"
         }
       ]
     },
@@ -1005,7 +2472,50 @@
           "rarity": "UC",
           "block": "3",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP11-033.png",
-          "source": "bandai"
+          "cardSet": "-A FIST OF DIVINE SPEED- [OP-11]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              632396
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "Bird Neptunian",
+            "match": "image-only-candidate",
+            "distance": 2
+          },
+          "artist": "Nekobayashi"
+        },
+        {
+          "id": "OP11-033~tcg634466",
+          "set": "OP11-RE",
+          "rarity": "UC",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/634466_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              634466
+            ]
+          },
+          "tcgplayer": {
+            "name": "Bird Neptunian",
+            "match": "minted",
+            "distance": 2
+          },
+          "artOf": "OP11-033",
+          "finishes": [
+            "nonfoil"
+          ],
+          "promoTypes": [
+            {
+              "type": "release",
+              "category": "event"
+            }
+          ],
+          "artist": "Nekobayashi"
         }
       ]
     },
@@ -1034,7 +2544,50 @@
           "rarity": "C",
           "block": "3",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP11-034.png",
-          "source": "bandai"
+          "cardSet": "-A FIST OF DIVINE SPEED- [OP-11]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              632397
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "Hatchan",
+            "match": "image-only-candidate",
+            "distance": 4
+          },
+          "artist": "Nekobayashi"
+        },
+        {
+          "id": "OP11-034~tcg634467",
+          "set": "OP11-RE",
+          "rarity": "C",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/634467_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              634467
+            ]
+          },
+          "tcgplayer": {
+            "name": "Hatchan",
+            "match": "minted",
+            "distance": 4
+          },
+          "artOf": "OP11-034",
+          "finishes": [
+            "nonfoil"
+          ],
+          "promoTypes": [
+            {
+              "type": "release",
+              "category": "event"
+            }
+          ],
+          "artist": "Nekobayashi"
         }
       ]
     },
@@ -1063,7 +2616,50 @@
           "rarity": "C",
           "block": "3",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP11-035.png",
-          "source": "bandai"
+          "cardSet": "-A FIST OF DIVINE SPEED- [OP-11]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              632398
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "Fisher Tiger",
+            "match": "image-only-candidate",
+            "distance": 6
+          },
+          "artist": "eiji kaneda"
+        },
+        {
+          "id": "OP11-035~tcg634468",
+          "set": "OP11-RE",
+          "rarity": "C",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/634468_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              634468
+            ]
+          },
+          "tcgplayer": {
+            "name": "Fisher Tiger",
+            "match": "minted",
+            "distance": 6
+          },
+          "artOf": "OP11-035",
+          "finishes": [
+            "nonfoil"
+          ],
+          "promoTypes": [
+            {
+              "type": "release",
+              "category": "event"
+            }
+          ],
+          "artist": "eiji kaneda"
         }
       ]
     },
@@ -1090,7 +2686,50 @@
           "rarity": "UC",
           "block": "3",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP11-036.png",
-          "source": "bandai"
+          "cardSet": "-A FIST OF DIVINE SPEED- [OP-11]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              632399
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "Spotted Neptunian",
+            "match": "image-only-candidate",
+            "distance": 4
+          },
+          "artist": "Misa Matoki"
+        },
+        {
+          "id": "OP11-036~tcg634469",
+          "set": "OP11-RE",
+          "rarity": "UC",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/634469_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              634469
+            ]
+          },
+          "tcgplayer": {
+            "name": "Spotted Neptunian",
+            "match": "minted",
+            "distance": 4
+          },
+          "artOf": "OP11-036",
+          "finishes": [
+            "nonfoil"
+          ],
+          "promoTypes": [
+            {
+              "type": "release",
+              "category": "event"
+            }
+          ],
+          "artist": "Misa Matoki"
         }
       ]
     },
@@ -1112,7 +2751,48 @@
           "rarity": "UC",
           "block": "3",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP11-037.png",
-          "source": "bandai"
+          "cardSet": "-A FIST OF DIVINE SPEED- [OP-11]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              632400
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "Ancient Weapon Poseidon",
+            "match": "image-only-candidate",
+            "distance": 3
+          }
+        },
+        {
+          "id": "OP11-037~tcg634470",
+          "set": "OP11-RE",
+          "rarity": "UC",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/634470_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              634470
+            ]
+          },
+          "tcgplayer": {
+            "name": "Ancient Weapon Poseidon",
+            "match": "minted",
+            "distance": 3
+          },
+          "artOf": "OP11-037",
+          "finishes": [
+            "nonfoil"
+          ],
+          "promoTypes": [
+            {
+              "type": "release",
+              "category": "event"
+            }
+          ]
         }
       ]
     },
@@ -1136,7 +2816,21 @@
           "rarity": "R",
           "block": "3",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP11-038.png",
-          "source": "bandai"
+          "cardSet": "-A FIST OF DIVINE SPEED- [OP-11]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              632401
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Gum-Gum Elephant Gatling",
+            "match": "image-only-candidate",
+            "distance": 1
+          }
         }
       ]
     },
@@ -1160,7 +2854,48 @@
           "rarity": "C",
           "block": "3",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP11-039.png",
-          "source": "bandai"
+          "cardSet": "-A FIST OF DIVINE SPEED- [OP-11]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              632402
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "Vagabond Drill",
+            "match": "image-only-candidate",
+            "distance": 4
+          }
+        },
+        {
+          "id": "OP11-039~tcg634471",
+          "set": "OP11-RE",
+          "rarity": "C",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/634471_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              634471
+            ]
+          },
+          "tcgplayer": {
+            "name": "Vagabond Drill",
+            "match": "minted",
+            "distance": 4
+          },
+          "artOf": "OP11-039",
+          "finishes": [
+            "nonfoil"
+          ],
+          "promoTypes": [
+            {
+              "type": "release",
+              "category": "event"
+            }
+          ]
         }
       ]
     },
@@ -1187,7 +2922,22 @@
           "rarity": "L",
           "block": "3",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP11-040.png",
-          "source": "bandai"
+          "cardSet": "-A FIST OF DIVINE SPEED- [OP-11]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              632403
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "Monkey.D.Luffy (040)",
+            "match": "image",
+            "distance": 2
+          },
+          "artist": "Katsumi Ishizuka"
         },
         {
           "id": "OP11-040_p1",
@@ -1195,7 +2945,48 @@
           "rarity": "L",
           "block": "3",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP11-040_p1.png",
-          "source": "bandai"
+          "cardSet": "-A FIST OF DIVINE SPEED- [OP-11]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              632404
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Monkey.D.Luffy (040) (Alternate Art)",
+            "match": "image",
+            "distance": 3
+          },
+          "treatments": [
+            "alternate_art"
+          ],
+          "artist": "Anderson"
+        },
+        {
+          "id": "OP11-040~tcg722598",
+          "set": "P",
+          "rarity": "L",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/722598_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              722598
+            ]
+          },
+          "tcgplayer": {
+            "name": "Monkey.D.Luffy (Large Scale Extra Grand Battle 2026)",
+            "match": "minted",
+            "distance": null
+          },
+          "promoTypes": [
+            {
+              "type": "event_pack",
+              "category": "event"
+            }
+          ]
         }
       ]
     },
@@ -1222,7 +3013,22 @@
           "rarity": "L",
           "block": "3",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP11-041.png",
-          "source": "bandai"
+          "cardSet": "-A FIST OF DIVINE SPEED- [OP-11]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              632405
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "Nami (041)",
+            "match": "image",
+            "distance": 3
+          },
+          "artist": "Akiko Sugizono"
         },
         {
           "id": "OP11-041_p1",
@@ -1230,7 +3036,25 @@
           "rarity": "L",
           "block": "3",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP11-041_p1.png",
-          "source": "bandai"
+          "cardSet": "-A FIST OF DIVINE SPEED- [OP-11]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              632406
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Nami (041) (Alternate Art)",
+            "match": "image",
+            "distance": 0
+          },
+          "treatments": [
+            "alternate_art"
+          ],
+          "artist": "otton"
         },
         {
           "id": "OP11-041_p2",
@@ -1238,7 +3062,9 @@
           "rarity": "L",
           "block": "3",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP11-041_p2.png",
-          "source": "bandai"
+          "cardSet": "Learn Together Deck Set",
+          "source": "bandai",
+          "artist": "otton"
         },
         {
           "id": "OP11-041_p3",
@@ -1246,7 +3072,42 @@
           "rarity": "L",
           "block": "3",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP11-041_p3.png",
-          "source": "bandai"
+          "cardSet": "Official Playmat & Card Set -Whole Cake Island Arc-",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              675637
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Nami (Whole Cake Island Arc)",
+            "match": "image",
+            "distance": 3
+          },
+          "artist": "otton"
+        },
+        {
+          "id": "OP11-041~tcg656678",
+          "set": "LT01",
+          "rarity": "L",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/656678_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              656678
+            ]
+          },
+          "tcgplayer": {
+            "name": "Nami - OP11-041 (Nami Deck)",
+            "match": "minted",
+            "distance": null
+          },
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
@@ -1273,7 +3134,50 @@
           "rarity": "C",
           "block": "3",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP11-042.png",
-          "source": "bandai"
+          "cardSet": "-A FIST OF DIVINE SPEED- [OP-11]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              632407
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "Vito",
+            "match": "image-only-candidate",
+            "distance": 5
+          },
+          "artist": "S-KINOKO"
+        },
+        {
+          "id": "OP11-042~tcg634472",
+          "set": "OP11-RE",
+          "rarity": "C",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/634472_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              634472
+            ]
+          },
+          "tcgplayer": {
+            "name": "Vito",
+            "match": "minted",
+            "distance": 5
+          },
+          "artOf": "OP11-042",
+          "finishes": [
+            "nonfoil"
+          ],
+          "promoTypes": [
+            {
+              "type": "release",
+              "category": "event"
+            }
+          ],
+          "artist": "S-KINOKO"
         }
       ]
     },
@@ -1300,7 +3204,50 @@
           "rarity": "C",
           "block": "3",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP11-043.png",
-          "source": "bandai"
+          "cardSet": "-A FIST OF DIVINE SPEED- [OP-11]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              632408
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "Vinsmoke Ichiji",
+            "match": "image-only-candidate",
+            "distance": 3
+          },
+          "artist": "UGUME"
+        },
+        {
+          "id": "OP11-043~tcg634473",
+          "set": "OP11-RE",
+          "rarity": "C",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/634473_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              634473
+            ]
+          },
+          "tcgplayer": {
+            "name": "Vinsmoke Ichiji",
+            "match": "minted",
+            "distance": 3
+          },
+          "artOf": "OP11-043",
+          "finishes": [
+            "nonfoil"
+          ],
+          "promoTypes": [
+            {
+              "type": "release",
+              "category": "event"
+            }
+          ],
+          "artist": "UGUME"
         }
       ]
     },
@@ -1327,7 +3274,50 @@
           "rarity": "C",
           "block": "3",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP11-044.png",
-          "source": "bandai"
+          "cardSet": "-A FIST OF DIVINE SPEED- [OP-11]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              632409
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "Vinsmoke Judge",
+            "match": "image-only-candidate",
+            "distance": 5
+          },
+          "artist": "tasaka"
+        },
+        {
+          "id": "OP11-044~tcg634474",
+          "set": "OP11-RE",
+          "rarity": "C",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/634474_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              634474
+            ]
+          },
+          "tcgplayer": {
+            "name": "Vinsmoke Judge",
+            "match": "minted",
+            "distance": 5
+          },
+          "artOf": "OP11-044",
+          "finishes": [
+            "nonfoil"
+          ],
+          "promoTypes": [
+            {
+              "type": "release",
+              "category": "event"
+            }
+          ],
+          "artist": "tasaka"
         }
       ]
     },
@@ -1355,7 +3345,50 @@
           "rarity": "UC",
           "block": "3",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP11-045.png",
-          "source": "bandai"
+          "cardSet": "-A FIST OF DIVINE SPEED- [OP-11]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              632410
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "Vinsmoke Niji",
+            "match": "image-only-candidate",
+            "distance": 0
+          },
+          "artist": "KISUKE"
+        },
+        {
+          "id": "OP11-045~tcg634475",
+          "set": "OP11-RE",
+          "rarity": "UC",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/634475_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              634475
+            ]
+          },
+          "tcgplayer": {
+            "name": "Vinsmoke Niji",
+            "match": "minted",
+            "distance": 0
+          },
+          "artOf": "OP11-045",
+          "finishes": [
+            "nonfoil"
+          ],
+          "promoTypes": [
+            {
+              "type": "release",
+              "category": "event"
+            }
+          ],
+          "artist": "KISUKE"
         }
       ]
     },
@@ -1383,7 +3416,50 @@
           "rarity": "C",
           "block": "3",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP11-046.png",
-          "source": "bandai"
+          "cardSet": "-A FIST OF DIVINE SPEED- [OP-11]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              632411
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "Vinsmoke Yonji",
+            "match": "image-only-candidate",
+            "distance": 0
+          },
+          "artist": "Bashikou"
+        },
+        {
+          "id": "OP11-046~tcg634476",
+          "set": "OP11-RE",
+          "rarity": "C",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/634476_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              634476
+            ]
+          },
+          "tcgplayer": {
+            "name": "Vinsmoke Yonji",
+            "match": "minted",
+            "distance": 0
+          },
+          "artOf": "OP11-046",
+          "finishes": [
+            "nonfoil"
+          ],
+          "promoTypes": [
+            {
+              "type": "release",
+              "category": "event"
+            }
+          ],
+          "artist": "Bashikou"
         }
       ]
     },
@@ -1411,7 +3487,22 @@
           "rarity": "R",
           "block": "3",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP11-047.png",
-          "source": "bandai"
+          "cardSet": "-A FIST OF DIVINE SPEED- [OP-11]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              632412
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Vinsmoke Reiju",
+            "match": "image",
+            "distance": 3
+          },
+          "artist": "Yuji Iwasaki"
         },
         {
           "id": "OP11-047_p1",
@@ -1419,7 +3510,25 @@
           "rarity": "R",
           "block": "3",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP11-047_p1.png",
-          "source": "bandai"
+          "cardSet": "-A FIST OF DIVINE SPEED- [OP-11]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              632413
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Vinsmoke Reiju (Alternate Art)",
+            "match": "image",
+            "distance": 2
+          },
+          "treatments": [
+            "alternate_art"
+          ],
+          "artist": "NIJIMAARC"
         }
       ]
     },
@@ -1447,7 +3556,42 @@
           "rarity": "R",
           "block": "3",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP11-048.png",
-          "source": "bandai"
+          "cardSet": "-A FIST OF DIVINE SPEED- [OP-11]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              632414
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Capone\"Gang\"Bege (048)",
+            "match": "image-only-candidate",
+            "distance": 4
+          },
+          "artist": "ASAKI KURODA"
+        },
+        {
+          "id": "OP11-048~tcg656688",
+          "set": "LT01",
+          "rarity": "R",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/656688_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              656688
+            ]
+          },
+          "tcgplayer": {
+            "name": "Capone\"Gang\"Bege (Nami Deck)",
+            "match": "minted",
+            "distance": null
+          },
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
@@ -1474,7 +3618,22 @@
           "rarity": "R",
           "block": "3",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP11-049.png",
-          "source": "bandai"
+          "cardSet": "-A FIST OF DIVINE SPEED- [OP-11]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              632415
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Carrot",
+            "match": "image-only-candidate",
+            "distance": 2
+          },
+          "artist": "sacanahen"
         }
       ]
     },
@@ -1501,7 +3660,50 @@
           "rarity": "C",
           "block": "3",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP11-050.png",
-          "source": "bandai"
+          "cardSet": "-A FIST OF DIVINE SPEED- [OP-11]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              632416
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "Gotti",
+            "match": "image-only-candidate",
+            "distance": 3
+          },
+          "artist": "Aidle Co. Ltd."
+        },
+        {
+          "id": "OP11-050~tcg634477",
+          "set": "OP11-RE",
+          "rarity": "C",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/634477_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              634477
+            ]
+          },
+          "tcgplayer": {
+            "name": "Gotti",
+            "match": "minted",
+            "distance": 3
+          },
+          "artOf": "OP11-050",
+          "finishes": [
+            "nonfoil"
+          ],
+          "promoTypes": [
+            {
+              "type": "release",
+              "category": "event"
+            }
+          ],
+          "artist": "Aidle Co. Ltd."
         }
       ]
     },
@@ -1528,7 +3730,22 @@
           "rarity": "SR",
           "block": "3",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP11-051.png",
-          "source": "bandai"
+          "cardSet": "-A FIST OF DIVINE SPEED- [OP-11]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              632417
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Sanji",
+            "match": "image",
+            "distance": 1
+          },
+          "artist": "Matsumoto Akira"
         },
         {
           "id": "OP11-051_p1",
@@ -1536,7 +3753,45 @@
           "rarity": "SR",
           "block": "3",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP11-051_p1.png",
-          "source": "bandai"
+          "cardSet": "-A FIST OF DIVINE SPEED- [OP-11]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              632418
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Sanji (Alternate Art)",
+            "match": "image",
+            "distance": 4
+          },
+          "treatments": [
+            "alternate_art"
+          ],
+          "artist": "Minato Sashima"
+        },
+        {
+          "id": "OP11-051~tcg656700",
+          "set": "LT01",
+          "rarity": "SR",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/656700_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              656700
+            ]
+          },
+          "tcgplayer": {
+            "name": "Sanji - OP11-051 (Nami Deck)",
+            "match": "minted",
+            "distance": null
+          },
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
@@ -1564,7 +3819,50 @@
           "rarity": "C",
           "block": "3",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP11-052.png",
-          "source": "bandai"
+          "cardSet": "-A FIST OF DIVINE SPEED- [OP-11]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              632419
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "Charlotte Lola",
+            "match": "image-only-candidate",
+            "distance": 1
+          },
+          "artist": "Hashimoto Q"
+        },
+        {
+          "id": "OP11-052~tcg634478",
+          "set": "OP11-RE",
+          "rarity": "C",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/634478_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              634478
+            ]
+          },
+          "tcgplayer": {
+            "name": "Charlotte Lola",
+            "match": "minted",
+            "distance": 1
+          },
+          "artOf": "OP11-052",
+          "finishes": [
+            "nonfoil"
+          ],
+          "promoTypes": [
+            {
+              "type": "release",
+              "category": "event"
+            }
+          ],
+          "artist": "Hashimoto Q"
         }
       ]
     },
@@ -1592,7 +3890,76 @@
           "rarity": "UC",
           "block": "3",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP11-053.png",
-          "source": "bandai"
+          "cardSet": "-A FIST OF DIVINE SPEED- [OP-11]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              632420
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "Tony Tony.Chopper",
+            "match": "image-only-candidate",
+            "distance": 4
+          },
+          "artist": "Suzume Muraichi"
+        },
+        {
+          "id": "OP11-053~tcg634479",
+          "set": "OP11-RE",
+          "rarity": "UC",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/634479_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              634479
+            ]
+          },
+          "tcgplayer": {
+            "name": "Tony Tony.Chopper",
+            "match": "minted",
+            "distance": 4
+          },
+          "artOf": "OP11-053",
+          "finishes": [
+            "nonfoil"
+          ],
+          "promoTypes": [
+            {
+              "type": "release",
+              "category": "event"
+            }
+          ],
+          "artist": "Suzume Muraichi"
+        },
+        {
+          "id": "OP11-053~tcg668200",
+          "set": "P",
+          "rarity": "UC",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/668200_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              668200
+            ]
+          },
+          "tcgplayer": {
+            "name": "Tony Tony.Chopper (Judge Pack Vol. 7)",
+            "match": "minted",
+            "distance": null
+          },
+          "finishes": [
+            "foil"
+          ],
+          "promoTypes": [
+            {
+              "type": "judgegift",
+              "category": "program"
+            }
+          ]
         }
       ]
     },
@@ -1619,7 +3986,22 @@
           "rarity": "SR",
           "block": "3",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP11-054.png",
-          "source": "bandai"
+          "cardSet": "-A FIST OF DIVINE SPEED- [OP-11]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              632421
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Nami (054)",
+            "match": "image",
+            "distance": 1
+          },
+          "artist": "kicori"
         },
         {
           "id": "OP11-054_p1",
@@ -1627,7 +4009,25 @@
           "rarity": "SR",
           "block": "3",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP11-054_p1.png",
-          "source": "bandai"
+          "cardSet": "-A FIST OF DIVINE SPEED- [OP-11]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              632422
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Nami (054) (Alternate Art)",
+            "match": "image",
+            "distance": 0
+          },
+          "treatments": [
+            "alternate_art"
+          ],
+          "artist": "Hashimoto Q"
         },
         {
           "id": "OP11-054_p2",
@@ -1635,7 +4035,52 @@
           "rarity": "SR",
           "block": "3",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP11-054_p2.png",
-          "source": "bandai"
+          "cardSet": "Japanese 3rd ANNIVERSARY SET",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              680492
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Nami (Japanese Version 3rd Anniversary Set)",
+            "match": "image",
+            "distance": 1
+          },
+          "promoTypes": [
+            {
+              "type": "anniversary",
+              "category": "anniversary"
+            },
+            {
+              "type": "retail_product",
+              "category": "retail"
+            }
+          ],
+          "artist": "Sunohara"
+        },
+        {
+          "id": "OP11-054~tcg656695",
+          "set": "LT01",
+          "rarity": "SR",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/656695_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              656695
+            ]
+          },
+          "tcgplayer": {
+            "name": "Nami - OP11-054",
+            "match": "minted",
+            "distance": null
+          },
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
@@ -1663,7 +4108,50 @@
           "rarity": "UC",
           "block": "3",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP11-055.png",
-          "source": "bandai"
+          "cardSet": "-A FIST OF DIVINE SPEED- [OP-11]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              632423
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "Bartolomeo",
+            "match": "image-only-candidate",
+            "distance": 2
+          },
+          "artist": "Morechand"
+        },
+        {
+          "id": "OP11-055~tcg634480",
+          "set": "OP11-RE",
+          "rarity": "UC",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/634480_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              634480
+            ]
+          },
+          "tcgplayer": {
+            "name": "Bartolomeo",
+            "match": "minted",
+            "distance": 2
+          },
+          "artOf": "OP11-055",
+          "finishes": [
+            "nonfoil"
+          ],
+          "promoTypes": [
+            {
+              "type": "release",
+              "category": "event"
+            }
+          ],
+          "artist": "Morechand"
         }
       ]
     },
@@ -1690,7 +4178,68 @@
           "rarity": "R",
           "block": "3",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP11-056.png",
-          "source": "bandai"
+          "cardSet": "-A FIST OF DIVINE SPEED- [OP-11]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              632424
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Brook",
+            "match": "image-only-candidate",
+            "distance": 3
+          },
+          "artist": "UGUME"
+        },
+        {
+          "id": "OP11-056~tcg656693",
+          "set": "LT01",
+          "rarity": "R",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/656693_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              656693
+            ]
+          },
+          "tcgplayer": {
+            "name": "Brook (Nami Deck)",
+            "match": "minted",
+            "distance": null
+          },
+          "finishes": [
+            "nonfoil"
+          ]
+        },
+        {
+          "id": "OP11-056~tcg707251",
+          "set": "P",
+          "rarity": "R",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/707251_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              707251
+            ]
+          },
+          "tcgplayer": {
+            "name": "Brook (Round 1 Promo)",
+            "match": "minted",
+            "distance": null
+          },
+          "finishes": [
+            "foil"
+          ],
+          "promoTypes": [
+            {
+              "type": "event_pack",
+              "category": "event"
+            }
+          ]
         }
       ]
     },
@@ -1717,7 +4266,50 @@
           "rarity": "C",
           "block": "3",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP11-057.png",
-          "source": "bandai"
+          "cardSet": "-A FIST OF DIVINE SPEED- [OP-11]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              632425
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "Pedro",
+            "match": "image-only-candidate",
+            "distance": 0
+          },
+          "artist": "Moopic"
+        },
+        {
+          "id": "OP11-057~tcg634481",
+          "set": "OP11-RE",
+          "rarity": "C",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/634481_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              634481
+            ]
+          },
+          "tcgplayer": {
+            "name": "Pedro",
+            "match": "minted",
+            "distance": 0
+          },
+          "artOf": "OP11-057",
+          "finishes": [
+            "nonfoil"
+          ],
+          "promoTypes": [
+            {
+              "type": "release",
+              "category": "event"
+            }
+          ],
+          "artist": "Moopic"
         }
       ]
     },
@@ -1744,7 +4336,22 @@
           "rarity": "UC",
           "block": "3",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP11-058.png",
-          "source": "bandai"
+          "cardSet": "-A FIST OF DIVINE SPEED- [OP-11]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              632426
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "Monkey.D.Luffy (058)",
+            "match": "image-only-candidate",
+            "distance": 3
+          },
+          "artist": "Studio Vigor Co. Ltd"
         },
         {
           "id": "OP11-058_p1",
@@ -1752,7 +4359,50 @@
           "rarity": "TR",
           "block": "3",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP11-058_p1.png",
-          "source": "bandai"
+          "cardSet": "-CARRYING ON HIS WILL- [OP-13]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              659982
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Monkey.D.Luffy - OP11-058 (TR)",
+            "match": "image-only-candidate",
+            "distance": 4
+          },
+          "artist": "nukadokomogera"
+        },
+        {
+          "id": "OP11-058~tcg634482",
+          "set": "OP11-RE",
+          "rarity": "UC",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/634482_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              634482
+            ]
+          },
+          "tcgplayer": {
+            "name": "Monkey.D.Luffy (058)",
+            "match": "minted",
+            "distance": 3
+          },
+          "artOf": "OP11-058",
+          "finishes": [
+            "nonfoil"
+          ],
+          "promoTypes": [
+            {
+              "type": "release",
+              "category": "event"
+            }
+          ],
+          "artist": "Studio Vigor Co. Ltd"
         }
       ]
     },
@@ -1774,7 +4424,48 @@
           "rarity": "C",
           "block": "3",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP11-059.png",
-          "source": "bandai"
+          "cardSet": "-A FIST OF DIVINE SPEED- [OP-11]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              632427
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "Gum-Gum King Cobra",
+            "match": "image-only-candidate",
+            "distance": 0
+          }
+        },
+        {
+          "id": "OP11-059~tcg634483",
+          "set": "OP11-RE",
+          "rarity": "C",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/634483_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              634483
+            ]
+          },
+          "tcgplayer": {
+            "name": "Gum-Gum King Cobra",
+            "match": "minted",
+            "distance": 0
+          },
+          "artOf": "OP11-059",
+          "finishes": [
+            "nonfoil"
+          ],
+          "promoTypes": [
+            {
+              "type": "release",
+              "category": "event"
+            }
+          ]
         }
       ]
     },
@@ -1796,7 +4487,21 @@
           "rarity": "R",
           "block": "3",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP11-060.png",
-          "source": "bandai"
+          "cardSet": "-A FIST OF DIVINE SPEED- [OP-11]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              632428
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Let's Crash This Wedding!!!",
+            "match": "image-only-candidate",
+            "distance": 0
+          }
         },
         {
           "id": "OP11-060_p1",
@@ -1804,7 +4509,55 @@
           "rarity": "R",
           "block": "3",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP11-060_p1.png",
-          "source": "bandai"
+          "cardSet": "Premium Card Collection -Best Selection Vol.5-",
+          "source": "bandai",
+          "artist": "Bashikou"
+        },
+        {
+          "id": "OP11-060~tcg656704",
+          "set": "LT01",
+          "rarity": "R",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/656704_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              656704
+            ]
+          },
+          "tcgplayer": {
+            "name": "Let's Crash This Wedding!!! (Nami Deck)",
+            "match": "minted",
+            "distance": null
+          },
+          "finishes": [
+            "nonfoil"
+          ]
+        },
+        {
+          "id": "OP11-060~tcg657830",
+          "set": "P",
+          "rarity": "R",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/657830_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              657830
+            ]
+          },
+          "tcgplayer": {
+            "name": "Let's Crash This Wedding!!! (Premium Card Collection -Best Selection Vol. 5-)",
+            "match": "minted",
+            "distance": null
+          },
+          "finishes": [
+            "foil"
+          ],
+          "promoTypes": [
+            {
+              "type": "retail_product",
+              "category": "retail"
+            }
+          ]
         }
       ]
     },
@@ -1826,7 +4579,74 @@
           "rarity": "UC",
           "block": "3",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP11-061.png",
-          "source": "bandai"
+          "cardSet": "-A FIST OF DIVINE SPEED- [OP-11]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              632429
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "Gum-Gum Jet Culverin",
+            "match": "image-only-candidate",
+            "distance": 3
+          }
+        },
+        {
+          "id": "OP11-061~tcg634484",
+          "set": "OP11-RE",
+          "rarity": "UC",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/634484_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              634484
+            ]
+          },
+          "tcgplayer": {
+            "name": "Gum-Gum Jet Culverin",
+            "match": "minted",
+            "distance": 3
+          },
+          "artOf": "OP11-061",
+          "finishes": [
+            "nonfoil"
+          ],
+          "promoTypes": [
+            {
+              "type": "release",
+              "category": "event"
+            }
+          ]
+        },
+        {
+          "id": "OP11-061~tcg717404",
+          "set": "P",
+          "rarity": "UC",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/717404_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              717404
+            ]
+          },
+          "tcgplayer": {
+            "name": "Gum-Gum Jet Culverin (Judge Pack Vol. 8)",
+            "match": "minted",
+            "distance": null
+          },
+          "finishes": [
+            "foil"
+          ],
+          "promoTypes": [
+            {
+              "type": "judgegift",
+              "category": "program"
+            }
+          ]
         }
       ]
     },
@@ -1852,7 +4672,22 @@
           "rarity": "L",
           "block": "3",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP11-062.png",
-          "source": "bandai"
+          "cardSet": "-A FIST OF DIVINE SPEED- [OP-11]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              632430
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "Charlotte Katakuri (062)",
+            "match": "image",
+            "distance": 4
+          },
+          "artist": "Bahi JD"
         },
         {
           "id": "OP11-062_p1",
@@ -1860,7 +4695,25 @@
           "rarity": "L",
           "block": "3",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP11-062_p1.png",
-          "source": "bandai"
+          "cardSet": "-A FIST OF DIVINE SPEED- [OP-11]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              632431
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Charlotte Katakuri (062) (Alternate Art)",
+            "match": "image",
+            "distance": 2
+          },
+          "treatments": [
+            "alternate_art"
+          ],
+          "artist": "tatsuya"
         },
         {
           "id": "OP11-062_p2",
@@ -1868,7 +4721,22 @@
           "rarity": "L",
           "block": "3",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP11-062_p2.png",
-          "source": "bandai"
+          "cardSet": "STARTER DECK -PURPLE Charlotte Katakuri- [ST-34]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              706338
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Charlotte Katakuri (OP11-062)",
+            "match": "image-only-candidate",
+            "distance": 5
+          },
+          "artist": "Bashikou"
         }
       ]
     },
@@ -1895,7 +4763,50 @@
           "rarity": "C",
           "block": "3",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP11-063.png",
-          "source": "bandai"
+          "cardSet": "-A FIST OF DIVINE SPEED- [OP-11]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              632432
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "Little Sadi",
+            "match": "image-only-candidate",
+            "distance": 4
+          },
+          "artist": "Studio Vigor Co. Ltd"
+        },
+        {
+          "id": "OP11-063~tcg634485",
+          "set": "OP11-RE",
+          "rarity": "C",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/634485_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              634485
+            ]
+          },
+          "tcgplayer": {
+            "name": "Little Sadi",
+            "match": "minted",
+            "distance": 4
+          },
+          "artOf": "OP11-063",
+          "finishes": [
+            "nonfoil"
+          ],
+          "promoTypes": [
+            {
+              "type": "release",
+              "category": "event"
+            }
+          ],
+          "artist": "Studio Vigor Co. Ltd"
         }
       ]
     },
@@ -1922,7 +4833,50 @@
           "rarity": "C",
           "block": "3",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP11-064.png",
-          "source": "bandai"
+          "cardSet": "-A FIST OF DIVINE SPEED- [OP-11]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              632433
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "Saldeath",
+            "match": "image-only-candidate",
+            "distance": 4
+          },
+          "artist": "Suzume Muraichi"
+        },
+        {
+          "id": "OP11-064~tcg634486",
+          "set": "OP11-RE",
+          "rarity": "C",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/634486_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              634486
+            ]
+          },
+          "tcgplayer": {
+            "name": "Saldeath",
+            "match": "minted",
+            "distance": 4
+          },
+          "artOf": "OP11-064",
+          "finishes": [
+            "nonfoil"
+          ],
+          "promoTypes": [
+            {
+              "type": "release",
+              "category": "event"
+            }
+          ],
+          "artist": "Suzume Muraichi"
         }
       ]
     },
@@ -1949,7 +4903,22 @@
           "rarity": "UC",
           "block": "3",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP11-065.png",
-          "source": "bandai"
+          "cardSet": "-A FIST OF DIVINE SPEED- [OP-11]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              632434
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "Charlotte Anana",
+            "match": "image-only-candidate",
+            "distance": 2
+          },
+          "artist": "Haru Miyajima"
         },
         {
           "id": "OP11-065_r1",
@@ -1957,7 +4926,38 @@
           "rarity": "UC",
           "block": "3",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP11-065_r1.png",
-          "source": "bandai"
+          "cardSet": "STARTER DECK -PURPLE Charlotte Katakuri- [ST-34]",
+          "source": "bandai",
+          "artOf": "OP11-065",
+          "artist": "Haru Miyajima"
+        },
+        {
+          "id": "OP11-065~tcg634487",
+          "set": "OP11-RE",
+          "rarity": "UC",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/634487_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              634487
+            ]
+          },
+          "tcgplayer": {
+            "name": "Charlotte Anana",
+            "match": "minted",
+            "distance": 2
+          },
+          "artOf": "OP11-065",
+          "finishes": [
+            "nonfoil"
+          ],
+          "promoTypes": [
+            {
+              "type": "release",
+              "category": "event"
+            }
+          ],
+          "artist": "Haru Miyajima"
         }
       ]
     },
@@ -1984,7 +4984,22 @@
           "rarity": "R",
           "block": "3",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP11-066.png",
-          "source": "bandai"
+          "cardSet": "-A FIST OF DIVINE SPEED- [OP-11]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              632435
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Charlotte Oven",
+            "match": "image-only-candidate",
+            "distance": 0
+          },
+          "artist": "Tanaka Kenichi"
         },
         {
           "id": "OP11-066_r1",
@@ -1992,7 +5007,21 @@
           "rarity": "R",
           "block": "3",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP11-066_r1.png",
-          "source": "bandai"
+          "cardSet": "STARTER DECK -PURPLE Charlotte Katakuri- [ST-34]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              706339
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "Charlotte Oven",
+            "match": "image-only-candidate",
+            "distance": 4
+          }
         }
       ]
     },
@@ -2018,7 +5047,22 @@
           "rarity": "SR",
           "block": "3",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP11-067.png",
-          "source": "bandai"
+          "cardSet": "-A FIST OF DIVINE SPEED- [OP-11]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              632436
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Charlotte Katakuri (067)",
+            "match": "image",
+            "distance": 0
+          },
+          "artist": "otton"
         },
         {
           "id": "OP11-067_p1",
@@ -2026,7 +5070,25 @@
           "rarity": "SR",
           "block": "3",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP11-067_p1.png",
-          "source": "bandai"
+          "cardSet": "-A FIST OF DIVINE SPEED- [OP-11]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              632437
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Charlotte Katakuri (067) (Alternate Art)",
+            "match": "image",
+            "distance": 0
+          },
+          "treatments": [
+            "alternate_art"
+          ],
+          "artist": "lack"
         },
         {
           "id": "OP11-067_p2",
@@ -2034,7 +5096,32 @@
           "rarity": "SR",
           "block": "3",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP11-067_p2.png",
-          "source": "bandai"
+          "cardSet": "Japanese 3rd ANNIVERSARY SET",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              680494
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Charlotte Katakuri (Japanese Version 3rd Anniversary Set)",
+            "match": "image",
+            "distance": 2
+          },
+          "promoTypes": [
+            {
+              "type": "anniversary",
+              "category": "anniversary"
+            },
+            {
+              "type": "retail_product",
+              "category": "retail"
+            }
+          ],
+          "artist": "Matsumoto Akira"
         },
         {
           "id": "OP11-067_p3",
@@ -2042,7 +5129,25 @@
           "rarity": "SP CARD",
           "block": "3",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP11-067_p3.png",
-          "source": "bandai"
+          "cardSet": "-THE TIME OF BATTLE- [OP-16]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              695325
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Charlotte Katakuri (SP)",
+            "match": "image-only-candidate",
+            "distance": 5
+          },
+          "treatments": [
+            "sp"
+          ],
+          "artist": "Katsuo Tadano"
         }
       ]
     },
@@ -2069,7 +5174,22 @@
           "rarity": "UC",
           "block": "3",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP11-068.png",
-          "source": "bandai"
+          "cardSet": "-A FIST OF DIVINE SPEED- [OP-11]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              632438
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "Charlotte Daifuku",
+            "match": "image-only-candidate",
+            "distance": 0
+          },
+          "artist": "S-KINOKO"
         },
         {
           "id": "OP11-068_r1",
@@ -2077,7 +5197,57 @@
           "rarity": "UC",
           "block": "3",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP11-068_r1.png",
-          "source": "bandai"
+          "cardSet": "STARTER DECK -PURPLE Charlotte Katakuri- [ST-34]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              668201
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Charlotte Daifuku (Judge Pack Vol. 7)",
+            "match": "image",
+            "distance": 9
+          },
+          "promoTypes": [
+            {
+              "type": "judgegift",
+              "category": "program"
+            }
+          ],
+          "artOf": "OP11-068",
+          "artist": "S-KINOKO"
+        },
+        {
+          "id": "OP11-068~tcg634488",
+          "set": "OP11-RE",
+          "rarity": "UC",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/634488_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              634488
+            ]
+          },
+          "tcgplayer": {
+            "name": "Charlotte Daifuku",
+            "match": "minted",
+            "distance": 0
+          },
+          "artOf": "OP11-068",
+          "finishes": [
+            "nonfoil"
+          ],
+          "promoTypes": [
+            {
+              "type": "release",
+              "category": "event"
+            }
+          ],
+          "artist": "S-KINOKO"
         }
       ]
     },
@@ -2104,7 +5274,22 @@
           "rarity": "R",
           "block": "3",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP11-069.png",
-          "source": "bandai"
+          "cardSet": "-A FIST OF DIVINE SPEED- [OP-11]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              632439
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Charlotte Brulee",
+            "match": "image-only-candidate",
+            "distance": 1
+          },
+          "artist": "Hatori Kyoka"
         }
       ]
     },
@@ -2130,7 +5315,22 @@
           "rarity": "SR",
           "block": "3",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP11-070.png",
-          "source": "bandai"
+          "cardSet": "-A FIST OF DIVINE SPEED- [OP-11]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              632440
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Charlotte Pudding",
+            "match": "image",
+            "distance": 0
+          },
+          "artist": "Yuji Iwasaki"
         },
         {
           "id": "OP11-070_p1",
@@ -2138,7 +5338,25 @@
           "rarity": "SR",
           "block": "3",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP11-070_p1.png",
-          "source": "bandai"
+          "cardSet": "-A FIST OF DIVINE SPEED- [OP-11]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              632441
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Charlotte Pudding (Alternate Art)",
+            "match": "image",
+            "distance": 1
+          },
+          "treatments": [
+            "alternate_art"
+          ],
+          "artist": "nuisuke"
         }
       ]
     },
@@ -2164,7 +5382,22 @@
           "rarity": "R",
           "block": "3",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP11-071.png",
-          "source": "bandai"
+          "cardSet": "-A FIST OF DIVINE SPEED- [OP-11]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              632442
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Charlotte Perospero",
+            "match": "image-only-candidate",
+            "distance": 4
+          },
+          "artist": "COGA"
         },
         {
           "id": "OP11-071_r1",
@@ -2172,7 +5405,21 @@
           "rarity": "R",
           "block": "3",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP11-071_r1.png",
-          "source": "bandai"
+          "cardSet": "STARTER DECK -PURPLE Charlotte Katakuri- [ST-34]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              706340
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "Charlotte Perospero",
+            "match": "image-only-candidate",
+            "distance": 7
+          }
         }
       ]
     },
@@ -2199,7 +5446,50 @@
           "rarity": "UC",
           "block": "3",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP11-072.png",
-          "source": "bandai"
+          "cardSet": "-A FIST OF DIVINE SPEED- [OP-11]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              632443
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "Charlotte Mont-d'or",
+            "match": "image-only-candidate",
+            "distance": 4
+          },
+          "artist": "KISUKE"
+        },
+        {
+          "id": "OP11-072~tcg634489",
+          "set": "OP11-RE",
+          "rarity": "UC",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/634489_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              634489
+            ]
+          },
+          "tcgplayer": {
+            "name": "Charlotte Mont-d'or",
+            "match": "minted",
+            "distance": 4
+          },
+          "artOf": "OP11-072",
+          "finishes": [
+            "nonfoil"
+          ],
+          "promoTypes": [
+            {
+              "type": "release",
+              "category": "event"
+            }
+          ],
+          "artist": "KISUKE"
         }
       ]
     },
@@ -2226,7 +5516,22 @@
           "rarity": "R",
           "block": "3",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP11-073.png",
-          "source": "bandai"
+          "cardSet": "-A FIST OF DIVINE SPEED- [OP-11]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              632444
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Charlotte Linlin",
+            "match": "image",
+            "distance": 2
+          },
+          "artist": "S-KINOKO"
         },
         {
           "id": "OP11-073_p1",
@@ -2234,7 +5539,51 @@
           "rarity": "R",
           "block": "3",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP11-073_p1.png",
-          "source": "bandai"
+          "cardSet": "-A FIST OF DIVINE SPEED- [OP-11]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              632445
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Charlotte Linlin (Alternate Art)",
+            "match": "image",
+            "distance": 2
+          },
+          "treatments": [
+            "alternate_art"
+          ],
+          "artist": "Hatori Kyoka"
+        },
+        {
+          "id": "OP11-073~tcg649707",
+          "set": "P",
+          "rarity": "R",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/649707_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              649707
+            ]
+          },
+          "tcgplayer": {
+            "name": "Charlotte Linlin (Premium Card Collection -6 assort vol.1-)",
+            "match": "minted",
+            "distance": null
+          },
+          "finishes": [
+            "foil"
+          ],
+          "promoTypes": [
+            {
+              "type": "retail_product",
+              "category": "retail"
+            }
+          ]
         }
       ]
     },
@@ -2261,7 +5610,106 @@
           "rarity": "C",
           "block": "3",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP11-074.png",
-          "source": "bandai"
+          "cardSet": "-A FIST OF DIVINE SPEED- [OP-11]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              632446
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "Streusen",
+            "match": "image-only-candidate",
+            "distance": 4
+          },
+          "artist": "COGA"
+        },
+        {
+          "id": "OP11-074~tcg634490",
+          "set": "OP11-RE",
+          "rarity": "C",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/634490_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              634490
+            ]
+          },
+          "tcgplayer": {
+            "name": "Streusen",
+            "match": "minted",
+            "distance": 4
+          },
+          "artOf": "OP11-074",
+          "finishes": [
+            "nonfoil"
+          ],
+          "promoTypes": [
+            {
+              "type": "release",
+              "category": "event"
+            }
+          ],
+          "artist": "COGA"
+        },
+        {
+          "id": "OP11-074~tcg712844",
+          "set": "P",
+          "rarity": "C",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/712844_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              712844
+            ]
+          },
+          "tcgplayer": {
+            "name": "Streusen (Beginners Deck Party [ST-31] - [ST-36])",
+            "match": "minted",
+            "distance": null
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "promoTypes": [
+            {
+              "type": "event_pack",
+              "category": "event"
+            }
+          ]
+        },
+        {
+          "id": "OP11-074~tcg712845",
+          "set": "P",
+          "rarity": "C",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/712845_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              712845
+            ]
+          },
+          "tcgplayer": {
+            "name": "Streusen (Beginners Deck Party [ST-31] - [ST-36]) (Winner)",
+            "match": "minted",
+            "distance": null
+          },
+          "finishes": [
+            "foil"
+          ],
+          "promoTypes": [
+            {
+              "type": "event_pack",
+              "category": "event"
+            },
+            {
+              "type": "placement",
+              "category": "placement"
+            }
+          ]
         }
       ]
     },
@@ -2289,7 +5737,50 @@
           "rarity": "C",
           "block": "3",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP11-075.png",
-          "source": "bandai"
+          "cardSet": "-A FIST OF DIVINE SPEED- [OP-11]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              632447
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "Jaguar.D.Saul",
+            "match": "image-only-candidate",
+            "distance": 3
+          },
+          "artist": "SHINRA AGENCY Co. Ltd."
+        },
+        {
+          "id": "OP11-075~tcg634491",
+          "set": "OP11-RE",
+          "rarity": "C",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/634491_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              634491
+            ]
+          },
+          "tcgplayer": {
+            "name": "Jaguar.D.Saul",
+            "match": "minted",
+            "distance": 3
+          },
+          "artOf": "OP11-075",
+          "finishes": [
+            "nonfoil"
+          ],
+          "promoTypes": [
+            {
+              "type": "release",
+              "category": "event"
+            }
+          ],
+          "artist": "SHINRA AGENCY Co. Ltd."
         }
       ]
     },
@@ -2316,7 +5807,50 @@
           "rarity": "C",
           "block": "3",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP11-076.png",
-          "source": "bandai"
+          "cardSet": "-A FIST OF DIVINE SPEED- [OP-11]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              632448
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "Hannyabal",
+            "match": "image-only-candidate",
+            "distance": 2
+          },
+          "artist": "Tanaka Kenichi"
+        },
+        {
+          "id": "OP11-076~tcg634492",
+          "set": "OP11-RE",
+          "rarity": "C",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/634492_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              634492
+            ]
+          },
+          "tcgplayer": {
+            "name": "Hannyabal",
+            "match": "minted",
+            "distance": 2
+          },
+          "artOf": "OP11-076",
+          "finishes": [
+            "nonfoil"
+          ],
+          "promoTypes": [
+            {
+              "type": "release",
+              "category": "event"
+            }
+          ],
+          "artist": "Tanaka Kenichi"
         }
       ]
     },
@@ -2344,7 +5878,50 @@
           "rarity": "C",
           "block": "3",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP11-077.png",
-          "source": "bandai"
+          "cardSet": "-A FIST OF DIVINE SPEED- [OP-11]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              632449
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "Randolph",
+            "match": "image-only-candidate",
+            "distance": 2
+          },
+          "artist": "Suzume Muraichi"
+        },
+        {
+          "id": "OP11-077~tcg634493",
+          "set": "OP11-RE",
+          "rarity": "C",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/634493_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              634493
+            ]
+          },
+          "tcgplayer": {
+            "name": "Randolph",
+            "match": "minted",
+            "distance": 2
+          },
+          "artOf": "OP11-077",
+          "finishes": [
+            "nonfoil"
+          ],
+          "promoTypes": [
+            {
+              "type": "release",
+              "category": "event"
+            }
+          ],
+          "artist": "Suzume Muraichi"
         }
       ]
     },
@@ -2371,7 +5948,50 @@
           "rarity": "UC",
           "block": "3",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP11-078.png",
-          "source": "bandai"
+          "cardSet": "-A FIST OF DIVINE SPEED- [OP-11]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              632450
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "Decuplets",
+            "match": "image-only-candidate",
+            "distance": 2
+          },
+          "artist": "Aidle Co. Ltd."
+        },
+        {
+          "id": "OP11-078~tcg634494",
+          "set": "OP11-RE",
+          "rarity": "UC",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/634494_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              634494
+            ]
+          },
+          "tcgplayer": {
+            "name": "Decuplets",
+            "match": "minted",
+            "distance": 2
+          },
+          "artOf": "OP11-078",
+          "finishes": [
+            "nonfoil"
+          ],
+          "promoTypes": [
+            {
+              "type": "release",
+              "category": "event"
+            }
+          ],
+          "artist": "Aidle Co. Ltd."
         }
       ]
     },
@@ -2393,7 +6013,21 @@
           "rarity": "UC",
           "block": "3",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP11-079.png",
-          "source": "bandai"
+          "cardSet": "-A FIST OF DIVINE SPEED- [OP-11]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              632451
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "When Two Men Are Fighting the Last Thing I Need Is Some Half-Hearted Assistance!!!!",
+            "match": "image-only-candidate",
+            "distance": 1
+          }
         },
         {
           "id": "OP11-079_r1",
@@ -2401,7 +6035,36 @@
           "rarity": "UC",
           "block": "3",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP11-079_r1.png",
-          "source": "bandai"
+          "cardSet": "STARTER DECK -PURPLE Charlotte Katakuri- [ST-34]",
+          "source": "bandai",
+          "artOf": "OP11-079"
+        },
+        {
+          "id": "OP11-079~tcg634495",
+          "set": "OP11-RE",
+          "rarity": "UC",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/634495_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              634495
+            ]
+          },
+          "tcgplayer": {
+            "name": "When Two Men Are Fighting the Last Thing I Need Is Some Half-Hearted Assistance!!!!",
+            "match": "minted",
+            "distance": 1
+          },
+          "artOf": "OP11-079",
+          "finishes": [
+            "nonfoil"
+          ],
+          "promoTypes": [
+            {
+              "type": "release",
+              "category": "event"
+            }
+          ]
         }
       ]
     },
@@ -2423,7 +6086,21 @@
           "rarity": "R",
           "block": "3",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP11-080.png",
-          "source": "bandai"
+          "cardSet": "-A FIST OF DIVINE SPEED- [OP-11]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              632452
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Gear Two",
+            "match": "image",
+            "distance": 2
+          }
         },
         {
           "id": "OP11-080_p1",
@@ -2431,7 +6108,24 @@
           "rarity": "R",
           "block": "3",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP11-080_p1.png",
-          "source": "bandai"
+          "cardSet": "-A FIST OF DIVINE SPEED- [OP-11]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              632453
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Gear Two (Alternate Art)",
+            "match": "image",
+            "distance": 6
+          },
+          "treatments": [
+            "alternate_art"
+          ]
         }
       ]
     },
@@ -2454,7 +6148,21 @@
           "rarity": "C",
           "block": "3",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP11-081.png",
-          "source": "bandai"
+          "cardSet": "-A FIST OF DIVINE SPEED- [OP-11]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              632454
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "Cognac Mama-Mash",
+            "match": "image-only-candidate",
+            "distance": 4
+          }
         },
         {
           "id": "OP11-081_r1",
@@ -2462,7 +6170,36 @@
           "rarity": "C",
           "block": "3",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP11-081_r1.png",
-          "source": "bandai"
+          "cardSet": "STARTER DECK -PURPLE Charlotte Katakuri- [ST-34]",
+          "source": "bandai",
+          "artOf": "OP11-081"
+        },
+        {
+          "id": "OP11-081~tcg634496",
+          "set": "OP11-RE",
+          "rarity": "C",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/634496_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              634496
+            ]
+          },
+          "tcgplayer": {
+            "name": "Cognac Mama-Mash",
+            "match": "minted",
+            "distance": 4
+          },
+          "artOf": "OP11-081",
+          "finishes": [
+            "nonfoil"
+          ],
+          "promoTypes": [
+            {
+              "type": "release",
+              "category": "event"
+            }
+          ]
         }
       ]
     },
@@ -2489,7 +6226,22 @@
           "rarity": "R",
           "block": "3",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP11-082.png",
-          "source": "bandai"
+          "cardSet": "-A FIST OF DIVINE SPEED- [OP-11]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              632455
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Aramaki",
+            "match": "image-only-candidate",
+            "distance": 1
+          },
+          "artist": "akagi"
         }
       ]
     },
@@ -2516,7 +6268,48 @@
           "rarity": "R",
           "block": "3",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP11-083.png",
-          "source": "bandai"
+          "cardSet": "-A FIST OF DIVINE SPEED- [OP-11]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              632456
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Caribou",
+            "match": "image-only-candidate",
+            "distance": 0
+          },
+          "artist": "ASAKI KURODA"
+        },
+        {
+          "id": "OP11-083~tcg711489",
+          "set": "P",
+          "rarity": "R",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/711489_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              711489
+            ]
+          },
+          "tcgplayer": {
+            "name": "Caribou (Judge Pack Vol. 8)",
+            "match": "minted",
+            "distance": null
+          },
+          "finishes": [
+            "foil"
+          ],
+          "promoTypes": [
+            {
+              "type": "judgegift",
+              "category": "program"
+            }
+          ]
         }
       ]
     },
@@ -2543,7 +6336,22 @@
           "rarity": "R",
           "block": "3",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP11-084.png",
-          "source": "bandai"
+          "cardSet": "-A FIST OF DIVINE SPEED- [OP-11]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              632457
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Kuzan",
+            "match": "image",
+            "distance": 1
+          },
+          "artist": "Akanegumo"
         },
         {
           "id": "OP11-084_p1",
@@ -2551,7 +6359,25 @@
           "rarity": "R",
           "block": "3",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP11-084_p1.png",
-          "source": "bandai"
+          "cardSet": "-A FIST OF DIVINE SPEED- [OP-11]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              632458
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Kuzan (Alternate Art)",
+            "match": "image",
+            "distance": 3
+          },
+          "treatments": [
+            "alternate_art"
+          ],
+          "artist": "Matsumoto Akira"
         }
       ]
     },
@@ -2579,7 +6405,50 @@
           "rarity": "C",
           "block": "3",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP11-085.png",
-          "source": "bandai"
+          "cardSet": "-A FIST OF DIVINE SPEED- [OP-11]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              632459
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "Kurozumi Orochi",
+            "match": "image-only-candidate",
+            "distance": 2
+          },
+          "artist": "nukadokomogera"
+        },
+        {
+          "id": "OP11-085~tcg634497",
+          "set": "OP11-RE",
+          "rarity": "C",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/634497_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              634497
+            ]
+          },
+          "tcgplayer": {
+            "name": "Kurozumi Orochi",
+            "match": "minted",
+            "distance": 2
+          },
+          "artOf": "OP11-085",
+          "finishes": [
+            "nonfoil"
+          ],
+          "promoTypes": [
+            {
+              "type": "release",
+              "category": "event"
+            }
+          ],
+          "artist": "nukadokomogera"
         }
       ]
     },
@@ -2606,7 +6475,50 @@
           "rarity": "C",
           "block": "3",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP11-086.png",
-          "source": "bandai"
+          "cardSet": "-A FIST OF DIVINE SPEED- [OP-11]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              632460
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "Coribou",
+            "match": "image-only-candidate",
+            "distance": 1
+          },
+          "artist": "tasaka"
+        },
+        {
+          "id": "OP11-086~tcg634498",
+          "set": "OP11-RE",
+          "rarity": "C",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/634498_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              634498
+            ]
+          },
+          "tcgplayer": {
+            "name": "Coribou",
+            "match": "minted",
+            "distance": 1
+          },
+          "artOf": "OP11-086",
+          "finishes": [
+            "nonfoil"
+          ],
+          "promoTypes": [
+            {
+              "type": "release",
+              "category": "event"
+            }
+          ],
+          "artist": "tasaka"
         }
       ]
     },
@@ -2634,7 +6546,50 @@
           "rarity": "UC",
           "block": "3",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP11-087.png",
-          "source": "bandai"
+          "cardSet": "-A FIST OF DIVINE SPEED- [OP-11]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              632461
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "Miss Sarahebi",
+            "match": "image-only-candidate",
+            "distance": 4
+          },
+          "artist": "Haru Miyajima"
+        },
+        {
+          "id": "OP11-087~tcg634499",
+          "set": "OP11-RE",
+          "rarity": "UC",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/634499_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              634499
+            ]
+          },
+          "tcgplayer": {
+            "name": "Miss Sarahebi",
+            "match": "minted",
+            "distance": 4
+          },
+          "artOf": "OP11-087",
+          "finishes": [
+            "nonfoil"
+          ],
+          "promoTypes": [
+            {
+              "type": "release",
+              "category": "event"
+            }
+          ],
+          "artist": "Haru Miyajima"
         }
       ]
     },
@@ -2661,7 +6616,50 @@
           "rarity": "C",
           "block": "3",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP11-088.png",
-          "source": "bandai"
+          "cardSet": "-A FIST OF DIVINE SPEED- [OP-11]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              632462
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "Shu",
+            "match": "image-only-candidate",
+            "distance": 1
+          },
+          "artist": "tasaka"
+        },
+        {
+          "id": "OP11-088~tcg634500",
+          "set": "OP11-RE",
+          "rarity": "C",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/634500_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              634500
+            ]
+          },
+          "tcgplayer": {
+            "name": "Shu",
+            "match": "minted",
+            "distance": 1
+          },
+          "artOf": "OP11-088",
+          "finishes": [
+            "nonfoil"
+          ],
+          "promoTypes": [
+            {
+              "type": "release",
+              "category": "event"
+            }
+          ],
+          "artist": "tasaka"
         }
       ]
     },
@@ -2688,7 +6686,76 @@
           "rarity": "C",
           "block": "3",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP11-089.png",
-          "source": "bandai"
+          "cardSet": "-A FIST OF DIVINE SPEED- [OP-11]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              632463
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "Black Maria",
+            "match": "image-only-candidate",
+            "distance": 1
+          },
+          "artist": "phima"
+        },
+        {
+          "id": "OP11-089~tcg634501",
+          "set": "OP11-RE",
+          "rarity": "C",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/634501_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              634501
+            ]
+          },
+          "tcgplayer": {
+            "name": "Black Maria",
+            "match": "minted",
+            "distance": 1
+          },
+          "artOf": "OP11-089",
+          "finishes": [
+            "nonfoil"
+          ],
+          "promoTypes": [
+            {
+              "type": "release",
+              "category": "event"
+            }
+          ],
+          "artist": "phima"
+        },
+        {
+          "id": "OP11-089~tcg668202",
+          "set": "P",
+          "rarity": "C",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/668202_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              668202
+            ]
+          },
+          "tcgplayer": {
+            "name": "Black Maria (Judge Pack Vol. 7)",
+            "match": "minted",
+            "distance": null
+          },
+          "finishes": [
+            "foil"
+          ],
+          "promoTypes": [
+            {
+              "type": "judgegift",
+              "category": "program"
+            }
+          ]
         }
       ]
     },
@@ -2716,7 +6783,50 @@
           "rarity": "C",
           "block": "3",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP11-090.png",
-          "source": "bandai"
+          "cardSet": "-A FIST OF DIVINE SPEED- [OP-11]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              632464
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "Briscola",
+            "match": "image-only-candidate",
+            "distance": 3
+          },
+          "artist": "Yoichi Amano"
+        },
+        {
+          "id": "OP11-090~tcg634502",
+          "set": "OP11-RE",
+          "rarity": "C",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/634502_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              634502
+            ]
+          },
+          "tcgplayer": {
+            "name": "Briscola",
+            "match": "minted",
+            "distance": 3
+          },
+          "artOf": "OP11-090",
+          "finishes": [
+            "nonfoil"
+          ],
+          "promoTypes": [
+            {
+              "type": "release",
+              "category": "event"
+            }
+          ],
+          "artist": "Yoichi Amano"
         }
       ]
     },
@@ -2743,7 +6853,50 @@
           "rarity": "UC",
           "block": "3",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP11-091.png",
-          "source": "bandai"
+          "cardSet": "-A FIST OF DIVINE SPEED- [OP-11]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              632465
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "Berry Good",
+            "match": "image-only-candidate",
+            "distance": 2
+          },
+          "artist": "SHINRA AGENCY Co. Ltd."
+        },
+        {
+          "id": "OP11-091~tcg634503",
+          "set": "OP11-RE",
+          "rarity": "UC",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/634503_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              634503
+            ]
+          },
+          "tcgplayer": {
+            "name": "Berry Good",
+            "match": "minted",
+            "distance": 2
+          },
+          "artOf": "OP11-091",
+          "finishes": [
+            "nonfoil"
+          ],
+          "promoTypes": [
+            {
+              "type": "release",
+              "category": "event"
+            }
+          ],
+          "artist": "SHINRA AGENCY Co. Ltd."
         }
       ]
     },
@@ -2770,7 +6923,22 @@
           "rarity": "SR",
           "block": "3",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP11-092.png",
-          "source": "bandai"
+          "cardSet": "-A FIST OF DIVINE SPEED- [OP-11]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              632466
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Helmeppo",
+            "match": "image",
+            "distance": 5
+          },
+          "artist": "Yoichi Amano"
         },
         {
           "id": "OP11-092_p1",
@@ -2778,7 +6946,25 @@
           "rarity": "SR",
           "block": "3",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP11-092_p1.png",
-          "source": "bandai"
+          "cardSet": "-A FIST OF DIVINE SPEED- [OP-11]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              632467
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Helmeppo (Alternate Art)",
+            "match": "image",
+            "distance": 2
+          },
+          "treatments": [
+            "alternate_art"
+          ],
+          "artist": "SENNSU"
         }
       ]
     },
@@ -2805,7 +6991,50 @@
           "rarity": "UC",
           "block": "3",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP11-093.png",
-          "source": "bandai"
+          "cardSet": "-A FIST OF DIVINE SPEED- [OP-11]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              632468
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "Bogard",
+            "match": "image-only-candidate",
+            "distance": 2
+          },
+          "artist": "SHINRA AGENCY Co. Ltd."
+        },
+        {
+          "id": "OP11-093~tcg634504",
+          "set": "OP11-RE",
+          "rarity": "UC",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/634504_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              634504
+            ]
+          },
+          "tcgplayer": {
+            "name": "Bogard",
+            "match": "minted",
+            "distance": 2
+          },
+          "artOf": "OP11-093",
+          "finishes": [
+            "nonfoil"
+          ],
+          "promoTypes": [
+            {
+              "type": "release",
+              "category": "event"
+            }
+          ],
+          "artist": "SHINRA AGENCY Co. Ltd."
         }
       ]
     },
@@ -2832,7 +7061,50 @@
           "rarity": "C",
           "block": "3",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP11-094.png",
-          "source": "bandai"
+          "cardSet": "-A FIST OF DIVINE SPEED- [OP-11]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              632469
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "Morgan",
+            "match": "image-only-candidate",
+            "distance": 1
+          },
+          "artist": "Yoichi Amano"
+        },
+        {
+          "id": "OP11-094~tcg634505",
+          "set": "OP11-RE",
+          "rarity": "C",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/634505_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              634505
+            ]
+          },
+          "tcgplayer": {
+            "name": "Morgan",
+            "match": "minted",
+            "distance": 1
+          },
+          "artOf": "OP11-094",
+          "finishes": [
+            "nonfoil"
+          ],
+          "promoTypes": [
+            {
+              "type": "release",
+              "category": "event"
+            }
+          ],
+          "artist": "Yoichi Amano"
         }
       ]
     },
@@ -2858,7 +7130,22 @@
           "rarity": "SR",
           "block": "3",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP11-095.png",
-          "source": "bandai"
+          "cardSet": "-A FIST OF DIVINE SPEED- [OP-11]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              632470
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Monkey.D.Garp",
+            "match": "image",
+            "distance": 0
+          },
+          "artist": "Katsuo Tadano"
         },
         {
           "id": "OP11-095_p1",
@@ -2866,7 +7153,25 @@
           "rarity": "SR",
           "block": "3",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP11-095_p1.png",
-          "source": "bandai"
+          "cardSet": "-A FIST OF DIVINE SPEED- [OP-11]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              632471
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Monkey.D.Garp (Alternate Art)",
+            "match": "image",
+            "distance": 0
+          },
+          "treatments": [
+            "alternate_art"
+          ],
+          "artist": "AKIRA EGAWA"
         }
       ]
     },
@@ -2894,7 +7199,50 @@
           "rarity": "UC",
           "block": "3",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP11-096.png",
-          "source": "bandai"
+          "cardSet": "-A FIST OF DIVINE SPEED- [OP-11]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              632472
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "Ripper",
+            "match": "image-only-candidate",
+            "distance": 5
+          },
+          "artist": "SHINRA AGENCY Co. Ltd."
+        },
+        {
+          "id": "OP11-096~tcg634506",
+          "set": "OP11-RE",
+          "rarity": "UC",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/634506_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              634506
+            ]
+          },
+          "tcgplayer": {
+            "name": "Ripper",
+            "match": "minted",
+            "distance": 5
+          },
+          "artOf": "OP11-096",
+          "finishes": [
+            "nonfoil"
+          ],
+          "promoTypes": [
+            {
+              "type": "release",
+              "category": "event"
+            }
+          ],
+          "artist": "SHINRA AGENCY Co. Ltd."
         }
       ]
     },
@@ -2916,7 +7264,48 @@
           "rarity": "UC",
           "block": "3",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP11-097.png",
-          "source": "bandai"
+          "cardSet": "-A FIST OF DIVINE SPEED- [OP-11]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              632473
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "After All These Years I'm Losing My Edge!!!",
+            "match": "image-only-candidate",
+            "distance": 4
+          }
+        },
+        {
+          "id": "OP11-097~tcg634507",
+          "set": "OP11-RE",
+          "rarity": "UC",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/634507_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              634507
+            ]
+          },
+          "tcgplayer": {
+            "name": "After All These Years I'm Losing My Edge!!!",
+            "match": "minted",
+            "distance": 4
+          },
+          "artOf": "OP11-097",
+          "finishes": [
+            "nonfoil"
+          ],
+          "promoTypes": [
+            {
+              "type": "release",
+              "category": "event"
+            }
+          ]
         }
       ]
     },
@@ -2938,7 +7327,48 @@
           "rarity": "C",
           "block": "3",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP11-098.png",
-          "source": "bandai"
+          "cardSet": "-A FIST OF DIVINE SPEED- [OP-11]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              632474
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "Blue Hole",
+            "match": "image-only-candidate",
+            "distance": 2
+          }
+        },
+        {
+          "id": "OP11-098~tcg634508",
+          "set": "OP11-RE",
+          "rarity": "C",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/634508_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              634508
+            ]
+          },
+          "tcgplayer": {
+            "name": "Blue Hole",
+            "match": "minted",
+            "distance": 2
+          },
+          "artOf": "OP11-098",
+          "finishes": [
+            "nonfoil"
+          ],
+          "promoTypes": [
+            {
+              "type": "release",
+              "category": "event"
+            }
+          ]
         }
       ]
     },
@@ -2961,7 +7391,21 @@
           "rarity": "R",
           "block": "3",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP11-099.png",
-          "source": "bandai"
+          "cardSet": "-A FIST OF DIVINE SPEED- [OP-11]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              632475
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "I'm Gonna Be a Navy Officer!!!",
+            "match": "image-only-candidate",
+            "distance": 2
+          }
         }
       ]
     },
@@ -2988,7 +7432,50 @@
           "rarity": "C",
           "block": "3",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP11-100.png",
-          "source": "bandai"
+          "cardSet": "-A FIST OF DIVINE SPEED- [OP-11]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              632476
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "Otohime",
+            "match": "image-only-candidate",
+            "distance": 4
+          },
+          "artist": "BISAI"
+        },
+        {
+          "id": "OP11-100~tcg634509",
+          "set": "OP11-RE",
+          "rarity": "C",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/634509_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              634509
+            ]
+          },
+          "tcgplayer": {
+            "name": "Otohime",
+            "match": "minted",
+            "distance": 4
+          },
+          "artOf": "OP11-100",
+          "finishes": [
+            "nonfoil"
+          ],
+          "promoTypes": [
+            {
+              "type": "release",
+              "category": "event"
+            }
+          ],
+          "artist": "BISAI"
         }
       ]
     },
@@ -3016,7 +7503,22 @@
           "rarity": "SR",
           "block": "3",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP11-101.png",
-          "source": "bandai"
+          "cardSet": "-A FIST OF DIVINE SPEED- [OP-11]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              632477
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Capone\"Gang\"Bege (101)",
+            "match": "image",
+            "distance": 1
+          },
+          "artist": "DAI-XT."
         },
         {
           "id": "OP11-101_p1",
@@ -3024,7 +7526,25 @@
           "rarity": "SR",
           "block": "3",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP11-101_p1.png",
-          "source": "bandai"
+          "cardSet": "-A FIST OF DIVINE SPEED- [OP-11]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              632478
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Capone\"Gang\"Bege (101) (Alternate Art)",
+            "match": "image",
+            "distance": 4
+          },
+          "treatments": [
+            "alternate_art"
+          ],
+          "artist": "Hokuyuu"
         }
       ]
     },
@@ -3052,7 +7572,50 @@
           "rarity": "UC",
           "block": "3",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP11-102.png",
-          "source": "bandai"
+          "cardSet": "-A FIST OF DIVINE SPEED- [OP-11]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              632479
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "Camie",
+            "match": "image-only-candidate",
+            "distance": 4
+          },
+          "artist": "Hokuyuu"
+        },
+        {
+          "id": "OP11-102~tcg634510",
+          "set": "OP11-RE",
+          "rarity": "UC",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/634510_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              634510
+            ]
+          },
+          "tcgplayer": {
+            "name": "Camie",
+            "match": "minted",
+            "distance": 4
+          },
+          "artOf": "OP11-102",
+          "finishes": [
+            "nonfoil"
+          ],
+          "promoTypes": [
+            {
+              "type": "release",
+              "category": "event"
+            }
+          ],
+          "artist": "Hokuyuu"
         }
       ]
     },
@@ -3078,7 +7641,50 @@
           "rarity": "C",
           "block": "3",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP11-103.png",
-          "source": "bandai"
+          "cardSet": "-A FIST OF DIVINE SPEED- [OP-11]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              632480
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "Long-Jaw Neptunian",
+            "match": "image-only-candidate",
+            "distance": 3
+          },
+          "artist": "touge369"
+        },
+        {
+          "id": "OP11-103~tcg634511",
+          "set": "OP11-RE",
+          "rarity": "C",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/634511_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              634511
+            ]
+          },
+          "tcgplayer": {
+            "name": "Long-Jaw Neptunian",
+            "match": "minted",
+            "distance": 3
+          },
+          "artOf": "OP11-103",
+          "finishes": [
+            "nonfoil"
+          ],
+          "promoTypes": [
+            {
+              "type": "release",
+              "category": "event"
+            }
+          ],
+          "artist": "touge369"
         }
       ]
     },
@@ -3106,7 +7712,22 @@
           "rarity": "R",
           "block": "3",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP11-104.png",
-          "source": "bandai"
+          "cardSet": "-A FIST OF DIVINE SPEED- [OP-11]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              632481
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Shirley",
+            "match": "image-only-candidate",
+            "distance": 1
+          },
+          "artist": "Koushi Rokushiro"
         }
       ]
     },
@@ -3134,7 +7755,50 @@
           "rarity": "UC",
           "block": "3",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP11-105.png",
-          "source": "bandai"
+          "cardSet": "-A FIST OF DIVINE SPEED- [OP-11]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              632482
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "Charlotte Chiffon",
+            "match": "image-only-candidate",
+            "distance": 4
+          },
+          "artist": "Aidle Co. Ltd."
+        },
+        {
+          "id": "OP11-105~tcg634512",
+          "set": "OP11-RE",
+          "rarity": "UC",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/634512_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              634512
+            ]
+          },
+          "tcgplayer": {
+            "name": "Charlotte Chiffon",
+            "match": "minted",
+            "distance": 4
+          },
+          "artOf": "OP11-105",
+          "finishes": [
+            "nonfoil"
+          ],
+          "promoTypes": [
+            {
+              "type": "release",
+              "category": "event"
+            }
+          ],
+          "artist": "Aidle Co. Ltd."
         }
       ]
     },
@@ -3162,7 +7826,22 @@
           "rarity": "R",
           "block": "3",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP11-106.png",
-          "source": "bandai"
+          "cardSet": "-A FIST OF DIVINE SPEED- [OP-11]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              632483
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Zeus",
+            "match": "image",
+            "distance": 2
+          },
+          "artist": "Misa Matoki"
         },
         {
           "id": "OP11-106_p1",
@@ -3170,7 +7849,25 @@
           "rarity": "R",
           "block": "3",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP11-106_p1.png",
-          "source": "bandai"
+          "cardSet": "-A FIST OF DIVINE SPEED- [OP-11]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              632484
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Zeus (Alternate Art)",
+            "match": "image",
+            "distance": 4
+          },
+          "treatments": [
+            "alternate_art"
+          ],
+          "artist": "Kazuno Yuikawa"
         },
         {
           "id": "OP11-106_p2",
@@ -3178,7 +7875,55 @@
           "rarity": "SP CARD",
           "block": "3",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP11-106_p2.png",
-          "source": "bandai"
+          "cardSet": "-ADVENTURE ON KAMI'S ISLAND- [OP15-EB04]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              685009
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Zeus (SP)",
+            "match": "image-only-candidate",
+            "distance": 5
+          },
+          "treatments": [
+            "sp"
+          ],
+          "artist": "kusunoki harui"
+        },
+        {
+          "id": "OP11-106~tcg641163",
+          "set": "P",
+          "rarity": "R",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/641163_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              641163
+            ]
+          },
+          "tcgplayer": {
+            "name": "Zeus (Official Playmat -Bandai Card Games Fest 24-25 Edition-)",
+            "match": "minted",
+            "distance": null
+          },
+          "finishes": [
+            "foil"
+          ],
+          "promoTypes": [
+            {
+              "type": "convention",
+              "category": "event"
+            },
+            {
+              "type": "retail_product",
+              "category": "retail"
+            }
+          ]
         }
       ]
     },
@@ -3205,7 +7950,50 @@
           "rarity": "C",
           "block": "3",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP11-107.png",
-          "source": "bandai"
+          "cardSet": "-A FIST OF DIVINE SPEED- [OP-11]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              632485
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "Topknot Neptunian",
+            "match": "image-only-candidate",
+            "distance": 4
+          },
+          "artist": "touge369"
+        },
+        {
+          "id": "OP11-107~tcg634513",
+          "set": "OP11-RE",
+          "rarity": "C",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/634513_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              634513
+            ]
+          },
+          "tcgplayer": {
+            "name": "Topknot Neptunian",
+            "match": "minted",
+            "distance": 4
+          },
+          "artOf": "OP11-107",
+          "finishes": [
+            "nonfoil"
+          ],
+          "promoTypes": [
+            {
+              "type": "release",
+              "category": "event"
+            }
+          ],
+          "artist": "touge369"
         }
       ]
     },
@@ -3232,7 +8020,22 @@
           "rarity": "R",
           "block": "3",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP11-108.png",
-          "source": "bandai"
+          "cardSet": "-A FIST OF DIVINE SPEED- [OP-11]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              632486
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Neptune",
+            "match": "image-only-candidate",
+            "distance": 2
+          },
+          "artist": "Hayaken-sarena"
         }
       ]
     },
@@ -3259,7 +8062,50 @@
           "rarity": "C",
           "block": "3",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP11-109.png",
-          "source": "bandai"
+          "cardSet": "-A FIST OF DIVINE SPEED- [OP-11]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              632487
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "Pappag",
+            "match": "image-only-candidate",
+            "distance": 2
+          },
+          "artist": "Yuu Shimotsuki"
+        },
+        {
+          "id": "OP11-109~tcg634514",
+          "set": "OP11-RE",
+          "rarity": "C",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/634514_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              634514
+            ]
+          },
+          "tcgplayer": {
+            "name": "Pappag",
+            "match": "minted",
+            "distance": 2
+          },
+          "artOf": "OP11-109",
+          "finishes": [
+            "nonfoil"
+          ],
+          "promoTypes": [
+            {
+              "type": "release",
+              "category": "event"
+            }
+          ],
+          "artist": "Yuu Shimotsuki"
         }
       ]
     },
@@ -3286,7 +8132,50 @@
           "rarity": "C",
           "block": "3",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP11-110.png",
-          "source": "bandai"
+          "cardSet": "-A FIST OF DIVINE SPEED- [OP-11]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              632488
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "Fukaboshi",
+            "match": "image-only-candidate",
+            "distance": 0
+          },
+          "artist": "Morechand"
+        },
+        {
+          "id": "OP11-110~tcg634515",
+          "set": "OP11-RE",
+          "rarity": "C",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/634515_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              634515
+            ]
+          },
+          "tcgplayer": {
+            "name": "Fukaboshi",
+            "match": "minted",
+            "distance": 0
+          },
+          "artOf": "OP11-110",
+          "finishes": [
+            "nonfoil"
+          ],
+          "promoTypes": [
+            {
+              "type": "release",
+              "category": "event"
+            }
+          ],
+          "artist": "Morechand"
         }
       ]
     },
@@ -3314,7 +8203,50 @@
           "rarity": "UC",
           "block": "3",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP11-111.png",
-          "source": "bandai"
+          "cardSet": "-A FIST OF DIVINE SPEED- [OP-11]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              632489
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "Mamboshi",
+            "match": "image-only-candidate",
+            "distance": 0
+          },
+          "artist": "kankurou"
+        },
+        {
+          "id": "OP11-111~tcg634516",
+          "set": "OP11-RE",
+          "rarity": "UC",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/634516_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              634516
+            ]
+          },
+          "tcgplayer": {
+            "name": "Mamboshi",
+            "match": "minted",
+            "distance": 0
+          },
+          "artOf": "OP11-111",
+          "finishes": [
+            "nonfoil"
+          ],
+          "promoTypes": [
+            {
+              "type": "release",
+              "category": "event"
+            }
+          ],
+          "artist": "kankurou"
         }
       ]
     },
@@ -3342,7 +8274,76 @@
           "rarity": "UC",
           "block": "3",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP11-112.png",
-          "source": "bandai"
+          "cardSet": "-A FIST OF DIVINE SPEED- [OP-11]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              632490
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "Megalo",
+            "match": "image-only-candidate",
+            "distance": 2
+          },
+          "artist": "HISASHI HUJIWARA"
+        },
+        {
+          "id": "OP11-112~tcg634517",
+          "set": "OP11-RE",
+          "rarity": "UC",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/634517_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              634517
+            ]
+          },
+          "tcgplayer": {
+            "name": "Megalo",
+            "match": "minted",
+            "distance": 2
+          },
+          "artOf": "OP11-112",
+          "finishes": [
+            "nonfoil"
+          ],
+          "promoTypes": [
+            {
+              "type": "release",
+              "category": "event"
+            }
+          ],
+          "artist": "HISASHI HUJIWARA"
+        },
+        {
+          "id": "OP11-112~tcg668203",
+          "set": "P",
+          "rarity": "UC",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/668203_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              668203
+            ]
+          },
+          "tcgplayer": {
+            "name": "Megalo (Judge Pack Vol. 7)",
+            "match": "minted",
+            "distance": null
+          },
+          "finishes": [
+            "foil"
+          ],
+          "promoTypes": [
+            {
+              "type": "judgegift",
+              "category": "program"
+            }
+          ]
         }
       ]
     },
@@ -3370,7 +8371,50 @@
           "rarity": "C",
           "block": "3",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP11-113.png",
-          "source": "bandai"
+          "cardSet": "-A FIST OF DIVINE SPEED- [OP-11]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              632491
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "Ryuboshi",
+            "match": "image-only-candidate",
+            "distance": 3
+          },
+          "artist": "kankurou"
+        },
+        {
+          "id": "OP11-113~tcg634519",
+          "set": "OP11-RE",
+          "rarity": "C",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/634519_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              634519
+            ]
+          },
+          "tcgplayer": {
+            "name": "Ryuboshi",
+            "match": "minted",
+            "distance": 3
+          },
+          "artOf": "OP11-113",
+          "finishes": [
+            "nonfoil"
+          ],
+          "promoTypes": [
+            {
+              "type": "release",
+              "category": "event"
+            }
+          ],
+          "artist": "kankurou"
         }
       ]
     },
@@ -3392,7 +8436,21 @@
           "rarity": "R",
           "block": "3",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP11-114.png",
-          "source": "bandai"
+          "cardSet": "-A FIST OF DIVINE SPEED- [OP-11]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              632492
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Gum-Gum Fire-Fist Pistol Red Hawk",
+            "match": "image",
+            "distance": 2
+          }
         },
         {
           "id": "OP11-114_p1",
@@ -3400,7 +8458,44 @@
           "rarity": "R",
           "block": "3",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP11-114_p1.png",
-          "source": "bandai"
+          "cardSet": "-A FIST OF DIVINE SPEED- [OP-11]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              632493
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Gum-Gum Fire-Fist Pistol Red Hawk (Alternate Art)",
+            "match": "image",
+            "distance": 8
+          },
+          "treatments": [
+            "alternate_art"
+          ]
+        },
+        {
+          "id": "OP11-114~tcg656702",
+          "set": "LT01",
+          "rarity": "R",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/656702_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              656702
+            ]
+          },
+          "tcgplayer": {
+            "name": "Gum-Gum Fire-Fist Pistol Red Hawk (Nami Deck)",
+            "match": "minted",
+            "distance": null
+          },
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
@@ -3423,7 +8518,48 @@
           "rarity": "UC",
           "block": "3",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP11-115.png",
-          "source": "bandai"
+          "cardSet": "-A FIST OF DIVINE SPEED- [OP-11]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              632494
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "You're Just Not My Type!",
+            "match": "image-only-candidate",
+            "distance": 6
+          }
+        },
+        {
+          "id": "OP11-115~tcg634520",
+          "set": "OP11-RE",
+          "rarity": "UC",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/634520_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              634520
+            ]
+          },
+          "tcgplayer": {
+            "name": "You're Just Not My Type!",
+            "match": "minted",
+            "distance": 6
+          },
+          "artOf": "OP11-115",
+          "finishes": [
+            "nonfoil"
+          ],
+          "promoTypes": [
+            {
+              "type": "release",
+              "category": "event"
+            }
+          ]
         }
       ]
     },
@@ -3446,7 +8582,48 @@
           "rarity": "C",
           "block": "3",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP11-116.png",
-          "source": "bandai"
+          "cardSet": "-A FIST OF DIVINE SPEED- [OP-11]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              632495
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "Merman Combat Ultramarine",
+            "match": "image-only-candidate",
+            "distance": 4
+          }
+        },
+        {
+          "id": "OP11-116~tcg634521",
+          "set": "OP11-RE",
+          "rarity": "C",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/634521_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              634521
+            ]
+          },
+          "tcgplayer": {
+            "name": "Merman Combat Ultramarine",
+            "match": "minted",
+            "distance": 4
+          },
+          "artOf": "OP11-116",
+          "finishes": [
+            "nonfoil"
+          ],
+          "promoTypes": [
+            {
+              "type": "release",
+              "category": "event"
+            }
+          ]
         }
       ]
     },
@@ -3468,7 +8645,48 @@
           "rarity": "C",
           "block": "3",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP11-117.png",
-          "source": "bandai"
+          "cardSet": "-A FIST OF DIVINE SPEED- [OP-11]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              632496
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "Fish-Man Island",
+            "match": "image-only-candidate",
+            "distance": 4
+          }
+        },
+        {
+          "id": "OP11-117~tcg634522",
+          "set": "OP11-RE",
+          "rarity": "C",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/634522_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              634522
+            ]
+          },
+          "tcgplayer": {
+            "name": "Fish-Man Island",
+            "match": "minted",
+            "distance": 4
+          },
+          "artOf": "OP11-117",
+          "finishes": [
+            "nonfoil"
+          ],
+          "promoTypes": [
+            {
+              "type": "release",
+              "category": "event"
+            }
+          ]
         }
       ]
     },
@@ -3494,7 +8712,22 @@
           "rarity": "SEC",
           "block": "3",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP11-118.png",
-          "source": "bandai"
+          "cardSet": "-A FIST OF DIVINE SPEED- [OP-11]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              632497
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Monkey.D.Luffy (118)",
+            "match": "image",
+            "distance": 0
+          },
+          "artist": "otton"
         },
         {
           "id": "OP11-118_p1",
@@ -3502,7 +8735,25 @@
           "rarity": "SEC",
           "block": "3",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP11-118_p1.png",
-          "source": "bandai"
+          "cardSet": "-A FIST OF DIVINE SPEED- [OP-11]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              632498
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Monkey.D.Luffy (118) (Alternate Art)",
+            "match": "image",
+            "distance": 1
+          },
+          "treatments": [
+            "alternate_art"
+          ],
+          "artist": "tatsuya"
         },
         {
           "id": "OP11-118_p2",
@@ -3510,7 +8761,44 @@
           "rarity": "SEC",
           "block": "3",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP11-118_p2.png",
-          "source": "bandai"
+          "cardSet": "-A FIST OF DIVINE SPEED- [OP-11]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              632499
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Monkey.D.Luffy (118) (Manga)",
+            "match": "image",
+            "distance": 4
+          },
+          "treatments": [
+            "manga"
+          ]
+        },
+        {
+          "id": "OP11-118~tcg656701",
+          "set": "LT01",
+          "rarity": "SEC",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/656701_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              656701
+            ]
+          },
+          "tcgplayer": {
+            "name": "Monkey.D.Luffy - OP11-118 (Nami Deck)",
+            "match": "minted",
+            "distance": null
+          },
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
@@ -3537,7 +8825,22 @@
           "rarity": "SEC",
           "block": "3",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP11-119.png",
-          "source": "bandai"
+          "cardSet": "-A FIST OF DIVINE SPEED- [OP-11]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              632500
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Koby (119)",
+            "match": "image",
+            "distance": 1
+          },
+          "artist": "Bashikou"
         },
         {
           "id": "OP11-119_p1",
@@ -3545,7 +8848,25 @@
           "rarity": "SEC",
           "block": "3",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP11-119_p1.png",
-          "source": "bandai"
+          "cardSet": "-A FIST OF DIVINE SPEED- [OP-11]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              632501
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Koby (119) (Alternate Art)",
+            "match": "image",
+            "distance": 2
+          },
+          "treatments": [
+            "alternate_art"
+          ],
+          "artist": "TAPIOCA"
         },
         {
           "id": "OP11-119_p2",
@@ -3553,7 +8874,28 @@
           "rarity": "SEC",
           "block": "3",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP11-119_p2.png",
-          "source": "bandai"
+          "cardSet": "Treasure Cup August 2025~",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              646747
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Koby (Treasure Cup August 2025)",
+            "match": "image",
+            "distance": 2
+          },
+          "promoTypes": [
+            {
+              "type": "treasure_cup",
+              "category": "championship"
+            }
+          ],
+          "artist": "Minato Sashima"
         }
       ]
     }

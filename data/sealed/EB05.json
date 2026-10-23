@@ -1,0 +1,90 @@
+{
+  "products": [
+    {
+      "id": "extra-booster-one-piece-heroines-edition-vol-2-booster-box",
+      "set": "EB05",
+      "category": "booster_box",
+      "name": "Extra Booster: One Piece Heroines Edition Vol.2 - Booster Box",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          711385
+        ]
+      },
+      "contentsStatus": "unknown",
+      "contents": {},
+      "sources": [
+        "https://www.tcgplayer.com/product/711385"
+      ],
+      "releaseDate": "2026-10-30"
+    },
+    {
+      "id": "extra-booster-one-piece-heroines-edition-vol-2-booster-box-case",
+      "set": "EB05",
+      "category": "case",
+      "name": "Extra Booster: One Piece Heroines Edition Vol.2 - Booster Box Case",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          711386
+        ]
+      },
+      "contentsStatus": "partial",
+      "contents": {
+        "sealed": [
+          {
+            "product": "extra-booster-one-piece-heroines-edition-vol-2-booster-box"
+          }
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/711386"
+      ],
+      "releaseDate": "2026-10-30"
+    },
+    {
+      "id": "extra-booster-one-piece-heroines-edition-vol-2-booster-pack",
+      "set": "EB05",
+      "category": "booster_pack",
+      "name": "Extra Booster: One Piece Heroines Edition Vol.2 - Booster Pack",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          711383
+        ]
+      },
+      "contentsStatus": "partial",
+      "contents": {
+        "pool": [
+          {
+            "set": "EB05"
+          }
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/711383"
+      ],
+      "releaseDate": "2026-10-30"
+    },
+    {
+      "id": "extra-booster-one-piece-heroines-edition-vol-2-sleeved-booster-pack",
+      "set": "EB05",
+      "category": "sleeved_booster_pack",
+      "name": "Extra Booster: One Piece Heroines Edition Vol.2 - Sleeved Booster Pack",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          711384
+        ]
+      },
+      "contentsStatus": "partial",
+      "contents": {
+        "pool": [
+          {
+            "set": "EB05"
+          }
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/711384"
+      ],
+      "releaseDate": "2026-10-30"
+    }
+  ]
+}

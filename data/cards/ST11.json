@@ -22,7 +22,21 @@
           "rarity": "L",
           "block": "2",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST11-001.png",
-          "source": "bandai"
+          "cardSet": "-Uta-[ST-11]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              533879
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Uta (001)",
+            "match": "image-only-candidate",
+            "distance": 0
+          }
         },
         {
           "id": "ST11-001_p1",
@@ -30,7 +44,22 @@
           "rarity": "L",
           "block": "2",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST11-001_p1.png",
-          "source": "bandai"
+          "cardSet": "-Green Uta- [ST-16]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              580997
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Uta (ST11-001)",
+            "match": "image-only-candidate",
+            "distance": 3
+          },
+          "artist": "BISAI"
         }
       ]
     },
@@ -58,7 +87,22 @@
           "rarity": "SR",
           "block": "2",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST11-002.png",
-          "source": "bandai"
+          "cardSet": "-Uta-[ST-11]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              533880
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Uta (002)",
+            "match": "image-only-candidate",
+            "distance": 2
+          },
+          "artist": "Sunohara"
         }
       ]
     },
@@ -81,7 +125,21 @@
           "rarity": "C",
           "block": "2",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST11-003.png",
-          "source": "bandai"
+          "cardSet": "-Uta-[ST-11]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              533881
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "Backlight",
+            "match": "image-only-candidate",
+            "distance": 4
+          }
         },
         {
           "id": "ST11-003_p1",
@@ -89,7 +147,28 @@
           "rarity": "C",
           "block": "2",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST11-003_p1.png",
-          "source": "bandai"
+          "cardSet": "ST-11 Uta Deck Battle Participation Pack",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              532110
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "Backlight (Starter Deck 11: Uta Deck Battle)",
+            "match": "image",
+            "distance": 1
+          },
+          "promoTypes": [
+            {
+              "type": "event_pack",
+              "category": "event"
+            }
+          ],
+          "artist": "sohin"
         },
         {
           "id": "ST11-003_p2",
@@ -97,7 +176,47 @@
           "rarity": "C",
           "block": "2",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST11-003_p2.png",
-          "source": "bandai"
+          "cardSet": "-Green Uta- [ST-16]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              580998
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "Backlight",
+            "match": "image-only-candidate",
+            "distance": 1
+          }
+        },
+        {
+          "id": "ST11-003~tcg619204",
+          "set": "P",
+          "rarity": "C",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/619204_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              619204
+            ]
+          },
+          "tcgplayer": {
+            "name": "Backlight (Judge Pack Vol. 5)",
+            "match": "minted",
+            "distance": null
+          },
+          "finishes": [
+            "foil"
+          ],
+          "promoTypes": [
+            {
+              "type": "judgegift",
+              "category": "program"
+            }
+          ]
         }
       ]
     },
@@ -120,7 +239,21 @@
           "rarity": "SR",
           "block": "2",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST11-004.png",
-          "source": "bandai"
+          "cardSet": "-Uta-[ST-11]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              533882
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "New Genesis",
+            "match": "image-only-candidate",
+            "distance": 1
+          }
         },
         {
           "id": "ST11-004_p1",
@@ -128,7 +261,28 @@
           "rarity": "SR",
           "block": "2",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST11-004_p1.png",
-          "source": "bandai"
+          "cardSet": "ST-11 Uta Deck Battle Participation Pack",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              532108
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "New Genesis (Starter Deck 11: Uta Deck Battle)",
+            "match": "image",
+            "distance": 3
+          },
+          "promoTypes": [
+            {
+              "type": "event_pack",
+              "category": "event"
+            }
+          ],
+          "artist": "hmng"
         },
         {
           "id": "ST11-004_p2",
@@ -136,7 +290,21 @@
           "rarity": "SR",
           "block": "2",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST11-004_p2.png",
-          "source": "bandai"
+          "cardSet": "-Green Uta- [ST-16]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              580999
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "New Genesis",
+            "match": "image-only-candidate",
+            "distance": 2
+          }
         }
       ]
     },
@@ -159,7 +327,21 @@
           "rarity": "C",
           "block": "2",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST11-005.png",
-          "source": "bandai"
+          "cardSet": "-Uta-[ST-11]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              533883
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "I'm invincible",
+            "match": "image-only-candidate",
+            "distance": 2
+          }
         },
         {
           "id": "ST11-005_p1",
@@ -167,7 +349,28 @@
           "rarity": "C",
           "block": "2",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST11-005_p1.png",
-          "source": "bandai"
+          "cardSet": "ST-11 Uta Deck Battle Participation Pack",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              532109
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "I'm invincible (Starter Deck 11: Uta Deck Battle)",
+            "match": "image",
+            "distance": 0
+          },
+          "promoTypes": [
+            {
+              "type": "event_pack",
+              "category": "event"
+            }
+          ],
+          "artist": "Ai Nina"
         },
         {
           "id": "ST11-005_p2",
@@ -175,7 +378,21 @@
           "rarity": "C",
           "block": "2",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST11-005_p2.png",
-          "source": "bandai"
+          "cardSet": "-Green Uta- [ST-16]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              581000
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "I'm invincible",
+            "match": "image-only-candidate",
+            "distance": 1
+          }
         }
       ]
     }

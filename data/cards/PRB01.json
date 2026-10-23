@@ -22,7 +22,22 @@
           "rarity": "L",
           "block": "3",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/PRB01-001.png",
-          "source": "bandai"
+          "cardSet": "-ONE PIECE CARD THE BEST- [PRB-01]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              586607
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "Sanji (PRB01-001)",
+            "match": "image",
+            "distance": 4
+          },
+          "artist": "Studio Vigor Co. Ltd"
         },
         {
           "id": "PRB01-001_p1",
@@ -30,7 +45,24 @@
           "rarity": "L",
           "block": "3",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/PRB01-001_p1.png",
-          "source": "bandai"
+          "cardSet": "-ONE PIECE CARD THE BEST- [PRB-01]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              586608
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Sanji (PRB01-001) (Alternate Art)",
+            "match": "image",
+            "distance": 4
+          },
+          "treatments": [
+            "alternate_art"
+          ]
         }
       ]
     }

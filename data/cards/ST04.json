@@ -23,7 +23,94 @@
           "rarity": "L",
           "block": "1",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST04-001.png",
-          "source": "bandai"
+          "cardSet": "-Animal Kingdom Pirates-[ST-04]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              288269
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Kaido (001)",
+            "match": "image-only-candidate",
+            "distance": 22
+          }
+        },
+        {
+          "id": "ST04-001~tcg422935",
+          "set": "ST04-PRE",
+          "rarity": "L",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/422935_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              422935
+            ]
+          },
+          "tcgplayer": {
+            "name": "Kaido (001)",
+            "match": "minted",
+            "distance": null
+          },
+          "finishes": [
+            "foil"
+          ],
+          "promoTypes": [
+            {
+              "type": "prerelease",
+              "category": "event"
+            }
+          ]
+        },
+        {
+          "id": "ST04-001~tcg567115",
+          "set": "P",
+          "rarity": "L",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/567115_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              567115
+            ]
+          },
+          "tcgplayer": {
+            "name": "Kaido (Premium Card Collection -Leader Collection-)",
+            "match": "minted",
+            "distance": null
+          },
+          "finishes": [
+            "foil"
+          ],
+          "promoTypes": [
+            {
+              "type": "retail_product",
+              "category": "retail"
+            }
+          ]
+        },
+        {
+          "id": "ST04-001~tcg599819",
+          "set": "OP-RP",
+          "rarity": "L",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/599819_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              599819
+            ]
+          },
+          "tcgplayer": {
+            "name": "Kaido (001)",
+            "match": "minted",
+            "distance": null
+          },
+          "finishes": [
+            "foil",
+            "nonfoil"
+          ]
         }
       ]
     },
@@ -50,7 +137,21 @@
           "rarity": "C",
           "block": "1",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST04-002.png",
-          "source": "bandai"
+          "cardSet": "-Animal Kingdom Pirates-[ST-04]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              599817
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "Ulti",
+            "match": "image",
+            "distance": 4
+          }
         },
         {
           "id": "ST04-002_p1",
@@ -58,7 +159,55 @@
           "rarity": "C",
           "block": "1",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST04-002_p1.png",
-          "source": "bandai"
+          "cardSet": "Premium Card Collection -Best Selection Vol.3-",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              627239
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Ulti (Premium Card Collection -Best Selection Vol. 3-)",
+            "match": "image",
+            "distance": 24
+          },
+          "promoTypes": [
+            {
+              "type": "retail_product",
+              "category": "retail"
+            }
+          ],
+          "artist": "otton"
+        },
+        {
+          "id": "ST04-002~tcg423105",
+          "set": "ST04-PRE",
+          "rarity": "C",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/423105_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              423105
+            ]
+          },
+          "tcgplayer": {
+            "name": "Ulti",
+            "match": "minted",
+            "distance": 4
+          },
+          "artOf": "ST04-002",
+          "finishes": [
+            "nonfoil"
+          ],
+          "promoTypes": [
+            {
+              "type": "prerelease",
+              "category": "event"
+            }
+          ]
         }
       ]
     },
@@ -85,6 +234,7 @@
           "rarity": "SR",
           "block": "1",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST04-003.png",
+          "cardSet": "-Animal Kingdom Pirates-[ST-04]",
           "source": "bandai"
         },
         {
@@ -93,7 +243,24 @@
           "rarity": "SP CARD",
           "block": "1",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST04-003_p1.png",
-          "source": "bandai"
+          "cardSet": "-PILLARS OF STRENGTH- [OP03]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              501680
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Kaido (Wanted Poster)",
+            "match": "image-only-candidate",
+            "distance": 3
+          },
+          "treatments": [
+            "wanted_poster"
+          ]
         },
         {
           "id": "ST04-003_p2",
@@ -101,7 +268,27 @@
           "rarity": "SR",
           "block": "1",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST04-003_p2.png",
-          "source": "bandai"
+          "cardSet": "Tournament Pack Vol.5",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              519823
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "Kaido (Tournament Pack Vol. 5)",
+            "match": "image",
+            "distance": 0
+          },
+          "promoTypes": [
+            {
+              "type": "event_pack",
+              "category": "event"
+            }
+          ]
         },
         {
           "id": "ST04-003_p4",
@@ -109,7 +296,25 @@
           "rarity": "SR",
           "block": "1",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST04-003_p4.png",
-          "source": "bandai"
+          "cardSet": "-ONE PIECE CARD THE BEST- [PRB-01]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              586961
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Kaido (ST04-003) (Alternate Art)",
+            "match": "image",
+            "distance": 0
+          },
+          "treatments": [
+            "alternate_art"
+          ],
+          "artist": "tatsuya"
         },
         {
           "id": "ST04-003_r1",
@@ -117,7 +322,143 @@
           "rarity": "SR",
           "block": "1",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST04-003_r1.png",
-          "source": "bandai"
+          "cardSet": "-ONE PIECE CARD THE BEST- [PRB-01]",
+          "source": "bandai",
+          "artOf": "ST04-003"
+        },
+        {
+          "id": "ST04-003~tcg423447",
+          "set": "ST04-PRE",
+          "rarity": "SR",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/423447_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              423447
+            ]
+          },
+          "tcgplayer": {
+            "name": "Kaido (003)",
+            "match": "minted",
+            "distance": 6
+          },
+          "artOf": "ST04-003",
+          "finishes": [
+            "foil"
+          ],
+          "promoTypes": [
+            {
+              "type": "prerelease",
+              "category": "event"
+            }
+          ]
+        },
+        {
+          "id": "ST04-003~tcg519824",
+          "set": "P",
+          "rarity": "SR",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/519824_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              519824
+            ]
+          },
+          "tcgplayer": {
+            "name": "Kaido (Winner Pack Vol. 5)",
+            "match": "minted",
+            "distance": null
+          },
+          "finishes": [
+            "foil"
+          ],
+          "promoTypes": [
+            {
+              "type": "placement",
+              "category": "placement"
+            }
+          ]
+        },
+        {
+          "id": "ST04-003~tcg525702",
+          "set": "P",
+          "rarity": "SR",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/525702_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              525702
+            ]
+          },
+          "tcgplayer": {
+            "name": "Kaido (CS 2023 Trophy Card) [3rd Place]",
+            "match": "minted",
+            "distance": null
+          }
+        },
+        {
+          "id": "ST04-003~tcg525703",
+          "set": "P",
+          "rarity": "SR",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/525703_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              525703
+            ]
+          },
+          "tcgplayer": {
+            "name": "Kaido (CS 2023 Trophy Card) [2nd Place]",
+            "match": "minted",
+            "distance": null
+          }
+        },
+        {
+          "id": "ST04-003~tcg525704",
+          "set": "P",
+          "rarity": "SR",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/525704_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              525704
+            ]
+          },
+          "tcgplayer": {
+            "name": "Kaido (CS 2023 Trophy Card) [Winner]",
+            "match": "minted",
+            "distance": null
+          }
+        },
+        {
+          "id": "ST04-003~tcg580053",
+          "set": "P",
+          "rarity": "SR",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/580053_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              580053
+            ]
+          },
+          "tcgplayer": {
+            "name": "Kaido (CS 2024 Celebration Pack)",
+            "match": "minted",
+            "distance": null
+          },
+          "finishes": [
+            "foil"
+          ],
+          "promoTypes": [
+            {
+              "type": "championship",
+              "category": "championship"
+            },
+            {
+              "type": "event_pack",
+              "category": "event"
+            }
+          ]
         }
       ]
     },
@@ -143,7 +484,49 @@
           "rarity": "SR",
           "block": "1",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST04-004.png",
-          "source": "bandai"
+          "cardSet": "-Animal Kingdom Pirates-[ST-04]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              599809
+            ]
+          },
+          "finishes": [
+            "foil",
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "King",
+            "match": "image",
+            "distance": 4
+          }
+        },
+        {
+          "id": "ST04-004~tcg423659",
+          "set": "ST04-PRE",
+          "rarity": "SR",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/423659_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              423659
+            ]
+          },
+          "tcgplayer": {
+            "name": "King",
+            "match": "minted",
+            "distance": 7
+          },
+          "artOf": "ST04-004",
+          "finishes": [
+            "foil"
+          ],
+          "promoTypes": [
+            {
+              "type": "prerelease",
+              "category": "event"
+            }
+          ]
         }
       ]
     },
@@ -170,7 +553,21 @@
           "rarity": "C",
           "block": "1",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST04-005.png",
-          "source": "bandai"
+          "cardSet": "-Animal Kingdom Pirates-[ST-04]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              288278
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "Queen",
+            "match": "image-only-candidate",
+            "distance": 2
+          }
         },
         {
           "id": "ST04-005_p1",
@@ -178,7 +575,25 @@
           "rarity": "SP CARD",
           "block": "1",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST04-005_p1.png",
-          "source": "bandai"
+          "cardSet": "-TWO LEGENDS- [OP-08]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              558167
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Queen (SP)",
+            "match": "image-only-candidate",
+            "distance": 5
+          },
+          "treatments": [
+            "sp"
+          ],
+          "artist": "Studio Vigor Co. Ltd"
         },
         {
           "id": "ST04-005_p3",
@@ -186,7 +601,28 @@
           "rarity": "C",
           "block": "1",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST04-005_p3.png",
-          "source": "bandai"
+          "cardSet": "-ONE PIECE CARD THE BEST- [PRB-01]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              593587
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Queen (Jolly Roger Foil)",
+            "match": "image+name",
+            "distance": 2
+          },
+          "promoTypes": [
+            {
+              "type": "jolly_roger_foil",
+              "category": "foil-pattern"
+            }
+          ],
+          "artOf": "ST04-005"
         },
         {
           "id": "ST04-005_p4",
@@ -194,7 +630,24 @@
           "rarity": "C",
           "block": "1",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST04-005_p4.png",
-          "source": "bandai"
+          "cardSet": "-ONE PIECE CARD THE BEST- [PRB-01]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              593588
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Queen (Full Art)",
+            "match": "image",
+            "distance": 0
+          },
+          "treatments": [
+            "full_art"
+          ]
         },
         {
           "id": "ST04-005_r1",
@@ -202,7 +655,81 @@
           "rarity": "C",
           "block": "1",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST04-005_r1.png",
-          "source": "bandai"
+          "cardSet": "-ONE PIECE CARD THE BEST- [PRB-01]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              514066
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Queen (Judge Pack Vol. 2)",
+            "match": "image",
+            "distance": 7
+          },
+          "promoTypes": [
+            {
+              "type": "judgegift",
+              "category": "program"
+            }
+          ],
+          "artOf": "ST04-005"
+        },
+        {
+          "id": "ST04-005~tcg423955",
+          "set": "ST04-PRE",
+          "rarity": "C",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/423955_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              423955
+            ]
+          },
+          "tcgplayer": {
+            "name": "Queen",
+            "match": "minted",
+            "distance": 3
+          },
+          "artOf": "ST04-005",
+          "finishes": [
+            "nonfoil"
+          ],
+          "promoTypes": [
+            {
+              "type": "prerelease",
+              "category": "event"
+            }
+          ]
+        },
+        {
+          "id": "ST04-005~tcg515354",
+          "set": "P",
+          "rarity": "C",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/515354_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              515354
+            ]
+          },
+          "tcgplayer": {
+            "name": "Queen (Treasure Cup)",
+            "match": "minted",
+            "distance": null
+          },
+          "finishes": [
+            "foil"
+          ],
+          "promoTypes": [
+            {
+              "type": "treasure_cup",
+              "category": "championship"
+            }
+          ]
         }
       ]
     },
@@ -229,7 +756,48 @@
           "rarity": "C",
           "block": "1",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST04-006.png",
-          "source": "bandai"
+          "cardSet": "-Animal Kingdom Pirates-[ST-04]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              288281
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "Sasaki",
+            "match": "image-only-candidate",
+            "distance": 0
+          }
+        },
+        {
+          "id": "ST04-006~tcg424177",
+          "set": "ST04-PRE",
+          "rarity": "C",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/424177_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              424177
+            ]
+          },
+          "tcgplayer": {
+            "name": "Sasaki",
+            "match": "minted",
+            "distance": 2
+          },
+          "artOf": "ST04-006",
+          "finishes": [
+            "nonfoil"
+          ],
+          "promoTypes": [
+            {
+              "type": "prerelease",
+              "category": "event"
+            }
+          ]
         }
       ]
     },
@@ -257,7 +825,48 @@
           "rarity": "C",
           "block": "1",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST04-007.png",
-          "source": "bandai"
+          "cardSet": "-Animal Kingdom Pirates-[ST-04]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              288283
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "Sheepshead",
+            "match": "image-only-candidate",
+            "distance": 2
+          }
+        },
+        {
+          "id": "ST04-007~tcg424674",
+          "set": "ST04-PRE",
+          "rarity": "C",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/424674_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              424674
+            ]
+          },
+          "tcgplayer": {
+            "name": "Sheepshead",
+            "match": "minted",
+            "distance": 3
+          },
+          "artOf": "ST04-007",
+          "finishes": [
+            "nonfoil"
+          ],
+          "promoTypes": [
+            {
+              "type": "prerelease",
+              "category": "event"
+            }
+          ]
         }
       ]
     },
@@ -284,7 +893,21 @@
           "rarity": "C",
           "block": "1",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST04-008.png",
-          "source": "bandai"
+          "cardSet": "-Animal Kingdom Pirates-[ST-04]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              599805
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "Jack",
+            "match": "image",
+            "distance": 3
+          }
         },
         {
           "id": "ST04-008_p1",
@@ -292,7 +915,22 @@
           "rarity": "C",
           "block": "1",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST04-008_p1.png",
-          "source": "bandai"
+          "cardSet": "Included in Online Regional Participation Pack Vol.1",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              482230
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Jack (Online Regional 2023) [Participant]",
+            "match": "whole-card",
+            "distance": 6
+          },
+          "artist": "Hayaken-sarena"
         },
         {
           "id": "ST04-008_p2",
@@ -300,7 +938,153 @@
           "rarity": "C",
           "block": "1",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST04-008_p2.png",
-          "source": "bandai"
+          "cardSet": "Premium Card Collection -BANDAI CARD GAMES Fest. 23-24 Edition-",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              482231
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Jack (Online Regional 2023) [Finalist]",
+            "match": "image",
+            "distance": 21
+          },
+          "artist": "Hayaken-sarena"
+        },
+        {
+          "id": "ST04-008~tcg424960",
+          "set": "ST04-PRE",
+          "rarity": "C",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/424960_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              424960
+            ]
+          },
+          "tcgplayer": {
+            "name": "Jack",
+            "match": "minted",
+            "distance": 3
+          },
+          "artOf": "ST04-008",
+          "finishes": [
+            "nonfoil"
+          ],
+          "promoTypes": [
+            {
+              "type": "prerelease",
+              "category": "event"
+            }
+          ]
+        },
+        {
+          "id": "ST04-008~tcg482232",
+          "set": "P",
+          "rarity": "P",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/482232_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              482232
+            ]
+          },
+          "tcgplayer": {
+            "name": "Jack (Online Regional 2023) [Winner]",
+            "match": "minted",
+            "distance": null
+          }
+        },
+        {
+          "id": "ST04-008~tcg483189",
+          "set": "P",
+          "rarity": "P",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/483189_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              483189
+            ]
+          },
+          "tcgplayer": {
+            "name": "Jack (Offline Regional 2023) [Participant]",
+            "match": "minted",
+            "distance": null
+          },
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "ST04-008~tcg483192",
+          "set": "P",
+          "rarity": "P",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/483192_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              483192
+            ]
+          },
+          "tcgplayer": {
+            "name": "Jack (Offline Regional 2023) [Finalist]",
+            "match": "minted",
+            "distance": null
+          },
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "ST04-008~tcg483193",
+          "set": "P",
+          "rarity": "P",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/483193_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              483193
+            ]
+          },
+          "tcgplayer": {
+            "name": "Jack (Offline Regional 2023) [Winner]",
+            "match": "minted",
+            "distance": null
+          }
+        },
+        {
+          "id": "ST04-008~tcg564258",
+          "set": "P",
+          "rarity": "C",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/564258_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              564258
+            ]
+          },
+          "tcgplayer": {
+            "name": "Jack (Premium Card Collection -BANDAI CARD GAMES Fest. 23-24 Edition-)",
+            "match": "minted",
+            "distance": null
+          },
+          "finishes": [
+            "foil"
+          ],
+          "promoTypes": [
+            {
+              "type": "convention",
+              "category": "event"
+            },
+            {
+              "type": "retail_product",
+              "category": "retail"
+            }
+          ]
         }
       ]
     },
@@ -328,7 +1112,48 @@
           "rarity": "C",
           "block": "1",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST04-009.png",
-          "source": "bandai"
+          "cardSet": "-Animal Kingdom Pirates-[ST-04]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              288287
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "Ginrummy",
+            "match": "image-only-candidate",
+            "distance": 2
+          }
+        },
+        {
+          "id": "ST04-009~tcg425175",
+          "set": "ST04-PRE",
+          "rarity": "C",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/425175_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              425175
+            ]
+          },
+          "tcgplayer": {
+            "name": "Ginrummy",
+            "match": "minted",
+            "distance": 2
+          },
+          "artOf": "ST04-009",
+          "finishes": [
+            "nonfoil"
+          ],
+          "promoTypes": [
+            {
+              "type": "prerelease",
+              "category": "event"
+            }
+          ]
         }
       ]
     },
@@ -354,7 +1179,21 @@
           "rarity": "C",
           "block": "1",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST04-010.png",
-          "source": "bandai"
+          "cardSet": "-Animal Kingdom Pirates-[ST-04]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              599802
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "Who's.Who",
+            "match": "image",
+            "distance": 9
+          }
         },
         {
           "id": "ST04-010_p1",
@@ -362,7 +1201,99 @@
           "rarity": "C",
           "block": "1",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST04-010_p1.png",
-          "source": "bandai"
+          "cardSet": "Tournament Pack Vol.3",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              497005
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "Who's.Who (Tournament Pack Vol. 3) [Participant]",
+            "match": "image",
+            "distance": 2
+          },
+          "artist": "Suemi jun"
+        },
+        {
+          "id": "ST04-010~tcg425374",
+          "set": "ST04-PRE",
+          "rarity": "C",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/425374_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              425374
+            ]
+          },
+          "tcgplayer": {
+            "name": "Who's.Who",
+            "match": "minted",
+            "distance": 6
+          },
+          "artOf": "ST04-010",
+          "finishes": [
+            "nonfoil"
+          ],
+          "promoTypes": [
+            {
+              "type": "prerelease",
+              "category": "event"
+            }
+          ]
+        },
+        {
+          "id": "ST04-010~tcg497006",
+          "set": "P",
+          "rarity": "P",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/497006_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              497006
+            ]
+          },
+          "tcgplayer": {
+            "name": "Who's.Who (Tournament Pack Vol. 3) [Winner]",
+            "match": "minted",
+            "distance": null
+          },
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "ST04-010~tcg525332",
+          "set": "P",
+          "rarity": "C",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/525332_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              525332
+            ]
+          },
+          "tcgplayer": {
+            "name": "Who's.Who (CS 2023 Celebration Pack)",
+            "match": "minted",
+            "distance": null
+          },
+          "finishes": [
+            "foil"
+          ],
+          "promoTypes": [
+            {
+              "type": "championship",
+              "category": "championship"
+            },
+            {
+              "type": "event_pack",
+              "category": "event"
+            }
+          ]
         }
       ]
     },
@@ -389,7 +1320,21 @@
           "rarity": "C",
           "block": "1",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST04-011.png",
-          "source": "bandai"
+          "cardSet": "-Animal Kingdom Pirates-[ST-04]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              288293
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "Black Maria",
+            "match": "image-only-candidate",
+            "distance": 6
+          }
         },
         {
           "id": "ST04-011_p1",
@@ -397,7 +1342,28 @@
           "rarity": "C",
           "block": "1",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST04-011_p1.png",
-          "source": "bandai"
+          "cardSet": "Tournament Pack Vol.2",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              483159
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "Black Maria (Tournament Pack Vol. 2)",
+            "match": "image",
+            "distance": 3
+          },
+          "promoTypes": [
+            {
+              "type": "event_pack",
+              "category": "event"
+            }
+          ],
+          "artist": "Koushi Rokushiro"
         },
         {
           "id": "ST04-011_p2",
@@ -405,7 +1371,109 @@
           "rarity": "C",
           "block": "1",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST04-011_p2.png",
-          "source": "bandai"
+          "cardSet": "Premium Card Collection -BANDAI CARD GAMES Fest. 23-24 Edition-",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              525336
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Black Maria (CS 2023 Celebration Pack)",
+            "match": "image",
+            "distance": 11
+          },
+          "promoTypes": [
+            {
+              "type": "championship",
+              "category": "championship"
+            },
+            {
+              "type": "event_pack",
+              "category": "event"
+            }
+          ],
+          "artist": "Koushi Rokushiro"
+        },
+        {
+          "id": "ST04-011~tcg425673",
+          "set": "ST04-PRE",
+          "rarity": "C",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/425673_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              425673
+            ]
+          },
+          "tcgplayer": {
+            "name": "Black Maria",
+            "match": "minted",
+            "distance": 4
+          },
+          "artOf": "ST04-011",
+          "finishes": [
+            "nonfoil"
+          ],
+          "promoTypes": [
+            {
+              "type": "prerelease",
+              "category": "event"
+            }
+          ]
+        },
+        {
+          "id": "ST04-011~tcg483160",
+          "set": "P",
+          "rarity": "P",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/483160_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              483160
+            ]
+          },
+          "tcgplayer": {
+            "name": "Black Maria (Tournament Pack Vol. 2) [Winner]",
+            "match": "minted",
+            "distance": null
+          },
+          "finishes": [
+            "nonfoil"
+          ]
+        },
+        {
+          "id": "ST04-011~tcg564259",
+          "set": "P",
+          "rarity": "C",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/564259_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              564259
+            ]
+          },
+          "tcgplayer": {
+            "name": "Black Maria (Premium Card Collection -BANDAI CARD GAMES Fest. 23-24 Edition-)",
+            "match": "minted",
+            "distance": null
+          },
+          "finishes": [
+            "foil"
+          ],
+          "promoTypes": [
+            {
+              "type": "convention",
+              "category": "event"
+            },
+            {
+              "type": "retail_product",
+              "category": "retail"
+            }
+          ]
         }
       ]
     },
@@ -432,7 +1500,48 @@
           "rarity": "C",
           "block": "1",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST04-012.png",
-          "source": "bandai"
+          "cardSet": "-Animal Kingdom Pirates-[ST-04]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              288294
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "Page One",
+            "match": "image-only-candidate",
+            "distance": 3
+          }
+        },
+        {
+          "id": "ST04-012~tcg425858",
+          "set": "ST04-PRE",
+          "rarity": "C",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/425858_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              425858
+            ]
+          },
+          "tcgplayer": {
+            "name": "Page One",
+            "match": "minted",
+            "distance": 3
+          },
+          "artOf": "ST04-012",
+          "finishes": [
+            "nonfoil"
+          ],
+          "promoTypes": [
+            {
+              "type": "prerelease",
+              "category": "event"
+            }
+          ]
         }
       ]
     },
@@ -461,7 +1570,48 @@
           "rarity": "C",
           "block": "1",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST04-013.png",
-          "source": "bandai"
+          "cardSet": "-Animal Kingdom Pirates-[ST-04]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              288295
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "X.Drake",
+            "match": "image-only-candidate",
+            "distance": 4
+          }
+        },
+        {
+          "id": "ST04-013~tcg426012",
+          "set": "ST04-PRE",
+          "rarity": "C",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/426012_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              426012
+            ]
+          },
+          "tcgplayer": {
+            "name": "X.Drake",
+            "match": "minted",
+            "distance": 6
+          },
+          "artOf": "ST04-013",
+          "finishes": [
+            "nonfoil"
+          ],
+          "promoTypes": [
+            {
+              "type": "prerelease",
+              "category": "event"
+            }
+          ]
         }
       ]
     },
@@ -483,7 +1633,48 @@
           "rarity": "C",
           "block": "1",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST04-014.png",
-          "source": "bandai"
+          "cardSet": "-Animal Kingdom Pirates-[ST-04]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              599796
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "Lead Performer \"Disaster\"",
+            "match": "image",
+            "distance": 5
+          }
+        },
+        {
+          "id": "ST04-014~tcg426237",
+          "set": "ST04-PRE",
+          "rarity": "C",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/426237_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              426237
+            ]
+          },
+          "tcgplayer": {
+            "name": "Lead Performer \"Disaster\"",
+            "match": "minted",
+            "distance": 7
+          },
+          "artOf": "ST04-014",
+          "finishes": [
+            "nonfoil"
+          ],
+          "promoTypes": [
+            {
+              "type": "prerelease",
+              "category": "event"
+            }
+          ]
         }
       ]
     },
@@ -505,7 +1696,48 @@
           "rarity": "C",
           "block": "1",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST04-015.png",
-          "source": "bandai"
+          "cardSet": "-Animal Kingdom Pirates-[ST-04]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              599785
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "Brachio Bomber",
+            "match": "image",
+            "distance": 6
+          }
+        },
+        {
+          "id": "ST04-015~tcg426501",
+          "set": "ST04-PRE",
+          "rarity": "C",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/426501_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              426501
+            ]
+          },
+          "tcgplayer": {
+            "name": "Brachio Bomber",
+            "match": "minted",
+            "distance": 10
+          },
+          "artOf": "ST04-015",
+          "finishes": [
+            "nonfoil"
+          ],
+          "promoTypes": [
+            {
+              "type": "prerelease",
+              "category": "event"
+            }
+          ]
         }
       ]
     },
@@ -528,6 +1760,7 @@
           "rarity": "C",
           "block": "1",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST04-016.png",
+          "cardSet": "-Animal Kingdom Pirates-[ST-04]",
           "source": "bandai"
         },
         {
@@ -536,6 +1769,7 @@
           "rarity": "C",
           "block": "1",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST04-016_p2.png",
+          "cardSet": "-ONE PIECE CARD THE BEST- [PRB-01]",
           "source": "bandai"
         },
         {
@@ -544,7 +1778,9 @@
           "rarity": "C",
           "block": "1",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST04-016_p3.png",
-          "source": "bandai"
+          "cardSet": "-ONE PIECE CARD THE BEST- [PRB-01]",
+          "source": "bandai",
+          "artist": "tatsuya"
         },
         {
           "id": "ST04-016_p4",
@@ -552,7 +1788,27 @@
           "rarity": "C",
           "block": "1",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST04-016_p4.png",
-          "source": "bandai"
+          "cardSet": "Premium Card Collection -Best Selection-",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              546671
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Blast Breath (Premium Card Collection -Best Selection Vol. 1-)",
+            "match": "image",
+            "distance": 21
+          },
+          "promoTypes": [
+            {
+              "type": "retail_product",
+              "category": "retail"
+            }
+          ]
         },
         {
           "id": "ST04-016_r1",
@@ -560,7 +1816,36 @@
           "rarity": "C",
           "block": "1",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST04-016_r1.png",
-          "source": "bandai"
+          "cardSet": "-ONE PIECE CARD THE BEST- [PRB-01]",
+          "source": "bandai",
+          "artOf": "ST04-016"
+        },
+        {
+          "id": "ST04-016~tcg426897",
+          "set": "ST04-PRE",
+          "rarity": "C",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/426897_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              426897
+            ]
+          },
+          "tcgplayer": {
+            "name": "Blast Breath",
+            "match": "minted",
+            "distance": 5
+          },
+          "artOf": "ST04-016",
+          "finishes": [
+            "nonfoil"
+          ],
+          "promoTypes": [
+            {
+              "type": "prerelease",
+              "category": "event"
+            }
+          ]
         }
       ]
     },
@@ -582,7 +1867,74 @@
           "rarity": "C",
           "block": "1",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST04-017.png",
-          "source": "bandai"
+          "cardSet": "-Animal Kingdom Pirates-[ST-04]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              599774
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "Onigashima Island",
+            "match": "image",
+            "distance": 3
+          }
+        },
+        {
+          "id": "ST04-017~tcg427223",
+          "set": "ST04-PRE",
+          "rarity": "C",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/427223_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              427223
+            ]
+          },
+          "tcgplayer": {
+            "name": "Onigashima Island",
+            "match": "minted",
+            "distance": 4
+          },
+          "artOf": "ST04-017",
+          "finishes": [
+            "nonfoil"
+          ],
+          "promoTypes": [
+            {
+              "type": "prerelease",
+              "category": "event"
+            }
+          ]
+        },
+        {
+          "id": "ST04-017~tcg587230",
+          "set": "P",
+          "rarity": "C",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/587230_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              587230
+            ]
+          },
+          "tcgplayer": {
+            "name": "Onigashima Island (Premium Card Collection -Best Selection Vol. 2-)",
+            "match": "minted",
+            "distance": null
+          },
+          "finishes": [
+            "foil"
+          ],
+          "promoTypes": [
+            {
+              "type": "retail_product",
+              "category": "retail"
+            }
+          ]
         }
       ]
     }

@@ -24,7 +24,22 @@
           "rarity": "L",
           "block": "4",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/EB04-001.png",
-          "source": "bandai"
+          "cardSet": "-ADVENTURE ON KAMI'S ISLAND- [OP15-EB04]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              685295
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "Jewelry Bonney (EB04-001)",
+            "match": "image",
+            "distance": 5
+          },
+          "artist": "Sunohara"
         },
         {
           "id": "EB04-001_p1",
@@ -32,7 +47,25 @@
           "rarity": "L",
           "block": "4",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/EB04-001_p1.png",
-          "source": "bandai"
+          "cardSet": "-ADVENTURE ON KAMI'S ISLAND- [OP15-EB04]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              685296
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Jewelry Bonney (EB04-001) (Alternate Art)",
+            "match": "image",
+            "distance": 3
+          },
+          "treatments": [
+            "alternate_art"
+          ],
+          "artist": "otton"
         }
       ]
     },
@@ -60,7 +93,22 @@
           "rarity": "R",
           "block": "4",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/EB04-002.png",
-          "source": "bandai"
+          "cardSet": "-ADVENTURE ON KAMI'S ISLAND- [OP15-EB04]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              685297
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Jewelry Bonney (EB04-002)",
+            "match": "image",
+            "distance": 3
+          },
+          "artist": "Haru Miyajima"
         },
         {
           "id": "EB04-002_p1",
@@ -68,7 +116,25 @@
           "rarity": "R",
           "block": "4",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/EB04-002_p1.png",
-          "source": "bandai"
+          "cardSet": "-ADVENTURE ON KAMI'S ISLAND- [OP15-EB04]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              685298
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Jewelry Bonney (EB04-002) (Alternate Art)",
+            "match": "image",
+            "distance": 3
+          },
+          "treatments": [
+            "alternate_art"
+          ],
+          "artist": "Sunohara"
         }
       ]
     },
@@ -96,7 +162,22 @@
           "rarity": "R",
           "block": "4",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/EB04-003.png",
-          "source": "bandai"
+          "cardSet": "-ADVENTURE ON KAMI'S ISLAND- [OP15-EB04]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              685299
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Smoker & Tashigi",
+            "match": "image",
+            "distance": 4
+          },
+          "artist": "Morechand"
         },
         {
           "id": "EB04-003_p1",
@@ -104,7 +185,25 @@
           "rarity": "SP CARD",
           "block": "4",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/EB04-003_p1.png",
-          "source": "bandai"
+          "cardSet": "-ADVENTURE ON KAMI'S ISLAND- [OP15-EB04]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              685482
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Smoker & Tashigi (SP)",
+            "match": "image",
+            "distance": 5
+          },
+          "treatments": [
+            "sp"
+          ],
+          "artist": "Bashikou"
         }
       ]
     },
@@ -130,7 +229,50 @@
           "rarity": "C",
           "block": "4",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/EB04-004.png",
-          "source": "bandai"
+          "cardSet": "-ADVENTURE ON KAMI'S ISLAND- [OP15-EB04]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              685300
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "Zeff",
+            "match": "image-only-candidate",
+            "distance": 3
+          },
+          "artist": "Yasushi Yamaguchi"
+        },
+        {
+          "id": "EB04-004~tcg688624",
+          "set": "OP15-EB04-RE",
+          "rarity": "C",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/688624_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              688624
+            ]
+          },
+          "tcgplayer": {
+            "name": "Zeff",
+            "match": "minted",
+            "distance": 3
+          },
+          "artOf": "EB04-004",
+          "finishes": [
+            "nonfoil"
+          ],
+          "promoTypes": [
+            {
+              "type": "release",
+              "category": "event"
+            }
+          ],
+          "artist": "Yasushi Yamaguchi"
         }
       ]
     },
@@ -159,7 +301,50 @@
           "rarity": "C",
           "block": "4",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/EB04-005.png",
-          "source": "bandai"
+          "cardSet": "-ADVENTURE ON KAMI'S ISLAND- [OP15-EB04]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              685301
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "Trafalgar Law",
+            "match": "image-only-candidate",
+            "distance": 5
+          },
+          "artist": "kankurou"
+        },
+        {
+          "id": "EB04-005~tcg688623",
+          "set": "OP15-EB04-RE",
+          "rarity": "C",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/688623_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              688623
+            ]
+          },
+          "tcgplayer": {
+            "name": "Trafalgar Law",
+            "match": "minted",
+            "distance": 6
+          },
+          "artOf": "EB04-005",
+          "finishes": [
+            "nonfoil"
+          ],
+          "promoTypes": [
+            {
+              "type": "release",
+              "category": "event"
+            }
+          ],
+          "artist": "kankurou"
         }
       ]
     },
@@ -185,7 +370,50 @@
           "rarity": "C",
           "block": "4",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/EB04-006.png",
-          "source": "bandai"
+          "cardSet": "-ADVENTURE ON KAMI'S ISLAND- [OP15-EB04]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              685302
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "Moda",
+            "match": "image-only-candidate",
+            "distance": 4
+          },
+          "artist": "Nekobayashi"
+        },
+        {
+          "id": "EB04-006~tcg688625",
+          "set": "OP15-EB04-RE",
+          "rarity": "C",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/688625_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              688625
+            ]
+          },
+          "tcgplayer": {
+            "name": "Moda",
+            "match": "minted",
+            "distance": 4
+          },
+          "artOf": "EB04-006",
+          "finishes": [
+            "nonfoil"
+          ],
+          "promoTypes": [
+            {
+              "type": "release",
+              "category": "event"
+            }
+          ],
+          "artist": "Nekobayashi"
         }
       ]
     },
@@ -212,7 +440,22 @@
           "rarity": "SR",
           "block": "4",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/EB04-007.png",
-          "source": "bandai"
+          "cardSet": "-ADVENTURE ON KAMI'S ISLAND- [OP15-EB04]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              685303
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Roronoa Zoro (EB04-007)",
+            "match": "image",
+            "distance": 2
+          },
+          "artist": "BISAI"
         },
         {
           "id": "EB04-007_p1",
@@ -220,7 +463,25 @@
           "rarity": "SR",
           "block": "4",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/EB04-007_p1.png",
-          "source": "bandai"
+          "cardSet": "-ADVENTURE ON KAMI'S ISLAND- [OP15-EB04]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              685304
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Roronoa Zoro (EB04-007) (Alternate Art)",
+            "match": "image",
+            "distance": 2
+          },
+          "treatments": [
+            "alternate_art"
+          ],
+          "artist": "Nijihayashi"
         },
         {
           "id": "EB04-007_p2",
@@ -228,7 +489,25 @@
           "rarity": "SP CARD",
           "block": "4",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/EB04-007_p2.png",
-          "source": "bandai"
+          "cardSet": "BOOSTER PACK -THE WORLD’S STRONGEST WARRIORS- [OP-17]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              705991
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Roronoa Zoro (EB04-007) (SP)",
+            "match": "image-only-candidate",
+            "distance": 3
+          },
+          "treatments": [
+            "sp"
+          ],
+          "artist": "Fo Ihara/INO Ltd."
         }
       ]
     },
@@ -251,7 +530,21 @@
           "rarity": "R",
           "block": "4",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/EB04-008.png",
-          "source": "bandai"
+          "cardSet": "-ADVENTURE ON KAMI'S ISLAND- [OP15-EB04]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              685305
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Distorted Future",
+            "match": "image-only-candidate",
+            "distance": 5
+          }
         }
       ]
     },
@@ -272,7 +565,48 @@
           "rarity": "C",
           "block": "4",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/EB04-009.png",
-          "source": "bandai"
+          "cardSet": "-ADVENTURE ON KAMI'S ISLAND- [OP15-EB04]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              685306
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "It's My Student's Farewell. I Want It to Be Proper.",
+            "match": "image-only-candidate",
+            "distance": 7
+          }
+        },
+        {
+          "id": "EB04-009~tcg686649",
+          "set": "OP15-EB04-RE",
+          "rarity": "C",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/686649_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              686649
+            ]
+          },
+          "tcgplayer": {
+            "name": "It's My Student's Farewell. I Want It to Be Proper.",
+            "match": "minted",
+            "distance": 7
+          },
+          "artOf": "EB04-009",
+          "finishes": [
+            "nonfoil"
+          ],
+          "promoTypes": [
+            {
+              "type": "release",
+              "category": "event"
+            }
+          ]
         }
       ]
     },
@@ -294,7 +628,48 @@
           "rarity": "C",
           "block": "4",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/EB04-010.png",
-          "source": "bandai"
+          "cardSet": "-ADVENTURE ON KAMI'S ISLAND- [OP15-EB04]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              685307
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "Lulucia Kingdom",
+            "match": "image-only-candidate",
+            "distance": 6
+          }
+        },
+        {
+          "id": "EB04-010~tcg686647",
+          "set": "OP15-EB04-RE",
+          "rarity": "C",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/686647_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              686647
+            ]
+          },
+          "tcgplayer": {
+            "name": "Lulucia Kingdom",
+            "match": "minted",
+            "distance": 10
+          },
+          "artOf": "EB04-010",
+          "finishes": [
+            "nonfoil"
+          ],
+          "promoTypes": [
+            {
+              "type": "release",
+              "category": "event"
+            }
+          ]
         }
       ]
     },
@@ -321,7 +696,50 @@
           "rarity": "C",
           "block": "4",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/EB04-011.png",
-          "source": "bandai"
+          "cardSet": "-THE AZURE SEA’S SEVEN- [OP14-EB04]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              671329
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "Scaled Neptunian",
+            "match": "image-only-candidate",
+            "distance": 10
+          },
+          "artist": "SHINRA AGENCY Co. Ltd."
+        },
+        {
+          "id": "EB04-011~tcg671794",
+          "set": "OP14-EB04-RE",
+          "rarity": "C",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/671794_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              671794
+            ]
+          },
+          "tcgplayer": {
+            "name": "Scaled Neptunian",
+            "match": "minted",
+            "distance": 10
+          },
+          "artOf": "EB04-011",
+          "finishes": [
+            "nonfoil"
+          ],
+          "promoTypes": [
+            {
+              "type": "release",
+              "category": "event"
+            }
+          ],
+          "artist": "SHINRA AGENCY Co. Ltd."
         }
       ]
     },
@@ -348,7 +766,22 @@
           "rarity": "SR",
           "block": "4",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/EB04-012.png",
-          "source": "bandai"
+          "cardSet": "-THE AZURE SEA’S SEVEN- [OP14-EB04]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              668644
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Kikunojo - EB04-012",
+            "match": "image",
+            "distance": 4
+          },
+          "artist": "Sunohara"
         },
         {
           "id": "EB04-012_p1",
@@ -356,7 +789,25 @@
           "rarity": "SR",
           "block": "4",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/EB04-012_p1.png",
-          "source": "bandai"
+          "cardSet": "-THE AZURE SEA’S SEVEN- [OP14-EB04]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              668645
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Kikunojo - EB04-012 (Alternate Art)",
+            "match": "image",
+            "distance": 3
+          },
+          "treatments": [
+            "alternate_art"
+          ],
+          "artist": "Naruse Uroko"
         }
       ]
     },
@@ -382,7 +833,22 @@
           "rarity": "SR",
           "block": "4",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/EB04-013.png",
-          "source": "bandai"
+          "cardSet": "-THE AZURE SEA’S SEVEN- [OP14-EB04]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              668658
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Carrot",
+            "match": "image",
+            "distance": 5
+          },
+          "artist": "kicori"
         },
         {
           "id": "EB04-013_p1",
@@ -390,7 +856,25 @@
           "rarity": "SR",
           "block": "4",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/EB04-013_p1.png",
-          "source": "bandai"
+          "cardSet": "-THE AZURE SEA’S SEVEN- [OP14-EB04]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              668659
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Carrot (Alternate Art)",
+            "match": "image",
+            "distance": 3
+          },
+          "treatments": [
+            "alternate_art"
+          ],
+          "artist": "SHIE NANAHARA"
         }
       ]
     },
@@ -416,7 +900,50 @@
           "rarity": "C",
           "block": "4",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/EB04-014.png",
-          "source": "bandai"
+          "cardSet": "-THE AZURE SEA’S SEVEN- [OP14-EB04]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              671330
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "Kouzuki Sukiyaki",
+            "match": "image-only-candidate",
+            "distance": 5
+          },
+          "artist": "Studio Vigor Co. Ltd"
+        },
+        {
+          "id": "EB04-014~tcg671795",
+          "set": "OP14-EB04-RE",
+          "rarity": "C",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/671795_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              671795
+            ]
+          },
+          "tcgplayer": {
+            "name": "Kouzuki Sukiyaki",
+            "match": "minted",
+            "distance": 5
+          },
+          "artOf": "EB04-014",
+          "finishes": [
+            "nonfoil"
+          ],
+          "promoTypes": [
+            {
+              "type": "release",
+              "category": "event"
+            }
+          ],
+          "artist": "Studio Vigor Co. Ltd"
         }
       ]
     },
@@ -444,7 +971,22 @@
           "rarity": "R",
           "block": "4",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/EB04-015.png",
-          "source": "bandai"
+          "cardSet": "-THE AZURE SEA’S SEVEN- [OP14-EB04]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              666534
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Jinbe - EB04-015",
+            "match": "image-only-candidate",
+            "distance": 4
+          },
+          "artist": "Katsuo Tadano"
         }
       ]
     },
@@ -470,7 +1012,50 @@
           "rarity": "C",
           "block": "4",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/EB04-016.png",
-          "source": "bandai"
+          "cardSet": "-THE AZURE SEA’S SEVEN- [OP14-EB04]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              671331
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "Bird Neptunian",
+            "match": "image-only-candidate",
+            "distance": 3
+          },
+          "artist": "SHINRA AGENCY Co. Ltd."
+        },
+        {
+          "id": "EB04-016~tcg671796",
+          "set": "OP14-EB04-RE",
+          "rarity": "C",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/671796_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              671796
+            ]
+          },
+          "tcgplayer": {
+            "name": "Bird Neptunian",
+            "match": "minted",
+            "distance": 3
+          },
+          "artOf": "EB04-016",
+          "finishes": [
+            "nonfoil"
+          ],
+          "promoTypes": [
+            {
+              "type": "release",
+              "category": "event"
+            }
+          ],
+          "artist": "SHINRA AGENCY Co. Ltd."
         }
       ]
     },
@@ -498,7 +1083,50 @@
           "rarity": "C",
           "block": "4",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/EB04-017.png",
-          "source": "bandai"
+          "cardSet": "-THE AZURE SEA’S SEVEN- [OP14-EB04]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              671332
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "Mystoms",
+            "match": "image-only-candidate",
+            "distance": 5
+          },
+          "artist": "SHINRA AGENCY Co. Ltd."
+        },
+        {
+          "id": "EB04-017~tcg671797",
+          "set": "OP14-EB04-RE",
+          "rarity": "C",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/671797_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              671797
+            ]
+          },
+          "tcgplayer": {
+            "name": "Mystoms",
+            "match": "minted",
+            "distance": 5
+          },
+          "artOf": "EB04-017",
+          "finishes": [
+            "nonfoil"
+          ],
+          "promoTypes": [
+            {
+              "type": "release",
+              "category": "event"
+            }
+          ],
+          "artist": "SHINRA AGENCY Co. Ltd."
         }
       ]
     },
@@ -526,7 +1154,22 @@
           "rarity": "R",
           "block": "4",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/EB04-018.png",
-          "source": "bandai"
+          "cardSet": "-THE AZURE SEA’S SEVEN- [OP14-EB04]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              671333
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Megalo",
+            "match": "image",
+            "distance": 6
+          },
+          "artist": "KISUKE"
         },
         {
           "id": "EB04-018_p1",
@@ -534,7 +1177,25 @@
           "rarity": "R",
           "block": "4",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/EB04-018_p1.png",
-          "source": "bandai"
+          "cardSet": "-THE AZURE SEA’S SEVEN- [OP14-EB04]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              666532
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Megalo (Alternate Art)",
+            "match": "image",
+            "distance": 4
+          },
+          "treatments": [
+            "alternate_art"
+          ],
+          "artist": "Ryuda"
         }
       ]
     },
@@ -556,7 +1217,21 @@
           "rarity": "R",
           "block": "4",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/EB04-019.png",
-          "source": "bandai"
+          "cardSet": "-THE AZURE SEA’S SEVEN- [OP14-EB04]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              666535
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Eleclaw",
+            "match": "image-only-candidate",
+            "distance": 5
+          }
         }
       ]
     },
@@ -580,7 +1255,48 @@
           "rarity": "C",
           "block": "4",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/EB04-020.png",
-          "source": "bandai"
+          "cardSet": "-THE AZURE SEA’S SEVEN- [OP14-EB04]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              671334
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "Shark Brick Fist",
+            "match": "image-only-candidate",
+            "distance": 5
+          }
+        },
+        {
+          "id": "EB04-020~tcg671798",
+          "set": "OP14-EB04-RE",
+          "rarity": "C",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/671798_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              671798
+            ]
+          },
+          "tcgplayer": {
+            "name": "Shark Brick Fist",
+            "match": "minted",
+            "distance": 5
+          },
+          "artOf": "EB04-020",
+          "finishes": [
+            "nonfoil"
+          ],
+          "promoTypes": [
+            {
+              "type": "release",
+              "category": "event"
+            }
+          ]
         }
       ]
     },
@@ -607,7 +1323,50 @@
           "rarity": "C",
           "block": "4",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/EB04-021.png",
-          "source": "bandai"
+          "cardSet": "-THE AZURE SEA’S SEVEN- [OP14-EB04]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              671335
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "Igaram",
+            "match": "image-only-candidate",
+            "distance": 7
+          },
+          "artist": "Nekobayashi"
+        },
+        {
+          "id": "EB04-021~tcg671799",
+          "set": "OP14-EB04-RE",
+          "rarity": "C",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/671799_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              671799
+            ]
+          },
+          "tcgplayer": {
+            "name": "Igaram",
+            "match": "minted",
+            "distance": 7
+          },
+          "artOf": "EB04-021",
+          "finishes": [
+            "nonfoil"
+          ],
+          "promoTypes": [
+            {
+              "type": "release",
+              "category": "event"
+            }
+          ],
+          "artist": "Nekobayashi"
         }
       ]
     },
@@ -634,7 +1393,22 @@
           "rarity": "R",
           "block": "4",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/EB04-022.png",
-          "source": "bandai"
+          "cardSet": "-THE AZURE SEA’S SEVEN- [OP14-EB04]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              671336
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Issho - EB04-022",
+            "match": "image",
+            "distance": 4
+          },
+          "artist": "DAI-XT."
         },
         {
           "id": "EB04-022_p1",
@@ -642,7 +1416,81 @@
           "rarity": "R",
           "block": "4",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/EB04-022_p1.png",
-          "source": "bandai"
+          "cardSet": "-THE AZURE SEA’S SEVEN- [OP14-EB04]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              666537
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Issho - EB04-022 (Alternate Art)",
+            "match": "image",
+            "distance": 2
+          },
+          "treatments": [
+            "alternate_art"
+          ],
+          "artist": "Hokuyuu"
+        },
+        {
+          "id": "EB04-022~tcg712840",
+          "set": "P",
+          "rarity": "R",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/712840_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              712840
+            ]
+          },
+          "tcgplayer": {
+            "name": "Issho (Beginners Deck Party [ST-31] - [ST-36])",
+            "match": "minted",
+            "distance": null
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "promoTypes": [
+            {
+              "type": "event_pack",
+              "category": "event"
+            }
+          ]
+        },
+        {
+          "id": "EB04-022~tcg712841",
+          "set": "P",
+          "rarity": "R",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/712841_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              712841
+            ]
+          },
+          "tcgplayer": {
+            "name": "Issho (Beginners Deck Party [ST-31] - [ST-36]) (Winner)",
+            "match": "minted",
+            "distance": null
+          },
+          "finishes": [
+            "foil"
+          ],
+          "promoTypes": [
+            {
+              "type": "event_pack",
+              "category": "event"
+            },
+            {
+              "type": "placement",
+              "category": "placement"
+            }
+          ]
         }
       ]
     },
@@ -668,7 +1516,74 @@
           "rarity": "R",
           "block": "4",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/EB04-023.png",
-          "source": "bandai"
+          "cardSet": "-THE AZURE SEA’S SEVEN- [OP14-EB04]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              668529
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Chaka & Pell - EB04-023",
+            "match": "image-only-candidate",
+            "distance": 3
+          },
+          "artist": "Morechand"
+        },
+        {
+          "id": "EB04-023~tcg708448",
+          "set": "P",
+          "rarity": "R",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/708448_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              708448
+            ]
+          },
+          "tcgplayer": {
+            "name": "Chaka & Pell (Tournament Pack 2026 Vol. 3)",
+            "match": "minted",
+            "distance": null
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "promoTypes": [
+            {
+              "type": "event_pack",
+              "category": "event"
+            }
+          ]
+        },
+        {
+          "id": "EB04-023~tcg708449",
+          "set": "P",
+          "rarity": "R",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/708449_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              708449
+            ]
+          },
+          "tcgplayer": {
+            "name": "Chaka & Pell (Winner Pack 2026 Vol. 3)",
+            "match": "minted",
+            "distance": null
+          },
+          "finishes": [
+            "foil"
+          ],
+          "promoTypes": [
+            {
+              "type": "placement",
+              "category": "placement"
+            }
+          ]
         }
       ]
     },
@@ -694,7 +1609,50 @@
           "rarity": "C",
           "block": "4",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/EB04-024.png",
-          "source": "bandai"
+          "cardSet": "-THE AZURE SEA’S SEVEN- [OP14-EB04]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              671337
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "Terracotta",
+            "match": "image-only-candidate",
+            "distance": 8
+          },
+          "artist": "HISASHI HUJIWARA"
+        },
+        {
+          "id": "EB04-024~tcg671800",
+          "set": "OP14-EB04-RE",
+          "rarity": "C",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/671800_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              671800
+            ]
+          },
+          "tcgplayer": {
+            "name": "Terracotta",
+            "match": "minted",
+            "distance": 8
+          },
+          "artOf": "EB04-024",
+          "finishes": [
+            "nonfoil"
+          ],
+          "promoTypes": [
+            {
+              "type": "release",
+              "category": "event"
+            }
+          ],
+          "artist": "HISASHI HUJIWARA"
         }
       ]
     },
@@ -721,7 +1679,22 @@
           "rarity": "SR",
           "block": "4",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/EB04-025.png",
-          "source": "bandai"
+          "cardSet": "-THE AZURE SEA’S SEVEN- [OP14-EB04]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              668670
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Nefeltari Vivi",
+            "match": "image",
+            "distance": 4
+          },
+          "artist": "kou takase"
         },
         {
           "id": "EB04-025_p1",
@@ -729,7 +1702,25 @@
           "rarity": "SR",
           "block": "4",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/EB04-025_p1.png",
-          "source": "bandai"
+          "cardSet": "-THE AZURE SEA’S SEVEN- [OP14-EB04]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              668671
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Nefeltari Vivi (Alternate Art)",
+            "match": "image",
+            "distance": 1
+          },
+          "treatments": [
+            "alternate_art"
+          ],
+          "artist": "Yosuke Adachi"
         }
       ]
     },
@@ -756,7 +1747,22 @@
           "rarity": "C",
           "block": "4",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/EB04-026.png",
-          "source": "bandai"
+          "cardSet": "-THE AZURE SEA’S SEVEN- [OP14-EB04]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              671338
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "Bluegrass",
+            "match": "image-only-candidate",
+            "distance": 2
+          },
+          "artist": "kankurou"
         },
         {
           "id": "EB04-026_r1",
@@ -764,7 +1770,38 @@
           "rarity": "C",
           "block": "4",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/EB04-026_r1.png",
-          "source": "bandai"
+          "cardSet": "STARTER DECK -BLUE Kuzan- [ST-33]",
+          "source": "bandai",
+          "artOf": "EB04-026",
+          "artist": "kankurou"
+        },
+        {
+          "id": "EB04-026~tcg671801",
+          "set": "OP14-EB04-RE",
+          "rarity": "C",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/671801_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              671801
+            ]
+          },
+          "tcgplayer": {
+            "name": "Bluegrass",
+            "match": "minted",
+            "distance": 2
+          },
+          "artOf": "EB04-026",
+          "finishes": [
+            "nonfoil"
+          ],
+          "promoTypes": [
+            {
+              "type": "release",
+              "category": "event"
+            }
+          ],
+          "artist": "kankurou"
         }
       ]
     },
@@ -791,7 +1828,22 @@
           "rarity": "R",
           "block": "4",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/EB04-027.png",
-          "source": "bandai"
+          "cardSet": "-THE AZURE SEA’S SEVEN- [OP14-EB04]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              668528
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Boa Hancock - EB04-027",
+            "match": "image-only-candidate",
+            "distance": 2
+          },
+          "artist": "BISAI"
         }
       ]
     },
@@ -813,7 +1865,21 @@
           "rarity": "R",
           "block": "4",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/EB04-028.png",
-          "source": "bandai"
+          "cardSet": "-THE AZURE SEA’S SEVEN- [OP14-EB04]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              671339
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Ice Time",
+            "match": "image-only-candidate",
+            "distance": 6
+          }
         },
         {
           "id": "EB04-028_p1",
@@ -821,7 +1887,28 @@
           "rarity": "R",
           "block": "4",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/EB04-028_p1.png",
-          "source": "bandai"
+          "cardSet": "Premium Card Collection -Best Selection Vol.6-",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              694875
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Ice Time (Premium Card Collection -Best Selection Vol. 6-)",
+            "match": "image",
+            "distance": 5
+          },
+          "promoTypes": [
+            {
+              "type": "retail_product",
+              "category": "retail"
+            }
+          ],
+          "artist": "Bashikou"
         },
         {
           "id": "EB04-028_p2",
@@ -829,7 +1916,21 @@
           "rarity": "R",
           "block": "4",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/EB04-028_p2.png",
-          "source": "bandai"
+          "cardSet": "STARTER DECK -BLUE Kuzan- [ST-33]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              706328
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "Ice Time",
+            "match": "image-only-candidate",
+            "distance": 11
+          }
         }
       ]
     },
@@ -852,7 +1953,48 @@
           "rarity": "UC",
           "block": "4",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/EB04-029.png",
-          "source": "bandai"
+          "cardSet": "-THE AZURE SEA’S SEVEN- [OP14-EB04]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              671340
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "I Heard the Sound...of a Lady's Teardrops Falling",
+            "match": "image-only-candidate",
+            "distance": 7
+          }
+        },
+        {
+          "id": "EB04-029~tcg671851",
+          "set": "OP14-EB04-RE",
+          "rarity": "UC",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/671851_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              671851
+            ]
+          },
+          "tcgplayer": {
+            "name": "I Heard the Sound...of a Lady's Teardrops Falling",
+            "match": "minted",
+            "distance": 7
+          },
+          "artOf": "EB04-029",
+          "finishes": [
+            "nonfoil"
+          ],
+          "promoTypes": [
+            {
+              "type": "release",
+              "category": "event"
+            }
+          ]
         }
       ]
     },
@@ -879,7 +2021,52 @@
           "rarity": "R",
           "block": "4",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/EB04-030.png",
-          "source": "bandai"
+          "cardSet": "-THE AZURE SEA’S SEVEN- [OP14-EB04]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              666539
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Kaido",
+            "match": "image-only-candidate",
+            "distance": 4
+          },
+          "artist": "tatsuya"
+        },
+        {
+          "id": "EB04-030~tcg714349",
+          "set": "P",
+          "rarity": "R",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/714349_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              714349
+            ]
+          },
+          "tcgplayer": {
+            "name": "Kaido (4th Anniversary Treasure Campaign Pack)",
+            "match": "minted",
+            "distance": null
+          },
+          "finishes": [
+            "foil"
+          ],
+          "promoTypes": [
+            {
+              "type": "anniversary",
+              "category": "anniversary"
+            },
+            {
+              "type": "retail_product",
+              "category": "retail"
+            }
+          ]
         }
       ]
     },
@@ -906,7 +2093,22 @@
           "rarity": "R",
           "block": "4",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/EB04-031.png",
-          "source": "bandai"
+          "cardSet": "-THE AZURE SEA’S SEVEN- [OP14-EB04]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              671341
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "King",
+            "match": "image",
+            "distance": 4
+          },
+          "artist": "Hatori Kyoka"
         },
         {
           "id": "EB04-031_p1",
@@ -914,7 +2116,25 @@
           "rarity": "R",
           "block": "4",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/EB04-031_p1.png",
-          "source": "bandai"
+          "cardSet": "-THE AZURE SEA’S SEVEN- [OP14-EB04]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              666540
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "King (Alternate Art)",
+            "match": "image",
+            "distance": 2
+          },
+          "treatments": [
+            "alternate_art"
+          ],
+          "artist": "Akanegumo"
         }
       ]
     },
@@ -941,7 +2161,22 @@
           "rarity": "R",
           "block": "4",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/EB04-032.png",
-          "source": "bandai"
+          "cardSet": "-THE AZURE SEA’S SEVEN- [OP14-EB04]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              671342
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Queen",
+            "match": "image-only-candidate",
+            "distance": 7
+          },
+          "artist": "Katsuo Tadano"
         }
       ]
     },
@@ -970,7 +2205,50 @@
           "rarity": "C",
           "block": "4",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/EB04-033.png",
-          "source": "bandai"
+          "cardSet": "-THE AZURE SEA’S SEVEN- [OP14-EB04]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              671343
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "Groggy Monsters",
+            "match": "image-only-candidate",
+            "distance": 6
+          },
+          "artist": "Studio Vigor Co. Ltd"
+        },
+        {
+          "id": "EB04-033~tcg671802",
+          "set": "OP14-EB04-RE",
+          "rarity": "C",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/671802_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              671802
+            ]
+          },
+          "tcgplayer": {
+            "name": "Groggy Monsters",
+            "match": "minted",
+            "distance": 6
+          },
+          "artOf": "EB04-033",
+          "finishes": [
+            "nonfoil"
+          ],
+          "promoTypes": [
+            {
+              "type": "release",
+              "category": "event"
+            }
+          ],
+          "artist": "Studio Vigor Co. Ltd"
         }
       ]
     },
@@ -997,7 +2275,50 @@
           "rarity": "C",
           "block": "4",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/EB04-034.png",
-          "source": "bandai"
+          "cardSet": "-THE AZURE SEA’S SEVEN- [OP14-EB04]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              671344
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "Charlotte Pudding",
+            "match": "image-only-candidate",
+            "distance": 8
+          },
+          "artist": "Sunohara"
+        },
+        {
+          "id": "EB04-034~tcg671803",
+          "set": "OP14-EB04-RE",
+          "rarity": "C",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/671803_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              671803
+            ]
+          },
+          "tcgplayer": {
+            "name": "Charlotte Pudding",
+            "match": "minted",
+            "distance": 8
+          },
+          "artOf": "EB04-034",
+          "finishes": [
+            "nonfoil"
+          ],
+          "promoTypes": [
+            {
+              "type": "release",
+              "category": "event"
+            }
+          ],
+          "artist": "Sunohara"
         }
       ]
     },
@@ -1026,7 +2347,50 @@
           "rarity": "C",
           "block": "4",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/EB04-035.png",
-          "source": "bandai"
+          "cardSet": "-THE AZURE SEA’S SEVEN- [OP14-EB04]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              671345
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "Hitokiri Kamazo",
+            "match": "image-only-candidate",
+            "distance": 5
+          },
+          "artist": "Studio Vigor Co. Ltd"
+        },
+        {
+          "id": "EB04-035~tcg671804",
+          "set": "OP14-EB04-RE",
+          "rarity": "C",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/671804_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              671804
+            ]
+          },
+          "tcgplayer": {
+            "name": "Hitokiri Kamazo",
+            "match": "minted",
+            "distance": 5
+          },
+          "artOf": "EB04-035",
+          "finishes": [
+            "nonfoil"
+          ],
+          "promoTypes": [
+            {
+              "type": "release",
+              "category": "event"
+            }
+          ],
+          "artist": "Studio Vigor Co. Ltd"
         }
       ]
     },
@@ -1052,7 +2416,22 @@
           "rarity": "SR",
           "block": "4",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/EB04-036.png",
-          "source": "bandai"
+          "cardSet": "-THE AZURE SEA’S SEVEN- [OP14-EB04]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              668753
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Foxy",
+            "match": "image",
+            "distance": 2
+          },
+          "artist": "Moopic"
         },
         {
           "id": "EB04-036_p1",
@@ -1060,7 +2439,25 @@
           "rarity": "SR",
           "block": "4",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/EB04-036_p1.png",
-          "source": "bandai"
+          "cardSet": "-THE AZURE SEA’S SEVEN- [OP14-EB04]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              668752
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Foxy (Alternate Art)",
+            "match": "image",
+            "distance": 4
+          },
+          "treatments": [
+            "alternate_art"
+          ],
+          "artist": "Matsumoto Akira"
         }
       ]
     },
@@ -1087,7 +2484,50 @@
           "rarity": "C",
           "block": "4",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/EB04-037.png",
-          "source": "bandai"
+          "cardSet": "-THE AZURE SEA’S SEVEN- [OP14-EB04]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              671346
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "Porche",
+            "match": "image-only-candidate",
+            "distance": 6
+          },
+          "artist": "SHINRA AGENCY Co. Ltd."
+        },
+        {
+          "id": "EB04-037~tcg671805",
+          "set": "OP14-EB04-RE",
+          "rarity": "C",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/671805_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              671805
+            ]
+          },
+          "tcgplayer": {
+            "name": "Porche",
+            "match": "minted",
+            "distance": 6
+          },
+          "artOf": "EB04-037",
+          "finishes": [
+            "nonfoil"
+          ],
+          "promoTypes": [
+            {
+              "type": "release",
+              "category": "event"
+            }
+          ],
+          "artist": "SHINRA AGENCY Co. Ltd."
         }
       ]
     },
@@ -1115,7 +2555,22 @@
           "rarity": "SR",
           "block": "4",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/EB04-038.png",
-          "source": "bandai"
+          "cardSet": "-THE AZURE SEA’S SEVEN- [OP14-EB04]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              669239
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Rosinante & Law",
+            "match": "image",
+            "distance": 5
+          },
+          "artist": "Studio Vigor Co. Ltd"
         },
         {
           "id": "EB04-038_p1",
@@ -1123,7 +2578,25 @@
           "rarity": "SR",
           "block": "4",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/EB04-038_p1.png",
-          "source": "bandai"
+          "cardSet": "-THE AZURE SEA’S SEVEN- [OP14-EB04]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              669240
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Rosinante & Law (Alternate Art)",
+            "match": "image",
+            "distance": 4
+          },
+          "treatments": [
+            "alternate_art"
+          ],
+          "artist": "otton"
         }
       ]
     },
@@ -1150,7 +2623,22 @@
           "rarity": "R",
           "block": "4",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/EB04-039.png",
-          "source": "bandai"
+          "cardSet": "-THE AZURE SEA’S SEVEN- [OP14-EB04]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              671347
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Eustass\"Captain\"Kid - EB04-039",
+            "match": "image",
+            "distance": 3
+          },
+          "artist": "Anderson"
         },
         {
           "id": "EB04-039_p1",
@@ -1158,7 +2646,25 @@
           "rarity": "SP CARD",
           "block": "4",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/EB04-039_p1.png",
-          "source": "bandai"
+          "cardSet": "-THE AZURE SEA’S SEVEN- [OP14-EB04]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              671450
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Eustass\"Captain\"Kid - EB04-039 (SP)",
+            "match": "image",
+            "distance": 1
+          },
+          "treatments": [
+            "sp"
+          ],
+          "artist": "Bashikou"
         }
       ]
     },
@@ -1181,7 +2687,21 @@
           "rarity": "R",
           "block": "4",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/EB04-040.png",
-          "source": "bandai"
+          "cardSet": "-THE AZURE SEA’S SEVEN- [OP14-EB04]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              671348
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Flame Dragon Torch",
+            "match": "image-only-candidate",
+            "distance": 4
+          }
         }
       ]
     },
@@ -1203,7 +2723,48 @@
           "rarity": "C",
           "block": "4",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/EB04-041.png",
-          "source": "bandai"
+          "cardSet": "-THE AZURE SEA’S SEVEN- [OP14-EB04]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              668420
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "Stealth Black",
+            "match": "image-only-candidate",
+            "distance": 10
+          }
+        },
+        {
+          "id": "EB04-041~tcg671793",
+          "set": "OP14-EB04-RE",
+          "rarity": "C",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/671793_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              671793
+            ]
+          },
+          "tcgplayer": {
+            "name": "Stealth Black",
+            "match": "minted",
+            "distance": 10
+          },
+          "artOf": "EB04-041",
+          "finishes": [
+            "nonfoil"
+          ],
+          "promoTypes": [
+            {
+              "type": "release",
+              "category": "event"
+            }
+          ]
         }
       ]
     },
@@ -1230,7 +2791,50 @@
           "rarity": "C",
           "block": "4",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/EB04-042.png",
-          "source": "bandai"
+          "cardSet": "-ADVENTURE ON KAMI'S ISLAND- [OP15-EB04]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              685308
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "Alpha",
+            "match": "image-only-candidate",
+            "distance": 3
+          },
+          "artist": "Koushi Rokushiro"
+        },
+        {
+          "id": "EB04-042~tcg688626",
+          "set": "OP15-EB04-RE",
+          "rarity": "C",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/688626_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              688626
+            ]
+          },
+          "tcgplayer": {
+            "name": "Alpha",
+            "match": "minted",
+            "distance": 5
+          },
+          "artOf": "EB04-042",
+          "finishes": [
+            "nonfoil"
+          ],
+          "promoTypes": [
+            {
+              "type": "release",
+              "category": "event"
+            }
+          ],
+          "artist": "Koushi Rokushiro"
         }
       ]
     },
@@ -1258,7 +2862,22 @@
           "rarity": "R",
           "block": "4",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/EB04-043.png",
-          "source": "bandai"
+          "cardSet": "-ADVENTURE ON KAMI'S ISLAND- [OP15-EB04]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              685309
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Kaku",
+            "match": "image",
+            "distance": 4
+          },
+          "artist": "kankurou"
         },
         {
           "id": "EB04-043_p1",
@@ -1266,7 +2885,25 @@
           "rarity": "R",
           "block": "4",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/EB04-043_p1.png",
-          "source": "bandai"
+          "cardSet": "-ADVENTURE ON KAMI'S ISLAND- [OP15-EB04]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              685310
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Kaku (Alternate Art)",
+            "match": "image",
+            "distance": 3
+          },
+          "treatments": [
+            "alternate_art"
+          ],
+          "artist": "Morechand"
         }
       ]
     },
@@ -1294,7 +2931,22 @@
           "rarity": "SR",
           "block": "4",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/EB04-044.png",
-          "source": "bandai"
+          "cardSet": "-ADVENTURE ON KAMI'S ISLAND- [OP15-EB04]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              685311
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Koby (EB04-044)",
+            "match": "image",
+            "distance": 3
+          },
+          "artist": "Yuu Shimotsuki"
         },
         {
           "id": "EB04-044_p1",
@@ -1302,7 +2954,25 @@
           "rarity": "SR",
           "block": "4",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/EB04-044_p1.png",
-          "source": "bandai"
+          "cardSet": "-ADVENTURE ON KAMI'S ISLAND- [OP15-EB04]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              685312
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Koby (EB04-044) (Alternate Art)",
+            "match": "image",
+            "distance": 5
+          },
+          "treatments": [
+            "alternate_art"
+          ],
+          "artist": "Koushi Rokushiro"
         },
         {
           "id": "EB04-044_p2",
@@ -1310,7 +2980,24 @@
           "rarity": "SR",
           "block": "4",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/EB04-044_p2.png",
-          "source": "bandai"
+          "cardSet": "-ADVENTURE ON KAMI'S ISLAND- [OP15-EB04]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              685313
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Koby (EB04-044) (Manga)",
+            "match": "image",
+            "distance": 3
+          },
+          "treatments": [
+            "manga"
+          ]
         }
       ]
     },
@@ -1337,7 +3024,50 @@
           "rarity": "C",
           "block": "4",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/EB04-045.png",
-          "source": "bandai"
+          "cardSet": "-ADVENTURE ON KAMI'S ISLAND- [OP15-EB04]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              685314
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "Ginny",
+            "match": "image-only-candidate",
+            "distance": 3
+          },
+          "artist": "Nekobayashi"
+        },
+        {
+          "id": "EB04-045~tcg686348",
+          "set": "OP15-EB04-RE",
+          "rarity": "C",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/686348_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              686348
+            ]
+          },
+          "tcgplayer": {
+            "name": "Ginny",
+            "match": "minted",
+            "distance": 3
+          },
+          "artOf": "EB04-045",
+          "finishes": [
+            "nonfoil"
+          ],
+          "promoTypes": [
+            {
+              "type": "release",
+              "category": "event"
+            }
+          ],
+          "artist": "Nekobayashi"
         }
       ]
     },
@@ -1365,7 +3095,50 @@
           "rarity": "C",
           "block": "4",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/EB04-046.png",
-          "source": "bandai"
+          "cardSet": "-ADVENTURE ON KAMI'S ISLAND- [OP15-EB04]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              685315
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "Doll",
+            "match": "image-only-candidate",
+            "distance": 4
+          },
+          "artist": "Yasushi Yamaguchi"
+        },
+        {
+          "id": "EB04-046~tcg686349",
+          "set": "OP15-EB04-RE",
+          "rarity": "C",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/686349_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              686349
+            ]
+          },
+          "tcgplayer": {
+            "name": "Doll",
+            "match": "minted",
+            "distance": 4
+          },
+          "artOf": "EB04-046",
+          "finishes": [
+            "nonfoil"
+          ],
+          "promoTypes": [
+            {
+              "type": "release",
+              "category": "event"
+            }
+          ],
+          "artist": "Yasushi Yamaguchi"
         }
       ]
     },
@@ -1393,7 +3166,22 @@
           "rarity": "R",
           "block": "4",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/EB04-047.png",
-          "source": "bandai"
+          "cardSet": "-ADVENTURE ON KAMI'S ISLAND- [OP15-EB04]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              685316
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Helmeppo",
+            "match": "image-only-candidate",
+            "distance": 5
+          },
+          "artist": "HISASHI HUJIWARA"
         }
       ]
     },
@@ -1420,7 +3208,22 @@
           "rarity": "SR",
           "block": "4",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/EB04-048.png",
-          "source": "bandai"
+          "cardSet": "-ADVENTURE ON KAMI'S ISLAND- [OP15-EB04]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              685317
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Rob Lucci",
+            "match": "image",
+            "distance": 5
+          },
+          "artist": "Hayaken-sarena"
         },
         {
           "id": "EB04-048_p1",
@@ -1428,7 +3231,25 @@
           "rarity": "SR",
           "block": "4",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/EB04-048_p1.png",
-          "source": "bandai"
+          "cardSet": "-ADVENTURE ON KAMI'S ISLAND- [OP15-EB04]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              685318
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Rob Lucci (Alternate Art)",
+            "match": "image",
+            "distance": 6
+          },
+          "treatments": [
+            "alternate_art"
+          ],
+          "artist": "DAI-XT."
         }
       ]
     },
@@ -1450,7 +3271,48 @@
           "rarity": "C",
           "block": "4",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/EB04-049.png",
-          "source": "bandai"
+          "cardSet": "-ADVENTURE ON KAMI'S ISLAND- [OP15-EB04]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              685319
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "Finger Pistol Yellow Lotus",
+            "match": "image-only-candidate",
+            "distance": 8
+          }
+        },
+        {
+          "id": "EB04-049~tcg686350",
+          "set": "OP15-EB04-RE",
+          "rarity": "C",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/686350_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              686350
+            ]
+          },
+          "tcgplayer": {
+            "name": "Finger Pistol Yellow Lotus",
+            "match": "minted",
+            "distance": 8
+          },
+          "artOf": "EB04-049",
+          "finishes": [
+            "nonfoil"
+          ],
+          "promoTypes": [
+            {
+              "type": "release",
+              "category": "event"
+            }
+          ]
         }
       ]
     },
@@ -1473,7 +3335,21 @@
           "rarity": "R",
           "block": "4",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/EB04-050.png",
-          "source": "bandai"
+          "cardSet": "-ADVENTURE ON KAMI'S ISLAND- [OP15-EB04]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              685320
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "I'll Whip You Into Shape.",
+            "match": "image-only-candidate",
+            "distance": 7
+          }
         }
       ]
     },
@@ -1499,7 +3375,50 @@
           "rarity": "C",
           "block": "4",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/EB04-051.png",
-          "source": "bandai"
+          "cardSet": "-ADVENTURE ON KAMI'S ISLAND- [OP15-EB04]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              685321
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "Emet",
+            "match": "image-only-candidate",
+            "distance": 3
+          },
+          "artist": "Katsuo Tadano"
+        },
+        {
+          "id": "EB04-051~tcg686351",
+          "set": "OP15-EB04-RE",
+          "rarity": "C",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/686351_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              686351
+            ]
+          },
+          "tcgplayer": {
+            "name": "Emet",
+            "match": "minted",
+            "distance": 3
+          },
+          "artOf": "EB04-051",
+          "finishes": [
+            "nonfoil"
+          ],
+          "promoTypes": [
+            {
+              "type": "release",
+              "category": "event"
+            }
+          ],
+          "artist": "Katsuo Tadano"
         }
       ]
     },
@@ -1527,7 +3446,22 @@
           "rarity": "R",
           "block": "4",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/EB04-052.png",
-          "source": "bandai"
+          "cardSet": "-ADVENTURE ON KAMI'S ISLAND- [OP15-EB04]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              685322
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Sanji (EB04-052)",
+            "match": "image",
+            "distance": 3
+          },
+          "artist": "touge369"
         },
         {
           "id": "EB04-052_p1",
@@ -1535,7 +3469,106 @@
           "rarity": "R",
           "block": "4",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/EB04-052_p1.png",
-          "source": "bandai"
+          "cardSet": "-ADVENTURE ON KAMI'S ISLAND- [OP15-EB04]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              685323
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Sanji (EB04-052) (Alternate Art)",
+            "match": "image",
+            "distance": 3
+          },
+          "treatments": [
+            "alternate_art"
+          ],
+          "artist": "Yosuke Adachi"
+        },
+        {
+          "id": "EB04-052~tcg710248",
+          "set": "P",
+          "rarity": "R",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/710248_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              710248
+            ]
+          },
+          "tcgplayer": {
+            "name": "Sanji (CS 26-27 Top Player Pack Vol. 1)",
+            "match": "minted",
+            "distance": null
+          },
+          "promoTypes": [
+            {
+              "type": "championship",
+              "category": "championship"
+            },
+            {
+              "type": "placement",
+              "category": "placement"
+            }
+          ]
+        },
+        {
+          "id": "EB04-052~tcg710268",
+          "set": "P",
+          "rarity": "R",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/710268_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              710268
+            ]
+          },
+          "tcgplayer": {
+            "name": "Sanji (CS 26-27 Finalist Card Set Vol. 1)",
+            "match": "minted",
+            "distance": null
+          },
+          "promoTypes": [
+            {
+              "type": "championship",
+              "category": "championship"
+            },
+            {
+              "type": "placement",
+              "category": "placement"
+            }
+          ]
+        },
+        {
+          "id": "EB04-052~tcg710269",
+          "set": "P",
+          "rarity": "R",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/710269_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              710269
+            ]
+          },
+          "tcgplayer": {
+            "name": "Sanji (CS 26-27 Winner Card Set Vol. 1)",
+            "match": "minted",
+            "distance": null
+          },
+          "promoTypes": [
+            {
+              "type": "championship",
+              "category": "championship"
+            },
+            {
+              "type": "placement",
+              "category": "placement"
+            }
+          ]
         }
       ]
     },
@@ -1563,7 +3596,50 @@
           "rarity": "R",
           "block": "4",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/EB04-053.png",
-          "source": "bandai"
+          "cardSet": "-ADVENTURE ON KAMI'S ISLAND- [OP15-EB04]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              685324
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "Sentomaru",
+            "match": "image-only-candidate",
+            "distance": 6
+          },
+          "artist": "nukadokomogera"
+        },
+        {
+          "id": "EB04-053~tcg688628",
+          "set": "OP15-EB04-RE",
+          "rarity": "C",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/688628_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              688628
+            ]
+          },
+          "tcgplayer": {
+            "name": "Sentomaru",
+            "match": "minted",
+            "distance": 6
+          },
+          "artOf": "EB04-053",
+          "finishes": [
+            "nonfoil"
+          ],
+          "promoTypes": [
+            {
+              "type": "release",
+              "category": "event"
+            }
+          ],
+          "artist": "nukadokomogera"
         }
       ]
     },
@@ -1591,7 +3667,22 @@
           "rarity": "R",
           "block": "4",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/EB04-054.png",
-          "source": "bandai"
+          "cardSet": "-ADVENTURE ON KAMI'S ISLAND- [OP15-EB04]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              685325
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Bartholomew Kuma (EB04-054)",
+            "match": "image-only-candidate",
+            "distance": 4
+          },
+          "artist": "Ryuda"
         },
         {
           "id": "EB04-054_p1",
@@ -1599,7 +3690,25 @@
           "rarity": "SP CARD",
           "block": "4",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/EB04-054_p1.png",
-          "source": "bandai"
+          "cardSet": "-THE TIME OF BATTLE- [OP-16]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              695509
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Bartholomew Kuma (SP)",
+            "match": "image-only-candidate",
+            "distance": 4
+          },
+          "treatments": [
+            "sp"
+          ],
+          "artist": "Katsuo Tadano"
         }
       ]
     },
@@ -1627,7 +3736,50 @@
           "rarity": "C",
           "block": "4",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/EB04-055.png",
-          "source": "bandai"
+          "cardSet": "-ADVENTURE ON KAMI'S ISLAND- [OP15-EB04]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              685326
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "Bartholomew Kuma (EB04-055)",
+            "match": "image-only-candidate",
+            "distance": 4
+          },
+          "artist": "Aidle Co. Ltd."
+        },
+        {
+          "id": "EB04-055~tcg686352",
+          "set": "OP15-EB04-RE",
+          "rarity": "C",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/686352_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              686352
+            ]
+          },
+          "tcgplayer": {
+            "name": "Bartholomew Kuma (EB04-055)",
+            "match": "minted",
+            "distance": 4
+          },
+          "artOf": "EB04-055",
+          "finishes": [
+            "nonfoil"
+          ],
+          "promoTypes": [
+            {
+              "type": "release",
+              "category": "event"
+            }
+          ],
+          "artist": "Aidle Co. Ltd."
         }
       ]
     },
@@ -1656,7 +3808,50 @@
           "rarity": "C",
           "block": "4",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/EB04-056.png",
-          "source": "bandai"
+          "cardSet": "-ADVENTURE ON KAMI'S ISLAND- [OP15-EB04]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              685327
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "Pacifista",
+            "match": "image-only-candidate",
+            "distance": 3
+          },
+          "artist": "Katsuo Tadano"
+        },
+        {
+          "id": "EB04-056~tcg686353",
+          "set": "OP15-EB04-RE",
+          "rarity": "C",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/686353_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              686353
+            ]
+          },
+          "tcgplayer": {
+            "name": "Pacifista",
+            "match": "minted",
+            "distance": 3
+          },
+          "artOf": "EB04-056",
+          "finishes": [
+            "nonfoil"
+          ],
+          "promoTypes": [
+            {
+              "type": "release",
+              "category": "event"
+            }
+          ],
+          "artist": "Katsuo Tadano"
         }
       ]
     },
@@ -1683,7 +3878,50 @@
           "rarity": "C",
           "block": "4",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/EB04-057.png",
-          "source": "bandai"
+          "cardSet": "-ADVENTURE ON KAMI'S ISLAND- [OP15-EB04]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              685328
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "Vegapunk",
+            "match": "image-only-candidate",
+            "distance": 7
+          },
+          "artist": "Aidle Co. Ltd."
+        },
+        {
+          "id": "EB04-057~tcg686354",
+          "set": "OP15-EB04-RE",
+          "rarity": "C",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/686354_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              686354
+            ]
+          },
+          "tcgplayer": {
+            "name": "Vegapunk",
+            "match": "minted",
+            "distance": 7
+          },
+          "artOf": "EB04-057",
+          "finishes": [
+            "nonfoil"
+          ],
+          "promoTypes": [
+            {
+              "type": "release",
+              "category": "event"
+            }
+          ],
+          "artist": "Aidle Co. Ltd."
         }
       ]
     },
@@ -1711,7 +3949,22 @@
           "rarity": "SR",
           "block": "4",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/EB04-058.png",
-          "source": "bandai"
+          "cardSet": "-ADVENTURE ON KAMI'S ISLAND- [OP15-EB04]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              685329
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Borsalino",
+            "match": "image",
+            "distance": 4
+          },
+          "artist": "Akanegumo"
         },
         {
           "id": "EB04-058_p1",
@@ -1719,7 +3972,25 @@
           "rarity": "SR",
           "block": "4",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/EB04-058_p1.png",
-          "source": "bandai"
+          "cardSet": "-ADVENTURE ON KAMI'S ISLAND- [OP15-EB04]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              685330
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Borsalino (Alternate Art)",
+            "match": "image",
+            "distance": 5
+          },
+          "treatments": [
+            "alternate_art"
+          ],
+          "artist": "Matsumoto Akira"
         }
       ]
     },
@@ -1743,7 +4014,21 @@
           "rarity": "R",
           "block": "4",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/EB04-059.png",
-          "source": "bandai"
+          "cardSet": "-ADVENTURE ON KAMI'S ISLAND- [OP15-EB04]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              685331
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Black Rope Dragon Twister",
+            "match": "image-only-candidate",
+            "distance": 2
+          }
         }
       ]
     },
@@ -1767,7 +4052,48 @@
           "rarity": "C",
           "block": "4",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/EB04-060.png",
-          "source": "bandai"
+          "cardSet": "-ADVENTURE ON KAMI'S ISLAND- [OP15-EB04]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              685332
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "Gum-Gum Hawk Gatling",
+            "match": "image-only-candidate",
+            "distance": 4
+          }
+        },
+        {
+          "id": "EB04-060~tcg686355",
+          "set": "OP15-EB04-RE",
+          "rarity": "C",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/686355_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              686355
+            ]
+          },
+          "tcgplayer": {
+            "name": "Gum-Gum Hawk Gatling",
+            "match": "minted",
+            "distance": 4
+          },
+          "artOf": "EB04-060",
+          "finishes": [
+            "nonfoil"
+          ],
+          "promoTypes": [
+            {
+              "type": "release",
+              "category": "event"
+            }
+          ]
         }
       ]
     },
@@ -1795,7 +4121,22 @@
           "rarity": "SEC",
           "block": "4",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/EB04-061.png",
-          "source": "bandai"
+          "cardSet": "-ADVENTURE ON KAMI'S ISLAND- [OP15-EB04]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              685333
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Monkey.D.Luffy (EB04-061)",
+            "match": "image",
+            "distance": 1
+          },
+          "artist": "Matsumoto Akira"
         },
         {
           "id": "EB04-061_p1",
@@ -1803,7 +4144,25 @@
           "rarity": "SEC",
           "block": "4",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/EB04-061_p1.png",
-          "source": "bandai"
+          "cardSet": "-ADVENTURE ON KAMI'S ISLAND- [OP15-EB04]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              685334
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Monkey.D.Luffy (EB04-061) (Alternate Art)",
+            "match": "image",
+            "distance": 3
+          },
+          "treatments": [
+            "alternate_art"
+          ],
+          "artist": "Minato Sashima"
         },
         {
           "id": "EB04-061_p2",
@@ -1811,7 +4170,41 @@
           "rarity": "SEC",
           "block": "X",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/EB04-061_p2.png",
-          "source": "bandai"
+          "cardSet": "BOOSTER PACK -THE WORLD’S STRONGEST WARRIORS- [OP-17]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              710857
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Monkey.D.Luffy (EB04-061) (SP)",
+            "match": "image-only-candidate",
+            "distance": 3
+          },
+          "treatments": [
+            "sp"
+          ]
+        },
+        {
+          "id": "EB04-061~tcg675742",
+          "set": "P",
+          "rarity": "P",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/675742_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              675742
+            ]
+          },
+          "tcgplayer": {
+            "name": "Monkey.D.Luffy - EB04-061 [Serial Number]",
+            "match": "minted",
+            "distance": null
+          }
         }
       ]
     }

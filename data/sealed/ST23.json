@@ -1,0 +1,109 @@
+{
+  "products": [
+    {
+      "id": "starter-deck-23-red-shanks",
+      "set": "ST23",
+      "category": "starter_deck",
+      "name": "Starter Deck 23: RED Shanks",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          627669
+        ]
+      },
+      "contentsStatus": "partial",
+      "contents": {
+        "cards": [
+          {
+            "printing": "OP09-001_p2"
+          },
+          {
+            "printing": "OP09-006_r1"
+          },
+          {
+            "printing": "OP09-010_r1"
+          },
+          {
+            "printing": "OP09-011_r1"
+          },
+          {
+            "printing": "OP09-012_r1"
+          },
+          {
+            "printing": "OP09-013_r1"
+          },
+          {
+            "printing": "OP09-014_r1"
+          },
+          {
+            "printing": "OP09-015_r1"
+          },
+          {
+            "printing": "OP09-016_r1"
+          },
+          {
+            "printing": "OP09-020_r1"
+          },
+          {
+            "printing": "ST23-001"
+          },
+          {
+            "printing": "ST23-002"
+          },
+          {
+            "printing": "ST23-003"
+          },
+          {
+            "printing": "ST23-004"
+          },
+          {
+            "printing": "ST23-005"
+          }
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/627669"
+      ],
+      "releaseDate": "2025-06-06"
+    },
+    {
+      "id": "starter-deck-23-red-shanks-display",
+      "set": "ST23",
+      "category": "display",
+      "name": "Starter Deck 23: RED Shanks Display",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          627670
+        ]
+      },
+      "contentsStatus": "partial",
+      "contents": {
+        "sealed": [
+          {
+            "product": "starter-deck-23-red-shanks"
+          }
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/627670"
+      ],
+      "releaseDate": "2025-06-06"
+    },
+    {
+      "id": "starter-decks-23-28-set-of-6",
+      "set": "ST23",
+      "category": "display",
+      "name": "Starter Decks 23-28 [Set of 6]",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          659940
+        ]
+      },
+      "contentsStatus": "unknown",
+      "contents": {},
+      "sources": [
+        "https://www.tcgplayer.com/product/659940"
+      ],
+      "releaseDate": "2025-06-06"
+    }
+  ]
+}

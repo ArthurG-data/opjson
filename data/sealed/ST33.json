@@ -1,0 +1,92 @@
+{
+  "products": [
+    {
+      "id": "starter-deck-33-blue-kuzan",
+      "set": "ST33",
+      "category": "starter_deck",
+      "name": "Starter Deck 33: BLUE Kuzan",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          704890
+        ]
+      },
+      "contentsStatus": "partial",
+      "contents": {
+        "cards": [
+          {
+            "printing": "EB04-026_r1"
+          },
+          {
+            "printing": "EB04-028_p2"
+          },
+          {
+            "printing": "OP12-040_p2"
+          },
+          {
+            "printing": "OP12-043_r1"
+          },
+          {
+            "printing": "OP12-045_r1"
+          },
+          {
+            "printing": "OP12-046_r1"
+          },
+          {
+            "printing": "OP12-047_r1"
+          },
+          {
+            "printing": "OP12-050_r1"
+          },
+          {
+            "printing": "OP12-052_r1"
+          },
+          {
+            "printing": "OP12-057_r1"
+          },
+          {
+            "printing": "ST33-001"
+          },
+          {
+            "printing": "ST33-002"
+          },
+          {
+            "printing": "ST33-003"
+          },
+          {
+            "printing": "ST33-004"
+          },
+          {
+            "printing": "ST33-005"
+          }
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/704890"
+      ],
+      "releaseDate": "2026-07-31"
+    },
+    {
+      "id": "starter-deck-33-blue-kuzan-display",
+      "set": "ST33",
+      "category": "display",
+      "name": "Starter Deck 33: BLUE Kuzan Display",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          704891
+        ]
+      },
+      "contentsStatus": "partial",
+      "contents": {
+        "sealed": [
+          {
+            "product": "starter-deck-33-blue-kuzan"
+          }
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/704891"
+      ],
+      "releaseDate": "2026-07-31"
+    }
+  ]
+}

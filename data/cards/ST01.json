@@ -23,7 +23,68 @@
           "rarity": "L",
           "block": "1",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST01-001.png",
-          "source": "bandai"
+          "cardSet": "-Straw Hat Crew-[ST-01]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              599769
+            ]
+          },
+          "finishes": [
+            "foil",
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "Monkey.D.Luffy",
+            "match": "image",
+            "distance": 6
+          }
+        },
+        {
+          "id": "ST01-001~tcg412113",
+          "set": "ST01-PRE",
+          "rarity": "L",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/412113_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              412113
+            ]
+          },
+          "tcgplayer": {
+            "name": "Monkey.D.Luffy (001)",
+            "match": "minted",
+            "distance": null
+          },
+          "finishes": [
+            "foil"
+          ],
+          "promoTypes": [
+            {
+              "type": "prerelease",
+              "category": "event"
+            }
+          ]
+        },
+        {
+          "id": "ST01-001~tcg451393",
+          "set": "P",
+          "rarity": "P",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/451393_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              451393
+            ]
+          },
+          "tcgplayer": {
+            "name": "Monkey.D.Luffy - ST01-001 [Serial Number]",
+            "match": "minted",
+            "distance": null
+          },
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
@@ -50,7 +111,21 @@
           "rarity": "C",
           "block": "1",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST01-002.png",
-          "source": "bandai"
+          "cardSet": "-Straw Hat Crew-[ST-01]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              288229
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "Usopp",
+            "match": "image-only-candidate",
+            "distance": 2
+          }
         },
         {
           "id": "ST01-002_p1",
@@ -58,7 +133,31 @@
           "rarity": "C",
           "block": "1",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST01-002_p1.png",
-          "source": "bandai"
+          "cardSet": "Premium Card Collection -FILM RED Edition-",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              504474
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Usopp (Premium Card Collection -ONE PIECE FILM RED Edition-)",
+            "match": "image",
+            "distance": 3
+          },
+          "promoTypes": [
+            {
+              "type": "media",
+              "category": "media"
+            },
+            {
+              "type": "retail_product",
+              "category": "retail"
+            }
+          ]
         },
         {
           "id": "ST01-002_p2",
@@ -66,7 +165,51 @@
           "rarity": "C",
           "block": "1",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST01-002_p2.png",
-          "source": "bandai"
+          "cardSet": "Premium Card Collection -25th Edition-",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              485264
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Usopp - ST01-002 (Alternate Art)",
+            "match": "image",
+            "distance": 5
+          },
+          "treatments": [
+            "alternate_art"
+          ]
+        },
+        {
+          "id": "ST01-002~tcg412744",
+          "set": "ST01-PRE",
+          "rarity": "C",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/412744_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              412744
+            ]
+          },
+          "tcgplayer": {
+            "name": "Usopp",
+            "match": "minted",
+            "distance": 6
+          },
+          "artOf": "ST01-002",
+          "finishes": [
+            "nonfoil"
+          ],
+          "promoTypes": [
+            {
+              "type": "prerelease",
+              "category": "event"
+            }
+          ]
         }
       ]
     },
@@ -94,7 +237,48 @@
           "rarity": "C",
           "block": "1",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST01-003.png",
-          "source": "bandai"
+          "cardSet": "-Straw Hat Crew-[ST-01]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              288230
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "Karoo",
+            "match": "image-only-candidate",
+            "distance": 2
+          }
+        },
+        {
+          "id": "ST01-003~tcg415270",
+          "set": "ST01-PRE",
+          "rarity": "C",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/415270_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              415270
+            ]
+          },
+          "tcgplayer": {
+            "name": "Karoo",
+            "match": "minted",
+            "distance": 3
+          },
+          "artOf": "ST01-003",
+          "finishes": [
+            "nonfoil"
+          ],
+          "promoTypes": [
+            {
+              "type": "prerelease",
+              "category": "event"
+            }
+          ]
         }
       ]
     },
@@ -120,7 +304,21 @@
           "rarity": "C",
           "block": "1",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST01-004.png",
-          "source": "bandai"
+          "cardSet": "-Straw Hat Crew-[ST-01]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              288232
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "Sanji",
+            "match": "image-only-candidate",
+            "distance": 1
+          }
         },
         {
           "id": "ST01-004_p1",
@@ -128,7 +326,22 @@
           "rarity": "C",
           "block": "1",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST01-004_p1.png",
-          "source": "bandai"
+          "cardSet": "Included in Online Regional Participation Pack Vol.1",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              482224
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Sanji (Online Regional 2023) [Participant]",
+            "match": "image",
+            "distance": 10
+          },
+          "artist": "Koushi Rokushiro"
         },
         {
           "id": "ST01-004_p2",
@@ -136,7 +349,152 @@
           "rarity": "C",
           "block": "1",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST01-004_p2.png",
-          "source": "bandai"
+          "cardSet": "Premium Card Collection -FILM RED Edition-",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              504475
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Sanji (Premium Card Collection -ONE PIECE FILM RED Edition-)",
+            "match": "image",
+            "distance": 1
+          },
+          "promoTypes": [
+            {
+              "type": "media",
+              "category": "media"
+            },
+            {
+              "type": "retail_product",
+              "category": "retail"
+            }
+          ]
+        },
+        {
+          "id": "ST01-004~tcg415843",
+          "set": "ST01-PRE",
+          "rarity": "C",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/415843_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              415843
+            ]
+          },
+          "tcgplayer": {
+            "name": "Sanji",
+            "match": "minted",
+            "distance": 6
+          },
+          "artOf": "ST01-004",
+          "finishes": [
+            "nonfoil"
+          ],
+          "promoTypes": [
+            {
+              "type": "prerelease",
+              "category": "event"
+            }
+          ]
+        },
+        {
+          "id": "ST01-004~tcg482225",
+          "set": "P",
+          "rarity": "P",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/482225_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              482225
+            ]
+          },
+          "tcgplayer": {
+            "name": "Sanji (Online Regional 2023) [Finalist]",
+            "match": "minted",
+            "distance": null
+          },
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "ST01-004~tcg482226",
+          "set": "P",
+          "rarity": "P",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/482226_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              482226
+            ]
+          },
+          "tcgplayer": {
+            "name": "Sanji (Online Regional 2023) [Winner]",
+            "match": "minted",
+            "distance": null
+          }
+        },
+        {
+          "id": "ST01-004~tcg483182",
+          "set": "P",
+          "rarity": "P",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/483182_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              483182
+            ]
+          },
+          "tcgplayer": {
+            "name": "Sanji (Offline Regional 2023) [Participant]",
+            "match": "minted",
+            "distance": null
+          },
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "ST01-004~tcg483183",
+          "set": "P",
+          "rarity": "P",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/483183_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              483183
+            ]
+          },
+          "tcgplayer": {
+            "name": "Sanji (Offline Regional 2023) [Finalist]",
+            "match": "minted",
+            "distance": null
+          },
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "ST01-004~tcg483184",
+          "set": "P",
+          "rarity": "P",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/483184_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              483184
+            ]
+          },
+          "tcgplayer": {
+            "name": "Sanji (Offline Regional 2023) [Winner]",
+            "match": "minted",
+            "distance": null
+          }
         }
       ]
     },
@@ -163,7 +521,21 @@
           "rarity": "C",
           "block": "1",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST01-005.png",
-          "source": "bandai"
+          "cardSet": "-Straw Hat Crew-[ST-01]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              599777
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "Jinbe",
+            "match": "image",
+            "distance": 2
+          }
         },
         {
           "id": "ST01-005_p1",
@@ -171,7 +543,24 @@
           "rarity": "C",
           "block": "1",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST01-005_p1.png",
-          "source": "bandai"
+          "cardSet": "Premium Card Collection -25th Edition-",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              485270
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Jinbe - ST01-005 (Alternate Art)",
+            "match": "image",
+            "distance": 6
+          },
+          "treatments": [
+            "alternate_art"
+          ]
         },
         {
           "id": "ST01-005_p2",
@@ -179,7 +568,74 @@
           "rarity": "C",
           "block": "1",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST01-005_p2.png",
-          "source": "bandai"
+          "cardSet": "GIFT COLLECTION 2023 [GC-01]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              523792
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Jinbe (Gift Collection 2023)",
+            "match": "image",
+            "distance": 17
+          },
+          "promoTypes": [
+            {
+              "type": "retail_product",
+              "category": "retail"
+            }
+          ]
+        },
+        {
+          "id": "ST01-005~tcg416474",
+          "set": "ST01-PRE",
+          "rarity": "C",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/416474_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              416474
+            ]
+          },
+          "tcgplayer": {
+            "name": "Jinbe",
+            "match": "minted",
+            "distance": 13
+          },
+          "artOf": "ST01-005",
+          "finishes": [
+            "nonfoil"
+          ],
+          "promoTypes": [
+            {
+              "type": "prerelease",
+              "category": "event"
+            }
+          ]
+        },
+        {
+          "id": "ST01-005~tcg602799",
+          "set": "OP-DD",
+          "rarity": "C",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/602799_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              602799
+            ]
+          },
+          "tcgplayer": {
+            "name": "Jinbe",
+            "match": "minted",
+            "distance": null
+          },
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
@@ -206,7 +662,21 @@
           "rarity": "C",
           "block": "1",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST01-006.png",
-          "source": "bandai"
+          "cardSet": "-Straw Hat Crew-[ST-01]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              288235
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "Tony Tony.Chopper",
+            "match": "image-only-candidate",
+            "distance": 2
+          }
         },
         {
           "id": "ST01-006_p1",
@@ -214,7 +684,32 @@
           "rarity": "C",
           "block": "1",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST01-006_p1.png",
-          "source": "bandai"
+          "cardSet": "Premium Card Collection -FILM RED Edition-",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              504476
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Tony Tony.Chopper (Premium Card Collection -ONE PIECE FILM RED Edition-)",
+            "match": "image",
+            "distance": 1
+          },
+          "promoTypes": [
+            {
+              "type": "media",
+              "category": "media"
+            },
+            {
+              "type": "retail_product",
+              "category": "retail"
+            }
+          ],
+          "artist": "TAPIOCA"
         },
         {
           "id": "ST01-006_p2",
@@ -222,7 +717,24 @@
           "rarity": "C",
           "block": "1",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST01-006_p2.png",
-          "source": "bandai"
+          "cardSet": "Premium Card Collection -25th Edition-",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              485267
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Tony Tony.Chopper - ST01-006 (Alternate Art)",
+            "match": "image",
+            "distance": 2
+          },
+          "treatments": [
+            "alternate_art"
+          ]
         },
         {
           "id": "ST01-006_p3",
@@ -230,14 +742,16 @@
           "rarity": "C",
           "block": "1",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST01-006_p3.png",
+          "cardSet": "GIFT COLLECTION 2023 [GC-01]",
           "source": "bandai"
         },
         {
           "id": "ST01-006_p4",
           "set": "OTHER",
           "rarity": "C",
-          "block": "1",
+          "block": "2",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST01-006_p4.png",
+          "cardSet": "English Version 1st Anniversary Set",
           "source": "bandai"
         },
         {
@@ -246,7 +760,27 @@
           "rarity": "C",
           "block": "1",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST01-006_p6.png",
-          "source": "bandai"
+          "cardSet": "-ONE PIECE CARD THE BEST- [PRB-01]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              586180
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Tony Tony.Chopper (ST01-006) (Jolly Roger Foil)",
+            "match": "image+name",
+            "distance": 2
+          },
+          "promoTypes": [
+            {
+              "type": "jolly_roger_foil",
+              "category": "foil-pattern"
+            }
+          ]
         },
         {
           "id": "ST01-006_p7",
@@ -254,7 +788,24 @@
           "rarity": "C",
           "block": "1",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST01-006_p7.png",
-          "source": "bandai"
+          "cardSet": "-ONE PIECE CARD THE BEST- [PRB-01]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              593574
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Tony Tony.Chopper (ST01-006) (Full Art)",
+            "match": "image",
+            "distance": 4
+          },
+          "treatments": [
+            "full_art"
+          ]
         },
         {
           "id": "ST01-006_p8",
@@ -262,7 +813,25 @@
           "rarity": "C",
           "block": "1",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST01-006_p8.png",
-          "source": "bandai"
+          "cardSet": "-ONE PIECE CARD THE BEST- [PRB-01]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              593575
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Tony Tony.Chopper (ST01-006) (Alternate Art)",
+            "match": "image",
+            "distance": 1
+          },
+          "treatments": [
+            "alternate_art"
+          ],
+          "artist": "TAPIOCA"
         },
         {
           "id": "ST01-006_r1",
@@ -270,7 +839,174 @@
           "rarity": "C",
           "block": "1",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST01-006_r1.png",
+          "cardSet": "-ONE PIECE CARD THE BEST- [PRB-01]",
           "source": "bandai"
+        },
+        {
+          "id": "ST01-006~tcg416671",
+          "set": "ST01-PRE",
+          "rarity": "C",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/416671_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              416671
+            ]
+          },
+          "tcgplayer": {
+            "name": "Tony Tony.Chopper",
+            "match": "minted",
+            "distance": 3
+          },
+          "artOf": "ST01-006",
+          "finishes": [
+            "nonfoil"
+          ],
+          "promoTypes": [
+            {
+              "type": "prerelease",
+              "category": "event"
+            }
+          ]
+        },
+        {
+          "id": "ST01-006~tcg455815",
+          "set": "P",
+          "rarity": "P",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/455815_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              455815
+            ]
+          },
+          "tcgplayer": {
+            "name": "Tony Tony.Chopper - ST01-006 (Treasure Cup)",
+            "match": "minted",
+            "distance": null
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "promoTypes": [
+            {
+              "type": "treasure_cup",
+              "category": "championship"
+            }
+          ]
+        },
+        {
+          "id": "ST01-006~tcg501749",
+          "set": "P",
+          "rarity": "C",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/501749_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              501749
+            ]
+          },
+          "tcgplayer": {
+            "name": "Tony Tony.Chopper (3-on-3 Cup) [Winner]",
+            "match": "minted",
+            "distance": null
+          }
+        },
+        {
+          "id": "ST01-006~tcg501750",
+          "set": "P",
+          "rarity": "C",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/501750_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              501750
+            ]
+          },
+          "tcgplayer": {
+            "name": "Tony Tony.Chopper (3-on-3 Cup) [Participant]",
+            "match": "minted",
+            "distance": null
+          },
+          "finishes": [
+            "nonfoil"
+          ]
+        },
+        {
+          "id": "ST01-006~tcg523819",
+          "set": "P",
+          "rarity": "C",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/523819_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              523819
+            ]
+          },
+          "tcgplayer": {
+            "name": "Tony Tony.Chopper (Gift Collection 2023)",
+            "match": "minted",
+            "distance": null
+          },
+          "finishes": [
+            "foil"
+          ],
+          "promoTypes": [
+            {
+              "type": "retail_product",
+              "category": "retail"
+            }
+          ]
+        },
+        {
+          "id": "ST01-006~tcg557289",
+          "set": "P",
+          "rarity": "C",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/557289_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              557289
+            ]
+          },
+          "tcgplayer": {
+            "name": "Tony Tony.Chopper (English Version 1st Anniversary Set)",
+            "match": "minted",
+            "distance": null
+          },
+          "finishes": [
+            "foil"
+          ],
+          "promoTypes": [
+            {
+              "type": "anniversary",
+              "category": "anniversary"
+            },
+            {
+              "type": "retail_product",
+              "category": "retail"
+            }
+          ]
+        },
+        {
+          "id": "ST01-006~tcg602800",
+          "set": "OP-DD",
+          "rarity": "C",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/602800_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              602800
+            ]
+          },
+          "tcgplayer": {
+            "name": "Tony Tony.Chopper (006)",
+            "match": "minted",
+            "distance": null
+          },
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
@@ -297,7 +1033,21 @@
           "rarity": "C",
           "block": "1",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST01-007.png",
-          "source": "bandai"
+          "cardSet": "-Straw Hat Crew-[ST-01]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              599781
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "Nami",
+            "match": "image",
+            "distance": 4
+          }
         },
         {
           "id": "ST01-007_p1",
@@ -305,7 +1055,32 @@
           "rarity": "C",
           "block": "1",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST01-007_p1.png",
-          "source": "bandai"
+          "cardSet": "Premium Card Collection -FILM RED Edition-",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              504477
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Nami (Premium Card Collection -ONE PIECE FILM RED Edition-)",
+            "match": "image",
+            "distance": 1
+          },
+          "promoTypes": [
+            {
+              "type": "media",
+              "category": "media"
+            },
+            {
+              "type": "retail_product",
+              "category": "retail"
+            }
+          ],
+          "artist": "Koushi Rokushiro"
         },
         {
           "id": "ST01-007_p2",
@@ -313,7 +1088,22 @@
           "rarity": "C",
           "block": "1",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST01-007_p2.png",
-          "source": "bandai"
+          "cardSet": "Tournament Pack Vol.3",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              496999
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "Nami (Tournament Pack Vol. 3) [Participant]",
+            "match": "image",
+            "distance": 4
+          },
+          "artist": "Koushi Rokushiro"
         },
         {
           "id": "ST01-007_p3",
@@ -321,7 +1111,21 @@
           "rarity": "TR",
           "block": "1",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST01-007_p3.png",
-          "source": "bandai"
+          "cardSet": "-WINGS OF THE CAPTAIN-[OP06]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              541664
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Nami (TR)",
+            "match": "image-only-candidate",
+            "distance": 3
+          }
         },
         {
           "id": "ST01-007_p4",
@@ -329,7 +1133,28 @@
           "rarity": "C",
           "block": "1",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST01-007_p4.png",
-          "source": "bandai"
+          "cardSet": "2025 NEW YEAR EVENT",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              610801
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "Nami (2025 New Year Event)",
+            "match": "image",
+            "distance": 7
+          },
+          "promoTypes": [
+            {
+              "type": "event_pack",
+              "category": "event"
+            }
+          ],
+          "artist": "Koushi Rokushiro"
         },
         {
           "id": "ST01-007_p5",
@@ -337,7 +1162,109 @@
           "rarity": "C",
           "block": "1",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST01-007_p5.png",
-          "source": "bandai"
+          "cardSet": "2025 NEW YEAR EVENT",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              610802
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Nami (2025 New Year Event Winner)",
+            "match": "image",
+            "distance": 6
+          },
+          "promoTypes": [
+            {
+              "type": "event_pack",
+              "category": "event"
+            },
+            {
+              "type": "placement",
+              "category": "placement"
+            }
+          ],
+          "artist": "HIRADO SANPEI"
+        },
+        {
+          "id": "ST01-007~tcg416939",
+          "set": "ST01-PRE",
+          "rarity": "C",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/416939_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              416939
+            ]
+          },
+          "tcgplayer": {
+            "name": "Nami",
+            "match": "minted",
+            "distance": 6
+          },
+          "artOf": "ST01-007",
+          "finishes": [
+            "nonfoil"
+          ],
+          "promoTypes": [
+            {
+              "type": "prerelease",
+              "category": "event"
+            }
+          ]
+        },
+        {
+          "id": "ST01-007~tcg497000",
+          "set": "P",
+          "rarity": "P",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/497000_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              497000
+            ]
+          },
+          "tcgplayer": {
+            "name": "Nami (Tournament Pack Vol. 3) [Winner]",
+            "match": "minted",
+            "distance": null
+          },
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "ST01-007~tcg525324",
+          "set": "P",
+          "rarity": "C",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/525324_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              525324
+            ]
+          },
+          "tcgplayer": {
+            "name": "Nami (CS 2023 Celebration Pack)",
+            "match": "minted",
+            "distance": null
+          },
+          "finishes": [
+            "foil"
+          ],
+          "promoTypes": [
+            {
+              "type": "championship",
+              "category": "championship"
+            },
+            {
+              "type": "event_pack",
+              "category": "event"
+            }
+          ]
         }
       ]
     },
@@ -364,7 +1291,21 @@
           "rarity": "C",
           "block": "1",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST01-008.png",
-          "source": "bandai"
+          "cardSet": "-Straw Hat Crew-[ST-01]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              288237
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "Nico Robin",
+            "match": "image-only-candidate",
+            "distance": 5
+          }
         },
         {
           "id": "ST01-008_p1",
@@ -372,7 +1313,24 @@
           "rarity": "C",
           "block": "1",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST01-008_p1.png",
-          "source": "bandai"
+          "cardSet": "Premium Card Collection -25th Edition-",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              485266
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Nico Robin - ST01-008 (Alternate Art)",
+            "match": "image",
+            "distance": 9
+          },
+          "treatments": [
+            "alternate_art"
+          ]
         },
         {
           "id": "ST01-008_p2",
@@ -380,7 +1338,81 @@
           "rarity": "C",
           "block": "1",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST01-008_p2.png",
+          "cardSet": "GIFT COLLECTION 2023 [GC-01]",
           "source": "bandai"
+        },
+        {
+          "id": "ST01-008~tcg417583",
+          "set": "ST01-PRE",
+          "rarity": "C",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/417583_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              417583
+            ]
+          },
+          "tcgplayer": {
+            "name": "Nico Robin",
+            "match": "minted",
+            "distance": 3
+          },
+          "artOf": "ST01-008",
+          "finishes": [
+            "nonfoil"
+          ],
+          "promoTypes": [
+            {
+              "type": "prerelease",
+              "category": "event"
+            }
+          ]
+        },
+        {
+          "id": "ST01-008~tcg523820",
+          "set": "P",
+          "rarity": "C",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/523820_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              523820
+            ]
+          },
+          "tcgplayer": {
+            "name": "Nico Robin (Gift Collection 2023)",
+            "match": "minted",
+            "distance": null
+          },
+          "finishes": [
+            "foil"
+          ],
+          "promoTypes": [
+            {
+              "type": "retail_product",
+              "category": "retail"
+            }
+          ]
+        },
+        {
+          "id": "ST01-008~tcg602801",
+          "set": "OP-DD",
+          "rarity": "C",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/602801_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              602801
+            ]
+          },
+          "tcgplayer": {
+            "name": "Nico Robin",
+            "match": "minted",
+            "distance": null
+          },
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
@@ -407,7 +1439,21 @@
           "rarity": "C",
           "block": "1",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST01-009.png",
-          "source": "bandai"
+          "cardSet": "-Straw Hat Crew-[ST-01]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              288238
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "Nefeltari Vivi",
+            "match": "image-only-candidate",
+            "distance": 3
+          }
         },
         {
           "id": "ST01-009_p1",
@@ -415,7 +1461,69 @@
           "rarity": "C",
           "block": "1",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST01-009_p1.png",
-          "source": "bandai"
+          "cardSet": "Pre-Release OP03",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              497407
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "Nefeltari Vivi (OP-03 Pre-Release Tournament) [Participant]",
+            "match": "image",
+            "distance": 10
+          },
+          "artist": "NAOSHI KOMI"
+        },
+        {
+          "id": "ST01-009~tcg418080",
+          "set": "ST01-PRE",
+          "rarity": "C",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/418080_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              418080
+            ]
+          },
+          "tcgplayer": {
+            "name": "Nefeltari Vivi",
+            "match": "minted",
+            "distance": 4
+          },
+          "artOf": "ST01-009",
+          "finishes": [
+            "nonfoil"
+          ],
+          "promoTypes": [
+            {
+              "type": "prerelease",
+              "category": "event"
+            }
+          ]
+        },
+        {
+          "id": "ST01-009~tcg497408",
+          "set": "P",
+          "rarity": "P",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/497408_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              497408
+            ]
+          },
+          "tcgplayer": {
+            "name": "Nefeltari Vivi (OP-03 Pre-Release Tournament) [Winner]",
+            "match": "minted",
+            "distance": null
+          },
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
@@ -442,7 +1550,21 @@
           "rarity": "C",
           "block": "1",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST01-010.png",
-          "source": "bandai"
+          "cardSet": "-Straw Hat Crew-[ST-01]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              288239
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "Franky",
+            "match": "image-only-candidate",
+            "distance": 4
+          }
         },
         {
           "id": "ST01-010_p1",
@@ -450,15 +1572,104 @@
           "rarity": "C",
           "block": "1",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST01-010_p1.png",
-          "source": "bandai"
+          "cardSet": "Premium Card Collection -25th Edition-",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              485268
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Franky - ST01-010 (Alternate Art)",
+            "match": "image",
+            "distance": 4
+          },
+          "treatments": [
+            "alternate_art"
+          ]
         },
         {
           "id": "ST01-010_p2",
           "set": "OTHER",
           "rarity": "C",
-          "block": "1",
+          "block": "2",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST01-010_p2.png",
-          "source": "bandai"
+          "cardSet": "English Version 1st Anniversary Set",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              557292
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Franky (English Version 1st Anniversary Set)",
+            "match": "image",
+            "distance": 12
+          },
+          "promoTypes": [
+            {
+              "type": "anniversary",
+              "category": "anniversary"
+            },
+            {
+              "type": "retail_product",
+              "category": "retail"
+            }
+          ],
+          "artist": "Ono Tako"
+        },
+        {
+          "id": "ST01-010~tcg418482",
+          "set": "ST01-PRE",
+          "rarity": "C",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/418482_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              418482
+            ]
+          },
+          "tcgplayer": {
+            "name": "Franky",
+            "match": "minted",
+            "distance": 5
+          },
+          "artOf": "ST01-010",
+          "finishes": [
+            "nonfoil"
+          ],
+          "promoTypes": [
+            {
+              "type": "prerelease",
+              "category": "event"
+            }
+          ]
+        },
+        {
+          "id": "ST01-010~tcg602812",
+          "set": "OP-DD",
+          "rarity": "C",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/602812_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              602812
+            ]
+          },
+          "tcgplayer": {
+            "name": "Franky (010)",
+            "match": "minted",
+            "distance": null
+          },
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
@@ -485,7 +1696,21 @@
           "rarity": "C",
           "block": "1",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST01-011.png",
-          "source": "bandai"
+          "cardSet": "-Straw Hat Crew-[ST-01]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              288240
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "Brook",
+            "match": "image-only-candidate",
+            "distance": 5
+          }
         },
         {
           "id": "ST01-011_p1",
@@ -493,7 +1718,32 @@
           "rarity": "C",
           "block": "1",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST01-011_p1.png",
-          "source": "bandai"
+          "cardSet": "Premium Card Collection -FILM RED Edition-",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              504478
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Brook (Premium Card Collection -ONE PIECE FILM RED Edition-)",
+            "match": "image",
+            "distance": 2
+          },
+          "promoTypes": [
+            {
+              "type": "media",
+              "category": "media"
+            },
+            {
+              "type": "retail_product",
+              "category": "retail"
+            }
+          ],
+          "artist": "Hayaken-sarena"
         },
         {
           "id": "ST01-011_p2",
@@ -501,15 +1751,60 @@
           "rarity": "C",
           "block": "1",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST01-011_p2.png",
-          "source": "bandai"
+          "cardSet": "Tournament Pack Vol.4",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              503244
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "Brook (Tournament Pack Vol. 4)",
+            "match": "image",
+            "distance": 2
+          },
+          "promoTypes": [
+            {
+              "type": "event_pack",
+              "category": "event"
+            }
+          ],
+          "artist": "Hayaken-sarena"
         },
         {
           "id": "ST01-011_p3",
           "set": "OTHER",
           "rarity": "C",
-          "block": "1",
+          "block": "2",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST01-011_p3.png",
-          "source": "bandai"
+          "cardSet": "English Version 1st Anniversary Set",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              557287
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Brook (English Version 1st Anniversary Set)",
+            "match": "image",
+            "distance": 27
+          },
+          "promoTypes": [
+            {
+              "type": "anniversary",
+              "category": "anniversary"
+            },
+            {
+              "type": "retail_product",
+              "category": "retail"
+            }
+          ]
         },
         {
           "id": "ST01-011_p4",
@@ -517,7 +1812,28 @@
           "rarity": "C",
           "block": "1",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST01-011_p4.png",
-          "source": "bandai"
+          "cardSet": "-ONE PIECE CARD THE BEST vol.2- [PRB-02]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              656205
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Brook - ST01-011 (Pirate Foil)",
+            "match": "image",
+            "distance": 3
+          },
+          "promoTypes": [
+            {
+              "type": "pirate_foil",
+              "category": "foil-pattern"
+            }
+          ],
+          "artist": "Hayaken-sarena"
         },
         {
           "id": "ST01-011_p5",
@@ -525,7 +1841,32 @@
           "rarity": "C",
           "block": "1",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST01-011_p5.png",
-          "source": "bandai"
+          "cardSet": "Premium Card Collection -BANDAI CARD GAMES Fest. 23-24 Edition-",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              525325
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Brook (CS 2023 Celebration Pack)",
+            "match": "image",
+            "distance": 20
+          },
+          "promoTypes": [
+            {
+              "type": "championship",
+              "category": "championship"
+            },
+            {
+              "type": "event_pack",
+              "category": "event"
+            }
+          ],
+          "artist": "Ono Tako"
         },
         {
           "id": "ST01-011_r1",
@@ -533,7 +1874,128 @@
           "rarity": "C",
           "block": "1",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST01-011_r1.png",
-          "source": "bandai"
+          "cardSet": "-ONE PIECE CARD THE BEST vol.2- [PRB-02]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              656201
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "Brook - ST01-011 (Reprint)",
+            "match": "image",
+            "distance": 4
+          },
+          "treatments": [
+            "reprint"
+          ],
+          "artOf": "ST01-011"
+        },
+        {
+          "id": "ST01-011~tcg418673",
+          "set": "ST01-PRE",
+          "rarity": "C",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/418673_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              418673
+            ]
+          },
+          "tcgplayer": {
+            "name": "Brook",
+            "match": "minted",
+            "distance": 3
+          },
+          "artOf": "ST01-011",
+          "finishes": [
+            "nonfoil"
+          ],
+          "promoTypes": [
+            {
+              "type": "prerelease",
+              "category": "event"
+            }
+          ]
+        },
+        {
+          "id": "ST01-011~tcg503248",
+          "set": "P",
+          "rarity": "C",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/503248_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              503248
+            ]
+          },
+          "tcgplayer": {
+            "name": "Brook (Winner Pack Vol. 4)",
+            "match": "minted",
+            "distance": null
+          },
+          "finishes": [
+            "foil"
+          ],
+          "promoTypes": [
+            {
+              "type": "placement",
+              "category": "placement"
+            }
+          ]
+        },
+        {
+          "id": "ST01-011~tcg564251",
+          "set": "P",
+          "rarity": "C",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/564251_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              564251
+            ]
+          },
+          "tcgplayer": {
+            "name": "Brook (Premium Card Collection -BANDAI CARD GAMES Fest. 23-24 Edition-)",
+            "match": "minted",
+            "distance": null
+          },
+          "finishes": [
+            "foil"
+          ],
+          "promoTypes": [
+            {
+              "type": "convention",
+              "category": "event"
+            },
+            {
+              "type": "retail_product",
+              "category": "retail"
+            }
+          ]
+        },
+        {
+          "id": "ST01-011~tcg602802",
+          "set": "OP-DD",
+          "rarity": "C",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/602802_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              602802
+            ]
+          },
+          "tcgplayer": {
+            "name": "Brook",
+            "match": "minted",
+            "distance": null
+          },
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
@@ -560,7 +2022,21 @@
           "rarity": "SR",
           "block": "1",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST01-012.png",
-          "source": "bandai"
+          "cardSet": "-Straw Hat Crew-[ST-01]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              288241
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Monkey.D.Luffy (012)",
+            "match": "image-only-candidate",
+            "distance": 10
+          }
         },
         {
           "id": "ST01-012_p1",
@@ -568,7 +2044,24 @@
           "rarity": "SP CARD",
           "block": "1",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST01-012_p1.png",
-          "source": "bandai"
+          "cardSet": "-PILLARS OF STRENGTH- [OP03]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              501678
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Monkey.D.Luffy (Wanted Poster)",
+            "match": "image-only-candidate",
+            "distance": 0
+          },
+          "treatments": [
+            "wanted_poster"
+          ]
         },
         {
           "id": "ST01-012_p2",
@@ -576,7 +2069,24 @@
           "rarity": "SR",
           "block": "1",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST01-012_p2.png",
-          "source": "bandai"
+          "cardSet": "-AWAKENING OF THE NEW ERA-[OP05]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              527027
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Monkey.D.Luffy (012) (Alternate Art)",
+            "match": "image",
+            "distance": 8
+          },
+          "treatments": [
+            "alternate_art"
+          ]
         },
         {
           "id": "ST01-012_p3",
@@ -584,7 +2094,30 @@
           "rarity": "SR",
           "block": "1",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST01-012_p3.png",
-          "source": "bandai"
+          "cardSet": "-AWAKENING OF THE NEW ERA-[OP05]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              529850
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Monkey.D.Luffy (012) (Alternate Art) (Gold-Stamped Signature)",
+            "match": "image",
+            "distance": 2
+          },
+          "treatments": [
+            "alternate_art"
+          ],
+          "promoTypes": [
+            {
+              "type": "stamped",
+              "category": "mark"
+            }
+          ]
         },
         {
           "id": "ST01-012_p4",
@@ -592,7 +2125,27 @@
           "rarity": "SR",
           "block": "1",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST01-012_p4.png",
-          "source": "bandai"
+          "cardSet": "Tournament Pack Vol.5",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              519814
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "Monkey.D.Luffy (Tournament Pack Vol. 5)",
+            "match": "image",
+            "distance": 3
+          },
+          "promoTypes": [
+            {
+              "type": "event_pack",
+              "category": "event"
+            }
+          ]
         },
         {
           "id": "ST01-012_p5",
@@ -600,6 +2153,7 @@
           "rarity": "SR",
           "block": "1",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST01-012_p5.png",
+          "cardSet": "3rd Anniversary Event",
           "source": "bandai"
         },
         {
@@ -608,7 +2162,140 @@
           "rarity": "SR",
           "block": "1",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST01-012_p6.png",
-          "source": "bandai"
+          "cardSet": "3rd Anniversary Event",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              657798
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Monkey.D.Luffy - ST01-012 (3rd Anniversary Winner)",
+            "match": "image",
+            "distance": 3
+          },
+          "promoTypes": [
+            {
+              "type": "anniversary",
+              "category": "anniversary"
+            },
+            {
+              "type": "placement",
+              "category": "placement"
+            }
+          ]
+        },
+        {
+          "id": "ST01-012~tcg418873",
+          "set": "ST01-PRE",
+          "rarity": "SR",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/418873_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              418873
+            ]
+          },
+          "tcgplayer": {
+            "name": "Monkey.D.Luffy (012)",
+            "match": "minted",
+            "distance": 8
+          },
+          "artOf": "ST01-012",
+          "finishes": [
+            "foil"
+          ],
+          "promoTypes": [
+            {
+              "type": "prerelease",
+              "category": "event"
+            }
+          ]
+        },
+        {
+          "id": "ST01-012~tcg519815",
+          "set": "P",
+          "rarity": "SR",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/519815_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              519815
+            ]
+          },
+          "tcgplayer": {
+            "name": "Monkey.D.Luffy (Winner Pack Vol. 5)",
+            "match": "minted",
+            "distance": null
+          },
+          "finishes": [
+            "foil"
+          ],
+          "promoTypes": [
+            {
+              "type": "placement",
+              "category": "placement"
+            }
+          ]
+        },
+        {
+          "id": "ST01-012~tcg580050",
+          "set": "P",
+          "rarity": "SR",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/580050_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              580050
+            ]
+          },
+          "tcgplayer": {
+            "name": "Monkey.D.Luffy (CS 2024 Celebration Pack)",
+            "match": "minted",
+            "distance": null
+          },
+          "finishes": [
+            "foil"
+          ],
+          "promoTypes": [
+            {
+              "type": "championship",
+              "category": "championship"
+            },
+            {
+              "type": "event_pack",
+              "category": "event"
+            }
+          ]
+        },
+        {
+          "id": "ST01-012~tcg661882",
+          "set": "OP13-ANN",
+          "rarity": "SR",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/661882_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              661882
+            ]
+          },
+          "tcgplayer": {
+            "name": "Monkey.D.Luffy - ST01-012 (3rd Anniversary Tournament 3 Brothers Pack)",
+            "match": "minted",
+            "distance": null
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "promoTypes": [
+            {
+              "type": "anniversary",
+              "category": "anniversary"
+            }
+          ]
         }
       ]
     },
@@ -635,7 +2322,21 @@
           "rarity": "SR",
           "block": "1",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST01-013.png",
-          "source": "bandai"
+          "cardSet": "-Straw Hat Crew-[ST-01]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              288242
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Roronoa Zoro",
+            "match": "image-only-candidate",
+            "distance": 3
+          }
         },
         {
           "id": "ST01-013_p1",
@@ -643,7 +2344,32 @@
           "rarity": "SR",
           "block": "1",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST01-013_p1.png",
-          "source": "bandai"
+          "cardSet": "Premium Card Collection -FILM RED Edition-",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              504480
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Roronoa Zoro (Premium Card Collection -ONE PIECE FILM RED Edition-)",
+            "match": "image",
+            "distance": 0
+          },
+          "promoTypes": [
+            {
+              "type": "media",
+              "category": "media"
+            },
+            {
+              "type": "retail_product",
+              "category": "retail"
+            }
+          ],
+          "artist": "kankurou"
         },
         {
           "id": "ST01-013_p2",
@@ -651,7 +2377,114 @@
           "rarity": "SR",
           "block": "1",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST01-013_p2.png",
-          "source": "bandai"
+          "cardSet": "GIFT COLLECTION 2023 [GC-01]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              523812
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Roronoa Zoro (Gift Collection 2023)",
+            "match": "image",
+            "distance": 27
+          },
+          "promoTypes": [
+            {
+              "type": "retail_product",
+              "category": "retail"
+            }
+          ]
+        },
+        {
+          "id": "ST01-013~tcg419388",
+          "set": "ST01-PRE",
+          "rarity": "SR",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/419388_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              419388
+            ]
+          },
+          "tcgplayer": {
+            "name": "Roronoa Zoro",
+            "match": "minted",
+            "distance": 3
+          },
+          "artOf": "ST01-013",
+          "finishes": [
+            "foil"
+          ],
+          "promoTypes": [
+            {
+              "type": "prerelease",
+              "category": "event"
+            }
+          ]
+        },
+        {
+          "id": "ST01-013~tcg455816",
+          "set": "P",
+          "rarity": "P",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/455816_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              455816
+            ]
+          },
+          "tcgplayer": {
+            "name": "Roronoa Zoro - ST01-013 (Treasure Cup)",
+            "match": "minted",
+            "distance": null
+          },
+          "finishes": [
+            "foil"
+          ],
+          "promoTypes": [
+            {
+              "type": "treasure_cup",
+              "category": "championship"
+            }
+          ]
+        },
+        {
+          "id": "ST01-013~tcg503253",
+          "set": "P",
+          "rarity": "SR",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/503253_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              503253
+            ]
+          },
+          "tcgplayer": {
+            "name": "Roronoa Zoro (3-on-3 Cup) [Participant]",
+            "match": "minted",
+            "distance": null
+          }
+        },
+        {
+          "id": "ST01-013~tcg503254",
+          "set": "P",
+          "rarity": "SR",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/503254_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              503254
+            ]
+          },
+          "tcgplayer": {
+            "name": "Roronoa Zoro (3-on-3 Cup) [Winner]",
+            "match": "minted",
+            "distance": null
+          }
         }
       ]
     },
@@ -674,6 +2507,7 @@
           "rarity": "C",
           "block": "1",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST01-014.png",
+          "cardSet": "-Straw Hat Crew-[ST-01]",
           "source": "bandai"
         },
         {
@@ -682,7 +2516,9 @@
           "rarity": "C",
           "block": "1",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST01-014_p2.png",
-          "source": "bandai"
+          "cardSet": "-ONE PIECE CARD THE BEST- [PRB-01]",
+          "source": "bandai",
+          "artOf": "ST01-014"
         },
         {
           "id": "ST01-014_p3",
@@ -690,7 +2526,9 @@
           "rarity": "C",
           "block": "1",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST01-014_p3.png",
-          "source": "bandai"
+          "cardSet": "-ONE PIECE CARD THE BEST- [PRB-01]",
+          "source": "bandai",
+          "artOf": "ST01-014"
         },
         {
           "id": "ST01-014_r1",
@@ -698,7 +2536,56 @@
           "rarity": "C",
           "block": "1",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST01-014_r1.png",
-          "source": "bandai"
+          "cardSet": "-ONE PIECE CARD THE BEST- [PRB-01]",
+          "source": "bandai",
+          "artOf": "ST01-014"
+        },
+        {
+          "id": "ST01-014~tcg419678",
+          "set": "ST01-PRE",
+          "rarity": "C",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/419678_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              419678
+            ]
+          },
+          "tcgplayer": {
+            "name": "Guard Point",
+            "match": "minted",
+            "distance": 5
+          },
+          "artOf": "ST01-014",
+          "finishes": [
+            "nonfoil"
+          ],
+          "promoTypes": [
+            {
+              "type": "prerelease",
+              "category": "event"
+            }
+          ]
+        },
+        {
+          "id": "ST01-014~tcg602803",
+          "set": "OP-DD",
+          "rarity": "C",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/602803_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              602803
+            ]
+          },
+          "tcgplayer": {
+            "name": "Guard Point",
+            "match": "minted",
+            "distance": null
+          },
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
@@ -721,7 +2608,21 @@
           "rarity": "C",
           "block": "1",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST01-015.png",
-          "source": "bandai"
+          "cardSet": "-Straw Hat Crew-[ST-01]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              599789
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "Gum-Gum Jet Pistol",
+            "match": "image",
+            "distance": 1
+          }
         },
         {
           "id": "ST01-015_p1",
@@ -729,7 +2630,163 @@
           "rarity": "C",
           "block": "1",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST01-015_p1.png",
-          "source": "bandai"
+          "cardSet": "Offline Regional Participation Pack 2024 Vol. 1",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              539192
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Gum-Gum Jet Pistol (Online Regional 2024) [Participant]",
+            "match": "image",
+            "distance": 7
+          },
+          "artist": "Makitoshi"
+        },
+        {
+          "id": "ST01-015~tcg419963",
+          "set": "ST01-PRE",
+          "rarity": "C",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/419963_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              419963
+            ]
+          },
+          "tcgplayer": {
+            "name": "Gum-Gum Jet Pistol",
+            "match": "minted",
+            "distance": 4
+          },
+          "artOf": "ST01-015",
+          "finishes": [
+            "nonfoil"
+          ],
+          "promoTypes": [
+            {
+              "type": "prerelease",
+              "category": "event"
+            }
+          ]
+        },
+        {
+          "id": "ST01-015~tcg539193",
+          "set": "P",
+          "rarity": "C",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/539193_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              539193
+            ]
+          },
+          "tcgplayer": {
+            "name": "Gum-Gum Jet Pistol (Online Regional 2024) [Finalist]",
+            "match": "minted",
+            "distance": null
+          },
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "ST01-015~tcg539194",
+          "set": "P",
+          "rarity": "C",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/539194_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              539194
+            ]
+          },
+          "tcgplayer": {
+            "name": "Gum-Gum Jet Pistol (Online Regional 2024) [Winner]",
+            "match": "minted",
+            "distance": null
+          }
+        },
+        {
+          "id": "ST01-015~tcg539195",
+          "set": "P",
+          "rarity": "C",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/539195_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              539195
+            ]
+          },
+          "tcgplayer": {
+            "name": "Gum-Gum Jet Pistol (Offline Regional 2024) [Participant]",
+            "match": "minted",
+            "distance": null
+          },
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "ST01-015~tcg539196",
+          "set": "P",
+          "rarity": "C",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/539196_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              539196
+            ]
+          },
+          "tcgplayer": {
+            "name": "Gum-Gum Jet Pistol (Offline Regional 2024) [Finalist]",
+            "match": "minted",
+            "distance": null
+          },
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "ST01-015~tcg539197",
+          "set": "P",
+          "rarity": "C",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/539197_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              539197
+            ]
+          },
+          "tcgplayer": {
+            "name": "Gum-Gum Jet Pistol (Offline Regional 2024) [Winner]",
+            "match": "minted",
+            "distance": null
+          }
+        },
+        {
+          "id": "ST01-015~tcg602804",
+          "set": "OP-DD",
+          "rarity": "C",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/602804_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              602804
+            ]
+          },
+          "tcgplayer": {
+            "name": "Gum-Gum Jet Pistol",
+            "match": "minted",
+            "distance": null
+          },
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
@@ -751,7 +2808,48 @@
           "rarity": "C",
           "block": "1",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST01-016.png",
-          "source": "bandai"
+          "cardSet": "-Straw Hat Crew-[ST-01]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              599793
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "Diable Jambe",
+            "match": "image",
+            "distance": 5
+          }
+        },
+        {
+          "id": "ST01-016~tcg420304",
+          "set": "ST01-PRE",
+          "rarity": "C",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/420304_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              420304
+            ]
+          },
+          "tcgplayer": {
+            "name": "Diable Jambe",
+            "match": "minted",
+            "distance": 5
+          },
+          "artOf": "ST01-016",
+          "finishes": [
+            "nonfoil"
+          ],
+          "promoTypes": [
+            {
+              "type": "prerelease",
+              "category": "event"
+            }
+          ]
         }
       ]
     },
@@ -773,7 +2871,70 @@
           "rarity": "C",
           "block": "1",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST01-017.png",
-          "source": "bandai"
+          "cardSet": "-Straw Hat Crew-[ST-01]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              599801
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "Thousand Sunny",
+            "match": "image",
+            "distance": 3
+          },
+          "artist": "Kazuyuki Hayashi"
+        },
+        {
+          "id": "ST01-017~tcg421107",
+          "set": "ST01-PRE",
+          "rarity": "C",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/421107_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              421107
+            ]
+          },
+          "tcgplayer": {
+            "name": "Thousand Sunny",
+            "match": "minted",
+            "distance": 6
+          },
+          "artOf": "ST01-017",
+          "finishes": [
+            "nonfoil"
+          ],
+          "promoTypes": [
+            {
+              "type": "prerelease",
+              "category": "event"
+            }
+          ],
+          "artist": "Kazuyuki Hayashi"
+        },
+        {
+          "id": "ST01-017~tcg602805",
+          "set": "OP-DD",
+          "rarity": "C",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/602805_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              602805
+            ]
+          },
+          "tcgplayer": {
+            "name": "Thousand Sunny",
+            "match": "minted",
+            "distance": null
+          },
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     }

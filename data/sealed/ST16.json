@@ -1,0 +1,115 @@
+{
+  "products": [
+    {
+      "id": "starter-deck-16-green-uta",
+      "set": "ST16",
+      "category": "starter_deck",
+      "name": "Starter Deck 16: GREEN Uta",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          545036
+        ]
+      },
+      "contentsStatus": "partial",
+      "contents": {
+        "cards": [
+          {
+            "printing": "P-029_r1"
+          },
+          {
+            "printing": "P-057_p1"
+          },
+          {
+            "printing": "P-058_p1"
+          },
+          {
+            "printing": "P-059_p1"
+          },
+          {
+            "printing": "P-060_p1"
+          },
+          {
+            "printing": "P-061_r1"
+          },
+          {
+            "printing": "ST11-001_p1"
+          },
+          {
+            "printing": "ST11-003_p2"
+          },
+          {
+            "printing": "ST11-004_p2"
+          },
+          {
+            "printing": "ST11-005_p2"
+          },
+          {
+            "printing": "ST16-001"
+          },
+          {
+            "printing": "ST16-002"
+          },
+          {
+            "printing": "ST16-003"
+          },
+          {
+            "printing": "ST16-004"
+          },
+          {
+            "printing": "ST16-005"
+          }
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/545036"
+      ],
+      "releaseDate": "2024-10-25"
+    },
+    {
+      "id": "starter-deck-16-green-uta-display",
+      "set": "ST16",
+      "category": "display",
+      "name": "Starter Deck 16: GREEN Uta Display",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          545037
+        ]
+      },
+      "contentsStatus": "partial",
+      "contents": {
+        "sealed": [
+          {
+            "product": "starter-deck-16-green-uta"
+          }
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/545037"
+      ],
+      "releaseDate": "2024-10-25"
+    },
+    {
+      "id": "starter-deck-16-green-uta-display-case",
+      "set": "ST16",
+      "category": "case",
+      "name": "Starter Deck 16: GREEN Uta Display Case",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          545038
+        ]
+      },
+      "contentsStatus": "partial",
+      "contents": {
+        "sealed": [
+          {
+            "product": "starter-deck-16-green-uta"
+          }
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/545038"
+      ],
+      "releaseDate": "2024-10-25"
+    }
+  ]
+}

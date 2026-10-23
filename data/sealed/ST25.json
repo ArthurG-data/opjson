@@ -1,0 +1,92 @@
+{
+  "products": [
+    {
+      "id": "starter-deck-25-blue-buggy",
+      "set": "ST25",
+      "category": "starter_deck",
+      "name": "Starter Deck 25: BLUE Buggy",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          627674
+        ]
+      },
+      "contentsStatus": "partial",
+      "contents": {
+        "cards": [
+          {
+            "printing": "OP09-042_p2"
+          },
+          {
+            "printing": "OP09-043_r1"
+          },
+          {
+            "printing": "OP09-045_r1"
+          },
+          {
+            "printing": "OP09-051_r1"
+          },
+          {
+            "printing": "OP09-053_r1"
+          },
+          {
+            "printing": "OP09-054_r1"
+          },
+          {
+            "printing": "OP09-055_r1"
+          },
+          {
+            "printing": "OP09-056_r1"
+          },
+          {
+            "printing": "OP09-057_r1"
+          },
+          {
+            "printing": "P-084"
+          },
+          {
+            "printing": "ST25-001"
+          },
+          {
+            "printing": "ST25-002"
+          },
+          {
+            "printing": "ST25-003"
+          },
+          {
+            "printing": "ST25-004"
+          },
+          {
+            "printing": "ST25-005"
+          }
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/627674"
+      ],
+      "releaseDate": "2025-06-06"
+    },
+    {
+      "id": "starter-deck-25-blue-buggy-display",
+      "set": "ST25",
+      "category": "display",
+      "name": "Starter Deck 25: BLUE Buggy Display",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          627675
+        ]
+      },
+      "contentsStatus": "partial",
+      "contents": {
+        "sealed": [
+          {
+            "product": "starter-deck-25-blue-buggy"
+          }
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/627675"
+      ],
+      "releaseDate": "2025-06-06"
+    }
+  ]
+}

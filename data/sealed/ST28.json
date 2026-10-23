@@ -1,0 +1,92 @@
+{
+  "products": [
+    {
+      "id": "starter-deck-28-green-yellow-yamato",
+      "set": "ST28",
+      "category": "starter_deck",
+      "name": "Starter Deck 28: GREEN/YELLOW Yamato",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          627681
+        ]
+      },
+      "contentsStatus": "partial",
+      "contents": {
+        "cards": [
+          {
+            "printing": "OP06-022_p3"
+          },
+          {
+            "printing": "OP06-100_r2"
+          },
+          {
+            "printing": "OP06-103_r1"
+          },
+          {
+            "printing": "OP06-104_r1"
+          },
+          {
+            "printing": "OP06-109_r1"
+          },
+          {
+            "printing": "OP06-110_r2"
+          },
+          {
+            "printing": "OP06-112_r1"
+          },
+          {
+            "printing": "OP07-116_p1"
+          },
+          {
+            "printing": "OP09-035_r1"
+          },
+          {
+            "printing": "ST13-016_r1"
+          },
+          {
+            "printing": "ST28-001"
+          },
+          {
+            "printing": "ST28-002"
+          },
+          {
+            "printing": "ST28-003"
+          },
+          {
+            "printing": "ST28-004"
+          },
+          {
+            "printing": "ST28-005"
+          }
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/627681"
+      ],
+      "releaseDate": "2025-06-06"
+    },
+    {
+      "id": "starter-deck-28-green-yellow-yamato-display",
+      "set": "ST28",
+      "category": "display",
+      "name": "Starter Deck 28: GREEN/YELLOW Yamato Display",
+      "identifiers": {
+        "tcgplayerProductIds": [
+          627680
+        ]
+      },
+      "contentsStatus": "partial",
+      "contents": {
+        "sealed": [
+          {
+            "product": "starter-deck-28-green-yellow-yamato"
+          }
+        ]
+      },
+      "sources": [
+        "https://www.tcgplayer.com/product/627680"
+      ],
+      "releaseDate": "2025-06-06"
+    }
+  ]
+}

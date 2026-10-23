@@ -23,7 +23,22 @@
           "rarity": "C",
           "block": "3",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST15-001.png",
-          "source": "bandai"
+          "cardSet": "-Red Edward.Newgate- [ST-15]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              580986
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "Atmos",
+            "match": "image-only-candidate",
+            "distance": 1
+          },
+          "artist": "HISASHI HUJIWARA"
         }
       ]
     },
@@ -50,7 +65,22 @@
           "rarity": "SR",
           "block": "3",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST15-002.png",
-          "source": "bandai"
+          "cardSet": "-Red Edward.Newgate- [ST-15]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              580987
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Edward.Newgate (ST15-002)",
+            "match": "image-only-candidate",
+            "distance": 1
+          },
+          "artist": "Hokuyuu"
         },
         {
           "id": "ST15-002_p1",
@@ -58,7 +88,25 @@
           "rarity": "SP CARD",
           "block": "3",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST15-002_p1.png",
-          "source": "bandai"
+          "cardSet": "-ROYAL BLOOD- [OP-10]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              617176
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Edward.Newgate (SP)",
+            "match": "image-only-candidate",
+            "distance": 0
+          },
+          "treatments": [
+            "sp"
+          ],
+          "artist": "Bashikou"
         },
         {
           "id": "ST15-002_p2",
@@ -66,7 +114,25 @@
           "rarity": "SR",
           "block": "3",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST15-002_p2.png",
-          "source": "bandai"
+          "cardSet": "-ONE PIECE CARD THE BEST vol.2- [PRB-02]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              653838
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Edward.Newgate - ST15-002 (Alternate Art)",
+            "match": "image",
+            "distance": 3
+          },
+          "treatments": [
+            "alternate_art"
+          ],
+          "artist": "Hokuyuu"
         },
         {
           "id": "ST15-002_r1",
@@ -74,7 +140,56 @@
           "rarity": "SR",
           "block": "3",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST15-002_r1.png",
-          "source": "bandai"
+          "cardSet": "-ONE PIECE CARD THE BEST vol.2- [PRB-02]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              656072
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Edward.Newgate - ST15-002 (Reprint)",
+            "match": "image",
+            "distance": 1
+          },
+          "treatments": [
+            "reprint"
+          ],
+          "artOf": "ST15-002",
+          "artist": "Hokuyuu"
+        },
+        {
+          "id": "ST15-002~tcg714354",
+          "set": "P",
+          "rarity": "SR",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/714354_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              714354
+            ]
+          },
+          "tcgplayer": {
+            "name": "Edward.Newgate (4th Anniversary Treasure Campaign Pack)",
+            "match": "minted",
+            "distance": null
+          },
+          "finishes": [
+            "foil"
+          ],
+          "promoTypes": [
+            {
+              "type": "anniversary",
+              "category": "anniversary"
+            },
+            {
+              "type": "retail_product",
+              "category": "retail"
+            }
+          ]
         }
       ]
     },
@@ -101,7 +216,42 @@
           "rarity": "C",
           "block": "3",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST15-003.png",
-          "source": "bandai"
+          "cardSet": "-Red Edward.Newgate- [ST-15]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              580988
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "Kingdew",
+            "match": "image-only-candidate",
+            "distance": 3
+          },
+          "artist": "shosuke"
+        },
+        {
+          "id": "ST15-003~tcg716518",
+          "set": "SD01",
+          "rarity": "C",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/716518_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              716518
+            ]
+          },
+          "tcgplayer": {
+            "name": "Kingdew (Ace Deck)",
+            "match": "minted",
+            "distance": null
+          },
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
@@ -128,7 +278,74 @@
           "rarity": "C",
           "block": "3",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST15-004.png",
-          "source": "bandai"
+          "cardSet": "-Red Edward.Newgate- [ST-15]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              580989
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "Thatch",
+            "match": "image-only-candidate",
+            "distance": 3
+          },
+          "artist": "HISASHI HUJIWARA"
+        },
+        {
+          "id": "ST15-004~tcg722637",
+          "set": "P",
+          "rarity": "C",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/722637_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              722637
+            ]
+          },
+          "tcgplayer": {
+            "name": "Thatch (Tournament Pack 2026 Vol. 4)",
+            "match": "minted",
+            "distance": null
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "promoTypes": [
+            {
+              "type": "event_pack",
+              "category": "event"
+            }
+          ]
+        },
+        {
+          "id": "ST15-004~tcg722638",
+          "set": "P",
+          "rarity": "C",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/722638_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              722638
+            ]
+          },
+          "tcgplayer": {
+            "name": "Thatch (Winner Pack 2026 Vol. 4)",
+            "match": "minted",
+            "distance": null
+          },
+          "finishes": [
+            "foil"
+          ],
+          "promoTypes": [
+            {
+              "type": "placement",
+              "category": "placement"
+            }
+          ]
         }
       ]
     },
@@ -155,7 +372,22 @@
           "rarity": "SR",
           "block": "3",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST15-005.png",
-          "source": "bandai"
+          "cardSet": "-Red Edward.Newgate- [ST-15]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              580990
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Portgas.D.Ace",
+            "match": "image-only-candidate",
+            "distance": 2
+          },
+          "artist": "DAI-XT."
         },
         {
           "id": "ST15-005_p1",
@@ -163,7 +395,29 @@
           "rarity": "SR",
           "block": "3",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST15-005_p1.png",
-          "source": "bandai"
+          "cardSet": "CS 25-26 Top Player Pack",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              649676
+            ]
+          },
+          "tcgplayer": {
+            "name": "Portgas.D.Ace (CS 25-26 Top Player Pack)",
+            "match": "image",
+            "distance": 2
+          },
+          "promoTypes": [
+            {
+              "type": "championship",
+              "category": "championship"
+            },
+            {
+              "type": "placement",
+              "category": "placement"
+            }
+          ],
+          "artist": "Melo Kyuba"
         },
         {
           "id": "ST15-005_p2",
@@ -171,7 +425,30 @@
           "rarity": "SR",
           "block": "3",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST15-005_p2.png",
-          "source": "bandai"
+          "cardSet": "CS 25-26 Finalist Card Set 1",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              649660
+            ]
+          },
+          "tcgplayer": {
+            "name": "Portgas.D.Ace (CS 25-26 Finalist Card Set 1)",
+            "match": "image+cardset",
+            "distance": 2
+          },
+          "promoTypes": [
+            {
+              "type": "championship",
+              "category": "championship"
+            },
+            {
+              "type": "placement",
+              "category": "placement"
+            }
+          ],
+          "artOf": "ST15-005_p1",
+          "artist": "Hashimoto Q"
         },
         {
           "id": "ST15-005_p3",
@@ -179,7 +456,28 @@
           "rarity": "SR",
           "block": "3",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST15-005_p3.png",
-          "source": "bandai"
+          "cardSet": "Illustration Box Vol.5",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              671735
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Portgas.D.Ace (Illustration Box Vol.5)",
+            "match": "image",
+            "distance": 19
+          },
+          "promoTypes": [
+            {
+              "type": "retail_product",
+              "category": "retail"
+            }
+          ],
+          "artist": "Makitoshi"
         },
         {
           "id": "ST15-005_p4",
@@ -187,7 +485,32 @@
           "rarity": "SR",
           "block": "3",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST15-005_p4.png",
-          "source": "bandai"
+          "cardSet": "Japanese 3rd ANNIVERSARY SET",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              680490
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Portgas.D.Ace (Japanese Version 3rd Anniversary Set)",
+            "match": "image",
+            "distance": 4
+          },
+          "promoTypes": [
+            {
+              "type": "anniversary",
+              "category": "anniversary"
+            },
+            {
+              "type": "retail_product",
+              "category": "retail"
+            }
+          ],
+          "artist": "Hashimoto Q"
         },
         {
           "id": "ST15-005_p5",
@@ -195,7 +518,24 @@
           "rarity": "SP CARD",
           "block": "3",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST15-005_p5.png",
-          "source": "bandai"
+          "cardSet": "-THE TIME OF BATTLE- [OP-16]",
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              695508
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Portgas.D.Ace (SP)",
+            "match": "image-only-candidate",
+            "distance": 3
+          },
+          "treatments": [
+            "sp"
+          ]
         }
       ]
     }

@@ -1,4 +1,4 @@
-"""Write dist/AllSets.json, AllCards.json, AllPrintings.json and AllProducts.json. Refuses to build invalid data.
+"""Write dist/AllSets.json, AllCards.json, AllPrintings.json, AllProducts.json and Legality.json. Refuses to build invalid data.
 
     uv run python tools/build.py --version 0.1.0
 """
@@ -30,6 +30,14 @@ def main() -> None:
                       ("AllProducts", "products")):
         (DIST / f"{name}.json").write_text(json.dumps({"meta": meta, "data": flat[key]}, ensure_ascii=False,
                                                       sort_keys=True), encoding="utf-8")
+    import legality
+    formats, designations, bans = legality.load()
+    problems = legality.validate(formats, designations, bans, set(flat["cards"]))
+    if problems:
+        sys.exit("refusing to build:\n" + "\n".join(problems))
+    (DIST / "Legality.json").write_text(json.dumps({"meta": meta, "data": {
+        "formats": formats["formats"], "blockDesignations": designations["designations"], "bans": bans["events"]}},
+        ensure_ascii=False, sort_keys=True), encoding="utf-8")
     print(f"dist/ written: {len(flat['sets'])} sets, {len(flat['cards'])} cards, {len(flat['printings'])} printings, "
           f"{len(flat['products'])} sealed products")
 

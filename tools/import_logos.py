@@ -2,7 +2,7 @@
 
     uv run python tools/import_logos.py [--refresh]
 
-Bandai's newer product pages show the set's logo as an image named logo, logo_product or mv_logo. Its alt text
+Bandai's newer product pages show the set's logo as an image named logo, logo_product, mv_logo or sp_logo. Its alt text
 usually ends with the set code in brackets ("BOOSTER PACK -THE DOMINANCE OF GOD- [OP-18]"); when it does not, the
 code comes from the page address (/products/boosters/op05/). Older pages have only a banner, and those sets get no
 logo; anniversary logos, titles and banners are never taken. A logo goes on a set only when it names exactly one
@@ -32,7 +32,7 @@ _PRODUCT_LINK = re.compile(r'href="(?P<url>(?:https://en\.onepiece-cardgame\.com
 _IMG = re.compile(r"<img\b[^>]*>", re.I)
 _ATTR = re.compile(r'(?P<name>[a-z_-]+)="(?P<value>[^"]*)"', re.I)
 _CODES = re.compile(r"\[(?P<codes>[^\]]+)\]\s*$")
-_LOGO_NAMES = ("logo", "logo_product", "mv_logo")
+_LOGO_NAMES = ("logo", "logo_product", "mv_logo", "sp_logo")
 _PAGE_CODE = re.compile(r"/(?P<code>(?:op|st|eb|prb)\d+(?:[-_]eb\d+)?)(?:/|\.\w+$|_?$)", re.I)
 
 

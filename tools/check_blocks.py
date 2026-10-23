@@ -38,7 +38,7 @@ SHIFT = 3  # the icon moves a pixel or two between frames
 # Sets whose list block is the block printed on their own base printings (checked by eye on samples).
 REFERENCE = {"1": ("OP01", "OP02", "OP03", "OP04"), "2": ("OP06", "OP07", "OP08"),
              "3": ("OP09", "OP10", "OP11", "OP12"), "4": ("OP13",), "5": ("OP16", "OP17"), "X": ("OP16", "OP17")}
-MIN_SCORE = 0.6  # correlation with the nearest reference icon: below it the crop is not an icon
+MIN_SCORE = 0.8  # correlation with the nearest reference icon; correct corrections score 0.9+, an SP frame 0.61
 SET_SHARE = 0.9  # of a set's own base printings that must share its block
 MIN_MARGIN = 0.15  # lead of the best block over the runner-up; reference cards all lead by 0.2 or more
 

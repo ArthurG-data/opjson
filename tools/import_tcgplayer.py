@@ -49,6 +49,8 @@ _STAMP = re.compile(r"^(?P<parent>[A-Z]+-?\d+) (?P<kind>PRE|RE|ANN)$")
 STAMP_PARENT_ALIAS = {"OP14": "OP14-EB04", "OP15": "OP15-EB04"}
 STAMP_PROMO = {"PRE": ("prerelease", "event"), "RE": ("release", "event"), "ANN": ("anniversary", "anniversary")}
 DON = "DON"
+# A TCGplayer Number becomes a card number and a file name, so anything else goes to review.
+CARD_NUMBER = re.compile(r"^[A-Z]+[0-9]*-[0-9]{3}$")
 # TCGCSV price subtypes for category 68, as card_catalog.card_finished codes.
 FINISHES = {"Normal": "nonfoil", "Foil": "foil"}
 # TCGplayer rarity codes that Bandai spells differently, or that mean "no rarity".
@@ -199,7 +201,16 @@ def main() -> None:
     matches: list[tuple[dict, Match]] = []
     review, pending = [], []
     claimed: dict[str, int] = {}
-    singles = [(g, p) for g in groups for p in tcgcsv.products(g["groupId"], CACHE) if p.is_single]
+    singles = []
+    for g in groups:
+        for p in tcgcsv.products(g["groupId"], CACHE):
+            if not p.is_single:
+                continue
+            if p.number and not CARD_NUMBER.match(p.number):
+                review.append({"productId": p.product_id, "name": p.name, "number": p.number,
+                               "reason": "TCGplayer's Number is not a card number"})
+                continue
+            singles.append((g, p))
     finishes: dict[int, set[str]] = collections.defaultdict(set)
     for g in groups:
         for row in tcgcsv.prices(g["groupId"], CACHE):

@@ -27,7 +27,9 @@ _INFO = re.compile(r'<div class="infoCol">\s*<span>([^<]*)</span>\s*\|\s*<span>(
 _NAME = re.compile(r'<div class="cardName">(.*?)</div>', re.S)
 _IMAGE = re.compile(r'data-src="\.\./images/cardlist/card/([^"?]+)')
 _SET_CODE = re.compile(r"\[([A-Z0-9-]+)\]\s*$")
-_VARIANT = re.compile(r"^(?P<number>.+?)(?:_(?P<kind>[pr])(?P<n>\d+))?$")
+# Bandai's printing id: card number, then _pN (parallel/alternate art) or _rN (reprint). Anything else is
+# refused: the id becomes a file name and a cache key.
+_VARIANT = re.compile(r"^(?P<number>[A-Z]+[0-9]*-[0-9]{3})(?:_(?P<kind>[pr])(?P<n>\d+))?$")
 
 
 @dataclass(frozen=True)
@@ -96,6 +98,8 @@ def parse_cards(page: str, series_id: str) -> list[Printing]:
             raise ValueError(f"series {series_id}: {printing_id} has no infoCol")
         number, rarity, category = (_text(x) for x in info.groups())
         v = _VARIANT.match(printing_id)
+        if v is None:
+            raise ValueError(f"series {series_id}: {printing_id!r} is not a Bandai printing id")
         if v.group("number") != number:
             raise ValueError(f"series {series_id}: id {printing_id} does not start with its number {number}")
         attribute = re.search(r'<div class="attribute">.*?<i>(.*?)</i>', block, re.S)

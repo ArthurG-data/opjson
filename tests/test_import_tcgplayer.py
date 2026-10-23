@@ -71,3 +71,9 @@ def test_group_roles():
     assert roles[4] == {"role": "promo", "set": "P"}
     assert roles[5]["role"] == "pending"
     assert roles[6] == {"role": "set", "set": "ST01"}
+
+
+def test_only_card_numbers_reach_file_names():
+    assert it.CARD_NUMBER.match("OP01-120") and it.CARD_NUMBER.match("P-001")
+    for bad in ("../../etc-001", "OP01-120/x", "OP01-12", ""):
+        assert not it.CARD_NUMBER.match(bad)

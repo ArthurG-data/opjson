@@ -51,3 +51,23 @@ def test_build_takes_facts_from_base_and_fails_on_unsettled_conflict():
     card = files["OP01"]["cards"][0]
     assert card["power"] == 10000
     assert [p["id"] for p in card["printings"]] == ["OP01-120", "OP01-120_p1"]
+
+
+def test_malformed_printing_id_is_refused():
+    page = PAGE.replace('id="OP01-001"', 'id="../OP01-001"', 1)
+    try:
+        bandai.parse_cards(page, "569101")
+    except ValueError as e:
+        assert "not a Bandai printing id" in str(e)
+    else:
+        raise AssertionError("a malformed id must be refused")
+
+
+def test_image_cache_keys_cannot_leave_the_cache():
+    import images
+    for bad in ("../x", "a/b", ""):
+        try:
+            images.path_for("bandai", bad)
+        except ValueError:
+            continue
+        raise AssertionError(f"{bad!r} was accepted")

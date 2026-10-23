@@ -10,6 +10,7 @@ from __future__ import annotations
 
 import io
 import json
+import re
 import sys
 import time
 import urllib.request
@@ -26,6 +27,8 @@ HASH_SIZE = 16
 
 
 def path_for(source: str, key: str) -> Path:
+    if source not in DELAY_S or not re.fullmatch(r"[A-Za-z0-9_~-]+", key):
+        raise ValueError(f"not an image cache key: {source}/{key}")
     return CACHE / source / f"{key}.img"
 
 

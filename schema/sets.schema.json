@@ -33,7 +33,7 @@
                      "description": "The set's logo, hotlinked from the Bandai product page that shows it (source). Absent when Bandai shows none.",
                      "properties": {"url": {"type": "string", "format": "uri"}, "source": {"type": "string", "format": "uri"}}},
             "keyArt": {"type": "object", "additionalProperties": false, "required": ["url", "source", "size"],
-                       "description": "The main visual on the set's Bandai product page (source): its pixel size, and the crop [x, y, width, height] that keeps the artwork when the image is a banner with a date band and a pack shot. Absent when the page shows none.",
+                       "description": "The main visual on the set's Bandai product page (source), or for a booster without one its pack's TCGplayer picture: its pixel size, and the crop [x, y, width, height] that keeps only the artwork when the image holds more (a banner's date band and pack shot, a pack's header and title). Absent when the page shows none.",
                        "properties": {"url": {"type": "string", "format": "uri"}, "source": {"type": "string", "format": "uri"},
                                       "size": {"type": "array", "items": {"type": "integer", "minimum": 1}, "minItems": 2, "maxItems": 2},
                                       "crop": {"type": "array", "items": {"type": "integer", "minimum": 0}, "minItems": 4, "maxItems": 4}}}

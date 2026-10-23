@@ -20,7 +20,7 @@ ROOT = Path(__file__).resolve().parents[1]
 CACHE = ROOT / ".cache" / "images"
 USER_AGENT = "opjson/0.1 (+https://github.com/ArthurG-data/opjson)"
 TCGPLAYER_IMAGE = "https://tcgplayer-cdn.tcgplayer.com/product/{product_id}_in_400x400.jpg"
-DELAY_S = {"bandai": 1.0, "tcgplayer": 0.2, "bandai_art": 1.0}
+DELAY_S = {"bandai": 1.0, "tcgplayer": 0.2, "bandai_art": 1.0, "tcgplayer_art": 0.2}
 # The share of the card's height, from the top, that the hash covers.
 TOP_BAND = 0.38
 RETRY_WAITS_S = (5, 20, 60)  # pauses before each retry of a 5xx or a dropped connection

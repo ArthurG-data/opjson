@@ -45,9 +45,12 @@ uv run python tools/crawl_bandai.py                 # cache the official card li
 uv run python tools/import_bandai.py                # sets and Bandai printings
 uv run --group dev python tools/images.py fetch     # cache both sites' card images
 uv run --group dev python tools/import_tcgplayer.py # TCGplayer ids, stamped and promo printings
+uv run --group dev python tools/link_reprint_art.py # reprints that reuse an earlier printing's art (artOf)
 uv run python tools/import_sealed.py                # sealed products
+uv run python tools/import_limitless.py             # illustrators, and a check of the TCGplayer ids
 uv run python tools/validate.py [--online]
-uv run python tools/build.py --version 0.1.0        # dist/AllSets, AllCards, AllPrintings, AllProducts
+uv run python tools/legality.py [--online]          # ban list replayed and checked against Bandai's
+uv run python tools/build.py --version 0.1.0        # dist/AllSets, AllCards, AllPrintings, AllProducts, Legality
 ```
 
 A TCGplayer product that cannot be matched with confidence goes to `review/tcgplayer-68.json`, never into a

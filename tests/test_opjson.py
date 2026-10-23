@@ -45,6 +45,16 @@ def test_minted_ids_need_tcgplayer_source_and_artof_a_bandai_printing():
     assert any("artOf must name a Bandai printing" in e for e in errors(cards=cards))
 
 
+def test_artof_never_chains():
+    cards = copy.deepcopy(CARDS)
+    printings = cards["OP01"]["cards"][0]["printings"]
+    printings.append({"id": "OP01-120_r1", "set": "OP01", "image": "https://example.com/c.png", "source": "bandai",
+                      "artOf": "OP01-120"})
+    assert not errors(cards=cards)
+    printings[1]["artOf"] = "OP01-120_r1"
+    assert any("itself shares another printing's art; name OP01-120" in e for e in errors(cards=cards))
+
+
 def test_card_must_live_in_its_prefix_file_and_unknown_set_is_an_error():
     cards = {"ST01": copy.deepcopy(CARDS["OP01"])}
     assert any("belongs in cards/OP01.json" in e for e in errors(cards=cards))

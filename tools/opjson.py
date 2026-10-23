@@ -95,11 +95,14 @@ def validate(sets: list[dict], files: dict[str, dict], sealed: dict[str, dict] |
                 if p["source"] == "tcgplayer" and not p.get("identifiers", {}).get("tcgplayerProductIds"):
                     errors.append(f"printing {pid}: a TCGplayer-only printing needs its TCGplayer product id")
     errors += [f"card {n} is listed {c} times" for n, c in numbers.items() if c > 1]
+    art_of = dict(art_refs)
     for pid, art in art_refs:
         if art not in printing_ids:
             errors.append(f"printing {pid}: artOf {art} is not a printing")
         elif "~" in art:
             errors.append(f"printing {pid}: artOf must name a Bandai printing, not {art}")
+        elif art in art_of:
+            errors.append(f"printing {pid}: artOf {art} itself shares another printing's art; name {art_of[art]}")
 
     products = collections.Counter(p["id"] for body in sealed.values() for p in body["products"])
     errors += [f"sealed product id {i} is used {n} times" for i, n in products.items() if n > 1]

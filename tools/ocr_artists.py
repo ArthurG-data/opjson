@@ -1,15 +1,13 @@
-"""Read each Bandai printing's illustrator credit off its card image, and write it as the printing's `artist`.
+"""Check the credited illustrators (from Limitless, see import_limitless.py) against the cards themselves.
 
     uv run --group ocr python tools/ocr_artists.py [--limit N]
 
-The credit is printed vertically down the card's right edge, near the top. The strip is cropped, turned
-upright, enlarged and read with RapidOCR, three times at different crops and contrasts. OCR drops or keeps the gap between words
-unpredictably, so an artist is identified by their name's letters without spaces, and spelled the way the
-readings across the whole card list spell it, preferring spellings that keep word gaps.
-
-A printing gets an artist only when at least two readings agree on the letters with confidence of at least
-MIN_CONFIDENCE, no confident reading disagrees, and the name is not a near-miss of a far commoner one. Everything else goes to review/artists.json. Printings only TCGplayer sells take the artist of
-the Bandai printing named in their `artOf`. Readings are cached in .cache/ocr.json.
+The credit is printed vertically down the card's right edge. The strip is cropped, turned upright, enlarged and
+read with RapidOCR three times at different crops and contrasts. OCR drops or keeps the gap between words
+unpredictably, so names are compared by their letters without spaces. A printing counts as read only when at
+least two readings agree with confidence of at least MIN_CONFIDENCE and the reading is not a near-miss of a far
+commoner one. Every confident reading that disagrees with the credited artist goes to
+review/artists-ocr-check.json. Readings are cached in .cache/ocr.json. This tool writes no data.
 """
 from __future__ import annotations
 
@@ -24,8 +22,7 @@ import opjson
 
 ROOT = Path(__file__).resolve().parents[1]
 OCR_CACHE = ROOT / ".cache" / "ocr.json"
-REVIEW = ROOT / "review" / "artists.json"
-CORRECTIONS = ROOT / "mappings" / "artist_corrections.json"
+REVIEW = ROOT / "review" / "artists-ocr-check.json"
 MIN_CONFIDENCE = 0.90
 # (left edge of the crop as a share of the card's width, enlargement, contrast cut-off in percent). The strip
 # runs to 99.5% of the width and down 70% of the card: anime-art credits ("TV animation ONE PIECE Key
@@ -111,7 +108,6 @@ def main() -> None:
     ap.add_argument("--limit", type=int, help="read at most N uncached images (for trying the crop)")
     args = ap.parse_args()
     cache = json.loads(OCR_CACHE.read_text()) if OCR_CACHE.exists() else {}
-    corrections = json.loads(CORRECTIONS.read_text(encoding="utf-8")) if CORRECTIONS.exists() else {}
     files = opjson.load_cards()
     bandai = [p for body in files.values() for c in body["cards"] for p in c["printings"] if p["source"] == "bandai"]
     engine = RapidOCR()
@@ -132,40 +128,33 @@ def main() -> None:
     OCR_CACHE.write_text(json.dumps(cache))
 
     spelled, suspect = spell(list(cache.values()))
-
-    artist_of, review = {}, []
+    agree, near, disagree, unread, no_credit = 0, [], [], 0, 0
     for p in bandai:
-        if p["id"] in corrections:
-            artist_of[p["id"]] = corrections[p["id"]]["artist"]
-            continue
         readings = cache.get(p["id"])
         if readings is None:
             continue
         confident = [key(t) for t, c in readings if c >= MIN_CONFIDENCE and key(t)]
         keys = set(confident)
-        # Two confident readings that agree, none that disagrees, and not a likely misread of another artist.
-        if len(keys) == 1 and len(confident) >= 2 and not keys & suspect:
-            artist_of[p["id"]] = spelled[keys.pop()]
+        if not (len(keys) == 1 and len(confident) >= 2) or keys & suspect:
+            unread += 1
+            continue
+        ocr = keys.pop()
+        credited = p.get("artist")
+        if credited is None:
+            no_credit += 1
+            continue
+        if ocr == key(credited):
+            agree += 1
+        elif edit_distance(ocr, key(credited)) <= NEAR_KEY_DISTANCE:
+            near.append({"printing": p["id"], "credited": credited, "ocr": spelled[ocr]})
         else:
-            reason = ("likely a misread of a commoner spelling" if keys & suspect else
-                      "readings disagree" if len(keys) > 1 else "fewer than two confident readings")
-            review.append({"printing": p["id"], "image": p["image"], "reason": reason, "readings": readings})
-
-    for body in files.values():
-        for c in body["cards"]:
-            for p in c["printings"]:
-                p.pop("artist", None)
-                name = artist_of.get(p["id"]) or artist_of.get(p.get("artOf", ""))
-                if name:
-                    p["artist"] = name
-        # keep key order stable: artist sits after artOf/source in the written JSON
-    for stem, body in files.items():
-        (opjson.CARDS / f"{stem}.json").write_text(json.dumps(body, indent=2, ensure_ascii=False) + "\n",
-                                                   encoding="utf-8")
+            disagree.append({"printing": p["id"], "image": p["image"], "credited": credited, "ocr": spelled[ocr]})
     REVIEW.parent.mkdir(parents=True, exist_ok=True)
-    REVIEW.write_text(json.dumps(review, indent=2, ensure_ascii=False) + "\n", encoding="utf-8")
-    print(f"read {fresh} new images; {len(artist_of)} printings have an artist, {len(review)} in review, "
-          f"{len(spelled)} distinct artists; {len(bandai) - len(cache)} images not cached yet")
+    REVIEW.write_text(json.dumps({"disagree": disagree, "near": near}, indent=2, ensure_ascii=False) + "\n",
+                      encoding="utf-8")
+    print(f"read {fresh} new images; of printings OCR reads confidently: {agree} agree with the credited artist, "
+          f"{len(near)} differ by a letter or two (OCR slips), {len(disagree)} disagree; {no_credit} have no credit; "
+          f"{unread} not read confidently; {len(bandai) - len(cache)} images not read yet")
 
 
 if __name__ == "__main__":

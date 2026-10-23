@@ -24,7 +24,7 @@ CORRECTIONS = ROOT / "mappings" / "bandai_corrections.json"
 # Facts that belong to the card: every printing of a number must agree on them.
 CARD_FACTS = ("name", "category", "cost", "power", "counter", "life", "attributes", "colors", "types")
 # The two series pages that are not sets of their own.
-SPECIAL_SERIES = {"569901": ("P", "promo", "Promotion Cards"), "569801": ("OTHER", "other", "Other Product Cards")}
+SPECIAL_SERIES = {"569901": ("P", "promo", "Promotion Cards"), "569801": ("OTHER", "box_set", "Other Product Cards")}
 _KINDS = (("PREMIUM BOOSTER", "premium_booster"), ("EXTRA BOOSTER", "extra_booster"),
           ("BOOSTER PACK", "booster"), ("ULTRA DECK", "ultra_deck"), ("STARTER DECK", "starter_deck"))
 
@@ -46,7 +46,7 @@ def set_entry(series: bandai.Series) -> dict:
         name = re.sub(r"\s*\[[^\]]+\]\s*$", "", series.title)
         name = re.sub(r"^(PREMIUM BOOSTER|EXTRA BOOSTER|BOOSTER PACK|ULTRA DECK|STARTER DECK EX|STARTER DECK)\s*",
                       "", name).strip(" -")
-    return {"id": code, "kind": kind, "bandaiSeriesId": series.series_id,
+    return {"id": code, "type": kind, "bandaiSeriesId": series.series_id,
             "releases": [{"language": "en", "name": name,
                           "source": bandai.CARDLIST.format(series=series.series_id)}]}
 

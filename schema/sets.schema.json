@@ -1,0 +1,36 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://github.com/ArthurG-data/opjson/schema/sets.schema.json",
+  "title": "opjson sets",
+  "description": "sets/sets.json: every set a printing can belong to. Bandai's series, plus the TCGplayer groups that are not one Bandai series (stamp groups and promo lines).",
+  "type": "array",
+  "items": {
+    "type": "object",
+    "additionalProperties": false,
+    "required": ["id", "type", "releases"],
+    "properties": {
+      "id": {"type": "string", "pattern": "^[A-Z0-9]+(-[A-Z0-9]+)*$"},
+      "type": {"enum": ["booster", "extra_booster", "premium_booster", "starter_deck", "ultra_deck", "promo", "box_set"],
+               "description": "The set's product line. AutoMana maps it onto MTG's set types: booster=expansion, premium_booster=masters, starter_deck and ultra_deck=starter, box_set=box."},
+      "bandaiSeriesId": {"type": "string", "pattern": "^56\\d{4}$"},
+      "parent": {"type": "string", "description": "The set this one hangs off, as MTG's parent_set: a pre-release, release-event or anniversary stamp set names the booster whose printings it stamps."},
+      "source": {"const": "tcgplayer", "description": "Present when the set exists only on TCGplayer."},
+      "tcgplayerGroupIds": {"type": "array", "items": {"type": "integer"}, "uniqueItems": true},
+      "releases": {
+        "type": "array",
+        "minItems": 1,
+        "items": {
+          "type": "object",
+          "additionalProperties": false,
+          "required": ["language", "name", "source"],
+          "properties": {
+            "language": {"enum": ["en"]},
+            "name": {"type": "string", "minLength": 1},
+            "releaseDate": {"type": "string", "format": "date"},
+            "source": {"type": "string", "format": "uri"}
+          }
+        }
+      }
+    }
+  }
+}

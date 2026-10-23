@@ -1,7 +1,7 @@
 [
   {
     "id": "PRB02",
-    "kind": "premium_booster",
+    "type": "premium_booster",
     "bandaiSeriesId": "569302",
     "releases": [
       {
@@ -13,7 +13,7 @@
   },
   {
     "id": "PRB01",
-    "kind": "premium_booster",
+    "type": "premium_booster",
     "bandaiSeriesId": "569301",
     "releases": [
       {
@@ -25,7 +25,7 @@
   },
   {
     "id": "EB05",
-    "kind": "extra_booster",
+    "type": "extra_booster",
     "bandaiSeriesId": "569205",
     "releases": [
       {
@@ -37,7 +37,7 @@
   },
   {
     "id": "EB03",
-    "kind": "extra_booster",
+    "type": "extra_booster",
     "bandaiSeriesId": "569203",
     "releases": [
       {
@@ -49,7 +49,7 @@
   },
   {
     "id": "EB02",
-    "kind": "extra_booster",
+    "type": "extra_booster",
     "bandaiSeriesId": "569202",
     "releases": [
       {
@@ -61,7 +61,7 @@
   },
   {
     "id": "EB01",
-    "kind": "extra_booster",
+    "type": "extra_booster",
     "bandaiSeriesId": "569201",
     "releases": [
       {
@@ -73,7 +73,7 @@
   },
   {
     "id": "OP17",
-    "kind": "booster",
+    "type": "booster",
     "bandaiSeriesId": "569117",
     "releases": [
       {
@@ -85,7 +85,7 @@
   },
   {
     "id": "OP16",
-    "kind": "booster",
+    "type": "booster",
     "bandaiSeriesId": "569116",
     "releases": [
       {
@@ -97,7 +97,7 @@
   },
   {
     "id": "OP15-EB04",
-    "kind": "booster",
+    "type": "booster",
     "bandaiSeriesId": "569115",
     "releases": [
       {
@@ -109,7 +109,7 @@
   },
   {
     "id": "OP14-EB04",
-    "kind": "booster",
+    "type": "booster",
     "bandaiSeriesId": "569114",
     "releases": [
       {
@@ -121,7 +121,7 @@
   },
   {
     "id": "OP13",
-    "kind": "booster",
+    "type": "booster",
     "bandaiSeriesId": "569113",
     "releases": [
       {
@@ -133,7 +133,7 @@
   },
   {
     "id": "OP12",
-    "kind": "booster",
+    "type": "booster",
     "bandaiSeriesId": "569112",
     "releases": [
       {
@@ -145,7 +145,7 @@
   },
   {
     "id": "OP11",
-    "kind": "booster",
+    "type": "booster",
     "bandaiSeriesId": "569111",
     "releases": [
       {
@@ -157,7 +157,7 @@
   },
   {
     "id": "OP10",
-    "kind": "booster",
+    "type": "booster",
     "bandaiSeriesId": "569110",
     "releases": [
       {
@@ -169,7 +169,7 @@
   },
   {
     "id": "OP09",
-    "kind": "booster",
+    "type": "booster",
     "bandaiSeriesId": "569109",
     "releases": [
       {
@@ -181,7 +181,7 @@
   },
   {
     "id": "OP08",
-    "kind": "booster",
+    "type": "booster",
     "bandaiSeriesId": "569108",
     "releases": [
       {
@@ -193,7 +193,7 @@
   },
   {
     "id": "OP07",
-    "kind": "booster",
+    "type": "booster",
     "bandaiSeriesId": "569107",
     "releases": [
       {
@@ -205,7 +205,7 @@
   },
   {
     "id": "OP06",
-    "kind": "booster",
+    "type": "booster",
     "bandaiSeriesId": "569106",
     "releases": [
       {
@@ -217,7 +217,7 @@
   },
   {
     "id": "OP05",
-    "kind": "booster",
+    "type": "booster",
     "bandaiSeriesId": "569105",
     "releases": [
       {
@@ -229,7 +229,7 @@
   },
   {
     "id": "OP04",
-    "kind": "booster",
+    "type": "booster",
     "bandaiSeriesId": "569104",
     "releases": [
       {
@@ -241,7 +241,7 @@
   },
   {
     "id": "OP03",
-    "kind": "booster",
+    "type": "booster",
     "bandaiSeriesId": "569103",
     "releases": [
       {
@@ -253,7 +253,7 @@
   },
   {
     "id": "OP02",
-    "kind": "booster",
+    "type": "booster",
     "bandaiSeriesId": "569102",
     "releases": [
       {
@@ -265,7 +265,7 @@
   },
   {
     "id": "OP01",
-    "kind": "booster",
+    "type": "booster",
     "bandaiSeriesId": "569101",
     "releases": [
       {
@@ -277,7 +277,7 @@
   },
   {
     "id": "ST36",
-    "kind": "starter_deck",
+    "type": "starter_deck",
     "bandaiSeriesId": "569036",
     "releases": [
       {
@@ -289,7 +289,7 @@
   },
   {
     "id": "ST35",
-    "kind": "starter_deck",
+    "type": "starter_deck",
     "bandaiSeriesId": "569035",
     "releases": [
       {
@@ -301,7 +301,7 @@
   },
   {
     "id": "ST34",
-    "kind": "starter_deck",
+    "type": "starter_deck",
     "bandaiSeriesId": "569034",
     "releases": [
       {
@@ -313,7 +313,7 @@
   },
   {
     "id": "ST33",
-    "kind": "starter_deck",
+    "type": "starter_deck",
     "bandaiSeriesId": "569033",
     "releases": [
       {
@@ -325,7 +325,7 @@
   },
   {
     "id": "ST32",
-    "kind": "starter_deck",
+    "type": "starter_deck",
     "bandaiSeriesId": "569032",
     "releases": [
       {
@@ -337,7 +337,7 @@
   },
   {
     "id": "ST31",
-    "kind": "starter_deck",
+    "type": "starter_deck",
     "bandaiSeriesId": "569031",
     "releases": [
       {
@@ -349,7 +349,7 @@
   },
   {
     "id": "ST30",
-    "kind": "starter_deck",
+    "type": "starter_deck",
     "bandaiSeriesId": "569030",
     "releases": [
       {
@@ -361,7 +361,7 @@
   },
   {
     "id": "ST29",
-    "kind": "starter_deck",
+    "type": "starter_deck",
     "bandaiSeriesId": "569029",
     "releases": [
       {
@@ -373,7 +373,7 @@
   },
   {
     "id": "ST28",
-    "kind": "starter_deck",
+    "type": "starter_deck",
     "bandaiSeriesId": "569028",
     "releases": [
       {
@@ -385,7 +385,7 @@
   },
   {
     "id": "ST27",
-    "kind": "starter_deck",
+    "type": "starter_deck",
     "bandaiSeriesId": "569027",
     "releases": [
       {
@@ -397,7 +397,7 @@
   },
   {
     "id": "ST26",
-    "kind": "starter_deck",
+    "type": "starter_deck",
     "bandaiSeriesId": "569026",
     "releases": [
       {
@@ -409,7 +409,7 @@
   },
   {
     "id": "ST25",
-    "kind": "starter_deck",
+    "type": "starter_deck",
     "bandaiSeriesId": "569025",
     "releases": [
       {
@@ -421,7 +421,7 @@
   },
   {
     "id": "ST24",
-    "kind": "starter_deck",
+    "type": "starter_deck",
     "bandaiSeriesId": "569024",
     "releases": [
       {
@@ -433,7 +433,7 @@
   },
   {
     "id": "ST23",
-    "kind": "starter_deck",
+    "type": "starter_deck",
     "bandaiSeriesId": "569023",
     "releases": [
       {
@@ -445,7 +445,7 @@
   },
   {
     "id": "ST22",
-    "kind": "starter_deck",
+    "type": "starter_deck",
     "bandaiSeriesId": "569022",
     "releases": [
       {
@@ -457,7 +457,7 @@
   },
   {
     "id": "ST21",
-    "kind": "starter_deck",
+    "type": "starter_deck",
     "bandaiSeriesId": "569021",
     "releases": [
       {
@@ -469,7 +469,7 @@
   },
   {
     "id": "ST20",
-    "kind": "starter_deck",
+    "type": "starter_deck",
     "bandaiSeriesId": "569020",
     "releases": [
       {
@@ -481,7 +481,7 @@
   },
   {
     "id": "ST19",
-    "kind": "starter_deck",
+    "type": "starter_deck",
     "bandaiSeriesId": "569019",
     "releases": [
       {
@@ -493,7 +493,7 @@
   },
   {
     "id": "ST18",
-    "kind": "starter_deck",
+    "type": "starter_deck",
     "bandaiSeriesId": "569018",
     "releases": [
       {
@@ -505,7 +505,7 @@
   },
   {
     "id": "ST17",
-    "kind": "starter_deck",
+    "type": "starter_deck",
     "bandaiSeriesId": "569017",
     "releases": [
       {
@@ -517,7 +517,7 @@
   },
   {
     "id": "ST16",
-    "kind": "starter_deck",
+    "type": "starter_deck",
     "bandaiSeriesId": "569016",
     "releases": [
       {
@@ -529,7 +529,7 @@
   },
   {
     "id": "ST15",
-    "kind": "starter_deck",
+    "type": "starter_deck",
     "bandaiSeriesId": "569015",
     "releases": [
       {
@@ -541,7 +541,7 @@
   },
   {
     "id": "ST14",
-    "kind": "starter_deck",
+    "type": "starter_deck",
     "bandaiSeriesId": "569014",
     "releases": [
       {
@@ -553,7 +553,7 @@
   },
   {
     "id": "ST13",
-    "kind": "ultra_deck",
+    "type": "ultra_deck",
     "bandaiSeriesId": "569013",
     "releases": [
       {
@@ -565,7 +565,7 @@
   },
   {
     "id": "ST12",
-    "kind": "starter_deck",
+    "type": "starter_deck",
     "bandaiSeriesId": "569012",
     "releases": [
       {
@@ -577,7 +577,7 @@
   },
   {
     "id": "ST11",
-    "kind": "starter_deck",
+    "type": "starter_deck",
     "bandaiSeriesId": "569011",
     "releases": [
       {
@@ -589,7 +589,7 @@
   },
   {
     "id": "ST10",
-    "kind": "ultra_deck",
+    "type": "ultra_deck",
     "bandaiSeriesId": "569010",
     "releases": [
       {
@@ -601,7 +601,7 @@
   },
   {
     "id": "ST09",
-    "kind": "starter_deck",
+    "type": "starter_deck",
     "bandaiSeriesId": "569009",
     "releases": [
       {
@@ -613,7 +613,7 @@
   },
   {
     "id": "ST08",
-    "kind": "starter_deck",
+    "type": "starter_deck",
     "bandaiSeriesId": "569008",
     "releases": [
       {
@@ -625,7 +625,7 @@
   },
   {
     "id": "ST07",
-    "kind": "starter_deck",
+    "type": "starter_deck",
     "bandaiSeriesId": "569007",
     "releases": [
       {
@@ -637,7 +637,7 @@
   },
   {
     "id": "ST06",
-    "kind": "starter_deck",
+    "type": "starter_deck",
     "bandaiSeriesId": "569006",
     "releases": [
       {
@@ -649,7 +649,7 @@
   },
   {
     "id": "ST05",
-    "kind": "starter_deck",
+    "type": "starter_deck",
     "bandaiSeriesId": "569005",
     "releases": [
       {
@@ -661,7 +661,7 @@
   },
   {
     "id": "ST04",
-    "kind": "starter_deck",
+    "type": "starter_deck",
     "bandaiSeriesId": "569004",
     "releases": [
       {
@@ -673,7 +673,7 @@
   },
   {
     "id": "ST03",
-    "kind": "starter_deck",
+    "type": "starter_deck",
     "bandaiSeriesId": "569003",
     "releases": [
       {
@@ -685,7 +685,7 @@
   },
   {
     "id": "ST02",
-    "kind": "starter_deck",
+    "type": "starter_deck",
     "bandaiSeriesId": "569002",
     "releases": [
       {
@@ -697,7 +697,7 @@
   },
   {
     "id": "ST01",
-    "kind": "starter_deck",
+    "type": "starter_deck",
     "bandaiSeriesId": "569001",
     "releases": [
       {
@@ -709,7 +709,7 @@
   },
   {
     "id": "P",
-    "kind": "promo",
+    "type": "promo",
     "bandaiSeriesId": "569901",
     "releases": [
       {
@@ -721,7 +721,7 @@
   },
   {
     "id": "OTHER",
-    "kind": "other",
+    "type": "box_set",
     "bandaiSeriesId": "569801",
     "releases": [
       {

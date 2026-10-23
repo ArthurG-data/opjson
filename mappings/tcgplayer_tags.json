@@ -1,0 +1,35 @@
+{
+  "_comment": "Rules for the parenthesised tags at the end of a TCGplayer product name, e.g. 'Shanks (Parallel) (Manga)'. Every rule whose regex matches a tag applies (case-insensitive). 'treatment' is the art treatment (MTG's frame_effects); 'promo' is a promo type with its card_catalog.promo_types_ref category, reusing MTG's names where one fits (prerelease, release, judgegift, boxtopper, textured). A tag no rule matches is a name disambiguator (a card number or a character name) and labels nothing.",
+  "rules": [
+    {"match": "^parallel$", "treatment": "parallel"},
+    {"match": "alternate art$", "treatment": "alternate_art"},
+    {"match": "^manga$", "treatment": "manga"},
+    {"match": "^sp$", "treatment": "sp"},
+    {"match": "^full art$", "treatment": "full_art"},
+    {"match": "^wanted poster$", "treatment": "wanted_poster"},
+    {"match": "reprint$", "treatment": "reprint"},
+    {"match": "^gold$|black and gold", "treatment": "gold"},
+    {"match": "serial numbered", "treatment": "serial"},
+
+    {"match": "^pirate foil$", "promo": "pirate_foil", "category": "foil-pattern"},
+    {"match": "^jolly roger foil$", "promo": "jolly_roger_foil", "category": "foil-pattern"},
+    {"match": "textured", "promo": "textured", "category": "foil-pattern"},
+    {"match": "^special foil$", "promo": "special_foil", "category": "foil-pattern"},
+
+    {"match": "pre-release", "promo": "prerelease", "category": "event"},
+    {"match": "release event", "promo": "release", "category": "event"},
+    {"match": "judge", "promo": "judgegift", "category": "program"},
+    {"match": "box topper", "promo": "boxtopper", "category": "retail"},
+    {"match": "treasure cup", "promo": "treasure_cup", "category": "championship"},
+    {"match": "championship|regional|^cs ?\\d|world final|pirates league", "promo": "championship", "category": "championship"},
+    {"match": "winner|finalist|\\b\\d(st|nd|rd|th) place\\b|top \\d+|top player|champion card set|trophy", "promo": "placement", "category": "placement"},
+    {"match": "event pack|celebration pack|tournament pack|participation|battle pack|battle kit|pirates party|sealed battle|grand battle|2-on-2|deck party|new year event|uta deck battle|set sail event|store tournament|round 1 promo", "promo": "event_pack", "category": "event"},
+    {"match": "anniversary", "promo": "anniversary", "category": "anniversary"},
+    {"match": "premium card collection|gift collection|double pack set|tin pack set|illustration box|binder|special goods set|playmat|devil fruits collection|sound loader|special don!! (card )?(pack|set)|leader pack|treasure booster set|dash pack|promotion pack|welcome pack|retail promo|heroines special set|treasure campaign pack|anniversary set", "promo": "retail_product", "category": "retail"},
+    {"match": "film red|live action|netflix|psa magazine", "promo": "media", "category": "media"},
+    {"match": "anime expo|gen con|convention|one piece day|card games fest|fest 2", "promo": "convention", "category": "event"},
+    {"match": "red bull|dodgers|bvb|college basketball|ichiban kuji", "promo": "collaboration", "category": "retail"},
+    {"match": "stamped signature|stamped promo", "promo": "stamped", "category": "mark"},
+    {"match": "^oversized$|^jumbo$", "promo": "oversized", "category": "card-stock"}
+  ]
+}

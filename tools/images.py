@@ -23,6 +23,7 @@ TCGPLAYER_IMAGE = "https://tcgplayer-cdn.tcgplayer.com/product/{product_id}_in_4
 DELAY_S = {"bandai": 1.0, "tcgplayer": 0.2}
 # The share of the card's height, from the top, that the hash covers.
 TOP_BAND = 0.38
+RETRY_WAITS_S = (5, 20, 60)  # pauses before each retry of a 5xx or a dropped connection
 HASH_SIZE = 16
 
 
@@ -40,15 +41,23 @@ def fetch(source: str, key: str, url: str) -> Path | None:
     path.parent.mkdir(parents=True, exist_ok=True)
     time.sleep(DELAY_S[source])
     req = urllib.request.Request(url, headers={"User-Agent": USER_AGENT})
-    try:
-        with urllib.request.urlopen(req, timeout=60) as resp:
-            path.write_bytes(resp.read())
-    except urllib.error.HTTPError as e:
-        # TCGplayer's CDN answers 403, not 404, for a product with no scan.
-        if e.code not in (403, 404):
-            raise
-        path.write_bytes(b"")  # remember the miss
-        return None
+    for wait in RETRY_WAITS_S + (None,):
+        try:
+            with urllib.request.urlopen(req, timeout=60) as resp:
+                body = resp.read()
+            break
+        except urllib.error.HTTPError as e:
+            # TCGplayer's CDN answers 403, not 404, for a product with no scan.
+            if e.code in (403, 404):
+                path.write_bytes(b"")  # remember the miss
+                return None
+            if e.code < 500 or wait is None:
+                raise
+        except (urllib.error.URLError, TimeoutError):
+            if wait is None:
+                raise
+        time.sleep(wait)  # a server error or a dropped connection: try again a little later
+    path.write_bytes(body)
     return path
 
 

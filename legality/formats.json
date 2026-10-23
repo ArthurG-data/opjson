@@ -1,0 +1,25 @@
+{
+  "_comment": "Tournament formats and which block numbers each allows, by date. A printing's block is the number printed in its lower-right corner; X is always allowed in Standard. Card-level exceptions are in block_designations.json; bans in bans.json.",
+  "formats": [
+    {
+      "id": "standard",
+      "name": "Standard Regulation",
+      "windows": [
+        {"from": "2022-12-02", "to": "2026-03-31", "blocks": "all",
+         "note": "Before the Block Number System every released card was allowed.",
+         "source": "https://en.onepiece-cardgame.com/topics/013.php"},
+        {"from": "2026-04-01", "to": "2027-03-31", "minBlock": 2, "maxBlock": 5,
+         "source": "https://en.onepiece-cardgame.com/topics/013.php"},
+        {"from": "2027-04-01", "to": "2028-03-31", "minBlock": 3, "maxBlock": 6,
+         "source": "https://en.onepiece-cardgame.com/topics/013.php"}
+      ]
+    },
+    {
+      "id": "extra",
+      "name": "Extra Regulation",
+      "windows": [
+        {"from": "2026-04-01", "blocks": "all", "source": "https://en.onepiece-cardgame.com/topics/013.php"}
+      ]
+    }
+  ]
+}

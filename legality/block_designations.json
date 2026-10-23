@@ -1,0 +1,16 @@
+{
+  "_comment": "Card numbers whose Standard legality does not follow the block printed on a copy (https://en.onepiece-cardgame.com/news/blockicon-card.html). 'always' = Super Parallel Rare numbers, generally allowed in Standard regardless of reprints. 'block' = treated as that block regardless of reprints, for the dates given. 'reprinted' = reprinted with an updated block number; every past printing of the number is allowed while the newest printed block is.",
+  "source": "https://en.onepiece-cardgame.com/news/blockicon-card.html",
+  "designations": [
+    {"kind": "always", "from": "2026-04-01", "updated": "2026-08-21", "cards": [
+      "EB01-006", "EB02-061", "EB03-061", "EB04-044", "OP01-016", "OP01-120", "OP02-013", "OP03-122", "OP04-083",
+      "OP05-069", "OP05-074", "OP05-119", "OP06-118", "OP06-119", "OP07-051", "OP08-118", "OP09-004", "OP09-051",
+      "OP09-093", "OP09-118", "OP09-119", "OP10-119", "OP11-118", "OP12-118", "OP13-118", "OP13-119", "OP13-120",
+      "OP14-119", "OP15-118", "OP16-063", "OP16-065", "OP16-073", "OP17-005", "OP17-022", "OP17-062", "OP17-112",
+      "OP17-118"]},
+    {"kind": "block", "block": "4", "from": "2026-04-01", "to": "2029-03-31", "updated": "2025-07-23", "cards": [
+      "OP01-039", "OP01-055", "OP02-005", "OP02-068", "OP03-008", "OP03-044", "OP03-048", "OP03-072", "OP03-097",
+      "OP04-016", "OP04-077", "OP04-096", "ST01-011", "ST02-007", "ST06-008"]},
+    {"kind": "reprinted", "from": "2026-04-01", "updated": "2026-08-21", "cards": ["OP01-016", "OP04-016", "EB04-061"]}
+  ]
+}

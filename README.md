@@ -228,7 +228,7 @@ uv run python tools/import_logos.py                  # set logos, where Bandai's
 uv run python tools/import_sealed.py                 # sealed products, then the curated ones
 uv run --group dev python tools/import_key_art.py    # set key art (after import_logos and import_sealed)
 uv run python tools/import_limitless.py              # illustrators, and a check of the TCGplayer ids
-uv run python tools/validate.py [--online]
+uv run python tools/validate.py [--online [--images]]
 uv run python tools/legality.py [--online]           # ban list replayed and checked against Bandai's
 uv run python tools/build.py --version 0.2.4         # dist/AllSets, AllCards, AllPrintings, AllProducts, Legality
 ```
@@ -237,8 +237,9 @@ The pages and images the tools download are cached under `.cache/`, which is nev
 cache and does not crawl again unless a tool is given `--refresh`.
 
 `validate.py` checks every file against its schema, every id and reference, and that no TCGplayer product sits
-on two printings. `--online` also asks TCGCSV whether every TCGplayer product id still exists in category 68, and
-Bandai whether every printing's image is still served.
+on two printings. `--online` also asks TCGCSV whether every TCGplayer product id still exists in category 68.
+`--images` adds a HEAD request for every Bandai printing's image, about 5,000 of them, sent six at a time. A 5xx or
+a dropped connection is tried three times before it counts as a failure.
 
 ## Development
 
@@ -249,8 +250,8 @@ uv run python tools/validate.py --online
 uv run python tools/legality.py --online
 ```
 
-CI runs those checks on every pull request and push to `main`. A `v*` tag also builds the release files with the
-tag's version and attaches them to a GitHub release.
+CI runs those checks on every pull request and push to `main`. A `v*` tag also runs the image check
+(`--online --images`), then builds the release files with the tag's version and attaches them to a GitHub release.
 
 ## Adding a product or fixing a card
 

@@ -2,6 +2,138 @@
   "_comment": "Sealed products TCGplayer does not sell, each from the Bandai page in its sources. import_sealed.py adds them to data/sealed after TCGplayer's products; an id that collides with one of those fails the import.",
   "products": [
     {
+      "id": "tournament-kit-vol-1",
+      "set": "P",
+      "category": "tournament_kit",
+      "name": "Tournament Kit Vol. 1",
+      "contentsStatus": "partial",
+      "contents": {
+        "sealed": [
+          {
+            "product": "tournament-pack-vol-1"
+          },
+          {
+            "product": "winner-pack-vol-1"
+          }
+        ]
+      },
+      "sources": [
+        "https://en.onepiece-cardgame.com/events/2022/officialevents/store_tournament_vol1.php"
+      ]
+    },
+    {
+      "id": "tournament-kit-vol-2",
+      "set": "P",
+      "category": "tournament_kit",
+      "name": "Tournament Kit Vol. 2",
+      "contentsStatus": "partial",
+      "contents": {
+        "sealed": [
+          {
+            "product": "tournament-pack-vol-2"
+          },
+          {
+            "product": "winner-pack-vol-2"
+          }
+        ]
+      },
+      "sources": [
+        "https://en.onepiece-cardgame.com/events/2023/officialevents/store_tournament_vol2.php"
+      ]
+    },
+    {
+      "id": "tournament-kit-vol-3",
+      "set": "P",
+      "category": "tournament_kit",
+      "name": "Tournament Kit Vol. 3",
+      "contentsStatus": "partial",
+      "contents": {
+        "sealed": [
+          {
+            "product": "tournament-pack-vol-3"
+          },
+          {
+            "product": "winner-pack-vol-3"
+          },
+          {
+            "product": "judge-pack-vol-1"
+          }
+        ]
+      },
+      "sources": [
+        "https://en.onepiece-cardgame.com/events/2023/store_tournament_vol3/"
+      ]
+    },
+    {
+      "id": "tournament-kit-vol-4",
+      "set": "P",
+      "category": "tournament_kit",
+      "name": "Tournament Kit Vol. 4",
+      "contentsStatus": "partial",
+      "contents": {
+        "sealed": [
+          {
+            "product": "tournament-pack-vol-4"
+          },
+          {
+            "product": "winner-pack-vol-4"
+          },
+          {
+            "product": "judge-pack-vol-1"
+          }
+        ]
+      },
+      "sources": [
+        "https://en.onepiece-cardgame.com/events/2023/store_tournament_vol4/"
+      ]
+    },
+    {
+      "id": "tournament-kit-vol-5",
+      "set": "P",
+      "category": "tournament_kit",
+      "name": "Tournament Kit Vol. 5",
+      "contentsStatus": "partial",
+      "contents": {
+        "sealed": [
+          {
+            "product": "tournament-pack-vol-5"
+          },
+          {
+            "product": "winner-pack-vol-5"
+          },
+          {
+            "product": "judge-pack-vol-2"
+          }
+        ]
+      },
+      "sources": [
+        "https://en.onepiece-cardgame.com/events/2023/store_tournament_vol5/"
+      ]
+    },
+    {
+      "id": "tournament-kit-vol-6",
+      "set": "P",
+      "category": "tournament_kit",
+      "name": "Tournament Kit Vol. 6",
+      "contentsStatus": "partial",
+      "contents": {
+        "sealed": [
+          {
+            "product": "tournament-pack-vol-6"
+          },
+          {
+            "product": "winner-pack-vol-6"
+          },
+          {
+            "product": "judge-pack-vol-2"
+          }
+        ]
+      },
+      "sources": [
+        "https://en.onepiece-cardgame.com/events/2024/store_tournament_vol6/"
+      ]
+    },
+    {
       "id": "tournament-kit-vol-7",
       "set": "P",
       "category": "tournament_kit",
@@ -9,12 +141,221 @@
       "contentsStatus": "partial",
       "contents": {
         "sealed": [
-          {"product": "tournament-pack-vol-7"},
-          {"product": "winner-pack-vol-7"},
-          {"product": "judge-pack-vol-3"}
+          {
+            "product": "tournament-pack-vol-7"
+          },
+          {
+            "product": "winner-pack-vol-7"
+          },
+          {
+            "product": "judge-pack-vol-3"
+          }
         ]
       },
-      "sources": ["https://en.onepiece-cardgame.com/events/2024/store_tournament_vol7/"]
+      "sources": [
+        "https://en.onepiece-cardgame.com/events/2024/store_tournament_vol7/"
+      ]
+    },
+    {
+      "id": "tournament-kit-2024-oct-dec",
+      "set": "P",
+      "category": "tournament_kit",
+      "name": "Tournament Kit 2024 Oct.-Dec.",
+      "contentsStatus": "partial",
+      "contents": {
+        "sealed": [
+          {
+            "product": "tournament-pack-2024-oct-dec"
+          },
+          {
+            "product": "winner-pack-2024-oct-dec"
+          },
+          {
+            "product": "judge-pack-vol-3"
+          }
+        ]
+      },
+      "sources": [
+        "https://en.onepiece-cardgame.com/events/store_tournament/"
+      ]
+    },
+    {
+      "id": "tournament-kit-2025-vol-1",
+      "set": "P",
+      "category": "tournament_kit",
+      "name": "Tournament Kit 2025 Vol. 1",
+      "contentsStatus": "partial",
+      "contents": {
+        "sealed": [
+          {
+            "product": "tournament-pack-2025-vol-1"
+          },
+          {
+            "product": "winner-pack-2025-vol-1"
+          },
+          {
+            "product": "judge-pack-vol-4"
+          }
+        ]
+      },
+      "sources": [
+        "https://en.onepiece-cardgame.com/events/2025/store_tournament_vol1/"
+      ]
+    },
+    {
+      "id": "tournament-kit-2025-vol-2",
+      "set": "P",
+      "category": "tournament_kit",
+      "name": "Tournament Kit 2025 Vol. 2",
+      "contentsStatus": "partial",
+      "contents": {
+        "sealed": [
+          {
+            "product": "tournament-pack-2025-vol-2"
+          },
+          {
+            "product": "winner-pack-2025-vol-2"
+          },
+          {
+            "product": "judge-pack-vol-4"
+          }
+        ]
+      },
+      "sources": [
+        "https://en.onepiece-cardgame.com/events/2025/store_tournament_vol2/"
+      ]
+    },
+    {
+      "id": "tournament-kit-2025-vol-3",
+      "set": "P",
+      "category": "tournament_kit",
+      "name": "Tournament Kit 2025 Vol. 3",
+      "contentsStatus": "partial",
+      "contents": {
+        "sealed": [
+          {
+            "product": "tournament-pack-2025-vol-3"
+          },
+          {
+            "product": "winner-pack-2025-vol-3"
+          },
+          {
+            "product": "judge-pack-vol-5"
+          }
+        ]
+      },
+      "sources": [
+        "https://en.onepiece-cardgame.com/events/2025/store_tournament_vol3/"
+      ]
+    },
+    {
+      "id": "tournament-kit-2025-vol-4",
+      "set": "P",
+      "category": "tournament_kit",
+      "name": "Tournament Kit 2025 Vol. 4",
+      "contentsStatus": "partial",
+      "contents": {
+        "sealed": [
+          {
+            "product": "tournament-pack-2025-vol-4"
+          },
+          {
+            "product": "winner-pack-2025-vol-4"
+          },
+          {
+            "product": "judge-pack-vol-6"
+          }
+        ]
+      },
+      "sources": [
+        "https://en.onepiece-cardgame.com/events/2025/store_tournament_vol4/"
+      ]
+    },
+    {
+      "id": "tournament-kit-2026-vol-1",
+      "set": "P",
+      "category": "tournament_kit",
+      "name": "Tournament Kit 2026 Vol. 1",
+      "contentsStatus": "partial",
+      "contents": {
+        "sealed": [
+          {
+            "product": "tournament-pack-2026-vol-1"
+          },
+          {
+            "product": "winner-pack-2026-vol-1"
+          },
+          {
+            "product": "judge-pack-vol-7"
+          }
+        ]
+      },
+      "sources": [
+        "https://en.onepiece-cardgame.com/events/2026/store_tournament_vol1/"
+      ]
+    },
+    {
+      "id": "tournament-kit-2026-vol-2",
+      "set": "P",
+      "category": "tournament_kit",
+      "name": "Tournament Kit 2026 Vol. 2",
+      "contentsStatus": "partial",
+      "contents": {
+        "sealed": [
+          {
+            "product": "tournament-pack-2026-vol-2"
+          },
+          {
+            "product": "winner-pack-2026-vol-2"
+          },
+          {
+            "product": "judge-pack-vol-7"
+          }
+        ]
+      },
+      "sources": [
+        "https://en.onepiece-cardgame.com/events/2026/store_tournament_vol2/"
+      ]
+    },
+    {
+      "id": "tournament-kit-2026-vol-3",
+      "set": "P",
+      "category": "tournament_kit",
+      "name": "Tournament Kit 2026 Vol. 3",
+      "contentsStatus": "partial",
+      "contents": {
+        "sealed": [
+          {
+            "product": "tournament-pack-2026-vol-3"
+          },
+          {
+            "product": "winner-pack-2026-vol-3"
+          }
+        ]
+      },
+      "sources": [
+        "https://en.onepiece-cardgame.com/events/02_315.html"
+      ]
+    },
+    {
+      "id": "tournament-kit-2026-vol-4",
+      "set": "P",
+      "category": "tournament_kit",
+      "name": "Tournament Kit 2026 Vol. 4",
+      "contentsStatus": "partial",
+      "contents": {
+        "sealed": [
+          {
+            "product": "tournament-pack-2026-vol-4"
+          },
+          {
+            "product": "winner-pack-2026-vol-4"
+          }
+        ]
+      },
+      "sources": [
+        "https://en.onepiece-cardgame.com/events/02_452.html"
+      ]
     }
   ]
 }

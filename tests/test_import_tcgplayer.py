@@ -73,6 +73,14 @@ def test_group_roles():
     assert roles[6] == {"role": "set", "set": "ST01"}
 
 
+def test_revision_pack_cards_are_reissues_of_their_own_sets_printings():
+    # Starter Deck cards reissued with revised text: never on Bandai's list, so never a Bandai printing.
+    roles = it.group_roles([{"groupId": 7, "abbreviation": "OP-RP", "name": "Revision Pack Cards"}], set())
+    assert roles[7]["role"] == "reissue" and roles[7]["set"] == "OP-RP"
+    assert it.copied_set(roles[7], "ST04-002") == "ST04"
+    assert it.copied_set({"role": "stamp", "parent": "OP14-EB04"}, "OP14-001") == "OP14-EB04"
+
+
 def test_only_card_numbers_reach_file_names():
     assert it.CARD_NUMBER.match("OP01-120") and it.CARD_NUMBER.match("P-001")
     for bad in ("../../etc-001", "OP01-120/x", "OP01-12", ""):

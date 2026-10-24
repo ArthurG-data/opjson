@@ -18,10 +18,11 @@ product's tags names exactly one of them (evidence "image+cardset"), and otherwi
 becoming a third copy. A reprint that TCGplayer files in another set's group is matched by image to the Bandai printing of its
 number wherever Bandai files it (evidence "image-other-set").
 
-Pre-release, release-event and anniversary groups hold stamped copies of a set's printings, and most of
-TCGplayer's promos are not on Bandai's card list. Those products become printings of their own, with an id
-minted from the card number and the product id (OP02-013~tcg123456), and `artOf` naming the Bandai
-printing whose art they carry when the images say so.
+Pre-release, release-event and anniversary groups hold stamped copies of a set's printings, the Revision Pack
+group holds Starter Deck cards reissued with revised text, and most of TCGplayer's promos are not on Bandai's
+card list. Those products become printings of their own, with an id minted from the card number and the
+product id (OP02-013~tcg123456), and `artOf` naming the Bandai printing whose art they carry when the images
+say so.
 """
 from __future__ import annotations
 
@@ -50,7 +51,7 @@ MARGIN = 20
 SPECIAL_GROUPS = {
     "OP-PR": {"role": "promo", "set": "P"},
     "OP-DD": {"role": "promo", "set": "OP-DD", "type": "starter_deck", "name": "One Piece Demo Deck Cards"},
-    "OP-RP": {"role": "promo", "set": "OP-RP", "type": "promo", "name": "Revision Pack Cards"},
+    "OP-RP": {"role": "reissue", "set": "OP-RP", "type": "promo", "name": "Revision Pack Cards"},
     "OP-CS": {"role": "promo", "set": "OP-CS", "type": "box_set", "name": "One Piece Collection Sets"},
     "LT-01": {"role": "promo", "set": "LT01", "type": "starter_deck", "name": "Learn Together Deck Set"},
     "SD01": {"role": "promo", "set": "SD01", "type": "starter_deck", "name": "Set Sail Deck Set"},
@@ -85,8 +86,14 @@ def _stamp_parent(abbreviation: str) -> str:
     return STAMP_PARENT_ALIAS.get(code, code)
 
 
+def copied_set(role: dict, number: str) -> str:
+    """The Bandai set whose printing a stamp or reissue product copies: a stamp group names its parent, and a
+    reissue copies the printing in its card number's own set (ST04-002 is ST04's)."""
+    return role["parent"] if role["role"] == "stamp" else number.split("-")[0]
+
+
 def group_roles(groups: list[dict], set_ids: set[str]) -> dict[int, dict]:
-    """groupId -> {"role": "set"|"stamp"|"promo"|"pending", "set": opjson set id, ...}."""
+    """groupId -> {"role": "set"|"stamp"|"reissue"|"promo"|"pending", "set": opjson set id, ...}."""
     roles = {}
     for g in groups:
         abbr = g["abbreviation"]
@@ -335,8 +342,8 @@ def main() -> None:
             pending.append({"productId": p.product_id, "name": p.name, "set": role["set"], "number": p.number})
             continue
         number = p.number or DON
-        if role["role"] == "stamp":
-            pool = sorted(by_set_number.get((role["parent"], number), []))
+        if role["role"] in ("stamp", "reissue"):
+            pool = sorted(by_set_number.get((copied_set(role, number), number), []))
         else:
             pool = sorted(pid for pid, (n, _) in printings.items() if n == number and pid not in claimed)
         dist = distances([p], pool)
@@ -344,7 +351,7 @@ def main() -> None:
         art = clear_winner(scored)
         near = [c for d, c in scored if d <= ACCEPT]
         evidence = None  # set when a tie on the art band was settled another way
-        if not art and len(near) > 1 and role["role"] != "stamp":
+        if not art and len(near) > 1 and role["role"] not in ("stamp", "reissue"):
             whole = [(w, c) for c in near if (w := whole_distance(p, c)) is not None]
             art = clear_winner(whole) if len(whole) == len(near) else None
             evidence = "whole-card"

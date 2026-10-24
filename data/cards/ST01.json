@@ -24,21 +24,7 @@
           "block": "1",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST01-001.png",
           "cardSet": "-Straw Hat Crew-[ST-01]",
-          "source": "bandai",
-          "identifiers": {
-            "tcgplayerProductIds": [
-              599769
-            ]
-          },
-          "finishes": [
-            "foil",
-            "nonfoil"
-          ],
-          "tcgplayer": {
-            "name": "Monkey.D.Luffy",
-            "match": "image",
-            "distance": 6
-          }
+          "source": "bandai"
         },
         {
           "id": "ST01-001~tcg412113",
@@ -84,6 +70,28 @@
           },
           "finishes": [
             "foil"
+          ]
+        },
+        {
+          "id": "ST01-001~tcg599769",
+          "set": "OP-RP",
+          "rarity": "L",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/599769_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              599769
+            ]
+          },
+          "tcgplayer": {
+            "name": "Monkey.D.Luffy",
+            "match": "minted",
+            "distance": 6
+          },
+          "artOf": "ST01-001",
+          "finishes": [
+            "foil",
+            "nonfoil"
           ]
         }
       ]
@@ -525,7 +533,7 @@
           "source": "bandai",
           "identifiers": {
             "tcgplayerProductIds": [
-              599777
+              288234
             ]
           },
           "finishes": [
@@ -533,8 +541,8 @@
           ],
           "tcgplayer": {
             "name": "Jinbe",
-            "match": "image",
-            "distance": 2
+            "match": "name",
+            "distance": null
           }
         },
         {
@@ -615,6 +623,27 @@
               "type": "prerelease",
               "category": "event"
             }
+          ]
+        },
+        {
+          "id": "ST01-005~tcg599777",
+          "set": "OP-RP",
+          "rarity": "C",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/599777_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              599777
+            ]
+          },
+          "tcgplayer": {
+            "name": "Jinbe",
+            "match": "minted",
+            "distance": 2
+          },
+          "artOf": "ST01-005",
+          "finishes": [
+            "nonfoil"
           ]
         },
         {
@@ -1037,7 +1066,7 @@
           "source": "bandai",
           "identifiers": {
             "tcgplayerProductIds": [
-              599781
+              288236
             ]
           },
           "finishes": [
@@ -1045,8 +1074,8 @@
           ],
           "tcgplayer": {
             "name": "Nami",
-            "match": "image",
-            "distance": 4
+            "match": "name",
+            "distance": null
           }
         },
         {
@@ -1264,6 +1293,27 @@
               "type": "event_pack",
               "category": "event"
             }
+          ]
+        },
+        {
+          "id": "ST01-007~tcg599781",
+          "set": "OP-RP",
+          "rarity": "C",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/599781_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              599781
+            ]
+          },
+          "tcgplayer": {
+            "name": "Nami",
+            "match": "minted",
+            "distance": 4
+          },
+          "artOf": "ST01-007",
+          "finishes": [
+            "nonfoil"
           ]
         }
       ]
@@ -2508,7 +2558,20 @@
           "block": "1",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST01-014.png",
           "cardSet": "-Straw Hat Crew-[ST-01]",
-          "source": "bandai"
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              288243
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "Guard Point",
+            "match": "name",
+            "distance": null
+          }
         },
         {
           "id": "ST01-014_p2",
@@ -2568,6 +2631,27 @@
           ]
         },
         {
+          "id": "ST01-014~tcg599784",
+          "set": "OP-RP",
+          "rarity": "C",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/599784_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              599784
+            ]
+          },
+          "tcgplayer": {
+            "name": "Guard Point",
+            "match": "minted",
+            "distance": 2
+          },
+          "artOf": "ST01-014",
+          "finishes": [
+            "nonfoil"
+          ]
+        },
+        {
           "id": "ST01-014~tcg602803",
           "set": "OP-DD",
           "rarity": "C",
@@ -2612,7 +2696,7 @@
           "source": "bandai",
           "identifiers": {
             "tcgplayerProductIds": [
-              599789
+              288244
             ]
           },
           "finishes": [
@@ -2620,8 +2704,8 @@
           ],
           "tcgplayer": {
             "name": "Gum-Gum Jet Pistol",
-            "match": "image",
-            "distance": 1
+            "match": "name",
+            "distance": null
           }
         },
         {
@@ -2769,6 +2853,27 @@
           }
         },
         {
+          "id": "ST01-015~tcg599789",
+          "set": "OP-RP",
+          "rarity": "C",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/599789_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              599789
+            ]
+          },
+          "tcgplayer": {
+            "name": "Gum-Gum Jet Pistol",
+            "match": "minted",
+            "distance": 1
+          },
+          "artOf": "ST01-015",
+          "finishes": [
+            "nonfoil"
+          ]
+        },
+        {
           "id": "ST01-015~tcg602804",
           "set": "OP-DD",
           "rarity": "C",
@@ -2812,7 +2917,7 @@
           "source": "bandai",
           "identifiers": {
             "tcgplayerProductIds": [
-              599793
+              288245
             ]
           },
           "finishes": [
@@ -2820,8 +2925,8 @@
           ],
           "tcgplayer": {
             "name": "Diable Jambe",
-            "match": "image",
-            "distance": 5
+            "match": "name",
+            "distance": null
           }
         },
         {
@@ -2850,6 +2955,27 @@
               "category": "event"
             }
           ]
+        },
+        {
+          "id": "ST01-016~tcg599793",
+          "set": "OP-RP",
+          "rarity": "C",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/599793_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              599793
+            ]
+          },
+          "tcgplayer": {
+            "name": "Diable Jambe",
+            "match": "minted",
+            "distance": 5
+          },
+          "artOf": "ST01-016",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
@@ -2875,7 +3001,7 @@
           "source": "bandai",
           "identifiers": {
             "tcgplayerProductIds": [
-              599801
+              288246
             ]
           },
           "finishes": [
@@ -2883,8 +3009,8 @@
           ],
           "tcgplayer": {
             "name": "Thousand Sunny",
-            "match": "image",
-            "distance": 3
+            "match": "name",
+            "distance": null
           },
           "artist": "Kazuyuki Hayashi"
         },
@@ -2913,6 +3039,28 @@
               "type": "prerelease",
               "category": "event"
             }
+          ],
+          "artist": "Kazuyuki Hayashi"
+        },
+        {
+          "id": "ST01-017~tcg599801",
+          "set": "OP-RP",
+          "rarity": "C",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/599801_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              599801
+            ]
+          },
+          "tcgplayer": {
+            "name": "Thousand Sunny",
+            "match": "minted",
+            "distance": 3
+          },
+          "artOf": "ST01-017",
+          "finishes": [
+            "nonfoil"
           ],
           "artist": "Kazuyuki Hayashi"
         },

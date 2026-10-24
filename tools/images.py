@@ -34,10 +34,13 @@ def path_for(source: str, key: str) -> Path:
 
 
 def fetch(source: str, key: str, url: str) -> Path | None:
-    """The cached image, downloading it first if needed. None when the source has no image (404)."""
+    """The cached image, downloading it first if needed. None when the source has no image (404), or only
+    TCGplayer's placeholder."""
     path = path_for(source, key)
     if path.exists():
-        return path if path.stat().st_size else None
+        if not path.stat().st_size:
+            return None
+        return None if source == "tcgplayer" and _forget_placeholder(path) else path
     path.parent.mkdir(parents=True, exist_ok=True)
     time.sleep(DELAY_S[source])
     req = urllib.request.Request(url, headers={"User-Agent": USER_AGENT})
@@ -58,7 +61,24 @@ def fetch(source: str, key: str, url: str) -> Path | None:
                 raise
         time.sleep(wait)  # a server error or a dropped connection: try again a little later
     path.write_bytes(body)
-    return path
+    return None if source == "tcgplayer" and _forget_placeholder(path) else path
+
+
+def _forget_placeholder(path: Path) -> bool:
+    """True, and the image is remembered as a miss, when it is TCGplayer's "Image Coming Soon" placeholder.
+
+    TCGplayer serves it (400x229) for a product with no scan yet, and its hash is 100+ bits from every card,
+    so it once kept old Starter Deck products off their printings. A card scan is portrait or padded to a
+    square, so any image wider than tall is the placeholder.
+    """
+    from PIL import Image
+
+    with Image.open(path) as im:
+        width, height = im.size
+    if width <= height:
+        return False
+    path.write_bytes(b"")
+    return True
 
 
 def dhash(path: Path, band: float = TOP_BAND) -> int:
@@ -97,11 +117,12 @@ class HashCache:
 
     def get(self, source: str, key: str, url: str, whole: bool = False) -> int | None:
         """The top-band hash, or the whole-card hash when whole is set."""
+        # fetch first, so a hash cached before its image turned out to be a miss is not used.
+        img = fetch(source, key, url)
+        if img is None:
+            return None
         k = f"{source}/{key}" + ("#whole" if whole else "")
         if k not in self.data:
-            img = fetch(source, key, url)
-            if img is None:
-                return None
             self.data[k] = dhash(img, 1.0 if whole else TOP_BAND)
         return self.data[k]
 

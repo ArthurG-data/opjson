@@ -442,7 +442,7 @@
           "source": "bandai",
           "identifiers": {
             "tcgplayerProductIds": [
-              599806
+              288253
             ]
           },
           "finishes": [
@@ -450,8 +450,8 @@
           ],
           "tcgplayer": {
             "name": "Killer",
-            "match": "image",
-            "distance": 7
+            "match": "name",
+            "distance": null
           }
         },
         {
@@ -479,6 +479,27 @@
               "type": "prerelease",
               "category": "event"
             }
+          ]
+        },
+        {
+          "id": "ST02-005~tcg599806",
+          "set": "OP-RP",
+          "rarity": "C",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/599806_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              599806
+            ]
+          },
+          "tcgplayer": {
+            "name": "Killer",
+            "match": "minted",
+            "distance": 7
+          },
+          "artOf": "ST02-005",
+          "finishes": [
+            "nonfoil"
           ]
         }
       ]
@@ -579,7 +600,7 @@
           "source": "bandai",
           "identifiers": {
             "tcgplayerProductIds": [
-              599810
+              288255
             ]
           },
           "finishes": [
@@ -587,8 +608,8 @@
           ],
           "tcgplayer": {
             "name": "Jewelry Bonney",
-            "match": "image",
-            "distance": 21
+            "match": "name",
+            "distance": null
           }
         },
         {
@@ -772,6 +793,27 @@
               "category": "event"
             }
           ]
+        },
+        {
+          "id": "ST02-007~tcg599810",
+          "set": "OP-RP",
+          "rarity": "C",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/599810_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              599810
+            ]
+          },
+          "tcgplayer": {
+            "name": "Jewelry Bonney",
+            "match": "minted",
+            "distance": 21
+          },
+          "artOf": "ST02-007",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
@@ -803,7 +845,7 @@
           "source": "bandai",
           "identifiers": {
             "tcgplayerProductIds": [
-              599812
+              288256
             ]
           },
           "finishes": [
@@ -811,8 +853,8 @@
           ],
           "tcgplayer": {
             "name": "Scratchmen Apoo",
-            "match": "image",
-            "distance": 13
+            "match": "name",
+            "distance": null
           }
         },
         {
@@ -957,6 +999,27 @@
             "match": "minted",
             "distance": null
           }
+        },
+        {
+          "id": "ST02-008~tcg599812",
+          "set": "OP-RP",
+          "rarity": "C",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/599812_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              599812
+            ]
+          },
+          "tcgplayer": {
+            "name": "Scratchmen Apoo",
+            "match": "minted",
+            "distance": 13
+          },
+          "artOf": "ST02-008",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
@@ -1041,8 +1104,9 @@
           "tcgplayer": {
             "name": "Trafalgar Law",
             "match": "minted",
-            "distance": null
+            "distance": 18
           },
+          "artOf": "ST02-009",
           "finishes": [
             "foil",
             "nonfoil"
@@ -1590,7 +1654,7 @@
           "source": "bandai",
           "identifiers": {
             "tcgplayerProductIds": [
-              599820
+              288263
             ]
           },
           "finishes": [
@@ -1598,8 +1662,8 @@
           ],
           "tcgplayer": {
             "name": "Scalpel",
-            "match": "image",
-            "distance": 7
+            "match": "name",
+            "distance": null
           }
         },
         {
@@ -1628,6 +1692,27 @@
               "category": "event"
             }
           ]
+        },
+        {
+          "id": "ST02-015~tcg599820",
+          "set": "OP-RP",
+          "rarity": "C",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/599820_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              599820
+            ]
+          },
+          "tcgplayer": {
+            "name": "Scalpel",
+            "match": "minted",
+            "distance": 7
+          },
+          "artOf": "ST02-015",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
@@ -1654,7 +1739,7 @@
           "source": "bandai",
           "identifiers": {
             "tcgplayerProductIds": [
-              599822
+              288264
             ]
           },
           "finishes": [
@@ -1662,8 +1747,8 @@
           ],
           "tcgplayer": {
             "name": "Repel",
-            "match": "image",
-            "distance": 2
+            "match": "name",
+            "distance": null
           }
         },
         {
@@ -1692,6 +1777,27 @@
               "category": "event"
             }
           ]
+        },
+        {
+          "id": "ST02-016~tcg599822",
+          "set": "OP-RP",
+          "rarity": "C",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/599822_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              599822
+            ]
+          },
+          "tcgplayer": {
+            "name": "Repel",
+            "match": "minted",
+            "distance": 2
+          },
+          "artOf": "ST02-016",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
@@ -1718,7 +1824,7 @@
           "source": "bandai",
           "identifiers": {
             "tcgplayerProductIds": [
-              599834
+              288265
             ]
           },
           "finishes": [
@@ -1726,8 +1832,8 @@
           ],
           "tcgplayer": {
             "name": "Straw Sword",
-            "match": "image",
-            "distance": 4
+            "match": "name",
+            "distance": null
           }
         },
         {
@@ -1755,6 +1861,27 @@
               "type": "prerelease",
               "category": "event"
             }
+          ]
+        },
+        {
+          "id": "ST02-017~tcg599834",
+          "set": "OP-RP",
+          "rarity": "C",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/599834_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              599834
+            ]
+          },
+          "tcgplayer": {
+            "name": "Straw Sword",
+            "match": "minted",
+            "distance": 4
+          },
+          "artOf": "ST02-017",
+          "finishes": [
+            "nonfoil"
           ]
         }
       ]

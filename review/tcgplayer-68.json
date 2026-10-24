@@ -45,69 +45,6 @@
       ]
     },
     {
-      "productId": 599780,
-      "name": "Blast Breath",
-      "set": "OP-RP",
-      "number": "ST04-016",
-      "reason": "its art is that of several Bandai printings the images cannot tell apart",
-      "closest": [
-        {
-          "printing": "ST04-016",
-          "distance": 3
-        },
-        {
-          "printing": "ST04-016_r1",
-          "distance": 4
-        },
-        {
-          "printing": "ST04-016_p3",
-          "distance": 14
-        }
-      ]
-    },
-    {
-      "productId": 599784,
-      "name": "Guard Point",
-      "set": "OP-RP",
-      "number": "ST01-014",
-      "reason": "its art is that of several Bandai printings the images cannot tell apart",
-      "closest": [
-        {
-          "printing": "ST01-014",
-          "distance": 2
-        },
-        {
-          "printing": "ST01-014_r1",
-          "distance": 3
-        },
-        {
-          "printing": "ST01-014_p2",
-          "distance": 10
-        }
-      ]
-    },
-    {
-      "productId": 599813,
-      "name": "Kaido (003)",
-      "set": "OP-RP",
-      "number": "ST04-003",
-      "reason": "its art is that of several Bandai printings the images cannot tell apart",
-      "closest": [
-        {
-          "printing": "ST04-003",
-          "distance": 3
-        },
-        {
-          "printing": "ST04-003_r1",
-          "distance": 4
-        },
-        {
-          "printing": "ST04-003_p2",
-          "distance": 108
-        }
-      ]
-    },
-    {
       "productId": 514060,
       "name": "Three Thousand Worlds (Judge Pack Vol. 2)",
       "set": "P",
@@ -2042,7 +1979,7 @@
           "distance": 14
         },
         {
-          "printing": "ST01-014",
+          "printing": "ST01-014_p3",
           "distance": 15
         }
       ]
@@ -2063,7 +2000,7 @@
           "distance": 12
         },
         {
-          "printing": "ST01-014",
+          "printing": "ST01-014_p2",
           "distance": 13
         }
       ]
@@ -2122,12 +2059,12 @@
           "distance": 1
         },
         {
-          "printing": "ST04-016",
-          "distance": 18
-        },
-        {
           "printing": "ST04-016_r1",
           "distance": 19
+        },
+        {
+          "printing": "ST04-016_p3",
+          "distance": 21
         }
       ]
     },
@@ -2143,12 +2080,12 @@
           "distance": 5
         },
         {
-          "printing": "ST04-016",
-          "distance": 16
-        },
-        {
           "printing": "ST04-016_r1",
           "distance": 17
+        },
+        {
+          "printing": "ST04-016_p2",
+          "distance": 23
         }
       ]
     },
@@ -2360,210 +2297,12 @@
       "set": "ST01",
       "number": "ST01-001",
       "reason": "no Bandai printing of this number in its set matches the image",
-      "closest": []
-    },
-    {
-      "productId": 288234,
-      "name": "Jinbe",
-      "set": "ST01",
-      "number": "ST01-005",
-      "reason": "no Bandai printing of this number in its set matches the image",
-      "closest": []
-    },
-    {
-      "productId": 288236,
-      "name": "Nami",
-      "set": "ST01",
-      "number": "ST01-007",
-      "reason": "no Bandai printing of this number in its set matches the image",
-      "closest": []
-    },
-    {
-      "productId": 288243,
-      "name": "Guard Point",
-      "set": "ST01",
-      "number": "ST01-014",
-      "reason": "no Bandai printing of this number in its set matches the image",
       "closest": [
         {
-          "printing": "ST01-014",
-          "distance": 132
-        },
-        {
-          "printing": "ST01-014_p3",
-          "distance": 132
-        },
-        {
-          "printing": "ST01-014_p2",
-          "distance": 134
+          "printing": "ST01-001",
+          "distance": 29
         }
       ]
-    },
-    {
-      "productId": 288244,
-      "name": "Gum-Gum Jet Pistol",
-      "set": "ST01",
-      "number": "ST01-015",
-      "reason": "no Bandai printing of this number in its set matches the image",
-      "closest": []
-    },
-    {
-      "productId": 288245,
-      "name": "Diable Jambe",
-      "set": "ST01",
-      "number": "ST01-016",
-      "reason": "no Bandai printing of this number in its set matches the image",
-      "closest": []
-    },
-    {
-      "productId": 288246,
-      "name": "Thousand Sunny",
-      "set": "ST01",
-      "number": "ST01-017",
-      "reason": "no Bandai printing of this number in its set matches the image",
-      "closest": []
-    },
-    {
-      "productId": 288253,
-      "name": "Killer",
-      "set": "ST02",
-      "number": "ST02-005",
-      "reason": "no Bandai printing of this number in its set matches the image",
-      "closest": []
-    },
-    {
-      "productId": 288255,
-      "name": "Jewelry Bonney",
-      "set": "ST02",
-      "number": "ST02-007",
-      "reason": "no Bandai printing of this number in its set matches the image",
-      "closest": []
-    },
-    {
-      "productId": 288256,
-      "name": "Scratchmen Apoo",
-      "set": "ST02",
-      "number": "ST02-008",
-      "reason": "no Bandai printing of this number in its set matches the image",
-      "closest": []
-    },
-    {
-      "productId": 288263,
-      "name": "Scalpel",
-      "set": "ST02",
-      "number": "ST02-015",
-      "reason": "no Bandai printing of this number in its set matches the image",
-      "closest": []
-    },
-    {
-      "productId": 288264,
-      "name": "Repel",
-      "set": "ST02",
-      "number": "ST02-016",
-      "reason": "no Bandai printing of this number in its set matches the image",
-      "closest": []
-    },
-    {
-      "productId": 288265,
-      "name": "Straw Sword",
-      "set": "ST02",
-      "number": "ST02-017",
-      "reason": "no Bandai printing of this number in its set matches the image",
-      "closest": []
-    },
-    {
-      "productId": 288271,
-      "name": "Ulti",
-      "set": "ST04",
-      "number": "ST04-002",
-      "reason": "no Bandai printing of this number in its set matches the image",
-      "closest": []
-    },
-    {
-      "productId": 288274,
-      "name": "Kaido (003)",
-      "set": "ST04",
-      "number": "ST04-003",
-      "reason": "no Bandai printing of this number in its set matches the image",
-      "closest": [
-        {
-          "printing": "ST04-003",
-          "distance": 104
-        },
-        {
-          "printing": "ST04-003_r1",
-          "distance": 105
-        }
-      ]
-    },
-    {
-      "productId": 288276,
-      "name": "King",
-      "set": "ST04",
-      "number": "ST04-004",
-      "reason": "no Bandai printing of this number in its set matches the image",
-      "closest": []
-    },
-    {
-      "productId": 288285,
-      "name": "Jack",
-      "set": "ST04",
-      "number": "ST04-008",
-      "reason": "no Bandai printing of this number in its set matches the image",
-      "closest": []
-    },
-    {
-      "productId": 288292,
-      "name": "Who's.Who",
-      "set": "ST04",
-      "number": "ST04-010",
-      "reason": "no Bandai printing of this number in its set matches the image",
-      "closest": []
-    },
-    {
-      "productId": 288296,
-      "name": "Lead Performer \"Disaster\"",
-      "set": "ST04",
-      "number": "ST04-014",
-      "reason": "no Bandai printing of this number in its set matches the image",
-      "closest": []
-    },
-    {
-      "productId": 288297,
-      "name": "Brachio Bomber",
-      "set": "ST04",
-      "number": "ST04-015",
-      "reason": "no Bandai printing of this number in its set matches the image",
-      "closest": []
-    },
-    {
-      "productId": 288298,
-      "name": "Blast Breath",
-      "set": "ST04",
-      "number": "ST04-016",
-      "reason": "no Bandai printing of this number in its set matches the image",
-      "closest": [
-        {
-          "printing": "ST04-016_p3",
-          "distance": 125
-        },
-        {
-          "printing": "ST04-016_r1",
-          "distance": 129
-        },
-        {
-          "printing": "ST04-016",
-          "distance": 130
-        }
-      ]
-    },
-    {
-      "productId": 288299,
-      "name": "Onigashima Island",
-      "set": "ST04",
-      "number": "ST04-017",
-      "reason": "no Bandai printing of this number in its set matches the image",
-      "closest": []
     }
   ],
   "pending": [

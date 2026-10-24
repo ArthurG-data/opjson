@@ -356,8 +356,9 @@
           "tcgplayer": {
             "name": "Crocodile (003)",
             "match": "minted",
-            "distance": null
+            "distance": 9
           },
+          "artOf": "ST03-003",
           "finishes": [
             "foil",
             "nonfoil"
@@ -449,19 +450,6 @@
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST03-004_r1.png",
           "cardSet": "-Blue Donquixote Doflamingo- [ST-17]",
           "source": "bandai",
-          "identifiers": {
-            "tcgplayerProductIds": [
-              599835
-            ]
-          },
-          "finishes": [
-            "nonfoil"
-          ],
-          "tcgplayer": {
-            "name": "Gecko Moria",
-            "match": "image",
-            "distance": 5
-          },
           "artOf": "ST03-004"
         },
         {
@@ -519,6 +507,27 @@
               "type": "event_pack",
               "category": "event"
             }
+          ]
+        },
+        {
+          "id": "ST03-004~tcg599835",
+          "set": "OP-RP",
+          "rarity": "C",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/599835_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              599835
+            ]
+          },
+          "tcgplayer": {
+            "name": "Gecko Moria",
+            "match": "minted",
+            "distance": 8
+          },
+          "artOf": "ST03-004",
+          "finishes": [
+            "nonfoil"
           ]
         },
         {
@@ -1013,8 +1022,9 @@
           "tcgplayer": {
             "name": "Sentomaru",
             "match": "minted",
-            "distance": null
+            "distance": 6
           },
+          "artOf": "ST03-007",
           "finishes": [
             "nonfoil"
           ]
@@ -2202,8 +2212,9 @@
           "tcgplayer": {
             "name": "Marshall.D.Teach",
             "match": "minted",
-            "distance": null
+            "distance": 2
           },
+          "artOf": "ST03-014",
           "finishes": [
             "nonfoil"
           ]
@@ -2286,8 +2297,9 @@
           "tcgplayer": {
             "name": "Sables",
             "match": "minted",
-            "distance": null
+            "distance": 5
           },
+          "artOf": "ST03-015",
           "finishes": [
             "nonfoil"
           ]
@@ -2370,8 +2382,9 @@
           "tcgplayer": {
             "name": "Thrust Pad Cannon",
             "match": "minted",
-            "distance": null
+            "distance": 5
           },
+          "artOf": "ST03-016",
           "finishes": [
             "nonfoil"
           ]
@@ -2483,8 +2496,9 @@
           "tcgplayer": {
             "name": "Love-Love Mellow",
             "match": "minted",
-            "distance": null
+            "distance": 4
           },
+          "artOf": "ST03-017",
           "finishes": [
             "nonfoil"
           ]

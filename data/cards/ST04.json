@@ -105,8 +105,9 @@
           "tcgplayer": {
             "name": "Kaido (001)",
             "match": "minted",
-            "distance": null
+            "distance": 8
           },
+          "artOf": "ST04-001",
           "finishes": [
             "foil",
             "nonfoil"
@@ -141,7 +142,7 @@
           "source": "bandai",
           "identifiers": {
             "tcgplayerProductIds": [
-              599817
+              288271
             ]
           },
           "finishes": [
@@ -149,8 +150,8 @@
           ],
           "tcgplayer": {
             "name": "Ulti",
-            "match": "image",
-            "distance": 4
+            "match": "name",
+            "distance": null
           }
         },
         {
@@ -208,6 +209,27 @@
               "category": "event"
             }
           ]
+        },
+        {
+          "id": "ST04-002~tcg599817",
+          "set": "OP-RP",
+          "rarity": "C",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/599817_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              599817
+            ]
+          },
+          "tcgplayer": {
+            "name": "Ulti",
+            "match": "minted",
+            "distance": 4
+          },
+          "artOf": "ST04-002",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
@@ -235,7 +257,21 @@
           "block": "1",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST04-003.png",
           "cardSet": "-Animal Kingdom Pirates-[ST-04]",
-          "source": "bandai"
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              288274
+            ]
+          },
+          "finishes": [
+            "foil",
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "Kaido (003)",
+            "match": "name",
+            "distance": null
+          }
         },
         {
           "id": "ST04-003_p1",
@@ -459,6 +495,28 @@
               "category": "event"
             }
           ]
+        },
+        {
+          "id": "ST04-003~tcg599813",
+          "set": "OP-RP",
+          "rarity": "SR",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/599813_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              599813
+            ]
+          },
+          "tcgplayer": {
+            "name": "Kaido (003)",
+            "match": "minted",
+            "distance": 3
+          },
+          "artOf": "ST04-003",
+          "finishes": [
+            "foil",
+            "nonfoil"
+          ]
         }
       ]
     },
@@ -488,17 +546,16 @@
           "source": "bandai",
           "identifiers": {
             "tcgplayerProductIds": [
-              599809
+              288276
             ]
           },
           "finishes": [
-            "foil",
-            "nonfoil"
+            "foil"
           ],
           "tcgplayer": {
             "name": "King",
-            "match": "image",
-            "distance": 4
+            "match": "name",
+            "distance": null
           }
         },
         {
@@ -526,6 +583,28 @@
               "type": "prerelease",
               "category": "event"
             }
+          ]
+        },
+        {
+          "id": "ST04-004~tcg599809",
+          "set": "OP-RP",
+          "rarity": "SR",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/599809_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              599809
+            ]
+          },
+          "tcgplayer": {
+            "name": "King",
+            "match": "minted",
+            "distance": 4
+          },
+          "artOf": "ST04-004",
+          "finishes": [
+            "foil",
+            "nonfoil"
           ]
         }
       ]
@@ -897,7 +976,7 @@
           "source": "bandai",
           "identifiers": {
             "tcgplayerProductIds": [
-              599805
+              288285
             ]
           },
           "finishes": [
@@ -905,8 +984,8 @@
           ],
           "tcgplayer": {
             "name": "Jack",
-            "match": "image",
-            "distance": 3
+            "match": "name",
+            "distance": null
           }
         },
         {
@@ -1085,6 +1164,27 @@
               "category": "retail"
             }
           ]
+        },
+        {
+          "id": "ST04-008~tcg599805",
+          "set": "OP-RP",
+          "rarity": "C",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/599805_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              599805
+            ]
+          },
+          "tcgplayer": {
+            "name": "Jack",
+            "match": "minted",
+            "distance": 3
+          },
+          "artOf": "ST04-008",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
@@ -1183,7 +1283,7 @@
           "source": "bandai",
           "identifiers": {
             "tcgplayerProductIds": [
-              599802
+              288292
             ]
           },
           "finishes": [
@@ -1191,8 +1291,8 @@
           ],
           "tcgplayer": {
             "name": "Who's.Who",
-            "match": "image",
-            "distance": 9
+            "match": "name",
+            "distance": null
           }
         },
         {
@@ -1293,6 +1393,27 @@
               "type": "event_pack",
               "category": "event"
             }
+          ]
+        },
+        {
+          "id": "ST04-010~tcg599802",
+          "set": "OP-RP",
+          "rarity": "C",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/599802_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              599802
+            ]
+          },
+          "tcgplayer": {
+            "name": "Who's.Who",
+            "match": "minted",
+            "distance": 9
+          },
+          "artOf": "ST04-010",
+          "finishes": [
+            "nonfoil"
           ]
         }
       ]
@@ -1637,7 +1758,7 @@
           "source": "bandai",
           "identifiers": {
             "tcgplayerProductIds": [
-              599796
+              288296
             ]
           },
           "finishes": [
@@ -1645,8 +1766,8 @@
           ],
           "tcgplayer": {
             "name": "Lead Performer \"Disaster\"",
-            "match": "image",
-            "distance": 5
+            "match": "name",
+            "distance": null
           }
         },
         {
@@ -1675,6 +1796,27 @@
               "category": "event"
             }
           ]
+        },
+        {
+          "id": "ST04-014~tcg599796",
+          "set": "OP-RP",
+          "rarity": "C",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/599796_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              599796
+            ]
+          },
+          "tcgplayer": {
+            "name": "Lead Performer \"Disaster\"",
+            "match": "minted",
+            "distance": 5
+          },
+          "artOf": "ST04-014",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
@@ -1700,7 +1842,7 @@
           "source": "bandai",
           "identifiers": {
             "tcgplayerProductIds": [
-              599785
+              288297
             ]
           },
           "finishes": [
@@ -1708,8 +1850,8 @@
           ],
           "tcgplayer": {
             "name": "Brachio Bomber",
-            "match": "image",
-            "distance": 6
+            "match": "name",
+            "distance": null
           }
         },
         {
@@ -1738,6 +1880,27 @@
               "category": "event"
             }
           ]
+        },
+        {
+          "id": "ST04-015~tcg599785",
+          "set": "OP-RP",
+          "rarity": "C",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/599785_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              599785
+            ]
+          },
+          "tcgplayer": {
+            "name": "Brachio Bomber",
+            "match": "minted",
+            "distance": 6
+          },
+          "artOf": "ST04-015",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
@@ -1761,7 +1924,20 @@
           "block": "1",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST04-016.png",
           "cardSet": "-Animal Kingdom Pirates-[ST-04]",
-          "source": "bandai"
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              288298
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "Blast Breath",
+            "match": "name",
+            "distance": null
+          }
         },
         {
           "id": "ST04-016_p2",
@@ -1846,6 +2022,27 @@
               "category": "event"
             }
           ]
+        },
+        {
+          "id": "ST04-016~tcg599780",
+          "set": "OP-RP",
+          "rarity": "C",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/599780_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              599780
+            ]
+          },
+          "tcgplayer": {
+            "name": "Blast Breath",
+            "match": "minted",
+            "distance": 3
+          },
+          "artOf": "ST04-016",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
@@ -1871,7 +2068,7 @@
           "source": "bandai",
           "identifiers": {
             "tcgplayerProductIds": [
-              599774
+              288299
             ]
           },
           "finishes": [
@@ -1879,8 +2076,8 @@
           ],
           "tcgplayer": {
             "name": "Onigashima Island",
-            "match": "image",
-            "distance": 3
+            "match": "name",
+            "distance": null
           }
         },
         {
@@ -1934,6 +2131,27 @@
               "type": "retail_product",
               "category": "retail"
             }
+          ]
+        },
+        {
+          "id": "ST04-017~tcg599774",
+          "set": "OP-RP",
+          "rarity": "C",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/599774_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              599774
+            ]
+          },
+          "tcgplayer": {
+            "name": "Onigashima Island",
+            "match": "minted",
+            "distance": 3
+          },
+          "artOf": "ST04-017",
+          "finishes": [
+            "nonfoil"
           ]
         }
       ]

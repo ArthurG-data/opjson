@@ -46,6 +46,18 @@ CATEGORY_RULES = [
     (r"booster pack|\bbooster$|^extra booster:.*\bpack$", "booster_pack"),
 ]
 _SLUG = re.compile(r"[^a-z0-9]+")
+# Catch-all groups: their publishedOn is when TCGplayer opened the group, years before most of what is in it.
+UNDATED_GROUPS = {"OP-PR", "OP-CS"}
+
+
+def release_date(group: dict, released_on: str | None) -> str | None:
+    """TCGplayer's own date for the product, else its group's, except in a catch-all group, where a wrong date
+    would be worse than none."""
+    if released_on:
+        return released_on
+    if group.get("abbreviation") in UNDATED_GROUPS:
+        return None
+    return (group.get("publishedOn") or "")[:10] or None
 
 
 def classify(name: str) -> str:
@@ -84,9 +96,8 @@ def main() -> None:
                        "identifiers": {"tcgplayerProductIds": [p.product_id]},
                        "contentsStatus": "unknown", "contents": {},
                        "sources": [f"https://www.tcgplayer.com/product/{p.product_id}"]}
-            published = (g.get("publishedOn") or "")[:10]
-            if published:
-                product["releaseDate"] = published
+            if released := release_date(g, p.released_on):
+                product["releaseDate"] = released
             if category in ("booster_pack", "sleeved_booster_pack") and role["role"] == "set":
                 product["contents"]["pool"] = [{"set": role["set"]}]
                 product["contentsStatus"] = "partial"

@@ -26,6 +26,7 @@ class Product:
     image_url: str
     url: str
     extended: dict
+    released_on: str | None = None  # TCGplayer's own release date for the product (presaleInfo), when it gives one
 
     @property
     def number(self) -> str | None:
@@ -68,7 +69,8 @@ def products(group_id: int, cache: Path, refresh: bool = False) -> list[Product]
     rows = _get(f"{TCGCSV}/{CATEGORY}/{group_id}/products", cache, refresh)["results"]
     return [Product(product_id=r["productId"], group_id=r["groupId"], name=r["name"],
                     clean_name=r.get("cleanName") or "", image_url=r.get("imageUrl") or "", url=r.get("url") or "",
-                    extended={e["name"]: e["value"] for e in r.get("extendedData") or []})
+                    extended={e["name"]: e["value"] for e in r.get("extendedData") or []},
+                    released_on=((r.get("presaleInfo") or {}).get("releasedOn") or "")[:10] or None)
             for r in rows]
 
 

@@ -27,6 +27,35 @@ CARD_FACTS = ("name", "category", "cost", "power", "counter", "life", "attribute
 SPECIAL_SERIES = {"569901": ("P", "promo", "Promotion Cards"), "569801": ("OTHER", "box_set", "Other Product Cards")}
 _KINDS = (("PREMIUM BOOSTER", "premium_booster"), ("EXTRA BOOSTER", "extra_booster"),
           ("BOOSTER PACK", "booster"), ("ULTRA DECK", "ultra_deck"), ("STARTER DECK", "starter_deck"))
+# Words a title keeps in lower case unless it starts with them.
+_SMALL_WORDS = {"a", "an", "and", "at", "by", "for", "in", "of", "on", "the", "to"}
+# Names the word rule gets wrong: "THE BEST" is the product's own subtitle, and "vol.2" and "edition" are
+# printed in lower case after a name in capitals.
+_NAME_OVERRIDES = {
+    "ONE PIECE CARD THE BEST": "One Piece Card The Best",
+    "ONE PIECE CARD THE BEST vol.2": "One Piece Card The Best Vol.2",
+    "ONE PIECE HEROINES EDITION vol.2": "One Piece Heroines Edition Vol.2",
+    "ONE PIECE FILM edition": "One Piece Film Edition",
+}
+_CAPITALS_WORD = re.compile(r"[A-Z’'/.!&-]*[A-Z][A-Z’'/.!&-]*[A-Z][A-Z’'/.!&-]*")
+
+
+def display_name(name: str) -> str:
+    """Bandai prints most booster names, and the colours of starter decks, in capitals (ROMANCE DAWN,
+    RED/BLACK Sabo). Each word in capitals is title-cased the way TCGplayer writes it (Romance Dawn,
+    Red/Black Sabo). A word in mixed case, a single letter, and a word that mixes letters and digits
+    (GEAR5, 3D2Y) are kept as Bandai prints them."""
+    if name in _NAME_OVERRIDES:
+        return _NAME_OVERRIDES[name]
+    out = []
+    for i, word in enumerate(name.split(" ")):
+        if i and word.isupper() and word.lower() in _SMALL_WORDS:
+            out.append(word.lower())
+        elif _CAPITALS_WORD.fullmatch(word):
+            out.append("/".join(part[:1] + part[1:].lower() for part in word.split("/")))
+        else:
+            out.append(word)
+    return " ".join(out)
 
 
 def set_code(series: bandai.Series) -> str:
@@ -44,8 +73,9 @@ def set_entry(series: bandai.Series) -> dict:
         code = set_code(series)
         kind = next(k for prefix, k in _KINDS if series.title.upper().startswith(prefix))
         name = re.sub(r"\s*\[[^\]]+\]\s*$", "", series.title)
-        name = re.sub(r"^(PREMIUM BOOSTER|EXTRA BOOSTER|BOOSTER PACK|ULTRA DECK|STARTER DECK EX|STARTER DECK)\s*",
-                      "", name).strip(" -")
+        name = display_name(re.sub(
+            r"^(PREMIUM BOOSTER|EXTRA BOOSTER|BOOSTER PACK|ULTRA DECK|STARTER DECK EX|STARTER DECK)\s*",
+            "", name).strip(" -"))
     return {"id": code, "type": kind, "bandaiSeriesId": series.series_id,
             "releases": [{"language": "en", "name": name,
                           "source": bandai.CARDLIST.format(series=series.series_id)}]}

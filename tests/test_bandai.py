@@ -71,3 +71,18 @@ def test_image_cache_keys_cannot_leave_the_cache():
         except ValueError:
             continue
         raise AssertionError(f"{bad!r} was accepted")
+
+
+def test_display_name_title_cases_bandai_capitals_and_keeps_stylised_names():
+    assert import_bandai.display_name("ROMANCE DAWN") == "Romance Dawn"
+    assert import_bandai.display_name("EMPERORS IN THE NEW WORLD") == "Emperors in the New World"
+    assert import_bandai.display_name("A FIST OF DIVINE SPEED") == "A Fist of Divine Speed"
+    assert import_bandai.display_name("THE WORLD’S STRONGEST WARRIORS") == "The World’s Strongest Warriors"
+    assert import_bandai.display_name("500 YEARS IN THE FUTURE") == "500 Years in the Future"
+    assert import_bandai.display_name("ONE PIECE CARD THE BEST") == "One Piece Card The Best"
+    assert import_bandai.display_name("GEAR5") == "GEAR5"
+    assert import_bandai.display_name("3D2Y") == "3D2Y"
+    assert import_bandai.display_name("Straw Hat Crew") == "Straw Hat Crew"
+    assert import_bandai.display_name("RED/BLACK Sabo") == "Red/Black Sabo"
+    assert import_bandai.display_name("PURPLE/BLACK Monkey.D.Luffy") == "Purple/Black Monkey.D.Luffy"
+    assert import_bandai.display_name("ONE PIECE HEROINES EDITION vol.2") == "One Piece Heroines Edition Vol.2"

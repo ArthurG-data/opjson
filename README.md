@@ -97,7 +97,11 @@ The formats are `schema/sets.schema.json`, `schema/cards.schema.json` and `schem
   gold or serial.
 - **`promoTypes`** are the programs a printing comes from, each with a `category` (event, championship, retail,
   foil-pattern and so on).
-- **`finishes`** are nonfoil and/or foil, from TCGplayer's price subtypes. Named foils are promo types with the
+- **`finishes`** are nonfoil and/or foil, from TCGplayer's price subtypes. A printing TCGplayer does not price
+  gets a finish only from a rule in `tools/infer_finishes.py`, which applies to a kind of printing only while
+  every priced printing of that kind agrees. Today the one rule makes a Bandai reprint (`_rN`) of a Common or
+  Uncommon with no art treatment nonfoil. `review/inferred-finishes.json` lists each printing a rule filled, and
+  any other printing TCGplayer does not price has no `finishes`. Named foils are promo types with the
   category `foil-pattern`, not finishes, the way Scryfall records Magic's surge and galaxy foils. PRB-01 prints
   each of its reprints twice in foil: a Jolly Roger Foil and a Textured Foil with the same number, rarity and art.
   Bandai files the Jolly Roger Foil as the lower `_pN` and the Textured Foil as the next one. The Textured Foil
@@ -219,6 +223,7 @@ uv run --group dev python tools/images.py fetch      # cache both sites' card im
 uv run --group dev python tools/check_blocks.py      # the block icon printed on each card, where the list differs
 uv run --group dev python tools/import_tcgplayer.py  # TCGplayer ids, stamped and promo printings
 uv run --group dev python tools/link_reprint_art.py  # reprints that reuse an earlier printing's art (artOf)
+uv run python tools/infer_finishes.py                # finishes of unpriced printings, by rule (after import_tcgplayer)
 uv run python tools/import_logos.py                  # set logos, where Bandai's product page shows one
 uv run python tools/import_sealed.py                 # sealed products, then the curated ones
 uv run --group dev python tools/import_key_art.py    # set key art (after import_logos and import_sealed)

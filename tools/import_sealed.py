@@ -9,6 +9,9 @@ Contents are written only where a source states them:
   the card list gives no quantities;
 - a display or case names the product it holds, without a count, because no source in reach gives one.
 So `contentsStatus` is `partial` or `unknown`, never `complete`, until a contents source is added.
+
+Products TCGplayer does not sell (the Tournament Kits Bandai supplies to stores) come from
+mappings/sealed_curated.json, each with the Bandai page that states it, and are added after TCGplayer's.
 """
 from __future__ import annotations
 
@@ -24,6 +27,7 @@ from import_tcgplayer import group_roles
 ROOT = Path(__file__).resolve().parents[1]
 SEALED = ROOT / "data" / "sealed"
 CACHE = ROOT / ".cache" / "tcgcsv"
+CURATED = ROOT / "mappings" / "sealed_curated.json"
 
 # (regex on the product name, category). First match wins, so containers come before what they contain.
 CATEGORY_RULES = [
@@ -110,6 +114,7 @@ def main() -> None:
     # Ids are unique across every set, and settled before containers name the product they hold.
     _dedupe_ids([p for _, products in sorted(by_set.items()) for p in products])
     _link_containers(by_set)
+    _add_curated(by_set, json.loads(CURATED.read_text(encoding="utf-8"))["products"])
     SEALED.mkdir(parents=True, exist_ok=True)
     for old in SEALED.glob("*.json"):
         old.unlink()
@@ -138,6 +143,18 @@ def _link_containers(by_set: dict[str, list[dict]]) -> None:
             if held:
                 p["contents"]["sealed"] = [{"product": held["id"]}]
                 p["contentsStatus"] = "partial"
+
+
+def _add_curated(by_set: dict[str, list[dict]], curated: list[dict]) -> None:
+    """Add the curated products to their sets, keeping each set's products in id order. A curated id that is
+    already taken is an error: renaming it would break the contents that name it."""
+    taken = {p["id"] for products in by_set.values() for p in products}
+    for product in curated:
+        if product["id"] in taken:
+            raise ValueError(f"curated sealed product {product['id']} collides with a TCGplayer product's id")
+        taken.add(product["id"])
+        by_set[product["set"]].append(product)
+        by_set[product["set"]].sort(key=lambda x: x["id"])
 
 
 def _dedupe_ids(products: list[dict]) -> None:

@@ -18,7 +18,7 @@
           "set": {"type": "string"},
           "category": {"enum": ["booster_pack", "sleeved_booster_pack", "booster_box", "case", "display", "double_pack",
                                 "starter_deck", "ultra_deck", "premium_card_collection", "gift_collection", "tin",
-                                "illustration_box", "collection", "promo_pack", "other"]},
+                                "illustration_box", "collection", "promo_pack", "tournament_kit", "other"]},
           "name": {"type": "string", "minLength": 1},
           "releaseDate": {"type": "string", "format": "date"},
           "identifiers": {

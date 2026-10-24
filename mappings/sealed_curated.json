@@ -1,0 +1,20 @@
+{
+  "_comment": "Sealed products TCGplayer does not sell, each from the Bandai page in its sources. import_sealed.py adds them to data/sealed after TCGplayer's products; an id that collides with one of those fails the import.",
+  "products": [
+    {
+      "id": "tournament-kit-vol-7",
+      "set": "P",
+      "category": "tournament_kit",
+      "name": "Tournament Kit Vol. 7",
+      "contentsStatus": "partial",
+      "contents": {
+        "sealed": [
+          {"product": "tournament-pack-vol-7"},
+          {"product": "winner-pack-vol-7"},
+          {"product": "judge-pack-vol-3"}
+        ]
+      },
+      "sources": ["https://en.onepiece-cardgame.com/events/2024/store_tournament_vol7/"]
+    }
+  ]
+}

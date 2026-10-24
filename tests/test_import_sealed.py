@@ -1,3 +1,5 @@
+import pytest
+
 import import_sealed
 
 
@@ -26,3 +28,13 @@ def test_a_set_group_dates_its_products_and_a_catch_all_group_does_not():
     assert import_sealed.release_date({"abbreviation": "OP05", "publishedOn": "2023-12-08T00:00:00"}, None) == "2023-12-08"
     assert import_sealed.release_date({"abbreviation": "OP-PR", "publishedOn": "2022-09-30T00:00:00"}, None) is None
     assert import_sealed.release_date({"abbreviation": "OP-CS", "publishedOn": "2023-11-03T00:00:00"}, None) is None
+
+
+def test_curated_products_join_their_set_in_id_order_and_never_take_a_used_id():
+    by_set = {"P": [product("P", "Tournament Pack Vol. 7", 548440, "promo_pack")]}
+    kit = {**product("P", "Tournament Kit Vol. 7", 0, "tournament_kit"), "identifiers": {},
+           "contents": {"sealed": [{"product": "tournament-pack-vol-7"}]}}
+    import_sealed._add_curated(by_set, [kit])
+    assert [p["id"] for p in by_set["P"]] == ["tournament-kit-vol-7", "tournament-pack-vol-7"]
+    with pytest.raises(ValueError, match="collides"):
+        import_sealed._add_curated(by_set, [kit])

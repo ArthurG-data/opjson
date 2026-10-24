@@ -38,3 +38,17 @@ def test_curated_products_join_their_set_in_id_order_and_never_take_a_used_id():
     assert [p["id"] for p in by_set["P"]] == ["tournament-kit-vol-7", "tournament-pack-vol-7"]
     with pytest.raises(ValueError, match="collides"):
         import_sealed._add_curated(by_set, [kit])
+
+
+def test_curated_contents_fill_an_empty_product_and_never_replace_what_a_rule_derived():
+    uta = {**product("P", "One Piece Film Red Uta Promo Pack", 488903, "promo_pack"), "sources": ["tcgplayer"]}
+    by_set = {"P": [uta]}
+    entry = {"product": "one-piece-film-red-uta-promo-pack", "contentsStatus": "partial",
+             "contents": {"cards": [{"printing": "P-011"}]}, "sources": ["bandai"]}
+    import_sealed._add_curated_contents(by_set, [entry])
+    assert (uta["contents"], uta["contentsStatus"], uta["sources"]) == (
+        {"cards": [{"printing": "P-011"}]}, "partial", ["tcgplayer", "bandai"])
+    with pytest.raises(ValueError, match="would replace"):
+        import_sealed._add_curated_contents(by_set, [entry])
+    with pytest.raises(ValueError, match="not a sealed product"):
+        import_sealed._add_curated_contents(by_set, [{**entry, "product": "no-such-product"}])

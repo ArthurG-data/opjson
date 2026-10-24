@@ -1,5 +1,5 @@
 {
-  "_comment": "Sealed products TCGplayer does not sell, each from the Bandai page in its sources. import_sealed.py adds them to data/sealed after TCGplayer's products; an id that collides with one of those fails the import.",
+  "_comment": "Sealed products TCGplayer does not sell (products) and contents for products it does (contents), each from the Bandai pages in its sources. import_sealed.py adds them after TCGplayer's products; a product id already in use, or contents for a product that has some, fails the import.",
   "products": [
     {
       "id": "tournament-kit-vol-1",
@@ -14,6 +14,9 @@
           },
           {
             "product": "winner-pack-vol-1"
+          },
+          {
+            "product": "one-piece-film-red-uta-promo-pack"
           }
         ]
       },
@@ -264,6 +267,9 @@
           },
           {
             "product": "judge-pack-vol-6"
+          },
+          {
+            "product": "promotion-card-set-2025-vol-1"
           }
         ]
       },
@@ -287,6 +293,9 @@
           },
           {
             "product": "judge-pack-vol-7"
+          },
+          {
+            "product": "promotion-card-set-2025-vol-2"
           }
         ]
       },
@@ -355,6 +364,114 @@
       },
       "sources": [
         "https://en.onepiece-cardgame.com/events/02_452.html"
+      ]
+    },
+    {
+      "id": "promotion-card-set-2025-vol-1",
+      "set": "P",
+      "category": "promo_pack",
+      "name": "Promotion Card Set 2025 Vol. 1",
+      "contentsStatus": "partial",
+      "contents": {
+        "cards": [
+          {
+            "printing": "P-117"
+          }
+        ]
+      },
+      "sources": [
+        "https://en.onepiece-cardgame.com/events/2025/store_tournament_vol4/",
+        "https://en.onepiece-cardgame.com/cardlist/?series=569901"
+      ]
+    },
+    {
+      "id": "promotion-card-set-2025-vol-2",
+      "set": "P",
+      "category": "promo_pack",
+      "name": "Promotion Card Set 2025 Vol. 2",
+      "contentsStatus": "partial",
+      "contents": {
+        "cards": [
+          {
+            "printing": "P-101"
+          },
+          {
+            "printing": "P-102"
+          },
+          {
+            "printing": "P-103"
+          },
+          {
+            "printing": "P-104"
+          },
+          {
+            "printing": "P-105"
+          },
+          {
+            "printing": "P-106"
+          },
+          {
+            "printing": "P-107"
+          }
+        ]
+      },
+      "sources": [
+        "https://en.onepiece-cardgame.com/events/2026/store_tournament_vol1/",
+        "https://en.onepiece-cardgame.com/events/2025/store_tournament_vol4/",
+        "https://en.onepiece-cardgame.com/cardlist/?series=569901"
+      ]
+    }
+  ],
+  "contents": [
+    {
+      "product": "one-piece-film-red-uta-promo-pack",
+      "contentsStatus": "partial",
+      "contents": {
+        "cards": [
+          {
+            "printing": "P-011"
+          },
+          {
+            "printing": "P-012"
+          },
+          {
+            "printing": "P-013"
+          },
+          {
+            "printing": "P-014"
+          },
+          {
+            "printing": "P-015"
+          },
+          {
+            "printing": "P-016"
+          },
+          {
+            "printing": "P-017"
+          },
+          {
+            "printing": "P-018"
+          },
+          {
+            "printing": "P-019"
+          },
+          {
+            "printing": "P-020"
+          },
+          {
+            "printing": "P-021"
+          },
+          {
+            "printing": "P-022"
+          },
+          {
+            "printing": "P-023"
+          }
+        ]
+      },
+      "sources": [
+        "https://en.onepiece-cardgame.com/cardlist/?series=569901",
+        "https://en.onepiece-cardgame.com/events/2022/officialevents/store_tournament_vol1.php"
       ]
     }
   ]

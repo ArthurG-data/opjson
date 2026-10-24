@@ -11,7 +11,9 @@ Contents are written only where a source states them:
 So `contentsStatus` is `partial` or `unknown`, never `complete`, until a contents source is added.
 
 Products TCGplayer does not sell (the Tournament Kits Bandai supplies to stores) come from
-mappings/sealed_curated.json, each with the Bandai page that states it, and are added after TCGplayer's.
+mappings/sealed_curated.json, each with the Bandai page that states it, and are added after TCGplayer's. The same
+file gives contents to a TCGplayer product where a Bandai page states them (the FILM RED cards in TCGplayer's
+"One Piece Film Red Uta Promo Pack").
 """
 from __future__ import annotations
 
@@ -114,7 +116,9 @@ def main() -> None:
     # Ids are unique across every set, and settled before containers name the product they hold.
     _dedupe_ids([p for _, products in sorted(by_set.items()) for p in products])
     _link_containers(by_set)
-    _add_curated(by_set, json.loads(CURATED.read_text(encoding="utf-8"))["products"])
+    curated = json.loads(CURATED.read_text(encoding="utf-8"))
+    _add_curated(by_set, curated["products"])
+    _add_curated_contents(by_set, curated["contents"])
     SEALED.mkdir(parents=True, exist_ok=True)
     for old in SEALED.glob("*.json"):
         old.unlink()
@@ -155,6 +159,21 @@ def _add_curated(by_set: dict[str, list[dict]], curated: list[dict]) -> None:
         taken.add(product["id"])
         by_set[product["set"]].append(product)
         by_set[product["set"]].sort(key=lambda x: x["id"])
+
+
+def _add_curated_contents(by_set: dict[str, list[dict]], entries: list[dict]) -> None:
+    """Give a product the contents a curated entry states, and cite the entry's sources. The product must exist and
+    have no contents yet, so a curated entry never overwrites what a rule derived."""
+    by_id = {p["id"]: p for products in by_set.values() for p in products}
+    for entry in entries:
+        product = by_id.get(entry["product"])
+        if product is None:
+            raise ValueError(f"curated contents name {entry['product']}, which is not a sealed product")
+        if product["contents"]:
+            raise ValueError(f"curated contents for {entry['product']} would replace contents it already has")
+        product["contents"] = entry["contents"]
+        product["contentsStatus"] = entry["contentsStatus"]
+        product["sources"] = product["sources"] + entry["sources"]
 
 
 def _dedupe_ids(products: list[dict]) -> None:

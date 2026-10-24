@@ -17,7 +17,8 @@ jobs:
       - uses: astral-sh/setup-uv@v5
       - run: uv sync --group dev
       - run: uv run pytest -q
-      - run: uv run python tools/validate.py --online
+      # Every Bandai image is checked only for a release tag: about 5,000 requests the TCGplayer check does not need.
+      - run: uv run python tools/validate.py --online ${{ startsWith(github.ref, 'refs/tags/v') && '--images' || '' }}
       - run: uv run python tools/legality.py --online
 
   release:

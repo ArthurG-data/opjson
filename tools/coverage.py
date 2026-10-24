@@ -3,8 +3,8 @@
     uv run python tools/coverage.py [--strict]
 
 Every TCGplayer product in category 68 must end up in exactly one place: on a Bandai printing (matched by
-image), on a printing minted for it, on a sealed product, in review/tcgplayer-68.json, or in a set Bandai has
-not published yet (pending). --strict exits 1 if any product is unaccounted for or still in review.
+image), on a printing minted for it, on a sealed product, in review/tcgplayer-68.json, or, single or sealed, in a
+set Bandai has not published yet (pending). --strict exits 1 if any product is unaccounted for or still in review.
 """
 from __future__ import annotations
 
@@ -15,14 +15,15 @@ import sys
 
 import opjson
 import tcgcsv
-from import_tcgplayer import CACHE, REVIEW
+from import_tcgplayer import CACHE, REVIEW, group_roles
 
 
 def main() -> None:
     ap = argparse.ArgumentParser()
     ap.add_argument("--strict", action="store_true")
     args = ap.parse_args()
-    flat = opjson.flatten(opjson.load_sets(), opjson.load_cards(), opjson.load_sealed())
+    sets = opjson.load_sets()
+    flat = opjson.flatten(sets, opjson.load_cards(), opjson.load_sealed())
     review = json.loads(REVIEW.read_text(encoding="utf-8")) if REVIEW.exists() else {"unmatched": [], "pending": []}
 
     where: dict[int, str] = {}
@@ -39,10 +40,14 @@ def main() -> None:
 
     tally = collections.Counter()
     missing = []
-    for g in tcgcsv.groups(CACHE):
+    groups = tcgcsv.groups(CACHE)
+    roles = group_roles(groups, {s["id"] for s in sets})
+    for g in groups:
+        # A set Bandai has not published yet holds sealed products too; import_sealed skips its group whole.
+        pending_group = roles[g["groupId"]]["role"] == "pending"
         for p in tcgcsv.products(g["groupId"], CACHE):
             kind = "single" if p.is_single else "sealed"
-            place = where.get(p.product_id)
+            place = where.get(p.product_id) or ("pending" if pending_group else None)
             if place is None:
                 missing.append((p.product_id, p.name))
                 place = "UNACCOUNTED"

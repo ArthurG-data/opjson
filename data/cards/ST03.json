@@ -634,6 +634,25 @@
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST03-005_p4.png",
           "cardSet": "-ONE PIECE CARD THE BEST- [PRB-01]",
           "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              593580
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Dracule Mihawk (ST03-005) (Jolly Roger Foil)",
+            "match": "image+name",
+            "distance": 0
+          },
+          "promoTypes": [
+            {
+              "type": "jolly_roger_foil",
+              "category": "foil-pattern"
+            }
+          ],
           "artOf": "ST03-005"
         },
         {
@@ -1139,6 +1158,25 @@
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST03-008_p6.png",
           "cardSet": "-ONE PIECE CARD THE BEST- [PRB-01]",
           "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              593583
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Trafalgar Law (ST03-008) (Jolly Roger Foil)",
+            "match": "image+name",
+            "distance": 0
+          },
+          "promoTypes": [
+            {
+              "type": "jolly_roger_foil",
+              "category": "foil-pattern"
+            }
+          ],
           "artOf": "ST03-008"
         },
         {

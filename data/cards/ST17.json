@@ -563,25 +563,45 @@
           "source": "bandai",
           "identifiers": {
             "tcgplayerProductIds": [
+              656039
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "Marshall.D.Teach - ST17-005",
+            "match": "image-other-set",
+            "distance": 3
+          },
+          "artOf": "ST17-005",
+          "artist": "Hayaken-sarena"
+        },
+        {
+          "id": "ST17-005~tcg668204",
+          "set": "P",
+          "rarity": "C",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/668204_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
               668204
             ]
+          },
+          "tcgplayer": {
+            "name": "Marshall.D.Teach (Judge Pack Vol. 7)",
+            "match": "minted",
+            "distance": null
           },
           "finishes": [
             "foil"
           ],
-          "tcgplayer": {
-            "name": "Marshall.D.Teach (Judge Pack Vol. 7)",
-            "match": "image",
-            "distance": 10
-          },
           "promoTypes": [
             {
               "type": "judgegift",
               "category": "program"
             }
-          ],
-          "artOf": "ST17-005",
-          "artist": "Hayaken-sarena"
+          ]
         }
       ]
     }

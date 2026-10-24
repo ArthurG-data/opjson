@@ -114,6 +114,44 @@ def test_a_tag_breaks_an_image_tie_between_a_reprint_and_a_foil_pattern_copy():
     assert all(m.printing_id is None for m in it.assign([jrf, reprint], ["OP06-023_p2", "OP06-023_r1"], dist))
 
 
+def test_a_perfect_image_match_counts_in_a_tie():
+    # Belo Betty in PRB-01: the Jolly Roger Foil is OP05-015_p3 at 0 bits, the plain reprint 3 bits off.
+    jrf = product(1, "Belo Betty (Jolly Roger Foil)", "OP05-015")
+    dist = {(1, "OP05-015_p3"): 0, (1, "OP05-015_p4"): 46, (1, "OP05-015_r1"): 3}
+    m, = it.assign([jrf], sorted(c for _, c in dist), dist, kind_of=lambda p: it.product_kind(p, RULES))
+    assert (m.printing_id, m.evidence) == ("OP05-015_p3", "image+name")
+
+
+def test_tied_foil_patterns_take_bandais_order():
+    # Gum-Gum Giant Gavel in PRB-01 (distances from the real images): one art on _p2, _p3 and _r1.
+    jrf, tex = product(1, "Gum-Gum Giant Gavel (Jolly Roger Foil)", "OP03-055"), \
+        product(2, "Gum-Gum Giant Gavel (Textured Foil)", "OP03-055")
+    cands = ["OP03-055_p2", "OP03-055_p3", "OP03-055_r1"]
+    dist = {(1, "OP03-055_p2"): 3, (1, "OP03-055_p3"): 16, (1, "OP03-055_r1"): 23,
+            (2, "OP03-055_p2"): 15, (2, "OP03-055_p3"): 4, (2, "OP03-055_r1"): 23}
+    pattern = lambda p: it.foil_pattern(p, RULES)
+    got = {m.product.product_id: (m.printing_id, m.evidence)
+           for m in it.assign([tex, jrf], cands, dist, kind_of=lambda p: it.product_kind(p, RULES), pattern_of=pattern)}
+    assert got == {1: ("OP03-055_p2", "image+order"), 2: ("OP03-055_p3", "image+order")}
+    # Without the order the tie stays unmatched.
+    assert all(m.printing_id is None for m in it.assign([tex, jrf], cands, dist))
+
+
+def test_the_order_places_nothing_it_cannot_count():
+    pattern = lambda p: it.foil_pattern(p, RULES)
+    jrf = product(1, "Hound Blaze (Jolly Roger Foil)", "OP05-057")
+    # Two printings of the art for one pattern: which one is not settled.
+    two = {(1, "OP05-057_p2"): 2, (1, "OP05-057_p3"): 14, (1, "OP05-057_r1"): 2}
+    m, = it.assign([jrf], sorted(c for _, c in two), two, pattern_of=pattern)
+    assert m.printing_id is None
+    # A copy the images placed against the order voids it for the card.
+    tex = product(2, "Hound Blaze (Textured Foil)", "OP05-057")
+    swapped = {**two, (1, "OP05-057_p3"): 3, (2, "OP05-057_p2"): 1, (2, "OP05-057_p3"): 25, (2, "OP05-057_r1"): 70}
+    got = {m.product.product_id: m.printing_id
+           for m in it.assign([jrf, tex], ["OP05-057_p2", "OP05-057_p3"], swapped, pattern_of=pattern)}
+    assert got == {1: None, 2: "OP05-057_p2"}
+
+
 def test_a_tag_does_not_pick_between_two_printings_of_its_kind():
     drake = product(1, "X.Drake (Reprint)", "OP10-114")
     dist = {(1, "OP10-114_r1"): 5, (1, "OP10-114_r2"): 6}
@@ -130,6 +168,22 @@ def test_a_tie_on_the_art_band_is_settled_on_the_whole_card():
     same = {"ST04-008_p2": 8, "ST04-008_p1": 10}
     m, = it.assign([jack], ["ST04-008_p1", "ST04-008_p2"], dist, whole_dist=lambda p, c: same[c])
     assert m.printing_id is None
+
+
+def test_a_full_art_tag_names_a_variant_printing():
+    # Bartolomeo in PRB-01: the Full Art is P-029_p4 at 0 bits, the plain reprint 14 bits off.
+    full = product(1, "Bartolomeo (P-029) (Full Art)", "P-029")
+    m, = it.assign([full], ["P-029_p4", "P-029_r2"], {(1, "P-029_p4"): 0, (1, "P-029_r2"): 14},
+                   kind_of=lambda p: it.product_kind(p, RULES))
+    assert (m.printing_id, m.evidence) == ("P-029_p4", "image+name")
+
+
+def test_a_tag_names_a_card_set_by_its_title():
+    nami = product(1, "Nami - OP01-016 (Ultra Deck: The Three Captains)", "OP01-016")
+    assert it.names_card_set(nami, "-The Three Captains-[ST-10]")
+    judge = product(2, "Three Thousand Worlds (Judge Pack Vol. 2)", "OP03-057")
+    assert not it.names_card_set(judge, "-ONE PIECE CARD THE BEST- [PRB-01]")
+    assert not it.names_card_set(judge, None)
 
 
 def test_a_tag_naming_one_bandai_card_set_settles_identical_art():

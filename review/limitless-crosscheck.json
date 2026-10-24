@@ -571,6 +571,16 @@
       }
     },
     {
+      "product": 586590,
+      "limitless": "OP01-041_p4",
+      "opjson": "OP01-041_p3",
+      "opjsonMatch": {
+        "name": "Kouzuki Momonosuke (Jolly Roger Foil)",
+        "match": "image+name",
+        "distance": 0
+      }
+    },
+    {
       "product": 593286,
       "limitless": "OP01-041_p5",
       "opjson": "OP01-041_p4",
@@ -921,6 +931,16 @@
       }
     },
     {
+      "product": 587190,
+      "limitless": "OP02-089_p1",
+      "opjson": "OP02-089_p2",
+      "opjsonMatch": {
+        "name": "Judgment of Hell (Jolly Roger Foil)",
+        "match": "image+order",
+        "distance": 2
+      }
+    },
+    {
       "product": 593884,
       "limitless": "OP02-089_p2",
       "opjson": "OP02-089_p3",
@@ -1056,7 +1076,7 @@
       "opjson": "OP02-117_p6",
       "opjsonMatch": {
         "name": "Ice Age (Textured Foil)",
-        "match": "image-other-set",
+        "match": "image+order",
         "distance": 4
       }
     },
@@ -1211,6 +1231,26 @@
       }
     },
     {
+      "product": 593306,
+      "limitless": "OP03-055_p1",
+      "opjson": "OP03-055_p2",
+      "opjsonMatch": {
+        "name": "Gum-Gum Giant Gavel (Jolly Roger Foil)",
+        "match": "image+order",
+        "distance": 3
+      }
+    },
+    {
+      "product": 593886,
+      "limitless": "OP03-055_p2",
+      "opjson": "OP03-055_p3",
+      "opjsonMatch": {
+        "name": "Gum-Gum Giant Gavel (Textured Foil)",
+        "match": "image+order",
+        "distance": 4
+      }
+    },
+    {
       "product": 587229,
       "limitless": "OP03-055_p3",
       "opjson": "OP03-055~tcg587229",
@@ -1221,6 +1261,26 @@
       }
     },
     {
+      "product": 586201,
+      "limitless": "OP03-056_p1",
+      "opjson": "OP03-056_p2",
+      "opjsonMatch": {
+        "name": "Sanji's Pilaf (Jolly Roger Foil)",
+        "match": "image+order",
+        "distance": 1
+      }
+    },
+    {
+      "product": 593887,
+      "limitless": "OP03-056_p2",
+      "opjson": "OP03-056_p3",
+      "opjsonMatch": {
+        "name": "Sanji's Pilaf (Textured Foil)",
+        "match": "image+order",
+        "distance": 2
+      }
+    },
+    {
       "product": 593307,
       "limitless": "OP03-056_p3",
       "opjson": "OP03-056_p4",
@@ -1228,6 +1288,26 @@
         "name": "Sanji's Pilaf (Alternate Art)",
         "match": "image",
         "distance": 4
+      }
+    },
+    {
+      "product": 586599,
+      "limitless": "OP03-057_p1",
+      "opjson": "OP03-057_p2",
+      "opjsonMatch": {
+        "name": "Three Thousand Worlds (Jolly Roger Foil)",
+        "match": "image+order",
+        "distance": 1
+      }
+    },
+    {
+      "product": 593888,
+      "limitless": "OP03-057_p2",
+      "opjson": "OP03-057_p3",
+      "opjsonMatch": {
+        "name": "Three Thousand Worlds (Textured Foil)",
+        "match": "image+order",
+        "distance": 2
       }
     },
     {
@@ -1276,7 +1356,7 @@
       "opjson": "OP03-079_p3",
       "opjsonMatch": {
         "name": "Vergo (Jolly Roger Foil)",
-        "match": "image-other-set",
+        "match": "image+name",
         "distance": 0
       }
     },
@@ -1606,7 +1686,7 @@
       "opjson": "OP03-121_p4",
       "opjsonMatch": {
         "name": "Thunder Bolt (Textured Foil)",
-        "match": "image-other-set",
+        "match": "image+order",
         "distance": 3
       }
     },
@@ -1711,12 +1791,52 @@
       }
     },
     {
+      "product": 593430,
+      "limitless": "OP04-036_p1",
+      "opjson": "OP04-036_p2",
+      "opjsonMatch": {
+        "name": "Donquixote Family (Jolly Roger Foil)",
+        "match": "image+order",
+        "distance": 3
+      }
+    },
+    {
+      "product": 593891,
+      "limitless": "OP04-036_p2",
+      "opjson": "OP04-036_p3",
+      "opjsonMatch": {
+        "name": "Donquixote Family (Textured Foil)",
+        "match": "image+order",
+        "distance": 1
+      }
+    },
+    {
       "product": 586544,
       "limitless": "OP04-044_p3",
       "opjson": "OP04-044_p4",
       "opjsonMatch": {
         "name": "Kaido (OP04-044) (Alternate Art)",
         "match": "image",
+        "distance": 3
+      }
+    },
+    {
+      "product": 586198,
+      "limitless": "OP04-056_p1",
+      "opjson": "OP04-056_p2",
+      "opjsonMatch": {
+        "name": "Gum-Gum Red Roc (Jolly Roger Foil)",
+        "match": "image+order",
+        "distance": 4
+      }
+    },
+    {
+      "product": 593892,
+      "limitless": "OP04-056_p2",
+      "opjson": "OP04-056_p3",
+      "opjsonMatch": {
+        "name": "Gum-Gum Red Roc (Textured Foil)",
+        "match": "image+order",
         "distance": 3
       }
     },
@@ -1768,6 +1888,16 @@
         "name": "Bartolomeo (OP04-089) (Alternate Art)",
         "match": "image",
         "distance": 0
+      }
+    },
+    {
+      "product": 593432,
+      "limitless": "OP04-095_p1",
+      "opjson": "OP04-095_p2",
+      "opjsonMatch": {
+        "name": "Barrier!! (Jolly Roger Foil)",
+        "match": "image+order",
+        "distance": 6
       }
     },
     {
@@ -1911,6 +2041,16 @@
       }
     },
     {
+      "product": 586192,
+      "limitless": "OP05-015_p2",
+      "opjson": "OP05-015_p3",
+      "opjsonMatch": {
+        "name": "Belo Betty (Jolly Roger Foil)",
+        "match": "image+name",
+        "distance": 0
+      }
+    },
+    {
       "product": 593436,
       "limitless": "OP05-015_p3",
       "opjson": "OP05-015_p4",
@@ -2028,6 +2168,26 @@
         "name": "Ulti (Alternate Art)",
         "match": "image",
         "distance": 0
+      }
+    },
+    {
+      "product": 586601,
+      "limitless": "OP05-057_p1",
+      "opjson": "OP05-057_p2",
+      "opjsonMatch": {
+        "name": "Hound Blaze (Jolly Roger Foil)",
+        "match": "image+order",
+        "distance": 2
+      }
+    },
+    {
+      "product": 593894,
+      "limitless": "OP05-057_p2",
+      "opjson": "OP05-057_p3",
+      "opjsonMatch": {
+        "name": "Hound Blaze (Textured Foil)",
+        "match": "image+order",
+        "distance": 4
       }
     },
     {
@@ -2531,6 +2691,26 @@
       }
     },
     {
+      "product": 593491,
+      "limitless": "OP06-038_p1",
+      "opjson": "OP06-038_p2",
+      "opjsonMatch": {
+        "name": "The Billion-fold World Trichiliocosm (Jolly Roger Foil)",
+        "match": "image+order",
+        "distance": 1
+      }
+    },
+    {
+      "product": 593898,
+      "limitless": "OP06-038_p2",
+      "opjson": "OP06-038_p3",
+      "opjsonMatch": {
+        "name": "The Billion-fold World Trichiliocosm (Textured Foil)",
+        "match": "image+order",
+        "distance": 1
+      }
+    },
+    {
       "product": 587228,
       "limitless": "OP06-038_p3",
       "opjson": "OP06-038~tcg587228",
@@ -2588,6 +2768,26 @@
         "name": "Tsuru (CS 26-27 Celebration Pack)",
         "match": "minted",
         "distance": null
+      }
+    },
+    {
+      "product": 593493,
+      "limitless": "OP06-056_p1",
+      "opjson": "OP06-056_p2",
+      "opjsonMatch": {
+        "name": "Ama no Murakumo Sword (Jolly Roger Foil)",
+        "match": "image+order",
+        "distance": 2
+      }
+    },
+    {
+      "product": 593899,
+      "limitless": "OP06-056_p2",
+      "opjson": "OP06-056_p3",
+      "opjsonMatch": {
+        "name": "Ama no Murakumo Sword (Textured Foil)",
+        "match": "image+order",
+        "distance": 0
       }
     },
     {
@@ -2668,6 +2868,16 @@
         "name": "Vinsmoke Niji (OP06-065) (Alternate Art)",
         "match": "image",
         "distance": 3
+      }
+    },
+    {
+      "product": 593553,
+      "limitless": "OP06-066_p1",
+      "opjson": "OP06-066_p2",
+      "opjsonMatch": {
+        "name": "Vinsmoke Yonji (OP06-066) (Jolly Roger Foil)",
+        "match": "image+name",
+        "distance": 0
       }
     },
     {
@@ -2787,6 +2997,26 @@
       "opjsonMatch": {
         "name": "Hitokiri Kamazo (Pirate Foil)",
         "match": "image+name",
+        "distance": 3
+      }
+    },
+    {
+      "product": 587575,
+      "limitless": "OP06-079_p1",
+      "opjson": "OP06-079_p2",
+      "opjsonMatch": {
+        "name": "Kingdom of GERMA (Jolly Roger Foil)",
+        "match": "image+order",
+        "distance": 2
+      }
+    },
+    {
+      "product": 593900,
+      "limitless": "OP06-079_p2",
+      "opjson": "OP06-079_p3",
+      "opjsonMatch": {
+        "name": "Kingdom of GERMA (Textured Foil)",
+        "match": "image+order",
         "distance": 3
       }
     },
@@ -2967,6 +3197,16 @@
       "opjsonMatch": {
         "name": "Nekomamushi (Full Art)",
         "match": "image",
+        "distance": 0
+      }
+    },
+    {
+      "product": 593569,
+      "limitless": "OP06-114_p1",
+      "opjson": "OP06-114_p2",
+      "opjsonMatch": {
+        "name": "Wyper (Jolly Roger Foil)",
+        "match": "image+name",
         "distance": 0
       }
     },
@@ -4743,11 +4983,11 @@
     {
       "product": 525300,
       "limitless": "P-029_p1",
-      "opjson": "P-029_p4",
+      "opjson": "P-029~tcg525300",
       "opjsonMatch": {
         "name": "Bartolomeo (CS 2023 Event Pack)",
-        "match": "image",
-        "distance": 15
+        "match": "minted",
+        "distance": null
       }
     },
     {
@@ -4758,6 +4998,16 @@
         "name": "Bartolomeo (P-029) (Jolly Roger Foil)",
         "match": "image",
         "distance": 2
+      }
+    },
+    {
+      "product": 594239,
+      "limitless": "P-029_p3",
+      "opjson": "P-029_p4",
+      "opjsonMatch": {
+        "name": "Bartolomeo (P-029) (Full Art)",
+        "match": "image+name",
+        "distance": 0
       }
     },
     {
@@ -5273,11 +5523,11 @@
     {
       "product": 627095,
       "limitless": "P-075",
-      "opjson": "P-075~tcg627095",
+      "opjson": "P-075_p1",
       "opjsonMatch": {
         "name": "Monkey.D.Luffy (Premium Card Collection -Best Selection Vol. 3-)",
-        "match": "minted",
-        "distance": null
+        "match": "image",
+        "distance": 19
       }
     },
     {
@@ -6021,6 +6271,26 @@
       }
     },
     {
+      "product": 593576,
+      "limitless": "ST01-014_p1",
+      "opjson": "ST01-014_p2",
+      "opjsonMatch": {
+        "name": "Guard Point (Jolly Roger Foil)",
+        "match": "image+order",
+        "distance": 3
+      }
+    },
+    {
+      "product": 593901,
+      "limitless": "ST01-014_p2",
+      "opjson": "ST01-014_p3",
+      "opjsonMatch": {
+        "name": "Guard Point (Textured Foil)",
+        "match": "image+order",
+        "distance": 3
+      }
+    },
+    {
       "product": 539195,
       "limitless": "ST01-015_p1",
       "opjson": "ST01-015~tcg539195",
@@ -6491,6 +6761,26 @@
       }
     },
     {
+      "product": 593589,
+      "limitless": "ST04-016_p1",
+      "opjson": "ST04-016_p2",
+      "opjsonMatch": {
+        "name": "Blast Breath (Jolly Roger Foil)",
+        "match": "image+order",
+        "distance": 1
+      }
+    },
+    {
+      "product": 593902,
+      "limitless": "ST04-016_p2",
+      "opjson": "ST04-016_p3",
+      "opjsonMatch": {
+        "name": "Blast Breath (Textured Foil)",
+        "match": "image+order",
+        "distance": 5
+      }
+    },
+    {
       "product": 546671,
       "limitless": "ST04-016_p3",
       "opjson": "ST04-016_p4",
@@ -6631,6 +6921,26 @@
       }
     },
     {
+      "product": 593675,
+      "limitless": "ST06-014_p1",
+      "opjson": "ST06-014_p2",
+      "opjsonMatch": {
+        "name": "Shockwave (Jolly Roger Foil)",
+        "match": "image+order",
+        "distance": 1
+      }
+    },
+    {
+      "product": 593903,
+      "limitless": "ST06-014_p2",
+      "opjson": "ST06-014_p3",
+      "opjsonMatch": {
+        "name": "Shockwave (Textured Foil)",
+        "match": "image+order",
+        "distance": 3
+      }
+    },
+    {
       "product": 503021,
       "limitless": "ST07-007_p1",
       "opjson": "ST07-007~tcg503021",
@@ -6658,6 +6968,16 @@
         "name": "Uta - ST08-002 (Premium Card Collection -Uta-)",
         "match": "minted",
         "distance": null
+      }
+    },
+    {
+      "product": 593678,
+      "limitless": "ST09-014_p1",
+      "opjson": "ST09-014_p2",
+      "opjsonMatch": {
+        "name": "Narikabura Arrow (Jolly Roger Foil)",
+        "match": "image+order",
+        "distance": 1
       }
     },
     {
@@ -6788,6 +7108,16 @@
         "name": "Dracule Mihawk (Regional Participation Pack 2026 Vol.1)",
         "match": "minted",
         "distance": null
+      }
+    },
+    {
+      "product": 593680,
+      "limitless": "ST12-014_p1",
+      "opjson": "ST12-014_p2",
+      "opjsonMatch": {
+        "name": "Duval (Jolly Roger Foil)",
+        "match": "image+name",
+        "distance": 0
       }
     },
     {

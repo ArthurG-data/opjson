@@ -736,25 +736,6 @@
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST04-005_r1.png",
           "cardSet": "-ONE PIECE CARD THE BEST- [PRB-01]",
           "source": "bandai",
-          "identifiers": {
-            "tcgplayerProductIds": [
-              514066
-            ]
-          },
-          "finishes": [
-            "foil"
-          ],
-          "tcgplayer": {
-            "name": "Queen (Judge Pack Vol. 2)",
-            "match": "image",
-            "distance": 7
-          },
-          "promoTypes": [
-            {
-              "type": "judgegift",
-              "category": "program"
-            }
-          ],
           "artOf": "ST04-005"
         },
         {
@@ -781,6 +762,32 @@
             {
               "type": "prerelease",
               "category": "event"
+            }
+          ]
+        },
+        {
+          "id": "ST04-005~tcg514066",
+          "set": "P",
+          "rarity": "P",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/514066_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              514066
+            ]
+          },
+          "tcgplayer": {
+            "name": "Queen (Judge Pack Vol. 2)",
+            "match": "minted",
+            "distance": null
+          },
+          "finishes": [
+            "foil"
+          ],
+          "promoTypes": [
+            {
+              "type": "judgegift",
+              "category": "program"
             }
           ]
         },
@@ -1946,7 +1953,26 @@
           "block": "1",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST04-016_p2.png",
           "cardSet": "-ONE PIECE CARD THE BEST- [PRB-01]",
-          "source": "bandai"
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              593589
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Blast Breath (Jolly Roger Foil)",
+            "match": "image+order",
+            "distance": 1
+          },
+          "promoTypes": [
+            {
+              "type": "jolly_roger_foil",
+              "category": "foil-pattern"
+            }
+          ]
         },
         {
           "id": "ST04-016_p3",
@@ -1956,6 +1982,25 @@
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST04-016_p3.png",
           "cardSet": "-ONE PIECE CARD THE BEST- [PRB-01]",
           "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              593902
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Blast Breath (Textured Foil)",
+            "match": "image+order",
+            "distance": 5
+          },
+          "promoTypes": [
+            {
+              "type": "textured",
+              "category": "foil-pattern"
+            }
+          ],
           "artist": "tatsuya"
         },
         {

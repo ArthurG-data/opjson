@@ -2482,7 +2482,7 @@
           ],
           "tcgplayer": {
             "name": "Baby 5 (OP04-032) (Reprint)",
-            "match": "image-other-set",
+            "match": "image+name",
             "distance": 0
           },
           "treatments": [
@@ -2766,6 +2766,25 @@
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP04-036_p2.png",
           "cardSet": "-ONE PIECE CARD THE BEST- [PRB-01]",
           "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              593430
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Donquixote Family (Jolly Roger Foil)",
+            "match": "image+order",
+            "distance": 3
+          },
+          "promoTypes": [
+            {
+              "type": "jolly_roger_foil",
+              "category": "foil-pattern"
+            }
+          ],
           "artOf": "OP04-036"
         },
         {
@@ -2776,6 +2795,25 @@
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP04-036_p3.png",
           "cardSet": "-ONE PIECE CARD THE BEST- [PRB-01]",
           "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              593891
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Donquixote Family (Textured Foil)",
+            "match": "image+order",
+            "distance": 1
+          },
+          "promoTypes": [
+            {
+              "type": "textured",
+              "category": "foil-pattern"
+            }
+          ],
           "artOf": "OP04-036"
         },
         {
@@ -4204,6 +4242,25 @@
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP04-056_p2.png",
           "cardSet": "-ONE PIECE CARD THE BEST- [PRB-01]",
           "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              586198
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Gum-Gum Red Roc (Jolly Roger Foil)",
+            "match": "image+order",
+            "distance": 4
+          },
+          "promoTypes": [
+            {
+              "type": "jolly_roger_foil",
+              "category": "foil-pattern"
+            }
+          ],
           "artOf": "OP04-056"
         },
         {
@@ -4214,6 +4271,25 @@
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP04-056_p3.png",
           "cardSet": "-ONE PIECE CARD THE BEST- [PRB-01]",
           "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              593892
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Gum-Gum Red Roc (Textured Foil)",
+            "match": "image+order",
+            "distance": 3
+          },
+          "promoTypes": [
+            {
+              "type": "textured",
+              "category": "foil-pattern"
+            }
+          ],
           "artist": "Tacchan"
         },
         {
@@ -7222,7 +7298,26 @@
           "block": "1",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP04-095_p2.png",
           "cardSet": "-ONE PIECE CARD THE BEST- [PRB-01]",
-          "source": "bandai"
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              593432
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Barrier!! (Jolly Roger Foil)",
+            "match": "image+order",
+            "distance": 6
+          },
+          "promoTypes": [
+            {
+              "type": "jolly_roger_foil",
+              "category": "foil-pattern"
+            }
+          ]
         },
         {
           "id": "OP04-095_p3",

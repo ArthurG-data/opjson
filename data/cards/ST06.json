@@ -1057,7 +1057,26 @@
           "block": "1",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST06-014_p2.png",
           "cardSet": "-ONE PIECE CARD THE BEST- [PRB-01]",
-          "source": "bandai"
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              593675
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Shockwave (Jolly Roger Foil)",
+            "match": "image+order",
+            "distance": 1
+          },
+          "promoTypes": [
+            {
+              "type": "jolly_roger_foil",
+              "category": "foil-pattern"
+            }
+          ]
         },
         {
           "id": "ST06-014_p3",
@@ -1066,7 +1085,26 @@
           "block": "1",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST06-014_p3.png",
           "cardSet": "-ONE PIECE CARD THE BEST- [PRB-01]",
-          "source": "bandai"
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              593903
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Shockwave (Textured Foil)",
+            "match": "image+order",
+            "distance": 3
+          },
+          "promoTypes": [
+            {
+              "type": "textured",
+              "category": "foil-pattern"
+            }
+          ]
         },
         {
           "id": "ST06-014_r1",

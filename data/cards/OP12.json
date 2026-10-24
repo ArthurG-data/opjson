@@ -2118,19 +2118,6 @@
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP12-027_r1.png",
           "cardSet": "STARTER DECK -GREEN Roronoa Zoro- [ST-32]",
           "source": "bandai",
-          "identifiers": {
-            "tcgplayerProductIds": [
-              656639
-            ]
-          },
-          "finishes": [
-            "nonfoil"
-          ],
-          "tcgplayer": {
-            "name": "Koushirou (Zoro Deck)",
-            "match": "image",
-            "distance": 12
-          },
           "artOf": "OP12-027",
           "artist": "nukadokomogera"
         },
@@ -2161,6 +2148,26 @@
             }
           ],
           "artist": "nukadokomogera"
+        },
+        {
+          "id": "OP12-027~tcg656639",
+          "set": "LT01",
+          "rarity": "UC",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/656639_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              656639
+            ]
+          },
+          "tcgplayer": {
+            "name": "Koushirou (Zoro Deck)",
+            "match": "minted",
+            "distance": null
+          },
+          "finishes": [
+            "nonfoil"
+          ]
         },
         {
           "id": "OP12-027~tcg711495",

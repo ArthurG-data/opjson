@@ -12,10 +12,13 @@ a guess. Images cannot tell a foil-pattern reprint from the plain reprint of the
 are too close to call, the product's tag decides between Bandai's kinds: "(Reprint)" is an _rN printing and a
 parallel, alternate-art or foil-pattern tag a _pN one; the match stands only if the image pick is the one
 printing of that kind within ACCEPT (evidence "image+name"). Before that, a tie is retried on the whole card,
-whose lower half carries the stamps the art band ignores (evidence "whole-card"). A promo whose art is that of
+whose lower half carries the stamps the art band ignores (evidence "whole-card"). Foil-pattern copies of one card
+that are still tied (PRB-01's Jolly Roger and Textured Foils share their art) take its _pN printings of that art
+in Bandai's order, FOIL_PATTERN_ORDER (evidence "image+order"). A promo whose art is that of
 two unclaimed Bandai printings the images cannot tell apart is settled by Bandai's "Card Set(s)" when one of the
 product's tags names exactly one of them (evidence "image+cardset"), and otherwise goes to review rather than
-becoming a third copy. A reprint that TCGplayer files in another set's group is matched by image to the Bandai printing of its
+becoming a third copy. A promo never takes a printing Bandai files in a set that has its own TCGplayer group
+unless a tag names that printing's card set, as the Ultra Deck reprints' tags do. A reprint that TCGplayer files in another set's group is matched by image to the Bandai printing of its
 number wherever Bandai files it (evidence "image-other-set").
 
 Pre-release, release-event and anniversary groups hold stamped copies of a set's printings, the Revision Pack
@@ -67,6 +70,10 @@ CARD_NUMBER = re.compile(r"^[A-Z]+[0-9]*-[0-9]{3}$")
 FINISHES = {"Normal": "nonfoil", "Foil": "foil"}
 # TCGplayer rarity codes that Bandai spells differently, or that mean "no rarity".
 TCGPLAYER_RARITY = {"PR": "P", "None": None, "": None}
+# The order in which Bandai numbers one card's foil-pattern copies in a set. In PRB-01 the Jolly Roger Foil is
+# the lower _pN of the two on all 53 cards whose copies the images could place. The cards agree: a Textured Foil
+# prints the parallel star above its rarity code and a Jolly Roger Foil does not, on all 93 of Bandai's scans.
+FOIL_PATTERN_ORDER = ["jolly_roger_foil", "textured"]
 
 
 @dataclass
@@ -126,6 +133,8 @@ def classify_tags(tags: list[str], rules: list[dict]) -> tuple[list[str], list[t
 
 
 _KIND = re.compile(r"_(?P<kind>[pr])\d+$")
+# Treatments Bandai numbers as a _pN printing (every full-art, wanted-poster, gold and serial printing is one).
+VARIANT_TREATMENTS = {"parallel", "alternate_art", "manga", "sp", "full_art", "wanted_poster", "gold", "serial"}
 
 
 def printing_kind(printing_id: str) -> str | None:
@@ -139,7 +148,7 @@ def product_kind(product: tcgcsv.Product, rules: list[dict]) -> str | None:
     treatments, promos = classify_tags(product.base_name_and_tags()[1], rules)
     if "reprint" in treatments:
         return "r"
-    if set(treatments) & {"parallel", "alternate_art", "manga", "sp"} or any(c == "foil-pattern" for _, c in promos):
+    if set(treatments) & VARIANT_TREATMENTS or any(c == "foil-pattern" for _, c in promos):
         return "p"
     return None
 
@@ -148,10 +157,17 @@ def _key(text: str) -> str:
     return re.sub(r"[^a-z0-9]+", "", text.lower())
 
 
+def names_card_set(product: tcgcsv.Product, card_set: str | None) -> bool:
+    """Whether a tag of the product names this Bandai card set ("Ultra Deck: The Three Captains" names
+    "-The Three Captains-[ST-10]")."""
+    cs = _key(re.sub(r"\[[^\]]*\]", "", card_set or ""))  # without the set code Bandai appends
+    return bool(cs) and any(t == cs or t in cs or (len(cs) >= 8 and cs in t)
+                            for t in (_key(t) for t in product.base_name_and_tags()[1]) if len(t) >= 8)
+
+
 def card_set_pick(product: tcgcsv.Product, near: list[str], card_set_of) -> str | None:
     """The one printing in near whose Bandai card set a tag of the product names, else None."""
-    tags = [_key(t) for t in product.base_name_and_tags()[1] if len(_key(t)) >= 8]
-    hits = [c for c in near if (cs := _key(card_set_of(c) or "")) and any(t == cs or t in cs or cs in t for t in tags)]
+    hits = [c for c in near if names_card_set(product, card_set_of(c))]
     return hits[0] if len(hits) == 1 else None
 
 
@@ -163,19 +179,34 @@ def clear_winner(scored: list[tuple[int, str]]) -> str | None:
     return None
 
 
+def foil_pattern(product: tcgcsv.Product, rules: list[dict]) -> str | None:
+    """The one foil pattern of FOIL_PATTERN_ORDER a product's tags name, else None."""
+    _, promos = classify_tags(product.base_name_and_tags()[1], rules)
+    found = [promo for promo, category in promos if category == "foil-pattern" and promo in FOIL_PATTERN_ORDER]
+    return found[0] if len(found) == 1 else None
+
+
+def _suffix_number(printing_id: str) -> int:
+    return int(re.search(r"\d+$", printing_id).group())
+
+
 def assign(products: list[tcgcsv.Product], candidates: list[str],
            dist: dict[tuple[int, str], int | None], kind_of=lambda p: None,
-           whole_dist=lambda p, c: None) -> list[Match]:
+           whole_dist=lambda p, c: None, pattern_of=lambda p: None) -> list[Match]:
     """Match products to candidate printings by image. A tie on the art band is retried on the whole card
-    (whole_dist), then broken by the product's tag between kinds (kind_of gives 'p', 'r' or None). Every
+    (whole_dist), then broken by the product's tag between kinds (kind_of gives 'p', 'r' or None), and the
+    foil-pattern copies still tied are placed by Bandai's numbering (pattern_of, see order_by_pattern). Every
     product appears once in the result."""
     usable = list(candidates)
     if not usable:
         return [Match(p, None, None, "no Bandai printing of this number in the set") for p in products]
 
-    def cost(i: int, j: int) -> int:
-        d = dist.get((products[i].product_id, usable[j]))
+    def bits(p: tcgcsv.Product, c: str) -> int:
+        d = dist.get((p.product_id, c))
         return 10_000 if d is None else d
+
+    def cost(i: int, j: int) -> int:
+        return bits(products[i], usable[j])
 
     # Exact minimum-cost assignment when the cluster is small (it nearly always is: a handful of variants
     # of one card in one set); greedy by distance otherwise.
@@ -194,7 +225,7 @@ def assign(products: list[tcgcsv.Product], candidates: list[str],
     else:
         pairs, taken = {}, set()
         for (i, j) in sorted(((i, j) for i in range(len(products)) for j in range(len(usable))),
-                             key=lambda ij: dist.get((products[ij[0]].product_id, usable[ij[1]])) or 10_000):
+                             key=lambda ij: cost(*ij)):
             if i not in pairs and j not in taken:
                 pairs[i] = j
                 taken.add(j)
@@ -214,21 +245,47 @@ def assign(products: list[tcgcsv.Product], candidates: list[str],
         if d > ACCEPT:
             out.append(Match(p, None, d, f"best candidate {cand} is {d} bits away (accept <= {ACCEPT})"))
         elif runner_up is not None and runner_up - d < MARGIN:
-            near = [c for c in usable if (dist.get((p.product_id, c)) or 10_000) <= ACCEPT]
+            near = [c for c in usable if bits(p, c) <= ACCEPT]
             whole = [(w, c) for c in near if (w := whole_dist(p, c)) is not None]
             if len(whole) == len(near) and clear_winner(whole) == cand:
                 out.append(Match(p, cand, d, "whole-card"))
                 continue
             kind = kind_of(p)
-            same_kind = [c for c in usable if printing_kind(c) == kind
-                         and (dist.get((p.product_id, c)) or 10_000) <= ACCEPT]
+            same_kind = [c for c in near if printing_kind(c) == kind]
             if kind and same_kind == [cand]:
                 out.append(Match(p, cand, d, "image+name"))
             else:
                 out.append(Match(p, None, d, f"{cand} at {d} bits is not clear of the next candidate at {runner_up}"))
         else:
             out.append(Match(p, cand, d, "image" if others else "image-only-candidate"))
-    return out
+    return order_by_pattern(out, usable, bits, pattern_of)
+
+
+def order_by_pattern(out: list[Match], usable: list[str], bits, pattern_of) -> list[Match]:
+    """Place a card's foil-pattern copies the images left unmatched by Bandai's numbering: the _pN printings
+    that carry the art of all of them, lowest first, go to the patterns in FOIL_PATTERN_ORDER (evidence
+    "image+order"). Nothing changes unless there are exactly as many such printings as patterns, one product per
+    pattern, and every copy already matched sits where the order puts it."""
+    pattern = {m.product.product_id: pattern_of(m.product) for m in out}
+    patterned = [m for m in out if pattern[m.product.product_id]]
+    if all(m.printing_id for m in patterned):
+        return out
+    ranks = sorted({pattern[m.product.product_id] for m in patterned}, key=FOIL_PATTERN_ORDER.index)
+    held = {m.printing_id: m for m in out if m.printing_id}
+    slots = sorted((c for c in usable if printing_kind(c) == "p"
+                    and all(bits(m.product, c) <= ACCEPT for m in patterned)
+                    and (c not in held or pattern[held[c].product.product_id])), key=_suffix_number)
+    if len(ranks) != len(patterned) or len(slots) != len(ranks):
+        return out
+    slot_of = dict(zip(ranks, slots))
+    if any(m.printing_id and m.printing_id != slot_of[pattern[m.product.product_id]] for m in patterned):
+        return out
+    placed = []
+    for m in out:
+        slot = slot_of.get(pattern[m.product.product_id])
+        placed.append(Match(m.product, slot, bits(m.product, slot), "image+order")
+                      if slot and not m.printing_id else m)
+    return placed
 
 
 def assign_by_name(products: list[tcgcsv.Product], candidates: list[str], number: str,
@@ -266,6 +323,7 @@ def main() -> None:
 
     groups = tcgcsv.groups(CACHE)
     roles = group_roles(groups, set_ids)
+    set_groups = {r["set"] for r in roles.values() if r["role"] == "set"}
     hashes = images.HashCache()
 
     def bandai_hash(pid: str) -> int | None:
@@ -320,7 +378,8 @@ def main() -> None:
     for (set_id, number), products in sorted(clusters.items()):
         candidates = sorted(by_set_number.get((set_id, number), []))
         found = assign(products, candidates, distances(products, candidates),
-                       kind_of=lambda prod: product_kind(prod, rules), whole_dist=whole_distance)
+                       kind_of=lambda prod: product_kind(prod, rules), whole_dist=whole_distance,
+                       pattern_of=lambda prod: foil_pattern(prod, rules))
         imageless = [m.product for m in found if not m.printing_id and tcg_hash(m.product) is None]
         free = [c for c in candidates if c not in {m.printing_id for m in found}]
         by_name = {m.product.product_id: m for m in assign_by_name(imageless, free, number, rules)}
@@ -346,6 +405,11 @@ def main() -> None:
             pool = sorted(by_set_number.get((copied_set(role, number), number), []))
         else:
             pool = sorted(pid for pid, (n, _) in printings.items() if n == number and pid not in claimed)
+        if role["role"] == "promo":
+            # A printing Bandai files in a set TCGplayer gives its own group is that set's card, even when the group
+            # does not list it (PRB-01's plain reprints): a promo takes it only if a tag names its card set.
+            pool = [c for c in pool if printings[c][1]["set"] not in set_groups
+                    or names_card_set(p, printings[c][1].get("cardSet"))]
         dist = distances([p], pool)
         scored = sorted((d, c) for (_, c), d in dist.items() if d is not None)
         art = clear_winner(scored)

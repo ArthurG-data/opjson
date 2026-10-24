@@ -615,7 +615,26 @@
           "block": "1",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST09-014_p2.png",
           "cardSet": "-ONE PIECE CARD THE BEST- [PRB-01]",
-          "source": "bandai"
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              593678
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Narikabura Arrow (Jolly Roger Foil)",
+            "match": "image+order",
+            "distance": 1
+          },
+          "promoTypes": [
+            {
+              "type": "jolly_roger_foil",
+              "category": "foil-pattern"
+            }
+          ]
         },
         {
           "id": "ST09-014_p3",

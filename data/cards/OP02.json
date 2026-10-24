@@ -3814,26 +3814,33 @@
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP02-040_p1.png",
           "cardSet": "-Uta-[ST-11]",
           "source": "bandai",
+          "artOf": "OP02-040"
+        },
+        {
+          "id": "OP02-040~tcg514056",
+          "set": "P",
+          "rarity": "P",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/514056_in_400x400.jpg",
+          "source": "tcgplayer",
           "identifiers": {
             "tcgplayerProductIds": [
               514056
             ]
           },
+          "tcgplayer": {
+            "name": "Brook (Judge Pack Vol. 2)",
+            "match": "minted",
+            "distance": null
+          },
           "finishes": [
             "foil"
           ],
-          "tcgplayer": {
-            "name": "Brook (Judge Pack Vol. 2)",
-            "match": "image",
-            "distance": 3
-          },
           "promoTypes": [
             {
               "type": "judgegift",
               "category": "program"
             }
-          ],
-          "artOf": "OP02-040"
+          ]
         }
       ]
     },
@@ -7489,6 +7496,25 @@
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP02-089_p2.png",
           "cardSet": "-ONE PIECE CARD THE BEST- [PRB-01]",
           "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              587190
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Judgment of Hell (Jolly Roger Foil)",
+            "match": "image+order",
+            "distance": 2
+          },
+          "promoTypes": [
+            {
+              "type": "jolly_roger_foil",
+              "category": "foil-pattern"
+            }
+          ],
           "artOf": "OP02-089"
         },
         {
@@ -10286,7 +10312,7 @@
           ],
           "tcgplayer": {
             "name": "Ice Age (Textured Foil)",
-            "match": "image-other-set",
+            "match": "image+order",
             "distance": 4
           },
           "promoTypes": [

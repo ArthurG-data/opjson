@@ -5199,25 +5199,6 @@
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP11-068_r1.png",
           "cardSet": "STARTER DECK -PURPLE Charlotte Katakuri- [ST-34]",
           "source": "bandai",
-          "identifiers": {
-            "tcgplayerProductIds": [
-              668201
-            ]
-          },
-          "finishes": [
-            "foil"
-          ],
-          "tcgplayer": {
-            "name": "Charlotte Daifuku (Judge Pack Vol. 7)",
-            "match": "image",
-            "distance": 9
-          },
-          "promoTypes": [
-            {
-              "type": "judgegift",
-              "category": "program"
-            }
-          ],
           "artOf": "OP11-068",
           "artist": "S-KINOKO"
         },
@@ -5248,6 +5229,32 @@
             }
           ],
           "artist": "S-KINOKO"
+        },
+        {
+          "id": "OP11-068~tcg668201",
+          "set": "P",
+          "rarity": "UC",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/668201_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              668201
+            ]
+          },
+          "tcgplayer": {
+            "name": "Charlotte Daifuku (Judge Pack Vol. 7)",
+            "match": "minted",
+            "distance": null
+          },
+          "finishes": [
+            "foil"
+          ],
+          "promoTypes": [
+            {
+              "type": "judgegift",
+              "category": "program"
+            }
+          ]
         }
       ]
     },

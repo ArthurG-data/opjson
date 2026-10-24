@@ -4360,6 +4360,25 @@
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP01-041_p3.png",
           "cardSet": "-ONE PIECE CARD THE BEST- [PRB-01]",
           "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              586590
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Kouzuki Momonosuke (Jolly Roger Foil)",
+            "match": "image+name",
+            "distance": 0
+          },
+          "promoTypes": [
+            {
+              "type": "jolly_roger_foil",
+              "category": "foil-pattern"
+            }
+          ],
           "artOf": "OP01-041",
           "artist": "COGA"
         },

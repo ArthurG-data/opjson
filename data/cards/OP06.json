@@ -1856,21 +1856,28 @@
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP06-023_r1.png",
           "cardSet": "-ONE PIECE CARD THE BEST- [PRB-01]",
           "source": "bandai",
+          "artOf": "OP06-023",
+          "artist": "Nijihayashi"
+        },
+        {
+          "id": "OP06-023~tcg659234",
+          "set": "LT01",
+          "rarity": "R",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/659234_in_400x400.jpg",
+          "source": "tcgplayer",
           "identifiers": {
             "tcgplayerProductIds": [
               659234
             ]
           },
-          "finishes": [
-            "nonfoil"
-          ],
           "tcgplayer": {
             "name": "Arlong - OP06-023",
-            "match": "image",
-            "distance": 11
+            "match": "minted",
+            "distance": null
           },
-          "artOf": "OP06-023",
-          "artist": "Nijihayashi"
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
@@ -2965,27 +2972,34 @@
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP06-036_r1.png",
           "cardSet": "-ONE PIECE CARD THE BEST- [PRB-01]",
           "source": "bandai",
+          "artOf": "OP06-036_p2",
+          "artist": "eiji kaneda"
+        },
+        {
+          "id": "OP06-036~tcg583750",
+          "set": "P",
+          "rarity": "R",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/583750_in_400x400.jpg",
+          "source": "tcgplayer",
           "identifiers": {
             "tcgplayerProductIds": [
               583750
             ]
           },
+          "tcgplayer": {
+            "name": "Ryuma (Judge Pack Vol. 4)",
+            "match": "minted",
+            "distance": null
+          },
           "finishes": [
             "foil"
           ],
-          "tcgplayer": {
-            "name": "Ryuma (Judge Pack Vol. 4)",
-            "match": "image",
-            "distance": 12
-          },
           "promoTypes": [
             {
               "type": "judgegift",
               "category": "program"
             }
-          ],
-          "artOf": "OP06-036_p2",
-          "artist": "eiji kaneda"
+          ]
         },
         {
           "id": "OP06-036~tcg656642",
@@ -3122,7 +3136,26 @@
           "block": "2",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP06-038_p2.png",
           "cardSet": "-ONE PIECE CARD THE BEST- [PRB-01]",
-          "source": "bandai"
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              593491
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "The Billion-fold World Trichiliocosm (Jolly Roger Foil)",
+            "match": "image+order",
+            "distance": 1
+          },
+          "promoTypes": [
+            {
+              "type": "jolly_roger_foil",
+              "category": "foil-pattern"
+            }
+          ]
         },
         {
           "id": "OP06-038_p3",
@@ -3132,6 +3165,25 @@
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP06-038_p3.png",
           "cardSet": "-ONE PIECE CARD THE BEST- [PRB-01]",
           "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              593898
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "The Billion-fold World Trichiliocosm (Textured Foil)",
+            "match": "image+order",
+            "distance": 1
+          },
+          "promoTypes": [
+            {
+              "type": "textured",
+              "category": "foil-pattern"
+            }
+          ],
           "artist": "Katsuo Tadano"
         },
         {
@@ -3195,6 +3247,26 @@
               "type": "retail_product",
               "category": "retail"
             }
+          ]
+        },
+        {
+          "id": "OP06-038~tcg656650",
+          "set": "LT01",
+          "rarity": "UC",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/656650_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              656650
+            ]
+          },
+          "tcgplayer": {
+            "name": "The Billion-fold World Trichiliocosm (Zoro Deck)",
+            "match": "minted",
+            "distance": null
+          },
+          "finishes": [
+            "nonfoil"
           ]
         }
       ]
@@ -4706,7 +4778,26 @@
           "block": "2",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP06-056_p2.png",
           "cardSet": "-ONE PIECE CARD THE BEST- [PRB-01]",
-          "source": "bandai"
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              593493
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Ama no Murakumo Sword (Jolly Roger Foil)",
+            "match": "image+order",
+            "distance": 2
+          },
+          "promoTypes": [
+            {
+              "type": "jolly_roger_foil",
+              "category": "foil-pattern"
+            }
+          ]
         },
         {
           "id": "OP06-056_p3",
@@ -4715,7 +4806,26 @@
           "block": "2",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP06-056_p3.png",
           "cardSet": "-ONE PIECE CARD THE BEST- [PRB-01]",
-          "source": "bandai"
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              593899
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Ama no Murakumo Sword (Textured Foil)",
+            "match": "image+order",
+            "distance": 0
+          },
+          "promoTypes": [
+            {
+              "type": "textured",
+              "category": "foil-pattern"
+            }
+          ]
         },
         {
           "id": "OP06-056_p4",
@@ -5899,6 +6009,25 @@
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP06-066_p2.png",
           "cardSet": "-ONE PIECE CARD THE BEST- [PRB-01]",
           "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              593553
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Vinsmoke Yonji (OP06-066) (Jolly Roger Foil)",
+            "match": "image+name",
+            "distance": 0
+          },
+          "promoTypes": [
+            {
+              "type": "jolly_roger_foil",
+              "category": "foil-pattern"
+            }
+          ],
           "artOf": "OP06-066",
           "artist": "phima"
         },
@@ -7255,7 +7384,26 @@
           "block": "2",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP06-079_p2.png",
           "cardSet": "-ONE PIECE CARD THE BEST- [PRB-01]",
-          "source": "bandai"
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              587575
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Kingdom of GERMA (Jolly Roger Foil)",
+            "match": "image+order",
+            "distance": 2
+          },
+          "promoTypes": [
+            {
+              "type": "jolly_roger_foil",
+              "category": "foil-pattern"
+            }
+          ]
         },
         {
           "id": "OP06-079_p3",
@@ -7265,6 +7413,25 @@
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP06-079_p3.png",
           "cardSet": "-ONE PIECE CARD THE BEST- [PRB-01]",
           "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              593900
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Kingdom of GERMA (Textured Foil)",
+            "match": "image+order",
+            "distance": 3
+          },
+          "promoTypes": [
+            {
+              "type": "textured",
+              "category": "foil-pattern"
+            }
+          ],
           "artOf": "OP06-079_p2",
           "artist": "S-KINOKO"
         },
@@ -10706,6 +10873,25 @@
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP06-114_p2.png",
           "cardSet": "-ONE PIECE CARD THE BEST- [PRB-01]",
           "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              593569
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Wyper (Jolly Roger Foil)",
+            "match": "image+name",
+            "distance": 0
+          },
+          "promoTypes": [
+            {
+              "type": "jolly_roger_foil",
+              "category": "foil-pattern"
+            }
+          ],
           "artist": "Morechand"
         },
         {

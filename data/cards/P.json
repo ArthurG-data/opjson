@@ -2656,7 +2656,7 @@
           ],
           "tcgplayer": {
             "name": "Bartolomeo (Event Pack Vol. 1)",
-            "match": "image+cardset",
+            "match": "image",
             "distance": 2
           },
           "promoTypes": [
@@ -2706,26 +2706,19 @@
           "source": "bandai",
           "identifiers": {
             "tcgplayerProductIds": [
-              525300
+              594239
             ]
           },
           "finishes": [
             "foil"
           ],
           "tcgplayer": {
-            "name": "Bartolomeo (CS 2023 Event Pack)",
-            "match": "image",
-            "distance": 15
+            "name": "Bartolomeo (P-029) (Full Art)",
+            "match": "image+name",
+            "distance": 0
           },
-          "promoTypes": [
-            {
-              "type": "championship",
-              "category": "championship"
-            },
-            {
-              "type": "event_pack",
-              "category": "event"
-            }
+          "treatments": [
+            "full_art"
           ],
           "artOf": "P-029",
           "artist": "TAPIOCA"
@@ -2778,6 +2771,36 @@
           ],
           "artOf": "P-029",
           "artist": "TAPIOCA"
+        },
+        {
+          "id": "P-029~tcg525300",
+          "set": "P",
+          "rarity": "P",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/525300_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              525300
+            ]
+          },
+          "tcgplayer": {
+            "name": "Bartolomeo (CS 2023 Event Pack)",
+            "match": "minted",
+            "distance": null
+          },
+          "finishes": [
+            "foil"
+          ],
+          "promoTypes": [
+            {
+              "type": "championship",
+              "category": "championship"
+            },
+            {
+              "type": "event_pack",
+              "category": "event"
+            }
+          ]
         },
         {
           "id": "P-029~tcg539557",
@@ -7466,6 +7489,25 @@
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/P-075_p1.png",
           "cardSet": "Premium Card Collection -Best Selection Vol.3-",
           "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              627095
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Monkey.D.Luffy (Premium Card Collection -Best Selection Vol. 3-)",
+            "match": "image",
+            "distance": 19
+          },
+          "promoTypes": [
+            {
+              "type": "retail_product",
+              "category": "retail"
+            }
+          ],
           "artist": "otton"
         },
         {
@@ -7478,32 +7520,6 @@
           "source": "bandai",
           "artOf": "P-075",
           "artist": "otton"
-        },
-        {
-          "id": "P-075~tcg627095",
-          "set": "P",
-          "rarity": "P",
-          "image": "https://tcgplayer-cdn.tcgplayer.com/product/627095_in_400x400.jpg",
-          "source": "tcgplayer",
-          "identifiers": {
-            "tcgplayerProductIds": [
-              627095
-            ]
-          },
-          "tcgplayer": {
-            "name": "Monkey.D.Luffy (Premium Card Collection -Best Selection Vol. 3-)",
-            "match": "minted",
-            "distance": null
-          },
-          "finishes": [
-            "foil"
-          ],
-          "promoTypes": [
-            {
-              "type": "retail_product",
-              "category": "retail"
-            }
-          ]
         },
         {
           "id": "P-075~tcg669279",

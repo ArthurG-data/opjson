@@ -4406,7 +4406,26 @@
           "block": "1",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP03-055_p2.png",
           "cardSet": "-ONE PIECE CARD THE BEST- [PRB-01]",
-          "source": "bandai"
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              593306
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Gum-Gum Giant Gavel (Jolly Roger Foil)",
+            "match": "image+order",
+            "distance": 3
+          },
+          "promoTypes": [
+            {
+              "type": "jolly_roger_foil",
+              "category": "foil-pattern"
+            }
+          ]
         },
         {
           "id": "OP03-055_p3",
@@ -4416,6 +4435,25 @@
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP03-055_p3.png",
           "cardSet": "-ONE PIECE CARD THE BEST- [PRB-01]",
           "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              593886
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Gum-Gum Giant Gavel (Textured Foil)",
+            "match": "image+order",
+            "distance": 4
+          },
+          "promoTypes": [
+            {
+              "type": "textured",
+              "category": "foil-pattern"
+            }
+          ],
           "artist": "Studio Vigor Co. Ltd"
         },
         {
@@ -4524,7 +4562,26 @@
           "block": "1",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP03-056_p2.png",
           "cardSet": "-ONE PIECE CARD THE BEST- [PRB-01]",
-          "source": "bandai"
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              586201
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Sanji's Pilaf (Jolly Roger Foil)",
+            "match": "image+order",
+            "distance": 1
+          },
+          "promoTypes": [
+            {
+              "type": "jolly_roger_foil",
+              "category": "foil-pattern"
+            }
+          ]
         },
         {
           "id": "OP03-056_p3",
@@ -4534,6 +4591,25 @@
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP03-056_p3.png",
           "cardSet": "-ONE PIECE CARD THE BEST- [PRB-01]",
           "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              593887
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Sanji's Pilaf (Textured Foil)",
+            "match": "image+order",
+            "distance": 2
+          },
+          "promoTypes": [
+            {
+              "type": "textured",
+              "category": "foil-pattern"
+            }
+          ],
           "artOf": "OP03-056_p2",
           "artist": "Studio Vigor Co. Ltd"
         },
@@ -4644,6 +4720,25 @@
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP03-057_p2.png",
           "cardSet": "-ONE PIECE CARD THE BEST- [PRB-01]",
           "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              586599
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Three Thousand Worlds (Jolly Roger Foil)",
+            "match": "image+order",
+            "distance": 1
+          },
+          "promoTypes": [
+            {
+              "type": "jolly_roger_foil",
+              "category": "foil-pattern"
+            }
+          ],
           "artOf": "OP03-057"
         },
         {
@@ -4654,6 +4749,25 @@
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP03-057_p3.png",
           "cardSet": "-ONE PIECE CARD THE BEST- [PRB-01]",
           "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              593888
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Three Thousand Worlds (Textured Foil)",
+            "match": "image+order",
+            "distance": 2
+          },
+          "promoTypes": [
+            {
+              "type": "textured",
+              "category": "foil-pattern"
+            }
+          ],
           "artOf": "OP03-057",
           "artist": "Studio Vigor Co. Ltd"
         },
@@ -4691,6 +4805,32 @@
           "cardSet": "-ONE PIECE CARD THE BEST- [PRB-01]",
           "source": "bandai",
           "artOf": "OP03-057"
+        },
+        {
+          "id": "OP03-057~tcg514060",
+          "set": "P",
+          "rarity": "P",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/514060_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              514060
+            ]
+          },
+          "tcgplayer": {
+            "name": "Three Thousand Worlds (Judge Pack Vol. 2)",
+            "match": "minted",
+            "distance": null
+          },
+          "finishes": [
+            "foil"
+          ],
+          "promoTypes": [
+            {
+              "type": "judgegift",
+              "category": "program"
+            }
+          ]
         }
       ]
     },
@@ -6378,7 +6518,7 @@
           ],
           "tcgplayer": {
             "name": "Vergo (Jolly Roger Foil)",
-            "match": "image-other-set",
+            "match": "image+name",
             "distance": 0
           },
           "promoTypes": [
@@ -10895,7 +11035,7 @@
           ],
           "tcgplayer": {
             "name": "Thunder Bolt (Textured Foil)",
-            "match": "image-other-set",
+            "match": "image+order",
             "distance": 3
           },
           "promoTypes": [
@@ -10958,6 +11098,32 @@
             {
               "type": "prerelease",
               "category": "event"
+            }
+          ]
+        },
+        {
+          "id": "OP03-121~tcg514064",
+          "set": "P",
+          "rarity": "P",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/514064_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              514064
+            ]
+          },
+          "tcgplayer": {
+            "name": "Thunder Bolt (Judge Pack Vol. 2)",
+            "match": "minted",
+            "distance": null
+          },
+          "finishes": [
+            "foil"
+          ],
+          "promoTypes": [
+            {
+              "type": "judgegift",
+              "category": "program"
             }
           ]
         },

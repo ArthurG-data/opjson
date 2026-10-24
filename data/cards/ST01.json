@@ -2581,6 +2581,25 @@
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST01-014_p2.png",
           "cardSet": "-ONE PIECE CARD THE BEST- [PRB-01]",
           "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              593576
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Guard Point (Jolly Roger Foil)",
+            "match": "image+order",
+            "distance": 3
+          },
+          "promoTypes": [
+            {
+              "type": "jolly_roger_foil",
+              "category": "foil-pattern"
+            }
+          ],
           "artOf": "ST01-014"
         },
         {
@@ -2591,6 +2610,25 @@
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST01-014_p3.png",
           "cardSet": "-ONE PIECE CARD THE BEST- [PRB-01]",
           "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              593901
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Guard Point (Textured Foil)",
+            "match": "image+order",
+            "distance": 3
+          },
+          "promoTypes": [
+            {
+              "type": "textured",
+              "category": "foil-pattern"
+            }
+          ],
           "artOf": "ST01-014"
         },
         {

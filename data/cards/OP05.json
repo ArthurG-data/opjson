@@ -1555,21 +1555,21 @@
           "source": "bandai",
           "identifiers": {
             "tcgplayerProductIds": [
-              544621
+              586192
             ]
           },
           "finishes": [
             "foil"
           ],
           "tcgplayer": {
-            "name": "Belo Betty (Judge Pack Vol. 3)",
-            "match": "image",
-            "distance": 8
+            "name": "Belo Betty (Jolly Roger Foil)",
+            "match": "image+name",
+            "distance": 0
           },
           "promoTypes": [
             {
-              "type": "judgegift",
-              "category": "program"
+              "type": "jolly_roger_foil",
+              "category": "foil-pattern"
             }
           ],
           "artOf": "OP05-015",
@@ -1652,6 +1652,32 @@
           ],
           "artOf": "OP05-015",
           "artist": "Hatori Kyoka"
+        },
+        {
+          "id": "OP05-015~tcg544621",
+          "set": "P",
+          "rarity": "R",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/544621_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              544621
+            ]
+          },
+          "tcgplayer": {
+            "name": "Belo Betty (Judge Pack Vol. 3)",
+            "match": "minted",
+            "distance": null
+          },
+          "finishes": [
+            "foil"
+          ],
+          "promoTypes": [
+            {
+              "type": "judgegift",
+              "category": "program"
+            }
+          ]
         }
       ]
     },
@@ -5023,6 +5049,25 @@
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP05-057_p2.png",
           "cardSet": "-ONE PIECE CARD THE BEST- [PRB-01]",
           "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              586601
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Hound Blaze (Jolly Roger Foil)",
+            "match": "image+order",
+            "distance": 2
+          },
+          "promoTypes": [
+            {
+              "type": "jolly_roger_foil",
+              "category": "foil-pattern"
+            }
+          ],
           "artOf": "OP05-057"
         },
         {
@@ -5033,6 +5078,25 @@
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP05-057_p3.png",
           "cardSet": "-ONE PIECE CARD THE BEST- [PRB-01]",
           "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              593894
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Hound Blaze (Textured Foil)",
+            "match": "image+order",
+            "distance": 4
+          },
+          "promoTypes": [
+            {
+              "type": "textured",
+              "category": "foil-pattern"
+            }
+          ],
           "artist": "Anderson"
         },
         {
@@ -11249,6 +11313,26 @@
               "type": "anniversary",
               "category": "anniversary"
             }
+          ]
+        },
+        {
+          "id": "OP05-117~tcg716727",
+          "set": "SD01",
+          "rarity": "UC",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/716727_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              716727
+            ]
+          },
+          "tcgplayer": {
+            "name": "Upper Yard (Luffy Deck)",
+            "match": "minted",
+            "distance": null
+          },
+          "finishes": [
+            "nonfoil"
           ]
         }
       ]

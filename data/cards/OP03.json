@@ -9143,6 +9143,29 @@
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP03-102_p1.png",
           "cardSet": "Offline Regional Participation Pack 2024 Vol. 1",
           "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              539189
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Sanji (Offline Regional 2024) [Participant]",
+            "match": "image+cardset",
+            "distance": 4
+          },
+          "promoTypes": [
+            {
+              "type": "championship",
+              "category": "championship"
+            },
+            {
+              "type": "event_pack",
+              "category": "event"
+            }
+          ],
           "artist": "Studio Vigor Co. Ltd"
         },
         {
@@ -9297,38 +9320,6 @@
             {
               "type": "placement",
               "category": "placement"
-            }
-          ],
-          "artist": "Studio Vigor Co. Ltd"
-        },
-        {
-          "id": "OP03-102~tcg539189",
-          "set": "P",
-          "rarity": "R",
-          "image": "https://tcgplayer-cdn.tcgplayer.com/product/539189_in_400x400.jpg",
-          "source": "tcgplayer",
-          "identifiers": {
-            "tcgplayerProductIds": [
-              539189
-            ]
-          },
-          "tcgplayer": {
-            "name": "Sanji (Offline Regional 2024) [Participant]",
-            "match": "minted-nearest",
-            "distance": 4
-          },
-          "artOf": "OP03-102_p1",
-          "finishes": [
-            "foil"
-          ],
-          "promoTypes": [
-            {
-              "type": "championship",
-              "category": "championship"
-            },
-            {
-              "type": "event_pack",
-              "category": "event"
             }
           ],
           "artist": "Studio Vigor Co. Ltd"

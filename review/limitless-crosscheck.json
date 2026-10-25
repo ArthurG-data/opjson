@@ -1543,10 +1543,10 @@
     {
       "product": 539189,
       "limitless": "OP03-102_p2",
-      "opjson": "OP03-102~tcg539189",
+      "opjson": "OP03-102_p1",
       "opjsonMatch": {
         "name": "Sanji (Offline Regional 2024) [Participant]",
-        "match": "minted-nearest",
+        "match": "image+cardset",
         "distance": 4
       }
     },
@@ -2338,6 +2338,16 @@
         "name": "Eustass\"Captain\"Kid (OP05-074) (Alternate Art)",
         "match": "image",
         "distance": 1
+      }
+    },
+    {
+      "product": 641243,
+      "limitless": "OP05-076_p1",
+      "opjson": "OP05-076_p2",
+      "opjsonMatch": {
+        "name": "When You're at Sea You Fight against Pirates!! (2025 Pirates League Store Qualifier)",
+        "match": "image+cardset",
+        "distance": 3
       }
     },
     {
@@ -5298,16 +5308,6 @@
         "name": "Sabo - P-044 (Pirate Foil)",
         "match": "image-other-set",
         "distance": 3
-      }
-    },
-    {
-      "product": 537438,
-      "limitless": "P-045",
-      "opjson": "P-045~tcg537438",
-      "opjsonMatch": {
-        "name": "Roronoa Zoro (OP-06 Pre-Release Tournament) [Participant]",
-        "match": "minted-nearest",
-        "distance": 5
       }
     },
     {

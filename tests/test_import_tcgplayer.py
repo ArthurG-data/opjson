@@ -355,6 +355,64 @@ def test_a_tag_names_a_card_set_by_its_title():
     assert not it.names_card_set(judge, None)
 
 
+def test_event_names_read_the_same_whatever_the_spelling():
+    words = lambda text: it.event_tokens([text])
+    # Role words: a Participant and a Participation Pack are one role, and the role is kept apart from the event.
+    assert words("Participant") == words("Participation Pack") == (frozenset(), frozenset({"participation"}))
+    assert words("Winner")[1] == frozenset({"winner"}) and words("Finalist Card Set")[1] == frozenset({"finalist"})
+    # Set codes: OP-06, OP06 and OP 06 are one word.
+    assert words("OP-06") == words("OP06") == words("op 06") == (frozenset({"op06"}), frozenset())
+    # "Pre-Release" is one word, and a Tournament only dresses the name.
+    assert words("OP-06 Pre-Release Tournament") == words("Pre-Release OP06") == (
+        frozenset({"op06", "prerelease"}), frozenset())
+    # "ST15-20" is ST15 and ST20, and a Release Event stays an event of its own, not a Pre-Release.
+    assert words("ST15-20 Release Event") == words("ST15 - ST20 Release Event Pack")
+    assert words("Release Event") != words("Pre-Release")
+    # Online and Offline are different words, and so are the years.
+    assert words("Online Regional 2024") != words("Offline Regional 2024")
+    assert words("Online Regional 2024") != words("Online Regional 2025")
+
+
+def test_a_card_set_is_named_by_the_event_of_a_tied_promo_not_by_its_neighbours():
+    sets = {"OP03-102_p1": "Offline Regional Participation Pack 2024 Vol. 1",
+            "OP03-102_p2": "Premium Card Collection -BANDAI CARD GAMES Fest. 23-24 Edition-"}
+    sanji = {(where, role): product(i, f"Sanji ({where} Regional 2024) [{role}]", "OP03-102")
+             for i, (where, role) in enumerate([(w, r) for w in ("Offline", "Online")
+                                                for r in ("Participant", "Finalist", "Winner")])}
+    named = {k for k, p in sanji.items() if it.names_card_set(p, sets["OP03-102_p1"], normalised=True)}
+    assert named == {("Offline", "Participant")}
+    # The old reading of a tag finds nothing here, so nothing moved in the first sweep.
+    assert not any(it.names_card_set(p, sets["OP03-102_p1"]) for p in sanji.values())
+    assert it.card_set_pick(sanji[("Offline", "Participant")], list(sets), sets.get, normalised=True) == "OP03-102_p1"
+    assert it.card_set_pick(sanji[("Offline", "Participant")], list(sets), sets.get) is None
+    assert it.card_set_pick(sanji[("Online", "Participant")], list(sets), sets.get, normalised=True) is None
+    # A pre-release prize names "Pre-Release OP06", and the Release Event card set it was tied with is not it.
+    zoro = product(7, "Roronoa Zoro (OP-06 Pre-Release Tournament) [Participant]", "P-045")
+    zoro_sets = {"P-045": "Pre-Release OP06", "P-045_p1": "ST15-20 Release Event"}
+    assert it.card_set_pick(zoro, list(zoro_sets), zoro_sets.get, normalised=True) == "P-045"
+    # One word is not an event: the variants of names_event need two content words, so "Winner Pack" gives none.
+    assert not it.names_event(product(8, "Zoro (Winner Pack)", "P-045"), "Winner Pack")
+    assert not it.names_event(product(9, "Zoro (Regional) [Winner]", "P-045"), "Regional Winner Pack")
+
+
+def test_a_product_may_take_a_printing_only_from_a_holder_its_card_set_does_not_name():
+    # Zoro's Pre-Release prize against the Release Event Winner Pack that took P-045 as the one printing left.
+    prize = product(1, "Roronoa Zoro (OP-06 Pre-Release Tournament) [Participant]", "P-045")
+    winner_pack = product(2, "Roronoa Zoro (ST15 - ST20 Release Event Winner Pack)", "P-045")
+    held = it.Match(winner_pack, "P-045", 12, "image")
+    assert it.may_take_from(prize, held, 5, "Pre-Release OP06")
+    # Each condition on its own.
+    assert not it.may_take_from(prize, held, 29, "Pre-Release OP06")  # beyond ACCEPT
+    assert not it.may_take_from(prize, held, 13, "Pre-Release OP06")  # farther than the holder
+    assert not it.may_take_from(prize, it.Match(winner_pack, "P-045", 12, "image+cardset"), 5, "Pre-Release OP06")
+    assert not it.may_take_from(prize, it.Match(winner_pack, "P-045", 12, "whole-card"), 5, "Pre-Release OP06")
+    assert not it.may_take_from(prize, held, 5, "ST15-20 Release Event")  # the card set does not name the prize
+    assert not it.may_take_from(winner_pack, it.Match(prize, "P-045", 5, "image"), 12, "Pre-Release OP06")
+    # A holder whose own name names the card set keeps the printing.
+    twin = product(3, "Roronoa Zoro (OP-06 Pre-Release Tournament) [Winner]", "P-045")
+    assert not it.may_take_from(prize, it.Match(twin, "P-045", 12, "image"), 5, "Pre-Release OP06")
+
+
 def test_a_tag_naming_one_bandai_card_set_settles_identical_art():
     chopper = product(1, "Tony Tony.Chopper (CS 25-26 Top Player Pack)", "OP07-066")
     sets = {"OP07-066_p1": "CS 25-26 Top Player Pack", "OP07-066_p2": "CS 25-26 Finalist Card Set 1"}

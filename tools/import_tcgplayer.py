@@ -21,10 +21,13 @@ in Bandai's order, FOIL_PATTERN_ORDER (evidence "image+order"). A promo whose ar
 two unclaimed Bandai printings the images cannot tell apart is settled by Bandai's "Card Set(s)" when one of the
 product's tags names exactly one of them (evidence "image+cardset"). Products of one card still tied after that,
 with as many unclaimed printings in reach as products, are assigned together and keep the one pairing that beats
-every other by MARGIN bits in total (evidence "image+pairing"). What is left goes to review rather than becoming
-a third copy, except promos that outnumber the free printings they are tied between: Bandai lists too few
-printings for them, so each becomes a printing of its own with `artOf` naming the nearest (evidence
-"minted-nearest"). A promo never takes a printing Bandai files in a set that has its own TCGplayer group
+every other by MARGIN bits in total (evidence "image+pairing"). Products still tied are read against Bandai's card
+sets again, over the printings the sweep left free, with the event-name variants of names_event ("Participant" is
+"Participation", OP-06 is OP06; evidence "image+cardset"), and one may take a printing from a holder that got it
+only as the one left for its image, when the card set names the product's event and not the holder's (may_take_from;
+the move is printed). What is left goes to review rather than becoming a third copy, except promos that outnumber
+the free printings they are tied between: Bandai lists too few printings for them, so each becomes a printing of
+its own with `artOf` naming the nearest (evidence "minted-nearest"). A promo never takes a printing Bandai files in a set that has its own TCGplayer group
 unless a tag names that printing's card set, as the Ultra Deck reprints' tags do. A reprint that TCGplayer files in another set's group is matched by image to the Bandai printing of its
 number wherever Bandai files it (evidence "image-other-set").
 
@@ -165,12 +168,50 @@ def _key(text: str) -> str:
     return re.sub(r"[^a-z0-9]+", "", text.lower())
 
 
-def names_card_set(product: tcgcsv.Product, card_set: str | None) -> bool:
+# Words an event name carries that say who got the card, not which event it was: a Participant and a Participation
+# Pack are one role. A role the card set names must be the product's.
+EVENT_ROLES = {"participant": "participation", "participation": "participation", "winner": "winner",
+               "finalist": "finalist"}
+# Words that only dress an event name: "OP-06 Pre-Release Tournament" is Bandai's "Pre-Release OP06".
+EVENT_FILLER = {"pack", "set", "card", "cards", "tournament", "the", "of", "and"}
+_SET_CODE = re.compile(r"\b(op|st|eb|prb)\s*-?\s*(\d{1,2})\b")
+_SET_RANGE = re.compile(r"\b(op|st|eb|prb)(\d{1,2})\s*-\s*(\d{1,2})\b")
+
+
+def event_tokens(texts: list[str]) -> tuple[frozenset[str], frozenset[str]]:
+    """(content words, role words) of an event name. Set codes read the same however they are spelt (OP-06, OP06,
+    OP 06), "ST15-20" is ST15 and ST20, and "Pre-Release" is one word. Online and Offline stay different words."""
+    content, roles = set(), set()
+    for text in texts:
+        text = re.sub(r"\[[^\]]*\]", " ", text).lower()
+        text = re.sub(r"pre[ -]?release", "prerelease", text)
+        text = _SET_CODE.sub(r"\1\2", text)
+        text = _SET_RANGE.sub(r"\1\2 \1\3", text)
+        for word in re.findall(r"[a-z0-9]+", text):
+            if word in EVENT_ROLES:
+                roles.add(EVENT_ROLES[word])
+            elif word not in EVENT_FILLER:
+                content.add(word)
+    return frozenset(content), frozenset(roles)
+
+
+def names_event(product: tcgcsv.Product, card_set: str | None) -> bool:
+    """Whether the event the product's tags name (a bracketed role included) is the one of this Bandai card set:
+    every content word of the tags, at least two, is in the card set's, and a role the card set names is the
+    product's. "Sanji (Offline Regional 2024) [Participant]" names "Offline Regional Participation Pack 2024 Vol. 1",
+    and "(Online Regional 2024)" does not."""
+    in_set, set_roles = event_tokens([card_set or ""])
+    in_tags, tag_roles = event_tokens(product.label_tags())
+    return len(in_tags) >= 2 and in_tags <= in_set and set_roles <= tag_roles
+
+
+def names_card_set(product: tcgcsv.Product, card_set: str | None, normalised: bool = False) -> bool:
     """Whether a tag of the product names this Bandai card set ("Ultra Deck: The Three Captains" names
-    "-The Three Captains-[ST-10]")."""
+    "-The Three Captains-[ST-10]"). With normalised, the event-name variants of names_event count too."""
     cs = _key(re.sub(r"\[[^\]]*\]", "", card_set or ""))  # without the set code Bandai appends
-    return bool(cs) and any(t == cs or t in cs or (len(cs) >= 8 and cs in t)
-                            for t in (_key(t) for t in product.base_name_and_tags()[1]) if len(t) >= 8)
+    return (bool(cs) and any(t == cs or t in cs or (len(cs) >= 8 and cs in t)
+                             for t in (_key(t) for t in product.base_name_and_tags()[1]) if len(t) >= 8)
+            or (normalised and names_event(product, card_set)))
 
 
 def promo_copy(product: tcgcsv.Product, rules: list[dict]) -> bool:
@@ -181,10 +222,21 @@ def promo_copy(product: tcgcsv.Product, rules: list[dict]) -> bool:
     return any(category != "foil-pattern" for _, category in promos)
 
 
-def card_set_pick(product: tcgcsv.Product, near: list[str], card_set_of) -> str | None:
+def card_set_pick(product: tcgcsv.Product, near: list[str], card_set_of, normalised: bool = False) -> str | None:
     """The one printing in near whose Bandai card set a tag of the product names, else None."""
-    hits = [c for c in near if names_card_set(product, card_set_of(c))]
+    hits = [c for c in near if names_card_set(product, card_set_of(c), normalised)]
     return hits[0] if len(hits) == 1 else None
+
+
+def may_take_from(challenger: tcgcsv.Product, holder: Match, challenger_bits: int, card_set: str | None) -> bool:
+    """Whether a tied product may take a printing another product holds. Moves a published id, so all must hold:
+    - the challenger's image is within ACCEPT of the printing, and no farther than the holder's;
+    - the holder took it only as the one printing left for its image (evidence "image");
+    - the printing's card set names the challenger's event and not the holder's."""
+    return (challenger_bits <= ACCEPT and holder.distance is not None and challenger_bits <= holder.distance
+            and holder.evidence == "image"
+            and names_card_set(challenger, card_set, normalised=True)
+            and not names_card_set(holder.product, card_set, normalised=True))
 
 
 def clear_winner(scored: list[tuple[int, str]]) -> str | None:
@@ -481,13 +533,15 @@ def main() -> None:
     matches = [(r, m) for r, m in matches if m.printing_id]
     minted = []
     ties = []  # (role, product, scores) of products the first sweep found tied between several printings
+    swept: dict[str, tuple[dict, Match]] = {}  # printings the sweep gave a promo for its image alone
+    moves: list[str] = []
 
-    def pool_for(role: dict, p: tcgcsv.Product, number: str) -> list[str]:
+    def pool_for(role: dict, p: tcgcsv.Product, number: str, held: bool = False) -> list[str]:
         """The Bandai printings a leftover product may take: a stamp or reissue copies a printing of its set whether
-        or not another product holds it; the others take printings nobody claimed."""
+        or not another product holds it; the others take printings nobody claimed (held: or somebody did)."""
         if role["role"] in ("stamp", "reissue"):
             return sorted(by_set_number.get((copied_set(role, number), number), []))
-        pool = sorted(pid for pid, (n, _) in printings.items() if n == number and pid not in claimed)
+        pool = sorted(pid for pid, (n, _) in printings.items() if n == number and (held or pid not in claimed))
         if role["role"] == "promo":
             # A printing Bandai files in a set TCGplayer gives its own group is that set's card, even when the group
             # does not list it (PRB-01's plain reprints): a promo takes it only if a tag names its card set.
@@ -523,6 +577,8 @@ def main() -> None:
             claimed[art] = p.product_id
             how = evidence or ("image" if role["role"] == "promo" else "image-other-set")
             matches.append((role, Match(p, art, scored[0][0], how)))
+            if role["role"] == "promo" and how == "image":
+                swept[art] = matches[-1]
             continue
         if role["role"] == "set" and p.number:
             if promo_copy(p, rules):
@@ -544,11 +600,41 @@ def main() -> None:
     # Products tied between several printings are settled together with the others of their card (same role and
     # number), now that the sweep has claimed what it could. They are assigned like a pass 1 cluster, and a pair
     # of products the images only barely separate is kept when no other pairing comes close (evidence
-    # "image+pairing"). A group with more products than free printings in reach is not assigned at all: it
-    # holds a product with no printing of its own, and the images cannot say which.
+    # "image+pairing"). What is left is judged on the card sets, with the event-name variants of names_event:
+    # the one free printing in reach whose card set names a product's event is that product's (evidence
+    # "image+cardset"); a printing a product took only as the one left for its image goes to a tied product whose
+    # event its card set names and the holder's it does not (see may_take_from), and the holder is settled again.
+    # Only then is a group with more products than free printings in reach minted: it holds a product with no
+    # printing of its own, and the images cannot say which.
+    card_set_of = lambda c: printings[c][1].get("cardSet")
     tied = collections.defaultdict(list)
     for role, p, scored, entry in ties:
         tied[(role["role"], p.number)].append((role, p, scored, entry))
+
+    def in_reach(role: dict, p: tcgcsv.Product, number: str, held: bool = False) -> list[tuple[int, str]]:
+        """[(bits, printing)] within ACCEPT of the product, nearest first, among the printings it may take."""
+        dist = distances([p], pool_for(role, p, number, held))
+        return sorted((d, c) for (_, c), d in dist.items() if d is not None and d <= ACCEPT)
+
+    def settle_again(role: dict, p: tcgcsv.Product, number: str) -> str:
+        """A product that lost its printing takes its best remaining option: the one free printing in reach its
+        card set names, else the clear image winner among the free ones, else a printing of its own, with artOf
+        naming the nearest printing in reach, held or not."""
+        free = in_reach(role, p, number)
+        pick = card_set_pick(p, [c for _, c in free], card_set_of, normalised=True)
+        if pick:
+            claimed[pick] = p.product_id
+            matches.append((role, Match(p, pick, dict((c, d) for d, c in free)[pick], "image+cardset")))
+            return f"takes {pick} by card set"
+        pick = clear_winner(free)
+        if pick:
+            claimed[pick] = p.product_id
+            matches.append((role, Match(p, pick, free[0][0], "image")))
+            return f"takes {pick} by image"
+        near = in_reach(role, p, number, held=True)
+        minted.append((role, p, near[0][1] if near else None, near[0][0] if near else None, "minted-nearest"))
+        return f"is minted with artOf {near[0][1]}" if near else "is minted"
+
     for (_, number), group in tied.items():
         products = [p for _, p, _, _ in group]
         pools = {p.product_id: set(pool_for(role, p, number)) for role, p, _, _ in group}
@@ -556,14 +642,70 @@ def main() -> None:
         dist = {(pid, c): (d if c in pools[pid] else None) for (pid, c), d in distances(products, candidates).items()}
         settled = settle_tied(products, candidates, dist, kind_of=lambda prod: product_kind(prod, rules),
                               whole_dist=whole_distance, pattern_of=lambda prod: foil_pattern(prod, rules))
-        to_mint = mint_tied(group[0][0]["role"], products, settled, dist)
-        for role, p, scored, entry in group:
+        left = []
+        for item in group:
+            role, p, scored, entry = item
             if p.product_id in settled:
                 m = settled[p.product_id]
                 claimed[m.printing_id] = p.product_id
                 matches.append((role, m))
                 review.remove(entry)
-            elif p.product_id in to_mint:
+            else:
+                left.append(item)
+
+        # A free printing whose card set names the event: round after round, because what one product takes
+        # leaves another with one printing to choose from.
+        progress = True
+        while progress and left:
+            progress = False
+            picks = {}
+            for role, p, scored, entry in left:
+                reach = in_reach(role, p, number)
+                pick = card_set_pick(p, [c for _, c in reach], card_set_of, normalised=True)
+                if pick:
+                    picks[p.product_id] = (pick, dict((c, d) for d, c in reach)[pick])
+            taken = collections.Counter(c for c, _ in picks.values())
+            for item in list(left):
+                role, p, scored, entry = item
+                if p.product_id in picks and taken[picks[p.product_id][0]] == 1:
+                    pick, d = picks[p.product_id]
+                    claimed[pick] = p.product_id
+                    matches.append((role, Match(p, pick, d, "image+cardset")))
+                    review.remove(entry)
+                    left.remove(item)
+                    progress = True
+
+        # A held printing whose card set names the event of a tied product and not the holder's.
+        for item in list(left):
+            role, p, scored, entry = item
+            reach = in_reach(role, p, number, held=True)
+            named = [(d, c) for d, c in reach if names_card_set(p, card_set_of(c), normalised=True)]
+            if len(named) != 1 or named[0][1] not in swept:
+                continue
+            d, c = named[0]
+            holder_role, holder = swept[c]
+            if sum(names_card_set(q, card_set_of(c), normalised=True) for _, q, _, _ in left) != 1:
+                continue  # two tied products name it: nothing says which is the printing's
+            if not may_take_from(p, holder, d, card_set_of(c)):
+                continue
+            matches[:] = [x for x in matches if x[1] is not holder]
+            del claimed[c], swept[c]
+            claimed[c] = p.product_id
+            matches.append((role, Match(p, c, d, "image+cardset")))
+            review.remove(entry)
+            left.remove(item)
+            moves.append(f"{holder.product.product_id} {holder.product.name!r} leaves {c} for {p.product_id} "
+                         f"{p.name!r} ({d} bits against {holder.distance}; the card set "
+                         f"{card_set_of(c)!r} names {p.product_id}'s event); it "
+                         f"{settle_again(holder_role, holder.product, number)}")
+
+        # What is left, with more products than free printings in reach, is minted.
+        rest = [p for _, p, _, _ in left]
+        free_dist = {(p.product_id, c): d for r, p, _, _ in left
+                     for (_, c), d in distances([p], pool_for(r, p, number)).items()}
+        to_mint = mint_tied(group[0][0]["role"], rest, {}, free_dist)
+        for role, p, scored, entry in left:
+            if p.product_id in to_mint:
                 # artOf names the nearest of the printings the promo was tied between.
                 minted.append((role, p, scored[0][1], scored[0][0], "minted-nearest"))
                 review.remove(entry)
@@ -603,7 +745,9 @@ def main() -> None:
     hashes.save()
     evidence = collections.Counter(m.evidence for _, m in matches)
     print(f"matched {len(matches)} ({dict(evidence)}), minted {len(minted)}, review {len(review)}, "
-          f"pending {len(pending)}")
+          f"pending {len(pending)}, moved {len(moves)}")
+    for move in moves:
+        print("moved:", move)
 
 
 def _add_finishes(printing: dict, found: set[str]) -> None:

@@ -4741,24 +4741,24 @@
           "source": "bandai",
           "identifiers": {
             "tcgplayerProductIds": [
-              588179
+              537438
             ]
           },
           "finishes": [
-            "foil"
+            "nonfoil"
           ],
           "tcgplayer": {
-            "name": "Roronoa Zoro (ST15 - ST20 Release Event Winner Pack)",
-            "match": "image",
-            "distance": 12
+            "name": "Roronoa Zoro (OP-06 Pre-Release Tournament) [Participant]",
+            "match": "image+cardset",
+            "distance": 5
           },
           "promoTypes": [
             {
-              "type": "placement",
-              "category": "placement"
+              "type": "event_pack",
+              "category": "event"
             },
             {
-              "type": "release",
+              "type": "prerelease",
               "category": "event"
             }
           ],
@@ -4799,38 +4799,6 @@
           "artist": "Anderson"
         },
         {
-          "id": "P-045~tcg537438",
-          "set": "P",
-          "rarity": "P",
-          "image": "https://tcgplayer-cdn.tcgplayer.com/product/537438_in_400x400.jpg",
-          "source": "tcgplayer",
-          "identifiers": {
-            "tcgplayerProductIds": [
-              537438
-            ]
-          },
-          "tcgplayer": {
-            "name": "Roronoa Zoro (OP-06 Pre-Release Tournament) [Participant]",
-            "match": "minted-nearest",
-            "distance": 5
-          },
-          "artOf": "P-045",
-          "finishes": [
-            "nonfoil"
-          ],
-          "promoTypes": [
-            {
-              "type": "event_pack",
-              "category": "event"
-            },
-            {
-              "type": "prerelease",
-              "category": "event"
-            }
-          ],
-          "artist": "Anderson"
-        },
-        {
           "id": "P-045~tcg537439",
           "set": "P",
           "rarity": "P",
@@ -4859,6 +4827,38 @@
               "category": "event"
             }
           ]
+        },
+        {
+          "id": "P-045~tcg588179",
+          "set": "P",
+          "rarity": "P",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/588179_in_400x400.jpg",
+          "source": "tcgplayer",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              588179
+            ]
+          },
+          "tcgplayer": {
+            "name": "Roronoa Zoro (ST15 - ST20 Release Event Winner Pack)",
+            "match": "minted-nearest",
+            "distance": 9
+          },
+          "artOf": "P-045",
+          "finishes": [
+            "foil"
+          ],
+          "promoTypes": [
+            {
+              "type": "placement",
+              "category": "placement"
+            },
+            {
+              "type": "release",
+              "category": "event"
+            }
+          ],
+          "artist": "Anderson"
         }
       ]
     },
@@ -7309,6 +7309,29 @@
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/P-070_p1.png",
           "cardSet": "CS 25-26 Event Pack",
           "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              649622
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Carrot (CS 25-26 Event Pack)",
+            "match": "image+cardset",
+            "distance": 5
+          },
+          "promoTypes": [
+            {
+              "type": "championship",
+              "category": "championship"
+            },
+            {
+              "type": "event_pack",
+              "category": "event"
+            }
+          ],
           "artOf": "P-070"
         },
         {

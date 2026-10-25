@@ -16,6 +16,22 @@ def test_tags_split_from_the_name_end():
     assert product(2, "DON!! Card // One Piece Film RED Promo").base_name_and_tags()[1] == []
 
 
+def test_a_bracketed_role_labels_a_printing_but_plays_no_part_in_matching():
+    sanji = product(1, "Sanji (Online Regional 2024) [Participant]", "OP03-102")
+    assert sanji.base_name_and_tags() == ("Sanji (Online Regional 2024) [Participant]", [])
+    assert sanji.label_tags() == ["Online Regional 2024", "Participant"]
+    assert product(2, "Shanks (Parallel) (Manga)").label_tags() == ["Parallel", "Manga"]
+    assert product(3, "Shanks").label_tags() == []
+    _, promos = it.classify_tags(sanji.label_tags(), RULES)
+    assert promos == [("championship", "championship"), ("event_pack", "event")]
+    zoro = product(4, "Roronoa Zoro (OP-06 Pre-Release Tournament) [Participant]", "P-045")
+    _, promos = it.classify_tags(zoro.label_tags(), RULES)
+    assert promos == [("event_pack", "event"), ("prerelease", "event")]
+    winner = product(5, "Sanji (Offline Regional 2024) [Winner]", "OP03-102")
+    _, promos = it.classify_tags(winner.label_tags(), RULES)
+    assert promos == [("championship", "championship"), ("placement", "placement")]
+
+
 def test_classify_tags_maps_treatments_and_reuses_mtg_promo_names():
     treatments, promos = it.classify_tags(["Parallel", "Manga", "Alternate Art"], RULES)
     assert treatments == ["alternate_art", "manga", "parallel"] and promos == []
@@ -103,6 +119,138 @@ def test_assign_by_name_matches_only_where_the_name_leaves_no_choice():
     assert [m.printing_id for m in it.assign_by_name([robin], ["EB05-010"], "EB05-010", rules)] == ["EB05-010"]
 
 
+def test_the_sole_plain_product_takes_the_base_printing_the_images_rejected():
+    # Denjiro in OP01: TCGplayer's scan is cropped to the frame and Bandai's keeps its border, 89 bits apart.
+    denjiro = product(1, "Denjiro", "OP01-046")
+    dist = {(1, "OP01-046"): 89}
+    m, = it.assign_by_name([denjiro], ["OP01-046"], "OP01-046", RULES, group=[denjiro], dist=dist)
+    assert (m.printing_id, m.evidence, m.distance) == ("OP01-046", "name-sole-plain", 89)
+    # A number in brackets only tells two cards apart, so "X.Drake (114)" is still plain.
+    drake = product(2, "X.Drake (114)", "OP01-114")
+    m, = it.assign_by_name([drake], ["OP01-114"], "OP01-114", RULES, group=[drake], dist={(2, "OP01-114"): 64})
+    assert m.evidence == "name-sole-plain"
+    # Without distances the product counts as imageless and the old rule applies.
+    m, = it.assign_by_name([denjiro], ["OP01-046"], "OP01-046", RULES)
+    assert (m.printing_id, m.evidence, m.distance) == ("OP01-046", "name", None)
+
+
+def test_name_sole_plain_needs_every_condition():
+    luffy = product(1, "Monkey.D.Luffy (109)", "OP07-109")
+    parallel = product(2, "Monkey.D.Luffy (109) (Parallel)", "OP07-109")
+    base, p1 = "OP07-109", "OP07-109_p1"
+    far = {(1, base): 54, (1, p1): 125}
+
+    def run(products, candidates, dist, group=None):
+        return it.assign_by_name(products, candidates, base, RULES, group=group or products, dist=dist)
+
+    assert [m.printing_id for m in run([luffy], [base], far)] == [base]
+    # A tagged product beside it does not matter; a second plain product of the number does.
+    assert [m.printing_id for m in run([luffy], [base], far, group=[luffy, parallel])] == [base]
+    assert run([luffy], [base], far, group=[luffy, parallel, product(3, "Monkey.D.Luffy", base)]) == []
+    # The base printing is already claimed.
+    assert run([luffy], [p1], far) == []
+    # Another printing of the number is as close, or closer.
+    assert run([luffy], [base], {(1, base): 54, (1, p1): 54}) == []
+    assert run([luffy], [base], {(1, base): 54, (1, p1): 40}) == []
+    # Within ACCEPT the images did not reject it: that is a tie or a miss for assign, not for the name.
+    assert run([luffy], [base], {(1, base): 20, (1, p1): 60}) == []
+    # A tagged product is not the plain one.
+    assert run([parallel], [base], {(2, base): 90}, group=[luffy, parallel]) == []
+
+
+def test_two_products_the_images_barely_separate_pair_up_with_their_printings():
+    # Shanks (SP) in OP13 (distances from the real images): Gold is 2 bits from _p5 and 15 from _p6, Silver 12 and 1.
+    # One at a time each sees both printings within reach; together only one pairing is close.
+    gold, silver = product(1, "Shanks - OP09-004 (SP) (Gold)", "OP09-004"), \
+        product(2, "Shanks - OP09-004 (SP) (Silver)", "OP09-004")
+    cands = ["OP09-004_p5", "OP09-004_p6"]
+    dist = {(1, "OP09-004_p5"): 2, (1, "OP09-004_p6"): 15, (2, "OP09-004_p5"): 12, (2, "OP09-004_p6"): 1}
+    got = {m.product.product_id: (m.printing_id, m.evidence)
+           for m in it.assign([gold, silver], cands, dist, pairing=True)}
+    assert got == {1: ("OP09-004_p5", "image+pairing"), 2: ("OP09-004_p6", "image+pairing")}
+    assert all(m.printing_id is None for m in it.assign([gold, silver], cands, dist))
+    assert it.assign([gold], cands, dist, pairing=True)[0].printing_id is None
+    # Kyo in OP17: 1 and 11 bits each way, so the pairs total 2 against 22: exactly MARGIN is enough.
+    kyo, pandaman = product(3, "Kyo", "OP17-045"), product(4, "Kyo (Pandaman Art)", "OP17-045")
+    cands = ["OP17-045", "OP17-045_p1"]
+    dist = {(3, "OP17-045"): 1, (3, "OP17-045_p1"): 11, (4, "OP17-045"): 11, (4, "OP17-045_p1"): 1}
+    got = {m.product.product_id: m.printing_id for m in it.assign([kyo, pandaman], cands, dist, pairing=True)}
+    assert got == {3: "OP17-045", 4: "OP17-045_p1"}
+
+
+def test_pairing_needs_a_clear_margin_in_total_and_a_printing_for_every_product():
+    # Zoro-Juurou: the best pairing totals 9 bits and the other 19, which is 10 short of MARGIN.
+    event, finalist = product(1, "Zoro-Juurou (CS 25-26 Event Pack)", "OP05-067"), \
+        product(2, "Zoro-Juurou (CS 25-26 Event Pack Finalist Ver.)", "OP05-067")
+    cands = ["OP05-067_p5", "OP05-067_p6"]
+    dist = {(1, "OP05-067_p5"): 5, (1, "OP05-067_p6"): 8, (2, "OP05-067_p5"): 11, (2, "OP05-067_p6"): 4}
+    assert all(m.printing_id is None for m in it.assign([event, finalist], cands, dist, pairing=True))
+    # Identical distances (Spandine's Regional products): nothing tells the pairings apart.
+    same = {(1, "OP05-067_p5"): 1, (1, "OP05-067_p6"): 1, (2, "OP05-067_p5"): 1, (2, "OP05-067_p6"): 1}
+    assert all(m.printing_id is None for m in it.assign([event, finalist], cands, same, pairing=True))
+    # A pairing that leaves a product without a printing is not taken, whatever the totals.
+    third = product(3, "Zoro-Juurou (CS 25-26 3rd Place)", "OP05-067")
+    gold_silver = {(1, "OP05-067_p5"): 2, (1, "OP05-067_p6"): 15, (2, "OP05-067_p5"): 12, (2, "OP05-067_p6"): 1,
+                   (3, "OP05-067_p5"): 90, (3, "OP05-067_p6"): 90}
+    assert {m.product.product_id: m.printing_id
+            for m in it.assign([event, finalist], cands, gold_silver, pairing=True)} == {
+        1: "OP05-067_p5", 2: "OP05-067_p6"}
+    assert all(m.printing_id is None for m in it.assign([event, finalist, third], cands, gold_silver, pairing=True))
+
+
+def test_tied_products_are_settled_together_only_when_each_has_a_printing_in_reach():
+    gold, silver = product(1, "Shanks (SP) (Gold)", "OP09-004"), product(2, "Shanks (SP) (Silver)", "OP09-004")
+    cands = ["OP09-004_p5", "OP09-004_p6"]
+    dist = {(1, "OP09-004_p5"): 2, (1, "OP09-004_p6"): 15, (2, "OP09-004_p5"): 12, (2, "OP09-004_p6"): 1}
+    assert {pid: m.printing_id for pid, m in it.settle_tied([gold, silver], cands, dist).items()} == {
+        1: "OP09-004_p5", 2: "OP09-004_p6"}
+    # One product alone stays as it is, however clear the pairing would look.
+    assert it.settle_tied([gold], cands, dist) == {}
+    # Six Sanji products for one free printing: the images cannot say which of them it is.
+    sanji = [product(10 + i, f"Sanji (Regional 2024) [{who}]", "OP03-102") for i, who in
+             enumerate(["Participant", "Finalist", "Winner", "Participant", "Finalist", "Winner"])]
+    assert it.settle_tied(sanji, ["OP03-102_p1"], {(p.product_id, "OP03-102_p1"): 4 for p in sanji}) == {}
+
+
+def test_promos_tied_on_fewer_printings_than_there_are_products_become_printings_of_their_own():
+    # Sanji in OP-PR: six Regional prizes, one Bandai printing left within reach (the other went to a card set).
+    sanji = [product(10 + i, f"Sanji ({kind} Regional 2024) [{who}]", "OP03-102")
+             for i, (kind, who) in enumerate([("Online", "Participant"), ("Online", "Finalist"), ("Online", "Winner"),
+                                              ("Offline", "Participant"), ("Offline", "Finalist"),
+                                              ("Offline", "Winner")])]
+    dist = {(p.product_id, "OP03-102_p1"): 4 for p in sanji}
+    assert it.mint_tied("promo", sanji, {}, dist) == [p.product_id for p in sanji]
+    # Zoro's Pre-Release prize: both printings it was tied between went to other products.
+    zoro = product(1, "Roronoa Zoro (OP-06 Pre-Release Tournament) [Participant]", "P-045")
+    assert it.mint_tied("promo", [zoro], {}, {}) == [1]
+    # A set's product is never minted this way, and a promo that settle_tied placed keeps its printing.
+    assert it.mint_tied("set", sanji, {}, dist) == []
+    placed = {10: it.Match(sanji[0], "OP03-102_p1", 4, "image+pairing")}
+    assert it.mint_tied("promo", sanji, placed, dist) == [p.product_id for p in sanji[1:]]
+
+
+def test_promos_that_pair_up_with_the_printings_in_reach_stay_in_review():
+    # Spandine's five Regional 2025 products and five printings within 2 bits of all of them: as many printings as
+    # products, so no product is without one, and the images do not say which is which.
+    spandine = [product(20 + i, f"Spandine ({where} Regional {what} 2025 Vol.1)", "EB01-043")
+                for i, (where, what) in enumerate([("Offline", "Finalist"), ("Online", "Champion"),
+                                                   ("Online", "Participation"), ("Online", "Finalist"),
+                                                   ("Offline", "Champion")])]
+    printings = [f"EB01-043_p{n}" for n in range(2, 7)]
+    dist = {(p.product_id, c): 1 for p in spandine for c in printings}
+    assert not it.surplus(spandine, dist)
+    assert it.mint_tied("promo", spandine, {}, dist) == []
+    assert it.settle_tied(spandine, printings, dist) == {}
+
+
+def test_a_promo_tag_marks_a_copy_from_elsewhere_but_a_foil_pattern_does_not():
+    assert it.promo_copy(product(1, "Speed Jil (Dash Pack)", "OP03-006"), RULES)
+    assert it.promo_copy(product(2, "Nami (CS26-27 Regionals Season 2 Top 64)", "OP15-108"), RULES)
+    assert not it.promo_copy(product(3, "Two-Hundred Million Volts Amaru (Jolly Roger Foil)", "OP05-115"), RULES)
+    assert not it.promo_copy(product(4, "Shanks (004) (Alternate Art)", "OP09-004"), RULES)
+    assert not it.promo_copy(product(5, "Shanks (004)", "OP09-004"), RULES)
+
+
 def test_a_tag_breaks_an_image_tie_between_a_reprint_and_a_foil_pattern_copy():
     jrf, reprint = product(1, "Arlong (Jolly Roger Foil)", "OP06-023"), product(2, "Arlong (Reprint)", "OP06-023")
     dist = {(1, "OP06-023_p2"): 3, (1, "OP06-023_r1"): 8, (2, "OP06-023_p2"): 7, (2, "OP06-023_r1"): 4}
@@ -135,6 +283,27 @@ def test_tied_foil_patterns_take_bandais_order():
     assert got == {1: ("OP03-055_p2", "image+order"), 2: ("OP03-055_p3", "image+order")}
     # Without the order the tie stays unmatched.
     assert all(m.printing_id is None for m in it.assign([tex, jrf], cands, dist))
+
+
+def test_a_foil_pattern_copy_takes_its_printing_though_the_other_copy_sits_far_from_it():
+    # Amaru in PRB-01 (distances from the real images): the Textured Foil is 30 bits from the Jolly Roger Foil's
+    # printing _p2, so no printing carries the art of both, and the plain reprint _r1 is 1 bit nearer the Jolly
+    # Roger Foil than _p2 is.
+    alt, jrf, tex = (product(1, "Two-Hundred Million Volts Amaru (Alternate Art)", "OP05-115"),
+                     product(2, "Two-Hundred Million Volts Amaru (Jolly Roger Foil)", "OP05-115"),
+                     product(3, "Two-Hundred Million Volts Amaru (Textured Foil)", "OP05-115"))
+    cands = ["OP05-115_p2", "OP05-115_p3", "OP05-115_p4", "OP05-115_r1"]
+    rows = {1: [115, 116, 3, 114], 2: [7, 30, 115, 6], 3: [30, 3, 114, 29]}
+    dist = {(pid, c): rows[pid][i] for pid in rows for i, c in enumerate(cands)}
+    pattern = lambda p: it.foil_pattern(p, RULES)
+    kind = lambda p: it.product_kind(p, RULES)
+    got = {m.product.product_id: (m.printing_id, m.evidence)
+           for m in it.assign([alt, jrf, tex], cands, dist, kind_of=kind, pattern_of=pattern)}
+    assert got == {1: ("OP05-115_p4", "image"), 2: ("OP05-115_p2", "image+order"), 3: ("OP05-115_p3", "image")}
+    # A copy the images put beyond ACCEPT of every printing is not placed by the order.
+    far = {**dist, (2, "OP05-115_p2"): 40, (2, "OP05-115_r1"): 45}
+    assert {m.product.product_id: m.printing_id
+            for m in it.assign([alt, jrf, tex], cands, far, kind_of=kind, pattern_of=pattern)}[2] is None
 
 
 def test_the_order_places_nothing_it_cannot_count():
@@ -184,6 +353,64 @@ def test_a_tag_names_a_card_set_by_its_title():
     judge = product(2, "Three Thousand Worlds (Judge Pack Vol. 2)", "OP03-057")
     assert not it.names_card_set(judge, "-ONE PIECE CARD THE BEST- [PRB-01]")
     assert not it.names_card_set(judge, None)
+
+
+def test_event_names_read_the_same_whatever_the_spelling():
+    words = lambda text: it.event_tokens([text])
+    # Role words: a Participant and a Participation Pack are one role, and the role is kept apart from the event.
+    assert words("Participant") == words("Participation Pack") == (frozenset(), frozenset({"participation"}))
+    assert words("Winner")[1] == frozenset({"winner"}) and words("Finalist Card Set")[1] == frozenset({"finalist"})
+    # Set codes: OP-06, OP06 and OP 06 are one word.
+    assert words("OP-06") == words("OP06") == words("op 06") == (frozenset({"op06"}), frozenset())
+    # "Pre-Release" is one word, and a Tournament only dresses the name.
+    assert words("OP-06 Pre-Release Tournament") == words("Pre-Release OP06") == (
+        frozenset({"op06", "prerelease"}), frozenset())
+    # "ST15-20" is ST15 and ST20, and a Release Event stays an event of its own, not a Pre-Release.
+    assert words("ST15-20 Release Event") == words("ST15 - ST20 Release Event Pack")
+    assert words("Release Event") != words("Pre-Release")
+    # Online and Offline are different words, and so are the years.
+    assert words("Online Regional 2024") != words("Offline Regional 2024")
+    assert words("Online Regional 2024") != words("Online Regional 2025")
+
+
+def test_a_card_set_is_named_by_the_event_of_a_tied_promo_not_by_its_neighbours():
+    sets = {"OP03-102_p1": "Offline Regional Participation Pack 2024 Vol. 1",
+            "OP03-102_p2": "Premium Card Collection -BANDAI CARD GAMES Fest. 23-24 Edition-"}
+    sanji = {(where, role): product(i, f"Sanji ({where} Regional 2024) [{role}]", "OP03-102")
+             for i, (where, role) in enumerate([(w, r) for w in ("Offline", "Online")
+                                                for r in ("Participant", "Finalist", "Winner")])}
+    named = {k for k, p in sanji.items() if it.names_card_set(p, sets["OP03-102_p1"], normalised=True)}
+    assert named == {("Offline", "Participant")}
+    # The old reading of a tag finds nothing here, so nothing moved in the first sweep.
+    assert not any(it.names_card_set(p, sets["OP03-102_p1"]) for p in sanji.values())
+    assert it.card_set_pick(sanji[("Offline", "Participant")], list(sets), sets.get, normalised=True) == "OP03-102_p1"
+    assert it.card_set_pick(sanji[("Offline", "Participant")], list(sets), sets.get) is None
+    assert it.card_set_pick(sanji[("Online", "Participant")], list(sets), sets.get, normalised=True) is None
+    # A pre-release prize names "Pre-Release OP06", and the Release Event card set it was tied with is not it.
+    zoro = product(7, "Roronoa Zoro (OP-06 Pre-Release Tournament) [Participant]", "P-045")
+    zoro_sets = {"P-045": "Pre-Release OP06", "P-045_p1": "ST15-20 Release Event"}
+    assert it.card_set_pick(zoro, list(zoro_sets), zoro_sets.get, normalised=True) == "P-045"
+    # One word is not an event: the variants of names_event need two content words, so "Winner Pack" gives none.
+    assert not it.names_event(product(8, "Zoro (Winner Pack)", "P-045"), "Winner Pack")
+    assert not it.names_event(product(9, "Zoro (Regional) [Winner]", "P-045"), "Regional Winner Pack")
+
+
+def test_a_product_may_take_a_printing_only_from_a_holder_its_card_set_does_not_name():
+    # Zoro's Pre-Release prize against the Release Event Winner Pack that took P-045 as the one printing left.
+    prize = product(1, "Roronoa Zoro (OP-06 Pre-Release Tournament) [Participant]", "P-045")
+    winner_pack = product(2, "Roronoa Zoro (ST15 - ST20 Release Event Winner Pack)", "P-045")
+    held = it.Match(winner_pack, "P-045", 12, "image")
+    assert it.may_take_from(prize, held, 5, "Pre-Release OP06")
+    # Each condition on its own.
+    assert not it.may_take_from(prize, held, 29, "Pre-Release OP06")  # beyond ACCEPT
+    assert not it.may_take_from(prize, held, 13, "Pre-Release OP06")  # farther than the holder
+    assert not it.may_take_from(prize, it.Match(winner_pack, "P-045", 12, "image+cardset"), 5, "Pre-Release OP06")
+    assert not it.may_take_from(prize, it.Match(winner_pack, "P-045", 12, "whole-card"), 5, "Pre-Release OP06")
+    assert not it.may_take_from(prize, held, 5, "ST15-20 Release Event")  # the card set does not name the prize
+    assert not it.may_take_from(winner_pack, it.Match(prize, "P-045", 5, "image"), 12, "Pre-Release OP06")
+    # A holder whose own name names the card set keeps the printing.
+    twin = product(3, "Roronoa Zoro (OP-06 Pre-Release Tournament) [Winner]", "P-045")
+    assert not it.may_take_from(prize, it.Match(twin, "P-045", 12, "image"), 5, "Pre-Release OP06")
 
 
 def test_a_tag_naming_one_bandai_card_set_settles_identical_art():

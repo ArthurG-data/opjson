@@ -927,6 +927,12 @@
             "match": "image",
             "distance": 1
           },
+          "promoTypes": [
+            {
+              "type": "event_pack",
+              "category": "event"
+            }
+          ],
           "artist": "kankurou"
         },
         {
@@ -1007,6 +1013,16 @@
           },
           "finishes": [
             "foil"
+          ],
+          "promoTypes": [
+            {
+              "type": "event_pack",
+              "category": "event"
+            },
+            {
+              "type": "placement",
+              "category": "placement"
+            }
           ]
         },
         {
@@ -1160,6 +1176,16 @@
             "match": "image",
             "distance": 4
           },
+          "promoTypes": [
+            {
+              "type": "championship",
+              "category": "championship"
+            },
+            {
+              "type": "event_pack",
+              "category": "event"
+            }
+          ],
           "artist": "Nijihayashi"
         },
         {
@@ -1337,7 +1363,17 @@
             "name": "Trafalgar Law (CS 2023 Top Players Pack) [Finalist]",
             "match": "minted",
             "distance": null
-          }
+          },
+          "promoTypes": [
+            {
+              "type": "championship",
+              "category": "championship"
+            },
+            {
+              "type": "placement",
+              "category": "placement"
+            }
+          ]
         },
         {
           "id": "ST03-008~tcg525688",
@@ -1354,7 +1390,17 @@
             "name": "Trafalgar Law (CS 2023 Top Players Pack) [Winner]",
             "match": "minted",
             "distance": null
-          }
+          },
+          "promoTypes": [
+            {
+              "type": "championship",
+              "category": "championship"
+            },
+            {
+              "type": "placement",
+              "category": "placement"
+            }
+          ]
         },
         {
           "id": "ST03-008~tcg544789",
@@ -1374,6 +1420,16 @@
           },
           "finishes": [
             "foil"
+          ],
+          "promoTypes": [
+            {
+              "type": "championship",
+              "category": "championship"
+            },
+            {
+              "type": "event_pack",
+              "category": "event"
+            }
           ]
         },
         {
@@ -1394,6 +1450,16 @@
           },
           "finishes": [
             "foil"
+          ],
+          "promoTypes": [
+            {
+              "type": "championship",
+              "category": "championship"
+            },
+            {
+              "type": "placement",
+              "category": "placement"
+            }
           ]
         },
         {
@@ -1414,6 +1480,16 @@
           },
           "finishes": [
             "foil"
+          ],
+          "promoTypes": [
+            {
+              "type": "championship",
+              "category": "championship"
+            },
+            {
+              "type": "placement",
+              "category": "placement"
+            }
           ]
         },
         {
@@ -1431,7 +1507,17 @@
             "name": "Trafalgar Law (Offline Regional 2024 Vol. 2) [Winner]",
             "match": "minted",
             "distance": null
-          }
+          },
+          "promoTypes": [
+            {
+              "type": "championship",
+              "category": "championship"
+            },
+            {
+              "type": "placement",
+              "category": "placement"
+            }
+          ]
         },
         {
           "id": "ST03-008~tcg544793",
@@ -1448,7 +1534,17 @@
             "name": "Trafalgar Law (Online Regional 2024 Vol. 2) [Winner]",
             "match": "minted",
             "distance": null
-          }
+          },
+          "promoTypes": [
+            {
+              "type": "championship",
+              "category": "championship"
+            },
+            {
+              "type": "placement",
+              "category": "placement"
+            }
+          ]
         },
         {
           "id": "ST03-008~tcg579990",
@@ -2111,6 +2207,16 @@
             "match": "image",
             "distance": 11
           },
+          "promoTypes": [
+            {
+              "type": "championship",
+              "category": "championship"
+            },
+            {
+              "type": "event_pack",
+              "category": "event"
+            }
+          ],
           "artist": "DAI-XT."
         },
         {
@@ -2155,7 +2261,17 @@
             "name": "Marshall.D.Teach (Online Regional 2023) [Finalist]",
             "match": "minted",
             "distance": null
-          }
+          },
+          "promoTypes": [
+            {
+              "type": "championship",
+              "category": "championship"
+            },
+            {
+              "type": "placement",
+              "category": "placement"
+            }
+          ]
         },
         {
           "id": "ST03-014~tcg482229",
@@ -2172,7 +2288,17 @@
             "name": "Marshall.D.Teach (Online Regional 2023) [Winner]",
             "match": "minted",
             "distance": null
-          }
+          },
+          "promoTypes": [
+            {
+              "type": "championship",
+              "category": "championship"
+            },
+            {
+              "type": "placement",
+              "category": "placement"
+            }
+          ]
         },
         {
           "id": "ST03-014~tcg483185",
@@ -2192,6 +2318,16 @@
           },
           "finishes": [
             "foil"
+          ],
+          "promoTypes": [
+            {
+              "type": "championship",
+              "category": "championship"
+            },
+            {
+              "type": "event_pack",
+              "category": "event"
+            }
           ]
         },
         {
@@ -2212,6 +2348,16 @@
           },
           "finishes": [
             "foil"
+          ],
+          "promoTypes": [
+            {
+              "type": "championship",
+              "category": "championship"
+            },
+            {
+              "type": "placement",
+              "category": "placement"
+            }
           ]
         },
         {
@@ -2229,7 +2375,17 @@
             "name": "Marshall.D.Teach (Offline Regional 2023) [Winner]",
             "match": "minted",
             "distance": null
-          }
+          },
+          "promoTypes": [
+            {
+              "type": "championship",
+              "category": "championship"
+            },
+            {
+              "type": "placement",
+              "category": "placement"
+            }
+          ]
         },
         {
           "id": "ST03-014~tcg583754",

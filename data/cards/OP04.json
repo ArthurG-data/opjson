@@ -7964,7 +7964,17 @@
             "name": "Capone\"Gang\"Bege (CS 2023 Top Players Pack) [Finalist]",
             "match": "minted",
             "distance": null
-          }
+          },
+          "promoTypes": [
+            {
+              "type": "championship",
+              "category": "championship"
+            },
+            {
+              "type": "placement",
+              "category": "placement"
+            }
+          ]
         },
         {
           "id": "OP04-100~tcg525682",
@@ -7981,7 +7991,17 @@
             "name": "Capone\"Gang\"Bege (CS 2023 Top Players Pack) [Winner]",
             "match": "minted",
             "distance": null
-          }
+          },
+          "promoTypes": [
+            {
+              "type": "championship",
+              "category": "championship"
+            },
+            {
+              "type": "placement",
+              "category": "placement"
+            }
+          ]
         }
       ]
     },

@@ -23,7 +23,7 @@
     {"match": "treasure cup", "promo": "treasure_cup", "category": "championship"},
     {"match": "championship|regional|^cs ?\\d|world final|pirates league", "promo": "championship", "category": "championship"},
     {"match": "winner|finalist|\\b\\d(st|nd|rd|th) place\\b|top \\d+|top player|champion card set|trophy", "promo": "placement", "category": "placement"},
-    {"match": "event pack|celebration pack|tournament pack|participation|battle pack|battle kit|pirates party|sealed battle|grand battle|2-on-2|deck party|new year event|uta deck battle|set sail event|store tournament|round 1 promo", "promo": "event_pack", "category": "event"},
+    {"match": "event pack|celebration pack|tournament pack|participa(tion|nt)|battle pack|battle kit|pirates party|sealed battle|grand battle|2-on-2|deck party|new year event|uta deck battle|set sail event|store tournament|round 1 promo", "promo": "event_pack", "category": "event"},
     {"match": "anniversary", "promo": "anniversary", "category": "anniversary"},
     {"match": "premium card collection|gift collection|double pack set|tin pack set|illustration box|binder|special goods set|playmat|devil fruits collection|sound loader|special don!! (card )?(pack|set)|leader pack|treasure booster set|dash pack|promotion pack|welcome pack|retail promo|heroines special set|treasure campaign pack|anniversary set", "promo": "retail_product", "category": "retail"},
     {"match": "film red|live action|netflix|psa magazine", "promo": "media", "category": "media"},

@@ -430,7 +430,17 @@
             "name": "Kaido (CS 2023 Trophy Card) [3rd Place]",
             "match": "minted",
             "distance": null
-          }
+          },
+          "promoTypes": [
+            {
+              "type": "championship",
+              "category": "championship"
+            },
+            {
+              "type": "placement",
+              "category": "placement"
+            }
+          ]
         },
         {
           "id": "ST04-003~tcg525703",
@@ -447,7 +457,17 @@
             "name": "Kaido (CS 2023 Trophy Card) [2nd Place]",
             "match": "minted",
             "distance": null
-          }
+          },
+          "promoTypes": [
+            {
+              "type": "championship",
+              "category": "championship"
+            },
+            {
+              "type": "placement",
+              "category": "placement"
+            }
+          ]
         },
         {
           "id": "ST04-003~tcg525704",
@@ -464,7 +484,17 @@
             "name": "Kaido (CS 2023 Trophy Card) [Winner]",
             "match": "minted",
             "distance": null
-          }
+          },
+          "promoTypes": [
+            {
+              "type": "championship",
+              "category": "championship"
+            },
+            {
+              "type": "placement",
+              "category": "placement"
+            }
+          ]
         },
         {
           "id": "ST04-003~tcg580053",
@@ -1019,6 +1049,16 @@
             "match": "whole-card",
             "distance": 6
           },
+          "promoTypes": [
+            {
+              "type": "championship",
+              "category": "championship"
+            },
+            {
+              "type": "event_pack",
+              "category": "event"
+            }
+          ],
           "artist": "Hayaken-sarena"
         },
         {
@@ -1042,6 +1082,16 @@
             "match": "image",
             "distance": 21
           },
+          "promoTypes": [
+            {
+              "type": "championship",
+              "category": "championship"
+            },
+            {
+              "type": "placement",
+              "category": "placement"
+            }
+          ],
           "artist": "Hayaken-sarena"
         },
         {
@@ -1086,7 +1136,17 @@
             "name": "Jack (Online Regional 2023) [Winner]",
             "match": "minted",
             "distance": null
-          }
+          },
+          "promoTypes": [
+            {
+              "type": "championship",
+              "category": "championship"
+            },
+            {
+              "type": "placement",
+              "category": "placement"
+            }
+          ]
         },
         {
           "id": "ST04-008~tcg483189",
@@ -1106,6 +1166,16 @@
           },
           "finishes": [
             "foil"
+          ],
+          "promoTypes": [
+            {
+              "type": "championship",
+              "category": "championship"
+            },
+            {
+              "type": "event_pack",
+              "category": "event"
+            }
           ]
         },
         {
@@ -1126,6 +1196,16 @@
           },
           "finishes": [
             "foil"
+          ],
+          "promoTypes": [
+            {
+              "type": "championship",
+              "category": "championship"
+            },
+            {
+              "type": "placement",
+              "category": "placement"
+            }
           ]
         },
         {
@@ -1143,7 +1223,17 @@
             "name": "Jack (Offline Regional 2023) [Winner]",
             "match": "minted",
             "distance": null
-          }
+          },
+          "promoTypes": [
+            {
+              "type": "championship",
+              "category": "championship"
+            },
+            {
+              "type": "placement",
+              "category": "placement"
+            }
+          ]
         },
         {
           "id": "ST04-008~tcg564258",
@@ -1326,6 +1416,12 @@
             "match": "image",
             "distance": 2
           },
+          "promoTypes": [
+            {
+              "type": "event_pack",
+              "category": "event"
+            }
+          ],
           "artist": "Suemi jun"
         },
         {
@@ -1373,6 +1469,16 @@
           },
           "finishes": [
             "foil"
+          ],
+          "promoTypes": [
+            {
+              "type": "event_pack",
+              "category": "event"
+            },
+            {
+              "type": "placement",
+              "category": "placement"
+            }
           ]
         },
         {
@@ -1574,6 +1680,16 @@
           },
           "finishes": [
             "nonfoil"
+          ],
+          "promoTypes": [
+            {
+              "type": "event_pack",
+              "category": "event"
+            },
+            {
+              "type": "placement",
+              "category": "placement"
+            }
           ]
         },
         {

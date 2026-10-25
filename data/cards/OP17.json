@@ -2911,6 +2911,19 @@
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP17-045.png",
           "cardSet": "BOOSTER PACK -THE WORLD’S STRONGEST WARRIORS- [OP-17]",
           "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              712616
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "Kyo",
+            "match": "image+pairing",
+            "distance": 1
+          },
           "artist": "Studio Vigor Co. Ltd"
         },
         {
@@ -2921,6 +2934,19 @@
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP17-045_p1.png",
           "cardSet": "BOOSTER PACK -THE WORLD’S STRONGEST WARRIORS- [OP-17]",
           "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              712617
+            ]
+          },
+          "finishes": [
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "Kyo (Pandaman Art)",
+            "match": "image+pairing",
+            "distance": 1
+          },
           "artOf": "OP17-045",
           "artist": "Studio Vigor Co. Ltd"
         },

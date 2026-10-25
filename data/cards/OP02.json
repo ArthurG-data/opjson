@@ -3312,6 +3312,16 @@
             "match": "image",
             "distance": 7
           },
+          "promoTypes": [
+            {
+              "type": "championship",
+              "category": "championship"
+            },
+            {
+              "type": "event_pack",
+              "category": "event"
+            }
+          ],
           "artist": "DAI-XT."
         },
         {
@@ -3342,6 +3352,16 @@
           },
           "finishes": [
             "foil"
+          ],
+          "promoTypes": [
+            {
+              "type": "championship",
+              "category": "championship"
+            },
+            {
+              "type": "placement",
+              "category": "placement"
+            }
           ]
         },
         {
@@ -3359,7 +3379,17 @@
             "name": "Trafalgar Law (Online Regional 2023) [Winner]",
             "match": "minted",
             "distance": null
-          }
+          },
+          "promoTypes": [
+            {
+              "type": "championship",
+              "category": "championship"
+            },
+            {
+              "type": "placement",
+              "category": "placement"
+            }
+          ]
         },
         {
           "id": "OP02-035~tcg483174",
@@ -3379,6 +3409,16 @@
           },
           "finishes": [
             "foil"
+          ],
+          "promoTypes": [
+            {
+              "type": "championship",
+              "category": "championship"
+            },
+            {
+              "type": "event_pack",
+              "category": "event"
+            }
           ]
         },
         {
@@ -3399,6 +3439,16 @@
           },
           "finishes": [
             "foil"
+          ],
+          "promoTypes": [
+            {
+              "type": "championship",
+              "category": "championship"
+            },
+            {
+              "type": "placement",
+              "category": "placement"
+            }
           ]
         },
         {
@@ -3416,7 +3466,17 @@
             "name": "Trafalgar Law (Offline Regional 2023) [Winner]",
             "match": "minted",
             "distance": null
-          }
+          },
+          "promoTypes": [
+            {
+              "type": "championship",
+              "category": "championship"
+            },
+            {
+              "type": "placement",
+              "category": "placement"
+            }
+          ]
         },
         {
           "id": "OP02-035~tcg486694",
@@ -4719,6 +4779,16 @@
           },
           "finishes": [
             "foil"
+          ],
+          "promoTypes": [
+            {
+              "type": "championship",
+              "category": "championship"
+            },
+            {
+              "type": "event_pack",
+              "category": "event"
+            }
           ]
         },
         {
@@ -4739,6 +4809,16 @@
           },
           "finishes": [
             "foil"
+          ],
+          "promoTypes": [
+            {
+              "type": "championship",
+              "category": "championship"
+            },
+            {
+              "type": "placement",
+              "category": "placement"
+            }
           ]
         },
         {
@@ -4756,7 +4836,17 @@
             "name": "Crocodile (Online Regional 2023) [Winner]",
             "match": "minted",
             "distance": null
-          }
+          },
+          "promoTypes": [
+            {
+              "type": "championship",
+              "category": "championship"
+            },
+            {
+              "type": "placement",
+              "category": "placement"
+            }
+          ]
         },
         {
           "id": "OP02-053~tcg514176",
@@ -4776,6 +4866,16 @@
           },
           "finishes": [
             "foil"
+          ],
+          "promoTypes": [
+            {
+              "type": "championship",
+              "category": "championship"
+            },
+            {
+              "type": "placement",
+              "category": "placement"
+            }
           ]
         },
         {
@@ -4793,7 +4893,17 @@
             "name": "Crocodile (Offline Regional 2023) [Winner]",
             "match": "minted",
             "distance": null
-          }
+          },
+          "promoTypes": [
+            {
+              "type": "championship",
+              "category": "championship"
+            },
+            {
+              "type": "placement",
+              "category": "placement"
+            }
+          ]
         },
         {
           "id": "OP02-053~tcg514179",
@@ -4813,6 +4923,16 @@
           },
           "finishes": [
             "foil"
+          ],
+          "promoTypes": [
+            {
+              "type": "championship",
+              "category": "championship"
+            },
+            {
+              "type": "event_pack",
+              "category": "event"
+            }
           ]
         }
       ]
@@ -5649,6 +5769,16 @@
             "match": "image",
             "distance": 4
           },
+          "promoTypes": [
+            {
+              "type": "championship",
+              "category": "championship"
+            },
+            {
+              "type": "placement",
+              "category": "placement"
+            }
+          ],
           "artist": "TAPIOCA"
         },
         {
@@ -5720,7 +5850,17 @@
             "name": "Mr.1 (Daz.Bonez) (Online Regional 2024 Vol. 3) [Finalist]",
             "match": "minted",
             "distance": null
-          }
+          },
+          "promoTypes": [
+            {
+              "type": "championship",
+              "category": "championship"
+            },
+            {
+              "type": "placement",
+              "category": "placement"
+            }
+          ]
         },
         {
           "id": "OP02-063~tcg586019",
@@ -5737,7 +5877,17 @@
             "name": "Mr.1 (Daz.Bonez) (Online Regional 2024 Vol. 3) [Winner]",
             "match": "minted",
             "distance": null
-          }
+          },
+          "promoTypes": [
+            {
+              "type": "championship",
+              "category": "championship"
+            },
+            {
+              "type": "placement",
+              "category": "placement"
+            }
+          ]
         },
         {
           "id": "OP02-063~tcg586025",
@@ -5754,7 +5904,17 @@
             "name": "Mr.1 (Daz.Bonez) (Offline Regional 2024 Vol. 3) [Winner]",
             "match": "minted",
             "distance": null
-          }
+          },
+          "promoTypes": [
+            {
+              "type": "championship",
+              "category": "championship"
+            },
+            {
+              "type": "placement",
+              "category": "placement"
+            }
+          ]
         },
         {
           "id": "OP02-063~tcg586026",
@@ -8281,6 +8441,16 @@
             "match": "image",
             "distance": 7
           },
+          "promoTypes": [
+            {
+              "type": "championship",
+              "category": "championship"
+            },
+            {
+              "type": "event_pack",
+              "category": "event"
+            }
+          ],
           "artist": "Nijihayashi"
         },
         {
@@ -8325,6 +8495,16 @@
           },
           "finishes": [
             "foil"
+          ],
+          "promoTypes": [
+            {
+              "type": "championship",
+              "category": "championship"
+            },
+            {
+              "type": "placement",
+              "category": "placement"
+            }
           ]
         },
         {
@@ -8342,7 +8522,17 @@
             "name": "Koby (Online Regional 2023) [Winner]",
             "match": "minted",
             "distance": null
-          }
+          },
+          "promoTypes": [
+            {
+              "type": "championship",
+              "category": "championship"
+            },
+            {
+              "type": "placement",
+              "category": "placement"
+            }
+          ]
         },
         {
           "id": "OP02-098~tcg483178",
@@ -8362,6 +8552,16 @@
           },
           "finishes": [
             "foil"
+          ],
+          "promoTypes": [
+            {
+              "type": "championship",
+              "category": "championship"
+            },
+            {
+              "type": "event_pack",
+              "category": "event"
+            }
           ]
         },
         {
@@ -8382,6 +8582,16 @@
           },
           "finishes": [
             "foil"
+          ],
+          "promoTypes": [
+            {
+              "type": "championship",
+              "category": "championship"
+            },
+            {
+              "type": "placement",
+              "category": "placement"
+            }
           ]
         },
         {
@@ -8399,7 +8609,17 @@
             "name": "Koby (Offline Regional 2023) [Winner]",
             "match": "minted",
             "distance": null
-          }
+          },
+          "promoTypes": [
+            {
+              "type": "championship",
+              "category": "championship"
+            },
+            {
+              "type": "placement",
+              "category": "placement"
+            }
+          ]
         },
         {
           "id": "OP02-098~tcg502974",

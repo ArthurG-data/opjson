@@ -189,15 +189,17 @@ further away. When the images are too close to call, the evidence goes in this o
 2. The product's name tag picks between Bandai's kinds: "(Reprint)" is a `_rN` printing, and a parallel,
    alternate-art or foil-pattern tag is a `_pN` one (`image+name`).
 3. Foil-pattern copies of one card that are still tied take its `_pN` printings in Bandai's order, Jolly Roger
-   Foil then Textured Foil (`image+order`).
+   Foil then Textured Foil (`image+order`). A copy only has to be within 28 bits of the printing it takes: on
+   `OP05-115` the two foils are 30 bits apart, and the Jolly Roger Foil is 1 bit nearer the plain reprint `_r1`
+   than its own `_p2`.
 4. A promo whose art is shared by two printings is settled by Bandai's "Card Set(s)" field when a tag names exactly
    one of them (`image+cardset`).
-5. Products of one card still tied, with as many printings in reach as products, are assigned together. The Gold
-   and Silver Shanks (SP) are 2 and 15 bits from `OP09-004_p5` and `_p6` for one, 12 and 1 for the other. Taken one
-   at a time each sees both printings, and together only one pairing is close. The pairing is kept when the best
-   total beats every other way of pairing them by at least 20 bits, and every pair is within 28 (`image+pairing`).
-   A group with more products than printings in reach is not assigned, because some product in it has no printing
-   of its own and the images cannot say which.
+5. Products of one card still tied, with at least as many printings in reach as products, are assigned together
+   (`image+pairing`). The Gold Shanks (SP) is 2 bits from `OP09-004_p5` and 15 from `_p6`; the Silver one is 12
+   from `_p5` and 1 from `_p6`. One at a time each product sees both printings. Together only one pairing is
+   close: 3 bits in total against 27. The pairing is kept when it beats every other by at least 20 bits in
+   total, every pair is within 28 bits and every product has a printing. When products outnumber the printings in
+   reach, some product has none of its own and the images cannot say which, so nothing is assigned.
 
 A product TCGplayer lists without an image is matched by name, but only where the name leaves no choice (`name`).
 The name also settles a product the images rejected on distance, when all of these hold (`name-sole-plain`):
@@ -216,6 +218,20 @@ A promo never takes a printing Bandai files in a set that has its own TCGplayer 
 printing's card set. Pre-release, release-event, anniversary and most promo products are not on Bandai's list.
 They become printings of their own (`minted`), with `artOf` naming the printing whose art they carry.
 
+Two more routes end in a printing of its own:
+
+- A promo tied between several printings, when such promos outnumber the free printings in reach, is minted with
+  `artOf` naming the nearest (`minted-nearest`). Sanji's six 2024 Regional prizes share one Bandai printing, and
+  the Pre-Release Participant Zoro found both printings of `P-045` taken. Where promos and printings pair up one
+  to one, as the five Regional 2025 Vol.1 prizes of a card do with five printings within 2 bits of each, nothing
+  says which is which. Those products stay in review rather than becoming copies of printings Bandai lists.
+- TCGplayer files the Dash Packs (OP03 cards in OP04's group, OP15 cards in OP15-EB04's) and a Regionals prize in a
+  booster's group, though none is a card of that set. A product there that carries a promo tag other than a foil
+  pattern, and that no printing of its set matches, becomes a promo printing in set `P`, with `artOf` only where a
+  printing of its number is a clear match (`minted`). The Dash Pack scans sit 81 to 146 bits from every printing
+  of their number, so none has `artOf`. A Dash Pack is not a stamp or a reissue, which carry a printing's art. It
+  is a retail promo (`retail_product`).
+
 Each printing's `tcgplayer.match` names the evidence that settled it:
 
 | `match` | Evidence |
@@ -230,6 +246,7 @@ Each printing's `tcgplayer.match` names the evidence that settled it:
 | `name` | no image on TCGplayer; the name leaves no choice |
 | `name-sole-plain` | images rejected on distance; the only plain product of the number takes the unclaimed base |
 | `minted` | no Bandai printing: a printing of its own |
+| `minted-nearest` | promos tied between more printings than are free: a printing of its own, `artOf` the nearest |
 
 ## Review files
 

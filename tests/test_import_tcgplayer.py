@@ -196,6 +196,45 @@ def test_tied_products_are_settled_together_only_when_each_has_a_printing_in_rea
     assert it.settle_tied(sanji, ["OP03-102_p1"], {(p.product_id, "OP03-102_p1"): 4 for p in sanji}) == {}
 
 
+def test_promos_tied_on_fewer_printings_than_there_are_products_become_printings_of_their_own():
+    # Sanji in OP-PR: six Regional prizes, one Bandai printing left within reach (the other went to a card set).
+    sanji = [product(10 + i, f"Sanji ({kind} Regional 2024) [{who}]", "OP03-102")
+             for i, (kind, who) in enumerate([("Online", "Participant"), ("Online", "Finalist"), ("Online", "Winner"),
+                                              ("Offline", "Participant"), ("Offline", "Finalist"),
+                                              ("Offline", "Winner")])]
+    dist = {(p.product_id, "OP03-102_p1"): 4 for p in sanji}
+    assert it.mint_tied("promo", sanji, {}, dist) == [p.product_id for p in sanji]
+    # Zoro's Pre-Release prize: both printings it was tied between went to other products.
+    zoro = product(1, "Roronoa Zoro (OP-06 Pre-Release Tournament) [Participant]", "P-045")
+    assert it.mint_tied("promo", [zoro], {}, {}) == [1]
+    # A set's product is never minted this way, and a promo that settle_tied placed keeps its printing.
+    assert it.mint_tied("set", sanji, {}, dist) == []
+    placed = {10: it.Match(sanji[0], "OP03-102_p1", 4, "image+pairing")}
+    assert it.mint_tied("promo", sanji, placed, dist) == [p.product_id for p in sanji[1:]]
+
+
+def test_promos_that_pair_up_with_the_printings_in_reach_stay_in_review():
+    # Spandine's five Regional 2025 products and five printings within 2 bits of all of them: as many printings as
+    # products, so no product is without one, and the images do not say which is which.
+    spandine = [product(20 + i, f"Spandine ({where} Regional {what} 2025 Vol.1)", "EB01-043")
+                for i, (where, what) in enumerate([("Offline", "Finalist"), ("Online", "Champion"),
+                                                   ("Online", "Participation"), ("Online", "Finalist"),
+                                                   ("Offline", "Champion")])]
+    printings = [f"EB01-043_p{n}" for n in range(2, 7)]
+    dist = {(p.product_id, c): 1 for p in spandine for c in printings}
+    assert not it.surplus(spandine, dist)
+    assert it.mint_tied("promo", spandine, {}, dist) == []
+    assert it.settle_tied(spandine, printings, dist) == {}
+
+
+def test_a_promo_tag_marks_a_copy_from_elsewhere_but_a_foil_pattern_does_not():
+    assert it.promo_copy(product(1, "Speed Jil (Dash Pack)", "OP03-006"), RULES)
+    assert it.promo_copy(product(2, "Nami (CS26-27 Regionals Season 2 Top 64)", "OP15-108"), RULES)
+    assert not it.promo_copy(product(3, "Two-Hundred Million Volts Amaru (Jolly Roger Foil)", "OP05-115"), RULES)
+    assert not it.promo_copy(product(4, "Shanks (004) (Alternate Art)", "OP09-004"), RULES)
+    assert not it.promo_copy(product(5, "Shanks (004)", "OP09-004"), RULES)
+
+
 def test_a_tag_breaks_an_image_tie_between_a_reprint_and_a_foil_pattern_copy():
     jrf, reprint = product(1, "Arlong (Jolly Roger Foil)", "OP06-023"), product(2, "Arlong (Reprint)", "OP06-023")
     dist = {(1, "OP06-023_p2"): 3, (1, "OP06-023_r1"): 8, (2, "OP06-023_p2"): 7, (2, "OP06-023_r1"): 4}
@@ -228,6 +267,27 @@ def test_tied_foil_patterns_take_bandais_order():
     assert got == {1: ("OP03-055_p2", "image+order"), 2: ("OP03-055_p3", "image+order")}
     # Without the order the tie stays unmatched.
     assert all(m.printing_id is None for m in it.assign([tex, jrf], cands, dist))
+
+
+def test_a_foil_pattern_copy_takes_its_printing_though_the_other_copy_sits_far_from_it():
+    # Amaru in PRB-01 (distances from the real images): the Textured Foil is 30 bits from the Jolly Roger Foil's
+    # printing _p2, so no printing carries the art of both, and the plain reprint _r1 is 1 bit nearer the Jolly
+    # Roger Foil than _p2 is.
+    alt, jrf, tex = (product(1, "Two-Hundred Million Volts Amaru (Alternate Art)", "OP05-115"),
+                     product(2, "Two-Hundred Million Volts Amaru (Jolly Roger Foil)", "OP05-115"),
+                     product(3, "Two-Hundred Million Volts Amaru (Textured Foil)", "OP05-115"))
+    cands = ["OP05-115_p2", "OP05-115_p3", "OP05-115_p4", "OP05-115_r1"]
+    rows = {1: [115, 116, 3, 114], 2: [7, 30, 115, 6], 3: [30, 3, 114, 29]}
+    dist = {(pid, c): rows[pid][i] for pid in rows for i, c in enumerate(cands)}
+    pattern = lambda p: it.foil_pattern(p, RULES)
+    kind = lambda p: it.product_kind(p, RULES)
+    got = {m.product.product_id: (m.printing_id, m.evidence)
+           for m in it.assign([alt, jrf, tex], cands, dist, kind_of=kind, pattern_of=pattern)}
+    assert got == {1: ("OP05-115_p4", "image"), 2: ("OP05-115_p2", "image+order"), 3: ("OP05-115_p3", "image")}
+    # A copy the images put beyond ACCEPT of every printing is not placed by the order.
+    far = {**dist, (2, "OP05-115_p2"): 40, (2, "OP05-115_r1"): 45}
+    assert {m.product.product_id: m.printing_id
+            for m in it.assign([alt, jrf, tex], cands, far, kind_of=kind, pattern_of=pattern)}[2] is None
 
 
 def test_the_order_places_nothing_it_cannot_count():

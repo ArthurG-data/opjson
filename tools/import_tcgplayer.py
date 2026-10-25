@@ -22,7 +22,9 @@ two unclaimed Bandai printings the images cannot tell apart is settled by Bandai
 product's tags names exactly one of them (evidence "image+cardset"). Products of one card still tied after that,
 with as many unclaimed printings in reach as products, are assigned together and keep the one pairing that beats
 every other by MARGIN bits in total (evidence "image+pairing"). What is left goes to review rather than becoming
-a third copy. A promo never takes a printing Bandai files in a set that has its own TCGplayer group
+a third copy, except promos that outnumber the free printings they are tied between: Bandai lists too few
+printings for them, so each becomes a printing of its own with `artOf` naming the nearest (evidence
+"minted-nearest"). A promo never takes a printing Bandai files in a set that has its own TCGplayer group
 unless a tag names that printing's card set, as the Ultra Deck reprints' tags do. A reprint that TCGplayer files in another set's group is matched by image to the Bandai printing of its
 number wherever Bandai files it (evidence "image-other-set").
 
@@ -30,7 +32,7 @@ Pre-release, release-event and anniversary groups hold stamped copies of a set's
 group holds Starter Deck cards reissued with revised text, and most of TCGplayer's promos are not on Bandai's
 card list. Those products become printings of their own, with an id minted from the card number and the
 product id (OP02-013~tcg123456), and `artOf` naming the Bandai printing whose art they carry when the images
-say so.
+say so. A promo TCGplayer files in a booster's group (the Dash Packs) is one of them too, in set P.
 """
 from __future__ import annotations
 
@@ -170,6 +172,14 @@ def names_card_set(product: tcgcsv.Product, card_set: str | None) -> bool:
                             for t in (_key(t) for t in product.base_name_and_tags()[1]) if len(t) >= 8)
 
 
+def promo_copy(product: tcgcsv.Product, rules: list[dict]) -> bool:
+    """Whether a product's tags name a promo program (a Dash Pack, a Regionals prize), which is a copy of a card
+    from somewhere else and never one of its set's own printings. A foil pattern is not one: Bandai files
+    Jolly Roger and Textured Foils as printings of the set."""
+    _, promos = classify_tags(product.base_name_and_tags()[1], rules)
+    return any(category != "foil-pattern" for _, category in promos)
+
+
 def card_set_pick(product: tcgcsv.Product, near: list[str], card_set_of) -> str | None:
     """The one printing in near whose Bandai card set a tag of the product names, else None."""
     hits = [c for c in near if names_card_set(product, card_set_of(c))]
@@ -285,18 +295,35 @@ def settle_tied(products: list[tcgcsv.Product], candidates: list[str], dist: dic
     with assign, with pairing. One product alone is left as it is. So is a group with more products than
     printings within ACCEPT of any of them: some product in it has no printing of its own, and the images do not
     say which."""
-    in_reach = {c for (_, c), d in dist.items() if d is not None and d <= ACCEPT}
-    if len(products) < 2 or len(products) > len(in_reach):
+    if len(products) < 2 or surplus(products, dist):
         return {}
     return {m.product.product_id: m for m in assign(products, candidates, dist, pairing=True, **tie_breakers)
             if m.printing_id}
 
 
+def surplus(products: list[tcgcsv.Product], dist: dict[tuple[int, str], int | None]) -> bool:
+    """Whether more products are tied than there are printings within ACCEPT of any of them, so that some product
+    has no Bandai printing of its own."""
+    return len(products) > len({c for (_, c), d in dist.items() if d is not None and d <= ACCEPT})
+
+
+def mint_tied(role: str, products: list[tcgcsv.Product], settled: dict[int, Match],
+              dist: dict[tuple[int, str], int | None]) -> list[int]:
+    """Ids of the tied promos that become printings of their own (evidence "minted-nearest"): the ones settle_tied
+    left unmatched, when the group has more promos than free printings in reach. Which of them Bandai's printing
+    is cannot be told, so none of them takes it. Products of a set's group are never minted here."""
+    if role != "promo" or not surplus(products, dist):
+        return []
+    return [p.product_id for p in products if p.product_id not in settled]
+
+
 def order_by_pattern(out: list[Match], usable: list[str], bits, pattern_of) -> list[Match]:
     """Place a card's foil-pattern copies the images left unmatched by Bandai's numbering: the _pN printings
-    that carry the art of all of them, lowest first, go to the patterns in FOIL_PATTERN_ORDER (evidence
+    within ACCEPT of at least one of the copies, lowest first, go to the patterns in FOIL_PATTERN_ORDER (evidence
     "image+order"). Nothing changes unless there are exactly as many such printings as patterns, one product per
-    pattern, and every copy already matched sits where the order puts it."""
+    pattern, and every copy already matched sits where the order puts it. A copy takes its printing only if the
+    images put it within ACCEPT of that printing: the Textured Foil of OP05-115 sits 30 bits from the Jolly Roger
+    Foil's printing, so the printings need not carry the art of every copy."""
     pattern = {m.product.product_id: pattern_of(m.product) for m in out}
     patterned = [m for m in out if pattern[m.product.product_id]]
     if all(m.printing_id for m in patterned):
@@ -304,7 +331,7 @@ def order_by_pattern(out: list[Match], usable: list[str], bits, pattern_of) -> l
     ranks = sorted({pattern[m.product.product_id] for m in patterned}, key=FOIL_PATTERN_ORDER.index)
     held = {m.printing_id: m for m in out if m.printing_id}
     slots = sorted((c for c in usable if printing_kind(c) == "p"
-                    and all(bits(m.product, c) <= ACCEPT for m in patterned)
+                    and any(bits(m.product, c) <= ACCEPT for m in patterned)
                     and (c not in held or pattern[held[c].product.product_id])), key=_suffix_number)
     if len(ranks) != len(patterned) or len(slots) != len(ranks):
         return out
@@ -315,7 +342,7 @@ def order_by_pattern(out: list[Match], usable: list[str], bits, pattern_of) -> l
     for m in out:
         slot = slot_of.get(pattern[m.product.product_id])
         placed.append(Match(m.product, slot, bits(m.product, slot), "image+order")
-                      if slot and not m.printing_id else m)
+                      if slot and not m.printing_id and bits(m.product, slot) <= ACCEPT else m)
     return placed
 
 
@@ -497,11 +524,21 @@ def main() -> None:
             matches.append((role, Match(p, art, scored[0][0], how)))
             continue
         if role["role"] == "set" and p.number:
+            if promo_copy(p, rules):
+                # TCGplayer files this promo in a booster's group (the Dash Packs sit in OP04's and OP15's) although
+                # it is none of that set's cards: it is a promo printing of its own, and the images name a printing
+                # whose art it carries only where one of the number's printings, claimed or not, is a clear match.
+                every = sorted((d, c) for (_, c), d in
+                               distances([p], sorted(pid for pid, (n, _) in printings.items() if n == number)).items()
+                               if d is not None)
+                art = clear_winner(every)
+                minted.append(({"role": "promo", "set": "P"}, p, art, every[0][0] if art else None, "minted"))
+                continue
             review.append({"productId": p.product_id, "name": p.name, "set": role["set"], "number": p.number,
                            "reason": "no Bandai printing of this number in its set matches the image",
                            "closest": [{"printing": c, "distance": d} for d, c in scored[:3]]})
             continue
-        minted.append((role, p, art, scored[0][0] if art else None))
+        minted.append((role, p, art, scored[0][0] if art else None, "minted"))
 
     # Products tied between several printings are settled together with the others of their card (same role and
     # number), now that the sweep has claimed what it could. They are assigned like a pass 1 cluster, and a pair
@@ -518,11 +555,16 @@ def main() -> None:
         dist = {(pid, c): (d if c in pools[pid] else None) for (pid, c), d in distances(products, candidates).items()}
         settled = settle_tied(products, candidates, dist, kind_of=lambda prod: product_kind(prod, rules),
                               whole_dist=whole_distance, pattern_of=lambda prod: foil_pattern(prod, rules))
+        to_mint = mint_tied(group[0][0]["role"], products, settled, dist)
         for role, p, scored, entry in group:
             if p.product_id in settled:
                 m = settled[p.product_id]
                 claimed[m.printing_id] = p.product_id
                 matches.append((role, m))
+                review.remove(entry)
+            elif p.product_id in to_mint:
+                # artOf names the nearest of the printings the promo was tied between.
+                minted.append((role, p, scored[0][1], scored[0][0], "minted-nearest"))
                 review.remove(entry)
 
     # Write identifiers onto matched Bandai printings.
@@ -535,7 +577,7 @@ def main() -> None:
         _label(printing, treatments, promos)
 
     # Add minted printings, creating TCGplayer-only cards (DON!!) where Bandai has none.
-    for role, p, art, d in minted:
+    for role, p, art, d, how in minted:
         number = p.number or DON
         card = cards.get(number) or _new_card(number, p, files)
         cards[number] = card
@@ -546,7 +588,7 @@ def main() -> None:
                     "rarity": TCGPLAYER_RARITY.get(p.extended.get("Rarity"), p.extended.get("Rarity")),
                     "image": images.TCGPLAYER_IMAGE.format(product_id=p.product_id), "source": "tcgplayer",
                     "identifiers": {"tcgplayerProductIds": [p.product_id]},
-                    "tcgplayer": {"name": p.name, "match": "minted", "distance": d}}
+                    "tcgplayer": {"name": p.name, "match": how, "distance": d}}
         if art:
             printing["artOf"] = art
         _add_finishes(printing, finishes[p.product_id])

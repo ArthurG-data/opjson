@@ -11013,6 +11013,25 @@
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP05-115_p2.png",
           "cardSet": "-ONE PIECE CARD THE BEST- [PRB-01]",
           "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              586807
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Two-Hundred Million Volts Amaru (Jolly Roger Foil)",
+            "match": "image+order",
+            "distance": 7
+          },
+          "promoTypes": [
+            {
+              "type": "jolly_roger_foil",
+              "category": "foil-pattern"
+            }
+          ],
           "artOf": "OP05-115"
         },
         {

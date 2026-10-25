@@ -142,6 +142,60 @@ def test_name_sole_plain_needs_every_condition():
     assert run([parallel], [base], {(2, base): 90}, group=[luffy, parallel]) == []
 
 
+def test_two_products_the_images_barely_separate_pair_up_with_their_printings():
+    # Shanks (SP) in OP13 (distances from the real images): Gold is 2 bits from _p5 and 15 from _p6, Silver 12 and 1.
+    # One at a time each sees both printings within reach; together only one pairing is close.
+    gold, silver = product(1, "Shanks - OP09-004 (SP) (Gold)", "OP09-004"), \
+        product(2, "Shanks - OP09-004 (SP) (Silver)", "OP09-004")
+    cands = ["OP09-004_p5", "OP09-004_p6"]
+    dist = {(1, "OP09-004_p5"): 2, (1, "OP09-004_p6"): 15, (2, "OP09-004_p5"): 12, (2, "OP09-004_p6"): 1}
+    got = {m.product.product_id: (m.printing_id, m.evidence)
+           for m in it.assign([gold, silver], cands, dist, pairing=True)}
+    assert got == {1: ("OP09-004_p5", "image+pairing"), 2: ("OP09-004_p6", "image+pairing")}
+    assert all(m.printing_id is None for m in it.assign([gold, silver], cands, dist))
+    assert it.assign([gold], cands, dist, pairing=True)[0].printing_id is None
+    # Kyo in OP17: 1 and 11 bits each way, so the pairs total 2 against 22: exactly MARGIN is enough.
+    kyo, pandaman = product(3, "Kyo", "OP17-045"), product(4, "Kyo (Pandaman Art)", "OP17-045")
+    cands = ["OP17-045", "OP17-045_p1"]
+    dist = {(3, "OP17-045"): 1, (3, "OP17-045_p1"): 11, (4, "OP17-045"): 11, (4, "OP17-045_p1"): 1}
+    got = {m.product.product_id: m.printing_id for m in it.assign([kyo, pandaman], cands, dist, pairing=True)}
+    assert got == {3: "OP17-045", 4: "OP17-045_p1"}
+
+
+def test_pairing_needs_a_clear_margin_in_total_and_a_printing_for_every_product():
+    # Zoro-Juurou: the best pairing totals 9 bits and the other 19, which is 10 short of MARGIN.
+    event, finalist = product(1, "Zoro-Juurou (CS 25-26 Event Pack)", "OP05-067"), \
+        product(2, "Zoro-Juurou (CS 25-26 Event Pack Finalist Ver.)", "OP05-067")
+    cands = ["OP05-067_p5", "OP05-067_p6"]
+    dist = {(1, "OP05-067_p5"): 5, (1, "OP05-067_p6"): 8, (2, "OP05-067_p5"): 11, (2, "OP05-067_p6"): 4}
+    assert all(m.printing_id is None for m in it.assign([event, finalist], cands, dist, pairing=True))
+    # Identical distances (Spandine's Regional products): nothing tells the pairings apart.
+    same = {(1, "OP05-067_p5"): 1, (1, "OP05-067_p6"): 1, (2, "OP05-067_p5"): 1, (2, "OP05-067_p6"): 1}
+    assert all(m.printing_id is None for m in it.assign([event, finalist], cands, same, pairing=True))
+    # A pairing that leaves a product without a printing is not taken, whatever the totals.
+    third = product(3, "Zoro-Juurou (CS 25-26 3rd Place)", "OP05-067")
+    gold_silver = {(1, "OP05-067_p5"): 2, (1, "OP05-067_p6"): 15, (2, "OP05-067_p5"): 12, (2, "OP05-067_p6"): 1,
+                   (3, "OP05-067_p5"): 90, (3, "OP05-067_p6"): 90}
+    assert {m.product.product_id: m.printing_id
+            for m in it.assign([event, finalist], cands, gold_silver, pairing=True)} == {
+        1: "OP05-067_p5", 2: "OP05-067_p6"}
+    assert all(m.printing_id is None for m in it.assign([event, finalist, third], cands, gold_silver, pairing=True))
+
+
+def test_tied_products_are_settled_together_only_when_each_has_a_printing_in_reach():
+    gold, silver = product(1, "Shanks (SP) (Gold)", "OP09-004"), product(2, "Shanks (SP) (Silver)", "OP09-004")
+    cands = ["OP09-004_p5", "OP09-004_p6"]
+    dist = {(1, "OP09-004_p5"): 2, (1, "OP09-004_p6"): 15, (2, "OP09-004_p5"): 12, (2, "OP09-004_p6"): 1}
+    assert {pid: m.printing_id for pid, m in it.settle_tied([gold, silver], cands, dist).items()} == {
+        1: "OP09-004_p5", 2: "OP09-004_p6"}
+    # One product alone stays as it is, however clear the pairing would look.
+    assert it.settle_tied([gold], cands, dist) == {}
+    # Six Sanji products for one free printing: the images cannot say which of them it is.
+    sanji = [product(10 + i, f"Sanji (Regional 2024) [{who}]", "OP03-102") for i, who in
+             enumerate(["Participant", "Finalist", "Winner", "Participant", "Finalist", "Winner"])]
+    assert it.settle_tied(sanji, ["OP03-102_p1"], {(p.product_id, "OP03-102_p1"): 4 for p in sanji}) == {}
+
+
 def test_a_tag_breaks_an_image_tie_between_a_reprint_and_a_foil_pattern_copy():
     jrf, reprint = product(1, "Arlong (Jolly Roger Foil)", "OP06-023"), product(2, "Arlong (Reprint)", "OP06-023")
     dist = {(1, "OP06-023_p2"): 3, (1, "OP06-023_r1"): 8, (2, "OP06-023_p2"): 7, (2, "OP06-023_r1"): 4}

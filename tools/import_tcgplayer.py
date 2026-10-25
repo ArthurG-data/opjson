@@ -19,8 +19,10 @@ whose lower half carries the stamps the art band ignores (evidence "whole-card")
 that are still tied (PRB-01's Jolly Roger and Textured Foils share their art) take its _pN printings of that art
 in Bandai's order, FOIL_PATTERN_ORDER (evidence "image+order"). A promo whose art is that of
 two unclaimed Bandai printings the images cannot tell apart is settled by Bandai's "Card Set(s)" when one of the
-product's tags names exactly one of them (evidence "image+cardset"), and otherwise goes to review rather than
-becoming a third copy. A promo never takes a printing Bandai files in a set that has its own TCGplayer group
+product's tags names exactly one of them (evidence "image+cardset"). Products of one card still tied after that,
+with as many unclaimed printings in reach as products, are assigned together and keep the one pairing that beats
+every other by MARGIN bits in total (evidence "image+pairing"). What is left goes to review rather than becoming
+a third copy. A promo never takes a printing Bandai files in a set that has its own TCGplayer group
 unless a tag names that printing's card set, as the Ultra Deck reprints' tags do. A reprint that TCGplayer files in another set's group is matched by image to the Bandai printing of its
 number wherever Bandai files it (evidence "image-other-set").
 
@@ -195,11 +197,14 @@ def _suffix_number(printing_id: str) -> int:
 
 def assign(products: list[tcgcsv.Product], candidates: list[str],
            dist: dict[tuple[int, str], int | None], kind_of=lambda p: None,
-           whole_dist=lambda p, c: None, pattern_of=lambda p: None) -> list[Match]:
+           whole_dist=lambda p, c: None, pattern_of=lambda p: None, pairing: bool = False) -> list[Match]:
     """Match products to candidate printings by image. A tie on the art band is retried on the whole card
     (whole_dist), then broken by the product's tag between kinds (kind_of gives 'p', 'r' or None), and the
-    foil-pattern copies still tied are placed by Bandai's numbering (pattern_of, see order_by_pattern). Every
-    product appears once in the result."""
+    foil-pattern copies still tied are placed by Bandai's numbering (pattern_of, see order_by_pattern). With
+    pairing, products still tied keep the pairs of the best assignment when it beats every other assignment of
+    these products by MARGIN bits in total (evidence "image+pairing"): each product is a little nearer its own
+    printing than the other's, and no other way of pairing them comes close. Every product appears once in the
+    result."""
     usable = list(candidates)
     if not usable:
         return [Match(p, None, None, "no Bandai printing of this number in the set") for p in products]
@@ -213,6 +218,7 @@ def assign(products: list[tcgcsv.Product], candidates: list[str],
 
     # Exact minimum-cost assignment when the cluster is small (it nearly always is: a handful of variants
     # of one card in one set); greedy by distance otherwise.
+    pair_margin = None  # total bits the second-best assignment loses to the best one; None if there is no other
     if len(products) <= 7 and len(usable) <= 7:
         best: tuple[int, dict[int, int]] | None = None
         if len(products) <= len(usable):
@@ -220,11 +226,16 @@ def assign(products: list[tcgcsv.Product], candidates: list[str],
         else:
             options = ({i: j for j, i in enumerate(perm)}
                        for perm in itertools.permutations(range(len(products)), len(usable)))
+        totals = []
         for option in options:
             total = sum(cost(i, j) for i, j in option.items())
+            totals.append(total)
             if best is None or total < best[0]:
                 best = (total, option)
         pairs = best[1]
+        if len(totals) > 1:
+            totals.sort()
+            pair_margin = totals[1] - totals[0]
     else:
         pairs, taken = {}, set()
         for (i, j) in sorted(((i, j) for i in range(len(products)) for j in range(len(usable))),
@@ -257,11 +268,28 @@ def assign(products: list[tcgcsv.Product], candidates: list[str],
             same_kind = [c for c in near if printing_kind(c) == kind]
             if kind and same_kind == [cand]:
                 out.append(Match(p, cand, d, "image+name"))
+            elif (pairing and len(products) > 1 and pair_margin is not None and pair_margin >= MARGIN
+                  and len(pairs) == len(products) and all(cost(a, b) <= ACCEPT for a, b in pairs.items())):
+                out.append(Match(p, cand, d, "image+pairing"))
             else:
                 out.append(Match(p, None, d, f"{cand} at {d} bits is not clear of the next candidate at {runner_up}"))
         else:
             out.append(Match(p, cand, d, "image" if others else "image-only-candidate"))
     return order_by_pattern(out, usable, bits, pattern_of)
+
+
+def settle_tied(products: list[tcgcsv.Product], candidates: list[str], dist: dict[tuple[int, str], int | None],
+                **tie_breakers) -> dict[int, Match]:
+    """{product id: Match} for the products of one card that a first sweep found tied between several unclaimed
+    printings (dist holds None for a printing a product may not take). Several products are assigned together
+    with assign, with pairing. One product alone is left as it is. So is a group with more products than
+    printings within ACCEPT of any of them: some product in it has no printing of its own, and the images do not
+    say which."""
+    in_reach = {c for (_, c), d in dist.items() if d is not None and d <= ACCEPT}
+    if len(products) < 2 or len(products) > len(in_reach):
+        return {}
+    return {m.product.product_id: m for m in assign(products, candidates, dist, pairing=True, **tie_breakers)
+            if m.printing_id}
 
 
 def order_by_pattern(out: list[Match], usable: list[str], bits, pattern_of) -> list[Match]:
@@ -424,20 +452,27 @@ def main() -> None:
     leftovers += [({"set": r["set"], "role": "set"}, m.product) for r, m in matches if not m.printing_id]
     matches = [(r, m) for r, m in matches if m.printing_id]
     minted = []
-    for role, p in leftovers:
-        if role["role"] == "pending":
-            pending.append({"productId": p.product_id, "name": p.name, "set": role["set"], "number": p.number})
-            continue
-        number = p.number or DON
+    ties = []  # (role, product, scores) of products the first sweep found tied between several printings
+
+    def pool_for(role: dict, p: tcgcsv.Product, number: str) -> list[str]:
+        """The Bandai printings a leftover product may take: a stamp or reissue copies a printing of its set whether
+        or not another product holds it; the others take printings nobody claimed."""
         if role["role"] in ("stamp", "reissue"):
-            pool = sorted(by_set_number.get((copied_set(role, number), number), []))
-        else:
-            pool = sorted(pid for pid, (n, _) in printings.items() if n == number and pid not in claimed)
+            return sorted(by_set_number.get((copied_set(role, number), number), []))
+        pool = sorted(pid for pid, (n, _) in printings.items() if n == number and pid not in claimed)
         if role["role"] == "promo":
             # A printing Bandai files in a set TCGplayer gives its own group is that set's card, even when the group
             # does not list it (PRB-01's plain reprints): a promo takes it only if a tag names its card set.
             pool = [c for c in pool if printings[c][1]["set"] not in set_groups
                     or names_card_set(p, printings[c][1].get("cardSet"))]
+        return pool
+
+    for role, p in leftovers:
+        if role["role"] == "pending":
+            pending.append({"productId": p.product_id, "name": p.name, "set": role["set"], "number": p.number})
+            continue
+        number = p.number or DON
+        pool = pool_for(role, p, number)
         dist = distances([p], pool)
         scored = sorted((d, c) for (_, c), d in dist.items() if d is not None)
         art = clear_winner(scored)
@@ -450,9 +485,11 @@ def main() -> None:
             if not art:
                 art, evidence = card_set_pick(p, near, lambda c: printings[c][1].get("cardSet")), "image+cardset"
             if not art:
-                review.append({"productId": p.product_id, "name": p.name, "set": role["set"], "number": p.number,
-                               "reason": "its art is that of several Bandai printings the images cannot tell apart",
-                               "closest": [{"printing": c, "distance": d} for d, c in scored[:3]]})
+                entry = {"productId": p.product_id, "name": p.name, "set": role["set"], "number": p.number,
+                         "reason": "its art is that of several Bandai printings the images cannot tell apart",
+                         "closest": [{"printing": c, "distance": d} for d, c in scored[:3]]}
+                review.append(entry)  # settled below if the products tied with it can be told apart
+                ties.append((role, p, scored, entry))
                 continue
         if role["role"] in ("promo", "set") and art and art not in claimed:
             claimed[art] = p.product_id
@@ -465,6 +502,28 @@ def main() -> None:
                            "closest": [{"printing": c, "distance": d} for d, c in scored[:3]]})
             continue
         minted.append((role, p, art, scored[0][0] if art else None))
+
+    # Products tied between several printings are settled together with the others of their card (same role and
+    # number), now that the sweep has claimed what it could. They are assigned like a pass 1 cluster, and a pair
+    # of products the images only barely separate is kept when no other pairing comes close (evidence
+    # "image+pairing"). A group with more products than free printings in reach is not assigned at all: it
+    # holds a product with no printing of its own, and the images cannot say which.
+    tied = collections.defaultdict(list)
+    for role, p, scored, entry in ties:
+        tied[(role["role"], p.number)].append((role, p, scored, entry))
+    for (_, number), group in tied.items():
+        products = [p for _, p, _, _ in group]
+        pools = {p.product_id: set(pool_for(role, p, number)) for role, p, _, _ in group}
+        candidates = sorted(set().union(*pools.values()))
+        dist = {(pid, c): (d if c in pools[pid] else None) for (pid, c), d in distances(products, candidates).items()}
+        settled = settle_tied(products, candidates, dist, kind_of=lambda prod: product_kind(prod, rules),
+                              whole_dist=whole_distance, pattern_of=lambda prod: foil_pattern(prod, rules))
+        for role, p, scored, entry in group:
+            if p.product_id in settled:
+                m = settled[p.product_id]
+                claimed[m.printing_id] = p.product_id
+                matches.append((role, m))
+                review.remove(entry)
 
     # Write identifiers onto matched Bandai printings.
     for role, m in matches:

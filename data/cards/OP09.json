@@ -570,7 +570,24 @@
           "block": "3",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-004_p5.png",
           "cardSet": "-CARRYING ON HIS WILL- [OP-13]",
-          "source": "bandai"
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              657442
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Shanks - OP09-004 (SP) (Gold)",
+            "match": "image+pairing",
+            "distance": 2
+          },
+          "treatments": [
+            "gold",
+            "sp"
+          ]
         },
         {
           "id": "OP09-004_p6",
@@ -579,7 +596,23 @@
           "block": "3",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-004_p6.png",
           "cardSet": "-CARRYING ON HIS WILL- [OP-13]",
-          "source": "bandai"
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              657443
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Shanks - OP09-004 (SP) (Silver)",
+            "match": "image+pairing",
+            "distance": 1
+          },
+          "treatments": [
+            "sp"
+          ]
         },
         {
           "id": "OP09-004_r1",
@@ -9364,7 +9397,24 @@
           "block": "3",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-093_p4.png",
           "cardSet": "-LEGACY OF THE MASTER- [OP-12]",
-          "source": "bandai"
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              646573
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Marshall.D.Teach (SP) (Gold)",
+            "match": "image+pairing",
+            "distance": 3
+          },
+          "treatments": [
+            "gold",
+            "sp"
+          ]
         },
         {
           "id": "OP09-093_p5",
@@ -9374,6 +9424,22 @@
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-093_p5.png",
           "cardSet": "-LEGACY OF THE MASTER- [OP-12]",
           "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              646572
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Marshall.D.Teach (SP) (Silver)",
+            "match": "image+pairing",
+            "distance": 4
+          },
+          "treatments": [
+            "sp"
+          ],
           "artOf": "OP09-093_p4"
         },
         {

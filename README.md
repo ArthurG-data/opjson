@@ -192,6 +192,12 @@ further away. When the images are too close to call, the evidence goes in this o
    Foil then Textured Foil (`image+order`).
 4. A promo whose art is shared by two printings is settled by Bandai's "Card Set(s)" field when a tag names exactly
    one of them (`image+cardset`).
+5. Products of one card still tied, with as many printings in reach as products, are assigned together. The Gold
+   and Silver Shanks (SP) are 2 and 15 bits from `OP09-004_p5` and `_p6` for one, 12 and 1 for the other. Taken one
+   at a time each sees both printings, and together only one pairing is close. The pairing is kept when the best
+   total beats every other way of pairing them by at least 20 bits, and every pair is within 28 (`image+pairing`).
+   A group with more products than printings in reach is not assigned, because some product in it has no printing
+   of its own and the images cannot say which.
 
 A product TCGplayer lists without an image is matched by name, but only where the name leaves no choice (`name`).
 The name also settles a product the images rejected on distance, when all of these hold (`name-sole-plain`):
@@ -219,6 +225,7 @@ Each printing's `tcgplayer.match` names the evidence that settled it:
 | `image+name` | tied, settled by the tag's kind: `(Reprint)` is `_rN`, a parallel or foil-pattern tag is `_pN` |
 | `image+order` | foil-pattern copies still tied, placed in Bandai's order |
 | `image+cardset` | a promo tied between two printings, settled by the card set a tag names |
+| `image+pairing` | products of one card tied on the same printings, kept in the one pairing that is 20 bits better in total |
 | `image-other-set` | a reprint filed in another set's TCGplayer group, matched to the printing of its number |
 | `name` | no image on TCGplayer; the name leaves no choice |
 | `name-sole-plain` | images rejected on distance; the only plain product of the number takes the unclaimed base |

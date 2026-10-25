@@ -103,6 +103,45 @@ def test_assign_by_name_matches_only_where_the_name_leaves_no_choice():
     assert [m.printing_id for m in it.assign_by_name([robin], ["EB05-010"], "EB05-010", rules)] == ["EB05-010"]
 
 
+def test_the_sole_plain_product_takes_the_base_printing_the_images_rejected():
+    # Denjiro in OP01: TCGplayer's scan is cropped to the frame and Bandai's keeps its border, 89 bits apart.
+    denjiro = product(1, "Denjiro", "OP01-046")
+    dist = {(1, "OP01-046"): 89}
+    m, = it.assign_by_name([denjiro], ["OP01-046"], "OP01-046", RULES, group=[denjiro], dist=dist)
+    assert (m.printing_id, m.evidence, m.distance) == ("OP01-046", "name-sole-plain", 89)
+    # A number in brackets only tells two cards apart, so "X.Drake (114)" is still plain.
+    drake = product(2, "X.Drake (114)", "OP01-114")
+    m, = it.assign_by_name([drake], ["OP01-114"], "OP01-114", RULES, group=[drake], dist={(2, "OP01-114"): 64})
+    assert m.evidence == "name-sole-plain"
+    # Without distances the product counts as imageless and the old rule applies.
+    m, = it.assign_by_name([denjiro], ["OP01-046"], "OP01-046", RULES)
+    assert (m.printing_id, m.evidence, m.distance) == ("OP01-046", "name", None)
+
+
+def test_name_sole_plain_needs_every_condition():
+    luffy = product(1, "Monkey.D.Luffy (109)", "OP07-109")
+    parallel = product(2, "Monkey.D.Luffy (109) (Parallel)", "OP07-109")
+    base, p1 = "OP07-109", "OP07-109_p1"
+    far = {(1, base): 54, (1, p1): 125}
+
+    def run(products, candidates, dist, group=None):
+        return it.assign_by_name(products, candidates, base, RULES, group=group or products, dist=dist)
+
+    assert [m.printing_id for m in run([luffy], [base], far)] == [base]
+    # A tagged product beside it does not matter; a second plain product of the number does.
+    assert [m.printing_id for m in run([luffy], [base], far, group=[luffy, parallel])] == [base]
+    assert run([luffy], [base], far, group=[luffy, parallel, product(3, "Monkey.D.Luffy", base)]) == []
+    # The base printing is already claimed.
+    assert run([luffy], [p1], far) == []
+    # Another printing of the number is as close, or closer.
+    assert run([luffy], [base], {(1, base): 54, (1, p1): 54}) == []
+    assert run([luffy], [base], {(1, base): 54, (1, p1): 40}) == []
+    # Within ACCEPT the images did not reject it: that is a tie or a miss for assign, not for the name.
+    assert run([luffy], [base], {(1, base): 20, (1, p1): 60}) == []
+    # A tagged product is not the plain one.
+    assert run([parallel], [base], {(2, base): 90}, group=[luffy, parallel]) == []
+
+
 def test_a_tag_breaks_an_image_tie_between_a_reprint_and_a_foil_pattern_copy():
     jrf, reprint = product(1, "Arlong (Jolly Roger Foil)", "OP06-023"), product(2, "Arlong (Reprint)", "OP06-023")
     dist = {(1, "OP06-023_p2"): 3, (1, "OP06-023_r1"): 8, (2, "OP06-023_p2"): 7, (2, "OP06-023_r1"): 4}

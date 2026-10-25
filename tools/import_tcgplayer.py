@@ -7,8 +7,11 @@ Reads data/cards (written by import_bandai.py), TCGCSV category 68 and the cache
 the two images agree: the hash distance is at most ACCEPT and the next-best candidate is at least MARGIN
 further away. When TCGplayer has no image for a product (new sets often have none yet), its name decides, but only
 where it leaves no choice: an untagged product takes the base printing, and a tagged one the only variant printing
-left (evidence "name"). A product that cannot be matched either way goes to review/tcgplayer-68.json, never into
-a guess. Images cannot tell a foil-pattern reprint from the plain reprint of the same art, so when two candidates
+left (evidence "name"). The name also settles a product whose image the hash rejected, when TCGplayer's scan is
+framed so differently from Bandai's that the same card sits 50 to 100 bits away: the only untagged product of its
+number in the set's group takes the base printing if nothing has claimed it and no other printing of the number is
+closer (evidence "name-sole-plain"). A product that cannot be matched either way goes to
+review/tcgplayer-68.json, never into a guess. Images cannot tell a foil-pattern reprint from the plain reprint of the same art, so when two candidates
 are too close to call, the product's tag decides between Bandai's kinds: "(Reprint)" is an _rN printing and a
 parallel, alternate-art or foil-pattern tag a _pN one; the match stands only if the image pick is the one
 printing of that kind within ACCEPT (evidence "image+name"). Before that, a tie is retried on the whole card,
@@ -81,7 +84,7 @@ class Match:
     product: tcgcsv.Product
     printing_id: str | None
     distance: int | None
-    evidence: str  # "image", "image-only-candidate", "image+name", "name", "image-other-set", or why unmatched
+    evidence: str  # "image", "image-only-candidate", "image+name", "name", "name-sole-plain", ... or why unmatched
 
 
 def normalise_set(abbreviation: str) -> str:
@@ -289,21 +292,44 @@ def order_by_pattern(out: list[Match], usable: list[str], bits, pattern_of) -> l
 
 
 def assign_by_name(products: list[tcgcsv.Product], candidates: list[str], number: str,
-                   rules: list[dict]) -> list[Match]:
-    """Match products that have no image, by name, where it leaves no choice. candidates are the unclaimed
-    Bandai printings of the number in the set; products with no unique match are left out of the result."""
+                   rules: list[dict], group: list[tcgcsv.Product] | None = None,
+                   dist: dict[tuple[int, str], int | None] | None = None) -> list[Match]:
+    """Match products the images left unmatched, by name, where it leaves no choice. candidates are the
+    unclaimed Bandai printings of the number in the set; products with no unique match are left out of the result.
+
+    Without dist, every product is taken to have no image to compare (evidence "name"): an untagged product takes
+    the base printing and a tagged one the only variant printing left. With dist (image distance of each product
+    of the group to every Bandai printing of the number in the set, claimed or not), a product with no distance
+    at all is that case, and one with distances is judged on them: the images rejected it, and its name takes the
+    base printing only if all of these hold (evidence "name-sole-plain"):
+    - it is the only plain product of the number in the set's group (group, every product of the number there);
+    - the base printing is still unclaimed;
+    - no other printing of the number is as close to the product as the base printing is, and the base printing
+      is beyond ACCEPT, since a product within ACCEPT of it is a tie, not a rejection."""
     def is_variant(p: tcgcsv.Product) -> bool:
         treatments, promos = classify_tags(p.base_name_and_tags()[1], rules)
         return bool(treatments or promos)
 
+    def seen(p: tcgcsv.Product) -> dict[str, int]:
+        return {c: d for (pid, c), d in (dist or {}).items() if pid == p.product_id and d is not None}
+
+    imageless = [p for p in products if not seen(p)]
     out = []
-    plain = [p for p in products if not is_variant(p)]
+    plain = [p for p in imageless if not is_variant(p)]
     if len(plain) == 1 and number in candidates:
         out.append(Match(plain[0], number, None, "name"))
-    variants = [p for p in products if is_variant(p)]
+    variants = [p for p in imageless if is_variant(p)]
     others = [c for c in candidates if c != number]
     if len(variants) == 1 and len(others) == 1:
         out.append(Match(variants[0], others[0], None, "name"))
+    plain_in_group = [p for p in (group or []) if not is_variant(p)]
+    for p in products:
+        d = seen(p).get(number)
+        if (len(plain_in_group) == 1 and plain_in_group[0] is p and number in candidates
+                and not any(m.printing_id == number for m in out)
+                and d is not None and d > ACCEPT
+                and all(x > d for c, x in seen(p).items() if c != number)):
+            out.append(Match(p, number, d, "name-sole-plain"))
     return out
 
 
@@ -377,12 +403,14 @@ def main() -> None:
             clusters[(role["set"], p.number)].append(p)
     for (set_id, number), products in sorted(clusters.items()):
         candidates = sorted(by_set_number.get((set_id, number), []))
-        found = assign(products, candidates, distances(products, candidates),
+        dist = distances(products, candidates)
+        found = assign(products, candidates, dist,
                        kind_of=lambda prod: product_kind(prod, rules), whole_dist=whole_distance,
                        pattern_of=lambda prod: foil_pattern(prod, rules))
-        imageless = [m.product for m in found if not m.printing_id and tcg_hash(m.product) is None]
+        unmatched = [m.product for m in found if not m.printing_id]
         free = [c for c in candidates if c not in {m.printing_id for m in found}]
-        by_name = {m.product.product_id: m for m in assign_by_name(imageless, free, number, rules)}
+        by_name = {m.product.product_id: m for m in assign_by_name(unmatched, free, number, rules,
+                                                                  group=products, dist=dist)}
         for m in found:
             m = by_name.get(m.product.product_id, m)
             matches.append(({"set": set_id, "role": "set"}, m))

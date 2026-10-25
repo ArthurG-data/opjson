@@ -4696,7 +4696,20 @@
           "block": "1",
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP01-046.png",
           "cardSet": "-ROMANCE DAWN- [OP01]",
-          "source": "bandai"
+          "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              454570
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Denjiro",
+            "match": "name-sole-plain",
+            "distance": 89
+          }
         }
       ]
     },
@@ -6198,6 +6211,20 @@
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP01-068.png",
           "cardSet": "-ROMANCE DAWN- [OP01]",
           "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              454596
+            ]
+          },
+          "finishes": [
+            "foil",
+            "nonfoil"
+          ],
+          "tcgplayer": {
+            "name": "Gecko Moria",
+            "match": "name-sole-plain",
+            "distance": 102
+          },
           "artist": "phima"
         }
       ]
@@ -8921,6 +8948,19 @@
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP01-111.png",
           "cardSet": "-ROMANCE DAWN- [OP01]",
           "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              454646
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "Black Maria",
+            "match": "name-sole-plain",
+            "distance": 76
+          },
           "artist": "Mutsumi Sasaki"
         }
       ]
@@ -9037,6 +9077,19 @@
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP01-114.png",
           "cardSet": "-ROMANCE DAWN- [OP01]",
           "source": "bandai",
+          "identifiers": {
+            "tcgplayerProductIds": [
+              454652
+            ]
+          },
+          "finishes": [
+            "foil"
+          ],
+          "tcgplayer": {
+            "name": "X.Drake (114)",
+            "match": "name-sole-plain",
+            "distance": 64
+          },
           "artist": "Akihiro MIYANO"
         },
         {

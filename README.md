@@ -194,9 +194,35 @@ further away. When the images are too close to call, the evidence goes in this o
    one of them (`image+cardset`).
 
 A product TCGplayer lists without an image is matched by name, but only where the name leaves no choice (`name`).
+The name also settles a product the images rejected on distance, when all of these hold (`name-sole-plain`):
+
+- it has no tag, so it is the plain card, and it is the only such product of its number in the set's TCGplayer group;
+- the base printing of that number in the set (`OP01-046`) is still unclaimed;
+- no other printing of the number in the set is as close to the product as the base printing is.
+
+This is for scans that sit far from Bandai's although they show the same card: TCGplayer crops some scans to the
+card frame where Bandai keeps the pale border around it, and photographs a few Leaders and Super Rares as holo
+foil. Denjiro (`OP01-046`) is 89 bits from its own printing, Gecko Moria 102, Black Maria 76, X.Drake 64,
+Monkey.D.Luffy (`OP07-109`) 54 and the ST-01 Leader 29, the last just above the limit of 28. The printing keeps the
+distance, so a reader can see how little the image said.
+
 A promo never takes a printing Bandai files in a set that has its own TCGplayer group, unless a tag names that
 printing's card set. Pre-release, release-event, anniversary and most promo products are not on Bandai's list.
 They become printings of their own (`minted`), with `artOf` naming the printing whose art they carry.
+
+Each printing's `tcgplayer.match` names the evidence that settled it:
+
+| `match` | Evidence |
+|---|---|
+| `image`, `image-only-candidate` | within 28 bits and 20 bits clear of the next printing, or the only printing of that number |
+| `whole-card` | tied on the top band, settled on the whole card |
+| `image+name` | tied, settled by the tag's kind: `(Reprint)` is `_rN`, a parallel or foil-pattern tag is `_pN` |
+| `image+order` | foil-pattern copies still tied, placed in Bandai's order |
+| `image+cardset` | a promo tied between two printings, settled by the card set a tag names |
+| `image-other-set` | a reprint filed in another set's TCGplayer group, matched to the printing of its number |
+| `name` | no image on TCGplayer; the name leaves no choice |
+| `name-sole-plain` | images rejected on distance; the only plain product of the number takes the unclaimed base |
+| `minted` | no Bandai printing: a printing of its own |
 
 ## Review files
 

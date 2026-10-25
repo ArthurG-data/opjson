@@ -16,6 +16,22 @@ def test_tags_split_from_the_name_end():
     assert product(2, "DON!! Card // One Piece Film RED Promo").base_name_and_tags()[1] == []
 
 
+def test_a_bracketed_role_labels_a_printing_but_plays_no_part_in_matching():
+    sanji = product(1, "Sanji (Online Regional 2024) [Participant]", "OP03-102")
+    assert sanji.base_name_and_tags() == ("Sanji (Online Regional 2024) [Participant]", [])
+    assert sanji.label_tags() == ["Online Regional 2024", "Participant"]
+    assert product(2, "Shanks (Parallel) (Manga)").label_tags() == ["Parallel", "Manga"]
+    assert product(3, "Shanks").label_tags() == []
+    _, promos = it.classify_tags(sanji.label_tags(), RULES)
+    assert promos == [("championship", "championship"), ("event_pack", "event")]
+    zoro = product(4, "Roronoa Zoro (OP-06 Pre-Release Tournament) [Participant]", "P-045")
+    _, promos = it.classify_tags(zoro.label_tags(), RULES)
+    assert promos == [("event_pack", "event"), ("prerelease", "event")]
+    winner = product(5, "Sanji (Offline Regional 2024) [Winner]", "OP03-102")
+    _, promos = it.classify_tags(winner.label_tags(), RULES)
+    assert promos == [("championship", "championship"), ("placement", "placement")]
+
+
 def test_classify_tags_maps_treatments_and_reuses_mtg_promo_names():
     treatments, promos = it.classify_tags(["Parallel", "Manga", "Alternate Art"], RULES)
     assert treatments == ["alternate_art", "manga", "parallel"] and promos == []

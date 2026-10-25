@@ -362,6 +362,16 @@
             "match": "image",
             "distance": 10
           },
+          "promoTypes": [
+            {
+              "type": "championship",
+              "category": "championship"
+            },
+            {
+              "type": "event_pack",
+              "category": "event"
+            }
+          ],
           "artist": "Koushi Rokushiro"
         },
         {
@@ -441,6 +451,16 @@
           },
           "finishes": [
             "foil"
+          ],
+          "promoTypes": [
+            {
+              "type": "championship",
+              "category": "championship"
+            },
+            {
+              "type": "placement",
+              "category": "placement"
+            }
           ]
         },
         {
@@ -458,7 +478,17 @@
             "name": "Sanji (Online Regional 2023) [Winner]",
             "match": "minted",
             "distance": null
-          }
+          },
+          "promoTypes": [
+            {
+              "type": "championship",
+              "category": "championship"
+            },
+            {
+              "type": "placement",
+              "category": "placement"
+            }
+          ]
         },
         {
           "id": "ST01-004~tcg483182",
@@ -478,6 +508,16 @@
           },
           "finishes": [
             "foil"
+          ],
+          "promoTypes": [
+            {
+              "type": "championship",
+              "category": "championship"
+            },
+            {
+              "type": "event_pack",
+              "category": "event"
+            }
           ]
         },
         {
@@ -498,6 +538,16 @@
           },
           "finishes": [
             "foil"
+          ],
+          "promoTypes": [
+            {
+              "type": "championship",
+              "category": "championship"
+            },
+            {
+              "type": "placement",
+              "category": "placement"
+            }
           ]
         },
         {
@@ -515,7 +565,17 @@
             "name": "Sanji (Offline Regional 2023) [Winner]",
             "match": "minted",
             "distance": null
-          }
+          },
+          "promoTypes": [
+            {
+              "type": "championship",
+              "category": "championship"
+            },
+            {
+              "type": "placement",
+              "category": "placement"
+            }
+          ]
         }
       ]
     },
@@ -955,7 +1015,13 @@
             "name": "Tony Tony.Chopper (3-on-3 Cup) [Winner]",
             "match": "minted",
             "distance": null
-          }
+          },
+          "promoTypes": [
+            {
+              "type": "placement",
+              "category": "placement"
+            }
+          ]
         },
         {
           "id": "ST01-006~tcg501750",
@@ -975,6 +1041,12 @@
           },
           "finishes": [
             "nonfoil"
+          ],
+          "promoTypes": [
+            {
+              "type": "event_pack",
+              "category": "event"
+            }
           ]
         },
         {
@@ -1148,6 +1220,12 @@
             "match": "image",
             "distance": 4
           },
+          "promoTypes": [
+            {
+              "type": "event_pack",
+              "category": "event"
+            }
+          ],
           "artist": "Koushi Rokushiro"
         },
         {
@@ -1279,6 +1357,16 @@
           },
           "finishes": [
             "foil"
+          ],
+          "promoTypes": [
+            {
+              "type": "event_pack",
+              "category": "event"
+            },
+            {
+              "type": "placement",
+              "category": "placement"
+            }
           ]
         },
         {
@@ -1542,6 +1630,16 @@
             "match": "image",
             "distance": 10
           },
+          "promoTypes": [
+            {
+              "type": "event_pack",
+              "category": "event"
+            },
+            {
+              "type": "prerelease",
+              "category": "event"
+            }
+          ],
           "artist": "NAOSHI KOMI"
         },
         {
@@ -1589,6 +1687,16 @@
           },
           "finishes": [
             "foil"
+          ],
+          "promoTypes": [
+            {
+              "type": "placement",
+              "category": "placement"
+            },
+            {
+              "type": "prerelease",
+              "category": "event"
+            }
           ]
         }
       ]
@@ -2533,7 +2641,13 @@
             "name": "Roronoa Zoro (3-on-3 Cup) [Participant]",
             "match": "minted",
             "distance": null
-          }
+          },
+          "promoTypes": [
+            {
+              "type": "event_pack",
+              "category": "event"
+            }
+          ]
         },
         {
           "id": "ST01-013~tcg503254",
@@ -2550,7 +2664,13 @@
             "name": "Roronoa Zoro (3-on-3 Cup) [Winner]",
             "match": "minted",
             "distance": null
-          }
+          },
+          "promoTypes": [
+            {
+              "type": "placement",
+              "category": "placement"
+            }
+          ]
         }
       ]
     },
@@ -2786,6 +2906,16 @@
             "match": "image",
             "distance": 7
           },
+          "promoTypes": [
+            {
+              "type": "championship",
+              "category": "championship"
+            },
+            {
+              "type": "event_pack",
+              "category": "event"
+            }
+          ],
           "artist": "Makitoshi"
         },
         {
@@ -2833,6 +2963,16 @@
           },
           "finishes": [
             "foil"
+          ],
+          "promoTypes": [
+            {
+              "type": "championship",
+              "category": "championship"
+            },
+            {
+              "type": "placement",
+              "category": "placement"
+            }
           ]
         },
         {
@@ -2850,7 +2990,17 @@
             "name": "Gum-Gum Jet Pistol (Online Regional 2024) [Winner]",
             "match": "minted",
             "distance": null
-          }
+          },
+          "promoTypes": [
+            {
+              "type": "championship",
+              "category": "championship"
+            },
+            {
+              "type": "placement",
+              "category": "placement"
+            }
+          ]
         },
         {
           "id": "ST01-015~tcg539195",
@@ -2870,6 +3020,16 @@
           },
           "finishes": [
             "foil"
+          ],
+          "promoTypes": [
+            {
+              "type": "championship",
+              "category": "championship"
+            },
+            {
+              "type": "event_pack",
+              "category": "event"
+            }
           ]
         },
         {
@@ -2890,6 +3050,16 @@
           },
           "finishes": [
             "foil"
+          ],
+          "promoTypes": [
+            {
+              "type": "championship",
+              "category": "championship"
+            },
+            {
+              "type": "placement",
+              "category": "placement"
+            }
           ]
         },
         {
@@ -2907,7 +3077,17 @@
             "name": "Gum-Gum Jet Pistol (Offline Regional 2024) [Winner]",
             "match": "minted",
             "distance": null
-          }
+          },
+          "promoTypes": [
+            {
+              "type": "championship",
+              "category": "championship"
+            },
+            {
+              "type": "placement",
+              "category": "placement"
+            }
+          ]
         },
         {
           "id": "ST01-015~tcg599789",

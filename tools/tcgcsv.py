@@ -1,6 +1,7 @@
 """TCGplayer's One Piece catalogue as mirrored by TCGCSV (category 68), cached under .cache/tcgcsv."""
 from __future__ import annotations
 
+import dataclasses
 import json
 import re
 import time
@@ -15,6 +16,8 @@ FETCH_DELAY_S = 0.5
 
 # Name suffixes TCGplayer uses to tell a card's variants apart, as in "Shanks (Parallel) (Manga)".
 _SUFFIX = re.compile(r"\s*\(([^()]*)\)\s*$")
+# A role TCGplayer puts after the tags of a prize card, as in "Sanji (Online Regional 2024) [Participant]".
+_ROLE = re.compile(r"\s*\[([^\[\]]*)\]\s*$")
 
 
 @dataclass(frozen=True)
@@ -44,6 +47,15 @@ class Product:
             tags.insert(0, m.group(1).strip())
             name = name[:m.start()]
         return name.strip(), tags
+
+    def label_tags(self) -> list[str]:
+        """The tags a printing is labelled from: those of base_name_and_tags, then a bracketed role such as
+        [Winner] or [Participant]. Matching reads only the parenthesised tags, because a name that ends in a
+        bracket has none to a parser that looks at the end of the name."""
+        m = _ROLE.search(self.name)
+        if not m:
+            return self.base_name_and_tags()[1]
+        return dataclasses.replace(self, name=self.name[:m.start()]).base_name_and_tags()[1] + [m.group(1).strip()]
 
 
 def _get(url: str, cache: Path, refresh: bool) -> dict:

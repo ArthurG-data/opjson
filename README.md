@@ -232,6 +232,9 @@ Two more routes end in a printing of its own:
   of their number, so none has `artOf`. A Dash Pack is not a stamp or a reissue, which carry a printing's art. It
   is a retail promo (`retail_product`).
 
+A role TCGplayer adds after the tags of a prize card (`[Participant]`, `[Finalist]`, `[Winner]`) gives the printing
+its promo types: a Regional prize is a `championship` and a `placement`. It plays no part in matching.
+
 Each printing's `tcgplayer.match` names the evidence that settled it:
 
 | `match` | Evidence |

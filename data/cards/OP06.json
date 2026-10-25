@@ -10385,6 +10385,16 @@
             "match": "image",
             "distance": 3
           },
+          "promoTypes": [
+            {
+              "type": "championship",
+              "category": "championship"
+            },
+            {
+              "type": "placement",
+              "category": "placement"
+            }
+          ],
           "artist": "HISASHI HUJIWARA"
         },
         {
@@ -10554,6 +10564,16 @@
           },
           "finishes": [
             "foil"
+          ],
+          "promoTypes": [
+            {
+              "type": "championship",
+              "category": "championship"
+            },
+            {
+              "type": "placement",
+              "category": "placement"
+            }
           ]
         },
         {
@@ -10571,7 +10591,17 @@
             "name": "Nekomamushi (Online Regional 2024 Vol. 3) [Winner]",
             "match": "minted",
             "distance": null
-          }
+          },
+          "promoTypes": [
+            {
+              "type": "championship",
+              "category": "championship"
+            },
+            {
+              "type": "placement",
+              "category": "placement"
+            }
+          ]
         },
         {
           "id": "OP06-110~tcg586027",
@@ -10588,7 +10618,17 @@
             "name": "Nekomamushi (Offline Regional 2024 Vol. 3) [Winner]",
             "match": "minted",
             "distance": null
-          }
+          },
+          "promoTypes": [
+            {
+              "type": "championship",
+              "category": "championship"
+            },
+            {
+              "type": "placement",
+              "category": "placement"
+            }
+          ]
         },
         {
           "id": "OP06-110~tcg586028",

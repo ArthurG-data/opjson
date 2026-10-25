@@ -32,7 +32,8 @@ Pre-release, release-event and anniversary groups hold stamped copies of a set's
 group holds Starter Deck cards reissued with revised text, and most of TCGplayer's promos are not on Bandai's
 card list. Those products become printings of their own, with an id minted from the card number and the
 product id (OP02-013~tcg123456), and `artOf` naming the Bandai printing whose art they carry when the images
-say so. A promo TCGplayer files in a booster's group (the Dash Packs) is one of them too, in set P.
+say so. A promo TCGplayer files in a booster's group (the Dash Packs) is one of them too, in set P. Promo types
+come from the tags, including a bracketed role after them ([Winner]); matching reads only the parenthesised tags.
 """
 from __future__ import annotations
 
@@ -570,7 +571,7 @@ def main() -> None:
     # Write identifiers onto matched Bandai printings.
     for role, m in matches:
         _, printing = printings[m.printing_id]
-        treatments, promos = classify_tags(m.product.base_name_and_tags()[1], rules)
+        treatments, promos = classify_tags(m.product.label_tags(), rules)
         printing.setdefault("identifiers", {}).setdefault("tcgplayerProductIds", []).append(m.product.product_id)
         _add_finishes(printing, finishes[m.product.product_id])
         printing["tcgplayer"] = {"name": m.product.name, "match": m.evidence, "distance": m.distance}
@@ -581,7 +582,7 @@ def main() -> None:
         number = p.number or DON
         card = cards.get(number) or _new_card(number, p, files)
         cards[number] = card
-        treatments, promos = classify_tags(p.base_name_and_tags()[1], rules)
+        treatments, promos = classify_tags(p.label_tags(), rules)
         if role["role"] == "stamp":
             promos = sorted(set(promos) | {(role["promo"], role["category"])})
         printing = {"id": f"{number}~tcg{p.product_id}", "set": role["set"],

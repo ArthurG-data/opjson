@@ -8270,6 +8270,16 @@
             "match": "image",
             "distance": 2
           },
+          "promoTypes": [
+            {
+              "type": "championship",
+              "category": "championship"
+            },
+            {
+              "type": "placement",
+              "category": "placement"
+            }
+          ],
           "artist": "Nijihayashi"
         },
         {
@@ -8316,6 +8326,16 @@
           },
           "finishes": [
             "foil"
+          ],
+          "promoTypes": [
+            {
+              "type": "championship",
+              "category": "championship"
+            },
+            {
+              "type": "placement",
+              "category": "placement"
+            }
           ]
         },
         {
@@ -8333,7 +8353,17 @@
             "name": "Monkey.D.Luffy (091) (Online Regional 2024 Vol. 3) [Winner]",
             "match": "minted",
             "distance": null
-          }
+          },
+          "promoTypes": [
+            {
+              "type": "championship",
+              "category": "championship"
+            },
+            {
+              "type": "placement",
+              "category": "placement"
+            }
+          ]
         },
         {
           "id": "OP07-091~tcg586023",
@@ -8350,7 +8380,17 @@
             "name": "Monkey.D.Luffy (091) (Offline Regional 2024 Vol. 3) [Winner]",
             "match": "minted",
             "distance": null
-          }
+          },
+          "promoTypes": [
+            {
+              "type": "championship",
+              "category": "championship"
+            },
+            {
+              "type": "placement",
+              "category": "placement"
+            }
+          ]
         },
         {
           "id": "OP07-091~tcg586024",

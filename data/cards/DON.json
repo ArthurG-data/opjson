@@ -266,6 +266,16 @@
           },
           "finishes": [
             "nonfoil"
+          ],
+          "promoTypes": [
+            {
+              "type": "event_pack",
+              "category": "event"
+            },
+            {
+              "type": "placement",
+              "category": "placement"
+            }
           ]
         },
         {

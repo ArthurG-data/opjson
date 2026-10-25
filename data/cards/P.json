@@ -59,7 +59,17 @@
             "name": "Monkey.D.Luffy (Super Pre-Release) [Participant]",
             "match": "image",
             "distance": 5
-          }
+          },
+          "promoTypes": [
+            {
+              "type": "event_pack",
+              "category": "event"
+            },
+            {
+              "type": "prerelease",
+              "category": "event"
+            }
+          ]
         },
         {
           "id": "P-001_p2",
@@ -78,7 +88,17 @@
             "name": "Monkey.D.Luffy (Super Pre-Release) [Winner]",
             "match": "image",
             "distance": 8
-          }
+          },
+          "promoTypes": [
+            {
+              "type": "placement",
+              "category": "placement"
+            },
+            {
+              "type": "prerelease",
+              "category": "event"
+            }
+          ]
         },
         {
           "id": "P-001_p3",
@@ -135,7 +155,17 @@
             "name": "Monkey.D.Luffy (001) (Offline Regional 2024 Vol. 2) [Participant]",
             "match": "image",
             "distance": 2
-          }
+          },
+          "promoTypes": [
+            {
+              "type": "championship",
+              "category": "championship"
+            },
+            {
+              "type": "event_pack",
+              "category": "event"
+            }
+          ]
         },
         {
           "id": "P-001_p6",
@@ -270,6 +300,16 @@
           },
           "finishes": [
             "foil"
+          ],
+          "promoTypes": [
+            {
+              "type": "championship",
+              "category": "championship"
+            },
+            {
+              "type": "placement",
+              "category": "placement"
+            }
           ]
         },
         {
@@ -287,7 +327,17 @@
             "name": "Monkey.D.Luffy (001) (Offline Regional 2024 Vol. 2) [Winner]",
             "match": "minted",
             "distance": null
-          }
+          },
+          "promoTypes": [
+            {
+              "type": "championship",
+              "category": "championship"
+            },
+            {
+              "type": "placement",
+              "category": "placement"
+            }
+          ]
         },
         {
           "id": "P-001~tcg544773",
@@ -307,6 +357,16 @@
           },
           "finishes": [
             "foil"
+          ],
+          "promoTypes": [
+            {
+              "type": "championship",
+              "category": "championship"
+            },
+            {
+              "type": "event_pack",
+              "category": "event"
+            }
           ]
         },
         {
@@ -327,6 +387,16 @@
           },
           "finishes": [
             "foil"
+          ],
+          "promoTypes": [
+            {
+              "type": "championship",
+              "category": "championship"
+            },
+            {
+              "type": "placement",
+              "category": "placement"
+            }
           ]
         },
         {
@@ -344,7 +414,17 @@
             "name": "Monkey.D.Luffy (001) (Online Regional 2024 Vol. 2) [Winner]",
             "match": "minted",
             "distance": null
-          }
+          },
+          "promoTypes": [
+            {
+              "type": "championship",
+              "category": "championship"
+            },
+            {
+              "type": "placement",
+              "category": "placement"
+            }
+          ]
         }
       ]
     },
@@ -457,6 +537,16 @@
             "match": "image",
             "distance": 1
           },
+          "promoTypes": [
+            {
+              "type": "championship",
+              "category": "championship"
+            },
+            {
+              "type": "event_pack",
+              "category": "event"
+            }
+          ],
           "artist": "Nijihayashi"
         },
         {
@@ -507,6 +597,16 @@
           },
           "finishes": [
             "foil"
+          ],
+          "promoTypes": [
+            {
+              "type": "championship",
+              "category": "championship"
+            },
+            {
+              "type": "event_pack",
+              "category": "event"
+            }
           ]
         },
         {
@@ -527,6 +627,16 @@
           },
           "finishes": [
             "foil"
+          ],
+          "promoTypes": [
+            {
+              "type": "championship",
+              "category": "championship"
+            },
+            {
+              "type": "placement",
+              "category": "placement"
+            }
           ]
         },
         {
@@ -547,6 +657,16 @@
           },
           "finishes": [
             "foil"
+          ],
+          "promoTypes": [
+            {
+              "type": "championship",
+              "category": "championship"
+            },
+            {
+              "type": "placement",
+              "category": "placement"
+            }
           ]
         },
         {
@@ -564,7 +684,17 @@
             "name": "Eustass\"Captain\"Kid (Offline Regional 2024 Vol. 2) [Winner]",
             "match": "minted",
             "distance": null
-          }
+          },
+          "promoTypes": [
+            {
+              "type": "championship",
+              "category": "championship"
+            },
+            {
+              "type": "placement",
+              "category": "placement"
+            }
+          ]
         },
         {
           "id": "P-003~tcg544781",
@@ -581,7 +711,17 @@
             "name": "Eustass\"Captain\"Kid (Online Regional 2024 Vol. 2) [Winner]",
             "match": "minted",
             "distance": null
-          }
+          },
+          "promoTypes": [
+            {
+              "type": "championship",
+              "category": "championship"
+            },
+            {
+              "type": "placement",
+              "category": "placement"
+            }
+          ]
         }
       ]
     },
@@ -2315,6 +2455,16 @@
           },
           "finishes": [
             "foil"
+          ],
+          "promoTypes": [
+            {
+              "type": "placement",
+              "category": "placement"
+            },
+            {
+              "type": "prerelease",
+              "category": "event"
+            }
           ]
         }
       ]
@@ -3954,6 +4104,16 @@
             "match": "image",
             "distance": 3
           },
+          "promoTypes": [
+            {
+              "type": "championship",
+              "category": "championship"
+            },
+            {
+              "type": "event_pack",
+              "category": "event"
+            }
+          ],
           "artist": "Koushi Rokushiro"
         },
         {
@@ -4050,6 +4210,16 @@
           },
           "finishes": [
             "foil"
+          ],
+          "promoTypes": [
+            {
+              "type": "championship",
+              "category": "championship"
+            },
+            {
+              "type": "event_pack",
+              "category": "event"
+            }
           ]
         },
         {
@@ -4070,6 +4240,16 @@
           },
           "finishes": [
             "foil"
+          ],
+          "promoTypes": [
+            {
+              "type": "championship",
+              "category": "championship"
+            },
+            {
+              "type": "placement",
+              "category": "placement"
+            }
           ]
         },
         {
@@ -4087,7 +4267,17 @@
             "name": "Monkey.D.Luffy (041) (Online Regional 2024 Vol. 2) [Finalist]",
             "match": "minted",
             "distance": null
-          }
+          },
+          "promoTypes": [
+            {
+              "type": "championship",
+              "category": "championship"
+            },
+            {
+              "type": "placement",
+              "category": "placement"
+            }
+          ]
         },
         {
           "id": "P-041~tcg544786",
@@ -4104,7 +4294,17 @@
             "name": "Monkey.D.Luffy (041) (Offline Regional 2024 Vol. 2) [Winner]",
             "match": "minted",
             "distance": null
-          }
+          },
+          "promoTypes": [
+            {
+              "type": "championship",
+              "category": "championship"
+            },
+            {
+              "type": "placement",
+              "category": "placement"
+            }
+          ]
         },
         {
           "id": "P-041~tcg544787",
@@ -4121,7 +4321,17 @@
             "name": "Monkey.D.Luffy (041) (Online Regional 2024 Vol. 2) [Winner]",
             "match": "minted",
             "distance": null
-          }
+          },
+          "promoTypes": [
+            {
+              "type": "championship",
+              "category": "championship"
+            },
+            {
+              "type": "placement",
+              "category": "placement"
+            }
+          ]
         },
         {
           "id": "P-041~tcg580055",
@@ -4608,6 +4818,16 @@
           "finishes": [
             "nonfoil"
           ],
+          "promoTypes": [
+            {
+              "type": "event_pack",
+              "category": "event"
+            },
+            {
+              "type": "prerelease",
+              "category": "event"
+            }
+          ],
           "artist": "Anderson"
         },
         {
@@ -4628,6 +4848,16 @@
           },
           "finishes": [
             "foil"
+          ],
+          "promoTypes": [
+            {
+              "type": "placement",
+              "category": "placement"
+            },
+            {
+              "type": "prerelease",
+              "category": "event"
+            }
           ]
         }
       ]
@@ -6091,6 +6321,16 @@
           },
           "finishes": [
             "foil"
+          ],
+          "promoTypes": [
+            {
+              "type": "event_pack",
+              "category": "event"
+            },
+            {
+              "type": "placement",
+              "category": "placement"
+            }
           ]
         }
       ]
@@ -6632,6 +6872,16 @@
           },
           "finishes": [
             "foil"
+          ],
+          "promoTypes": [
+            {
+              "type": "placement",
+              "category": "placement"
+            },
+            {
+              "type": "prerelease",
+              "category": "event"
+            }
           ]
         }
       ]

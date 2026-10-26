@@ -47,17 +47,21 @@ def printing(pid, set_id, block, source="bandai"):
 
 
 def test_a_set_takes_the_block_its_own_cards_print():
-    sets = [{"id": "OP05", "type": "booster"}, {"id": "ST10", "type": "starter_deck"},
-            {"id": "P", "type": "promo"}, {"id": "OP05-PRE", "type": "promo", "source": "tcgplayer", "parent": "OP05"}]
+    en = [{"language": "en"}]
+    sets = [{"id": "OP05", "type": "booster", "releases": en}, {"id": "ST10", "type": "starter_deck", "releases": en},
+            {"id": "P", "type": "promo", "releases": en},
+            {"id": "OP05-PRE", "type": "promo", "source": "tcgplayer", "parent": "OP05", "releases": en},
+            {"id": "EB04", "type": "extra_booster", "block": "4", "releases": [{"language": "ja"}]}]
     printings = ([printing(f"OP05-{i:03}", "OP05", "2") for i in range(1, 20)] + [printing("OP05-020", "OP05", "X")]
                  + [printing("OP01-001", "OP05", "1")]  # a reprint filed under OP05 does not count
                  + [printing(f"ST10-{i:03}", "ST10", "2") for i in range(1, 5)] + [printing("P-001", "P", "1")])
     assert check_blocks.set_blocks(sets, printings) == []
-    assert [s.get("block") for s in sets] == ["2", "2", None, None]
+    # A Japanese-only set keeps the block import_bandai_ja gave it.
+    assert [s.get("block") for s in sets] == ["2", "2", None, None, "4"]
 
 
 def test_a_set_whose_cards_disagree_gets_no_block():
-    sets = [{"id": "ST16", "type": "starter_deck"}]
+    sets = [{"id": "ST16", "type": "starter_deck", "releases": [{"language": "en"}]}]
     printings = [printing(f"ST16-{i:03}", "ST16", "2" if i < 7 else "3") for i in range(1, 11)]
     left = check_blocks.set_blocks(sets, printings)
     assert "block" not in sets[0] and left[0]["reason"] == "base printings disagree"

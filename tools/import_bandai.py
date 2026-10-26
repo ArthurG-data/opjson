@@ -111,6 +111,7 @@ def build(series: list[bandai.Series], printings: list[bandai.Printing],
             if len(values) > 1 and key not in fixed:
                 conflicts.append(f"{number}: {key} differs between printings: {sorted(values)}")
             facts[key] = fixed.get(key, _fact(base, key))
+        facts = {"name": facts["name"], "names": {"en": facts["name"]}, **facts}
         card = {"number": number, **{k: v for k, v in facts.items() if v not in (None, [])}, "printings": [
             {k: v for k, v in {
                 "id": p.printing_id,

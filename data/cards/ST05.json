@@ -3,6 +3,10 @@
     {
       "number": "ST05-001",
       "name": "Shanks",
+      "names": {
+        "en": "Shanks",
+        "ja": "シャンクス"
+      },
       "category": "Leader",
       "power": 5000,
       "life": 5,
@@ -39,12 +43,39 @@
             "match": "image-only-candidate",
             "distance": 2
           }
+        },
+        {
+          "id": "ST05-001~ja",
+          "language": "ja",
+          "set": "ST05",
+          "rarity": "L",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/ST05-001.png",
+          "cardSet": "ONE PIECE FILM edition【ST-05】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "ST05-001_r1~ja",
+          "language": "ja",
+          "set": "FAMILY",
+          "rarity": "L",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/ST05-001_r1.png",
+          "cardSet": "ファミリーデッキセット",
+          "source": "bandai"
         }
       ]
     },
     {
       "number": "ST05-002",
       "name": "Ain",
+      "names": {
+        "en": "Ain",
+        "ja": "アイン"
+      },
       "category": "Character",
       "cost": 4,
       "power": 5000,
@@ -135,12 +166,49 @@
               "category": "program"
             }
           ]
+        },
+        {
+          "id": "ST05-002~ja",
+          "language": "ja",
+          "set": "ST05",
+          "rarity": "C",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/ST05-002.png",
+          "cardSet": "ONE PIECE FILM edition【ST-05】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
+        },
+        {
+          "id": "ST05-002_p2~ja",
+          "language": "ja",
+          "set": "OTHER",
+          "rarity": "C",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/ST05-002_p2.png",
+          "cardSet": "プレミアムカードコレクション-ベストセレクションvol.3-",
+          "source": "bandai"
+        },
+        {
+          "id": "ST05-002_r1~ja",
+          "language": "ja",
+          "set": "FAMILY",
+          "rarity": "C",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/ST05-002_r1.png",
+          "cardSet": "ファミリーデッキセット",
+          "source": "bandai"
         }
       ]
     },
     {
       "number": "ST05-003",
       "name": "Ann",
+      "names": {
+        "en": "Ann",
+        "ja": "アン"
+      },
       "category": "Character",
       "cost": 2,
       "power": 3000,
@@ -176,12 +244,39 @@
             "match": "image-only-candidate",
             "distance": 4
           }
+        },
+        {
+          "id": "ST05-003~ja",
+          "language": "ja",
+          "set": "ST05",
+          "rarity": "C",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/ST05-003.png",
+          "cardSet": "ONE PIECE FILM edition【ST-05】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
+        },
+        {
+          "id": "ST05-003_r1~ja",
+          "language": "ja",
+          "set": "FAMILY",
+          "rarity": "C",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/ST05-003_r1.png",
+          "cardSet": "ファミリーデッキセット",
+          "source": "bandai"
         }
       ]
     },
     {
       "number": "ST05-004",
       "name": "Uta",
+      "names": {
+        "en": "Uta",
+        "ja": "ウタ"
+      },
       "category": "Character",
       "cost": 4,
       "power": 5000,
@@ -243,12 +338,49 @@
               "category": "retail"
             }
           ]
+        },
+        {
+          "id": "ST05-004~ja",
+          "language": "ja",
+          "set": "ST05",
+          "rarity": "SR",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/ST05-004.png",
+          "cardSet": "ONE PIECE FILM edition【ST-05】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "ST05-004_p2~ja",
+          "language": "ja",
+          "set": "OTHER",
+          "rarity": "SR",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/ST05-004_p2.png",
+          "cardSet": "プレミアムカードコレクション-ウタ-",
+          "source": "bandai"
+        },
+        {
+          "id": "ST05-004_r1~ja",
+          "language": "ja",
+          "set": "FAMILY",
+          "rarity": "SR",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/ST05-004_r1.png",
+          "cardSet": "ファミリーデッキセット",
+          "source": "bandai"
         }
       ]
     },
     {
       "number": "ST05-005",
       "name": "Carina",
+      "names": {
+        "en": "Carina",
+        "ja": "カリーナ"
+      },
       "category": "Character",
       "cost": 2,
       "power": 3000,
@@ -285,12 +417,39 @@
             "match": "image-only-candidate",
             "distance": 4
           }
+        },
+        {
+          "id": "ST05-005~ja",
+          "language": "ja",
+          "set": "ST05",
+          "rarity": "C",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/ST05-005.png",
+          "cardSet": "ONE PIECE FILM edition【ST-05】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
+        },
+        {
+          "id": "ST05-005_r1~ja",
+          "language": "ja",
+          "set": "FAMILY",
+          "rarity": "C",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/ST05-005_r1.png",
+          "cardSet": "ファミリーデッキセット",
+          "source": "bandai"
         }
       ]
     },
     {
       "number": "ST05-006",
       "name": "Gild Tesoro",
+      "names": {
+        "en": "Gild Tesoro",
+        "ja": "ギルド・テゾーロ"
+      },
       "category": "Character",
       "cost": 5,
       "power": 6000,
@@ -326,12 +485,39 @@
             "match": "image-only-candidate",
             "distance": 0
           }
+        },
+        {
+          "id": "ST05-006~ja",
+          "language": "ja",
+          "set": "ST05",
+          "rarity": "C",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/ST05-006.png",
+          "cardSet": "ONE PIECE FILM edition【ST-05】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
+        },
+        {
+          "id": "ST05-006_r1~ja",
+          "language": "ja",
+          "set": "FAMILY",
+          "rarity": "C",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/ST05-006_r1.png",
+          "cardSet": "ファミリーデッキセット",
+          "source": "bandai"
         }
       ]
     },
     {
       "number": "ST05-007",
       "name": "Gordon",
+      "names": {
+        "en": "Gordon",
+        "ja": "ゴードン"
+      },
       "category": "Character",
       "cost": 1,
       "power": 3000,
@@ -367,12 +553,39 @@
             "match": "image-only-candidate",
             "distance": 3
           }
+        },
+        {
+          "id": "ST05-007~ja",
+          "language": "ja",
+          "set": "ST05",
+          "rarity": "C",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/ST05-007.png",
+          "cardSet": "ONE PIECE FILM edition【ST-05】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
+        },
+        {
+          "id": "ST05-007_r1~ja",
+          "language": "ja",
+          "set": "FAMILY",
+          "rarity": "C",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/ST05-007_r1.png",
+          "cardSet": "ファミリーデッキセット",
+          "source": "bandai"
         }
       ]
     },
     {
       "number": "ST05-008",
       "name": "Shiki",
+      "names": {
+        "en": "Shiki",
+        "ja": "シキ"
+      },
       "category": "Character",
       "cost": 6,
       "power": 7000,
@@ -439,12 +652,39 @@
               "category": "event"
             }
           ]
+        },
+        {
+          "id": "ST05-008~ja",
+          "language": "ja",
+          "set": "ST05",
+          "rarity": "C",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/ST05-008.png",
+          "cardSet": "ONE PIECE FILM edition【ST-05】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
+        },
+        {
+          "id": "ST05-008_r1~ja",
+          "language": "ja",
+          "set": "FAMILY",
+          "rarity": "C",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/ST05-008_r1.png",
+          "cardSet": "ファミリーデッキセット",
+          "source": "bandai"
         }
       ]
     },
     {
       "number": "ST05-009",
       "name": "Scarlet",
+      "names": {
+        "en": "Scarlet",
+        "ja": "スカーレット"
+      },
       "category": "Character",
       "cost": 2,
       "power": 3000,
@@ -482,12 +722,39 @@
             "match": "image-only-candidate",
             "distance": 4
           }
+        },
+        {
+          "id": "ST05-009~ja",
+          "language": "ja",
+          "set": "ST05",
+          "rarity": "C",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/ST05-009.png",
+          "cardSet": "ONE PIECE FILM edition【ST-05】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
+        },
+        {
+          "id": "ST05-009_r1~ja",
+          "language": "ja",
+          "set": "FAMILY",
+          "rarity": "C",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/ST05-009_r1.png",
+          "cardSet": "ファミリーデッキセット",
+          "source": "bandai"
         }
       ]
     },
     {
       "number": "ST05-010",
       "name": "Zephyr",
+      "names": {
+        "en": "Zephyr",
+        "ja": "ゼット"
+      },
       "category": "Character",
       "cost": 7,
       "power": 8000,
@@ -523,12 +790,39 @@
             "match": "image-only-candidate",
             "distance": 3
           }
+        },
+        {
+          "id": "ST05-010~ja",
+          "language": "ja",
+          "set": "ST05",
+          "rarity": "C",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/ST05-010.png",
+          "cardSet": "ONE PIECE FILM edition【ST-05】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
+        },
+        {
+          "id": "ST05-010_r1~ja",
+          "language": "ja",
+          "set": "FAMILY",
+          "rarity": "C",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/ST05-010_r1.png",
+          "cardSet": "ファミリーデッキセット",
+          "source": "bandai"
         }
       ]
     },
     {
       "number": "ST05-011",
       "name": "Douglas Bullet",
+      "names": {
+        "en": "Douglas Bullet",
+        "ja": "ダグラス・バレット"
+      },
       "category": "Character",
       "cost": 8,
       "power": 10000,
@@ -564,12 +858,39 @@
             "match": "image-only-candidate",
             "distance": 5
           }
+        },
+        {
+          "id": "ST05-011~ja",
+          "language": "ja",
+          "set": "ST05",
+          "rarity": "SR",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/ST05-011.png",
+          "cardSet": "ONE PIECE FILM edition【ST-05】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "ST05-011_r1~ja",
+          "language": "ja",
+          "set": "FAMILY",
+          "rarity": "SR",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/ST05-011_r1.png",
+          "cardSet": "ファミリーデッキセット",
+          "source": "bandai"
         }
       ]
     },
     {
       "number": "ST05-012",
       "name": "Baccarat",
+      "names": {
+        "en": "Baccarat",
+        "ja": "バカラ"
+      },
       "category": "Character",
       "cost": 3,
       "power": 5000,
@@ -606,12 +927,39 @@
             "match": "image-only-candidate",
             "distance": 1
           }
+        },
+        {
+          "id": "ST05-012~ja",
+          "language": "ja",
+          "set": "ST05",
+          "rarity": "C",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/ST05-012.png",
+          "cardSet": "ONE PIECE FILM edition【ST-05】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
+        },
+        {
+          "id": "ST05-012_r1~ja",
+          "language": "ja",
+          "set": "FAMILY",
+          "rarity": "C",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/ST05-012_r1.png",
+          "cardSet": "ファミリーデッキセット",
+          "source": "bandai"
         }
       ]
     },
     {
       "number": "ST05-013",
       "name": "Bins",
+      "names": {
+        "en": "Bins",
+        "ja": "ビンズ"
+      },
       "category": "Character",
       "cost": 4,
       "power": 6000,
@@ -648,12 +996,39 @@
             "match": "image-only-candidate",
             "distance": 2
           }
+        },
+        {
+          "id": "ST05-013~ja",
+          "language": "ja",
+          "set": "ST05",
+          "rarity": "C",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/ST05-013.png",
+          "cardSet": "ONE PIECE FILM edition【ST-05】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
+        },
+        {
+          "id": "ST05-013_r1~ja",
+          "language": "ja",
+          "set": "FAMILY",
+          "rarity": "C",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/ST05-013_r1.png",
+          "cardSet": "ファミリーデッキセット",
+          "source": "bandai"
         }
       ]
     },
     {
       "number": "ST05-014",
       "name": "Buena Festa",
+      "names": {
+        "en": "Buena Festa",
+        "ja": "ブエナ・フェスタ"
+      },
       "category": "Character",
       "cost": 1,
       "counter": 2000,
@@ -718,12 +1093,49 @@
             }
           ],
           "artist": "ASAKI KURODA"
+        },
+        {
+          "id": "ST05-014~ja",
+          "language": "ja",
+          "set": "ST05",
+          "rarity": "C",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/ST05-014.png",
+          "cardSet": "ONE PIECE FILM edition【ST-05】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
+        },
+        {
+          "id": "ST05-014_p3~ja",
+          "language": "ja",
+          "set": "OTHER",
+          "rarity": "C",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/ST05-014_p3.png",
+          "cardSet": "プレミアムカードコレクション - ベストセレクションvol.1 -",
+          "source": "bandai"
+        },
+        {
+          "id": "ST05-014_r1~ja",
+          "language": "ja",
+          "set": "FAMILY",
+          "rarity": "C",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/ST05-014_r1.png",
+          "cardSet": "ファミリーデッキセット",
+          "source": "bandai"
         }
       ]
     },
     {
       "number": "ST05-015",
       "name": "Dr. Indigo",
+      "names": {
+        "en": "Dr. Indigo",
+        "ja": "Dr.インディゴ"
+      },
       "category": "Character",
       "cost": 2,
       "power": 4000,
@@ -761,12 +1173,39 @@
             "match": "image-only-candidate",
             "distance": 3
           }
+        },
+        {
+          "id": "ST05-015~ja",
+          "language": "ja",
+          "set": "ST05",
+          "rarity": "C",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/ST05-015.png",
+          "cardSet": "ONE PIECE FILM edition【ST-05】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
+        },
+        {
+          "id": "ST05-015_r1~ja",
+          "language": "ja",
+          "set": "FAMILY",
+          "rarity": "C",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/ST05-015_r1.png",
+          "cardSet": "ファミリーデッキセット",
+          "source": "bandai"
         }
       ]
     },
     {
       "number": "ST05-016",
       "name": "Lion's Threat Imperial Earth Bind",
+      "names": {
+        "en": "Lion's Threat Imperial Earth Bind",
+        "ja": "獅子威し御所地巻き"
+      },
       "category": "Event",
       "cost": 3,
       "colors": [
@@ -798,12 +1237,39 @@
             "match": "image-only-candidate",
             "distance": 3
           }
+        },
+        {
+          "id": "ST05-016~ja",
+          "language": "ja",
+          "set": "ST05",
+          "rarity": "C",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/ST05-016.png",
+          "cardSet": "ONE PIECE FILM edition【ST-05】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
+        },
+        {
+          "id": "ST05-016_r1~ja",
+          "language": "ja",
+          "set": "FAMILY",
+          "rarity": "C",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/ST05-016_r1.png",
+          "cardSet": "ファミリーデッキセット",
+          "source": "bandai"
         }
       ]
     },
     {
       "number": "ST05-017",
       "name": "Union Armada",
+      "names": {
+        "en": "Union Armada",
+        "ja": "鎧合体"
+      },
       "category": "Event",
       "cost": 2,
       "colors": [
@@ -835,6 +1301,29 @@
             "match": "image-only-candidate",
             "distance": 10
           }
+        },
+        {
+          "id": "ST05-017~ja",
+          "language": "ja",
+          "set": "ST05",
+          "rarity": "C",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/ST05-017.png",
+          "cardSet": "ONE PIECE FILM edition【ST-05】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
+        },
+        {
+          "id": "ST05-017_r1~ja",
+          "language": "ja",
+          "set": "FAMILY",
+          "rarity": "C",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/ST05-017_r1.png",
+          "cardSet": "ファミリーデッキセット",
+          "source": "bandai"
         }
       ]
     }

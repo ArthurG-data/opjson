@@ -3,6 +3,10 @@
     {
       "number": "ST10-001",
       "name": "Trafalgar Law",
+      "names": {
+        "en": "Trafalgar Law",
+        "ja": "トラファルガー・ロー"
+      },
       "category": "Leader",
       "power": 5000,
       "life": 4,
@@ -39,12 +43,29 @@
             "distance": 0
           },
           "artist": "Makitoshi"
+        },
+        {
+          "id": "ST10-001~ja",
+          "language": "ja",
+          "set": "ST10",
+          "rarity": "L",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/ST10-001.png",
+          "cardSet": "“三船長”集結【ST-10】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "ST10-002",
       "name": "Monkey.D.Luffy",
+      "names": {
+        "en": "Monkey.D.Luffy",
+        "ja": "モンキー・D・ルフィ"
+      },
       "category": "Leader",
       "power": 6000,
       "life": 3,
@@ -81,12 +102,29 @@
             "distance": 4
           },
           "artist": "Makitoshi"
+        },
+        {
+          "id": "ST10-002~ja",
+          "language": "ja",
+          "set": "ST10",
+          "rarity": "L",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/ST10-002.png",
+          "cardSet": "“三船長”集結【ST-10】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "ST10-003",
       "name": "Eustass\"Captain\"Kid",
+      "names": {
+        "en": "Eustass\"Captain\"Kid",
+        "ja": "ユースタス・キッド"
+      },
       "category": "Leader",
       "power": 5000,
       "life": 5,
@@ -123,12 +161,29 @@
             "distance": 3
           },
           "artist": "Makitoshi"
+        },
+        {
+          "id": "ST10-003~ja",
+          "language": "ja",
+          "set": "ST10",
+          "rarity": "L",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/ST10-003.png",
+          "cardSet": "“三船長”集結【ST-10】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "ST10-004",
       "name": "Sanji",
+      "names": {
+        "en": "Sanji",
+        "ja": "サンジ"
+      },
       "category": "Character",
       "cost": 6,
       "power": 6000,
@@ -185,12 +240,39 @@
           "finishes": [
             "nonfoil"
           ]
+        },
+        {
+          "id": "ST10-004~ja",
+          "language": "ja",
+          "set": "ST10",
+          "rarity": "C",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/ST10-004.png",
+          "cardSet": "“三船長”集結【ST-10】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "ST10-004_p1~ja",
+          "language": "ja",
+          "set": "P",
+          "rarity": "C",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/ST10-004_p1.png",
+          "cardSet": "8パックバトル 2024年優勝記念品",
+          "source": "bandai"
         }
       ]
     },
     {
       "number": "ST10-005",
       "name": "Jinbe",
+      "names": {
+        "en": "Jinbe",
+        "ja": "ジンベエ"
+      },
       "category": "Character",
       "cost": 2,
       "power": 2000,
@@ -316,12 +398,52 @@
           "treatments": [
             "reprint"
           ]
+        },
+        {
+          "id": "ST10-005~ja",
+          "language": "ja",
+          "set": "ST10",
+          "rarity": "C",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/ST10-005.png",
+          "cardSet": "“三船長”集結【ST-10】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "ST10-005_p1~ja",
+          "language": "ja",
+          "set": "PRB02",
+          "rarity": "C",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/ST10-005_p1.png",
+          "cardSet": "ONE PIECE CARD THE BEST vol.2【PRB-02】",
+          "source": "bandai"
+        },
+        {
+          "id": "ST10-005_r1~ja",
+          "language": "ja",
+          "set": "PRB02",
+          "rarity": "C",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/ST10-005_r1.png",
+          "cardSet": "ONE PIECE CARD THE BEST vol.2【PRB-02】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "ST10-006",
       "name": "Monkey.D.Luffy",
+      "names": {
+        "en": "Monkey.D.Luffy",
+        "ja": "モンキー・D・ルフィ"
+      },
       "category": "Character",
       "cost": 10,
       "power": 11000,
@@ -502,12 +624,62 @@
               "category": "retail"
             }
           ]
+        },
+        {
+          "id": "ST10-006~ja",
+          "language": "ja",
+          "set": "ST10",
+          "rarity": "SR",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/ST10-006.png",
+          "cardSet": "“三船長”集結【ST-10】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "ST10-006_p2~ja",
+          "language": "ja",
+          "set": "P",
+          "rarity": "SR",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/ST10-006_p2.png",
+          "cardSet": "チャンピオンシップ2023 2次予選決勝大会 ベスト16記念品",
+          "source": "bandai"
+        },
+        {
+          "id": "ST10-006_p3~ja",
+          "language": "ja",
+          "set": "P",
+          "rarity": "SR",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/ST10-006_p3.png",
+          "cardSet": "ONE PIECE DAY’24 来場者特典",
+          "source": "bandai"
+        },
+        {
+          "id": "ST10-006_p4~ja",
+          "language": "ja",
+          "set": "P",
+          "rarity": "SR",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/ST10-006_p4.png",
+          "cardSet": "3周年！ワンピースカードトレジャーキャンペーンパック",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "ST10-007",
       "name": "Killer",
+      "names": {
+        "en": "Killer",
+        "ja": "キラー"
+      },
       "category": "Character",
       "cost": 5,
       "power": 6000,
@@ -544,12 +716,29 @@
             "distance": 0
           },
           "artist": "Studio Vigor Co. Ltd"
+        },
+        {
+          "id": "ST10-007~ja",
+          "language": "ja",
+          "set": "ST10",
+          "rarity": "C",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/ST10-007.png",
+          "cardSet": "“三船長”集結【ST-10】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "ST10-008",
       "name": "Shachi & Penguin",
+      "names": {
+        "en": "Shachi & Penguin",
+        "ja": "シャチ＆ペンギン"
+      },
       "category": "Character",
       "cost": 4,
       "power": 5000,
@@ -728,12 +917,65 @@
               "category": "event"
             }
           ]
+        },
+        {
+          "id": "ST10-008~ja",
+          "language": "ja",
+          "set": "ST10",
+          "rarity": "C",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/ST10-008.png",
+          "cardSet": "“三船長”集結【ST-10】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "ST10-008_p1~ja",
+          "language": "ja",
+          "set": "P",
+          "rarity": "C",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/ST10-008_p1.png",
+          "cardSet": "スタンダードバトルパックVol.12",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
+        },
+        {
+          "id": "ST10-008_p2~ja",
+          "language": "ja",
+          "set": "PRB02",
+          "rarity": "C",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/ST10-008_p2.png",
+          "cardSet": "ONE PIECE CARD THE BEST vol.2【PRB-02】",
+          "source": "bandai"
+        },
+        {
+          "id": "ST10-008_r1~ja",
+          "language": "ja",
+          "set": "PRB02",
+          "rarity": "C",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/ST10-008_r1.png",
+          "cardSet": "ONE PIECE CARD THE BEST vol.2【PRB-02】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "ST10-009",
       "name": "Jean Bart",
+      "names": {
+        "en": "Jean Bart",
+        "ja": "ジャンバール"
+      },
       "category": "Character",
       "cost": 4,
       "power": 5000,
@@ -770,12 +1012,29 @@
             "distance": 4
           },
           "artist": "tatsuya"
+        },
+        {
+          "id": "ST10-009~ja",
+          "language": "ja",
+          "set": "ST10",
+          "rarity": "C",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/ST10-009.png",
+          "cardSet": "“三船長”集結【ST-10】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "ST10-010",
       "name": "Trafalgar Law",
+      "names": {
+        "en": "Trafalgar Law",
+        "ja": "トラファルガー・ロー"
+      },
       "category": "Character",
       "cost": 4,
       "power": 5000,
@@ -910,12 +1169,62 @@
           ],
           "artOf": "ST10-010",
           "artist": "Minato Sashima"
+        },
+        {
+          "id": "ST10-010~ja",
+          "language": "ja",
+          "set": "ST10",
+          "rarity": "SR",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/ST10-010.png",
+          "cardSet": "“三船長”集結【ST-10】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "ST10-010_p2~ja",
+          "language": "ja",
+          "set": "P",
+          "rarity": "SR",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/ST10-010_p2.png",
+          "cardSet": "チャンピオンシップ2023 2次予選エリア大会 ベスト8記念品",
+          "source": "bandai"
+        },
+        {
+          "id": "ST10-010_p3~ja",
+          "language": "ja",
+          "set": "PRB01",
+          "rarity": "SR",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/ST10-010_p3.png",
+          "cardSet": "ONE PIECE CARD THE BEST【PRB-01】",
+          "source": "bandai"
+        },
+        {
+          "id": "ST10-010_r1~ja",
+          "language": "ja",
+          "set": "PRB01",
+          "rarity": "SR",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/ST10-010_r1.png",
+          "cardSet": "ONE PIECE CARD THE BEST【PRB-01】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "ST10-011",
       "name": "Heat",
+      "names": {
+        "en": "Heat",
+        "ja": "ヒート"
+      },
       "category": "Character",
       "cost": 3,
       "power": 4000,
@@ -952,12 +1261,29 @@
             "distance": 2
           },
           "artist": "ASAKI KURODA"
+        },
+        {
+          "id": "ST10-011~ja",
+          "language": "ja",
+          "set": "ST10",
+          "rarity": "C",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/ST10-011.png",
+          "cardSet": "“三船長”集結【ST-10】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "ST10-012",
       "name": "Bepo",
+      "names": {
+        "en": "Bepo",
+        "ja": "ベポ"
+      },
       "category": "Character",
       "cost": 4,
       "power": 5000,
@@ -995,12 +1321,29 @@
             "distance": 3
           },
           "artist": "COGA"
+        },
+        {
+          "id": "ST10-012~ja",
+          "language": "ja",
+          "set": "ST10",
+          "rarity": "C",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/ST10-012.png",
+          "cardSet": "“三船長”集結【ST-10】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "ST10-013",
       "name": "Eustass\"Captain\"Kid",
+      "names": {
+        "en": "Eustass\"Captain\"Kid",
+        "ja": "ユースタス・キッド"
+      },
       "category": "Character",
       "cost": 7,
       "power": 8000,
@@ -1140,12 +1483,72 @@
               "category": "placement"
             }
           ]
+        },
+        {
+          "id": "ST10-013~ja",
+          "language": "ja",
+          "set": "ST10",
+          "rarity": "SR",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/ST10-013.png",
+          "cardSet": "“三船長”集結【ST-10】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "ST10-013_p1~ja",
+          "language": "ja",
+          "set": "P",
+          "rarity": "SR",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/ST10-013_p1.png",
+          "cardSet": "プロモーションパックEX Vol.1",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "ST10-013_p2~ja",
+          "language": "ja",
+          "set": "P",
+          "rarity": "SR",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/ST10-013_p2.png",
+          "cardSet": "チャンピオンシップ2023 2次予選エリア大会 ベスト16記念品",
+          "source": "bandai"
+        },
+        {
+          "id": "ST10-013_p3~ja",
+          "language": "ja",
+          "set": "OTHER",
+          "rarity": "SR",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/ST10-013_p3.png",
+          "cardSet": "プレミアムブースター ONE PIECE CARD THE BEST ストレージボックスセット",
+          "source": "bandai"
+        },
+        {
+          "id": "ST10-013_p4~ja",
+          "language": "ja",
+          "set": "OTHER",
+          "rarity": "SR",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/ST10-013_p4.png",
+          "cardSet": "プレミアムブースター ONE PIECE CARD THE BEST ストレージボックスセット",
+          "source": "bandai"
         }
       ]
     },
     {
       "number": "ST10-014",
       "name": "Wire",
+      "names": {
+        "en": "Wire",
+        "ja": "ワイヤー"
+      },
       "category": "Character",
       "cost": 3,
       "power": 3000,
@@ -1182,12 +1585,29 @@
             "distance": 5
           },
           "artist": "ASAKI KURODA"
+        },
+        {
+          "id": "ST10-014~ja",
+          "language": "ja",
+          "set": "ST10",
+          "rarity": "C",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/ST10-014.png",
+          "cardSet": "“三船長”集結【ST-10】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "ST10-015",
       "name": "Gum-Gum Giant Sumo Slap",
+      "names": {
+        "en": "Gum-Gum Giant Sumo Slap",
+        "ja": "ゴムゴムの巨人つっぱり"
+      },
       "category": "Event",
       "cost": 1,
       "colors": [
@@ -1218,12 +1638,29 @@
             "match": "image-only-candidate",
             "distance": 2
           }
+        },
+        {
+          "id": "ST10-015~ja",
+          "language": "ja",
+          "set": "ST10",
+          "rarity": "C",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/ST10-015.png",
+          "cardSet": "“三船長”集結【ST-10】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "ST10-016",
       "name": "Gum-Gum Kong Gatling",
+      "names": {
+        "en": "Gum-Gum Kong Gatling",
+        "ja": "ゴムゴムの猿王銃乱打"
+      },
       "category": "Event",
       "cost": 5,
       "colors": [
@@ -1254,12 +1691,29 @@
             "match": "image-only-candidate",
             "distance": 4
           }
+        },
+        {
+          "id": "ST10-016~ja",
+          "language": "ja",
+          "set": "ST10",
+          "rarity": "C",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/ST10-016.png",
+          "cardSet": "“三船長”集結【ST-10】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "ST10-017",
       "name": "Punk Vise",
+      "names": {
+        "en": "Punk Vise",
+        "ja": "磁気万力"
+      },
       "category": "Event",
       "cost": 3,
       "colors": [
@@ -1290,6 +1744,19 @@
             "match": "image-only-candidate",
             "distance": 1
           }
+        },
+        {
+          "id": "ST10-017~ja",
+          "language": "ja",
+          "set": "ST10",
+          "rarity": "C",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/ST10-017.png",
+          "cardSet": "“三船長”集結【ST-10】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     }

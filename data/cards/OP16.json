@@ -3,6 +3,10 @@
     {
       "number": "OP16-001",
       "name": "Portgas.D.Ace",
+      "names": {
+        "en": "Portgas.D.Ace",
+        "ja": "ポートガス・Ｄ・エース"
+      },
       "category": "Leader",
       "power": 5000,
       "life": 5,
@@ -113,12 +117,55 @@
               "category": "retail"
             }
           ]
+        },
+        {
+          "id": "OP16-001~ja",
+          "language": "ja",
+          "set": "OP16",
+          "rarity": "L",
+          "block": "5",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP16-001.png",
+          "cardSet": "ブースターパック 決戦の刻【OP-16】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
+        },
+        {
+          "id": "OP16-001_p1~ja",
+          "language": "ja",
+          "set": "OP16",
+          "rarity": "L",
+          "block": "5",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP16-001_p1.png",
+          "cardSet": "ブースターパック 決戦の刻【OP-16】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP16-001_p2~ja",
+          "language": "ja",
+          "set": "OTHER",
+          "rarity": "L",
+          "block": "5",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP16-001_p2.png",
+          "cardSet": "オフィシャルプレイマット＆カードセット-メラメラの実争奪戦Edition-",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "OP16-002",
       "name": "Izo",
+      "names": {
+        "en": "Izo",
+        "ja": "イゾウ"
+      },
       "category": "Character",
       "cost": 1,
       "power": 2000,
@@ -202,12 +249,29 @@
           "finishes": [
             "nonfoil"
           ]
+        },
+        {
+          "id": "OP16-002~ja",
+          "language": "ja",
+          "set": "OP16",
+          "rarity": "UC",
+          "block": "5",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP16-002.png",
+          "cardSet": "ブースターパック 決戦の刻【OP-16】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP16-003",
       "name": "Edward.Newgate",
+      "names": {
+        "en": "Edward.Newgate",
+        "ja": "エドワード・ニューゲート"
+      },
       "category": "Character",
       "cost": 8,
       "power": 10000,
@@ -290,12 +354,42 @@
           "finishes": [
             "nonfoil"
           ]
+        },
+        {
+          "id": "OP16-003~ja",
+          "language": "ja",
+          "set": "OP16",
+          "rarity": "SR",
+          "block": "5",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP16-003.png",
+          "cardSet": "ブースターパック 決戦の刻【OP-16】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP16-003_p1~ja",
+          "language": "ja",
+          "set": "OP16",
+          "rarity": "SR",
+          "block": "5",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP16-003_p1.png",
+          "cardSet": "ブースターパック 決戦の刻【OP-16】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "OP16-004",
       "name": "Curiel",
+      "names": {
+        "en": "Curiel",
+        "ja": "クリエル"
+      },
       "category": "Character",
       "cost": 7,
       "power": 8000,
@@ -378,12 +472,29 @@
           "finishes": [
             "nonfoil"
           ]
+        },
+        {
+          "id": "OP16-004~ja",
+          "language": "ja",
+          "set": "OP16",
+          "rarity": "C",
+          "block": "5",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP16-004.png",
+          "cardSet": "ブースターパック 決戦の刻【OP-16】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP16-005",
       "name": "Thatch",
+      "names": {
+        "en": "Thatch",
+        "ja": "サッチ"
+      },
       "category": "Character",
       "cost": 8,
       "power": 8000,
@@ -466,12 +577,29 @@
           "finishes": [
             "nonfoil"
           ]
+        },
+        {
+          "id": "OP16-005~ja",
+          "language": "ja",
+          "set": "OP16",
+          "rarity": "UC",
+          "block": "5",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP16-005.png",
+          "cardSet": "ブースターパック 決戦の刻【OP-16】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP16-006",
       "name": "Shanks",
+      "names": {
+        "en": "Shanks",
+        "ja": "シャンクス"
+      },
       "category": "Character",
       "cost": 4,
       "power": 5000,
@@ -535,12 +663,29 @@
               "category": "event"
             }
           ]
+        },
+        {
+          "id": "OP16-006~ja",
+          "language": "ja",
+          "set": "OP16",
+          "rarity": "C",
+          "block": "5",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP16-006.png",
+          "cardSet": "ブースターパック 決戦の刻【OP-16】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP16-007",
       "name": "Jozu",
+      "names": {
+        "en": "Jozu",
+        "ja": "ジョズ"
+      },
       "category": "Character",
       "cost": 7,
       "power": 8000,
@@ -622,12 +767,29 @@
           "finishes": [
             "nonfoil"
           ]
+        },
+        {
+          "id": "OP16-007~ja",
+          "language": "ja",
+          "set": "OP16",
+          "rarity": "UC",
+          "block": "5",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP16-007.png",
+          "cardSet": "ブースターパック 決戦の刻【OP-16】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP16-008",
       "name": "Squard",
+      "names": {
+        "en": "Squard",
+        "ja": "スクアード"
+      },
       "category": "Character",
       "cost": 5,
       "power": 7000,
@@ -689,12 +851,29 @@
               "category": "event"
             }
           ]
+        },
+        {
+          "id": "OP16-008~ja",
+          "language": "ja",
+          "set": "OP16",
+          "rarity": "C",
+          "block": "5",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP16-008.png",
+          "cardSet": "ブースターパック 決戦の刻【OP-16】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP16-009",
       "name": "Speed Jil",
+      "names": {
+        "en": "Speed Jil",
+        "ja": "スピード・ジル"
+      },
       "category": "Character",
       "cost": 4,
       "power": 5000,
@@ -757,12 +936,29 @@
               "category": "event"
             }
           ]
+        },
+        {
+          "id": "OP16-009~ja",
+          "language": "ja",
+          "set": "OP16",
+          "rarity": "C",
+          "block": "5",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP16-009.png",
+          "cardSet": "ブースターパック 決戦の刻【OP-16】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP16-010",
       "name": "Namule",
+      "names": {
+        "en": "Namule",
+        "ja": "ナミュール"
+      },
       "category": "Character",
       "cost": 1,
       "power": 2000,
@@ -846,12 +1042,39 @@
           "finishes": [
             "nonfoil"
           ]
+        },
+        {
+          "id": "OP16-010~ja",
+          "language": "ja",
+          "set": "OP16",
+          "rarity": "UC",
+          "block": "5",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP16-010.png",
+          "cardSet": "ブースターパック 決戦の刻【OP-16】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
+        },
+        {
+          "id": "OP16-010_p1~ja",
+          "language": "ja",
+          "set": "P",
+          "rarity": "UC",
+          "block": "5",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP16-010_p1.png",
+          "cardSet": "スタンダードバトルパックVol.17",
+          "source": "bandai"
         }
       ]
     },
     {
       "number": "OP16-011",
       "name": "Vista",
+      "names": {
+        "en": "Vista",
+        "ja": "ビスタ"
+      },
       "category": "Character",
       "cost": 6,
       "power": 8000,
@@ -930,12 +1153,29 @@
           "finishes": [
             "nonfoil"
           ]
+        },
+        {
+          "id": "OP16-011~ja",
+          "language": "ja",
+          "set": "OP16",
+          "rarity": "R",
+          "block": "5",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP16-011.png",
+          "cardSet": "ブースターパック 決戦の刻【OP-16】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "OP16-012",
       "name": "Benn.Beckman",
+      "names": {
+        "en": "Benn.Beckman",
+        "ja": "ベン・ベックマン"
+      },
       "category": "Character",
       "cost": 5,
       "power": 6000,
@@ -972,12 +1212,29 @@
             "distance": 2
           },
           "artist": "Katsuo Tadano"
+        },
+        {
+          "id": "OP16-012~ja",
+          "language": "ja",
+          "set": "OP16",
+          "rarity": "R",
+          "block": "5",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP16-012.png",
+          "cardSet": "ブースターパック 決戦の刻【OP-16】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "OP16-013",
       "name": "McGuy",
+      "names": {
+        "en": "McGuy",
+        "ja": "マクガイ"
+      },
       "category": "Character",
       "cost": 6,
       "power": 8000,
@@ -1039,12 +1296,29 @@
               "category": "event"
             }
           ]
+        },
+        {
+          "id": "OP16-013~ja",
+          "language": "ja",
+          "set": "OP16",
+          "rarity": "C",
+          "block": "5",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP16-013.png",
+          "cardSet": "ブースターパック 決戦の刻【OP-16】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP16-014",
       "name": "Marco",
+      "names": {
+        "en": "Marco",
+        "ja": "マルコ"
+      },
       "category": "Character",
       "cost": 6,
       "power": 8000,
@@ -1126,12 +1400,42 @@
           "finishes": [
             "nonfoil"
           ]
+        },
+        {
+          "id": "OP16-014~ja",
+          "language": "ja",
+          "set": "OP16",
+          "rarity": "R",
+          "block": "5",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP16-014.png",
+          "cardSet": "ブースターパック 決戦の刻【OP-16】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP16-014_p1~ja",
+          "language": "ja",
+          "set": "OP16",
+          "rarity": "R",
+          "block": "5",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP16-014_p1.png",
+          "cardSet": "ブースターパック 決戦の刻【OP-16】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "OP16-015",
       "name": "Monkey.D.Luffy",
+      "names": {
+        "en": "Monkey.D.Luffy",
+        "ja": "モンキー・Ｄ・ルフィ"
+      },
       "category": "Character",
       "cost": 4,
       "power": 6000,
@@ -1214,12 +1518,42 @@
           "finishes": [
             "nonfoil"
           ]
+        },
+        {
+          "id": "OP16-015~ja",
+          "language": "ja",
+          "set": "OP16",
+          "rarity": "SR",
+          "block": "5",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP16-015.png",
+          "cardSet": "ブースターパック 決戦の刻【OP-16】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP16-015_p1~ja",
+          "language": "ja",
+          "set": "OP16",
+          "rarity": "SR",
+          "block": "5",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP16-015_p1.png",
+          "cardSet": "ブースターパック 決戦の刻【OP-16】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "OP16-016",
       "name": "Ramba",
+      "names": {
+        "en": "Ramba",
+        "ja": "ランバ"
+      },
       "category": "Character",
       "cost": 6,
       "power": 8000,
@@ -1302,12 +1636,29 @@
           "finishes": [
             "nonfoil"
           ]
+        },
+        {
+          "id": "OP16-016~ja",
+          "language": "ja",
+          "set": "OP16",
+          "rarity": "C",
+          "block": "5",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP16-016.png",
+          "cardSet": "ブースターパック 決戦の刻【OP-16】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP16-017",
       "name": "LittleOars Jr.",
+      "names": {
+        "en": "LittleOars Jr.",
+        "ja": "リトルオーズJr."
+      },
       "category": "Character",
       "cost": 4,
       "power": 8000,
@@ -1365,12 +1716,29 @@
           "finishes": [
             "nonfoil"
           ]
+        },
+        {
+          "id": "OP16-017~ja",
+          "language": "ja",
+          "set": "OP16",
+          "rarity": "R",
+          "block": "5",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP16-017.png",
+          "cardSet": "ブースターパック 決戦の刻【OP-16】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "OP16-018",
       "name": "Rockstar",
+      "names": {
+        "en": "Rockstar",
+        "ja": "ロックスター"
+      },
       "category": "Character",
       "cost": 1,
       "power": 2000,
@@ -1433,12 +1801,29 @@
               "category": "event"
             }
           ]
+        },
+        {
+          "id": "OP16-018~ja",
+          "language": "ja",
+          "set": "OP16",
+          "rarity": "C",
+          "block": "5",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP16-018.png",
+          "cardSet": "ブースターパック 決戦の刻【OP-16】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP16-019",
       "name": "Let's Show 'Em What We're Made Of!!",
+      "names": {
+        "en": "Let's Show 'Em What We're Made Of!!",
+        "ja": "おれ達の力を見せてやれ!!!"
+      },
       "category": "Event",
       "cost": 9,
       "colors": [
@@ -1495,12 +1880,29 @@
               "category": "event"
             }
           ]
+        },
+        {
+          "id": "OP16-019~ja",
+          "language": "ja",
+          "set": "OP16",
+          "rarity": "C",
+          "block": "5",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP16-019.png",
+          "cardSet": "ブースターパック 決戦の刻【OP-16】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP16-020",
       "name": "If You're Coming with Me... Kiss Your Lives Goodbye!!",
+      "names": {
+        "en": "If You're Coming with Me... Kiss Your Lives Goodbye!!",
+        "ja": "おれと共に来る者は命を捨ててついて来い!!!"
+      },
       "category": "Event",
       "colors": [
         "Red"
@@ -1557,12 +1959,29 @@
               "category": "event"
             }
           ]
+        },
+        {
+          "id": "OP16-020~ja",
+          "language": "ja",
+          "set": "OP16",
+          "rarity": "UC",
+          "block": "5",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP16-020.png",
+          "cardSet": "ブースターパック 決戦の刻【OP-16】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP16-021",
       "name": "Moby Dick",
+      "names": {
+        "en": "Moby Dick",
+        "ja": "モビー・ディック号"
+      },
       "category": "Stage",
       "cost": 1,
       "colors": [
@@ -1639,12 +2058,42 @@
           "finishes": [
             "nonfoil"
           ]
+        },
+        {
+          "id": "OP16-021~ja",
+          "language": "ja",
+          "set": "OP16",
+          "rarity": "R",
+          "block": "5",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP16-021.png",
+          "cardSet": "ブースターパック 決戦の刻【OP-16】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP16-021_p1~ja",
+          "language": "ja",
+          "set": "OP16",
+          "rarity": "R",
+          "block": "5",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP16-021_p1.png",
+          "cardSet": "ブースターパック 決戦の刻【OP-16】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "OP16-022",
       "name": "Monkey.D.Luffy",
+      "names": {
+        "en": "Monkey.D.Luffy",
+        "ja": "モンキー・Ｄ・ルフィ"
+      },
       "category": "Leader",
       "power": 5000,
       "life": 4,
@@ -1708,12 +2157,42 @@
             "alternate_art"
           ],
           "artist": "otton"
+        },
+        {
+          "id": "OP16-022~ja",
+          "language": "ja",
+          "set": "OP16",
+          "rarity": "L",
+          "block": "5",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP16-022.png",
+          "cardSet": "ブースターパック 決戦の刻【OP-16】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
+        },
+        {
+          "id": "OP16-022_p1~ja",
+          "language": "ja",
+          "set": "OP16",
+          "rarity": "L",
+          "block": "5",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP16-022_p1.png",
+          "cardSet": "ブースターパック 決戦の刻【OP-16】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "OP16-023",
       "name": "Arlong",
+      "names": {
+        "en": "Arlong",
+        "ja": "アーロン"
+      },
       "category": "Character",
       "cost": 1,
       "power": 3000,
@@ -1778,12 +2257,29 @@
               "category": "event"
             }
           ]
+        },
+        {
+          "id": "OP16-023~ja",
+          "language": "ja",
+          "set": "OP16",
+          "rarity": "C",
+          "block": "5",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP16-023.png",
+          "cardSet": "ブースターパック 決戦の刻【OP-16】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP16-024",
       "name": "Inazuma",
+      "names": {
+        "en": "Inazuma",
+        "ja": "イナズマ"
+      },
       "category": "Character",
       "cost": 2,
       "power": 1000,
@@ -1847,12 +2343,39 @@
               "category": "event"
             }
           ]
+        },
+        {
+          "id": "OP16-024~ja",
+          "language": "ja",
+          "set": "OP16",
+          "rarity": "UC",
+          "block": "5",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP16-024.png",
+          "cardSet": "ブースターパック 決戦の刻【OP-16】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
+        },
+        {
+          "id": "OP16-024_p1~ja",
+          "language": "ja",
+          "set": "P",
+          "rarity": "UC",
+          "block": "5",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP16-024_p1.png",
+          "cardSet": "スタンダードバトルパックVol.17",
+          "source": "bandai"
         }
       ]
     },
     {
       "number": "OP16-025",
       "name": "Bunkov",
+      "names": {
+        "en": "Bunkov",
+        "ja": "ウサッコフ"
+      },
       "category": "Character",
       "cost": 2,
       "power": 3000,
@@ -1915,12 +2438,29 @@
               "category": "event"
             }
           ]
+        },
+        {
+          "id": "OP16-025~ja",
+          "language": "ja",
+          "set": "OP16",
+          "rarity": "UC",
+          "block": "5",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP16-025.png",
+          "cardSet": "ブースターパック 決戦の刻【OP-16】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP16-026",
       "name": "Emporio.Ivankov",
+      "names": {
+        "en": "Emporio.Ivankov",
+        "ja": "エンポリオ・イワンコフ"
+      },
       "category": "Character",
       "cost": 4,
       "power": 4000,
@@ -1984,12 +2524,42 @@
             "alternate_art"
           ],
           "artist": "Sunohara"
+        },
+        {
+          "id": "OP16-026~ja",
+          "language": "ja",
+          "set": "OP16",
+          "rarity": "SR",
+          "block": "5",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP16-026.png",
+          "cardSet": "ブースターパック 決戦の刻【OP-16】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP16-026_p1~ja",
+          "language": "ja",
+          "set": "OP16",
+          "rarity": "SR",
+          "block": "5",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP16-026_p1.png",
+          "cardSet": "ブースターパック 決戦の刻【OP-16】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "OP16-027",
       "name": "Jinbe",
+      "names": {
+        "en": "Jinbe",
+        "ja": "ジンベエ"
+      },
       "category": "Character",
       "cost": 2,
       "power": 2000,
@@ -2028,12 +2598,29 @@
             "distance": 6
           },
           "artist": "akagi"
+        },
+        {
+          "id": "OP16-027~ja",
+          "language": "ja",
+          "set": "OP16",
+          "rarity": "R",
+          "block": "5",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP16-027.png",
+          "cardSet": "ブースターパック 決戦の刻【OP-16】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "OP16-028",
       "name": "Smoker",
+      "names": {
+        "en": "Smoker",
+        "ja": "スモーカー"
+      },
       "category": "Character",
       "cost": 6,
       "power": 7000,
@@ -2096,12 +2683,29 @@
               "category": "event"
             }
           ]
+        },
+        {
+          "id": "OP16-028~ja",
+          "language": "ja",
+          "set": "OP16",
+          "rarity": "C",
+          "block": "5",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP16-028.png",
+          "cardSet": "ブースターパック 決戦の刻【OP-16】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP16-029",
       "name": "Antlerkov",
+      "names": {
+        "en": "Antlerkov",
+        "ja": "ツノッコフ"
+      },
       "category": "Character",
       "cost": 2,
       "power": 3000,
@@ -2164,12 +2768,29 @@
               "category": "event"
             }
           ]
+        },
+        {
+          "id": "OP16-029~ja",
+          "language": "ja",
+          "set": "OP16",
+          "rarity": "UC",
+          "block": "5",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP16-029.png",
+          "cardSet": "ブースターパック 決戦の刻【OP-16】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP16-030",
       "name": "Trafalgar Law",
+      "names": {
+        "en": "Trafalgar Law",
+        "ja": "トラファルガー・ロー"
+      },
       "category": "Character",
       "cost": 8,
       "power": 9000,
@@ -2206,12 +2827,29 @@
             "distance": 3
           },
           "artist": "kudo sakiko"
+        },
+        {
+          "id": "OP16-030~ja",
+          "language": "ja",
+          "set": "OP16",
+          "rarity": "R",
+          "block": "5",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP16-030.png",
+          "cardSet": "ブースターパック 決戦の刻【OP-16】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "OP16-031",
       "name": "Buggy",
+      "names": {
+        "en": "Buggy",
+        "ja": "バギー"
+      },
       "category": "Character",
       "cost": 4,
       "power": 5000,
@@ -2275,12 +2913,29 @@
               "category": "event"
             }
           ]
+        },
+        {
+          "id": "OP16-031~ja",
+          "language": "ja",
+          "set": "OP16",
+          "rarity": "UC",
+          "block": "5",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP16-031.png",
+          "cardSet": "ブースターパック 決戦の刻【OP-16】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP16-032",
       "name": "Boa Hancock",
+      "names": {
+        "en": "Boa Hancock",
+        "ja": "ボア・ハンコック"
+      },
       "category": "Character",
       "cost": 7,
       "power": 9000,
@@ -2370,12 +3025,52 @@
               "category": "championship"
             }
           ]
+        },
+        {
+          "id": "OP16-032~ja",
+          "language": "ja",
+          "set": "OP16",
+          "rarity": "SR",
+          "block": "5",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP16-032.png",
+          "cardSet": "ブースターパック 決戦の刻【OP-16】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP16-032_p1~ja",
+          "language": "ja",
+          "set": "OP16",
+          "rarity": "SR",
+          "block": "5",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP16-032_p1.png",
+          "cardSet": "ブースターパック 決戦の刻【OP-16】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP16-032_p2~ja",
+          "language": "ja",
+          "set": "P",
+          "rarity": "SR",
+          "block": "5",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP16-032_p2.png",
+          "cardSet": "フラッグシップバトル2026 7月優勝記念品",
+          "source": "bandai"
         }
       ]
     },
     {
       "number": "OP16-033",
       "name": "Morley",
+      "names": {
+        "en": "Morley",
+        "ja": "モーリー"
+      },
       "category": "Character",
       "cost": 4,
       "power": 5000,
@@ -2439,12 +3134,29 @@
               "category": "event"
             }
           ]
+        },
+        {
+          "id": "OP16-033~ja",
+          "language": "ja",
+          "set": "OP16",
+          "rarity": "C",
+          "block": "5",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP16-033.png",
+          "cardSet": "ブースターパック 決戦の刻【OP-16】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP16-034",
       "name": "Monkey.D.Luffy",
+      "names": {
+        "en": "Monkey.D.Luffy",
+        "ja": "モンキー・Ｄ・ルフィ"
+      },
       "category": "Character",
       "cost": 1,
       "counter": 1000,
@@ -2507,12 +3219,52 @@
             "alternate_art"
           ],
           "artist": "Hachi Takashi"
+        },
+        {
+          "id": "OP16-034~ja",
+          "language": "ja",
+          "set": "OP16",
+          "rarity": "R",
+          "block": "5",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP16-034.png",
+          "cardSet": "ブースターパック 決戦の刻【OP-16】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP16-034_p1~ja",
+          "language": "ja",
+          "set": "OP16",
+          "rarity": "R",
+          "block": "5",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP16-034_p1.png",
+          "cardSet": "ブースターパック 決戦の刻【OP-16】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP16-034_p2~ja",
+          "language": "ja",
+          "set": "P",
+          "rarity": "R",
+          "block": "5",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP16-034_p2.png",
+          "cardSet": "8パックバトル 2026年10月",
+          "source": "bandai"
         }
       ]
     },
     {
       "number": "OP16-035",
       "name": "Roronoa Zoro",
+      "names": {
+        "en": "Roronoa Zoro",
+        "ja": "ロロノア・ゾロ"
+      },
       "category": "Character",
       "cost": 7,
       "power": 9000,
@@ -2574,12 +3326,29 @@
               "category": "event"
             }
           ]
+        },
+        {
+          "id": "OP16-035~ja",
+          "language": "ja",
+          "set": "OP16",
+          "rarity": "C",
+          "block": "5",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP16-035.png",
+          "cardSet": "ブースターパック 決戦の刻【OP-16】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP16-036",
       "name": "Mr.2.Bon.Kurei(Bentham)",
+      "names": {
+        "en": "Mr.2.Bon.Kurei(Bentham)",
+        "ja": "Mr.2・ボン・クレー(ベンサム)"
+      },
       "category": "Character",
       "cost": 4,
       "power": 1000,
@@ -2643,12 +3412,29 @@
               "category": "event"
             }
           ]
+        },
+        {
+          "id": "OP16-036~ja",
+          "language": "ja",
+          "set": "OP16",
+          "rarity": "C",
+          "block": "5",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP16-036.png",
+          "cardSet": "ブースターパック 決戦の刻【OP-16】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP16-037",
       "name": "Mr.3(Galdino)",
+      "names": {
+        "en": "Mr.3(Galdino)",
+        "ja": "Mr.3(ギャルディーノ)"
+      },
       "category": "Character",
       "cost": 2,
       "power": 3000,
@@ -2712,12 +3498,29 @@
               "category": "event"
             }
           ]
+        },
+        {
+          "id": "OP16-037~ja",
+          "language": "ja",
+          "set": "OP16",
+          "rarity": "C",
+          "block": "5",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP16-037.png",
+          "cardSet": "ブースターパック 決戦の刻【OP-16】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP16-038",
       "name": "Let's Go!! To the Navy Headquarters!!",
+      "names": {
+        "en": "Let's Go!! To the Navy Headquarters!!",
+        "ja": "行くぞ～～～!!!海軍本部～～～!!!"
+      },
       "category": "Event",
       "cost": 1,
       "colors": [
@@ -2749,12 +3552,29 @@
             "match": "image-only-candidate",
             "distance": 3
           }
+        },
+        {
+          "id": "OP16-038~ja",
+          "language": "ja",
+          "set": "OP16",
+          "rarity": "R",
+          "block": "5",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP16-038.png",
+          "cardSet": "ブースターパック 決戦の刻【OP-16】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "OP16-039",
       "name": "Gum-Gum Twin Jet Pistol",
+      "names": {
+        "en": "Gum-Gum Twin Jet Pistol",
+        "ja": "ゴムゴムのツインJET銃"
+      },
       "category": "Event",
       "cost": 1,
       "colors": [
@@ -2812,12 +3632,29 @@
               "category": "event"
             }
           ]
+        },
+        {
+          "id": "OP16-039~ja",
+          "language": "ja",
+          "set": "OP16",
+          "rarity": "C",
+          "block": "5",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP16-039.png",
+          "cardSet": "ブースターパック 決戦の刻【OP-16】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP16-040",
       "name": "Gum-Gum Hammer Rifle",
+      "names": {
+        "en": "Gum-Gum Hammer Rifle",
+        "ja": "ゴムゴムのトンカチ回転銃"
+      },
       "category": "Event",
       "cost": 1,
       "colors": [
@@ -2875,12 +3712,29 @@
               "category": "event"
             }
           ]
+        },
+        {
+          "id": "OP16-040~ja",
+          "language": "ja",
+          "set": "OP16",
+          "rarity": "UC",
+          "block": "5",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP16-040.png",
+          "cardSet": "ブースターパック 決戦の刻【OP-16】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP16-041",
       "name": "Buggy",
+      "names": {
+        "en": "Buggy",
+        "ja": "バギー"
+      },
       "category": "Leader",
       "power": 5000,
       "life": 5,
@@ -2943,12 +3797,42 @@
             "alternate_art"
           ],
           "artist": "Matsumoto Akira"
+        },
+        {
+          "id": "OP16-041~ja",
+          "language": "ja",
+          "set": "OP16",
+          "rarity": "L",
+          "block": "5",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP16-041.png",
+          "cardSet": "ブースターパック 決戦の刻【OP-16】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
+        },
+        {
+          "id": "OP16-041_p1~ja",
+          "language": "ja",
+          "set": "OP16",
+          "rarity": "L",
+          "block": "5",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP16-041_p1.png",
+          "cardSet": "ブースターパック 決戦の刻【OP-16】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "OP16-042",
       "name": "Prisoner of Impel Down",
+      "names": {
+        "en": "Prisoner of Impel Down",
+        "ja": "インペルダウンの囚人"
+      },
       "category": "Character",
       "cost": 6,
       "power": 6000,
@@ -2985,12 +3869,39 @@
             "distance": 8
           },
           "artist": "kankurou"
+        },
+        {
+          "id": "OP16-042~ja",
+          "language": "ja",
+          "set": "OP16",
+          "rarity": "R",
+          "block": "5",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP16-042.png",
+          "cardSet": "ブースターパック 決戦の刻【OP-16】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP16-042_p1~ja",
+          "language": "ja",
+          "set": "OP16",
+          "rarity": "TR",
+          "block": "5",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP16-042_p1.png",
+          "cardSet": "ブースターパック 決戦の刻【OP-16】",
+          "source": "bandai"
         }
       ]
     },
     {
       "number": "OP16-043",
       "name": "Usopp",
+      "names": {
+        "en": "Usopp",
+        "ja": "ウソップ"
+      },
       "category": "Character",
       "cost": 2,
       "power": 1000,
@@ -3054,12 +3965,29 @@
               "category": "event"
             }
           ]
+        },
+        {
+          "id": "OP16-043~ja",
+          "language": "ja",
+          "set": "OP16",
+          "rarity": "UC",
+          "block": "5",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP16-043.png",
+          "cardSet": "ブースターパック 決戦の刻【OP-16】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP16-044",
       "name": "Emporio.Ivankov",
+      "names": {
+        "en": "Emporio.Ivankov",
+        "ja": "エンポリオ・イワンコフ"
+      },
       "category": "Character",
       "cost": 2,
       "power": 2000,
@@ -3123,12 +4051,29 @@
               "category": "event"
             }
           ]
+        },
+        {
+          "id": "OP16-044~ja",
+          "language": "ja",
+          "set": "OP16",
+          "rarity": "C",
+          "block": "5",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP16-044.png",
+          "cardSet": "ブースターパック 決戦の刻【OP-16】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP16-045",
       "name": "Crocodile",
+      "names": {
+        "en": "Crocodile",
+        "ja": "クロコダイル"
+      },
       "category": "Character",
       "cost": 4,
       "power": 6000,
@@ -3191,12 +4136,29 @@
               "category": "event"
             }
           ]
+        },
+        {
+          "id": "OP16-045~ja",
+          "language": "ja",
+          "set": "OP16",
+          "rarity": "UC",
+          "block": "5",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP16-045.png",
+          "cardSet": "ブースターパック 決戦の刻【OP-16】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP16-046",
       "name": "Jinbe",
+      "names": {
+        "en": "Jinbe",
+        "ja": "ジンベエ"
+      },
       "category": "Character",
       "cost": 5,
       "power": 6000,
@@ -3261,12 +4223,29 @@
               "category": "event"
             }
           ]
+        },
+        {
+          "id": "OP16-046~ja",
+          "language": "ja",
+          "set": "OP16",
+          "rarity": "C",
+          "block": "5",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP16-046.png",
+          "cardSet": "ブースターパック 決戦の刻【OP-16】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP16-047",
       "name": "Donquixote Doflamingo",
+      "names": {
+        "en": "Donquixote Doflamingo",
+        "ja": "ドンキホーテ・ドフラミンゴ"
+      },
       "category": "Character",
       "cost": 3,
       "counter": 1000,
@@ -3329,12 +4308,29 @@
               "category": "event"
             }
           ]
+        },
+        {
+          "id": "OP16-047~ja",
+          "language": "ja",
+          "set": "OP16",
+          "rarity": "C",
+          "block": "5",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP16-047.png",
+          "cardSet": "ブースターパック 決戦の刻【OP-16】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP16-048",
       "name": "Buggy",
+      "names": {
+        "en": "Buggy",
+        "ja": "バギー"
+      },
       "category": "Character",
       "cost": 5,
       "power": 6000,
@@ -3398,12 +4394,42 @@
             "alternate_art"
           ],
           "artist": "DAI-XT."
+        },
+        {
+          "id": "OP16-048~ja",
+          "language": "ja",
+          "set": "OP16",
+          "rarity": "SR",
+          "block": "5",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP16-048.png",
+          "cardSet": "ブースターパック 決戦の刻【OP-16】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP16-048_p1~ja",
+          "language": "ja",
+          "set": "OP16",
+          "rarity": "SR",
+          "block": "5",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP16-048_p1.png",
+          "cardSet": "ブースターパック 決戦の刻【OP-16】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "OP16-049",
       "name": "Portgas.D.Ace",
+      "names": {
+        "en": "Portgas.D.Ace",
+        "ja": "ポートガス・Ｄ・エース"
+      },
       "category": "Character",
       "cost": 3,
       "counter": 1000,
@@ -3466,12 +4492,29 @@
               "category": "event"
             }
           ]
+        },
+        {
+          "id": "OP16-049~ja",
+          "language": "ja",
+          "set": "OP16",
+          "rarity": "C",
+          "block": "5",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP16-049.png",
+          "cardSet": "ブースターパック 決戦の刻【OP-16】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP16-050",
       "name": "Miss Olive",
+      "names": {
+        "en": "Miss Olive",
+        "ja": "ミス・オリーブ"
+      },
       "category": "Character",
       "cost": 5,
       "power": 6000,
@@ -3534,12 +4577,29 @@
               "category": "event"
             }
           ]
+        },
+        {
+          "id": "OP16-050~ja",
+          "language": "ja",
+          "set": "OP16",
+          "rarity": "UC",
+          "block": "5",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP16-050.png",
+          "cardSet": "ブースターパック 決戦の刻【OP-16】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP16-051",
       "name": "Mohji & Cabaji",
+      "names": {
+        "en": "Mohji & Cabaji",
+        "ja": "モージ＆カバジ"
+      },
       "category": "Character",
       "cost": 6,
       "power": 7000,
@@ -3603,12 +4663,29 @@
               "category": "event"
             }
           ]
+        },
+        {
+          "id": "OP16-051~ja",
+          "language": "ja",
+          "set": "OP16",
+          "rarity": "C",
+          "block": "5",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP16-051.png",
+          "cardSet": "ブースターパック 決戦の刻【OP-16】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP16-052",
       "name": "Monkey.D.Luffy",
+      "names": {
+        "en": "Monkey.D.Luffy",
+        "ja": "モンキー・Ｄ・ルフィ"
+      },
       "category": "Character",
       "cost": 2,
       "power": 3000,
@@ -3672,12 +4749,29 @@
               "category": "event"
             }
           ]
+        },
+        {
+          "id": "OP16-052~ja",
+          "language": "ja",
+          "set": "OP16",
+          "rarity": "UC",
+          "block": "5",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP16-052.png",
+          "cardSet": "ブースターパック 決戦の刻【OP-16】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP16-053",
       "name": "Roronoa Zoro",
+      "names": {
+        "en": "Roronoa Zoro",
+        "ja": "ロロノア・ゾロ"
+      },
       "category": "Character",
       "cost": 7,
       "power": 9000,
@@ -3741,12 +4835,29 @@
               "category": "event"
             }
           ]
+        },
+        {
+          "id": "OP16-053~ja",
+          "language": "ja",
+          "set": "OP16",
+          "rarity": "C",
+          "block": "5",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP16-053.png",
+          "cardSet": "ブースターパック 決戦の刻【OP-16】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP16-054",
       "name": "Mr.1(Daz.Bonez)",
+      "names": {
+        "en": "Mr.1(Daz.Bonez)",
+        "ja": "Mr.1(ダズ・ボーネス)"
+      },
       "category": "Character",
       "cost": 2,
       "power": 2000,
@@ -3784,12 +4895,29 @@
             "distance": 8
           },
           "artist": "Tadaichi Nakama"
+        },
+        {
+          "id": "OP16-054~ja",
+          "language": "ja",
+          "set": "OP16",
+          "rarity": "R",
+          "block": "5",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP16-054.png",
+          "cardSet": "ブースターパック 決戦の刻【OP-16】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "OP16-055",
       "name": "Mr.2.Bon.Kurei(Bentham)",
+      "names": {
+        "en": "Mr.2.Bon.Kurei(Bentham)",
+        "ja": "Mr.2・ボン・クレー(ベンサム)"
+      },
       "category": "Character",
       "cost": 2,
       "power": 1000,
@@ -3852,12 +4980,42 @@
             "alternate_art"
           ],
           "artist": "Morechand"
+        },
+        {
+          "id": "OP16-055~ja",
+          "language": "ja",
+          "set": "OP16",
+          "rarity": "R",
+          "block": "5",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP16-055.png",
+          "cardSet": "ブースターパック 決戦の刻【OP-16】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP16-055_p1~ja",
+          "language": "ja",
+          "set": "OP16",
+          "rarity": "R",
+          "block": "5",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP16-055_p1.png",
+          "cardSet": "ブースターパック 決戦の刻【OP-16】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "OP16-056",
       "name": "Mr.3(Galdino)",
+      "names": {
+        "en": "Mr.3(Galdino)",
+        "ja": "Mr.3(ギャルディーノ)"
+      },
       "category": "Character",
       "cost": 4,
       "power": 5000,
@@ -3921,12 +5079,42 @@
             "alternate_art"
           ],
           "artist": "DAI-XT."
+        },
+        {
+          "id": "OP16-056~ja",
+          "language": "ja",
+          "set": "OP16",
+          "rarity": "SR",
+          "block": "5",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP16-056.png",
+          "cardSet": "ブースターパック 決戦の刻【OP-16】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP16-056_p1~ja",
+          "language": "ja",
+          "set": "OP16",
+          "rarity": "SR",
+          "block": "5",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP16-056_p1.png",
+          "cardSet": "ブースターパック 決戦の刻【OP-16】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "OP16-057",
       "name": "Captain Buggy's Our Savior!!",
+      "names": {
+        "en": "Captain Buggy's Our Savior!!",
+        "ja": "おれ達の救世主!!!キャプテン・バギー!!!!"
+      },
       "category": "Event",
       "cost": 1,
       "colors": [
@@ -3983,12 +5171,29 @@
               "category": "event"
             }
           ]
+        },
+        {
+          "id": "OP16-057~ja",
+          "language": "ja",
+          "set": "OP16",
+          "rarity": "C",
+          "block": "5",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP16-057.png",
+          "cardSet": "ブースターパック 決戦の刻【OP-16】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP16-058",
       "name": "The Prisoners Are Rioting!!",
+      "names": {
+        "en": "The Prisoners Are Rioting!!",
+        "ja": "囚人達が暴れ出したァ～～～!!!"
+      },
       "category": "Event",
       "cost": 1,
       "colors": [
@@ -4019,12 +5224,29 @@
             "match": "image-only-candidate",
             "distance": 8
           }
+        },
+        {
+          "id": "OP16-058~ja",
+          "language": "ja",
+          "set": "OP16",
+          "rarity": "R",
+          "block": "5",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP16-058.png",
+          "cardSet": "ブースターパック 決戦の刻【OP-16】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "OP16-059",
       "name": "We'll Change This Mission from Sneaky to Flashy!",
+      "names": {
+        "en": "We'll Change This Mission from Sneaky to Flashy!",
+        "ja": "ド派手大作戦に変更じゃァ～～～!!!"
+      },
       "category": "Event",
       "cost": 1,
       "colors": [
@@ -4082,12 +5304,29 @@
               "category": "event"
             }
           ]
+        },
+        {
+          "id": "OP16-059~ja",
+          "language": "ja",
+          "set": "OP16",
+          "rarity": "UC",
+          "block": "5",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP16-059.png",
+          "cardSet": "ブースターパック 決戦の刻【OP-16】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP16-060",
       "name": "Sengoku",
+      "names": {
+        "en": "Sengoku",
+        "ja": "センゴク"
+      },
       "category": "Leader",
       "power": 5000,
       "life": 5,
@@ -4149,12 +5388,42 @@
             "alternate_art"
           ],
           "artist": "Anderson"
+        },
+        {
+          "id": "OP16-060~ja",
+          "language": "ja",
+          "set": "OP16",
+          "rarity": "L",
+          "block": "5",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP16-060.png",
+          "cardSet": "ブースターパック 決戦の刻【OP-16】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
+        },
+        {
+          "id": "OP16-060_p1~ja",
+          "language": "ja",
+          "set": "OP16",
+          "rarity": "L",
+          "block": "5",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP16-060_p1.png",
+          "cardSet": "ブースターパック 決戦の刻【OP-16】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "OP16-061",
       "name": "Older Brother Marine",
+      "names": {
+        "en": "Older Brother Marine",
+        "ja": "海兵兄"
+      },
       "category": "Character",
       "cost": 5,
       "power": 7000,
@@ -4217,12 +5486,29 @@
               "category": "event"
             }
           ]
+        },
+        {
+          "id": "OP16-061~ja",
+          "language": "ja",
+          "set": "OP16",
+          "rarity": "C",
+          "block": "5",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP16-061.png",
+          "cardSet": "ブースターパック 決戦の刻【OP-16】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP16-062",
       "name": "Younger Brother Marine",
+      "names": {
+        "en": "Younger Brother Marine",
+        "ja": "海兵弟"
+      },
       "category": "Character",
       "cost": 5,
       "power": 6000,
@@ -4285,12 +5571,29 @@
               "category": "event"
             }
           ]
+        },
+        {
+          "id": "OP16-062~ja",
+          "language": "ja",
+          "set": "OP16",
+          "rarity": "C",
+          "block": "5",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP16-062.png",
+          "cardSet": "ブースターパック 決戦の刻【OP-16】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP16-063",
       "name": "Kuzan",
+      "names": {
+        "en": "Kuzan",
+        "ja": "クザン"
+      },
       "category": "Character",
       "cost": 7,
       "power": 8000,
@@ -4378,12 +5681,55 @@
           "treatments": [
             "manga"
           ]
+        },
+        {
+          "id": "OP16-063~ja",
+          "language": "ja",
+          "set": "OP16",
+          "rarity": "R",
+          "block": "X",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP16-063.png",
+          "cardSet": "ブースターパック 決戦の刻【OP-16】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP16-063_p1~ja",
+          "language": "ja",
+          "set": "OP16",
+          "rarity": "R",
+          "block": "X",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP16-063_p1.png",
+          "cardSet": "ブースターパック 決戦の刻【OP-16】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP16-063_p2~ja",
+          "language": "ja",
+          "set": "OP16",
+          "rarity": "R",
+          "block": "X",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP16-063_p2.png",
+          "cardSet": "ブースターパック 決戦の刻【OP-16】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "OP16-064",
       "name": "Koby",
+      "names": {
+        "en": "Koby",
+        "ja": "コビー"
+      },
       "category": "Character",
       "cost": 1,
       "power": 2000,
@@ -4420,12 +5766,29 @@
             "distance": 6
           },
           "artist": "Nekobayashi"
+        },
+        {
+          "id": "OP16-064~ja",
+          "language": "ja",
+          "set": "OP16",
+          "rarity": "R",
+          "block": "5",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP16-064.png",
+          "cardSet": "ブースターパック 決戦の刻【OP-16】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "OP16-065",
       "name": "Sakazuki",
+      "names": {
+        "en": "Sakazuki",
+        "ja": "サカズキ"
+      },
       "category": "Character",
       "cost": 7,
       "power": 8000,
@@ -4513,12 +5876,55 @@
           "treatments": [
             "manga"
           ]
+        },
+        {
+          "id": "OP16-065~ja",
+          "language": "ja",
+          "set": "OP16",
+          "rarity": "SR",
+          "block": "X",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP16-065.png",
+          "cardSet": "ブースターパック 決戦の刻【OP-16】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP16-065_p1~ja",
+          "language": "ja",
+          "set": "OP16",
+          "rarity": "SR",
+          "block": "X",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP16-065_p1.png",
+          "cardSet": "ブースターパック 決戦の刻【OP-16】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP16-065_p2~ja",
+          "language": "ja",
+          "set": "OP16",
+          "rarity": "SR",
+          "block": "X",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP16-065_p2.png",
+          "cardSet": "ブースターパック 決戦の刻【OP-16】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "OP16-066",
       "name": "Sengoku",
+      "names": {
+        "en": "Sengoku",
+        "ja": "センゴク"
+      },
       "category": "Character",
       "cost": 5,
       "power": 5000,
@@ -4581,12 +5987,29 @@
               "category": "event"
             }
           ]
+        },
+        {
+          "id": "OP16-066~ja",
+          "language": "ja",
+          "set": "OP16",
+          "rarity": "UC",
+          "block": "5",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP16-066.png",
+          "cardSet": "ブースターパック 決戦の刻【OP-16】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP16-067",
       "name": "Tsuru",
+      "names": {
+        "en": "Tsuru",
+        "ja": "つる"
+      },
       "category": "Character",
       "cost": 1,
       "power": 2000,
@@ -4649,12 +6072,29 @@
               "category": "event"
             }
           ]
+        },
+        {
+          "id": "OP16-067~ja",
+          "language": "ja",
+          "set": "OP16",
+          "rarity": "UC",
+          "block": "5",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP16-067.png",
+          "cardSet": "ブースターパック 決戦の刻【OP-16】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP16-068",
       "name": "Trafalgar Law",
+      "names": {
+        "en": "Trafalgar Law",
+        "ja": "トラファルガー・ロー"
+      },
       "category": "Character",
       "cost": 4,
       "power": 3000,
@@ -4717,12 +6157,29 @@
               "category": "event"
             }
           ]
+        },
+        {
+          "id": "OP16-068~ja",
+          "language": "ja",
+          "set": "OP16",
+          "rarity": "C",
+          "block": "5",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP16-068.png",
+          "cardSet": "ブースターパック 決戦の刻【OP-16】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP16-069",
       "name": "Donquixote Doflamingo",
+      "names": {
+        "en": "Donquixote Doflamingo",
+        "ja": "ドンキホーテ・ドフラミンゴ"
+      },
       "category": "Character",
       "cost": 7,
       "power": 8000,
@@ -4784,12 +6241,29 @@
               "category": "event"
             }
           ]
+        },
+        {
+          "id": "OP16-069~ja",
+          "language": "ja",
+          "set": "OP16",
+          "rarity": "C",
+          "block": "5",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP16-069.png",
+          "cardSet": "ブースターパック 決戦の刻【OP-16】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP16-070",
       "name": "Donquixote Rosinante",
+      "names": {
+        "en": "Donquixote Rosinante",
+        "ja": "ドンキホーテ・ロシナンテ"
+      },
       "category": "Character",
       "cost": 2,
       "power": 1000,
@@ -4853,12 +6327,29 @@
               "category": "event"
             }
           ]
+        },
+        {
+          "id": "OP16-070~ja",
+          "language": "ja",
+          "set": "OP16",
+          "rarity": "UC",
+          "block": "5",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP16-070.png",
+          "cardSet": "ブースターパック 決戦の刻【OP-16】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP16-071",
       "name": "Benevolent King of the Waves",
+      "names": {
+        "en": "Benevolent King of the Waves",
+        "ja": "波頭の仁王"
+      },
       "category": "Character",
       "cost": 3,
       "power": 5000,
@@ -4920,12 +6411,29 @@
               "category": "event"
             }
           ]
+        },
+        {
+          "id": "OP16-071~ja",
+          "language": "ja",
+          "set": "OP16",
+          "rarity": "C",
+          "block": "5",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP16-071.png",
+          "cardSet": "ブースターパック 決戦の刻【OP-16】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP16-072",
       "name": "Hannyabal",
+      "names": {
+        "en": "Hannyabal",
+        "ja": "ハンニャバル"
+      },
       "category": "Character",
       "cost": 2,
       "power": 3000,
@@ -4988,12 +6496,29 @@
               "category": "event"
             }
           ]
+        },
+        {
+          "id": "OP16-072~ja",
+          "language": "ja",
+          "set": "OP16",
+          "rarity": "C",
+          "block": "5",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP16-072.png",
+          "cardSet": "ブースターパック 決戦の刻【OP-16】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP16-073",
       "name": "Borsalino",
+      "names": {
+        "en": "Borsalino",
+        "ja": "ボルサリーノ"
+      },
       "category": "Character",
       "cost": 7,
       "power": 8000,
@@ -5081,12 +6606,55 @@
           "treatments": [
             "manga"
           ]
+        },
+        {
+          "id": "OP16-073~ja",
+          "language": "ja",
+          "set": "OP16",
+          "rarity": "R",
+          "block": "X",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP16-073.png",
+          "cardSet": "ブースターパック 決戦の刻【OP-16】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP16-073_p1~ja",
+          "language": "ja",
+          "set": "OP16",
+          "rarity": "R",
+          "block": "X",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP16-073_p1.png",
+          "cardSet": "ブースターパック 決戦の刻【OP-16】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP16-073_p2~ja",
+          "language": "ja",
+          "set": "OP16",
+          "rarity": "R",
+          "block": "X",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP16-073_p2.png",
+          "cardSet": "ブースターパック 決戦の刻【OP-16】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "OP16-074",
       "name": "Magellan",
+      "names": {
+        "en": "Magellan",
+        "ja": "マゼラン"
+      },
       "category": "Character",
       "cost": 8,
       "power": 10000,
@@ -5148,12 +6716,29 @@
               "category": "event"
             }
           ]
+        },
+        {
+          "id": "OP16-074~ja",
+          "language": "ja",
+          "set": "OP16",
+          "rarity": "C",
+          "block": "5",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP16-074.png",
+          "cardSet": "ブースターパック 決戦の刻【OP-16】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP16-075",
       "name": "Monkey.D.Garp",
+      "names": {
+        "en": "Monkey.D.Garp",
+        "ja": "モンキー・Ｄ・ガープ"
+      },
       "category": "Character",
       "cost": 5,
       "power": 6000,
@@ -5216,12 +6801,29 @@
               "category": "event"
             }
           ]
+        },
+        {
+          "id": "OP16-075~ja",
+          "language": "ja",
+          "set": "OP16",
+          "rarity": "C",
+          "block": "5",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP16-075.png",
+          "cardSet": "ブースターパック 決戦の刻【OP-16】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP16-076",
       "name": "The Three Admirals!!",
+      "names": {
+        "en": "The Three Admirals!!",
+        "ja": "「三大将」!!!"
+      },
       "category": "Event",
       "cost": 1,
       "colors": [
@@ -5279,12 +6881,29 @@
               "category": "event"
             }
           ]
+        },
+        {
+          "id": "OP16-076~ja",
+          "language": "ja",
+          "set": "OP16",
+          "rarity": "UC",
+          "block": "5",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP16-076.png",
+          "cardSet": "ブースターパック 決戦の刻【OP-16】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP16-077",
       "name": "\"Buddha\" Sengoku",
+      "names": {
+        "en": "\"Buddha\" Sengoku",
+        "ja": "智将“仏のセンゴク”"
+      },
       "category": "Event",
       "cost": 1,
       "colors": [
@@ -5315,12 +6934,29 @@
             "match": "image-only-candidate",
             "distance": 4
           }
+        },
+        {
+          "id": "OP16-077~ja",
+          "language": "ja",
+          "set": "OP16",
+          "rarity": "R",
+          "block": "5",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP16-077.png",
+          "cardSet": "ブースターパック 決戦の刻【OP-16】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "OP16-078",
       "name": "Marineford",
+      "names": {
+        "en": "Marineford",
+        "ja": "マリンフォード"
+      },
       "category": "Stage",
       "cost": 1,
       "colors": [
@@ -5377,12 +7013,29 @@
               "category": "event"
             }
           ]
+        },
+        {
+          "id": "OP16-078~ja",
+          "language": "ja",
+          "set": "OP16",
+          "rarity": "UC",
+          "block": "5",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP16-078.png",
+          "cardSet": "ブースターパック 決戦の刻【OP-16】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP16-079",
       "name": "Yamato",
+      "names": {
+        "en": "Yamato",
+        "ja": "ヤマト"
+      },
       "category": "Leader",
       "power": 5000,
       "life": 5,
@@ -5444,12 +7097,42 @@
             "alternate_art"
           ],
           "artist": "NAKAuMA"
+        },
+        {
+          "id": "OP16-079~ja",
+          "language": "ja",
+          "set": "OP16",
+          "rarity": "L",
+          "block": "5",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP16-079.png",
+          "cardSet": "ブースターパック 決戦の刻【OP-16】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
+        },
+        {
+          "id": "OP16-079_p1~ja",
+          "language": "ja",
+          "set": "OP16",
+          "rarity": "L",
+          "block": "5",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP16-079_p1.png",
+          "cardSet": "ブースターパック 決戦の刻【OP-16】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "OP16-080",
       "name": "Marshall.D.Teach",
+      "names": {
+        "en": "Marshall.D.Teach",
+        "ja": "マーシャル・Ｄ・ティーチ"
+      },
       "category": "Leader",
       "power": 5000,
       "life": 4,
@@ -5513,12 +7196,42 @@
             "alternate_art"
           ],
           "artist": "Matsumoto Akira"
+        },
+        {
+          "id": "OP16-080~ja",
+          "language": "ja",
+          "set": "OP16",
+          "rarity": "L",
+          "block": "5",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP16-080.png",
+          "cardSet": "ブースターパック 決戦の刻【OP-16】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
+        },
+        {
+          "id": "OP16-080_p1~ja",
+          "language": "ja",
+          "set": "OP16",
+          "rarity": "L",
+          "block": "5",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP16-080_p1.png",
+          "cardSet": "ブースターパック 決戦の刻【OP-16】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "OP16-081",
       "name": "Otama",
+      "names": {
+        "en": "Otama",
+        "ja": "お玉"
+      },
       "category": "Character",
       "cost": 2,
       "counter": 2000,
@@ -5580,12 +7293,29 @@
               "category": "event"
             }
           ]
+        },
+        {
+          "id": "OP16-081~ja",
+          "language": "ja",
+          "set": "OP16",
+          "rarity": "C",
+          "block": "5",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP16-081.png",
+          "cardSet": "ブースターパック 決戦の刻【OP-16】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP16-082",
       "name": "Kin'emon",
+      "names": {
+        "en": "Kin'emon",
+        "ja": "錦えもん"
+      },
       "category": "Character",
       "cost": 4,
       "power": 6000,
@@ -5648,12 +7378,42 @@
             "alternate_art"
           ],
           "artist": "Nijihayashi"
+        },
+        {
+          "id": "OP16-082~ja",
+          "language": "ja",
+          "set": "OP16",
+          "rarity": "SR",
+          "block": "5",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP16-082.png",
+          "cardSet": "ブースターパック 決戦の刻【OP-16】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP16-082_p1~ja",
+          "language": "ja",
+          "set": "OP16",
+          "rarity": "SR",
+          "block": "5",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP16-082_p1.png",
+          "cardSet": "ブースターパック 決戦の刻【OP-16】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "OP16-083",
       "name": "Kouzuki Oden",
+      "names": {
+        "en": "Kouzuki Oden",
+        "ja": "光月おでん"
+      },
       "category": "Character",
       "cost": 5,
       "power": 6000,
@@ -5717,12 +7477,29 @@
               "category": "event"
             }
           ]
+        },
+        {
+          "id": "OP16-083~ja",
+          "language": "ja",
+          "set": "OP16",
+          "rarity": "C",
+          "block": "5",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP16-083.png",
+          "cardSet": "ブースターパック 決戦の刻【OP-16】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP16-084",
       "name": "Kouzuki Momonosuke",
+      "names": {
+        "en": "Kouzuki Momonosuke",
+        "ja": "光月モモの助"
+      },
       "category": "Character",
       "cost": 5,
       "counter": 2000,
@@ -5785,12 +7562,29 @@
               "category": "event"
             }
           ]
+        },
+        {
+          "id": "OP16-084~ja",
+          "language": "ja",
+          "set": "OP16",
+          "rarity": "UC",
+          "block": "5",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP16-084.png",
+          "cardSet": "ブースターパック 決戦の刻【OP-16】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP16-085",
       "name": "Kouzuki Momonosuke",
+      "names": {
+        "en": "Kouzuki Momonosuke",
+        "ja": "光月モモの助"
+      },
       "category": "Character",
       "cost": 9,
       "power": 6000,
@@ -5854,12 +7648,42 @@
             "alternate_art"
           ],
           "artist": "Yuki Yoshida"
+        },
+        {
+          "id": "OP16-085~ja",
+          "language": "ja",
+          "set": "OP16",
+          "rarity": "R",
+          "block": "5",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP16-085.png",
+          "cardSet": "ブースターパック 決戦の刻【OP-16】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP16-085_p1~ja",
+          "language": "ja",
+          "set": "OP16",
+          "rarity": "R",
+          "block": "5",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP16-085_p1.png",
+          "cardSet": "ブースターパック 決戦の刻【OP-16】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "OP16-086",
       "name": "Sanji",
+      "names": {
+        "en": "Sanji",
+        "ja": "サンジ"
+      },
       "category": "Character",
       "cost": 8,
       "power": 9000,
@@ -5923,12 +7747,29 @@
               "category": "event"
             }
           ]
+        },
+        {
+          "id": "OP16-086~ja",
+          "language": "ja",
+          "set": "OP16",
+          "rarity": "C",
+          "block": "5",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP16-086.png",
+          "cardSet": "ブースターパック 決戦の刻【OP-16】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP16-087",
       "name": "Shinobu",
+      "names": {
+        "en": "Shinobu",
+        "ja": "しのぶ"
+      },
       "category": "Character",
       "cost": 2,
       "power": 1000,
@@ -5991,12 +7832,29 @@
               "category": "event"
             }
           ]
+        },
+        {
+          "id": "OP16-087~ja",
+          "language": "ja",
+          "set": "OP16",
+          "rarity": "UC",
+          "block": "5",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP16-087.png",
+          "cardSet": "ブースターパック 決戦の刻【OP-16】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP16-088",
       "name": "Shimotsuki Ushimaru",
+      "names": {
+        "en": "Shimotsuki Ushimaru",
+        "ja": "霜月牛マル"
+      },
       "category": "Character",
       "cost": 2,
       "power": 2000,
@@ -6059,12 +7917,29 @@
               "category": "event"
             }
           ]
+        },
+        {
+          "id": "OP16-088~ja",
+          "language": "ja",
+          "set": "OP16",
+          "rarity": "C",
+          "block": "5",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP16-088.png",
+          "cardSet": "ブースターパック 決戦の刻【OP-16】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP16-089",
       "name": "Dracule Mihawk",
+      "names": {
+        "en": "Dracule Mihawk",
+        "ja": "ジュラキュール・ミホーク"
+      },
       "category": "Character",
       "cost": 6,
       "power": 8000,
@@ -6126,12 +8001,29 @@
               "category": "event"
             }
           ]
+        },
+        {
+          "id": "OP16-089~ja",
+          "language": "ja",
+          "set": "OP16",
+          "rarity": "C",
+          "block": "5",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP16-089.png",
+          "cardSet": "ブースターパック 決戦の刻【OP-16】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP16-090",
       "name": "Tony Tony.Chopper",
+      "names": {
+        "en": "Tony Tony.Chopper",
+        "ja": "トニートニー・チョッパー"
+      },
       "category": "Character",
       "cost": 3,
       "power": 4000,
@@ -6196,12 +8088,29 @@
               "category": "event"
             }
           ]
+        },
+        {
+          "id": "OP16-090~ja",
+          "language": "ja",
+          "set": "OP16",
+          "rarity": "C",
+          "block": "5",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP16-090.png",
+          "cardSet": "ブースターパック 決戦の刻【OP-16】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP16-091",
       "name": "Nami",
+      "names": {
+        "en": "Nami",
+        "ja": "ナミ"
+      },
       "category": "Character",
       "cost": 1,
       "power": 2000,
@@ -6239,12 +8148,29 @@
             "distance": 7
           },
           "artist": "kou takase"
+        },
+        {
+          "id": "OP16-091~ja",
+          "language": "ja",
+          "set": "OP16",
+          "rarity": "R",
+          "block": "5",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP16-091.png",
+          "cardSet": "ブースターパック 決戦の刻【OP-16】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "OP16-092",
       "name": "Nico Robin",
+      "names": {
+        "en": "Nico Robin",
+        "ja": "ニコ・ロビン"
+      },
       "category": "Character",
       "cost": 1,
       "power": 2000,
@@ -6308,12 +8234,49 @@
               "category": "event"
             }
           ]
+        },
+        {
+          "id": "OP16-092~ja",
+          "language": "ja",
+          "set": "OP16",
+          "rarity": "UC",
+          "block": "5",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP16-092.png",
+          "cardSet": "ブースターパック 決戦の刻【OP-16】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
+        },
+        {
+          "id": "OP16-092_p1~ja",
+          "language": "ja",
+          "set": "P",
+          "rarity": "UC",
+          "block": "5",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP16-092_p1.png",
+          "cardSet": "スタンダードバトル 2026年9月優勝記念品",
+          "source": "bandai"
+        },
+        {
+          "id": "OP16-092_p2~ja",
+          "language": "ja",
+          "set": "P",
+          "rarity": "UC",
+          "block": "5",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP16-092_p2.png",
+          "cardSet": "スタンダードバトルパックVol.17",
+          "source": "bandai"
         }
       ]
     },
     {
       "number": "OP16-093",
       "name": "Bartholomew Kuma",
+      "names": {
+        "en": "Bartholomew Kuma",
+        "ja": "バーソロミュー・くま"
+      },
       "category": "Character",
       "cost": 3,
       "power": 4000,
@@ -6377,12 +8340,29 @@
               "category": "event"
             }
           ]
+        },
+        {
+          "id": "OP16-093~ja",
+          "language": "ja",
+          "set": "OP16",
+          "rarity": "C",
+          "block": "5",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP16-093.png",
+          "cardSet": "ブースターパック 決戦の刻【OP-16】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP16-094",
       "name": "Portgas.D.Ace",
+      "names": {
+        "en": "Portgas.D.Ace",
+        "ja": "ポートガス・Ｄ・エース"
+      },
       "category": "Character",
       "cost": 4,
       "power": 5000,
@@ -6446,12 +8426,29 @@
               "category": "event"
             }
           ]
+        },
+        {
+          "id": "OP16-094~ja",
+          "language": "ja",
+          "set": "OP16",
+          "rarity": "UC",
+          "block": "5",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP16-094.png",
+          "cardSet": "ブースターパック 決戦の刻【OP-16】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP16-095",
       "name": "Monkey.D.Luffy",
+      "names": {
+        "en": "Monkey.D.Luffy",
+        "ja": "モンキー・Ｄ・ルフィ"
+      },
       "category": "Character",
       "cost": 2,
       "power": 2000,
@@ -6515,12 +8512,29 @@
               "category": "event"
             }
           ]
+        },
+        {
+          "id": "OP16-095~ja",
+          "language": "ja",
+          "set": "OP16",
+          "rarity": "R",
+          "block": "5",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP16-095.png",
+          "cardSet": "ブースターパック 決戦の刻【OP-16】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "OP16-096",
       "name": "Yamato",
+      "names": {
+        "en": "Yamato",
+        "ja": "ヤマト"
+      },
       "category": "Character",
       "cost": 8,
       "power": 8000,
@@ -6557,12 +8571,29 @@
             "distance": 4
           },
           "artist": "HISASHI HUJIWARA"
+        },
+        {
+          "id": "OP16-096~ja",
+          "language": "ja",
+          "set": "OP16",
+          "rarity": "R",
+          "block": "5",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP16-096.png",
+          "cardSet": "ブースターパック 決戦の刻【OP-16】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "OP16-097",
       "name": "Yamato",
+      "names": {
+        "en": "Yamato",
+        "ja": "ヤマト"
+      },
       "category": "Character",
       "cost": 8,
       "power": 8000,
@@ -6598,12 +8629,39 @@
             "distance": 3
           },
           "artist": "Yuu Shimotsuki"
+        },
+        {
+          "id": "OP16-097~ja",
+          "language": "ja",
+          "set": "OP16",
+          "rarity": "R",
+          "block": "5",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP16-097.png",
+          "cardSet": "ブースターパック 決戦の刻【OP-16】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP16-097_p1~ja",
+          "language": "ja",
+          "set": "P",
+          "rarity": "R",
+          "block": "5",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP16-097_p1.png",
+          "cardSet": "プロモーションパックEX vol.5",
+          "source": "bandai"
         }
       ]
     },
     {
       "number": "OP16-098",
       "name": "Yamato",
+      "names": {
+        "en": "Yamato",
+        "ja": "ヤマト"
+      },
       "category": "Character",
       "cost": 6,
       "power": 5000,
@@ -6692,12 +8750,55 @@
             "sp"
           ],
           "artist": "sakai/INO Ltd."
+        },
+        {
+          "id": "OP16-098~ja",
+          "language": "ja",
+          "set": "OP16",
+          "rarity": "SR",
+          "block": "5",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP16-098.png",
+          "cardSet": "ブースターパック 決戦の刻【OP-16】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP16-098_p1~ja",
+          "language": "ja",
+          "set": "OP16",
+          "rarity": "SR",
+          "block": "5",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP16-098_p1.png",
+          "cardSet": "ブースターパック 決戦の刻【OP-16】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP16-098_p2~ja",
+          "language": "ja",
+          "set": "OP17",
+          "rarity": "SP CARD",
+          "block": "5",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP16-098_p2.png",
+          "cardSet": "ブースターパック 世界最強の戦士【OP-17】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "OP16-099",
       "name": "I've Come Here... To Cut Those Chains!!!",
+      "names": {
+        "en": "I've Come Here... To Cut Those Chains!!!",
+        "ja": "その“縁”を切りに来た!!!"
+      },
       "category": "Event",
       "cost": 1,
       "colors": [
@@ -6754,12 +8855,29 @@
               "category": "event"
             }
           ]
+        },
+        {
+          "id": "OP16-099~ja",
+          "language": "ja",
+          "set": "OP16",
+          "rarity": "UC",
+          "block": "5",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP16-099.png",
+          "cardSet": "ブースターパック 決戦の刻【OP-16】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP16-100",
       "name": "Hallowed Glacier Slash",
+      "names": {
+        "en": "Hallowed Glacier Slash",
+        "ja": "氷諸斬り"
+      },
       "category": "Event",
       "cost": 1,
       "colors": [
@@ -6816,12 +8934,29 @@
               "category": "event"
             }
           ]
+        },
+        {
+          "id": "OP16-100~ja",
+          "language": "ja",
+          "set": "OP16",
+          "rarity": "C",
+          "block": "5",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP16-100.png",
+          "cardSet": "ブースターパック 決戦の刻【OP-16】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP16-101",
       "name": "Mahoroba",
+      "names": {
+        "en": "Mahoroba",
+        "ja": "馬幻刃"
+      },
       "category": "Event",
       "cost": 2,
       "colors": [
@@ -6878,12 +9013,29 @@
               "category": "event"
             }
           ]
+        },
+        {
+          "id": "OP16-101~ja",
+          "language": "ja",
+          "set": "OP16",
+          "rarity": "C",
+          "block": "5",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP16-101.png",
+          "cardSet": "ブースターパック 決戦の刻【OP-16】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP16-102",
       "name": "Avalo Pizarro",
+      "names": {
+        "en": "Avalo Pizarro",
+        "ja": "アバロ・ピサロ"
+      },
       "category": "Character",
       "cost": 1,
       "power": 2000,
@@ -6947,12 +9099,29 @@
               "category": "event"
             }
           ]
+        },
+        {
+          "id": "OP16-102~ja",
+          "language": "ja",
+          "set": "OP16",
+          "rarity": "UC",
+          "block": "5",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP16-102.png",
+          "cardSet": "ブースターパック 決戦の刻【OP-16】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP16-103",
       "name": "Van Augur",
+      "names": {
+        "en": "Van Augur",
+        "ja": "ヴァン・オーガー"
+      },
       "category": "Character",
       "cost": 1,
       "power": 2000,
@@ -7015,12 +9184,29 @@
               "category": "event"
             }
           ]
+        },
+        {
+          "id": "OP16-103~ja",
+          "language": "ja",
+          "set": "OP16",
+          "rarity": "UC",
+          "block": "5",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP16-103.png",
+          "cardSet": "ブースターパック 決戦の刻【OP-16】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP16-104",
       "name": "Catarina Devon",
+      "names": {
+        "en": "Catarina Devon",
+        "ja": "カタリーナ・デボン"
+      },
       "category": "Character",
       "cost": 4,
       "power": 3000,
@@ -7058,12 +9244,29 @@
             "distance": 3
           },
           "artist": "SHINRA AGENCY Co. Ltd."
+        },
+        {
+          "id": "OP16-104~ja",
+          "language": "ja",
+          "set": "OP16",
+          "rarity": "R",
+          "block": "5",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP16-104.png",
+          "cardSet": "ブースターパック 決戦の刻【OP-16】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "OP16-105",
       "name": "Gecko Moria",
+      "names": {
+        "en": "Gecko Moria",
+        "ja": "ゲッコー・モリア"
+      },
       "category": "Character",
       "cost": 6,
       "power": 7000,
@@ -7127,12 +9330,29 @@
               "category": "event"
             }
           ]
+        },
+        {
+          "id": "OP16-105~ja",
+          "language": "ja",
+          "set": "OP16",
+          "rarity": "C",
+          "block": "5",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP16-105.png",
+          "cardSet": "ブースターパック 決戦の刻【OP-16】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP16-106",
       "name": "Sanjuan.Wolf",
+      "names": {
+        "en": "Sanjuan.Wolf",
+        "ja": "サンファン・ウルフ"
+      },
       "category": "Character",
       "cost": 4,
       "power": 5000,
@@ -7171,12 +9391,29 @@
             "distance": 4
           },
           "artist": "tasaka"
+        },
+        {
+          "id": "OP16-106~ja",
+          "language": "ja",
+          "set": "OP16",
+          "rarity": "R",
+          "block": "5",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP16-106.png",
+          "cardSet": "ブースターパック 決戦の刻【OP-16】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "OP16-107",
       "name": "Jesus Burgess",
+      "names": {
+        "en": "Jesus Burgess",
+        "ja": "ジーザス・バージェス"
+      },
       "category": "Character",
       "cost": 3,
       "power": 5000,
@@ -7238,12 +9475,29 @@
               "category": "event"
             }
           ]
+        },
+        {
+          "id": "OP16-107~ja",
+          "language": "ja",
+          "set": "OP16",
+          "rarity": "C",
+          "block": "5",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP16-107.png",
+          "cardSet": "ブースターパック 決戦の刻【OP-16】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP16-108",
       "name": "Shiryu",
+      "names": {
+        "en": "Shiryu",
+        "ja": "シリュウ"
+      },
       "category": "Character",
       "cost": 6,
       "power": 8000,
@@ -7306,12 +9560,42 @@
             "full_art"
           ],
           "artist": "Minato Sashima"
+        },
+        {
+          "id": "OP16-108~ja",
+          "language": "ja",
+          "set": "OP16",
+          "rarity": "SR",
+          "block": "5",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP16-108.png",
+          "cardSet": "ブースターパック 決戦の刻【OP-16】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP16-108_p1~ja",
+          "language": "ja",
+          "set": "OP16",
+          "rarity": "SR",
+          "block": "5",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP16-108_p1.png",
+          "cardSet": "ブースターパック 決戦の刻【OP-16】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "OP16-109",
       "name": "Doc Q",
+      "names": {
+        "en": "Doc Q",
+        "ja": "ドクQ"
+      },
       "category": "Character",
       "cost": 1,
       "counter": 2000,
@@ -7373,12 +9657,29 @@
               "category": "event"
             }
           ]
+        },
+        {
+          "id": "OP16-109~ja",
+          "language": "ja",
+          "set": "OP16",
+          "rarity": "UC",
+          "block": "5",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP16-109.png",
+          "cardSet": "ブースターパック 決戦の刻【OP-16】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP16-110",
       "name": "Vasco Shot",
+      "names": {
+        "en": "Vasco Shot",
+        "ja": "バスコ・ショット"
+      },
       "category": "Character",
       "cost": 1,
       "power": 2000,
@@ -7416,12 +9717,29 @@
             "distance": 5
           },
           "artist": "ASAKI KURODA"
+        },
+        {
+          "id": "OP16-110~ja",
+          "language": "ja",
+          "set": "OP16",
+          "rarity": "R",
+          "block": "5",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP16-110.png",
+          "cardSet": "ブースターパック 決戦の刻【OP-16】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "OP16-111",
       "name": "Boa Sandersonia",
+      "names": {
+        "en": "Boa Sandersonia",
+        "ja": "ボア・サンダーソニア"
+      },
       "category": "Character",
       "cost": 4,
       "power": 5000,
@@ -7483,12 +9801,29 @@
               "category": "event"
             }
           ]
+        },
+        {
+          "id": "OP16-111~ja",
+          "language": "ja",
+          "set": "OP16",
+          "rarity": "C",
+          "block": "5",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP16-111.png",
+          "cardSet": "ブースターパック 決戦の刻【OP-16】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP16-112",
       "name": "Boa Hancock",
+      "names": {
+        "en": "Boa Hancock",
+        "ja": "ボア・ハンコック"
+      },
       "category": "Character",
       "cost": 6,
       "power": 8000,
@@ -7551,12 +9886,29 @@
               "category": "event"
             }
           ]
+        },
+        {
+          "id": "OP16-112~ja",
+          "language": "ja",
+          "set": "OP16",
+          "rarity": "C",
+          "block": "5",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP16-112.png",
+          "cardSet": "ブースターパック 決戦の刻【OP-16】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP16-113",
       "name": "Boa Marigold",
+      "names": {
+        "en": "Boa Marigold",
+        "ja": "ボア・マリーゴールド"
+      },
       "category": "Character",
       "cost": 5,
       "power": 5000,
@@ -7619,12 +9971,29 @@
               "category": "event"
             }
           ]
+        },
+        {
+          "id": "OP16-113~ja",
+          "language": "ja",
+          "set": "OP16",
+          "rarity": "UC",
+          "block": "5",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP16-113.png",
+          "cardSet": "ブースターパック 決戦の刻【OP-16】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP16-114",
       "name": "Laffitte",
+      "names": {
+        "en": "Laffitte",
+        "ja": "ラフィット"
+      },
       "category": "Character",
       "cost": 1,
       "power": 2000,
@@ -7687,12 +10056,29 @@
               "category": "event"
             }
           ]
+        },
+        {
+          "id": "OP16-114~ja",
+          "language": "ja",
+          "set": "OP16",
+          "rarity": "C",
+          "block": "5",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP16-114.png",
+          "cardSet": "ブースターパック 決戦の刻【OP-16】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP16-115",
       "name": "Black Vortex",
+      "names": {
+        "en": "Black Vortex",
+        "ja": "闇水"
+      },
       "category": "Event",
       "cost": 1,
       "colors": [
@@ -7751,12 +10137,29 @@
               "category": "event"
             }
           ]
+        },
+        {
+          "id": "OP16-115~ja",
+          "language": "ja",
+          "set": "OP16",
+          "rarity": "UC",
+          "block": "5",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP16-115.png",
+          "cardSet": "ブースターパック 決戦の刻【OP-16】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP16-116",
       "name": "Zehahahahaha!",
+      "names": {
+        "en": "Zehahahahaha!",
+        "ja": "ゼハハハハハハ!!!"
+      },
       "category": "Event",
       "cost": 8,
       "colors": [
@@ -7813,12 +10216,42 @@
           "treatments": [
             "alternate_art"
           ]
+        },
+        {
+          "id": "OP16-116~ja",
+          "language": "ja",
+          "set": "OP16",
+          "rarity": "R",
+          "block": "5",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP16-116.png",
+          "cardSet": "ブースターパック 決戦の刻【OP-16】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP16-116_p1~ja",
+          "language": "ja",
+          "set": "OP16",
+          "rarity": "R",
+          "block": "5",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP16-116_p1.png",
+          "cardSet": "ブースターパック 決戦の刻【OP-16】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "OP16-117",
       "name": "Black Hole",
+      "names": {
+        "en": "Black Hole",
+        "ja": "闇穴道"
+      },
       "category": "Event",
       "cost": 2,
       "colors": [
@@ -7877,12 +10310,29 @@
               "category": "event"
             }
           ]
+        },
+        {
+          "id": "OP16-117~ja",
+          "language": "ja",
+          "set": "OP16",
+          "rarity": "C",
+          "block": "5",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP16-117.png",
+          "cardSet": "ブースターパック 決戦の刻【OP-16】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP16-118",
       "name": "Portgas.D.Ace",
+      "names": {
+        "en": "Portgas.D.Ace",
+        "ja": "ポートガス・Ｄ・エース"
+      },
       "category": "Character",
       "cost": 5,
       "power": 6000,
@@ -7945,12 +10395,42 @@
             "alternate_art"
           ],
           "artist": "Makitoshi"
+        },
+        {
+          "id": "OP16-118~ja",
+          "language": "ja",
+          "set": "OP16",
+          "rarity": "SEC",
+          "block": "5",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP16-118.png",
+          "cardSet": "ブースターパック 決戦の刻【OP-16】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP16-118_p1~ja",
+          "language": "ja",
+          "set": "OP16",
+          "rarity": "SEC",
+          "block": "5",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP16-118_p1.png",
+          "cardSet": "ブースターパック 決戦の刻【OP-16】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "OP16-119",
       "name": "Marshall.D.Teach",
+      "names": {
+        "en": "Marshall.D.Teach",
+        "ja": "マーシャル・Ｄ・ティーチ"
+      },
       "category": "Character",
       "cost": 8,
       "power": 10000,
@@ -8013,6 +10493,32 @@
             "alternate_art"
           ],
           "artist": "AKIRA EGAWA"
+        },
+        {
+          "id": "OP16-119~ja",
+          "language": "ja",
+          "set": "OP16",
+          "rarity": "SEC",
+          "block": "5",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP16-119.png",
+          "cardSet": "ブースターパック 決戦の刻【OP-16】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP16-119_p1~ja",
+          "language": "ja",
+          "set": "OP16",
+          "rarity": "SEC",
+          "block": "5",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP16-119_p1.png",
+          "cardSet": "ブースターパック 決戦の刻【OP-16】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     }

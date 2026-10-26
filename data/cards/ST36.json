@@ -3,6 +3,10 @@
     {
       "number": "ST36-001",
       "name": "Cavendish",
+      "names": {
+        "en": "Cavendish",
+        "ja": "キャベンディッシュ"
+      },
       "category": "Character",
       "cost": 3,
       "power": 3000,
@@ -41,12 +45,29 @@
             "distance": 9
           },
           "artist": "sho"
+        },
+        {
+          "id": "ST36-001~ja",
+          "language": "ja",
+          "set": "ST36",
+          "rarity": "C",
+          "block": "5",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/ST36-001.png",
+          "cardSet": "スタートデッキ 黄 ユースタス・キッド【ST-36】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "ST36-002",
       "name": "Killer",
+      "names": {
+        "en": "Killer",
+        "ja": "キラー"
+      },
       "category": "Character",
       "cost": 4,
       "power": 6000,
@@ -83,12 +104,29 @@
             "distance": 6
           },
           "artist": "Ryuda"
+        },
+        {
+          "id": "ST36-002~ja",
+          "language": "ja",
+          "set": "ST36",
+          "rarity": "SR",
+          "block": "5",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/ST36-002.png",
+          "cardSet": "スタートデッキ 黄 ユースタス・キッド【ST-36】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "ST36-003",
       "name": "Scratchmen Apoo",
+      "names": {
+        "en": "Scratchmen Apoo",
+        "ja": "スクラッチメン・アプー"
+      },
       "category": "Character",
       "cost": 4,
       "power": 4000,
@@ -126,12 +164,29 @@
             "distance": 5
           },
           "artist": "kankurou"
+        },
+        {
+          "id": "ST36-003~ja",
+          "language": "ja",
+          "set": "ST36",
+          "rarity": "C",
+          "block": "5",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/ST36-003.png",
+          "cardSet": "スタートデッキ 黄 ユースタス・キッド【ST-36】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "ST36-004",
       "name": "Bartolomeo",
+      "names": {
+        "en": "Bartolomeo",
+        "ja": "バルトロメオ"
+      },
       "category": "Character",
       "cost": 1,
       "power": 2000,
@@ -170,12 +225,29 @@
             "distance": 4
           },
           "artist": "Koushi Rokushiro"
+        },
+        {
+          "id": "ST36-004~ja",
+          "language": "ja",
+          "set": "ST36",
+          "rarity": "C",
+          "block": "5",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/ST36-004.png",
+          "cardSet": "スタートデッキ 黄 ユースタス・キッド【ST-36】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "ST36-005",
       "name": "Eustass\"Captain\"Kid",
+      "names": {
+        "en": "Eustass\"Captain\"Kid",
+        "ja": "ユースタス・キッド"
+      },
       "category": "Character",
       "cost": 6,
       "power": 7000,
@@ -212,6 +284,19 @@
             "distance": 4
           },
           "artist": "Matsumoto Akira"
+        },
+        {
+          "id": "ST36-005~ja",
+          "language": "ja",
+          "set": "ST36",
+          "rarity": "SR",
+          "block": "5",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/ST36-005.png",
+          "cardSet": "スタートデッキ 黄 ユースタス・キッド【ST-36】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     }

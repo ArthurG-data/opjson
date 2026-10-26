@@ -55,7 +55,7 @@ def main() -> None:
     for (kind, place), n in sorted(tally.items()):
         print(f"{kind:7} {place:32} {n:6}")
 
-    bandai = [p for p in flat["printings"].values() if p["source"] == "bandai"]
+    bandai = [p for p in flat["printings"].values() if p["source"] == "bandai" and opjson.language(p) == "en"]
     unsold = [p["id"] for p in bandai if not p.get("identifiers", {}).get("tcgplayerProductIds")]
     print(f"\nBandai printings: {len(bandai)}, without a TCGplayer product: {len(unsold)}")
     by_set = collections.Counter(flat["printings"][i]["set"] for i in unsold)

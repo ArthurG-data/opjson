@@ -3,6 +3,10 @@
     {
       "number": "OP12-001",
       "name": "Silvers Rayleigh",
+      "names": {
+        "en": "Silvers Rayleigh",
+        "ja": "シルバーズ・レイリー"
+      },
       "category": "Leader",
       "power": 5000,
       "life": 5,
@@ -64,12 +68,42 @@
             "alternate_art"
           ],
           "artist": "Anderson"
+        },
+        {
+          "id": "OP12-001~ja",
+          "language": "ja",
+          "set": "OP12",
+          "rarity": "L",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP12-001.png",
+          "cardSet": "師弟の絆【OP-12】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
+        },
+        {
+          "id": "OP12-001_p1~ja",
+          "language": "ja",
+          "set": "OP12",
+          "rarity": "L",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP12-001_p1.png",
+          "cardSet": "師弟の絆【OP-12】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "OP12-002",
       "name": "Edward.Newgate",
+      "names": {
+        "en": "Edward.Newgate",
+        "ja": "エドワード・ニューゲート"
+      },
       "category": "Character",
       "cost": 5,
       "power": 6000,
@@ -154,12 +188,29 @@
           "finishes": [
             "nonfoil"
           ]
+        },
+        {
+          "id": "OP12-002~ja",
+          "language": "ja",
+          "set": "OP12",
+          "rarity": "UC",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP12-002.png",
+          "cardSet": "師弟の絆【OP-12】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP12-003",
       "name": "Crocus",
+      "names": {
+        "en": "Crocus",
+        "ja": "クロッカス"
+      },
       "category": "Character",
       "cost": 2,
       "power": 3000,
@@ -224,12 +275,29 @@
             }
           ],
           "artist": "Tanaka Kenichi"
+        },
+        {
+          "id": "OP12-003~ja",
+          "language": "ja",
+          "set": "OP12",
+          "rarity": "UC",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP12-003.png",
+          "cardSet": "師弟の絆【OP-12】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP12-004",
       "name": "Kouzuki Oden",
+      "names": {
+        "en": "Kouzuki Oden",
+        "ja": "光月おでん"
+      },
       "category": "Character",
       "cost": 2,
       "power": 3000,
@@ -296,12 +364,29 @@
             }
           ],
           "artist": "Hatori Kyoka"
+        },
+        {
+          "id": "OP12-004~ja",
+          "language": "ja",
+          "set": "OP12",
+          "rarity": "UC",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP12-004.png",
+          "cardSet": "師弟の絆【OP-12】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP12-005",
       "name": "Shiki",
+      "names": {
+        "en": "Shiki",
+        "ja": "シキ"
+      },
       "category": "Character",
       "cost": 8,
       "power": 10000,
@@ -367,12 +452,29 @@
             }
           ],
           "artist": "UGUME"
+        },
+        {
+          "id": "OP12-005~ja",
+          "language": "ja",
+          "set": "OP12",
+          "rarity": "C",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP12-005.png",
+          "cardSet": "師弟の絆【OP-12】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP12-006",
       "name": "Shakuyaku",
+      "names": {
+        "en": "Shakuyaku",
+        "ja": "シャクヤク"
+      },
       "category": "Character",
       "cost": 1,
       "power": 2000,
@@ -438,12 +540,42 @@
             }
           ],
           "artist": "phima"
+        },
+        {
+          "id": "OP12-006~ja",
+          "language": "ja",
+          "set": "OP12",
+          "rarity": "R",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP12-006.png",
+          "cardSet": "師弟の絆【OP-12】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP12-006_p1~ja",
+          "language": "ja",
+          "set": "OTHER",
+          "rarity": "R",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP12-006_p1.png",
+          "cardSet": "プレミアムカードコレクション - ベストセレクション vol.5 -",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "OP12-007",
       "name": "Shanks",
+      "names": {
+        "en": "Shanks",
+        "ja": "シャンクス"
+      },
       "category": "Character",
       "cost": 2,
       "power": 2000,
@@ -508,12 +640,29 @@
             }
           ],
           "artist": "Sunohara"
+        },
+        {
+          "id": "OP12-007~ja",
+          "language": "ja",
+          "set": "OP12",
+          "rarity": "C",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP12-007.png",
+          "cardSet": "師弟の絆【OP-12】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP12-008",
       "name": "Shanks",
+      "names": {
+        "en": "Shanks",
+        "ja": "シャンクス"
+      },
       "category": "Character",
       "cost": 4,
       "power": 6000,
@@ -576,12 +725,42 @@
             "alternate_art"
           ],
           "artist": "tatsuya"
+        },
+        {
+          "id": "OP12-008~ja",
+          "language": "ja",
+          "set": "OP12",
+          "rarity": "R",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP12-008.png",
+          "cardSet": "師弟の絆【OP-12】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP12-008_p1~ja",
+          "language": "ja",
+          "set": "OP12",
+          "rarity": "R",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP12-008_p1.png",
+          "cardSet": "師弟の絆【OP-12】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "OP12-009",
       "name": "Jinbe",
+      "names": {
+        "en": "Jinbe",
+        "ja": "ジンベエ"
+      },
       "category": "Character",
       "cost": 3,
       "power": 4000,
@@ -619,12 +798,29 @@
             "distance": 3
           },
           "artist": "Aidle Co. Ltd."
+        },
+        {
+          "id": "OP12-009~ja",
+          "language": "ja",
+          "set": "OP12",
+          "rarity": "R",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP12-009.png",
+          "cardSet": "師弟の絆【OP-12】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "OP12-010",
       "name": "Douglas Bullet",
+      "names": {
+        "en": "Douglas Bullet",
+        "ja": "ダグラス・バレット"
+      },
       "category": "Character",
       "cost": 6,
       "power": 7000,
@@ -691,12 +887,29 @@
             }
           ],
           "artist": "Anderson"
+        },
+        {
+          "id": "OP12-010~ja",
+          "language": "ja",
+          "set": "OP12",
+          "rarity": "UC",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP12-010.png",
+          "cardSet": "師弟の絆【OP-12】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP12-011",
       "name": "Duval",
+      "names": {
+        "en": "Duval",
+        "ja": "デュバル"
+      },
       "category": "Character",
       "cost": 5,
       "power": 7000,
@@ -761,12 +974,29 @@
             }
           ],
           "artist": "Aidle Co. Ltd."
+        },
+        {
+          "id": "OP12-011~ja",
+          "language": "ja",
+          "set": "OP12",
+          "rarity": "C",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP12-011.png",
+          "cardSet": "師弟の絆【OP-12】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP12-012",
       "name": "Buggy",
+      "names": {
+        "en": "Buggy",
+        "ja": "バギー"
+      },
       "category": "Character",
       "cost": 2,
       "power": 2000,
@@ -831,12 +1061,29 @@
             }
           ],
           "artist": "Haru Miyajima"
+        },
+        {
+          "id": "OP12-012~ja",
+          "language": "ja",
+          "set": "OP12",
+          "rarity": "C",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP12-012.png",
+          "cardSet": "師弟の絆【OP-12】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP12-013",
       "name": "Hatchan",
+      "names": {
+        "en": "Hatchan",
+        "ja": "はっちゃん"
+      },
       "category": "Character",
       "cost": 1,
       "power": 2000,
@@ -902,12 +1149,29 @@
             }
           ],
           "artist": "S-KINOKO"
+        },
+        {
+          "id": "OP12-013~ja",
+          "language": "ja",
+          "set": "OP12",
+          "rarity": "C",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP12-013.png",
+          "cardSet": "師弟の絆【OP-12】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP12-014",
       "name": "Boa Hancock",
+      "names": {
+        "en": "Boa Hancock",
+        "ja": "ボア・ハンコック"
+      },
       "category": "Character",
       "cost": 2,
       "power": 3000,
@@ -996,12 +1260,55 @@
             "sp"
           ],
           "artist": "Sunohara"
+        },
+        {
+          "id": "OP12-014~ja",
+          "language": "ja",
+          "set": "OP12",
+          "rarity": "SR",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP12-014.png",
+          "cardSet": "師弟の絆【OP-12】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP12-014_p1~ja",
+          "language": "ja",
+          "set": "OP12",
+          "rarity": "SR",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP12-014_p1.png",
+          "cardSet": "師弟の絆【OP-12】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP12-014_p2~ja",
+          "language": "ja",
+          "set": "OP15",
+          "rarity": "SP CARD",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP12-014_p2.png",
+          "cardSet": "ブースターパック 神の島の冒険【OP-15】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "OP12-015",
       "name": "Monkey.D.Luffy",
+      "names": {
+        "en": "Monkey.D.Luffy",
+        "ja": "モンキー・Ｄ・ルフィ"
+      },
       "category": "Character",
       "cost": 4,
       "power": 4000,
@@ -1094,12 +1401,42 @@
             }
           ],
           "artist": "otton"
+        },
+        {
+          "id": "OP12-015~ja",
+          "language": "ja",
+          "set": "OP12",
+          "rarity": "SR",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP12-015.png",
+          "cardSet": "師弟の絆【OP-12】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP12-015_p1~ja",
+          "language": "ja",
+          "set": "OP12",
+          "rarity": "SR",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP12-015_p1.png",
+          "cardSet": "師弟の絆【OP-12】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "OP12-016",
       "name": "To Never Doubt--That Is Power!",
+      "names": {
+        "en": "To Never Doubt--That Is Power!",
+        "ja": "“疑わない事”それが“強さ”だ!!!"
+      },
       "category": "Event",
       "colors": [
         "Red"
@@ -1156,12 +1493,29 @@
               "category": "event"
             }
           ]
+        },
+        {
+          "id": "OP12-016~ja",
+          "language": "ja",
+          "set": "OP12",
+          "rarity": "C",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP12-016.png",
+          "cardSet": "師弟の絆【OP-12】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP12-017",
       "name": "Color of Observation Haki",
+      "names": {
+        "en": "Color of Observation Haki",
+        "ja": "見聞色の覇気"
+      },
       "category": "Event",
       "colors": [
         "Red"
@@ -1244,12 +1598,29 @@
               "category": "program"
             }
           ]
+        },
+        {
+          "id": "OP12-017~ja",
+          "language": "ja",
+          "set": "OP12",
+          "rarity": "UC",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP12-017.png",
+          "cardSet": "師弟の絆【OP-12】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP12-018",
       "name": "Color of the Supreme King Haki",
+      "names": {
+        "en": "Color of the Supreme King Haki",
+        "ja": "覇王色の覇気"
+      },
       "category": "Event",
       "colors": [
         "Red"
@@ -1305,12 +1676,29 @@
               "category": "retail"
             }
           ]
+        },
+        {
+          "id": "OP12-018~ja",
+          "language": "ja",
+          "set": "OP12",
+          "rarity": "R",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP12-018.png",
+          "cardSet": "師弟の絆【OP-12】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "OP12-019",
       "name": "Color of Arms Haki",
+      "names": {
+        "en": "Color of Arms Haki",
+        "ja": "武装色の覇気"
+      },
       "category": "Event",
       "colors": [
         "Red"
@@ -1367,12 +1755,29 @@
               "category": "event"
             }
           ]
+        },
+        {
+          "id": "OP12-019~ja",
+          "language": "ja",
+          "set": "OP12",
+          "rarity": "C",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP12-019.png",
+          "cardSet": "師弟の絆【OP-12】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP12-020",
       "name": "Roronoa Zoro",
+      "names": {
+        "en": "Roronoa Zoro",
+        "ja": "ロロノア・ゾロ"
+      },
       "category": "Leader",
       "power": 5000,
       "life": 5,
@@ -1542,12 +1947,72 @@
               "category": "retail"
             }
           ]
+        },
+        {
+          "id": "OP12-020~ja",
+          "language": "ja",
+          "set": "OP12",
+          "rarity": "L",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP12-020.png",
+          "cardSet": "師弟の絆【OP-12】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
+        },
+        {
+          "id": "OP12-020_p1~ja",
+          "language": "ja",
+          "set": "OP12",
+          "rarity": "L",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP12-020_p1.png",
+          "cardSet": "師弟の絆【OP-12】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP12-020_p2~ja",
+          "language": "ja",
+          "set": "OTHER",
+          "rarity": "L",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP12-020_p2.png",
+          "cardSet": "オフィシャルプレイマット リミテッドエディション vol.4",
+          "source": "bandai"
+        },
+        {
+          "id": "OP12-020_p3~ja",
+          "language": "ja",
+          "set": "P",
+          "rarity": "L",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP12-020_p3.png",
+          "cardSet": "フラッグシップバトル2026 1月 優勝記念品",
+          "source": "bandai"
+        },
+        {
+          "id": "OP12-020_p4~ja",
+          "language": "ja",
+          "set": "ST32",
+          "rarity": "L",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP12-020_p4.png",
+          "cardSet": "スタートデッキ 緑 ロロノア・ゾロ【ST-32】",
+          "source": "bandai"
         }
       ]
     },
     {
       "number": "OP12-021",
       "name": "Ipponmatsu",
+      "names": {
+        "en": "Ipponmatsu",
+        "ja": "いっぽんマツ"
+      },
       "category": "Character",
       "cost": 3,
       "counter": 1000,
@@ -1611,12 +2076,29 @@
             }
           ],
           "artist": "Tanaka Kenichi"
+        },
+        {
+          "id": "OP12-021~ja",
+          "language": "ja",
+          "set": "OP12",
+          "rarity": "C",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP12-021.png",
+          "cardSet": "師弟の絆【OP-12】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP12-022",
       "name": "Inuarashi",
+      "names": {
+        "en": "Inuarashi",
+        "ja": "イヌアラシ"
+      },
       "category": "Character",
       "cost": 6,
       "power": 7000,
@@ -1683,12 +2165,29 @@
             }
           ],
           "artist": "Katsuo Tadano"
+        },
+        {
+          "id": "OP12-022~ja",
+          "language": "ja",
+          "set": "OP12",
+          "rarity": "C",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP12-022.png",
+          "cardSet": "師弟の絆【OP-12】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP12-023",
       "name": "Kawamatsu",
+      "names": {
+        "en": "Kawamatsu",
+        "ja": "河松"
+      },
       "category": "Character",
       "cost": 5,
       "power": 6000,
@@ -1789,12 +2288,42 @@
           "finishes": [
             "nonfoil"
           ]
+        },
+        {
+          "id": "OP12-023~ja",
+          "language": "ja",
+          "set": "OP12",
+          "rarity": "UC",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP12-023.png",
+          "cardSet": "師弟の絆【OP-12】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
+        },
+        {
+          "id": "OP12-023_r1~ja",
+          "language": "ja",
+          "set": "ST32",
+          "rarity": "UC",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP12-023_r1.png",
+          "cardSet": "スタートデッキ 緑 ロロノア・ゾロ【ST-32】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP12-024",
       "name": "Gyukimaru",
+      "names": {
+        "en": "Gyukimaru",
+        "ja": "牛鬼丸"
+      },
       "category": "Character",
       "cost": 4,
       "power": 5000,
@@ -1860,12 +2389,29 @@
             }
           ],
           "artist": "nukadokomogera"
+        },
+        {
+          "id": "OP12-024~ja",
+          "language": "ja",
+          "set": "OP12",
+          "rarity": "C",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP12-024.png",
+          "cardSet": "師弟の絆【OP-12】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP12-025",
       "name": "Kin'emon",
+      "names": {
+        "en": "Kin'emon",
+        "ja": "錦えもん"
+      },
       "category": "Character",
       "cost": 6,
       "power": 8000,
@@ -1951,12 +2497,29 @@
           "finishes": [
             "nonfoil"
           ]
+        },
+        {
+          "id": "OP12-025~ja",
+          "language": "ja",
+          "set": "OP12",
+          "rarity": "C",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP12-025.png",
+          "cardSet": "師弟の絆【OP-12】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP12-026",
       "name": "Kuina",
+      "names": {
+        "en": "Kuina",
+        "ja": "くいな"
+      },
       "category": "Character",
       "cost": 4,
       "power": 1000,
@@ -2072,12 +2635,52 @@
               "category": "retail"
             }
           ]
+        },
+        {
+          "id": "OP12-026~ja",
+          "language": "ja",
+          "set": "OP12",
+          "rarity": "UC",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP12-026.png",
+          "cardSet": "師弟の絆【OP-12】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
+        },
+        {
+          "id": "OP12-026_p1~ja",
+          "language": "ja",
+          "set": "OTHER",
+          "rarity": "UC",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP12-026_p1.png",
+          "cardSet": "プレミアムカードコレクション - ベストセレクション vol.5 -",
+          "source": "bandai"
+        },
+        {
+          "id": "OP12-026_r1~ja",
+          "language": "ja",
+          "set": "ST32",
+          "rarity": "UC",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP12-026_r1.png",
+          "cardSet": "スタートデッキ 緑 ロロノア・ゾロ【ST-32】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP12-027",
       "name": "Koushirou",
+      "names": {
+        "en": "Koushirou",
+        "ja": "コウシロウ"
+      },
       "category": "Character",
       "cost": 2,
       "power": 1000,
@@ -2203,12 +2806,42 @@
               "category": "program"
             }
           ]
+        },
+        {
+          "id": "OP12-027~ja",
+          "language": "ja",
+          "set": "OP12",
+          "rarity": "UC",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP12-027.png",
+          "cardSet": "師弟の絆【OP-12】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
+        },
+        {
+          "id": "OP12-027_r1~ja",
+          "language": "ja",
+          "set": "ST32",
+          "rarity": "UC",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP12-027_r1.png",
+          "cardSet": "スタートデッキ 緑 ロロノア・ゾロ【ST-32】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP12-028",
       "name": "Kouzuki Hiyori",
+      "names": {
+        "en": "Kouzuki Hiyori",
+        "ja": "光月日和"
+      },
       "category": "Character",
       "cost": 1,
       "counter": 1000,
@@ -2375,12 +3008,68 @@
               "category": "event"
             }
           ]
+        },
+        {
+          "id": "OP12-028~ja",
+          "language": "ja",
+          "set": "OP12",
+          "rarity": "R",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP12-028.png",
+          "cardSet": "師弟の絆【OP-12】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP12-028_p1~ja",
+          "language": "ja",
+          "set": "P",
+          "rarity": "R",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP12-028_p1.png",
+          "cardSet": "スタンダードバトルパック Vol.13",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
+        },
+        {
+          "id": "OP12-028_p2~ja",
+          "language": "ja",
+          "set": "P",
+          "rarity": "R",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP12-028_p2.png",
+          "cardSet": "スタンダードバトル 2025年9月~11月優勝記念品",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP12-028_r1~ja",
+          "language": "ja",
+          "set": "ST32",
+          "rarity": "R",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP12-028_r1.png",
+          "cardSet": "スタートデッキ 緑 ロロノア・ゾロ【ST-32】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP12-029",
       "name": "Shimotsuki Kouzaburou",
+      "names": {
+        "en": "Shimotsuki Kouzaburou",
+        "ja": "霜月コウ三郎"
+      },
       "category": "Character",
       "cost": 3,
       "power": 2000,
@@ -2467,12 +3156,29 @@
           "finishes": [
             "nonfoil"
           ]
+        },
+        {
+          "id": "OP12-029~ja",
+          "language": "ja",
+          "set": "OP12",
+          "rarity": "UC",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP12-029.png",
+          "cardSet": "師弟の絆【OP-12】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP12-030",
       "name": "Dracule Mihawk",
+      "names": {
+        "en": "Dracule Mihawk",
+        "ja": "ジュラキュール・ミホーク"
+      },
       "category": "Character",
       "cost": 8,
       "power": 8000,
@@ -2561,12 +3267,55 @@
             "sp"
           ],
           "artist": "Sunohara"
+        },
+        {
+          "id": "OP12-030~ja",
+          "language": "ja",
+          "set": "OP12",
+          "rarity": "SR",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP12-030.png",
+          "cardSet": "師弟の絆【OP-12】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP12-030_p1~ja",
+          "language": "ja",
+          "set": "OP12",
+          "rarity": "SR",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP12-030_p1.png",
+          "cardSet": "師弟の絆【OP-12】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP12-030_p2~ja",
+          "language": "ja",
+          "set": "OP14",
+          "rarity": "SP CARD",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP12-030_p2.png",
+          "cardSet": "ブースターパック 蒼海の七傑【OP-14】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "OP12-031",
       "name": "Tashigi",
+      "names": {
+        "en": "Tashigi",
+        "ja": "たしぎ"
+      },
       "category": "Character",
       "cost": 5,
       "power": 7000,
@@ -2726,12 +3475,68 @@
               "category": "championship"
             }
           ]
+        },
+        {
+          "id": "OP12-031~ja",
+          "language": "ja",
+          "set": "OP12",
+          "rarity": "R",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP12-031.png",
+          "cardSet": "師弟の絆【OP-12】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP12-031_p1~ja",
+          "language": "ja",
+          "set": "OP12",
+          "rarity": "R",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP12-031_p1.png",
+          "cardSet": "師弟の絆【OP-12】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP12-031_p2~ja",
+          "language": "ja",
+          "set": "P",
+          "rarity": "R",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP12-031_p2.png",
+          "cardSet": "フラッグシップバトル2025 10月ベスト8記念品",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP12-031_r1~ja",
+          "language": "ja",
+          "set": "ST32",
+          "rarity": "R",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP12-031_r1.png",
+          "cardSet": "スタートデッキ 緑 ロロノア・ゾロ【ST-32】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP12-032",
       "name": "Nekomamushi",
+      "names": {
+        "en": "Nekomamushi",
+        "ja": "ネコマムシ"
+      },
       "category": "Character",
       "cost": 6,
       "power": 7000,
@@ -2818,12 +3623,29 @@
           "finishes": [
             "nonfoil"
           ]
+        },
+        {
+          "id": "OP12-032~ja",
+          "language": "ja",
+          "set": "OP12",
+          "rarity": "UC",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP12-032.png",
+          "cardSet": "師弟の絆【OP-12】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP12-033",
       "name": "Helmeppo",
+      "names": {
+        "en": "Helmeppo",
+        "ja": "ヘルメッポ"
+      },
       "category": "Character",
       "cost": 4,
       "power": 5000,
@@ -2888,12 +3710,29 @@
             }
           ],
           "artist": "S-KINOKO"
+        },
+        {
+          "id": "OP12-033~ja",
+          "language": "ja",
+          "set": "OP12",
+          "rarity": "C",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP12-033.png",
+          "cardSet": "師弟の絆【OP-12】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP12-034",
       "name": "Perona",
+      "names": {
+        "en": "Perona",
+        "ja": "ペローナ"
+      },
       "category": "Character",
       "cost": 1,
       "power": 2000,
@@ -2990,12 +3829,55 @@
             }
           ],
           "artist": "Bashikou"
+        },
+        {
+          "id": "OP12-034~ja",
+          "language": "ja",
+          "set": "OP12",
+          "rarity": "SR",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP12-034.png",
+          "cardSet": "師弟の絆【OP-12】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP12-034_p1~ja",
+          "language": "ja",
+          "set": "OP12",
+          "rarity": "SR",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP12-034_p1.png",
+          "cardSet": "師弟の絆【OP-12】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP12-034_p2~ja",
+          "language": "ja",
+          "set": "OTHER",
+          "rarity": "SR",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP12-034_p2.png",
+          "cardSet": "ONE PIECE カードゲーム 3rd ANNIVERSARY SET",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "OP12-035",
       "name": "Morgan",
+      "names": {
+        "en": "Morgan",
+        "ja": "モーガン"
+      },
       "category": "Character",
       "cost": 3,
       "power": 5000,
@@ -3061,12 +3943,29 @@
             }
           ],
           "artist": "Nakamaru"
+        },
+        {
+          "id": "OP12-035~ja",
+          "language": "ja",
+          "set": "OP12",
+          "rarity": "C",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP12-035.png",
+          "cardSet": "師弟の絆【OP-12】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP12-036",
       "name": "Roronoa Zoro",
+      "names": {
+        "en": "Roronoa Zoro",
+        "ja": "ロロノア・ゾロ"
+      },
       "category": "Character",
       "cost": 4,
       "power": 5000,
@@ -3152,12 +4051,39 @@
           "finishes": [
             "nonfoil"
           ]
+        },
+        {
+          "id": "OP12-036~ja",
+          "language": "ja",
+          "set": "OP12",
+          "rarity": "C",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP12-036.png",
+          "cardSet": "師弟の絆【OP-12】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
+        },
+        {
+          "id": "OP12-036_p1~ja",
+          "language": "ja",
+          "set": "P",
+          "rarity": "C",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP12-036_p1.png",
+          "cardSet": "プロモーションパックVol.8",
+          "source": "bandai"
         }
       ]
     },
     {
       "number": "OP12-037",
       "name": "Demon Aura Nine Sword Style Asura Blades Drawn Dead Man's Game",
+      "names": {
+        "en": "Demon Aura Nine Sword Style Asura Blades Drawn Dead Man's Game",
+        "ja": "鬼気 九刀流 阿修羅 抜剣 亡者戯"
+      },
       "category": "Event",
       "cost": 1,
       "colors": [
@@ -3269,12 +4195,42 @@
               "category": "placement"
             }
           ]
+        },
+        {
+          "id": "OP12-037~ja",
+          "language": "ja",
+          "set": "OP12",
+          "rarity": "R",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP12-037.png",
+          "cardSet": "師弟の絆【OP-12】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP12-037_p1~ja",
+          "language": "ja",
+          "set": "OP12",
+          "rarity": "R",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP12-037_p1.png",
+          "cardSet": "師弟の絆【OP-12】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "OP12-038",
       "name": "Two-Sword Style Rashomon",
+      "names": {
+        "en": "Two-Sword Style Rashomon",
+        "ja": "二刀流 居合 羅生門"
+      },
       "category": "Event",
       "cost": 1,
       "colors": [
@@ -3332,12 +4288,29 @@
               "category": "event"
             }
           ]
+        },
+        {
+          "id": "OP12-038~ja",
+          "language": "ja",
+          "set": "OP12",
+          "rarity": "C",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP12-038.png",
+          "cardSet": "師弟の絆【OP-12】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP12-039",
       "name": "Luffy Is the Man Who Will Become the King of Pirates!!!",
+      "names": {
+        "en": "Luffy Is the Man Who Will Become the King of Pirates!!!",
+        "ja": "ルフィは海賊王になる男だ!!!"
+      },
       "category": "Event",
       "cost": 3,
       "colors": [
@@ -3442,12 +4415,49 @@
           "finishes": [
             "nonfoil"
           ]
+        },
+        {
+          "id": "OP12-039~ja",
+          "language": "ja",
+          "set": "OP12",
+          "rarity": "R",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP12-039.png",
+          "cardSet": "師弟の絆【OP-12】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP12-039_p1~ja",
+          "language": "ja",
+          "set": "ST32",
+          "rarity": "R",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP12-039_p1.png",
+          "cardSet": "スタートデッキ 緑 ロロノア・ゾロ【ST-32】",
+          "source": "bandai"
+        },
+        {
+          "id": "OP12-039_p2~ja",
+          "language": "ja",
+          "set": "OTHER",
+          "rarity": "R",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP12-039_p2.png",
+          "cardSet": "ONE PIECE カードゲーム 3rd ANNIVERSARY SET",
+          "source": "bandai"
         }
       ]
     },
     {
       "number": "OP12-040",
       "name": "Kuzan",
+      "names": {
+        "en": "Kuzan",
+        "ja": "クザン"
+      },
       "category": "Leader",
       "power": 5000,
       "life": 5,
@@ -3532,12 +4542,55 @@
             "distance": 7
           },
           "artist": "Bashikou"
+        },
+        {
+          "id": "OP12-040~ja",
+          "language": "ja",
+          "set": "OP12",
+          "rarity": "L",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP12-040.png",
+          "cardSet": "師弟の絆【OP-12】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
+        },
+        {
+          "id": "OP12-040_p1~ja",
+          "language": "ja",
+          "set": "OP12",
+          "rarity": "L",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP12-040_p1.png",
+          "cardSet": "師弟の絆【OP-12】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP12-040_p2~ja",
+          "language": "ja",
+          "set": "ST33",
+          "rarity": "L",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP12-040_p2.png",
+          "cardSet": "スタートデッキ 青 クザン【ST-33】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "OP12-041",
       "name": "Sanji",
+      "names": {
+        "en": "Sanji",
+        "ja": "サンジ"
+      },
       "category": "Leader",
       "power": 5000,
       "life": 4,
@@ -3601,12 +4654,42 @@
             "alternate_art"
           ],
           "artist": "tatsuya"
+        },
+        {
+          "id": "OP12-041~ja",
+          "language": "ja",
+          "set": "OP12",
+          "rarity": "L",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP12-041.png",
+          "cardSet": "師弟の絆【OP-12】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
+        },
+        {
+          "id": "OP12-041_p1~ja",
+          "language": "ja",
+          "set": "OP12",
+          "rarity": "L",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP12-041_p1.png",
+          "cardSet": "師弟の絆【OP-12】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "OP12-042",
       "name": "Alvida",
+      "names": {
+        "en": "Alvida",
+        "ja": "アルビダ"
+      },
       "category": "Character",
       "cost": 4,
       "power": 5000,
@@ -3671,12 +4754,29 @@
             }
           ],
           "artist": "Haru Miyajima"
+        },
+        {
+          "id": "OP12-042~ja",
+          "language": "ja",
+          "set": "OP12",
+          "rarity": "C",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP12-042.png",
+          "cardSet": "師弟の絆【OP-12】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP12-043",
       "name": "Kuzan",
+      "names": {
+        "en": "Kuzan",
+        "ja": "クザン"
+      },
       "category": "Character",
       "cost": 6,
       "power": 8000,
@@ -3762,12 +4862,55 @@
           },
           "artOf": "OP12-043",
           "artist": "Wong Kok Wai"
+        },
+        {
+          "id": "OP12-043~ja",
+          "language": "ja",
+          "set": "OP12",
+          "rarity": "R",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP12-043.png",
+          "cardSet": "師弟の絆【OP-12】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP12-043_p1~ja",
+          "language": "ja",
+          "set": "OP12",
+          "rarity": "R",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP12-043_p1.png",
+          "cardSet": "師弟の絆【OP-12】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP12-043_r1~ja",
+          "language": "ja",
+          "set": "ST33",
+          "rarity": "R",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP12-043_r1.png",
+          "cardSet": "スタートデッキ 青 クザン【ST-33】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP12-044",
       "name": "Sakazuki",
+      "names": {
+        "en": "Sakazuki",
+        "ja": "サカズキ"
+      },
       "category": "Character",
       "cost": 7,
       "power": 8000,
@@ -3803,12 +4946,29 @@
             "distance": 4
           },
           "artist": "ASAKI KURODA"
+        },
+        {
+          "id": "OP12-044~ja",
+          "language": "ja",
+          "set": "OP12",
+          "rarity": "R",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP12-044.png",
+          "cardSet": "師弟の絆【OP-12】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "OP12-045",
       "name": "Jango",
+      "names": {
+        "en": "Jango",
+        "ja": "ジャンゴ"
+      },
       "category": "Character",
       "cost": 6,
       "power": 8000,
@@ -3887,12 +5047,42 @@
             }
           ],
           "artist": "Studio Vigor Co. Ltd"
+        },
+        {
+          "id": "OP12-045~ja",
+          "language": "ja",
+          "set": "OP12",
+          "rarity": "C",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP12-045.png",
+          "cardSet": "師弟の絆【OP-12】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
+        },
+        {
+          "id": "OP12-045_r1~ja",
+          "language": "ja",
+          "set": "ST33",
+          "rarity": "C",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP12-045_r1.png",
+          "cardSet": "スタートデッキ 青 クザン【ST-33】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP12-046",
       "name": "Zephyr(Navy)",
+      "names": {
+        "en": "Zephyr(Navy)",
+        "ja": "ゼファー"
+      },
       "category": "Character",
       "cost": 5,
       "power": 5000,
@@ -3972,12 +5162,42 @@
             }
           ],
           "artist": "tasaka"
+        },
+        {
+          "id": "OP12-046~ja",
+          "language": "ja",
+          "set": "OP12",
+          "rarity": "C",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP12-046.png",
+          "cardSet": "師弟の絆【OP-12】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
+        },
+        {
+          "id": "OP12-046_r1~ja",
+          "language": "ja",
+          "set": "ST33",
+          "rarity": "C",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP12-046_r1.png",
+          "cardSet": "スタートデッキ 青 クザン【ST-33】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP12-047",
       "name": "Sengoku",
+      "names": {
+        "en": "Sengoku",
+        "ja": "センゴク"
+      },
       "category": "Character",
       "cost": 3,
       "power": 3000,
@@ -4036,12 +5256,42 @@
             "match": "image-only-candidate",
             "distance": 6
           }
+        },
+        {
+          "id": "OP12-047~ja",
+          "language": "ja",
+          "set": "OP12",
+          "rarity": "R",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP12-047.png",
+          "cardSet": "師弟の絆【OP-12】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP12-047_r1~ja",
+          "language": "ja",
+          "set": "ST33",
+          "rarity": "R",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP12-047_r1.png",
+          "cardSet": "スタートデッキ 青 クザン【ST-33】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP12-048",
       "name": "Donquixote Rosinante",
+      "names": {
+        "en": "Donquixote Rosinante",
+        "ja": "ドンキホーテ・ロシナンテ"
+      },
       "category": "Character",
       "cost": 1,
       "power": 1000,
@@ -4106,12 +5356,29 @@
             }
           ],
           "artist": "phima"
+        },
+        {
+          "id": "OP12-048~ja",
+          "language": "ja",
+          "set": "OP12",
+          "rarity": "C",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP12-048.png",
+          "cardSet": "師弟の絆【OP-12】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP12-049",
       "name": "Buggy",
+      "names": {
+        "en": "Buggy",
+        "ja": "バギー"
+      },
       "category": "Character",
       "cost": 6,
       "power": 7000,
@@ -4207,12 +5474,29 @@
               "category": "retail"
             }
           ]
+        },
+        {
+          "id": "OP12-049~ja",
+          "language": "ja",
+          "set": "OP12",
+          "rarity": "UC",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP12-049.png",
+          "cardSet": "師弟の絆【OP-12】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP12-050",
       "name": "Jaguar.D.Saul",
+      "names": {
+        "en": "Jaguar.D.Saul",
+        "ja": "ハグワール・Ｄ・サウロ"
+      },
       "category": "Character",
       "cost": 6,
       "power": 7000,
@@ -4293,12 +5577,42 @@
             }
           ],
           "artist": "Aidle Co. Ltd."
+        },
+        {
+          "id": "OP12-050~ja",
+          "language": "ja",
+          "set": "OP12",
+          "rarity": "UC",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP12-050.png",
+          "cardSet": "師弟の絆【OP-12】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
+        },
+        {
+          "id": "OP12-050_r1~ja",
+          "language": "ja",
+          "set": "ST33",
+          "rarity": "UC",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP12-050_r1.png",
+          "cardSet": "スタートデッキ 青 クザン【ST-33】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP12-051",
       "name": "Hina",
+      "names": {
+        "en": "Hina",
+        "ja": "ヒナ"
+      },
       "category": "Character",
       "cost": 3,
       "power": 3000,
@@ -4392,12 +5706,42 @@
             }
           ],
           "artist": "SHINRA AGENCY Co. Ltd."
+        },
+        {
+          "id": "OP12-051~ja",
+          "language": "ja",
+          "set": "OP12",
+          "rarity": "UC",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP12-051.png",
+          "cardSet": "師弟の絆【OP-12】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
+        },
+        {
+          "id": "OP12-051_p1~ja",
+          "language": "ja",
+          "set": "OTHER",
+          "rarity": "UC",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP12-051_p1.png",
+          "cardSet": "プレミアムカードコレクション - ベストセレクション vol.5 -",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "OP12-052",
       "name": "Fullbody",
+      "names": {
+        "en": "Fullbody",
+        "ja": "フルボディ"
+      },
       "category": "Character",
       "cost": 4,
       "power": 6000,
@@ -4476,12 +5820,42 @@
             }
           ],
           "artist": "KISUKE"
+        },
+        {
+          "id": "OP12-052~ja",
+          "language": "ja",
+          "set": "OP12",
+          "rarity": "C",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP12-052.png",
+          "cardSet": "師弟の絆【OP-12】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
+        },
+        {
+          "id": "OP12-052_r1~ja",
+          "language": "ja",
+          "set": "ST33",
+          "rarity": "C",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP12-052_r1.png",
+          "cardSet": "スタートデッキ 青 クザン【ST-33】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP12-053",
       "name": "Borsalino",
+      "names": {
+        "en": "Borsalino",
+        "ja": "ボルサリーノ"
+      },
       "category": "Character",
       "cost": 4,
       "power": 5000,
@@ -4518,12 +5892,29 @@
             "distance": 4
           },
           "artist": "Katsuo Tadano"
+        },
+        {
+          "id": "OP12-053~ja",
+          "language": "ja",
+          "set": "OP12",
+          "rarity": "R",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP12-053.png",
+          "cardSet": "師弟の絆【OP-12】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "OP12-054",
       "name": "Marshall.D.Teach",
+      "names": {
+        "en": "Marshall.D.Teach",
+        "ja": "マーシャル・Ｄ・ティーチ"
+      },
       "category": "Character",
       "cost": 1,
       "power": 2000,
@@ -4589,12 +5980,29 @@
             }
           ],
           "artist": "tasaka"
+        },
+        {
+          "id": "OP12-054~ja",
+          "language": "ja",
+          "set": "OP12",
+          "rarity": "C",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP12-054.png",
+          "cardSet": "師弟の絆【OP-12】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP12-055",
       "name": "Mohji & Cabaji",
+      "names": {
+        "en": "Mohji & Cabaji",
+        "ja": "モージ＆カバジ"
+      },
       "category": "Character",
       "cost": 5,
       "power": 6000,
@@ -4660,12 +6068,29 @@
             }
           ],
           "artist": "SHINRA AGENCY Co. Ltd."
+        },
+        {
+          "id": "OP12-055~ja",
+          "language": "ja",
+          "set": "OP12",
+          "rarity": "UC",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP12-055.png",
+          "cardSet": "師弟の絆【OP-12】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP12-056",
       "name": "Monkey.D.Garp",
+      "names": {
+        "en": "Monkey.D.Garp",
+        "ja": "モンキー・Ｄ・ガープ"
+      },
       "category": "Character",
       "cost": 8,
       "power": 8000,
@@ -4753,12 +6178,55 @@
             "sp"
           ],
           "artist": "Fo Ihara/INO Ltd."
+        },
+        {
+          "id": "OP12-056~ja",
+          "language": "ja",
+          "set": "OP12",
+          "rarity": "SR",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP12-056.png",
+          "cardSet": "師弟の絆【OP-12】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP12-056_p1~ja",
+          "language": "ja",
+          "set": "OP12",
+          "rarity": "SR",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP12-056_p1.png",
+          "cardSet": "師弟の絆【OP-12】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP12-056_p2~ja",
+          "language": "ja",
+          "set": "OP17",
+          "rarity": "SP CARD",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP12-056_p2.png",
+          "cardSet": "ブースターパック 世界最強の戦士【OP-17】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "OP12-057",
       "name": "Ice Block Pheasant Peck",
+      "names": {
+        "en": "Ice Block Pheasant Peck",
+        "ja": "アイス塊暴雉嘴"
+      },
       "category": "Event",
       "cost": 1,
       "colors": [
@@ -4829,12 +6297,42 @@
               "category": "event"
             }
           ]
+        },
+        {
+          "id": "OP12-057~ja",
+          "language": "ja",
+          "set": "OP12",
+          "rarity": "C",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP12-057.png",
+          "cardSet": "師弟の絆【OP-12】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
+        },
+        {
+          "id": "OP12-057_r1~ja",
+          "language": "ja",
+          "set": "ST33",
+          "rarity": "C",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP12-057_r1.png",
+          "cardSet": "スタートデッキ 青 クザン【ST-33】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP12-058",
       "name": "I Will Make Whitebeard the King of the Pirates",
+      "names": {
+        "en": "I Will Make Whitebeard the King of the Pirates",
+        "ja": "…おれは白ひげを王にする"
+      },
       "category": "Event",
       "cost": 9,
       "colors": [
@@ -4892,12 +6390,29 @@
               "category": "event"
             }
           ]
+        },
+        {
+          "id": "OP12-058~ja",
+          "language": "ja",
+          "set": "OP12",
+          "rarity": "C",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP12-058.png",
+          "cardSet": "師弟の絆【OP-12】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP12-059",
       "name": "Concasser",
+      "names": {
+        "en": "Concasser",
+        "ja": "粗砕"
+      },
       "category": "Event",
       "cost": 1,
       "colors": [
@@ -4956,12 +6471,29 @@
               "category": "event"
             }
           ]
+        },
+        {
+          "id": "OP12-059~ja",
+          "language": "ja",
+          "set": "OP12",
+          "rarity": "UC",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP12-059.png",
+          "cardSet": "師弟の絆【OP-12】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP12-060",
       "name": "Boeuf Burst",
+      "names": {
+        "en": "Boeuf Burst",
+        "ja": "牛肉バースト"
+      },
       "category": "Event",
       "cost": 3,
       "colors": [
@@ -5017,12 +6549,42 @@
           "treatments": [
             "alternate_art"
           ]
+        },
+        {
+          "id": "OP12-060~ja",
+          "language": "ja",
+          "set": "OP12",
+          "rarity": "R",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP12-060.png",
+          "cardSet": "師弟の絆【OP-12】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP12-060_p1~ja",
+          "language": "ja",
+          "set": "OP12",
+          "rarity": "R",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP12-060_p1.png",
+          "cardSet": "師弟の絆【OP-12】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "OP12-061",
       "name": "Donquixote Rosinante",
+      "names": {
+        "en": "Donquixote Rosinante",
+        "ja": "ドンキホーテ・ロシナンテ"
+      },
       "category": "Leader",
       "power": 5000,
       "life": 4,
@@ -5086,12 +6648,42 @@
             "alternate_art"
           ],
           "artist": "Naruse Uroko"
+        },
+        {
+          "id": "OP12-061~ja",
+          "language": "ja",
+          "set": "OP12",
+          "rarity": "L",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP12-061.png",
+          "cardSet": "師弟の絆【OP-12】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
+        },
+        {
+          "id": "OP12-061_p1~ja",
+          "language": "ja",
+          "set": "OP12",
+          "rarity": "L",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP12-061_p1.png",
+          "cardSet": "師弟の絆【OP-12】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "OP12-062",
       "name": "Vinsmoke Sora",
+      "names": {
+        "en": "Vinsmoke Sora",
+        "ja": "ヴィンスモーク・ソラ"
+      },
       "category": "Character",
       "cost": 1,
       "counter": 2000,
@@ -5216,12 +6808,42 @@
               "category": "event"
             }
           ]
+        },
+        {
+          "id": "OP12-062~ja",
+          "language": "ja",
+          "set": "OP12",
+          "rarity": "R",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP12-062.png",
+          "cardSet": "師弟の絆【OP-12】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP12-062_p1~ja",
+          "language": "ja",
+          "set": "P",
+          "rarity": "R",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP12-062_p1.png",
+          "cardSet": "スタンダードバトルパック Vol.13",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP12-063",
       "name": "Vinsmoke Reiju",
+      "names": {
+        "en": "Vinsmoke Reiju",
+        "ja": "ヴィンスモーク・レイジュ"
+      },
       "category": "Character",
       "cost": 4,
       "power": 5000,
@@ -5285,12 +6907,42 @@
             "alternate_art"
           ],
           "artist": "Daisuke Izuka"
+        },
+        {
+          "id": "OP12-063~ja",
+          "language": "ja",
+          "set": "OP12",
+          "rarity": "SR",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP12-063.png",
+          "cardSet": "師弟の絆【OP-12】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP12-063_p1~ja",
+          "language": "ja",
+          "set": "OP12",
+          "rarity": "SR",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP12-063_p1.png",
+          "cardSet": "師弟の絆【OP-12】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "OP12-064",
       "name": "Vergo",
+      "names": {
+        "en": "Vergo",
+        "ja": "ヴェルゴ"
+      },
       "category": "Character",
       "cost": 5,
       "power": 7000,
@@ -5357,12 +7009,29 @@
             }
           ],
           "artist": "eiji kaneda"
+        },
+        {
+          "id": "OP12-064~ja",
+          "language": "ja",
+          "set": "OP12",
+          "rarity": "C",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP12-064.png",
+          "cardSet": "師弟の絆【OP-12】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP12-065",
       "name": "Emporio.Ivankov",
+      "names": {
+        "en": "Emporio.Ivankov",
+        "ja": "エンポリオ・イワンコフ"
+      },
       "category": "Character",
       "cost": 6,
       "power": 7000,
@@ -5428,12 +7097,29 @@
             }
           ],
           "artist": "BISAI"
+        },
+        {
+          "id": "OP12-065~ja",
+          "language": "ja",
+          "set": "OP12",
+          "rarity": "UC",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP12-065.png",
+          "cardSet": "師弟の絆【OP-12】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP12-066",
       "name": "Carne",
+      "names": {
+        "en": "Carne",
+        "ja": "カルネ"
+      },
       "category": "Character",
       "cost": 1,
       "power": 1000,
@@ -5498,12 +7184,29 @@
             }
           ],
           "artist": "HISASHI HUJIWARA"
+        },
+        {
+          "id": "OP12-066~ja",
+          "language": "ja",
+          "set": "OP12",
+          "rarity": "C",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP12-066.png",
+          "cardSet": "師弟の絆【OP-12】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP12-067",
       "name": "Carmen",
+      "names": {
+        "en": "Carmen",
+        "ja": "カルメン"
+      },
       "category": "Character",
       "cost": 3,
       "power": 5000,
@@ -5568,12 +7271,29 @@
             }
           ],
           "artist": "Koushi Rokushiro"
+        },
+        {
+          "id": "OP12-067~ja",
+          "language": "ja",
+          "set": "OP12",
+          "rarity": "C",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP12-067.png",
+          "cardSet": "師弟の絆【OP-12】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP12-068",
       "name": "Gin",
+      "names": {
+        "en": "Gin",
+        "ja": "ギン"
+      },
       "category": "Character",
       "cost": 6,
       "power": 7000,
@@ -5639,12 +7359,29 @@
             }
           ],
           "artist": "Hayaken-sarena"
+        },
+        {
+          "id": "OP12-068~ja",
+          "language": "ja",
+          "set": "OP12",
+          "rarity": "UC",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP12-068.png",
+          "cardSet": "師弟の絆【OP-12】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP12-069",
       "name": "Crocodile",
+      "names": {
+        "en": "Crocodile",
+        "ja": "クロコダイル"
+      },
       "category": "Character",
       "cost": 6,
       "power": 8000,
@@ -5709,12 +7446,29 @@
             }
           ],
           "artist": "shosuke"
+        },
+        {
+          "id": "OP12-069~ja",
+          "language": "ja",
+          "set": "OP12",
+          "rarity": "C",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP12-069.png",
+          "cardSet": "師弟の絆【OP-12】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP12-070",
       "name": "Sanji",
+      "names": {
+        "en": "Sanji",
+        "ja": "サンジ"
+      },
       "category": "Character",
       "cost": 3,
       "power": 5000,
@@ -5777,12 +7531,42 @@
             "alternate_art"
           ],
           "artist": "Morechand"
+        },
+        {
+          "id": "OP12-070~ja",
+          "language": "ja",
+          "set": "OP12",
+          "rarity": "R",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP12-070.png",
+          "cardSet": "師弟の絆【OP-12】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP12-070_p1~ja",
+          "language": "ja",
+          "set": "OP12",
+          "rarity": "R",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP12-070_p1.png",
+          "cardSet": "師弟の絆【OP-12】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "OP12-071",
       "name": "Charlotte Pudding",
+      "names": {
+        "en": "Charlotte Pudding",
+        "ja": "シャーロット・プリン"
+      },
       "category": "Character",
       "cost": 1,
       "power": 2000,
@@ -5932,12 +7716,39 @@
               "category": "program"
             }
           ]
+        },
+        {
+          "id": "OP12-071~ja",
+          "language": "ja",
+          "set": "OP12",
+          "rarity": "R",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP12-071.png",
+          "cardSet": "師弟の絆【OP-12】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP12-071_p1~ja",
+          "language": "ja",
+          "set": "P",
+          "rarity": "R",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP12-071_p1.png",
+          "cardSet": "プロモーションパックEX Vol.3",
+          "source": "bandai"
         }
       ]
     },
     {
       "number": "OP12-072",
       "name": "Zeff",
+      "names": {
+        "en": "Zeff",
+        "ja": "ゼフ"
+      },
       "category": "Character",
       "cost": 4,
       "power": 5000,
@@ -6002,12 +7813,29 @@
             }
           ],
           "artist": "Yoichi Amano"
+        },
+        {
+          "id": "OP12-072~ja",
+          "language": "ja",
+          "set": "OP12",
+          "rarity": "UC",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP12-072.png",
+          "cardSet": "師弟の絆【OP-12】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP12-073",
       "name": "Trafalgar Law",
+      "names": {
+        "en": "Trafalgar Law",
+        "ja": "トラファルガー・ロー"
+      },
       "category": "Character",
       "cost": 7,
       "power": 8000,
@@ -6071,12 +7899,42 @@
             "alternate_art"
           ],
           "artist": "Minato Sashima"
+        },
+        {
+          "id": "OP12-073~ja",
+          "language": "ja",
+          "set": "OP12",
+          "rarity": "SR",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP12-073.png",
+          "cardSet": "師弟の絆【OP-12】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP12-073_p1~ja",
+          "language": "ja",
+          "set": "OP12",
+          "rarity": "SR",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP12-073_p1.png",
+          "cardSet": "師弟の絆【OP-12】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "OP12-074",
       "name": "Patty",
+      "names": {
+        "en": "Patty",
+        "ja": "パティ"
+      },
       "category": "Character",
       "cost": 3,
       "power": 2000,
@@ -6141,12 +7999,29 @@
             }
           ],
           "artist": "HISASHI HUJIWARA"
+        },
+        {
+          "id": "OP12-074~ja",
+          "language": "ja",
+          "set": "OP12",
+          "rarity": "C",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP12-074.png",
+          "cardSet": "師弟の絆【OP-12】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP12-075",
       "name": "Ms. All Sunday",
+      "names": {
+        "en": "Ms. All Sunday",
+        "ja": "ミス・オールサンデー"
+      },
       "category": "Character",
       "cost": 4,
       "power": 5000,
@@ -6211,12 +8086,29 @@
             }
           ],
           "artist": "Nekobayashi"
+        },
+        {
+          "id": "OP12-075~ja",
+          "language": "ja",
+          "set": "OP12",
+          "rarity": "C",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP12-075.png",
+          "cardSet": "師弟の絆【OP-12】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP12-076",
       "name": "Monet",
+      "names": {
+        "en": "Monet",
+        "ja": "モネ"
+      },
       "category": "Character",
       "cost": 5,
       "power": 6000,
@@ -6282,12 +8174,29 @@
             }
           ],
           "artist": "Hagane Tsurugi"
+        },
+        {
+          "id": "OP12-076~ja",
+          "language": "ja",
+          "set": "OP12",
+          "rarity": "UC",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP12-076.png",
+          "cardSet": "師弟の絆【OP-12】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP12-077",
       "name": "The \"Extinguishes All Sound Created by Your Influence\" Technique",
+      "names": {
+        "en": "The \"Extinguishes All Sound Created by Your Influence\" Technique",
+        "ja": "“お前の影響で出る音は全て消えるの術”だ"
+      },
       "category": "Event",
       "cost": 2,
       "colors": [
@@ -6345,12 +8254,29 @@
               "category": "event"
             }
           ]
+        },
+        {
+          "id": "OP12-077~ja",
+          "language": "ja",
+          "set": "OP12",
+          "rarity": "C",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP12-077.png",
+          "cardSet": "師弟の絆【OP-12】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP12-078",
       "name": "Brochette Blow",
+      "names": {
+        "en": "Brochette Blow",
+        "ja": "串焼き"
+      },
       "category": "Event",
       "cost": 3,
       "colors": [
@@ -6408,12 +8334,29 @@
               "category": "event"
             }
           ]
+        },
+        {
+          "id": "OP12-078~ja",
+          "language": "ja",
+          "set": "OP12",
+          "rarity": "UC",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP12-078.png",
+          "cardSet": "師弟の絆【OP-12】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP12-079",
       "name": "Luffy Is the Man Who Will Be King of the Pirates!!!",
+      "names": {
+        "en": "Luffy Is the Man Who Will Be King of the Pirates!!!",
+        "ja": "ルフィは“海賊王”になる男だ!!!"
+      },
       "category": "Event",
       "cost": 1,
       "colors": [
@@ -6476,12 +8419,42 @@
               "category": "retail"
             }
           ]
+        },
+        {
+          "id": "OP12-079~ja",
+          "language": "ja",
+          "set": "OP12",
+          "rarity": "R",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP12-079.png",
+          "cardSet": "師弟の絆【OP-12】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP12-079_p1~ja",
+          "language": "ja",
+          "set": "OTHER",
+          "rarity": "R",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP12-079_p1.png",
+          "cardSet": "ONE PIECE カードゲーム 3rd ANNIVERSARY SET",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "OP12-080",
       "name": "Baratie",
+      "names": {
+        "en": "Baratie",
+        "ja": "バラティエ"
+      },
       "category": "Stage",
       "cost": 1,
       "colors": [
@@ -6539,12 +8512,29 @@
               "category": "event"
             }
           ]
+        },
+        {
+          "id": "OP12-080~ja",
+          "language": "ja",
+          "set": "OP12",
+          "rarity": "C",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP12-080.png",
+          "cardSet": "師弟の絆【OP-12】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP12-081",
       "name": "Koala",
+      "names": {
+        "en": "Koala",
+        "ja": "コアラ"
+      },
       "category": "Leader",
       "power": 5000,
       "life": 4,
@@ -6608,12 +8598,42 @@
             "alternate_art"
           ],
           "artist": "Sunohara"
+        },
+        {
+          "id": "OP12-081~ja",
+          "language": "ja",
+          "set": "OP12",
+          "rarity": "L",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP12-081.png",
+          "cardSet": "師弟の絆【OP-12】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
+        },
+        {
+          "id": "OP12-081_p1~ja",
+          "language": "ja",
+          "set": "OP12",
+          "rarity": "L",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP12-081_p1.png",
+          "cardSet": "師弟の絆【OP-12】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "OP12-082",
       "name": "Issho",
+      "names": {
+        "en": "Issho",
+        "ja": "イッショウ"
+      },
       "category": "Character",
       "cost": 8,
       "power": 10000,
@@ -6679,12 +8699,29 @@
             }
           ],
           "artist": "eiji kaneda"
+        },
+        {
+          "id": "OP12-082~ja",
+          "language": "ja",
+          "set": "OP12",
+          "rarity": "C",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP12-082.png",
+          "cardSet": "師弟の絆【OP-12】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP12-083",
       "name": "Inazuma",
+      "names": {
+        "en": "Inazuma",
+        "ja": "イナズマ"
+      },
       "category": "Character",
       "cost": 5,
       "power": 6000,
@@ -6749,12 +8786,29 @@
             }
           ],
           "artist": "kito"
+        },
+        {
+          "id": "OP12-083~ja",
+          "language": "ja",
+          "set": "OP12",
+          "rarity": "UC",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP12-083.png",
+          "cardSet": "師弟の絆【OP-12】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP12-084",
       "name": "Emporio.Ivankov",
+      "names": {
+        "en": "Emporio.Ivankov",
+        "ja": "エンポリオ・イワンコフ"
+      },
       "category": "Character",
       "cost": 3,
       "power": 4000,
@@ -6875,12 +8929,29 @@
               "category": "placement"
             }
           ]
+        },
+        {
+          "id": "OP12-084~ja",
+          "language": "ja",
+          "set": "OP12",
+          "rarity": "UC",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP12-084.png",
+          "cardSet": "師弟の絆【OP-12】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP12-085",
       "name": "Karasu",
+      "names": {
+        "en": "Karasu",
+        "ja": "カラス"
+      },
       "category": "Character",
       "cost": 5,
       "power": 6000,
@@ -6945,12 +9016,29 @@
             }
           ],
           "artist": "Koushi Rokushiro"
+        },
+        {
+          "id": "OP12-085~ja",
+          "language": "ja",
+          "set": "OP12",
+          "rarity": "C",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP12-085.png",
+          "cardSet": "師弟の絆【OP-12】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP12-086",
       "name": "Koala",
+      "names": {
+        "en": "Koala",
+        "ja": "コアラ"
+      },
       "category": "Character",
       "cost": 1,
       "power": 2000,
@@ -7040,12 +9128,42 @@
               "category": "retail"
             }
           ]
+        },
+        {
+          "id": "OP12-086~ja",
+          "language": "ja",
+          "set": "OP12",
+          "rarity": "R",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP12-086.png",
+          "cardSet": "師弟の絆【OP-12】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP12-086_p1~ja",
+          "language": "ja",
+          "set": "OP12",
+          "rarity": "R",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP12-086_p1.png",
+          "cardSet": "師弟の絆【OP-12】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "OP12-087",
       "name": "Nico Robin",
+      "names": {
+        "en": "Nico Robin",
+        "ja": "ニコ・ロビン"
+      },
       "category": "Character",
       "cost": 6,
       "power": 7000,
@@ -7107,12 +9225,42 @@
             "alternate_art"
           ],
           "artist": "BISAI"
+        },
+        {
+          "id": "OP12-087~ja",
+          "language": "ja",
+          "set": "OP12",
+          "rarity": "SR",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP12-087.png",
+          "cardSet": "師弟の絆【OP-12】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP12-087_p1~ja",
+          "language": "ja",
+          "set": "OP12",
+          "rarity": "SR",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP12-087_p1.png",
+          "cardSet": "師弟の絆【OP-12】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "OP12-088",
       "name": "Bastille",
+      "names": {
+        "en": "Bastille",
+        "ja": "バスティーユ"
+      },
       "category": "Character",
       "cost": 6,
       "power": 8000,
@@ -7178,12 +9326,29 @@
             }
           ],
           "artist": "shosuke"
+        },
+        {
+          "id": "OP12-088~ja",
+          "language": "ja",
+          "set": "OP12",
+          "rarity": "C",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP12-088.png",
+          "cardSet": "師弟の絆【OP-12】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP12-089",
       "name": "Hack",
+      "names": {
+        "en": "Hack",
+        "ja": "ハック"
+      },
       "category": "Character",
       "cost": 4,
       "power": 5000,
@@ -7309,12 +9474,39 @@
               "category": "placement"
             }
           ]
+        },
+        {
+          "id": "OP12-089~ja",
+          "language": "ja",
+          "set": "OP12",
+          "rarity": "R",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP12-089.png",
+          "cardSet": "師弟の絆【OP-12】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP12-089_p1~ja",
+          "language": "ja",
+          "set": "P",
+          "rarity": "R",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP12-089_p1.png",
+          "cardSet": "プロモーションパックEX Vol.3",
+          "source": "bandai"
         }
       ]
     },
     {
       "number": "OP12-090",
       "name": "Belo Betty",
+      "names": {
+        "en": "Belo Betty",
+        "ja": "ベロ・ベティ"
+      },
       "category": "Character",
       "cost": 3,
       "power": 4000,
@@ -7393,12 +9585,42 @@
             }
           ],
           "artist": "Morechand"
+        },
+        {
+          "id": "OP12-090~ja",
+          "language": "ja",
+          "set": "OP12",
+          "rarity": "C",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP12-090.png",
+          "cardSet": "師弟の絆【OP-12】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
+        },
+        {
+          "id": "OP12-090_r1~ja",
+          "language": "ja",
+          "set": "ST35",
+          "rarity": "C",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP12-090_r1.png",
+          "cardSet": "スタートデッキ 赤黒 サボ【ST-35】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP12-091",
       "name": "Poker",
+      "names": {
+        "en": "Poker",
+        "ja": "ポーカー"
+      },
       "category": "Character",
       "cost": 3,
       "power": 4000,
@@ -7464,12 +9686,29 @@
             }
           ],
           "artist": "Yoichi Amano"
+        },
+        {
+          "id": "OP12-091~ja",
+          "language": "ja",
+          "set": "OP12",
+          "rarity": "C",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP12-091.png",
+          "cardSet": "師弟の絆【OP-12】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP12-092",
       "name": "Mizerka",
+      "names": {
+        "en": "Mizerka",
+        "ja": "ミゼルカ"
+      },
       "category": "Character",
       "cost": 6,
       "power": 7000,
@@ -7535,12 +9774,29 @@
             }
           ],
           "artist": "Yoichi Amano"
+        },
+        {
+          "id": "OP12-092~ja",
+          "language": "ja",
+          "set": "OP12",
+          "rarity": "UC",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP12-092.png",
+          "cardSet": "師弟の絆【OP-12】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP12-093",
       "name": "Morley",
+      "names": {
+        "en": "Morley",
+        "ja": "モーリー"
+      },
       "category": "Character",
       "cost": 4,
       "power": 5000,
@@ -7734,12 +9990,55 @@
               "category": "program"
             }
           ]
+        },
+        {
+          "id": "OP12-093~ja",
+          "language": "ja",
+          "set": "OP12",
+          "rarity": "UC",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP12-093.png",
+          "cardSet": "師弟の絆【OP-12】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
+        },
+        {
+          "id": "OP12-093_p1~ja",
+          "language": "ja",
+          "set": "P",
+          "rarity": "UC",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP12-093_p1.png",
+          "cardSet": "スタンダードバトルパック Vol.13",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
+        },
+        {
+          "id": "OP12-093_r1~ja",
+          "language": "ja",
+          "set": "ST35",
+          "rarity": "UC",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP12-093_r1.png",
+          "cardSet": "スタートデッキ 赤黒 サボ【ST-35】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP12-094",
       "name": "Monkey.D.Dragon",
+      "names": {
+        "en": "Monkey.D.Dragon",
+        "ja": "モンキー・Ｄ・ドラゴン"
+      },
       "category": "Character",
       "cost": 8,
       "power": 8000,
@@ -7834,12 +10133,55 @@
             }
           ],
           "artist": "Akanegumo"
+        },
+        {
+          "id": "OP12-094~ja",
+          "language": "ja",
+          "set": "OP12",
+          "rarity": "SR",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP12-094.png",
+          "cardSet": "師弟の絆【OP-12】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP12-094_p1~ja",
+          "language": "ja",
+          "set": "OP12",
+          "rarity": "SR",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP12-094_p1.png",
+          "cardSet": "師弟の絆【OP-12】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP12-094_p2~ja",
+          "language": "ja",
+          "set": "OTHER",
+          "rarity": "SR",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP12-094_p2.png",
+          "cardSet": "ONE PIECE カードゲーム 3rd ANNIVERSARY SET",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "OP12-095",
       "name": "Lindbergh",
+      "names": {
+        "en": "Lindbergh",
+        "ja": "リンドバーグ"
+      },
       "category": "Character",
       "cost": 4,
       "power": 5000,
@@ -7905,12 +10247,29 @@
             }
           ],
           "artist": "Nekobayashi"
+        },
+        {
+          "id": "OP12-095~ja",
+          "language": "ja",
+          "set": "OP12",
+          "rarity": "C",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP12-095.png",
+          "cardSet": "師弟の絆【OP-12】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP12-096",
       "name": "Ursa Shock",
+      "names": {
+        "en": "Ursa Shock",
+        "ja": "熊の衝撃"
+      },
       "category": "Event",
       "cost": 4,
       "colors": [
@@ -7969,12 +10328,29 @@
               "category": "event"
             }
           ]
+        },
+        {
+          "id": "OP12-096~ja",
+          "language": "ja",
+          "set": "OP12",
+          "rarity": "C",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP12-096.png",
+          "cardSet": "師弟の絆【OP-12】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP12-097",
       "name": "Captains Assembled",
+      "names": {
+        "en": "Captains Assembled",
+        "ja": "軍隊長集結"
+      },
       "category": "Event",
       "cost": 1,
       "colors": [
@@ -8005,12 +10381,29 @@
             "match": "image-only-candidate",
             "distance": 7
           }
+        },
+        {
+          "id": "OP12-097~ja",
+          "language": "ja",
+          "set": "OP12",
+          "rarity": "R",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP12-097.png",
+          "cardSet": "師弟の絆【OP-12】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "OP12-098",
       "name": "Hair Removal Fist",
+      "names": {
+        "en": "Hair Removal Fist",
+        "ja": "夢打撃処裏拳"
+      },
       "category": "Event",
       "cost": 1,
       "colors": [
@@ -8111,12 +10504,55 @@
               "category": "event"
             }
           ]
+        },
+        {
+          "id": "OP12-098~ja",
+          "language": "ja",
+          "set": "OP12",
+          "rarity": "UC",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP12-098.png",
+          "cardSet": "師弟の絆【OP-12】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
+        },
+        {
+          "id": "OP12-098_p1~ja",
+          "language": "ja",
+          "set": "OTHER",
+          "rarity": "UC",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP12-098_p1.png",
+          "cardSet": "プレミアムカードコレクション - ベストセレクション vol.5 -",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP12-098_r1~ja",
+          "language": "ja",
+          "set": "ST35",
+          "rarity": "UC",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP12-098_r1.png",
+          "cardSet": "スタートデッキ 赤黒 サボ【ST-35】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP12-099",
       "name": "Kalgara",
+      "names": {
+        "en": "Kalgara",
+        "ja": "カルガラ"
+      },
       "category": "Character",
       "cost": 5,
       "power": 6000,
@@ -8155,12 +10591,29 @@
             "distance": 3
           },
           "artist": "tasaka"
+        },
+        {
+          "id": "OP12-099~ja",
+          "language": "ja",
+          "set": "OP12",
+          "rarity": "R",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP12-099.png",
+          "cardSet": "師弟の絆【OP-12】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "OP12-100",
       "name": "Sabo",
+      "names": {
+        "en": "Sabo",
+        "ja": "サボ"
+      },
       "category": "Character",
       "cost": 5,
       "power": 6000,
@@ -8198,12 +10651,29 @@
             "distance": 2
           },
           "artist": "Ryuda"
+        },
+        {
+          "id": "OP12-100~ja",
+          "language": "ja",
+          "set": "OP12",
+          "rarity": "R",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP12-100.png",
+          "cardSet": "師弟の絆【OP-12】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "OP12-101",
       "name": "Jewelry Bonney",
+      "names": {
+        "en": "Jewelry Bonney",
+        "ja": "ジュエリー・ボニー"
+      },
       "category": "Character",
       "cost": 3,
       "power": 1000,
@@ -8269,12 +10739,29 @@
             }
           ],
           "artist": "SHINRA AGENCY Co. Ltd."
+        },
+        {
+          "id": "OP12-101~ja",
+          "language": "ja",
+          "set": "OP12",
+          "rarity": "C",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP12-101.png",
+          "cardSet": "師弟の絆【OP-12】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP12-102",
       "name": "Shirahoshi",
+      "names": {
+        "en": "Shirahoshi",
+        "ja": "しらほし"
+      },
       "category": "Character",
       "cost": 2,
       "counter": 1000,
@@ -8337,12 +10824,42 @@
             "alternate_art"
           ],
           "artist": "sacanahen"
+        },
+        {
+          "id": "OP12-102~ja",
+          "language": "ja",
+          "set": "OP12",
+          "rarity": "SR",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP12-102.png",
+          "cardSet": "師弟の絆【OP-12】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP12-102_p1~ja",
+          "language": "ja",
+          "set": "OP12",
+          "rarity": "SR",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP12-102_p1.png",
+          "cardSet": "師弟の絆【OP-12】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "OP12-103",
       "name": "Seto",
+      "names": {
+        "en": "Seto",
+        "ja": "セト"
+      },
       "category": "Character",
       "cost": 5,
       "power": 6000,
@@ -8429,12 +10946,29 @@
           "finishes": [
             "nonfoil"
           ]
+        },
+        {
+          "id": "OP12-103~ja",
+          "language": "ja",
+          "set": "OP12",
+          "rarity": "UC",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP12-103.png",
+          "cardSet": "師弟の絆【OP-12】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP12-104",
       "name": "Sentomaru",
+      "names": {
+        "en": "Sentomaru",
+        "ja": "戦桃丸"
+      },
       "category": "Character",
       "cost": 4,
       "power": 5000,
@@ -8500,12 +11034,29 @@
             }
           ],
           "artist": "tasaka"
+        },
+        {
+          "id": "OP12-104~ja",
+          "language": "ja",
+          "set": "OP12",
+          "rarity": "C",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP12-104.png",
+          "cardSet": "師弟の絆【OP-12】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP12-105",
       "name": "Trafalgar Lammy",
+      "names": {
+        "en": "Trafalgar Lammy",
+        "ja": "トラファルガー・ラミ"
+      },
       "category": "Character",
       "cost": 1,
       "counter": 2000,
@@ -8569,12 +11120,29 @@
             }
           ],
           "artist": "Suzume Muraichi"
+        },
+        {
+          "id": "OP12-105~ja",
+          "language": "ja",
+          "set": "OP12",
+          "rarity": "C",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP12-105.png",
+          "cardSet": "師弟の絆【OP-12】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP12-106",
       "name": "Trafalgar Law",
+      "names": {
+        "en": "Trafalgar Law",
+        "ja": "トラファルガー・ロー"
+      },
       "category": "Character",
       "cost": 6,
       "power": 7000,
@@ -8667,12 +11235,39 @@
               "category": "program"
             }
           ]
+        },
+        {
+          "id": "OP12-106~ja",
+          "language": "ja",
+          "set": "OP12",
+          "rarity": "UC",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP12-106.png",
+          "cardSet": "師弟の絆【OP-12】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
+        },
+        {
+          "id": "OP12-106_p2~ja",
+          "language": "ja",
+          "set": "P",
+          "rarity": "UC",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP12-106_p2.png",
+          "cardSet": "『ONE PIECE学園 10巻』付録",
+          "source": "bandai"
         }
       ]
     },
     {
       "number": "OP12-107",
       "name": "Donquixote Doflamingo",
+      "names": {
+        "en": "Donquixote Doflamingo",
+        "ja": "ドンキホーテ・ドフラミンゴ"
+      },
       "category": "Character",
       "cost": 8,
       "power": 8000,
@@ -8709,12 +11304,29 @@
             "distance": 5
           },
           "artist": "Akanegumo"
+        },
+        {
+          "id": "OP12-107~ja",
+          "language": "ja",
+          "set": "OP12",
+          "rarity": "R",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP12-107.png",
+          "cardSet": "師弟の絆【OP-12】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "OP12-108",
       "name": "Donquixote Rosinante",
+      "names": {
+        "en": "Donquixote Rosinante",
+        "ja": "ドンキホーテ・ロシナンテ"
+      },
       "category": "Character",
       "cost": 1,
       "power": 2000,
@@ -8830,12 +11442,42 @@
             }
           ],
           "artist": "Bashikou"
+        },
+        {
+          "id": "OP12-108~ja",
+          "language": "ja",
+          "set": "OP12",
+          "rarity": "R",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP12-108.png",
+          "cardSet": "師弟の絆【OP-12】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP12-108_p1~ja",
+          "language": "ja",
+          "set": "OP12",
+          "rarity": "R",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP12-108_p1.png",
+          "cardSet": "師弟の絆【OP-12】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "OP12-109",
       "name": "Pacifista",
+      "names": {
+        "en": "Pacifista",
+        "ja": "パシフィスタ"
+      },
       "category": "Character",
       "cost": 4,
       "power": 5000,
@@ -8902,12 +11544,29 @@
             }
           ],
           "artist": "SHINRA AGENCY Co. Ltd."
+        },
+        {
+          "id": "OP12-109~ja",
+          "language": "ja",
+          "set": "OP12",
+          "rarity": "C",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP12-109.png",
+          "cardSet": "師弟の絆【OP-12】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP12-110",
       "name": "Buffalo",
+      "names": {
+        "en": "Buffalo",
+        "ja": "バッファロー"
+      },
       "category": "Character",
       "cost": 3,
       "power": 5000,
@@ -8972,12 +11631,29 @@
             }
           ],
           "artist": "Akihiro MIYANO"
+        },
+        {
+          "id": "OP12-110~ja",
+          "language": "ja",
+          "set": "OP12",
+          "rarity": "C",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP12-110.png",
+          "cardSet": "師弟の絆【OP-12】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP12-111",
       "name": "Baby 5",
+      "names": {
+        "en": "Baby 5",
+        "ja": "ベビー５"
+      },
       "category": "Character",
       "cost": 2,
       "power": 4000,
@@ -9042,12 +11718,29 @@
             }
           ],
           "artist": "Suzume Muraichi"
+        },
+        {
+          "id": "OP12-111~ja",
+          "language": "ja",
+          "set": "OP12",
+          "rarity": "C",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP12-111.png",
+          "cardSet": "師弟の絆【OP-12】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP12-112",
       "name": "Baby 5",
+      "names": {
+        "en": "Baby 5",
+        "ja": "ベビー５"
+      },
       "category": "Character",
       "cost": 4,
       "power": 5000,
@@ -9234,12 +11927,49 @@
               "category": "program"
             }
           ]
+        },
+        {
+          "id": "OP12-112~ja",
+          "language": "ja",
+          "set": "OP12",
+          "rarity": "R",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP12-112.png",
+          "cardSet": "師弟の絆【OP-12】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP12-112_p1~ja",
+          "language": "ja",
+          "set": "P",
+          "rarity": "R",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP12-112_p1.png",
+          "cardSet": "スタンダードバトルパック Vol.13",
+          "source": "bandai"
+        },
+        {
+          "id": "OP12-112_p2~ja",
+          "language": "ja",
+          "set": "OTHER",
+          "rarity": "R",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP12-112_p2.png",
+          "cardSet": "プレミアムカードコレクション - ベストセレクション vol.5 -",
+          "source": "bandai"
         }
       ]
     },
     {
       "number": "OP12-113",
       "name": "Roronoa Zoro",
+      "names": {
+        "en": "Roronoa Zoro",
+        "ja": "ロロノア・ゾロ"
+      },
       "category": "Character",
       "cost": 5,
       "power": 6000,
@@ -9319,12 +12049,42 @@
             }
           ],
           "artist": "Hatori Kyoka"
+        },
+        {
+          "id": "OP12-113~ja",
+          "language": "ja",
+          "set": "OP12",
+          "rarity": "UC",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP12-113.png",
+          "cardSet": "師弟の絆【OP-12】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
+        },
+        {
+          "id": "OP12-113_r1~ja",
+          "language": "ja",
+          "set": "ST36",
+          "rarity": "UC",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP12-113_r1.png",
+          "cardSet": "スタートデッキ 黄 ユースタス・キッド【ST-36】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP12-114",
       "name": "Wyper",
+      "names": {
+        "en": "Wyper",
+        "ja": "ワイパー"
+      },
       "category": "Character",
       "cost": 6,
       "power": 7000,
@@ -9390,12 +12150,29 @@
             }
           ],
           "artist": "Akihiro MIYANO"
+        },
+        {
+          "id": "OP12-114~ja",
+          "language": "ja",
+          "set": "OP12",
+          "rarity": "UC",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP12-114.png",
+          "cardSet": "師弟の絆【OP-12】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP12-115",
       "name": "I Love You!!",
+      "names": {
+        "en": "I Love You!!",
+        "ja": "愛してるぜ!!"
+      },
       "category": "Event",
       "cost": 1,
       "colors": [
@@ -9454,12 +12231,29 @@
               "category": "event"
             }
           ]
+        },
+        {
+          "id": "OP12-115~ja",
+          "language": "ja",
+          "set": "OP12",
+          "rarity": "UC",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP12-115.png",
+          "cardSet": "師弟の絆【OP-12】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP12-116",
       "name": "We'll Ring the Bell Waiting for You!!",
+      "names": {
+        "en": "We'll Ring the Bell Waiting for You!!",
+        "ja": "鐘を鳴らして君を待つ!!!!"
+      },
       "category": "Event",
       "cost": 3,
       "colors": [
@@ -9519,12 +12313,29 @@
               "category": "event"
             }
           ]
+        },
+        {
+          "id": "OP12-116~ja",
+          "language": "ja",
+          "set": "OP12",
+          "rarity": "C",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP12-116.png",
+          "cardSet": "師弟の絆【OP-12】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP12-117",
       "name": "Slam Gibson",
+      "names": {
+        "en": "Slam Gibson",
+        "ja": "破壊弦"
+      },
       "category": "Event",
       "cost": 1,
       "colors": [
@@ -9556,12 +12367,29 @@
             "match": "image-only-candidate",
             "distance": 5
           }
+        },
+        {
+          "id": "OP12-117~ja",
+          "language": "ja",
+          "set": "OP12",
+          "rarity": "R",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP12-117.png",
+          "cardSet": "師弟の絆【OP-12】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "OP12-118",
       "name": "Jewelry Bonney",
+      "names": {
+        "en": "Jewelry Bonney",
+        "ja": "ジュエリー・ボニー"
+      },
       "category": "Character",
       "cost": 5,
       "power": 6000,
@@ -9650,12 +12478,55 @@
           "treatments": [
             "manga"
           ]
+        },
+        {
+          "id": "OP12-118~ja",
+          "language": "ja",
+          "set": "OP12",
+          "rarity": "SEC",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP12-118.png",
+          "cardSet": "師弟の絆【OP-12】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP12-118_p1~ja",
+          "language": "ja",
+          "set": "OP12",
+          "rarity": "SEC",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP12-118_p1.png",
+          "cardSet": "師弟の絆【OP-12】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP12-118_p2~ja",
+          "language": "ja",
+          "set": "OP12",
+          "rarity": "SEC",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP12-118_p2.png",
+          "cardSet": "師弟の絆【OP-12】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "OP12-119",
       "name": "Bartholomew Kuma",
+      "names": {
+        "en": "Bartholomew Kuma",
+        "ja": "バーソロミュー・くま"
+      },
       "category": "Character",
       "cost": 6,
       "power": 7000,
@@ -9752,6 +12623,45 @@
             }
           ],
           "artist": "Katsuo Tadano"
+        },
+        {
+          "id": "OP12-119~ja",
+          "language": "ja",
+          "set": "OP12",
+          "rarity": "SEC",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP12-119.png",
+          "cardSet": "師弟の絆【OP-12】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP12-119_p1~ja",
+          "language": "ja",
+          "set": "OP12",
+          "rarity": "SEC",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP12-119_p1.png",
+          "cardSet": "師弟の絆【OP-12】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP12-119_p2~ja",
+          "language": "ja",
+          "set": "OTHER",
+          "rarity": "SEC",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP12-119_p2.png",
+          "cardSet": "ONE PIECE カードゲーム 3rd ANNIVERSARY SET",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     }

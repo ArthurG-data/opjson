@@ -3,6 +3,10 @@
     {
       "number": "ST30-001",
       "name": "Luffy & Ace",
+      "names": {
+        "en": "Luffy & Ace",
+        "ja": "ルフィ＆エース"
+      },
       "category": "Leader",
       "power": 6000,
       "life": 4,
@@ -66,12 +70,42 @@
           "treatments": [
             "parallel"
           ]
+        },
+        {
+          "id": "ST30-001~ja",
+          "language": "ja",
+          "set": "ST30",
+          "rarity": "L",
+          "block": "5",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/ST30-001.png",
+          "cardSet": "スタートデッキEX ルフィ&エース【ST-30】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "ST30-001_p1~ja",
+          "language": "ja",
+          "set": "ST30",
+          "rarity": "L",
+          "block": "5",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/ST30-001_p1.png",
+          "cardSet": "スタートデッキEX ルフィ&エース【ST-30】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "ST30-002",
       "name": "Inazuma",
+      "names": {
+        "en": "Inazuma",
+        "ja": "イナズマ"
+      },
       "category": "Character",
       "cost": 1,
       "power": 2000,
@@ -135,12 +169,42 @@
             "full_art"
           ],
           "artist": "touge369"
+        },
+        {
+          "id": "ST30-002~ja",
+          "language": "ja",
+          "set": "ST30",
+          "rarity": "C",
+          "block": "5",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/ST30-002.png",
+          "cardSet": "スタートデッキEX ルフィ&エース【ST-30】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "ST30-002_p1~ja",
+          "language": "ja",
+          "set": "ST30",
+          "rarity": "C",
+          "block": "5",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/ST30-002_p1.png",
+          "cardSet": "スタートデッキEX ルフィ&エース【ST-30】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "ST30-003",
       "name": "Edward.Newgate",
+      "names": {
+        "en": "Edward.Newgate",
+        "ja": "エドワード・ニューゲート"
+      },
       "category": "Character",
       "cost": 8,
       "power": 6000,
@@ -204,12 +268,42 @@
             "full_art"
           ],
           "artist": "Yasushi Yamaguchi"
+        },
+        {
+          "id": "ST30-003~ja",
+          "language": "ja",
+          "set": "ST30",
+          "rarity": "C",
+          "block": "5",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/ST30-003.png",
+          "cardSet": "スタートデッキEX ルフィ&エース【ST-30】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "ST30-003_p1~ja",
+          "language": "ja",
+          "set": "ST30",
+          "rarity": "C",
+          "block": "5",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/ST30-003_p1.png",
+          "cardSet": "スタートデッキEX ルフィ&エース【ST-30】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "ST30-004",
       "name": "Emporio.Ivankov",
+      "names": {
+        "en": "Emporio.Ivankov",
+        "ja": "エンポリオ・イワンコフ"
+      },
       "category": "Character",
       "cost": 1,
       "power": 2000,
@@ -273,12 +367,42 @@
             "full_art"
           ],
           "artist": "Nekobayashi"
+        },
+        {
+          "id": "ST30-004~ja",
+          "language": "ja",
+          "set": "ST30",
+          "rarity": "C",
+          "block": "5",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/ST30-004.png",
+          "cardSet": "スタートデッキEX ルフィ&エース【ST-30】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "ST30-004_p1~ja",
+          "language": "ja",
+          "set": "ST30",
+          "rarity": "C",
+          "block": "5",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/ST30-004_p1.png",
+          "cardSet": "スタートデッキEX ルフィ&エース【ST-30】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "ST30-005",
       "name": "Jozu",
+      "names": {
+        "en": "Jozu",
+        "ja": "ジョズ"
+      },
       "category": "Character",
       "cost": 5,
       "power": 6000,
@@ -341,12 +465,42 @@
             "full_art"
           ],
           "artist": "kankurou"
+        },
+        {
+          "id": "ST30-005~ja",
+          "language": "ja",
+          "set": "ST30",
+          "rarity": "C",
+          "block": "5",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/ST30-005.png",
+          "cardSet": "スタートデッキEX ルフィ&エース【ST-30】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "ST30-005_p1~ja",
+          "language": "ja",
+          "set": "ST30",
+          "rarity": "C",
+          "block": "5",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/ST30-005_p1.png",
+          "cardSet": "スタートデッキEX ルフィ&エース【ST-30】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "ST30-006",
       "name": "Jinbe",
+      "names": {
+        "en": "Jinbe",
+        "ja": "ジンベエ"
+      },
       "category": "Character",
       "cost": 5,
       "power": 6000,
@@ -411,12 +565,42 @@
             "full_art"
           ],
           "artist": "Yasushi Yamaguchi"
+        },
+        {
+          "id": "ST30-006~ja",
+          "language": "ja",
+          "set": "ST30",
+          "rarity": "C",
+          "block": "5",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/ST30-006.png",
+          "cardSet": "スタートデッキEX ルフィ&エース【ST-30】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "ST30-006_p1~ja",
+          "language": "ja",
+          "set": "ST30",
+          "rarity": "C",
+          "block": "5",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/ST30-006_p1.png",
+          "cardSet": "スタートデッキEX ルフィ&エース【ST-30】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "ST30-007",
       "name": "Portgas.D.Ace",
+      "names": {
+        "en": "Portgas.D.Ace",
+        "ja": "ポートガス・Ｄ・エース"
+      },
       "category": "Character",
       "cost": 4,
       "power": 6000,
@@ -478,12 +662,42 @@
             "parallel"
           ],
           "artist": "Yosuke Adachi"
+        },
+        {
+          "id": "ST30-007~ja",
+          "language": "ja",
+          "set": "ST30",
+          "rarity": "SR",
+          "block": "5",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/ST30-007.png",
+          "cardSet": "スタートデッキEX ルフィ&エース【ST-30】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "ST30-007_p1~ja",
+          "language": "ja",
+          "set": "ST30",
+          "rarity": "SR",
+          "block": "5",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/ST30-007_p1.png",
+          "cardSet": "スタートデッキEX ルフィ&エース【ST-30】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "ST30-008",
       "name": "Marco",
+      "names": {
+        "en": "Marco",
+        "ja": "マルコ"
+      },
       "category": "Character",
       "cost": 5,
       "power": 6000,
@@ -546,12 +760,42 @@
             "full_art"
           ],
           "artist": "DAI-XT."
+        },
+        {
+          "id": "ST30-008~ja",
+          "language": "ja",
+          "set": "ST30",
+          "rarity": "C",
+          "block": "5",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/ST30-008.png",
+          "cardSet": "スタートデッキEX ルフィ&エース【ST-30】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "ST30-008_p1~ja",
+          "language": "ja",
+          "set": "ST30",
+          "rarity": "C",
+          "block": "5",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/ST30-008_p1.png",
+          "cardSet": "スタートデッキEX ルフィ&エース【ST-30】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "ST30-009",
       "name": "LittleOars Jr.",
+      "names": {
+        "en": "LittleOars Jr.",
+        "ja": "リトルオーズJr."
+      },
       "category": "Character",
       "cost": 1,
       "power": 2000,
@@ -615,12 +859,42 @@
             "full_art"
           ],
           "artist": "kankurou"
+        },
+        {
+          "id": "ST30-009~ja",
+          "language": "ja",
+          "set": "ST30",
+          "rarity": "C",
+          "block": "5",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/ST30-009.png",
+          "cardSet": "スタートデッキEX ルフィ&エース【ST-30】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "ST30-009_p1~ja",
+          "language": "ja",
+          "set": "ST30",
+          "rarity": "C",
+          "block": "5",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/ST30-009_p1.png",
+          "cardSet": "スタートデッキEX ルフィ&エース【ST-30】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "ST30-010",
       "name": "Crocodile",
+      "names": {
+        "en": "Crocodile",
+        "ja": "クロコダイル"
+      },
       "category": "Character",
       "cost": 6,
       "power": 6000,
@@ -684,12 +958,42 @@
             "full_art"
           ],
           "artist": "BISAI"
+        },
+        {
+          "id": "ST30-010~ja",
+          "language": "ja",
+          "set": "ST30",
+          "rarity": "C",
+          "block": "5",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/ST30-010.png",
+          "cardSet": "スタートデッキEX ルフィ&エース【ST-30】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "ST30-010_p1~ja",
+          "language": "ja",
+          "set": "ST30",
+          "rarity": "C",
+          "block": "5",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/ST30-010_p1.png",
+          "cardSet": "スタートデッキEX ルフィ&エース【ST-30】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "ST30-011",
       "name": "Buggy",
+      "names": {
+        "en": "Buggy",
+        "ja": "バギー"
+      },
       "category": "Character",
       "cost": 2,
       "power": 1000,
@@ -753,12 +1057,42 @@
             "full_art"
           ],
           "artist": "Morechand"
+        },
+        {
+          "id": "ST30-011~ja",
+          "language": "ja",
+          "set": "ST30",
+          "rarity": "C",
+          "block": "5",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/ST30-011.png",
+          "cardSet": "スタートデッキEX ルフィ&エース【ST-30】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "ST30-011_p1~ja",
+          "language": "ja",
+          "set": "ST30",
+          "rarity": "C",
+          "block": "5",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/ST30-011_p1.png",
+          "cardSet": "スタートデッキEX ルフィ&エース【ST-30】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "ST30-012",
       "name": "Monkey.D.Luffy",
+      "names": {
+        "en": "Monkey.D.Luffy",
+        "ja": "モンキー・D・ルフィ"
+      },
       "category": "Character",
       "cost": 4,
       "power": 6000,
@@ -821,12 +1155,52 @@
             "parallel"
           ],
           "artist": "Hokuyuu"
+        },
+        {
+          "id": "ST30-012~ja",
+          "language": "ja",
+          "set": "ST30",
+          "rarity": "SR",
+          "block": "5",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/ST30-012.png",
+          "cardSet": "スタートデッキEX ルフィ&エース【ST-30】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "ST30-012_p1~ja",
+          "language": "ja",
+          "set": "ST30",
+          "rarity": "SR",
+          "block": "5",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/ST30-012_p1.png",
+          "cardSet": "スタートデッキEX ルフィ&エース【ST-30】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "ST30-012_p2~ja",
+          "language": "ja",
+          "set": "P",
+          "rarity": "SR",
+          "block": "5",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/ST30-012_p2.png",
+          "cardSet": "エクストラグランドバトル2026 10月優勝記念品",
+          "source": "bandai"
         }
       ]
     },
     {
       "number": "ST30-013",
       "name": "Mr.2.Bon.Kurei(Bentham)",
+      "names": {
+        "en": "Mr.2.Bon.Kurei(Bentham)",
+        "ja": "Mr.2・ボン・クレー(ベンサム)"
+      },
       "category": "Character",
       "cost": 4,
       "power": 6000,
@@ -890,12 +1264,42 @@
             "full_art"
           ],
           "artist": "Misa Matoki"
+        },
+        {
+          "id": "ST30-013~ja",
+          "language": "ja",
+          "set": "ST30",
+          "rarity": "C",
+          "block": "5",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/ST30-013.png",
+          "cardSet": "スタートデッキEX ルフィ&エース【ST-30】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "ST30-013_p1~ja",
+          "language": "ja",
+          "set": "ST30",
+          "rarity": "C",
+          "block": "5",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/ST30-013_p1.png",
+          "cardSet": "スタートデッキEX ルフィ&エース【ST-30】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "ST30-014",
       "name": "Mr.3(Galdino)",
+      "names": {
+        "en": "Mr.3(Galdino)",
+        "ja": "Mr.3(ギャルディーノ)"
+      },
       "category": "Character",
       "cost": 2,
       "power": 3000,
@@ -959,12 +1363,42 @@
             "full_art"
           ],
           "artist": "Nekobayashi"
+        },
+        {
+          "id": "ST30-014~ja",
+          "language": "ja",
+          "set": "ST30",
+          "rarity": "C",
+          "block": "5",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/ST30-014.png",
+          "cardSet": "スタートデッキEX ルフィ&エース【ST-30】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "ST30-014_p1~ja",
+          "language": "ja",
+          "set": "ST30",
+          "rarity": "C",
+          "block": "5",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/ST30-014_p1.png",
+          "cardSet": "スタートデッキEX ルフィ&エース【ST-30】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "ST30-015",
       "name": "The Name of This Era Is \"Whitebeard\"!!",
+      "names": {
+        "en": "The Name of This Era Is \"Whitebeard\"!!",
+        "ja": "この時代の名が!!!\"白ひげ\"だァ!!!"
+      },
       "category": "Event",
       "cost": 1,
       "colors": [
@@ -1020,12 +1454,42 @@
           "treatments": [
             "parallel"
           ]
+        },
+        {
+          "id": "ST30-015~ja",
+          "language": "ja",
+          "set": "ST30",
+          "rarity": "C",
+          "block": "5",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/ST30-015.png",
+          "cardSet": "スタートデッキEX ルフィ&エース【ST-30】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "ST30-015_p1~ja",
+          "language": "ja",
+          "set": "ST30",
+          "rarity": "C",
+          "block": "5",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/ST30-015_p1.png",
+          "cardSet": "スタートデッキEX ルフィ&エース【ST-30】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "ST30-016",
       "name": "Can You Still Fight, Luffy?! Of Course!!",
+      "names": {
+        "en": "Can You Still Fight, Luffy?! Of Course!!",
+        "ja": "戦えるかルフィ!!!勿論だ!!!"
+      },
       "category": "Event",
       "cost": 1,
       "colors": [
@@ -1082,12 +1546,42 @@
           "treatments": [
             "parallel"
           ]
+        },
+        {
+          "id": "ST30-016~ja",
+          "language": "ja",
+          "set": "ST30",
+          "rarity": "C",
+          "block": "5",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/ST30-016.png",
+          "cardSet": "スタートデッキEX ルフィ&エース【ST-30】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "ST30-016_p1~ja",
+          "language": "ja",
+          "set": "ST30",
+          "rarity": "C",
+          "block": "5",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/ST30-016_p1.png",
+          "cardSet": "スタートデッキEX ルフィ&エース【ST-30】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "ST30-017",
       "name": "And You Get Yourself in Big Trouble!!",
+      "names": {
+        "en": "And You Get Yourself in Big Trouble!!",
+        "ja": "無茶ばっかりしやがって!!!"
+      },
       "category": "Event",
       "cost": 1,
       "colors": [
@@ -1142,6 +1636,32 @@
           },
           "treatments": [
             "parallel"
+          ]
+        },
+        {
+          "id": "ST30-017~ja",
+          "language": "ja",
+          "set": "ST30",
+          "rarity": "C",
+          "block": "5",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/ST30-017.png",
+          "cardSet": "スタートデッキEX ルフィ&エース【ST-30】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "ST30-017_p1~ja",
+          "language": "ja",
+          "set": "ST30",
+          "rarity": "C",
+          "block": "5",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/ST30-017_p1.png",
+          "cardSet": "スタートデッキEX ルフィ&エース【ST-30】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
           ]
         }
       ]

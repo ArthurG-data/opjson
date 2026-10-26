@@ -123,6 +123,8 @@ def main() -> None:
     cropped = packs = 0
     sealed = opjson.load_sealed()
     for s in sets:
+        if not opjson.has_release(s, "en"):
+            continue
         release = next(r for r in s["releases"] if r["language"] == "en")
         release.pop("keyArt", None)
         if s["id"] in found:

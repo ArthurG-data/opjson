@@ -3,6 +3,10 @@
     {
       "number": "OP11-001",
       "name": "Koby",
+      "names": {
+        "en": "Koby",
+        "ja": "コビー"
+      },
       "category": "Leader",
       "power": 5000,
       "life": 4,
@@ -66,12 +70,42 @@
             "alternate_art"
           ],
           "artist": "Ryuda"
+        },
+        {
+          "id": "OP11-001~ja",
+          "language": "ja",
+          "set": "OP11",
+          "rarity": "L",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP11-001.png",
+          "cardSet": "ブースターパック 神速の拳【OP-11】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
+        },
+        {
+          "id": "OP11-001_p1~ja",
+          "language": "ja",
+          "set": "OP11",
+          "rarity": "L",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP11-001_p1.png",
+          "cardSet": "ブースターパック 神速の拳【OP-11】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "OP11-002",
       "name": "Ain",
+      "names": {
+        "en": "Ain",
+        "ja": "アイン"
+      },
       "category": "Character",
       "cost": 3,
       "power": 4000,
@@ -137,12 +171,29 @@
             }
           ],
           "artist": "Hatori Kyoka"
+        },
+        {
+          "id": "OP11-002~ja",
+          "language": "ja",
+          "set": "OP11",
+          "rarity": "C",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP11-002.png",
+          "cardSet": "ブースターパック 神速の拳【OP-11】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP11-003",
       "name": "Usopp",
+      "names": {
+        "en": "Usopp",
+        "ja": "ウソップ"
+      },
       "category": "Character",
       "cost": 5,
       "power": 6000,
@@ -267,12 +318,42 @@
               "category": "event"
             }
           ]
+        },
+        {
+          "id": "OP11-003~ja",
+          "language": "ja",
+          "set": "OP11",
+          "rarity": "UC",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP11-003.png",
+          "cardSet": "ブースターパック 神速の拳【OP-11】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
+        },
+        {
+          "id": "OP11-003_r1~ja",
+          "language": "ja",
+          "set": "ST31",
+          "rarity": "UC",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP11-003_r1.png",
+          "cardSet": "スタートデッキ 赤 モンキー・D・ルフィ【ST-31】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP11-004",
       "name": "Kujyaku",
+      "names": {
+        "en": "Kujyaku",
+        "ja": "孔雀"
+      },
       "category": "Character",
       "cost": 1,
       "counter": 1000,
@@ -364,12 +445,42 @@
             }
           ],
           "artist": "Hashimoto Q"
+        },
+        {
+          "id": "OP11-004~ja",
+          "language": "ja",
+          "set": "OP11",
+          "rarity": "SR",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP11-004.png",
+          "cardSet": "ブースターパック 神速の拳【OP-11】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP11-004_p1~ja",
+          "language": "ja",
+          "set": "OP11",
+          "rarity": "SR",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP11-004_p1.png",
+          "cardSet": "ブースターパック 神速の拳【OP-11】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "OP11-005",
       "name": "Smoker",
+      "names": {
+        "en": "Smoker",
+        "ja": "スモーカー"
+      },
       "category": "Character",
       "cost": 4,
       "power": 5000,
@@ -434,12 +545,29 @@
             }
           ],
           "artist": "Studio Vigor Co. Ltd"
+        },
+        {
+          "id": "OP11-005~ja",
+          "language": "ja",
+          "set": "OP11",
+          "rarity": "C",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP11-005.png",
+          "cardSet": "ブースターパック 神速の拳【OP-11】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP11-006",
       "name": "Zephyr",
+      "names": {
+        "en": "Zephyr",
+        "ja": "ゼット"
+      },
       "category": "Character",
       "cost": 5,
       "power": 6000,
@@ -505,12 +633,29 @@
             }
           ],
           "artist": "Anderson"
+        },
+        {
+          "id": "OP11-006~ja",
+          "language": "ja",
+          "set": "OP11",
+          "rarity": "C",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP11-006.png",
+          "cardSet": "ブースターパック 神速の拳【OP-11】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP11-007",
       "name": "Tashigi",
+      "names": {
+        "en": "Tashigi",
+        "ja": "たしぎ"
+      },
       "category": "Character",
       "cost": 1,
       "power": 1000,
@@ -575,12 +720,29 @@
             }
           ],
           "artist": "SHINRA AGENCY Co. Ltd."
+        },
+        {
+          "id": "OP11-007~ja",
+          "language": "ja",
+          "set": "OP11",
+          "rarity": "C",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP11-007.png",
+          "cardSet": "ブースターパック 神速の拳【OP-11】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP11-008",
       "name": "Doll",
+      "names": {
+        "en": "Doll",
+        "ja": "ドール"
+      },
       "category": "Character",
       "cost": 4,
       "power": 1000,
@@ -643,12 +805,42 @@
             "alternate_art"
           ],
           "artist": "phima"
+        },
+        {
+          "id": "OP11-008~ja",
+          "language": "ja",
+          "set": "OP11",
+          "rarity": "R",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP11-008.png",
+          "cardSet": "ブースターパック 神速の拳【OP-11】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP11-008_p1~ja",
+          "language": "ja",
+          "set": "OP11",
+          "rarity": "R",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP11-008_p1.png",
+          "cardSet": "ブースターパック 神速の拳【OP-11】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "OP11-009",
       "name": "Nico Robin",
+      "names": {
+        "en": "Nico Robin",
+        "ja": "ニコ・ロビン"
+      },
       "category": "Character",
       "cost": 3,
       "power": 4000,
@@ -727,12 +919,42 @@
             }
           ],
           "artist": "Naruse Uroko"
+        },
+        {
+          "id": "OP11-009~ja",
+          "language": "ja",
+          "set": "OP11",
+          "rarity": "C",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP11-009.png",
+          "cardSet": "ブースターパック 神速の拳【OP-11】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
+        },
+        {
+          "id": "OP11-009_r1~ja",
+          "language": "ja",
+          "set": "ST31",
+          "rarity": "C",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP11-009_r1.png",
+          "cardSet": "スタートデッキ 赤 モンキー・D・ルフィ【ST-31】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP11-010",
       "name": "Hibari",
+      "names": {
+        "en": "Hibari",
+        "ja": "ひばり"
+      },
       "category": "Character",
       "cost": 5,
       "power": 6000,
@@ -821,12 +1043,52 @@
             }
           ],
           "artist": "nuisuke"
+        },
+        {
+          "id": "OP11-010~ja",
+          "language": "ja",
+          "set": "OP11",
+          "rarity": "SR",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP11-010.png",
+          "cardSet": "ブースターパック 神速の拳【OP-11】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP11-010_p1~ja",
+          "language": "ja",
+          "set": "OP11",
+          "rarity": "SR",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP11-010_p1.png",
+          "cardSet": "ブースターパック 神速の拳【OP-11】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP11-010_p2~ja",
+          "language": "ja",
+          "set": "P",
+          "rarity": "SR",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP11-010_p2.png",
+          "cardSet": "フラッグシップバトル2025 4月ベスト8記念品",
+          "source": "bandai"
         }
       ]
     },
     {
       "number": "OP11-011",
       "name": "Bins",
+      "names": {
+        "en": "Bins",
+        "ja": "ビンズ"
+      },
       "category": "Character",
       "cost": 5,
       "power": 7000,
@@ -892,12 +1154,29 @@
             }
           ],
           "artist": "Yoichi Amano"
+        },
+        {
+          "id": "OP11-011~ja",
+          "language": "ja",
+          "set": "OP11",
+          "rarity": "C",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP11-011.png",
+          "cardSet": "ブースターパック 神速の拳【OP-11】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP11-012",
       "name": "Franky",
+      "names": {
+        "en": "Franky",
+        "ja": "フランキー"
+      },
       "category": "Character",
       "cost": 4,
       "power": 4000,
@@ -1057,12 +1336,52 @@
               "category": "placement"
             }
           ]
+        },
+        {
+          "id": "OP11-012~ja",
+          "language": "ja",
+          "set": "OP11",
+          "rarity": "UC",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP11-012.png",
+          "cardSet": "ブースターパック 神速の拳【OP-11】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
+        },
+        {
+          "id": "OP11-012_p1~ja",
+          "language": "ja",
+          "set": "P",
+          "rarity": "UC",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP11-012_p1.png",
+          "cardSet": "プロモーションパックVol.8",
+          "source": "bandai"
+        },
+        {
+          "id": "OP11-012_r1~ja",
+          "language": "ja",
+          "set": "ST31",
+          "rarity": "UC",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP11-012_r1.png",
+          "cardSet": "スタートデッキ 赤 モンキー・D・ルフィ【ST-31】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP11-013",
       "name": "Prince Grus",
+      "names": {
+        "en": "Prince Grus",
+        "ja": "プリンス・グルス"
+      },
       "category": "Character",
       "cost": 1,
       "power": 2000,
@@ -1126,12 +1445,29 @@
               "category": "program"
             }
           ]
+        },
+        {
+          "id": "OP11-013~ja",
+          "language": "ja",
+          "set": "OP11",
+          "rarity": "R",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP11-013.png",
+          "cardSet": "ブースターパック 神速の拳【OP-11】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "OP11-014",
       "name": "Borsalino",
+      "names": {
+        "en": "Borsalino",
+        "ja": "ボルサリーノ"
+      },
       "category": "Character",
       "cost": 3,
       "power": 3000,
@@ -1169,12 +1505,29 @@
             "distance": 2
           },
           "artist": "ASAKI KURODA"
+        },
+        {
+          "id": "OP11-014~ja",
+          "language": "ja",
+          "set": "OP11",
+          "rarity": "R",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP11-014.png",
+          "cardSet": "ブースターパック 神速の拳【OP-11】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "OP11-015",
       "name": "Mocha",
+      "names": {
+        "en": "Mocha",
+        "ja": "モチャ"
+      },
       "category": "Character",
       "cost": 4,
       "power": 6000,
@@ -1239,12 +1592,29 @@
             }
           ],
           "artist": "COGA"
+        },
+        {
+          "id": "OP11-015~ja",
+          "language": "ja",
+          "set": "OP11",
+          "rarity": "C",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP11-015.png",
+          "cardSet": "ブースターパック 神速の拳【OP-11】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP11-016",
       "name": "Roronoa Zoro",
+      "names": {
+        "en": "Roronoa Zoro",
+        "ja": "ロロノア・ゾロ"
+      },
       "category": "Character",
       "cost": 5,
       "power": 6000,
@@ -1329,12 +1699,29 @@
           "finishes": [
             "nonfoil"
           ]
+        },
+        {
+          "id": "OP11-016~ja",
+          "language": "ja",
+          "set": "OP11",
+          "rarity": "UC",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP11-016.png",
+          "cardSet": "ブースターパック 神速の拳【OP-11】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP11-017",
       "name": "X.Drake",
+      "names": {
+        "en": "X.Drake",
+        "ja": "X・ドレーク"
+      },
       "category": "Character",
       "cost": 6,
       "power": 7000,
@@ -1427,12 +1814,29 @@
               "category": "program"
             }
           ]
+        },
+        {
+          "id": "OP11-017~ja",
+          "language": "ja",
+          "set": "OP11",
+          "rarity": "UC",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP11-017.png",
+          "cardSet": "ブースターパック 神速の拳【OP-11】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP11-018",
       "name": "Honesty Impact",
+      "names": {
+        "en": "Honesty Impact",
+        "ja": "実直拳骨"
+      },
       "category": "Event",
       "cost": 6,
       "colors": [
@@ -1489,12 +1893,42 @@
           "treatments": [
             "alternate_art"
           ]
+        },
+        {
+          "id": "OP11-018~ja",
+          "language": "ja",
+          "set": "OP11",
+          "rarity": "R",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP11-018.png",
+          "cardSet": "ブースターパック 神速の拳【OP-11】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP11-018_p1~ja",
+          "language": "ja",
+          "set": "OP11",
+          "rarity": "R",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP11-018_p1.png",
+          "cardSet": "ブースターパック 神速の拳【OP-11】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "OP11-019",
       "name": "Glorp Web!!",
+      "names": {
+        "en": "Glorp Web!!",
+        "ja": "粘土の巣"
+      },
       "category": "Event",
       "cost": 2,
       "colors": [
@@ -1553,12 +1987,29 @@
               "category": "event"
             }
           ]
+        },
+        {
+          "id": "OP11-019~ja",
+          "language": "ja",
+          "set": "OP11",
+          "rarity": "C",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP11-019.png",
+          "cardSet": "ブースターパック 神速の拳【OP-11】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP11-020",
       "name": "X Calibur",
+      "names": {
+        "en": "X Calibur",
+        "ja": "X狩場"
+      },
       "category": "Event",
       "cost": 2,
       "colors": [
@@ -1618,12 +2069,29 @@
               "category": "event"
             }
           ]
+        },
+        {
+          "id": "OP11-020~ja",
+          "language": "ja",
+          "set": "OP11",
+          "rarity": "UC",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP11-020.png",
+          "cardSet": "ブースターパック 神速の拳【OP-11】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP11-021",
       "name": "Jinbe",
+      "names": {
+        "en": "Jinbe",
+        "ja": "ジンベエ"
+      },
       "category": "Leader",
       "power": 5000,
       "life": 5,
@@ -1686,12 +2154,42 @@
             "alternate_art"
           ],
           "artist": "SENNSU"
+        },
+        {
+          "id": "OP11-021~ja",
+          "language": "ja",
+          "set": "OP11",
+          "rarity": "L",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP11-021.png",
+          "cardSet": "ブースターパック 神速の拳【OP-11】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
+        },
+        {
+          "id": "OP11-021_p1~ja",
+          "language": "ja",
+          "set": "OP11",
+          "rarity": "L",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP11-021_p1.png",
+          "cardSet": "ブースターパック 神速の拳【OP-11】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "OP11-022",
       "name": "Shirahoshi",
+      "names": {
+        "en": "Shirahoshi",
+        "ja": "しらほし"
+      },
       "category": "Leader",
       "power": 5000,
       "life": 5,
@@ -1755,12 +2253,42 @@
             "alternate_art"
           ],
           "artist": "Naruse Uroko"
+        },
+        {
+          "id": "OP11-022~ja",
+          "language": "ja",
+          "set": "OP11",
+          "rarity": "L",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP11-022.png",
+          "cardSet": "ブースターパック 神速の拳【OP-11】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
+        },
+        {
+          "id": "OP11-022_p1~ja",
+          "language": "ja",
+          "set": "OP11",
+          "rarity": "L",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP11-022_p1.png",
+          "cardSet": "ブースターパック 神速の拳【OP-11】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "OP11-023",
       "name": "Arlong",
+      "names": {
+        "en": "Arlong",
+        "ja": "アーロン"
+      },
       "category": "Character",
       "cost": 7,
       "power": 7000,
@@ -1825,12 +2353,42 @@
             "alternate_art"
           ],
           "artist": "DAI-XT."
+        },
+        {
+          "id": "OP11-023~ja",
+          "language": "ja",
+          "set": "OP11",
+          "rarity": "R",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP11-023.png",
+          "cardSet": "ブースターパック 神速の拳【OP-11】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP11-023_p1~ja",
+          "language": "ja",
+          "set": "OP11",
+          "rarity": "R",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP11-023_p1.png",
+          "cardSet": "ブースターパック 神速の拳【OP-11】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "OP11-024",
       "name": "Aladine",
+      "names": {
+        "en": "Aladine",
+        "ja": "アラディン"
+      },
       "category": "Character",
       "cost": 4,
       "power": 5000,
@@ -1897,12 +2455,29 @@
             }
           ],
           "artist": "DAI-XT."
+        },
+        {
+          "id": "OP11-024~ja",
+          "language": "ja",
+          "set": "OP11",
+          "rarity": "C",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP11-024.png",
+          "cardSet": "ブースターパック 神速の拳【OP-11】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP11-025",
       "name": "Ishilly",
+      "names": {
+        "en": "Ishilly",
+        "ja": "イシリー"
+      },
       "category": "Character",
       "cost": 2,
       "counter": 1000,
@@ -1967,12 +2542,29 @@
             }
           ],
           "artist": "Koushi Rokushiro"
+        },
+        {
+          "id": "OP11-025~ja",
+          "language": "ja",
+          "set": "OP11",
+          "rarity": "C",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP11-025.png",
+          "cardSet": "ブースターパック 神速の拳【OP-11】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP11-026",
       "name": "Scaled Neptunian",
+      "names": {
+        "en": "Scaled Neptunian",
+        "ja": "ウロコ"
+      },
       "category": "Character",
       "cost": 6,
       "power": 8000,
@@ -2037,12 +2629,29 @@
             }
           ],
           "artist": "HISASHI HUJIWARA"
+        },
+        {
+          "id": "OP11-026~ja",
+          "language": "ja",
+          "set": "OP11",
+          "rarity": "C",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP11-026.png",
+          "cardSet": "ブースターパック 神速の拳【OP-11】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP11-027",
       "name": "Bulge-Eyed Neptunian",
+      "names": {
+        "en": "Bulge-Eyed Neptunian",
+        "ja": "ギョロ目"
+      },
       "category": "Character",
       "cost": 4,
       "power": 6000,
@@ -2106,12 +2715,29 @@
             }
           ],
           "artist": "kankurou"
+        },
+        {
+          "id": "OP11-027~ja",
+          "language": "ja",
+          "set": "OP11",
+          "rarity": "C",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP11-027.png",
+          "cardSet": "ブースターパック 神速の拳【OP-11】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP11-028",
       "name": "Lord of the Coast",
+      "names": {
+        "en": "Lord of the Coast",
+        "ja": "近海の主"
+      },
       "category": "Character",
       "cost": 4,
       "power": 5000,
@@ -2175,12 +2801,29 @@
               "category": "program"
             }
           ]
+        },
+        {
+          "id": "OP11-028~ja",
+          "language": "ja",
+          "set": "OP11",
+          "rarity": "R",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP11-028.png",
+          "cardSet": "ブースターパック 神速の拳【OP-11】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "OP11-029",
       "name": "Charlotte Praline",
+      "names": {
+        "en": "Charlotte Praline",
+        "ja": "シャーロット・プラリネ"
+      },
       "category": "Character",
       "cost": 3,
       "power": 4000,
@@ -2247,12 +2890,29 @@
             }
           ],
           "artist": "Hagane Tsurugi"
+        },
+        {
+          "id": "OP11-029~ja",
+          "language": "ja",
+          "set": "OP11",
+          "rarity": "UC",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP11-029.png",
+          "cardSet": "ブースターパック 神速の拳【OP-11】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP11-030",
       "name": "Shirahoshi",
+      "names": {
+        "en": "Shirahoshi",
+        "ja": "しらほし"
+      },
       "category": "Character",
       "cost": 1,
       "counter": 1000,
@@ -2315,12 +2975,29 @@
               "category": "program"
             }
           ]
+        },
+        {
+          "id": "OP11-030~ja",
+          "language": "ja",
+          "set": "OP11",
+          "rarity": "R",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP11-030.png",
+          "cardSet": "ブースターパック 神速の拳【OP-11】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "OP11-031",
       "name": "Jinbe",
+      "names": {
+        "en": "Jinbe",
+        "ja": "ジンベエ"
+      },
       "category": "Character",
       "cost": 6,
       "power": 8000,
@@ -2384,12 +3061,42 @@
             "alternate_art"
           ],
           "artist": "Yosuke Adachi"
+        },
+        {
+          "id": "OP11-031~ja",
+          "language": "ja",
+          "set": "OP11",
+          "rarity": "SR",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP11-031.png",
+          "cardSet": "ブースターパック 神速の拳【OP-11】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP11-031_p1~ja",
+          "language": "ja",
+          "set": "OP11",
+          "rarity": "SR",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP11-031_p1.png",
+          "cardSet": "ブースターパック 神速の拳【OP-11】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "OP11-032",
       "name": "Surume",
+      "names": {
+        "en": "Surume",
+        "ja": "スルメ"
+      },
       "category": "Character",
       "cost": 5,
       "power": 6000,
@@ -2455,12 +3162,29 @@
             }
           ],
           "artist": "HISASHI HUJIWARA"
+        },
+        {
+          "id": "OP11-032~ja",
+          "language": "ja",
+          "set": "OP11",
+          "rarity": "UC",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP11-032.png",
+          "cardSet": "ブースターパック 神速の拳【OP-11】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP11-033",
       "name": "Bird Neptunian",
+      "names": {
+        "en": "Bird Neptunian",
+        "ja": "トリ"
+      },
       "category": "Character",
       "cost": 6,
       "power": 7000,
@@ -2525,12 +3249,29 @@
             }
           ],
           "artist": "Nekobayashi"
+        },
+        {
+          "id": "OP11-033~ja",
+          "language": "ja",
+          "set": "OP11",
+          "rarity": "UC",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP11-033.png",
+          "cardSet": "ブースターパック 神速の拳【OP-11】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP11-034",
       "name": "Hatchan",
+      "names": {
+        "en": "Hatchan",
+        "ja": "はっちゃん"
+      },
       "category": "Character",
       "cost": 4,
       "power": 5000,
@@ -2597,12 +3338,29 @@
             }
           ],
           "artist": "Nekobayashi"
+        },
+        {
+          "id": "OP11-034~ja",
+          "language": "ja",
+          "set": "OP11",
+          "rarity": "C",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP11-034.png",
+          "cardSet": "ブースターパック 神速の拳【OP-11】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP11-035",
       "name": "Fisher Tiger",
+      "names": {
+        "en": "Fisher Tiger",
+        "ja": "フィッシャー・タイガー"
+      },
       "category": "Character",
       "cost": 6,
       "power": 7000,
@@ -2669,12 +3427,29 @@
             }
           ],
           "artist": "eiji kaneda"
+        },
+        {
+          "id": "OP11-035~ja",
+          "language": "ja",
+          "set": "OP11",
+          "rarity": "C",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP11-035.png",
+          "cardSet": "ブースターパック 神速の拳【OP-11】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP11-036",
       "name": "Spotted Neptunian",
+      "names": {
+        "en": "Spotted Neptunian",
+        "ja": "マダラ"
+      },
       "category": "Character",
       "cost": 4,
       "power": 5000,
@@ -2739,12 +3514,29 @@
             }
           ],
           "artist": "Misa Matoki"
+        },
+        {
+          "id": "OP11-036~ja",
+          "language": "ja",
+          "set": "OP11",
+          "rarity": "UC",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP11-036.png",
+          "cardSet": "ブースターパック 神速の拳【OP-11】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP11-037",
       "name": "Ancient Weapon Poseidon",
+      "names": {
+        "en": "Ancient Weapon Poseidon",
+        "ja": "“古代兵器”「ポセイドン」"
+      },
       "category": "Event",
       "cost": 1,
       "colors": [
@@ -2802,12 +3594,29 @@
               "category": "event"
             }
           ]
+        },
+        {
+          "id": "OP11-037~ja",
+          "language": "ja",
+          "set": "OP11",
+          "rarity": "UC",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP11-037.png",
+          "cardSet": "ブースターパック 神速の拳【OP-11】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP11-038",
       "name": "Gum-Gum Elephant Gatling",
+      "names": {
+        "en": "Gum-Gum Elephant Gatling",
+        "ja": "ゴムゴムの象銃乱打"
+      },
       "category": "Event",
       "cost": 1,
       "colors": [
@@ -2840,12 +3649,29 @@
             "match": "image-only-candidate",
             "distance": 1
           }
+        },
+        {
+          "id": "OP11-038~ja",
+          "language": "ja",
+          "set": "OP11",
+          "rarity": "R",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP11-038.png",
+          "cardSet": "ブースターパック 神速の拳【OP-11】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "OP11-039",
       "name": "Vagabond Drill",
+      "names": {
+        "en": "Vagabond Drill",
+        "ja": "武頼貫"
+      },
       "category": "Event",
       "cost": 1,
       "colors": [
@@ -2905,12 +3731,29 @@
               "category": "event"
             }
           ]
+        },
+        {
+          "id": "OP11-039~ja",
+          "language": "ja",
+          "set": "OP11",
+          "rarity": "C",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP11-039.png",
+          "cardSet": "ブースターパック 神速の拳【OP-11】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP11-040",
       "name": "Monkey.D.Luffy",
+      "names": {
+        "en": "Monkey.D.Luffy",
+        "ja": "モンキー・Ｄ・ルフィ"
+      },
       "category": "Leader",
       "power": 6000,
       "life": 3,
@@ -2996,12 +3839,42 @@
               "category": "event"
             }
           ]
+        },
+        {
+          "id": "OP11-040~ja",
+          "language": "ja",
+          "set": "OP11",
+          "rarity": "L",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP11-040.png",
+          "cardSet": "ブースターパック 神速の拳【OP-11】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
+        },
+        {
+          "id": "OP11-040_p1~ja",
+          "language": "ja",
+          "set": "OP11",
+          "rarity": "L",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP11-040_p1.png",
+          "cardSet": "ブースターパック 神速の拳【OP-11】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "OP11-041",
       "name": "Nami",
+      "names": {
+        "en": "Nami",
+        "ja": "ナミ"
+      },
       "category": "Leader",
       "power": 5000,
       "life": 4,
@@ -3117,12 +3990,42 @@
           "finishes": [
             "foil"
           ]
+        },
+        {
+          "id": "OP11-041~ja",
+          "language": "ja",
+          "set": "OP11",
+          "rarity": "L",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP11-041.png",
+          "cardSet": "ブースターパック 神速の拳【OP-11】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
+        },
+        {
+          "id": "OP11-041_p1~ja",
+          "language": "ja",
+          "set": "OP11",
+          "rarity": "L",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP11-041_p1.png",
+          "cardSet": "ブースターパック 神速の拳【OP-11】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "OP11-042",
       "name": "Vito",
+      "names": {
+        "en": "Vito",
+        "ja": "ヴィト"
+      },
       "category": "Character",
       "cost": 3,
       "power": 4000,
@@ -3187,12 +4090,29 @@
             }
           ],
           "artist": "S-KINOKO"
+        },
+        {
+          "id": "OP11-042~ja",
+          "language": "ja",
+          "set": "OP11",
+          "rarity": "C",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP11-042.png",
+          "cardSet": "ブースターパック 神速の拳【OP-11】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP11-043",
       "name": "Vinsmoke Ichiji",
+      "names": {
+        "en": "Vinsmoke Ichiji",
+        "ja": "ヴィンスモーク・イチジ"
+      },
       "category": "Character",
       "cost": 7,
       "power": 7000,
@@ -3257,12 +4177,29 @@
             }
           ],
           "artist": "UGUME"
+        },
+        {
+          "id": "OP11-043~ja",
+          "language": "ja",
+          "set": "OP11",
+          "rarity": "C",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP11-043.png",
+          "cardSet": "ブースターパック 神速の拳【OP-11】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP11-044",
       "name": "Vinsmoke Judge",
+      "names": {
+        "en": "Vinsmoke Judge",
+        "ja": "ヴィンスモーク・ジャッジ"
+      },
       "category": "Character",
       "cost": 6,
       "power": 8000,
@@ -3327,12 +4264,29 @@
             }
           ],
           "artist": "tasaka"
+        },
+        {
+          "id": "OP11-044~ja",
+          "language": "ja",
+          "set": "OP11",
+          "rarity": "C",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP11-044.png",
+          "cardSet": "ブースターパック 神速の拳【OP-11】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP11-045",
       "name": "Vinsmoke Niji",
+      "names": {
+        "en": "Vinsmoke Niji",
+        "ja": "ヴィンスモーク・ニジ"
+      },
       "category": "Character",
       "cost": 5,
       "power": 6000,
@@ -3398,12 +4352,29 @@
             }
           ],
           "artist": "KISUKE"
+        },
+        {
+          "id": "OP11-045~ja",
+          "language": "ja",
+          "set": "OP11",
+          "rarity": "UC",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP11-045.png",
+          "cardSet": "ブースターパック 神速の拳【OP-11】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP11-046",
       "name": "Vinsmoke Yonji",
+      "names": {
+        "en": "Vinsmoke Yonji",
+        "ja": "ヴィンスモーク・ヨンジ"
+      },
       "category": "Character",
       "cost": 4,
       "power": 5000,
@@ -3469,12 +4440,29 @@
             }
           ],
           "artist": "Bashikou"
+        },
+        {
+          "id": "OP11-046~ja",
+          "language": "ja",
+          "set": "OP11",
+          "rarity": "C",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP11-046.png",
+          "cardSet": "ブースターパック 神速の拳【OP-11】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP11-047",
       "name": "Vinsmoke Reiju",
+      "names": {
+        "en": "Vinsmoke Reiju",
+        "ja": "ヴィンスモーク・レイジュ"
+      },
       "category": "Character",
       "cost": 4,
       "power": 5000,
@@ -3538,12 +4526,42 @@
             "alternate_art"
           ],
           "artist": "NIJIMAARC"
+        },
+        {
+          "id": "OP11-047~ja",
+          "language": "ja",
+          "set": "OP11",
+          "rarity": "R",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP11-047.png",
+          "cardSet": "ブースターパック 神速の拳【OP-11】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP11-047_p1~ja",
+          "language": "ja",
+          "set": "OP11",
+          "rarity": "R",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP11-047_p1.png",
+          "cardSet": "ブースターパック 神速の拳【OP-11】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "OP11-048",
       "name": "Capone\"Gang\"Bege",
+      "names": {
+        "en": "Capone\"Gang\"Bege",
+        "ja": "カポネ・ベッジ"
+      },
       "category": "Character",
       "cost": 1,
       "power": 2000,
@@ -3601,12 +4619,29 @@
           "finishes": [
             "nonfoil"
           ]
+        },
+        {
+          "id": "OP11-048~ja",
+          "language": "ja",
+          "set": "OP11",
+          "rarity": "R",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP11-048.png",
+          "cardSet": "ブースターパック 神速の拳【OP-11】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "OP11-049",
       "name": "Carrot",
+      "names": {
+        "en": "Carrot",
+        "ja": "キャロット"
+      },
       "category": "Character",
       "cost": 1,
       "power": 1000,
@@ -3643,12 +4678,29 @@
             "distance": 2
           },
           "artist": "sacanahen"
+        },
+        {
+          "id": "OP11-049~ja",
+          "language": "ja",
+          "set": "OP11",
+          "rarity": "R",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP11-049.png",
+          "cardSet": "ブースターパック 神速の拳【OP-11】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "OP11-050",
       "name": "Gotti",
+      "names": {
+        "en": "Gotti",
+        "ja": "ゴッティ"
+      },
       "category": "Character",
       "cost": 3,
       "power": 4000,
@@ -3713,12 +4765,29 @@
             }
           ],
           "artist": "Aidle Co. Ltd."
+        },
+        {
+          "id": "OP11-050~ja",
+          "language": "ja",
+          "set": "OP11",
+          "rarity": "C",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP11-050.png",
+          "cardSet": "ブースターパック 神速の拳【OP-11】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP11-051",
       "name": "Sanji",
+      "names": {
+        "en": "Sanji",
+        "ja": "サンジ"
+      },
       "category": "Character",
       "cost": 6,
       "power": 7000,
@@ -3801,12 +4870,42 @@
           "finishes": [
             "nonfoil"
           ]
+        },
+        {
+          "id": "OP11-051~ja",
+          "language": "ja",
+          "set": "OP11",
+          "rarity": "SR",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP11-051.png",
+          "cardSet": "ブースターパック 神速の拳【OP-11】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP11-051_p1~ja",
+          "language": "ja",
+          "set": "OP11",
+          "rarity": "SR",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP11-051_p1.png",
+          "cardSet": "ブースターパック 神速の拳【OP-11】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "OP11-052",
       "name": "Charlotte Lola",
+      "names": {
+        "en": "Charlotte Lola",
+        "ja": "シャーロット・ローラ"
+      },
       "category": "Character",
       "cost": 5,
       "power": 7000,
@@ -3872,12 +4971,29 @@
             }
           ],
           "artist": "Hashimoto Q"
+        },
+        {
+          "id": "OP11-052~ja",
+          "language": "ja",
+          "set": "OP11",
+          "rarity": "C",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP11-052.png",
+          "cardSet": "ブースターパック 神速の拳【OP-11】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP11-053",
       "name": "Tony Tony.Chopper",
+      "names": {
+        "en": "Tony Tony.Chopper",
+        "ja": "トニートニー・チョッパー"
+      },
       "category": "Character",
       "cost": 5,
       "power": 6000,
@@ -3969,12 +5085,29 @@
               "category": "program"
             }
           ]
+        },
+        {
+          "id": "OP11-053~ja",
+          "language": "ja",
+          "set": "OP11",
+          "rarity": "UC",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP11-053.png",
+          "cardSet": "ブースターパック 神速の拳【OP-11】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP11-054",
       "name": "Nami",
+      "names": {
+        "en": "Nami",
+        "ja": "ナミ"
+      },
       "category": "Character",
       "cost": 5,
       "power": 6000,
@@ -4090,12 +5223,55 @@
           "finishes": [
             "nonfoil"
           ]
+        },
+        {
+          "id": "OP11-054~ja",
+          "language": "ja",
+          "set": "OP11",
+          "rarity": "SR",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP11-054.png",
+          "cardSet": "ブースターパック 神速の拳【OP-11】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP11-054_p1~ja",
+          "language": "ja",
+          "set": "OP11",
+          "rarity": "SR",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP11-054_p1.png",
+          "cardSet": "ブースターパック 神速の拳【OP-11】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP11-054_p2~ja",
+          "language": "ja",
+          "set": "OTHER",
+          "rarity": "SR",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP11-054_p2.png",
+          "cardSet": "ONE PIECE カードゲーム 3rd ANNIVERSARY SET",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "OP11-055",
       "name": "Bartolomeo",
+      "names": {
+        "en": "Bartolomeo",
+        "ja": "バルトロメオ"
+      },
       "category": "Character",
       "cost": 6,
       "power": 7000,
@@ -4161,12 +5337,29 @@
             }
           ],
           "artist": "Morechand"
+        },
+        {
+          "id": "OP11-055~ja",
+          "language": "ja",
+          "set": "OP11",
+          "rarity": "UC",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP11-055.png",
+          "cardSet": "ブースターパック 神速の拳【OP-11】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP11-056",
       "name": "Brook",
+      "names": {
+        "en": "Brook",
+        "ja": "ブルック"
+      },
       "category": "Character",
       "cost": 3,
       "power": 4000,
@@ -4249,12 +5442,29 @@
               "category": "event"
             }
           ]
+        },
+        {
+          "id": "OP11-056~ja",
+          "language": "ja",
+          "set": "OP11",
+          "rarity": "R",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP11-056.png",
+          "cardSet": "ブースターパック 神速の拳【OP-11】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "OP11-057",
       "name": "Pedro",
+      "names": {
+        "en": "Pedro",
+        "ja": "ペドロ"
+      },
       "category": "Character",
       "cost": 1,
       "power": 1000,
@@ -4319,12 +5529,29 @@
             }
           ],
           "artist": "Moopic"
+        },
+        {
+          "id": "OP11-057~ja",
+          "language": "ja",
+          "set": "OP11",
+          "rarity": "C",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP11-057.png",
+          "cardSet": "ブースターパック 神速の拳【OP-11】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP11-058",
       "name": "Monkey.D.Luffy",
+      "names": {
+        "en": "Monkey.D.Luffy",
+        "ja": "モンキー・Ｄ・ルフィ"
+      },
       "category": "Character",
       "cost": 5,
       "power": 7000,
@@ -4412,12 +5639,39 @@
             }
           ],
           "artist": "Studio Vigor Co. Ltd"
+        },
+        {
+          "id": "OP11-058~ja",
+          "language": "ja",
+          "set": "OP11",
+          "rarity": "UC",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP11-058.png",
+          "cardSet": "ブースターパック 神速の拳【OP-11】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
+        },
+        {
+          "id": "OP11-058_p1~ja",
+          "language": "ja",
+          "set": "P",
+          "rarity": "UC",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP11-058_p1.png",
+          "cardSet": "プロモーションパックVol.8",
+          "source": "bandai"
         }
       ]
     },
     {
       "number": "OP11-059",
       "name": "Gum-Gum King Cobra",
+      "names": {
+        "en": "Gum-Gum King Cobra",
+        "ja": "ゴムゴムの王蛇"
+      },
       "category": "Event",
       "cost": 1,
       "colors": [
@@ -4475,12 +5729,29 @@
               "category": "event"
             }
           ]
+        },
+        {
+          "id": "OP11-059~ja",
+          "language": "ja",
+          "set": "OP11",
+          "rarity": "C",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP11-059.png",
+          "cardSet": "ブースターパック 神速の拳【OP-11】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP11-060",
       "name": "Let's Crash This Wedding!!!",
+      "names": {
+        "en": "Let's Crash This Wedding!!!",
+        "ja": "式をブッ壊そう!!!"
+      },
       "category": "Event",
       "cost": 1,
       "colors": [
@@ -4567,12 +5838,39 @@
               "category": "retail"
             }
           ]
+        },
+        {
+          "id": "OP11-060~ja",
+          "language": "ja",
+          "set": "OP11",
+          "rarity": "R",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP11-060.png",
+          "cardSet": "ブースターパック 神速の拳【OP-11】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP11-060_p1~ja",
+          "language": "ja",
+          "set": "OTHER",
+          "rarity": "R",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP11-060_p1.png",
+          "cardSet": "プレミアムカードコレクション - ベストセレクション vol.5 -",
+          "source": "bandai"
         }
       ]
     },
     {
       "number": "OP11-061",
       "name": "Gum-Gum Jet Culverin",
+      "names": {
+        "en": "Gum-Gum Jet Culverin",
+        "ja": "ゴムゴムのJET大蛇砲"
+      },
       "category": "Event",
       "cost": 3,
       "colors": [
@@ -4656,12 +5954,29 @@
               "category": "program"
             }
           ]
+        },
+        {
+          "id": "OP11-061~ja",
+          "language": "ja",
+          "set": "OP11",
+          "rarity": "UC",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP11-061.png",
+          "cardSet": "ブースターパック 神速の拳【OP-11】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP11-062",
       "name": "Charlotte Katakuri",
+      "names": {
+        "en": "Charlotte Katakuri",
+        "ja": "シャーロット・カタクリ"
+      },
       "category": "Leader",
       "power": 5000,
       "life": 5,
@@ -4746,12 +6061,55 @@
             "distance": 5
           },
           "artist": "Bashikou"
+        },
+        {
+          "id": "OP11-062~ja",
+          "language": "ja",
+          "set": "OP11",
+          "rarity": "L",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP11-062.png",
+          "cardSet": "ブースターパック 神速の拳【OP-11】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
+        },
+        {
+          "id": "OP11-062_p1~ja",
+          "language": "ja",
+          "set": "OP11",
+          "rarity": "L",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP11-062_p1.png",
+          "cardSet": "ブースターパック 神速の拳【OP-11】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP11-062_p2~ja",
+          "language": "ja",
+          "set": "ST34",
+          "rarity": "L",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP11-062_p2.png",
+          "cardSet": "スタートデッキ 紫 シャーロット・カタクリ【ST-34】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "OP11-063",
       "name": "Little Sadi",
+      "names": {
+        "en": "Little Sadi",
+        "ja": "サディちゃん"
+      },
       "category": "Character",
       "cost": 2,
       "power": 2000,
@@ -4816,12 +6174,29 @@
             }
           ],
           "artist": "Studio Vigor Co. Ltd"
+        },
+        {
+          "id": "OP11-063~ja",
+          "language": "ja",
+          "set": "OP11",
+          "rarity": "C",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP11-063.png",
+          "cardSet": "ブースターパック 神速の拳【OP-11】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP11-064",
       "name": "Saldeath",
+      "names": {
+        "en": "Saldeath",
+        "ja": "サルデス"
+      },
       "category": "Character",
       "cost": 6,
       "power": 8000,
@@ -4886,12 +6261,29 @@
             }
           ],
           "artist": "Suzume Muraichi"
+        },
+        {
+          "id": "OP11-064~ja",
+          "language": "ja",
+          "set": "OP11",
+          "rarity": "C",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP11-064.png",
+          "cardSet": "ブースターパック 神速の拳【OP-11】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP11-065",
       "name": "Charlotte Anana",
+      "names": {
+        "en": "Charlotte Anana",
+        "ja": "シャーロット・アナナ"
+      },
       "category": "Character",
       "cost": 1,
       "power": 1000,
@@ -4970,12 +6362,52 @@
             }
           ],
           "artist": "Haru Miyajima"
+        },
+        {
+          "id": "OP11-065~ja",
+          "language": "ja",
+          "set": "OP11",
+          "rarity": "UC",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP11-065.png",
+          "cardSet": "ブースターパック 神速の拳【OP-11】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
+        },
+        {
+          "id": "OP11-065_p1~ja",
+          "language": "ja",
+          "set": "P",
+          "rarity": "UC",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP11-065_p1.png",
+          "cardSet": "プロモーションパックVol.8",
+          "source": "bandai"
+        },
+        {
+          "id": "OP11-065_r1~ja",
+          "language": "ja",
+          "set": "ST34",
+          "rarity": "UC",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP11-065_r1.png",
+          "cardSet": "スタートデッキ 紫 シャーロット・カタクリ【ST-34】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP11-066",
       "name": "Charlotte Oven",
+      "names": {
+        "en": "Charlotte Oven",
+        "ja": "シャーロット・オーブン"
+      },
       "category": "Character",
       "cost": 4,
       "power": 5000,
@@ -5034,12 +6466,42 @@
             "match": "image-only-candidate",
             "distance": 4
           }
+        },
+        {
+          "id": "OP11-066~ja",
+          "language": "ja",
+          "set": "OP11",
+          "rarity": "R",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP11-066.png",
+          "cardSet": "ブースターパック 神速の拳【OP-11】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP11-066_r1~ja",
+          "language": "ja",
+          "set": "ST34",
+          "rarity": "R",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP11-066_r1.png",
+          "cardSet": "スタートデッキ 紫 シャーロット・カタクリ【ST-34】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP11-067",
       "name": "Charlotte Katakuri",
+      "names": {
+        "en": "Charlotte Katakuri",
+        "ja": "シャーロット・カタクリ"
+      },
       "category": "Character",
       "cost": 8,
       "power": 8000,
@@ -5160,12 +6622,62 @@
             "sp"
           ],
           "artist": "Katsuo Tadano"
+        },
+        {
+          "id": "OP11-067~ja",
+          "language": "ja",
+          "set": "OP11",
+          "rarity": "SR",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP11-067.png",
+          "cardSet": "ブースターパック 神速の拳【OP-11】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP11-067_p1~ja",
+          "language": "ja",
+          "set": "OP11",
+          "rarity": "SR",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP11-067_p1.png",
+          "cardSet": "ブースターパック 神速の拳【OP-11】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP11-067_p2~ja",
+          "language": "ja",
+          "set": "OP16",
+          "rarity": "SP CARD",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP11-067_p2.png",
+          "cardSet": "ブースターパック 決戦の刻【OP-16】",
+          "source": "bandai"
+        },
+        {
+          "id": "OP11-067_p3~ja",
+          "language": "ja",
+          "set": "OTHER",
+          "rarity": "SR",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP11-067_p3.png",
+          "cardSet": "ONE PIECE カードゲーム 3rd ANNIVERSARY SET",
+          "source": "bandai"
         }
       ]
     },
     {
       "number": "OP11-068",
       "name": "Charlotte Daifuku",
+      "names": {
+        "en": "Charlotte Daifuku",
+        "ja": "シャーロット・ダイフク"
+      },
       "category": "Character",
       "cost": 6,
       "power": 7000,
@@ -5270,12 +6782,42 @@
               "category": "program"
             }
           ]
+        },
+        {
+          "id": "OP11-068~ja",
+          "language": "ja",
+          "set": "OP11",
+          "rarity": "UC",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP11-068.png",
+          "cardSet": "ブースターパック 神速の拳【OP-11】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
+        },
+        {
+          "id": "OP11-068_r1~ja",
+          "language": "ja",
+          "set": "ST34",
+          "rarity": "UC",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP11-068_r1.png",
+          "cardSet": "スタートデッキ 紫 シャーロット・カタクリ【ST-34】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP11-069",
       "name": "Charlotte Brulee",
+      "names": {
+        "en": "Charlotte Brulee",
+        "ja": "シャーロット・ブリュレ"
+      },
       "category": "Character",
       "cost": 3,
       "power": 4000,
@@ -5312,12 +6854,29 @@
             "distance": 1
           },
           "artist": "Hatori Kyoka"
+        },
+        {
+          "id": "OP11-069~ja",
+          "language": "ja",
+          "set": "OP11",
+          "rarity": "R",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP11-069.png",
+          "cardSet": "ブースターパック 神速の拳【OP-11】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "OP11-070",
       "name": "Charlotte Pudding",
+      "names": {
+        "en": "Charlotte Pudding",
+        "ja": "シャーロット・プリン"
+      },
       "category": "Character",
       "cost": 1,
       "counter": 1000,
@@ -5379,12 +6938,42 @@
             "alternate_art"
           ],
           "artist": "nuisuke"
+        },
+        {
+          "id": "OP11-070~ja",
+          "language": "ja",
+          "set": "OP11",
+          "rarity": "SR",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP11-070.png",
+          "cardSet": "ブースターパック 神速の拳【OP-11】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP11-070_p1~ja",
+          "language": "ja",
+          "set": "OP11",
+          "rarity": "SR",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP11-070_p1.png",
+          "cardSet": "ブースターパック 神速の拳【OP-11】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "OP11-071",
       "name": "Charlotte Perospero",
+      "names": {
+        "en": "Charlotte Perospero",
+        "ja": "シャーロット・ペロスペロー"
+      },
       "category": "Character",
       "cost": 5,
       "power": 7000,
@@ -5442,12 +7031,52 @@
             "match": "image-only-candidate",
             "distance": 7
           }
+        },
+        {
+          "id": "OP11-071~ja",
+          "language": "ja",
+          "set": "OP11",
+          "rarity": "R",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP11-071.png",
+          "cardSet": "ブースターパック 神速の拳【OP-11】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP11-071_p1~ja",
+          "language": "ja",
+          "set": "P",
+          "rarity": "R",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP11-071_p1.png",
+          "cardSet": "プロモーションパックEX Vol.3",
+          "source": "bandai"
+        },
+        {
+          "id": "OP11-071_r1~ja",
+          "language": "ja",
+          "set": "ST34",
+          "rarity": "R",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP11-071_r1.png",
+          "cardSet": "スタートデッキ 紫 シャーロット・カタクリ【ST-34】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP11-072",
       "name": "Charlotte Mont-d'or",
+      "names": {
+        "en": "Charlotte Mont-d'or",
+        "ja": "シャーロット・モンドール"
+      },
       "category": "Character",
       "cost": 3,
       "power": 4000,
@@ -5512,12 +7141,29 @@
             }
           ],
           "artist": "KISUKE"
+        },
+        {
+          "id": "OP11-072~ja",
+          "language": "ja",
+          "set": "OP11",
+          "rarity": "UC",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP11-072.png",
+          "cardSet": "ブースターパック 神速の拳【OP-11】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP11-073",
       "name": "Charlotte Linlin",
+      "names": {
+        "en": "Charlotte Linlin",
+        "ja": "シャーロット・リンリン"
+      },
       "category": "Character",
       "cost": 10,
       "power": 12000,
@@ -5606,12 +7252,42 @@
               "category": "retail"
             }
           ]
+        },
+        {
+          "id": "OP11-073~ja",
+          "language": "ja",
+          "set": "OP11",
+          "rarity": "R",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP11-073.png",
+          "cardSet": "ブースターパック 神速の拳【OP-11】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP11-073_p1~ja",
+          "language": "ja",
+          "set": "OP11",
+          "rarity": "R",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP11-073_p1.png",
+          "cardSet": "ブースターパック 神速の拳【OP-11】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "OP11-074",
       "name": "Streusen",
+      "names": {
+        "en": "Streusen",
+        "ja": "シュトロイゼン"
+      },
       "category": "Character",
       "cost": 3,
       "power": 3000,
@@ -5732,12 +7408,29 @@
               "category": "placement"
             }
           ]
+        },
+        {
+          "id": "OP11-074~ja",
+          "language": "ja",
+          "set": "OP11",
+          "rarity": "C",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP11-074.png",
+          "cardSet": "ブースターパック 神速の拳【OP-11】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP11-075",
       "name": "Jaguar.D.Saul",
+      "names": {
+        "en": "Jaguar.D.Saul",
+        "ja": "ハグワール・D・サウロ"
+      },
       "category": "Character",
       "cost": 6,
       "power": 6000,
@@ -5803,12 +7496,29 @@
             }
           ],
           "artist": "SHINRA AGENCY Co. Ltd."
+        },
+        {
+          "id": "OP11-075~ja",
+          "language": "ja",
+          "set": "OP11",
+          "rarity": "C",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP11-075.png",
+          "cardSet": "ブースターパック 神速の拳【OP-11】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP11-076",
       "name": "Hannyabal",
+      "names": {
+        "en": "Hannyabal",
+        "ja": "ハンニャバル"
+      },
       "category": "Character",
       "cost": 5,
       "power": 5000,
@@ -5873,12 +7583,29 @@
             }
           ],
           "artist": "Tanaka Kenichi"
+        },
+        {
+          "id": "OP11-076~ja",
+          "language": "ja",
+          "set": "OP11",
+          "rarity": "C",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP11-076.png",
+          "cardSet": "ブースターパック 神速の拳【OP-11】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP11-077",
       "name": "Randolph",
+      "names": {
+        "en": "Randolph",
+        "ja": "ランドルフ"
+      },
       "category": "Character",
       "cost": 1,
       "power": 2000,
@@ -5944,12 +7671,29 @@
             }
           ],
           "artist": "Suzume Muraichi"
+        },
+        {
+          "id": "OP11-077~ja",
+          "language": "ja",
+          "set": "OP11",
+          "rarity": "C",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP11-077.png",
+          "cardSet": "ブースターパック 神速の拳【OP-11】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP11-078",
       "name": "Decuplets",
+      "names": {
+        "en": "Decuplets",
+        "ja": "10つ子達"
+      },
       "category": "Character",
       "cost": 5,
       "power": 6000,
@@ -6014,12 +7758,29 @@
             }
           ],
           "artist": "Aidle Co. Ltd."
+        },
+        {
+          "id": "OP11-078~ja",
+          "language": "ja",
+          "set": "OP11",
+          "rarity": "UC",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP11-078.png",
+          "cardSet": "ブースターパック 神速の拳【OP-11】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP11-079",
       "name": "When Two Men Are Fighting the Last Thing I Need Is Some Half-Hearted Assistance!!!!",
+      "names": {
+        "en": "When Two Men Are Fighting the Last Thing I Need Is Some Half-Hearted Assistance!!!!",
+        "ja": "男の勝負に…!!!薄っぺらい援護などするな!!!!"
+      },
       "category": "Event",
       "cost": 1,
       "colors": [
@@ -6090,12 +7851,42 @@
               "category": "event"
             }
           ]
+        },
+        {
+          "id": "OP11-079~ja",
+          "language": "ja",
+          "set": "OP11",
+          "rarity": "UC",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP11-079.png",
+          "cardSet": "ブースターパック 神速の拳【OP-11】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
+        },
+        {
+          "id": "OP11-079_r1~ja",
+          "language": "ja",
+          "set": "ST34",
+          "rarity": "UC",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP11-079_r1.png",
+          "cardSet": "スタートデッキ 紫 シャーロット・カタクリ【ST-34】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP11-080",
       "name": "Gear Two",
+      "names": {
+        "en": "Gear Two",
+        "ja": "ギア2"
+      },
       "category": "Event",
       "cost": 1,
       "colors": [
@@ -6151,12 +7942,42 @@
           "treatments": [
             "alternate_art"
           ]
+        },
+        {
+          "id": "OP11-080~ja",
+          "language": "ja",
+          "set": "OP11",
+          "rarity": "R",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP11-080.png",
+          "cardSet": "ブースターパック 神速の拳【OP-11】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP11-080_p1~ja",
+          "language": "ja",
+          "set": "OP11",
+          "rarity": "R",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP11-080_p1.png",
+          "cardSet": "ブースターパック 神速の拳【OP-11】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "OP11-081",
       "name": "Cognac Mama-Mash",
+      "names": {
+        "en": "Cognac Mama-Mash",
+        "ja": "皇帝剣破々刃"
+      },
       "category": "Event",
       "cost": 6,
       "colors": [
@@ -6228,12 +8049,42 @@
               "category": "event"
             }
           ]
+        },
+        {
+          "id": "OP11-081~ja",
+          "language": "ja",
+          "set": "OP11",
+          "rarity": "C",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP11-081.png",
+          "cardSet": "ブースターパック 神速の拳【OP-11】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
+        },
+        {
+          "id": "OP11-081_r1~ja",
+          "language": "ja",
+          "set": "ST34",
+          "rarity": "C",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP11-081_r1.png",
+          "cardSet": "スタートデッキ 紫 シャーロット・カタクリ【ST-34】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP11-082",
       "name": "Aramaki",
+      "names": {
+        "en": "Aramaki",
+        "ja": "アラマキ"
+      },
       "category": "Character",
       "cost": 1,
       "power": 2000,
@@ -6270,12 +8121,29 @@
             "distance": 1
           },
           "artist": "akagi"
+        },
+        {
+          "id": "OP11-082~ja",
+          "language": "ja",
+          "set": "OP11",
+          "rarity": "R",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP11-082.png",
+          "cardSet": "ブースターパック 神速の拳【OP-11】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "OP11-083",
       "name": "Caribou",
+      "names": {
+        "en": "Caribou",
+        "ja": "カリブー"
+      },
       "category": "Character",
       "cost": 1,
       "power": 2000,
@@ -6338,12 +8206,29 @@
               "category": "program"
             }
           ]
+        },
+        {
+          "id": "OP11-083~ja",
+          "language": "ja",
+          "set": "OP11",
+          "rarity": "R",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP11-083.png",
+          "cardSet": "ブースターパック 神速の拳【OP-11】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "OP11-084",
       "name": "Kuzan",
+      "names": {
+        "en": "Kuzan",
+        "ja": "クザン"
+      },
       "category": "Character",
       "cost": 4,
       "power": 5000,
@@ -6406,12 +8291,42 @@
             "alternate_art"
           ],
           "artist": "Matsumoto Akira"
+        },
+        {
+          "id": "OP11-084~ja",
+          "language": "ja",
+          "set": "OP11",
+          "rarity": "R",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP11-084.png",
+          "cardSet": "ブースターパック 神速の拳【OP-11】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP11-084_p1~ja",
+          "language": "ja",
+          "set": "OP11",
+          "rarity": "R",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP11-084_p1.png",
+          "cardSet": "ブースターパック 神速の拳【OP-11】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "OP11-085",
       "name": "Kurozumi Orochi",
+      "names": {
+        "en": "Kurozumi Orochi",
+        "ja": "黒炭オロチ"
+      },
       "category": "Character",
       "cost": 3,
       "power": 4000,
@@ -6477,12 +8392,29 @@
             }
           ],
           "artist": "nukadokomogera"
+        },
+        {
+          "id": "OP11-085~ja",
+          "language": "ja",
+          "set": "OP11",
+          "rarity": "C",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP11-085.png",
+          "cardSet": "ブースターパック 神速の拳【OP-11】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP11-086",
       "name": "Coribou",
+      "names": {
+        "en": "Coribou",
+        "ja": "コリブー"
+      },
       "category": "Character",
       "cost": 3,
       "power": 5000,
@@ -6547,12 +8479,29 @@
             }
           ],
           "artist": "tasaka"
+        },
+        {
+          "id": "OP11-086~ja",
+          "language": "ja",
+          "set": "OP11",
+          "rarity": "C",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP11-086.png",
+          "cardSet": "ブースターパック 神速の拳【OP-11】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP11-087",
       "name": "Miss Sarahebi",
+      "names": {
+        "en": "Miss Sarahebi",
+        "ja": "さらへび先生"
+      },
       "category": "Character",
       "cost": 5,
       "power": 6000,
@@ -6618,12 +8567,29 @@
             }
           ],
           "artist": "Haru Miyajima"
+        },
+        {
+          "id": "OP11-087~ja",
+          "language": "ja",
+          "set": "OP11",
+          "rarity": "UC",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP11-087.png",
+          "cardSet": "ブースターパック 神速の拳【OP-11】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP11-088",
       "name": "Shu",
+      "names": {
+        "en": "Shu",
+        "ja": "シュウ"
+      },
       "category": "Character",
       "cost": 4,
       "power": 5000,
@@ -6688,12 +8654,29 @@
             }
           ],
           "artist": "tasaka"
+        },
+        {
+          "id": "OP11-088~ja",
+          "language": "ja",
+          "set": "OP11",
+          "rarity": "C",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP11-088.png",
+          "cardSet": "ブースターパック 神速の拳【OP-11】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP11-089",
       "name": "Black Maria",
+      "names": {
+        "en": "Black Maria",
+        "ja": "ブラックマリア"
+      },
       "category": "Character",
       "cost": 5,
       "power": 7000,
@@ -6784,12 +8767,29 @@
               "category": "program"
             }
           ]
+        },
+        {
+          "id": "OP11-089~ja",
+          "language": "ja",
+          "set": "OP11",
+          "rarity": "C",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP11-089.png",
+          "cardSet": "ブースターパック 神速の拳【OP-11】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP11-090",
       "name": "Briscola",
+      "names": {
+        "en": "Briscola",
+        "ja": "ブリスコラ"
+      },
       "category": "Character",
       "cost": 2,
       "power": 2000,
@@ -6855,12 +8855,29 @@
             }
           ],
           "artist": "Yoichi Amano"
+        },
+        {
+          "id": "OP11-090~ja",
+          "language": "ja",
+          "set": "OP11",
+          "rarity": "C",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP11-090.png",
+          "cardSet": "ブースターパック 神速の拳【OP-11】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP11-091",
       "name": "Berry Good",
+      "names": {
+        "en": "Berry Good",
+        "ja": "ベリーグッド"
+      },
       "category": "Character",
       "cost": 4,
       "power": 5000,
@@ -6925,12 +8942,29 @@
             }
           ],
           "artist": "SHINRA AGENCY Co. Ltd."
+        },
+        {
+          "id": "OP11-091~ja",
+          "language": "ja",
+          "set": "OP11",
+          "rarity": "UC",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP11-091.png",
+          "cardSet": "ブースターパック 神速の拳【OP-11】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP11-092",
       "name": "Helmeppo",
+      "names": {
+        "en": "Helmeppo",
+        "ja": "ヘルメッポ"
+      },
       "category": "Character",
       "cost": 6,
       "power": 7000,
@@ -6993,12 +9027,42 @@
             "alternate_art"
           ],
           "artist": "SENNSU"
+        },
+        {
+          "id": "OP11-092~ja",
+          "language": "ja",
+          "set": "OP11",
+          "rarity": "SR",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP11-092.png",
+          "cardSet": "ブースターパック 神速の拳【OP-11】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP11-092_p1~ja",
+          "language": "ja",
+          "set": "OP11",
+          "rarity": "SR",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP11-092_p1.png",
+          "cardSet": "ブースターパック 神速の拳【OP-11】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "OP11-093",
       "name": "Bogard",
+      "names": {
+        "en": "Bogard",
+        "ja": "ボガード"
+      },
       "category": "Character",
       "cost": 6,
       "power": 7000,
@@ -7063,12 +9127,29 @@
             }
           ],
           "artist": "SHINRA AGENCY Co. Ltd."
+        },
+        {
+          "id": "OP11-093~ja",
+          "language": "ja",
+          "set": "OP11",
+          "rarity": "UC",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP11-093.png",
+          "cardSet": "ブースターパック 神速の拳【OP-11】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP11-094",
       "name": "Morgan",
+      "names": {
+        "en": "Morgan",
+        "ja": "モーガン"
+      },
       "category": "Character",
       "cost": 6,
       "power": 8000,
@@ -7133,12 +9214,29 @@
             }
           ],
           "artist": "Yoichi Amano"
+        },
+        {
+          "id": "OP11-094~ja",
+          "language": "ja",
+          "set": "OP11",
+          "rarity": "C",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP11-094.png",
+          "cardSet": "ブースターパック 神速の拳【OP-11】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP11-095",
       "name": "Monkey.D.Garp",
+      "names": {
+        "en": "Monkey.D.Garp",
+        "ja": "モンキー・D・ガープ"
+      },
       "category": "Character",
       "cost": 8,
       "power": 8000,
@@ -7200,12 +9298,42 @@
             "alternate_art"
           ],
           "artist": "AKIRA EGAWA"
+        },
+        {
+          "id": "OP11-095~ja",
+          "language": "ja",
+          "set": "OP11",
+          "rarity": "SR",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP11-095.png",
+          "cardSet": "ブースターパック 神速の拳【OP-11】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP11-095_p1~ja",
+          "language": "ja",
+          "set": "OP11",
+          "rarity": "SR",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP11-095_p1.png",
+          "cardSet": "ブースターパック 神速の拳【OP-11】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "OP11-096",
       "name": "Ripper",
+      "names": {
+        "en": "Ripper",
+        "ja": "リッパー"
+      },
       "category": "Character",
       "cost": 1,
       "power": 1000,
@@ -7271,12 +9399,39 @@
             }
           ],
           "artist": "SHINRA AGENCY Co. Ltd."
+        },
+        {
+          "id": "OP11-096~ja",
+          "language": "ja",
+          "set": "OP11",
+          "rarity": "UC",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP11-096.png",
+          "cardSet": "ブースターパック 神速の拳【OP-11】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
+        },
+        {
+          "id": "OP11-096_p1~ja",
+          "language": "ja",
+          "set": "P",
+          "rarity": "UC",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP11-096_p1.png",
+          "cardSet": "プロモーションパックVol.8",
+          "source": "bandai"
         }
       ]
     },
     {
       "number": "OP11-097",
       "name": "After All These Years I'm Losing My Edge!!!",
+      "names": {
+        "en": "After All These Years I'm Losing My Edge!!!",
+        "ja": "すっかり衰えた……!!!"
+      },
       "category": "Event",
       "cost": 1,
       "colors": [
@@ -7334,12 +9489,29 @@
               "category": "event"
             }
           ]
+        },
+        {
+          "id": "OP11-097~ja",
+          "language": "ja",
+          "set": "OP11",
+          "rarity": "UC",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP11-097.png",
+          "cardSet": "ブースターパック 神速の拳【OP-11】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP11-098",
       "name": "Blue Hole",
+      "names": {
+        "en": "Blue Hole",
+        "ja": "海底落下"
+      },
       "category": "Event",
       "cost": 3,
       "colors": [
@@ -7397,12 +9569,29 @@
               "category": "event"
             }
           ]
+        },
+        {
+          "id": "OP11-098~ja",
+          "language": "ja",
+          "set": "OP11",
+          "rarity": "C",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP11-098.png",
+          "cardSet": "ブースターパック 神速の拳【OP-11】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP11-099",
       "name": "I'm Gonna Be a Navy Officer!!!",
+      "names": {
+        "en": "I'm Gonna Be a Navy Officer!!!",
+        "ja": "ぼくは!!!海軍将校になる男です!!!!"
+      },
       "category": "Event",
       "cost": 1,
       "colors": [
@@ -7434,12 +9623,29 @@
             "match": "image-only-candidate",
             "distance": 2
           }
+        },
+        {
+          "id": "OP11-099~ja",
+          "language": "ja",
+          "set": "OP11",
+          "rarity": "R",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP11-099.png",
+          "cardSet": "ブースターパック 神速の拳【OP-11】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "OP11-100",
       "name": "Otohime",
+      "names": {
+        "en": "Otohime",
+        "ja": "オトヒメ"
+      },
       "category": "Character",
       "cost": 1,
       "counter": 2000,
@@ -7504,12 +9710,29 @@
             }
           ],
           "artist": "BISAI"
+        },
+        {
+          "id": "OP11-100~ja",
+          "language": "ja",
+          "set": "OP11",
+          "rarity": "C",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP11-100.png",
+          "cardSet": "ブースターパック 神速の拳【OP-11】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP11-101",
       "name": "Capone\"Gang\"Bege",
+      "names": {
+        "en": "Capone\"Gang\"Bege",
+        "ja": "カポネ・ベッジ"
+      },
       "category": "Character",
       "cost": 2,
       "power": 1000,
@@ -7573,12 +9796,42 @@
             "alternate_art"
           ],
           "artist": "Hokuyuu"
+        },
+        {
+          "id": "OP11-101~ja",
+          "language": "ja",
+          "set": "OP11",
+          "rarity": "SR",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP11-101.png",
+          "cardSet": "ブースターパック 神速の拳【OP-11】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP11-101_p1~ja",
+          "language": "ja",
+          "set": "OP11",
+          "rarity": "SR",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP11-101_p1.png",
+          "cardSet": "ブースターパック 神速の拳【OP-11】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "OP11-102",
       "name": "Camie",
+      "names": {
+        "en": "Camie",
+        "ja": "ケイミー"
+      },
       "category": "Character",
       "cost": 1,
       "power": 1000,
@@ -7644,12 +9897,29 @@
             }
           ],
           "artist": "Hokuyuu"
+        },
+        {
+          "id": "OP11-102~ja",
+          "language": "ja",
+          "set": "OP11",
+          "rarity": "UC",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP11-102.png",
+          "cardSet": "ブースターパック 神速の拳【OP-11】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP11-103",
       "name": "Long-Jaw Neptunian",
+      "names": {
+        "en": "Long-Jaw Neptunian",
+        "ja": "シャクレ"
+      },
       "category": "Character",
       "cost": 5,
       "power": 7000,
@@ -7713,12 +9983,29 @@
             }
           ],
           "artist": "touge369"
+        },
+        {
+          "id": "OP11-103~ja",
+          "language": "ja",
+          "set": "OP11",
+          "rarity": "C",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP11-103.png",
+          "cardSet": "ブースターパック 神速の拳【OP-11】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP11-104",
       "name": "Shirley",
+      "names": {
+        "en": "Shirley",
+        "ja": "シャーリー"
+      },
       "category": "Character",
       "cost": 3,
       "power": 4000,
@@ -7756,12 +10043,29 @@
             "distance": 1
           },
           "artist": "Koushi Rokushiro"
+        },
+        {
+          "id": "OP11-104~ja",
+          "language": "ja",
+          "set": "OP11",
+          "rarity": "R",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP11-104.png",
+          "cardSet": "ブースターパック 神速の拳【OP-11】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "OP11-105",
       "name": "Charlotte Chiffon",
+      "names": {
+        "en": "Charlotte Chiffon",
+        "ja": "シャーロット・シフォン"
+      },
       "category": "Character",
       "cost": 5,
       "power": 6000,
@@ -7827,12 +10131,29 @@
             }
           ],
           "artist": "Aidle Co. Ltd."
+        },
+        {
+          "id": "OP11-105~ja",
+          "language": "ja",
+          "set": "OP11",
+          "rarity": "UC",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP11-105.png",
+          "cardSet": "ブースターパック 神速の拳【OP-11】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP11-106",
       "name": "Zeus",
+      "names": {
+        "en": "Zeus",
+        "ja": "ゼウス"
+      },
       "category": "Character",
       "cost": 2,
       "power": 2000,
@@ -7952,12 +10273,55 @@
               "category": "retail"
             }
           ]
+        },
+        {
+          "id": "OP11-106~ja",
+          "language": "ja",
+          "set": "OP11",
+          "rarity": "R",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP11-106.png",
+          "cardSet": "ブースターパック 神速の拳【OP-11】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP11-106_p1~ja",
+          "language": "ja",
+          "set": "OP11",
+          "rarity": "R",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP11-106_p1.png",
+          "cardSet": "ブースターパック 神速の拳【OP-11】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP11-106_p2~ja",
+          "language": "ja",
+          "set": "EB04",
+          "rarity": "SP CARD",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP11-106_p2.png",
+          "cardSet": "エクストラブースター EGGHEAD CRISIS【EB-04】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "OP11-107",
       "name": "Topknot Neptunian",
+      "names": {
+        "en": "Topknot Neptunian",
+        "ja": "チョンマゲ"
+      },
       "category": "Character",
       "cost": 5,
       "power": 6000,
@@ -8022,12 +10386,39 @@
             }
           ],
           "artist": "touge369"
+        },
+        {
+          "id": "OP11-107~ja",
+          "language": "ja",
+          "set": "OP11",
+          "rarity": "C",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP11-107.png",
+          "cardSet": "ブースターパック 神速の拳【OP-11】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
+        },
+        {
+          "id": "OP11-107_p1~ja",
+          "language": "ja",
+          "set": "P",
+          "rarity": "C",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP11-107_p1.png",
+          "cardSet": "プロモーションパックEX vol.5",
+          "source": "bandai"
         }
       ]
     },
     {
       "number": "OP11-108",
       "name": "Neptune",
+      "names": {
+        "en": "Neptune",
+        "ja": "ネプチューン"
+      },
       "category": "Character",
       "cost": 5,
       "power": 7000,
@@ -8064,12 +10455,29 @@
             "distance": 2
           },
           "artist": "Hayaken-sarena"
+        },
+        {
+          "id": "OP11-108~ja",
+          "language": "ja",
+          "set": "OP11",
+          "rarity": "R",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP11-108.png",
+          "cardSet": "ブースターパック 神速の拳【OP-11】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "OP11-109",
       "name": "Pappag",
+      "names": {
+        "en": "Pappag",
+        "ja": "パッパグ"
+      },
       "category": "Character",
       "cost": 1,
       "counter": 1000,
@@ -8134,12 +10542,29 @@
             }
           ],
           "artist": "Yuu Shimotsuki"
+        },
+        {
+          "id": "OP11-109~ja",
+          "language": "ja",
+          "set": "OP11",
+          "rarity": "C",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP11-109.png",
+          "cardSet": "ブースターパック 神速の拳【OP-11】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP11-110",
       "name": "Fukaboshi",
+      "names": {
+        "en": "Fukaboshi",
+        "ja": "フカボシ"
+      },
       "category": "Character",
       "cost": 3,
       "power": 5000,
@@ -8204,12 +10629,29 @@
             }
           ],
           "artist": "Morechand"
+        },
+        {
+          "id": "OP11-110~ja",
+          "language": "ja",
+          "set": "OP11",
+          "rarity": "C",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP11-110.png",
+          "cardSet": "ブースターパック 神速の拳【OP-11】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP11-111",
       "name": "Mamboshi",
+      "names": {
+        "en": "Mamboshi",
+        "ja": "マンボシ"
+      },
       "category": "Character",
       "cost": 6,
       "power": 7000,
@@ -8275,12 +10717,29 @@
             }
           ],
           "artist": "kankurou"
+        },
+        {
+          "id": "OP11-111~ja",
+          "language": "ja",
+          "set": "OP11",
+          "rarity": "UC",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP11-111.png",
+          "cardSet": "ブースターパック 神速の拳【OP-11】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP11-112",
       "name": "Megalo",
+      "names": {
+        "en": "Megalo",
+        "ja": "メガロ"
+      },
       "category": "Character",
       "cost": 3,
       "power": 2000,
@@ -8372,12 +10831,29 @@
               "category": "program"
             }
           ]
+        },
+        {
+          "id": "OP11-112~ja",
+          "language": "ja",
+          "set": "OP11",
+          "rarity": "UC",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP11-112.png",
+          "cardSet": "ブースターパック 神速の拳【OP-11】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP11-113",
       "name": "Ryuboshi",
+      "names": {
+        "en": "Ryuboshi",
+        "ja": "リュウボシ"
+      },
       "category": "Character",
       "cost": 5,
       "power": 7000,
@@ -8443,12 +10919,29 @@
             }
           ],
           "artist": "kankurou"
+        },
+        {
+          "id": "OP11-113~ja",
+          "language": "ja",
+          "set": "OP11",
+          "rarity": "C",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP11-113.png",
+          "cardSet": "ブースターパック 神速の拳【OP-11】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP11-114",
       "name": "Gum-Gum Fire-Fist Pistol Red Hawk",
+      "names": {
+        "en": "Gum-Gum Fire-Fist Pistol Red Hawk",
+        "ja": "ゴムゴムの火拳銃"
+      },
       "category": "Event",
       "cost": 1,
       "colors": [
@@ -8524,12 +11017,42 @@
           "finishes": [
             "nonfoil"
           ]
+        },
+        {
+          "id": "OP11-114~ja",
+          "language": "ja",
+          "set": "OP11",
+          "rarity": "R",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP11-114.png",
+          "cardSet": "ブースターパック 神速の拳【OP-11】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP11-114_p1~ja",
+          "language": "ja",
+          "set": "OP11",
+          "rarity": "R",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP11-114_p1.png",
+          "cardSet": "ブースターパック 神速の拳【OP-11】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "OP11-115",
       "name": "You're Just Not My Type!",
+      "names": {
+        "en": "You're Just Not My Type!",
+        "ja": "タイプじゃないんですっ…………!!"
+      },
       "category": "Event",
       "cost": 1,
       "colors": [
@@ -8588,12 +11111,29 @@
               "category": "event"
             }
           ]
+        },
+        {
+          "id": "OP11-115~ja",
+          "language": "ja",
+          "set": "OP11",
+          "rarity": "UC",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP11-115.png",
+          "cardSet": "ブースターパック 神速の拳【OP-11】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP11-116",
       "name": "Merman Combat Ultramarine",
+      "names": {
+        "en": "Merman Combat Ultramarine",
+        "ja": "人魚柔術　ウルトラマリン"
+      },
       "category": "Event",
       "cost": 6,
       "colors": [
@@ -8652,12 +11192,29 @@
               "category": "event"
             }
           ]
+        },
+        {
+          "id": "OP11-116~ja",
+          "language": "ja",
+          "set": "OP11",
+          "rarity": "C",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP11-116.png",
+          "cardSet": "ブースターパック 神速の拳【OP-11】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP11-117",
       "name": "Fish-Man Island",
+      "names": {
+        "en": "Fish-Man Island",
+        "ja": "魚人島"
+      },
       "category": "Stage",
       "cost": 2,
       "colors": [
@@ -8715,12 +11272,29 @@
               "category": "event"
             }
           ]
+        },
+        {
+          "id": "OP11-117~ja",
+          "language": "ja",
+          "set": "OP11",
+          "rarity": "C",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP11-117.png",
+          "cardSet": "ブースターパック 神速の拳【OP-11】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP11-118",
       "name": "Monkey.D.Luffy",
+      "names": {
+        "en": "Monkey.D.Luffy",
+        "ja": "モンキー・Ｄ・ルフィ"
+      },
       "category": "Character",
       "cost": 8,
       "power": 8000,
@@ -8827,12 +11401,55 @@
           "finishes": [
             "nonfoil"
           ]
+        },
+        {
+          "id": "OP11-118~ja",
+          "language": "ja",
+          "set": "OP11",
+          "rarity": "SEC",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP11-118.png",
+          "cardSet": "ブースターパック 神速の拳【OP-11】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP11-118_p1~ja",
+          "language": "ja",
+          "set": "OP11",
+          "rarity": "SEC",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP11-118_p1.png",
+          "cardSet": "ブースターパック 神速の拳【OP-11】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP11-118_p2~ja",
+          "language": "ja",
+          "set": "OP11",
+          "rarity": "SEC",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP11-118_p2.png",
+          "cardSet": "ブースターパック 神速の拳【OP-11】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "OP11-119",
       "name": "Koby",
+      "names": {
+        "en": "Koby",
+        "ja": "コビー"
+      },
       "category": "Character",
       "cost": 8,
       "power": 9000,
@@ -8924,6 +11541,45 @@
             }
           ],
           "artist": "Minato Sashima"
+        },
+        {
+          "id": "OP11-119~ja",
+          "language": "ja",
+          "set": "OP11",
+          "rarity": "SEC",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP11-119.png",
+          "cardSet": "ブースターパック 神速の拳【OP-11】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP11-119_p1~ja",
+          "language": "ja",
+          "set": "OP11",
+          "rarity": "SEC",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP11-119_p1.png",
+          "cardSet": "ブースターパック 神速の拳【OP-11】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP11-119_p2~ja",
+          "language": "ja",
+          "set": "P",
+          "rarity": "SEC",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP11-119_p2.png",
+          "cardSet": "フラッグシップバトル2025 4月優勝記念品",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     }

@@ -137,7 +137,7 @@ def _fetch_all() -> None:
     cards = ROOT / "data" / "cards"
     jobs = [("bandai", p["id"], p["image"]) for f in sorted(cards.glob("*.json"))
             for c in json.loads(f.read_text(encoding="utf-8"))["cards"] for p in c["printings"]
-            if p.get("source") == "bandai"]
+            if p.get("source") == "bandai" and p.get("language", "en") == "en"]
     tcg_cache = ROOT / ".cache" / "tcgcsv"
     for g in tcgcsv.groups(tcg_cache):
         for p in tcgcsv.products(g["groupId"], tcg_cache):

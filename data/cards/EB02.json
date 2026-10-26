@@ -3,6 +3,10 @@
     {
       "number": "EB02-001",
       "name": "Karoo",
+      "names": {
+        "en": "Karoo",
+        "ja": "カルー"
+      },
       "category": "Character",
       "cost": 5,
       "power": 7000,
@@ -40,12 +44,29 @@
             "distance": 1
           },
           "artist": "Fuyuko Iwata"
+        },
+        {
+          "id": "EB02-001~ja",
+          "language": "ja",
+          "set": "EB02",
+          "rarity": "C",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/EB02-001.png",
+          "cardSet": "エクストラブースター Anime 25th collection【EB-02】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "EB02-002",
       "name": "Sabo",
+      "names": {
+        "en": "Sabo",
+        "ja": "サボ"
+      },
       "category": "Character",
       "cost": 4,
       "power": 5000,
@@ -83,12 +104,29 @@
             "distance": 4
           },
           "artist": "He Ziwei"
+        },
+        {
+          "id": "EB02-002~ja",
+          "language": "ja",
+          "set": "EB02",
+          "rarity": "R",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/EB02-002.png",
+          "cardSet": "エクストラブースター Anime 25th collection【EB-02】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "EB02-003",
       "name": "Tony Tony.Chopper",
+      "names": {
+        "en": "Tony Tony.Chopper",
+        "ja": "トニートニー・チョッパー"
+      },
       "category": "Character",
       "cost": 3,
       "power": 3000,
@@ -152,12 +190,42 @@
           "treatments": [
             "alternate_art"
           ]
+        },
+        {
+          "id": "EB02-003~ja",
+          "language": "ja",
+          "set": "EB02",
+          "rarity": "R",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/EB02-003.png",
+          "cardSet": "エクストラブースター Anime 25th collection【EB-02】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "EB02-003_p1~ja",
+          "language": "ja",
+          "set": "EB02",
+          "rarity": "R",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/EB02-003_p1.png",
+          "cardSet": "エクストラブースター Anime 25th collection【EB-02】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "EB02-004",
       "name": "Don Accino",
+      "names": {
+        "en": "Don Accino",
+        "ja": "ドン・アッチーノ"
+      },
       "category": "Character",
       "cost": 8,
       "power": 10000,
@@ -193,12 +261,29 @@
             "match": "image-only-candidate",
             "distance": 2
           }
+        },
+        {
+          "id": "EB02-004~ja",
+          "language": "ja",
+          "set": "EB02",
+          "rarity": "C",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/EB02-004.png",
+          "cardSet": "エクストラブースター Anime 25th collection【EB-02】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "EB02-005",
       "name": "Fake Straw Hat Crew",
+      "names": {
+        "en": "Fake Straw Hat Crew",
+        "ja": "ニセ麦わらの一味"
+      },
       "category": "Character",
       "cost": 2,
       "power": 3000,
@@ -233,12 +318,29 @@
             "match": "image-only-candidate",
             "distance": 3
           }
+        },
+        {
+          "id": "EB02-005~ja",
+          "language": "ja",
+          "set": "EB02",
+          "rarity": "C",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/EB02-005.png",
+          "cardSet": "エクストラブースター Anime 25th collection【EB-02】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "EB02-006",
       "name": "Yamato",
+      "names": {
+        "en": "Yamato",
+        "ja": "ヤマト"
+      },
       "category": "Character",
       "cost": 6,
       "power": 7000,
@@ -350,12 +452,55 @@
               "category": "retail"
             }
           ]
+        },
+        {
+          "id": "EB02-006~ja",
+          "language": "ja",
+          "set": "EB02",
+          "rarity": "SR",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/EB02-006.png",
+          "cardSet": "エクストラブースター Anime 25th collection【EB-02】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "EB02-006_p1~ja",
+          "language": "ja",
+          "set": "EB02",
+          "rarity": "SR",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/EB02-006_p1.png",
+          "cardSet": "エクストラブースター Anime 25th collection【EB-02】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "EB02-006_p2~ja",
+          "language": "ja",
+          "set": "P",
+          "rarity": "SR",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/EB02-006_p2.png",
+          "cardSet": "エクストラグランドバトル2026 4月優勝記念品",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "EB02-007",
       "name": "Cloven Rose Blizzard",
+      "names": {
+        "en": "Cloven Rose Blizzard",
+        "ja": "刻蹄・桜吹雪"
+      },
       "category": "Event",
       "cost": 3,
       "colors": [
@@ -388,12 +533,29 @@
             "match": "image-only-candidate",
             "distance": 0
           }
+        },
+        {
+          "id": "EB02-007~ja",
+          "language": "ja",
+          "set": "EB02",
+          "rarity": "C",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/EB02-007.png",
+          "cardSet": "エクストラブースター Anime 25th collection【EB-02】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "EB02-008",
       "name": "The Peak",
+      "names": {
+        "en": "The Peak",
+        "ja": "最高到達点"
+      },
       "category": "Event",
       "cost": 2,
       "colors": [
@@ -424,12 +586,29 @@
             "match": "image-only-candidate",
             "distance": 14
           }
+        },
+        {
+          "id": "EB02-008~ja",
+          "language": "ja",
+          "set": "EB02",
+          "rarity": "R",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/EB02-008.png",
+          "cardSet": "エクストラブースター Anime 25th collection【EB-02】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "EB02-009",
       "name": "Thousand Sunny",
+      "names": {
+        "en": "Thousand Sunny",
+        "ja": "サウザンド・サニー号"
+      },
       "category": "Stage",
       "cost": 2,
       "colors": [
@@ -461,12 +640,29 @@
             "distance": 3
           },
           "artist": "Wong Kok Wai"
+        },
+        {
+          "id": "EB02-009~ja",
+          "language": "ja",
+          "set": "EB02",
+          "rarity": "C",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/EB02-009.png",
+          "cardSet": "エクストラブースター Anime 25th collection【EB-02】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "EB02-010",
       "name": "Monkey.D.Luffy",
+      "names": {
+        "en": "Monkey.D.Luffy",
+        "ja": "モンキー・D・ルフィ"
+      },
       "category": "Leader",
       "power": 5000,
       "life": 4,
@@ -619,12 +815,52 @@
               "category": "retail"
             }
           ]
+        },
+        {
+          "id": "EB02-010~ja",
+          "language": "ja",
+          "set": "EB02",
+          "rarity": "L",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/EB02-010.png",
+          "cardSet": "エクストラブースター Anime 25th collection【EB-02】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
+        },
+        {
+          "id": "EB02-010_p1~ja",
+          "language": "ja",
+          "set": "EB02",
+          "rarity": "L",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/EB02-010_p1.png",
+          "cardSet": "エクストラブースター Anime 25th collection【EB-02】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "EB02-010_p2~ja",
+          "language": "ja",
+          "set": "OTHER",
+          "rarity": "L",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/EB02-010_p2.png",
+          "cardSet": "オフィシャルプレイマット リミテッドエディション vol.5",
+          "source": "bandai"
         }
       ]
     },
     {
       "number": "EB02-011",
       "name": "Arlong",
+      "names": {
+        "en": "Arlong",
+        "ja": "アーロン"
+      },
       "category": "Character",
       "cost": 3,
       "power": 4000,
@@ -689,12 +925,42 @@
             "alternate_art"
           ],
           "artist": "Chansard Vincent"
+        },
+        {
+          "id": "EB02-011~ja",
+          "language": "ja",
+          "set": "EB02",
+          "rarity": "SR",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/EB02-011.png",
+          "cardSet": "エクストラブースター Anime 25th collection【EB-02】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "EB02-011_p1~ja",
+          "language": "ja",
+          "set": "EB02",
+          "rarity": "SR",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/EB02-011_p1.png",
+          "cardSet": "エクストラブースター Anime 25th collection【EB-02】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "EB02-012",
       "name": "Gaimon",
+      "names": {
+        "en": "Gaimon",
+        "ja": "ガイモン"
+      },
       "category": "Character",
       "cost": 1,
       "power": 1000,
@@ -730,12 +996,29 @@
             "match": "image-only-candidate",
             "distance": 9
           }
+        },
+        {
+          "id": "EB02-012~ja",
+          "language": "ja",
+          "set": "EB02",
+          "rarity": "C",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/EB02-012.png",
+          "cardSet": "エクストラブースター Anime 25th collection【EB-02】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "EB02-013",
       "name": "Carrot",
+      "names": {
+        "en": "Carrot",
+        "ja": "キャロット"
+      },
       "category": "Character",
       "cost": 1,
       "counter": 2000,
@@ -771,12 +1054,29 @@
             "distance": 5
           },
           "artist": "odashi"
+        },
+        {
+          "id": "EB02-013~ja",
+          "language": "ja",
+          "set": "EB02",
+          "rarity": "C",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/EB02-013.png",
+          "cardSet": "エクストラブースター Anime 25th collection【EB-02】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "EB02-014",
       "name": "Sarfunkel",
+      "names": {
+        "en": "Sarfunkel",
+        "ja": "サーファンクル"
+      },
       "category": "Character",
       "cost": 2,
       "counter": 1000,
@@ -811,12 +1111,29 @@
             "match": "image-only-candidate",
             "distance": 2
           }
+        },
+        {
+          "id": "EB02-014~ja",
+          "language": "ja",
+          "set": "EB02",
+          "rarity": "C",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/EB02-014.png",
+          "cardSet": "エクストラブースター Anime 25th collection【EB-02】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "EB02-015",
       "name": "Jewelry Bonney",
+      "names": {
+        "en": "Jewelry Bonney",
+        "ja": "ジュエリー・ボニー"
+      },
       "category": "Character",
       "cost": 7,
       "power": 7000,
@@ -880,12 +1197,42 @@
             "alternate_art"
           ],
           "artist": "Honehone"
+        },
+        {
+          "id": "EB02-015~ja",
+          "language": "ja",
+          "set": "EB02",
+          "rarity": "SR",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/EB02-015.png",
+          "cardSet": "エクストラブースター Anime 25th collection【EB-02】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "EB02-015_p1~ja",
+          "language": "ja",
+          "set": "EB02",
+          "rarity": "SR",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/EB02-015_p1.png",
+          "cardSet": "エクストラブースター Anime 25th collection【EB-02】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "EB02-016",
       "name": "Chopperman",
+      "names": {
+        "en": "Chopperman",
+        "ja": "チョッパーマン"
+      },
       "category": "Character",
       "cost": 5,
       "power": 6000,
@@ -922,12 +1269,29 @@
             "match": "image-only-candidate",
             "distance": 7
           }
+        },
+        {
+          "id": "EB02-016~ja",
+          "language": "ja",
+          "set": "EB02",
+          "rarity": "C",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/EB02-016.png",
+          "cardSet": "エクストラブースター Anime 25th collection【EB-02】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "EB02-017",
       "name": "Nami",
+      "names": {
+        "en": "Nami",
+        "ja": "ナミ"
+      },
       "category": "Character",
       "cost": 1,
       "power": 2000,
@@ -990,12 +1354,52 @@
           "treatments": [
             "alternate_art"
           ]
+        },
+        {
+          "id": "EB02-017~ja",
+          "language": "ja",
+          "set": "EB02",
+          "rarity": "R",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/EB02-017.png",
+          "cardSet": "エクストラブースター Anime 25th collection【EB-02】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "EB02-017_p1~ja",
+          "language": "ja",
+          "set": "EB02",
+          "rarity": "R",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/EB02-017_p1.png",
+          "cardSet": "エクストラブースター Anime 25th collection【EB-02】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "EB02-017_p2~ja",
+          "language": "ja",
+          "set": "P",
+          "rarity": "R",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/EB02-017_p2.png",
+          "cardSet": "ONE PIECE CARD GAME 3rd ANNIVERSARY COMPLETE GUIDE付録",
+          "source": "bandai"
         }
       ]
     },
     {
       "number": "EB02-018",
       "name": "Buggy",
+      "names": {
+        "en": "Buggy",
+        "ja": "バギー"
+      },
       "category": "Character",
       "cost": 4,
       "power": 6000,
@@ -1032,12 +1436,29 @@
             "distance": 3
           },
           "artist": "Wataru Matsumi"
+        },
+        {
+          "id": "EB02-018~ja",
+          "language": "ja",
+          "set": "EB02",
+          "rarity": "R",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/EB02-018.png",
+          "cardSet": "エクストラブースター Anime 25th collection【EB-02】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "EB02-019",
       "name": "Roronoa Zoro",
+      "names": {
+        "en": "Roronoa Zoro",
+        "ja": "ロロノア・ゾロ"
+      },
       "category": "Character",
       "cost": 4,
       "power": 5000,
@@ -1153,12 +1574,55 @@
           "finishes": [
             "nonfoil"
           ]
+        },
+        {
+          "id": "EB02-019~ja",
+          "language": "ja",
+          "set": "EB02",
+          "rarity": "R",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/EB02-019.png",
+          "cardSet": "エクストラブースター Anime 25th collection【EB-02】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "EB02-019_p1~ja",
+          "language": "ja",
+          "set": "P",
+          "rarity": "R",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/EB02-019_p1.png",
+          "cardSet": "スタンダードバトル 2025年3月優勝記念品",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
+        },
+        {
+          "id": "EB02-019_p2~ja",
+          "language": "ja",
+          "set": "P",
+          "rarity": "R",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/EB02-019_p2.png",
+          "cardSet": "スタンダードバトルパックVol.11",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "EB02-020",
       "name": "We Are!",
+      "names": {
+        "en": "We Are!",
+        "ja": "ウィーアー！"
+      },
       "category": "Event",
       "cost": 2,
       "colors": [
@@ -1189,12 +1653,29 @@
             "match": "image-only-candidate",
             "distance": 15
           }
+        },
+        {
+          "id": "EB02-020~ja",
+          "language": "ja",
+          "set": "EB02",
+          "rarity": "R",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/EB02-020.png",
+          "cardSet": "エクストラブースター Anime 25th collection【EB-02】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "EB02-021",
       "name": "Gum-Gum Giant Pistol",
+      "names": {
+        "en": "Gum-Gum Giant Pistol",
+        "ja": "ゴムゴムの巨人の銃"
+      },
       "category": "Event",
       "cost": 3,
       "colors": [
@@ -1226,12 +1707,29 @@
             "match": "image-only-candidate",
             "distance": 1
           }
+        },
+        {
+          "id": "EB02-021~ja",
+          "language": "ja",
+          "set": "EB02",
+          "rarity": "C",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/EB02-021.png",
+          "cardSet": "エクストラブースター Anime 25th collection【EB-02】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "EB02-022",
       "name": "Usopp",
+      "names": {
+        "en": "Usopp",
+        "ja": "ウソップ"
+      },
       "category": "Character",
       "cost": 4,
       "power": 5000,
@@ -1314,12 +1812,42 @@
           "finishes": [
             "nonfoil"
           ]
+        },
+        {
+          "id": "EB02-022~ja",
+          "language": "ja",
+          "set": "EB02",
+          "rarity": "R",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/EB02-022.png",
+          "cardSet": "エクストラブースター Anime 25th collection【EB-02】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "EB02-022_p1~ja",
+          "language": "ja",
+          "set": "EB02",
+          "rarity": "R",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/EB02-022_p1.png",
+          "cardSet": "エクストラブースター Anime 25th collection【EB-02】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "EB02-023",
       "name": "Crocodile",
+      "names": {
+        "en": "Crocodile",
+        "ja": "クロコダイル"
+      },
       "category": "Character",
       "cost": 4,
       "power": 5000,
@@ -1356,12 +1884,29 @@
             "match": "image-only-candidate",
             "distance": 2
           }
+        },
+        {
+          "id": "EB02-023~ja",
+          "language": "ja",
+          "set": "EB02",
+          "rarity": "C",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/EB02-023.png",
+          "cardSet": "エクストラブースター Anime 25th collection【EB-02】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "EB02-024",
       "name": "Sogeking",
+      "names": {
+        "en": "Sogeking",
+        "ja": "そげキング"
+      },
       "category": "Character",
       "cost": 4,
       "power": 5000,
@@ -1398,12 +1943,29 @@
             "distance": 2
           },
           "artist": "Shigefumi Shingaki"
+        },
+        {
+          "id": "EB02-024~ja",
+          "language": "ja",
+          "set": "EB02",
+          "rarity": "C",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/EB02-024.png",
+          "cardSet": "エクストラブースター Anime 25th collection【EB-02】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "EB02-025",
       "name": "Donquixote Rosinante",
+      "names": {
+        "en": "Donquixote Rosinante",
+        "ja": "ドンキホーテ・ロシナンテ"
+      },
       "category": "Character",
       "cost": 2,
       "power": 3000,
@@ -1441,12 +2003,29 @@
             "distance": 0
           },
           "artist": "Yukiya Ataka"
+        },
+        {
+          "id": "EB02-025~ja",
+          "language": "ja",
+          "set": "EB02",
+          "rarity": "R",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/EB02-025.png",
+          "cardSet": "エクストラブースター Anime 25th collection【EB-02】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "EB02-026",
       "name": "Nefeltari Vivi",
+      "names": {
+        "en": "Nefeltari Vivi",
+        "ja": "ネフェルタリ・ビビ"
+      },
       "category": "Character",
       "cost": 3,
       "power": 2000,
@@ -1531,12 +2110,55 @@
             "distance": 1
           },
           "artist": "Sunohara"
+        },
+        {
+          "id": "EB02-026~ja",
+          "language": "ja",
+          "set": "EB02",
+          "rarity": "SR",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/EB02-026.png",
+          "cardSet": "エクストラブースター Anime 25th collection【EB-02】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "EB02-026_p1~ja",
+          "language": "ja",
+          "set": "EB02",
+          "rarity": "SR",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/EB02-026_p1.png",
+          "cardSet": "エクストラブースター Anime 25th collection【EB-02】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "EB02-026_p2~ja",
+          "language": "ja",
+          "set": "P",
+          "rarity": "SR",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/EB02-026_p2.png",
+          "cardSet": "プロモーションパックEX Vol.3",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "EB02-027",
       "name": "Vista",
+      "names": {
+        "en": "Vista",
+        "ja": "ビスタ"
+      },
       "category": "Character",
       "cost": 4,
       "power": 5000,
@@ -1573,12 +2195,29 @@
             "distance": 5
           },
           "artist": "Hirotaka Ito"
+        },
+        {
+          "id": "EB02-027~ja",
+          "language": "ja",
+          "set": "EB02",
+          "rarity": "C",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/EB02-027.png",
+          "cardSet": "エクストラブースター Anime 25th collection【EB-02】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "EB02-028",
       "name": "Portgas.D.Ace",
+      "names": {
+        "en": "Portgas.D.Ace",
+        "ja": "ポートガス・D・エース"
+      },
       "category": "Character",
       "cost": 5,
       "power": 5000,
@@ -1642,12 +2281,42 @@
             "sp"
           ],
           "artist": "Denim2"
+        },
+        {
+          "id": "EB02-028~ja",
+          "language": "ja",
+          "set": "EB02",
+          "rarity": "R",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/EB02-028.png",
+          "cardSet": "エクストラブースター Anime 25th collection【EB-02】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "EB02-028_p1~ja",
+          "language": "ja",
+          "set": "OP13",
+          "rarity": "SP CARD",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/EB02-028_p1.png",
+          "cardSet": "受け継がれる意志【OP-13】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "EB02-029",
       "name": "Grandpa Ryu",
+      "names": {
+        "en": "Grandpa Ryu",
+        "ja": "リュウ爺"
+      },
       "category": "Character",
       "cost": 3,
       "power": 5000,
@@ -1684,12 +2353,29 @@
             "match": "image-only-candidate",
             "distance": 1
           }
+        },
+        {
+          "id": "EB02-029~ja",
+          "language": "ja",
+          "set": "EB02",
+          "rarity": "C",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/EB02-029.png",
+          "cardSet": "エクストラブースター Anime 25th collection【EB-02】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "EB02-030",
       "name": "And That's When Somebody Makes Fun of Their Friend's Dream!!!!",
+      "names": {
+        "en": "And That's When Somebody Makes Fun of Their Friend's Dream!!!!",
+        "ja": "仲間の夢を笑われた時だ!!!!"
+      },
       "category": "Event",
       "cost": 2,
       "colors": [
@@ -1721,12 +2407,29 @@
             "match": "image-only-candidate",
             "distance": 9
           }
+        },
+        {
+          "id": "EB02-030~ja",
+          "language": "ja",
+          "set": "EB02",
+          "rarity": "C",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/EB02-030.png",
+          "cardSet": "エクストラブースター Anime 25th collection【EB-02】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "EB02-031",
       "name": "Hope",
+      "names": {
+        "en": "Hope",
+        "ja": "Hope"
+      },
       "category": "Event",
       "cost": 2,
       "colors": [
@@ -1757,12 +2460,29 @@
             "match": "image-only-candidate",
             "distance": 15
           }
+        },
+        {
+          "id": "EB02-031~ja",
+          "language": "ja",
+          "set": "EB02",
+          "rarity": "R",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/EB02-031.png",
+          "cardSet": "エクストラブースター Anime 25th collection【EB-02】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "EB02-032",
       "name": "Iceburg",
+      "names": {
+        "en": "Iceburg",
+        "ja": "アイスバーグ"
+      },
       "category": "Character",
       "cost": 1,
       "counter": 2000,
@@ -1799,12 +2519,29 @@
             "distance": 2
           },
           "artist": "Zhiguang Liu"
+        },
+        {
+          "id": "EB02-032~ja",
+          "language": "ja",
+          "set": "EB02",
+          "rarity": "C",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/EB02-032.png",
+          "cardSet": "エクストラブースター Anime 25th collection【EB-02】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "EB02-033",
       "name": "Klabautermann",
+      "names": {
+        "en": "Klabautermann",
+        "ja": "クラバウターマン"
+      },
       "category": "Character",
       "cost": 1,
       "counter": 1000,
@@ -1840,12 +2577,29 @@
             "distance": 4
           },
           "artist": "Makoto Muroi"
+        },
+        {
+          "id": "EB02-033~ja",
+          "language": "ja",
+          "set": "EB02",
+          "rarity": "C",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/EB02-033.png",
+          "cardSet": "エクストラブースター Anime 25th collection【EB-02】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "EB02-034",
       "name": "Komei",
+      "names": {
+        "en": "Komei",
+        "ja": "コーメイ"
+      },
       "category": "Character",
       "cost": 4,
       "power": 6000,
@@ -1882,12 +2636,29 @@
             "match": "image-only-candidate",
             "distance": 2
           }
+        },
+        {
+          "id": "EB02-034~ja",
+          "language": "ja",
+          "set": "EB02",
+          "rarity": "C",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/EB02-034.png",
+          "cardSet": "エクストラブースター Anime 25th collection【EB-02】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "EB02-035",
       "name": "Sanji & Pudding",
+      "names": {
+        "en": "Sanji & Pudding",
+        "ja": "サンジ&プリン"
+      },
       "category": "Character",
       "cost": 5,
       "power": 7000,
@@ -1950,12 +2721,52 @@
             "alternate_art"
           ],
           "artist": "Masaya Hasegawa"
+        },
+        {
+          "id": "EB02-035~ja",
+          "language": "ja",
+          "set": "EB02",
+          "rarity": "SR",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/EB02-035.png",
+          "cardSet": "エクストラブースター Anime 25th collection【EB-02】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "EB02-035_p1~ja",
+          "language": "ja",
+          "set": "EB02",
+          "rarity": "SR",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/EB02-035_p1.png",
+          "cardSet": "エクストラブースター Anime 25th collection【EB-02】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "EB02-035_p2~ja",
+          "language": "ja",
+          "set": "P",
+          "rarity": "SR",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/EB02-035_p2.png",
+          "cardSet": "8パックバトル 2026年4月",
+          "source": "bandai"
         }
       ]
     },
     {
       "number": "EB02-036",
       "name": "Nico Robin",
+      "names": {
+        "en": "Nico Robin",
+        "ja": "ニコ・ロビン"
+      },
       "category": "Character",
       "cost": 3,
       "power": 2000,
@@ -2016,12 +2827,42 @@
           "treatments": [
             "alternate_art"
           ]
+        },
+        {
+          "id": "EB02-036~ja",
+          "language": "ja",
+          "set": "EB02",
+          "rarity": "R",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/EB02-036.png",
+          "cardSet": "エクストラブースター Anime 25th collection【EB-02】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "EB02-036_p1~ja",
+          "language": "ja",
+          "set": "EB02",
+          "rarity": "R",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/EB02-036_p1.png",
+          "cardSet": "エクストラブースター Anime 25th collection【EB-02】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "EB02-037",
       "name": "Franky",
+      "names": {
+        "en": "Franky",
+        "ja": "フランキー"
+      },
       "category": "Character",
       "cost": 3,
       "power": 4000,
@@ -2059,12 +2900,29 @@
             "distance": 4
           },
           "artist": "Itsuki Tsuchigami"
+        },
+        {
+          "id": "EB02-037~ja",
+          "language": "ja",
+          "set": "EB02",
+          "rarity": "R",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/EB02-037.png",
+          "cardSet": "エクストラブースター Anime 25th collection【EB-02】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "EB02-038",
       "name": "Magellan",
+      "names": {
+        "en": "Magellan",
+        "ja": "マゼラン"
+      },
       "category": "Character",
       "cost": 3,
       "power": 4000,
@@ -2100,12 +2958,29 @@
             "match": "image-only-candidate",
             "distance": 2
           }
+        },
+        {
+          "id": "EB02-038~ja",
+          "language": "ja",
+          "set": "EB02",
+          "rarity": "C",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/EB02-038.png",
+          "cardSet": "エクストラブースター Anime 25th collection【EB-02】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "EB02-039",
       "name": "GERMA 66",
+      "names": {
+        "en": "GERMA 66",
+        "ja": "GERMA 66"
+      },
       "category": "Event",
       "cost": 4,
       "colors": [
@@ -2137,12 +3012,29 @@
             "match": "image-only-candidate",
             "distance": 10
           }
+        },
+        {
+          "id": "EB02-039~ja",
+          "language": "ja",
+          "set": "EB02",
+          "rarity": "C",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/EB02-039.png",
+          "cardSet": "エクストラブースター Anime 25th collection【EB-02】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "EB02-040",
       "name": "BRAND NEW WORLD",
+      "names": {
+        "en": "BRAND NEW WORLD",
+        "ja": "BRAND NEW WORLD"
+      },
       "category": "Event",
       "cost": 2,
       "colors": [
@@ -2173,12 +3065,29 @@
             "match": "image-only-candidate",
             "distance": 2
           }
+        },
+        {
+          "id": "EB02-040~ja",
+          "language": "ja",
+          "set": "EB02",
+          "rarity": "R",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/EB02-040.png",
+          "cardSet": "エクストラブースター Anime 25th collection【EB-02】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "EB02-041",
       "name": "Merry Go",
+      "names": {
+        "en": "Merry Go",
+        "ja": "ゴーイング・メリー号"
+      },
       "category": "Stage",
       "cost": 1,
       "colors": [
@@ -2272,12 +3181,39 @@
               "category": "program"
             }
           ]
+        },
+        {
+          "id": "EB02-041~ja",
+          "language": "ja",
+          "set": "EB02",
+          "rarity": "R",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/EB02-041.png",
+          "cardSet": "エクストラブースター Anime 25th collection【EB-02】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "EB02-041_p1~ja",
+          "language": "ja",
+          "set": "OTHER",
+          "rarity": "R",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/EB02-041_p1.png",
+          "cardSet": "プレミアムカードコレクション - ベストセレクション vol.5 -",
+          "source": "bandai"
         }
       ]
     },
     {
       "number": "EB02-042",
       "name": "All-Hunt Grount",
+      "names": {
+        "en": "All-Hunt Grount",
+        "ja": "オールハント・グラント"
+      },
       "category": "Character",
       "cost": 6,
       "power": 8000,
@@ -2314,12 +3250,29 @@
             "distance": 1
           },
           "artist": "Midori Matsuda"
+        },
+        {
+          "id": "EB02-042~ja",
+          "language": "ja",
+          "set": "EB02",
+          "rarity": "C",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/EB02-042.png",
+          "cardSet": "エクストラブースター Anime 25th collection【EB-02】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "EB02-043",
       "name": "Jonathan",
+      "names": {
+        "en": "Jonathan",
+        "ja": "ジョナサン"
+      },
       "category": "Character",
       "cost": 7,
       "power": 9000,
@@ -2355,12 +3308,29 @@
             "match": "image-only-candidate",
             "distance": 4
           }
+        },
+        {
+          "id": "EB02-043~ja",
+          "language": "ja",
+          "set": "EB02",
+          "rarity": "C",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/EB02-043.png",
+          "cardSet": "エクストラブースター Anime 25th collection【EB-02】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "EB02-044",
       "name": "Sengoku",
+      "names": {
+        "en": "Sengoku",
+        "ja": "センゴク"
+      },
       "category": "Character",
       "cost": 7,
       "power": 7000,
@@ -2421,12 +3391,42 @@
           "treatments": [
             "alternate_art"
           ]
+        },
+        {
+          "id": "EB02-044~ja",
+          "language": "ja",
+          "set": "EB02",
+          "rarity": "SR",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/EB02-044.png",
+          "cardSet": "エクストラブースター Anime 25th collection【EB-02】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "EB02-044_p1~ja",
+          "language": "ja",
+          "set": "EB02",
+          "rarity": "SR",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/EB02-044_p1.png",
+          "cardSet": "エクストラブースター Anime 25th collection【EB-02】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "EB02-045",
       "name": "Trafalgar Law",
+      "names": {
+        "en": "Trafalgar Law",
+        "ja": "トラファルガー・ロー"
+      },
       "category": "Character",
       "cost": 5,
       "power": 6000,
@@ -2491,12 +3491,42 @@
             "alternate_art"
           ],
           "artist": "Ayaka Tsuji"
+        },
+        {
+          "id": "EB02-045~ja",
+          "language": "ja",
+          "set": "EB02",
+          "rarity": "SR",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/EB02-045.png",
+          "cardSet": "エクストラブースター Anime 25th collection【EB-02】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "EB02-045_p1~ja",
+          "language": "ja",
+          "set": "EB02",
+          "rarity": "SR",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/EB02-045_p1.png",
+          "cardSet": "エクストラブースター Anime 25th collection【EB-02】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "EB02-046",
       "name": "Hildon",
+      "names": {
+        "en": "Hildon",
+        "ja": "ヒルドン"
+      },
       "category": "Character",
       "cost": 3,
       "power": 3000,
@@ -2532,12 +3562,29 @@
             "match": "image-only-candidate",
             "distance": 2
           }
+        },
+        {
+          "id": "EB02-046~ja",
+          "language": "ja",
+          "set": "EB02",
+          "rarity": "C",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/EB02-046.png",
+          "cardSet": "エクストラブースター Anime 25th collection【EB-02】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "EB02-047",
       "name": "Blueno",
+      "names": {
+        "en": "Blueno",
+        "ja": "ブルーノ"
+      },
       "category": "Character",
       "cost": 5,
       "power": 6000,
@@ -2573,12 +3620,29 @@
             "match": "image-only-candidate",
             "distance": 7
           }
+        },
+        {
+          "id": "EB02-047~ja",
+          "language": "ja",
+          "set": "EB02",
+          "rarity": "C",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/EB02-047.png",
+          "cardSet": "エクストラブースター Anime 25th collection【EB-02】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "EB02-048",
       "name": "Brook",
+      "names": {
+        "en": "Brook",
+        "ja": "ブルック"
+      },
       "category": "Character",
       "cost": 5,
       "power": 6000,
@@ -2640,12 +3704,42 @@
             "alternate_art"
           ],
           "artist": "Tu Yongce"
+        },
+        {
+          "id": "EB02-048~ja",
+          "language": "ja",
+          "set": "EB02",
+          "rarity": "R",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/EB02-048.png",
+          "cardSet": "エクストラブースター Anime 25th collection【EB-02】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "EB02-048_p1~ja",
+          "language": "ja",
+          "set": "EB02",
+          "rarity": "R",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/EB02-048_p1.png",
+          "cardSet": "エクストラブースター Anime 25th collection【EB-02】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "EB02-049",
       "name": "Monkey.D.Garp",
+      "names": {
+        "en": "Monkey.D.Garp",
+        "ja": "モンキー・D・ガープ"
+      },
       "category": "Character",
       "cost": 5,
       "power": 6000,
@@ -2680,12 +3774,29 @@
             "match": "image-only-candidate",
             "distance": 3
           }
+        },
+        {
+          "id": "EB02-049~ja",
+          "language": "ja",
+          "set": "EB02",
+          "rarity": "R",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/EB02-049.png",
+          "cardSet": "エクストラブースター Anime 25th collection【EB-02】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "EB02-050",
       "name": "Kokoro no Chizu",
+      "names": {
+        "en": "Kokoro no Chizu",
+        "ja": "ココロのちず"
+      },
       "category": "Event",
       "cost": 2,
       "colors": [
@@ -2716,12 +3827,29 @@
             "match": "image-only-candidate",
             "distance": 11
           }
+        },
+        {
+          "id": "EB02-050~ja",
+          "language": "ja",
+          "set": "EB02",
+          "rarity": "R",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/EB02-050.png",
+          "cardSet": "エクストラブースター Anime 25th collection【EB-02】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "EB02-051",
       "name": "Three-Pace Hum Soul Notch Slash",
+      "names": {
+        "en": "Three-Pace Hum Soul Notch Slash",
+        "ja": "鼻唄三丁矢筈斬り"
+      },
       "category": "Event",
       "cost": 3,
       "colors": [
@@ -2752,12 +3880,29 @@
             "match": "image-only-candidate",
             "distance": 2
           }
+        },
+        {
+          "id": "EB02-051~ja",
+          "language": "ja",
+          "set": "EB02",
+          "rarity": "C",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/EB02-051.png",
+          "cardSet": "エクストラブースター Anime 25th collection【EB-02】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "EB02-052",
       "name": "Enel",
+      "names": {
+        "en": "Enel",
+        "ja": "エネル"
+      },
       "category": "Character",
       "cost": 10,
       "power": 11000,
@@ -2845,12 +3990,55 @@
             "sp"
           ],
           "artist": "Bashikou"
+        },
+        {
+          "id": "EB02-052~ja",
+          "language": "ja",
+          "set": "EB02",
+          "rarity": "SR",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/EB02-052.png",
+          "cardSet": "エクストラブースター Anime 25th collection【EB-02】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "EB02-052_p1~ja",
+          "language": "ja",
+          "set": "EB02",
+          "rarity": "SR",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/EB02-052_p1.png",
+          "cardSet": "エクストラブースター Anime 25th collection【EB-02】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "EB02-052_p2~ja",
+          "language": "ja",
+          "set": "OP15",
+          "rarity": "SP CARD",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/EB02-052_p2.png",
+          "cardSet": "ブースターパック 神の島の冒険【OP-15】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "EB02-053",
       "name": "Myskina Olga",
+      "names": {
+        "en": "Myskina Olga",
+        "ja": "オルガ・ミスキナ"
+      },
       "category": "Character",
       "cost": 3,
       "power": 4000,
@@ -2886,12 +4074,29 @@
             "match": "image-only-candidate",
             "distance": 3
           }
+        },
+        {
+          "id": "EB02-053~ja",
+          "language": "ja",
+          "set": "EB02",
+          "rarity": "C",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/EB02-053.png",
+          "cardSet": "エクストラブースター Anime 25th collection【EB-02】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "EB02-054",
       "name": "Sanji",
+      "names": {
+        "en": "Sanji",
+        "ja": "サンジ"
+      },
       "category": "Character",
       "cost": 5,
       "power": 6000,
@@ -2955,12 +4160,52 @@
             "alternate_art"
           ],
           "artist": "Katsumi Ishizuka"
+        },
+        {
+          "id": "EB02-054~ja",
+          "language": "ja",
+          "set": "EB02",
+          "rarity": "R",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/EB02-054.png",
+          "cardSet": "エクストラブースター Anime 25th collection【EB-02】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "EB02-054_p1~ja",
+          "language": "ja",
+          "set": "EB02",
+          "rarity": "R",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/EB02-054_p1.png",
+          "cardSet": "エクストラブースター Anime 25th collection【EB-02】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "EB02-054_p2~ja",
+          "language": "ja",
+          "set": "P",
+          "rarity": "R",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/EB02-054_p2.png",
+          "cardSet": "プロモーションパックEX Vol.3",
+          "source": "bandai"
         }
       ]
     },
     {
       "number": "EB02-055",
       "name": "Jinbe",
+      "names": {
+        "en": "Jinbe",
+        "ja": "ジンベエ"
+      },
       "category": "Character",
       "cost": 4,
       "power": 5000,
@@ -3056,12 +4301,42 @@
             }
           ],
           "artist": "KISUKE"
+        },
+        {
+          "id": "EB02-055~ja",
+          "language": "ja",
+          "set": "EB02",
+          "rarity": "R",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/EB02-055.png",
+          "cardSet": "エクストラブースター Anime 25th collection【EB-02】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "EB02-055_p1~ja",
+          "language": "ja",
+          "set": "P",
+          "rarity": "R",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/EB02-055_p1.png",
+          "cardSet": "スタンダードバトルパックVol.11",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "EB02-056",
       "name": "Vegapunk",
+      "names": {
+        "en": "Vegapunk",
+        "ja": "ベガパンク"
+      },
       "category": "Character",
       "cost": 5,
       "counter": 1000,
@@ -3123,12 +4398,42 @@
             "alternate_art"
           ],
           "artist": "Shin Kashiwaguma"
+        },
+        {
+          "id": "EB02-056~ja",
+          "language": "ja",
+          "set": "EB02",
+          "rarity": "SR",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/EB02-056.png",
+          "cardSet": "エクストラブースター Anime 25th collection【EB-02】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "EB02-056_p1~ja",
+          "language": "ja",
+          "set": "EB02",
+          "rarity": "SR",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/EB02-056_p1.png",
+          "cardSet": "エクストラブースター Anime 25th collection【EB-02】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "EB02-057",
       "name": "Mad Treasure",
+      "names": {
+        "en": "Mad Treasure",
+        "ja": "マッド・トレジャー"
+      },
       "category": "Character",
       "cost": 4,
       "power": 5000,
@@ -3164,12 +4469,29 @@
             "match": "image-only-candidate",
             "distance": 1
           }
+        },
+        {
+          "id": "EB02-057~ja",
+          "language": "ja",
+          "set": "EB02",
+          "rarity": "C",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/EB02-057.png",
+          "cardSet": "エクストラブースター Anime 25th collection【EB-02】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "EB02-058",
       "name": "UUUUUS!",
+      "names": {
+        "en": "UUUUUS!",
+        "ja": "あーーっす！"
+      },
       "category": "Event",
       "cost": 2,
       "colors": [
@@ -3200,12 +4522,29 @@
             "match": "image-only-candidate",
             "distance": 12
           }
+        },
+        {
+          "id": "EB02-058~ja",
+          "language": "ja",
+          "set": "EB02",
+          "rarity": "R",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/EB02-058.png",
+          "cardSet": "エクストラブースター Anime 25th collection【EB-02】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "EB02-059",
       "name": "Without Your Help I Can't Become the King of the Pirates!!!!",
+      "names": {
+        "en": "Without Your Help I Can't Become the King of the Pirates!!!!",
+        "ja": "お前がいねェと…!!おれは海賊王になれねェ!!!!"
+      },
       "category": "Event",
       "cost": 4,
       "colors": [
@@ -3236,12 +4575,29 @@
             "match": "image-only-candidate",
             "distance": 3
           }
+        },
+        {
+          "id": "EB02-059~ja",
+          "language": "ja",
+          "set": "EB02",
+          "rarity": "C",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/EB02-059.png",
+          "cardSet": "エクストラブースター Anime 25th collection【EB-02】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "EB02-060",
       "name": "Merry Go",
+      "names": {
+        "en": "Merry Go",
+        "ja": "ゴーイング・メリー号"
+      },
       "category": "Stage",
       "cost": 2,
       "colors": [
@@ -3273,12 +4629,29 @@
             "distance": 0
           },
           "artist": "Takashi Yoshiike"
+        },
+        {
+          "id": "EB02-060~ja",
+          "language": "ja",
+          "set": "EB02",
+          "rarity": "C",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/EB02-060.png",
+          "cardSet": "エクストラブースター Anime 25th collection【EB-02】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "EB02-061",
       "name": "Monkey.D.Luffy",
+      "names": {
+        "en": "Monkey.D.Luffy",
+        "ja": "モンキー・D・ルフィ"
+      },
       "category": "Character",
       "cost": 6,
       "power": 7000,
@@ -3415,6 +4788,68 @@
           ],
           "artOf": "EB02-061",
           "artist": "Midori Matsuda"
+        },
+        {
+          "id": "EB02-061~ja",
+          "language": "ja",
+          "set": "EB02",
+          "rarity": "SEC",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/EB02-061.png",
+          "cardSet": "エクストラブースター Anime 25th collection【EB-02】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "EB02-061_p1~ja",
+          "language": "ja",
+          "set": "EB02",
+          "rarity": "SEC",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/EB02-061_p1.png",
+          "cardSet": "エクストラブースター Anime 25th collection【EB-02】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "EB02-061_p2~ja",
+          "language": "ja",
+          "set": "EB02",
+          "rarity": "SEC",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/EB02-061_p2.png",
+          "cardSet": "エクストラブースター Anime 25th collection【EB-02】",
+          "source": "bandai"
+        },
+        {
+          "id": "EB02-061_p3~ja",
+          "language": "ja",
+          "set": "PRB02",
+          "rarity": "SP CARD",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/EB02-061_p3.png",
+          "cardSet": "ONE PIECE CARD THE BEST vol.2【PRB-02】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "EB02-061_r1~ja",
+          "language": "ja",
+          "set": "PRB02",
+          "rarity": "SEC",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/EB02-061_r1.png",
+          "cardSet": "ONE PIECE CARD THE BEST vol.2【PRB-02】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     }

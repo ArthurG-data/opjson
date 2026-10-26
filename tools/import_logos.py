@@ -113,7 +113,7 @@ def apply(sets: list[dict], logos: list[tuple[str, str, list[str]]]) -> tuple[in
             review.append({"set": s["id"], "reason": "several pages give different logos",
                            "pages": [{"page": p, "logo": logo} for p, logo in pages]})
             continue
-        if pages:
+        if pages and opjson.has_release(s, "en"):
             release = next(r for r in s["releases"] if r["language"] == "en")
             release["logo"] = {"url": pages[0][1], "source": pages[0][0]}
             applied += 1

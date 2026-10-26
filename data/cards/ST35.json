@@ -3,6 +3,10 @@
     {
       "number": "ST35-001",
       "name": "Hack",
+      "names": {
+        "en": "Hack",
+        "ja": "ハック"
+      },
       "category": "Character",
       "cost": 4,
       "power": 4000,
@@ -41,12 +45,29 @@
             "distance": 4
           },
           "artist": "Nekobayashi"
+        },
+        {
+          "id": "ST35-001~ja",
+          "language": "ja",
+          "set": "ST35",
+          "rarity": "C",
+          "block": "5",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/ST35-001.png",
+          "cardSet": "スタートデッキ 赤黒 サボ【ST-35】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "ST35-002",
       "name": "Lindbergh",
+      "names": {
+        "en": "Lindbergh",
+        "ja": "リンドバーグ"
+      },
       "category": "Character",
       "cost": 4,
       "power": 4000,
@@ -84,12 +105,29 @@
             "distance": 4
           },
           "artist": "Yuu Shimotsuki"
+        },
+        {
+          "id": "ST35-002~ja",
+          "language": "ja",
+          "set": "ST35",
+          "rarity": "C",
+          "block": "5",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/ST35-002.png",
+          "cardSet": "スタートデッキ 赤黒 サボ【ST-35】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "ST35-003",
       "name": "Karasu",
+      "names": {
+        "en": "Karasu",
+        "ja": "カラス"
+      },
       "category": "Character",
       "cost": 3,
       "power": 4000,
@@ -126,12 +164,29 @@
             "distance": 4
           },
           "artist": "Hayaken-sarena"
+        },
+        {
+          "id": "ST35-003~ja",
+          "language": "ja",
+          "set": "ST35",
+          "rarity": "C",
+          "block": "5",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/ST35-003.png",
+          "cardSet": "スタートデッキ 赤黒 サボ【ST-35】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "ST35-004",
       "name": "Koala",
+      "names": {
+        "en": "Koala",
+        "ja": "コアラ"
+      },
       "category": "Character",
       "cost": 7,
       "power": 6000,
@@ -169,12 +224,29 @@
             "distance": 3
           },
           "artist": "Hashimoto Q"
+        },
+        {
+          "id": "ST35-004~ja",
+          "language": "ja",
+          "set": "ST35",
+          "rarity": "SR",
+          "block": "5",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/ST35-004.png",
+          "cardSet": "スタートデッキ 赤黒 サボ【ST-35】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "ST35-005",
       "name": "Bartholomew Kuma",
+      "names": {
+        "en": "Bartholomew Kuma",
+        "ja": "バーソロミュー・くま"
+      },
       "category": "Character",
       "cost": 5,
       "power": 5000,
@@ -211,6 +283,19 @@
             "distance": 4
           },
           "artist": "S-KINOKO"
+        },
+        {
+          "id": "ST35-005~ja",
+          "language": "ja",
+          "set": "ST35",
+          "rarity": "SR",
+          "block": "5",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/ST35-005.png",
+          "cardSet": "スタートデッキ 赤黒 サボ【ST-35】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     }

@@ -1,0 +1,8 @@
+{
+  "_comment": "Card facts where Bandai's Japanese card list misprints a value. Each entry is checked against the card image it cites; import_bandai_ja.py fails on any number whose Japanese and English facts disagree on more than attributes, unless an entry here settles it.",
+  "P-160": {
+    "facts": {"category": "Character"},
+    "evidence": "https://www.onepiece-cardgame.com/images/cardlist/card/P-160.png",
+    "note": "The promotion card page gives the category as キャラクタークター; the card prints CHARACTER."
+  }
+}

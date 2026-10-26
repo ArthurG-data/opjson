@@ -3,6 +3,10 @@
     {
       "number": "OP17-001",
       "name": "Edward.Newgate",
+      "names": {
+        "en": "Edward.Newgate",
+        "ja": "エドワード・ニューゲート"
+      },
       "category": "Leader",
       "power": 5000,
       "life": 5,
@@ -64,12 +68,42 @@
           "treatments": [
             "alternate_art"
           ]
+        },
+        {
+          "id": "OP17-001~ja",
+          "language": "ja",
+          "set": "OP17",
+          "rarity": "L",
+          "block": "5",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP17-001.png",
+          "cardSet": "ブースターパック 世界最強の戦士【OP-17】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
+        },
+        {
+          "id": "OP17-001_p1~ja",
+          "language": "ja",
+          "set": "OP17",
+          "rarity": "L",
+          "block": "5",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP17-001_p1.png",
+          "cardSet": "ブースターパック 世界最強の戦士【OP-17】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "OP17-002",
       "name": "Atmos",
+      "names": {
+        "en": "Atmos",
+        "ja": "アトモス"
+      },
       "category": "Character",
       "cost": 4,
       "power": 6000,
@@ -133,12 +167,29 @@
             }
           ],
           "artist": "touge369"
+        },
+        {
+          "id": "OP17-002~ja",
+          "language": "ja",
+          "set": "OP17",
+          "rarity": "C",
+          "block": "5",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP17-002.png",
+          "cardSet": "ブースターパック 世界最強の戦士【OP-17】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP17-003",
       "name": "Izo",
+      "names": {
+        "en": "Izo",
+        "ja": "イゾウ"
+      },
       "category": "Character",
       "cost": 4,
       "power": 6000,
@@ -175,12 +226,29 @@
             "distance": 1
           },
           "artist": "Hokuyuu"
+        },
+        {
+          "id": "OP17-003~ja",
+          "language": "ja",
+          "set": "OP17",
+          "rarity": "R",
+          "block": "5",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP17-003.png",
+          "cardSet": "ブースターパック 世界最強の戦士【OP-17】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "OP17-004",
       "name": "Inuarashi & Nekomamushi",
+      "names": {
+        "en": "Inuarashi & Nekomamushi",
+        "ja": "イヌアラシ＆ネコマムシ"
+      },
       "category": "Character",
       "cost": 3,
       "power": 2000,
@@ -247,12 +315,29 @@
             }
           ],
           "artist": "kito"
+        },
+        {
+          "id": "OP17-004~ja",
+          "language": "ja",
+          "set": "OP17",
+          "rarity": "C",
+          "block": "5",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP17-004.png",
+          "cardSet": "ブースターパック 世界最強の戦士【OP-17】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP17-005",
       "name": "Edward.Newgate",
+      "names": {
+        "en": "Edward.Newgate",
+        "ja": "エドワード・ニューゲート"
+      },
       "category": "Character",
       "cost": 10,
       "power": 12000,
@@ -340,12 +425,55 @@
           "treatments": [
             "manga"
           ]
+        },
+        {
+          "id": "OP17-005~ja",
+          "language": "ja",
+          "set": "OP17",
+          "rarity": "SR",
+          "block": "X",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP17-005.png",
+          "cardSet": "ブースターパック 世界最強の戦士【OP-17】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP17-005_p1~ja",
+          "language": "ja",
+          "set": "OP17",
+          "rarity": "SR",
+          "block": "X",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP17-005_p1.png",
+          "cardSet": "ブースターパック 世界最強の戦士【OP-17】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP17-005_p2~ja",
+          "language": "ja",
+          "set": "OP17",
+          "rarity": "SR",
+          "block": "X",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP17-005_p2.png",
+          "cardSet": "ブースターパック 世界最強の戦士【OP-17】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "OP17-006",
       "name": "Kingdew",
+      "names": {
+        "en": "Kingdew",
+        "ja": "キングデュー"
+      },
       "category": "Character",
       "cost": 7,
       "power": 8000,
@@ -433,12 +561,42 @@
             }
           ],
           "artist": "kankurou"
+        },
+        {
+          "id": "OP17-006~ja",
+          "language": "ja",
+          "set": "OP17",
+          "rarity": "C",
+          "block": "5",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP17-006.png",
+          "cardSet": "ブースターパック 世界最強の戦士【OP-17】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
+        },
+        {
+          "id": "OP17-006_p1~ja",
+          "language": "ja",
+          "set": "OP17",
+          "rarity": "C",
+          "block": "5",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP17-006_p1.png",
+          "cardSet": "ブースターパック 世界最強の戦士【OP-17】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP17-007",
       "name": "Kouzuki Oden",
+      "names": {
+        "en": "Kouzuki Oden",
+        "ja": "光月おでん"
+      },
       "category": "Character",
       "cost": 7,
       "power": 8000,
@@ -476,12 +634,29 @@
             "distance": 2
           },
           "artist": "Nijihayashi"
+        },
+        {
+          "id": "OP17-007~ja",
+          "language": "ja",
+          "set": "OP17",
+          "rarity": "R",
+          "block": "5",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP17-007.png",
+          "cardSet": "ブースターパック 世界最強の戦士【OP-17】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "OP17-008",
       "name": "Jozu",
+      "names": {
+        "en": "Jozu",
+        "ja": "ジョズ"
+      },
       "category": "Character",
       "cost": 6,
       "power": 8000,
@@ -517,12 +692,29 @@
             "distance": 4
           },
           "artist": "HISASHI HUJIWARA"
+        },
+        {
+          "id": "OP17-008~ja",
+          "language": "ja",
+          "set": "OP17",
+          "rarity": "R",
+          "block": "5",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP17-008.png",
+          "cardSet": "ブースターパック 世界最強の戦士【OP-17】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "OP17-009",
       "name": "Haruta",
+      "names": {
+        "en": "Haruta",
+        "ja": "ハルタ"
+      },
       "category": "Character",
       "cost": 4,
       "power": 5000,
@@ -587,12 +779,29 @@
             }
           ],
           "artist": "Nekobayashi"
+        },
+        {
+          "id": "OP17-009~ja",
+          "language": "ja",
+          "set": "OP17",
+          "rarity": "UC",
+          "block": "5",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP17-009.png",
+          "cardSet": "ブースターパック 世界最強の戦士【OP-17】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP17-010",
       "name": "Fossa",
+      "names": {
+        "en": "Fossa",
+        "ja": "フォッサ"
+      },
       "category": "Character",
       "cost": 1,
       "power": 3000,
@@ -656,12 +865,29 @@
             }
           ],
           "artist": "kankurou"
+        },
+        {
+          "id": "OP17-010~ja",
+          "language": "ja",
+          "set": "OP17",
+          "rarity": "C",
+          "block": "5",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP17-010.png",
+          "cardSet": "ブースターパック 世界最強の戦士【OP-17】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP17-011",
       "name": "Blamenco",
+      "names": {
+        "en": "Blamenco",
+        "ja": "ブラメンコ"
+      },
       "category": "Character",
       "cost": 5,
       "power": 6000,
@@ -726,12 +952,29 @@
             }
           ],
           "artist": "Yasushi Yamaguchi"
+        },
+        {
+          "id": "OP17-011~ja",
+          "language": "ja",
+          "set": "OP17",
+          "rarity": "C",
+          "block": "5",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP17-011.png",
+          "cardSet": "ブースターパック 世界最強の戦士【OP-17】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP17-012",
       "name": "Blenheim",
+      "names": {
+        "en": "Blenheim",
+        "ja": "ブレンハイム"
+      },
       "category": "Character",
       "cost": 2,
       "power": 1000,
@@ -796,12 +1039,29 @@
             }
           ],
           "artist": "Nekobayashi"
+        },
+        {
+          "id": "OP17-012~ja",
+          "language": "ja",
+          "set": "OP17",
+          "rarity": "C",
+          "block": "5",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP17-012.png",
+          "cardSet": "ブースターパック 世界最強の戦士【OP-17】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP17-013",
       "name": "Portgas.D.Ace",
+      "names": {
+        "en": "Portgas.D.Ace",
+        "ja": "ポートガス・Ｄ・エース"
+      },
       "category": "Character",
       "cost": 6,
       "power": 6000,
@@ -866,12 +1126,29 @@
             }
           ],
           "artist": "Tadaichi Nakama"
+        },
+        {
+          "id": "OP17-013~ja",
+          "language": "ja",
+          "set": "OP17",
+          "rarity": "UC",
+          "block": "5",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP17-013.png",
+          "cardSet": "ブースターパック 世界最強の戦士【OP-17】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP17-014",
       "name": "Whitey Bay",
+      "names": {
+        "en": "Whitey Bay",
+        "ja": "ホワイティベイ"
+      },
       "category": "Character",
       "cost": 1,
       "power": 1000,
@@ -936,12 +1213,29 @@
             }
           ],
           "artist": "BISAI"
+        },
+        {
+          "id": "OP17-014~ja",
+          "language": "ja",
+          "set": "OP17",
+          "rarity": "C",
+          "block": "5",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP17-014.png",
+          "cardSet": "ブースターパック 世界最強の戦士【OP-17】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP17-015",
       "name": "Marco",
+      "names": {
+        "en": "Marco",
+        "ja": "マルコ"
+      },
       "category": "Character",
       "cost": 5,
       "power": 6000,
@@ -1006,12 +1300,29 @@
             }
           ],
           "artist": "BISAI"
+        },
+        {
+          "id": "OP17-015~ja",
+          "language": "ja",
+          "set": "OP17",
+          "rarity": "UC",
+          "block": "5",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP17-015.png",
+          "cardSet": "ブースターパック 世界最強の戦士【OP-17】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP17-016",
       "name": "Rakuyo",
+      "names": {
+        "en": "Rakuyo",
+        "ja": "ラクヨウ"
+      },
       "category": "Character",
       "cost": 3,
       "power": 2000,
@@ -1076,12 +1387,29 @@
             }
           ],
           "artist": "Nekobayashi"
+        },
+        {
+          "id": "OP17-016~ja",
+          "language": "ja",
+          "set": "OP17",
+          "rarity": "UC",
+          "block": "5",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP17-016.png",
+          "cardSet": "ブースターパック 世界最強の戦士【OP-17】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP17-017",
       "name": "Ga Ha Ha Ha!!",
+      "names": {
+        "en": "Ga Ha Ha Ha!!",
+        "ja": "グララララララ!!!"
+      },
       "category": "Event",
       "cost": 1,
       "colors": [
@@ -1140,12 +1468,29 @@
               "category": "event"
             }
           ]
+        },
+        {
+          "id": "OP17-017~ja",
+          "language": "ja",
+          "set": "OP17",
+          "rarity": "C",
+          "block": "5",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP17-017.png",
+          "cardSet": "ブースターパック 世界最強の戦士【OP-17】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP17-018",
       "name": "The Power to Destroy the World",
+      "names": {
+        "en": "The Power to Destroy the World",
+        "ja": "世界を滅ぼす力"
+      },
       "category": "Event",
       "cost": 1,
       "colors": [
@@ -1204,12 +1549,29 @@
               "category": "event"
             }
           ]
+        },
+        {
+          "id": "OP17-018~ja",
+          "language": "ja",
+          "set": "OP17",
+          "rarity": "UC",
+          "block": "5",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP17-018.png",
+          "cardSet": "ブースターパック 世界最強の戦士【OP-17】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP17-019",
       "name": "I Don't Have Time to Chat with Snot-Nosed Brats",
+      "names": {
+        "en": "I Don't Have Time to Chat with Snot-Nosed Brats",
+        "ja": "ハナッたれとは話したくねェよアホンダラ"
+      },
       "category": "Event",
       "cost": 1,
       "colors": [
@@ -1241,12 +1603,29 @@
             "match": "image-only-candidate",
             "distance": 0
           }
+        },
+        {
+          "id": "OP17-019~ja",
+          "language": "ja",
+          "set": "OP17",
+          "rarity": "R",
+          "block": "5",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP17-019.png",
+          "cardSet": "ブースターパック 世界最強の戦士【OP-17】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "OP17-020",
       "name": "Shanks",
+      "names": {
+        "en": "Shanks",
+        "ja": "シャンクス"
+      },
       "category": "Leader",
       "power": 5000,
       "life": 5,
@@ -1308,12 +1687,42 @@
           "treatments": [
             "alternate_art"
           ]
+        },
+        {
+          "id": "OP17-020~ja",
+          "language": "ja",
+          "set": "OP17",
+          "rarity": "L",
+          "block": "5",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP17-020.png",
+          "cardSet": "ブースターパック 世界最強の戦士【OP-17】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
+        },
+        {
+          "id": "OP17-020_p1~ja",
+          "language": "ja",
+          "set": "OP17",
+          "rarity": "L",
+          "block": "5",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP17-020_p1.png",
+          "cardSet": "ブースターパック 世界最強の戦士【OP-17】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "OP17-021",
       "name": "Crone Oli",
+      "names": {
+        "en": "Crone Oli",
+        "ja": "オリ婆"
+      },
       "category": "Character",
       "cost": 1,
       "counter": 2000,
@@ -1377,12 +1786,29 @@
             }
           ],
           "artist": "COGA"
+        },
+        {
+          "id": "OP17-021~ja",
+          "language": "ja",
+          "set": "OP17",
+          "rarity": "UC",
+          "block": "5",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP17-021.png",
+          "cardSet": "ブースターパック 世界最強の戦士【OP-17】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP17-022",
       "name": "Shanks",
+      "names": {
+        "en": "Shanks",
+        "ja": "シャンクス"
+      },
       "category": "Character",
       "cost": 10,
       "power": 12000,
@@ -1470,12 +1896,55 @@
           "treatments": [
             "manga"
           ]
+        },
+        {
+          "id": "OP17-022~ja",
+          "language": "ja",
+          "set": "OP17",
+          "rarity": "SR",
+          "block": "X",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP17-022.png",
+          "cardSet": "ブースターパック 世界最強の戦士【OP-17】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP17-022_p1~ja",
+          "language": "ja",
+          "set": "OP17",
+          "rarity": "SR",
+          "block": "X",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP17-022_p1.png",
+          "cardSet": "ブースターパック 世界最強の戦士【OP-17】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP17-022_p2~ja",
+          "language": "ja",
+          "set": "OP17",
+          "rarity": "SR",
+          "block": "X",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP17-022_p2.png",
+          "cardSet": "ブースターパック 世界最強の戦士【OP-17】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "OP17-023",
       "name": "Nami",
+      "names": {
+        "en": "Nami",
+        "ja": "ナミ"
+      },
       "category": "Character",
       "cost": 1,
       "power": 1000,
@@ -1541,12 +2010,29 @@
             }
           ],
           "artist": "sacanahen"
+        },
+        {
+          "id": "OP17-023~ja",
+          "language": "ja",
+          "set": "OP17",
+          "rarity": "UC",
+          "block": "5",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP17-023.png",
+          "cardSet": "ブースターパック 世界最強の戦士【OP-17】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP17-024",
       "name": "Howling Gab",
+      "names": {
+        "en": "Howling Gab",
+        "ja": "\"ハウリング\"ガブ"
+      },
       "category": "Character",
       "cost": 8,
       "power": 8000,
@@ -1611,12 +2097,29 @@
             }
           ],
           "artist": "Sotaro Nishii"
+        },
+        {
+          "id": "OP17-024~ja",
+          "language": "ja",
+          "set": "OP17",
+          "rarity": "C",
+          "block": "5",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP17-024.png",
+          "cardSet": "ブースターパック 世界最強の戦士【OP-17】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP17-025",
       "name": "Building Snake",
+      "names": {
+        "en": "Building Snake",
+        "ja": "ビルディング・スネイク"
+      },
       "category": "Character",
       "cost": 4,
       "power": 5000,
@@ -1704,12 +2207,42 @@
             }
           ],
           "artist": "ASAKI KURODA"
+        },
+        {
+          "id": "OP17-025~ja",
+          "language": "ja",
+          "set": "OP17",
+          "rarity": "UC",
+          "block": "5",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP17-025.png",
+          "cardSet": "ブースターパック 世界最強の戦士【OP-17】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
+        },
+        {
+          "id": "OP17-025_p1~ja",
+          "language": "ja",
+          "set": "OP17",
+          "rarity": "UC",
+          "block": "5",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP17-025_p1.png",
+          "cardSet": "ブースターパック 世界最強の戦士【OP-17】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP17-026",
       "name": "Fugar",
+      "names": {
+        "en": "Fugar",
+        "ja": "フガー"
+      },
       "category": "Character",
       "cost": 1,
       "power": 2000,
@@ -1774,12 +2307,29 @@
             }
           ],
           "artist": "Suzume Muraichi"
+        },
+        {
+          "id": "OP17-026~ja",
+          "language": "ja",
+          "set": "OP17",
+          "rarity": "UC",
+          "block": "5",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP17-026.png",
+          "cardSet": "ブースターパック 世界最強の戦士【OP-17】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP17-027",
       "name": "Benn.Beckman",
+      "names": {
+        "en": "Benn.Beckman",
+        "ja": "ベン・ベックマン"
+      },
       "category": "Character",
       "cost": 7,
       "power": 9000,
@@ -1841,12 +2391,52 @@
             "alternate_art"
           ],
           "artist": "Oden"
+        },
+        {
+          "id": "OP17-027~ja",
+          "language": "ja",
+          "set": "OP17",
+          "rarity": "R",
+          "block": "5",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP17-027.png",
+          "cardSet": "ブースターパック 世界最強の戦士【OP-17】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP17-027_p1~ja",
+          "language": "ja",
+          "set": "OP17",
+          "rarity": "R",
+          "block": "5",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP17-027_p1.png",
+          "cardSet": "ブースターパック 世界最強の戦士【OP-17】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP17-027_p2~ja",
+          "language": "ja",
+          "set": "P",
+          "rarity": "R",
+          "block": "5",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP17-027_p2.png",
+          "cardSet": "フラッグシップバトル2026 10月上位記念品",
+          "source": "bandai"
         }
       ]
     },
     {
       "number": "OP17-028",
       "name": "Bonk Punch & Monster",
+      "names": {
+        "en": "Bonk Punch & Monster",
+        "ja": "ボンク・パンチ＆モンスター"
+      },
       "category": "Character",
       "cost": 4,
       "power": 3000,
@@ -1912,12 +2502,29 @@
             }
           ],
           "artist": "COGA"
+        },
+        {
+          "id": "OP17-028~ja",
+          "language": "ja",
+          "set": "OP17",
+          "rarity": "C",
+          "block": "5",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP17-028.png",
+          "cardSet": "ブースターパック 世界最強の戦士【OP-17】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP17-029",
       "name": "Hongo",
+      "names": {
+        "en": "Hongo",
+        "ja": "ホンゴウ"
+      },
       "category": "Character",
       "cost": 4,
       "power": 4000,
@@ -1954,12 +2561,29 @@
             "distance": 0
           },
           "artist": "phima"
+        },
+        {
+          "id": "OP17-029~ja",
+          "language": "ja",
+          "set": "OP17",
+          "rarity": "R",
+          "block": "5",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP17-029.png",
+          "cardSet": "ブースターパック 世界最強の戦士【OP-17】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "OP17-030",
       "name": "Monkey.D.Luffy",
+      "names": {
+        "en": "Monkey.D.Luffy",
+        "ja": "モンキー・Ｄ・ルフィ"
+      },
       "category": "Character",
       "cost": 4,
       "power": 5000,
@@ -2025,12 +2649,29 @@
             }
           ],
           "artist": "Hachi Takashi"
+        },
+        {
+          "id": "OP17-030~ja",
+          "language": "ja",
+          "set": "OP17",
+          "rarity": "C",
+          "block": "5",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP17-030.png",
+          "cardSet": "ブースターパック 世界最強の戦士【OP-17】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP17-031",
       "name": "Yasopp",
+      "names": {
+        "en": "Yasopp",
+        "ja": "ヤソップ"
+      },
       "category": "Character",
       "cost": 5,
       "power": 6000,
@@ -2093,12 +2734,42 @@
             "alternate_art"
           ],
           "artist": "Minato Sashima"
+        },
+        {
+          "id": "OP17-031~ja",
+          "language": "ja",
+          "set": "OP17",
+          "rarity": "SR",
+          "block": "5",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP17-031.png",
+          "cardSet": "ブースターパック 世界最強の戦士【OP-17】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP17-031_p1~ja",
+          "language": "ja",
+          "set": "OP17",
+          "rarity": "SR",
+          "block": "5",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP17-031_p1.png",
+          "cardSet": "ブースターパック 世界最強の戦士【OP-17】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "OP17-032",
       "name": "Limejuice",
+      "names": {
+        "en": "Limejuice",
+        "ja": "ライムジュース"
+      },
       "category": "Character",
       "cost": 1,
       "power": 2000,
@@ -2135,12 +2806,29 @@
             "distance": 2
           },
           "artist": "Akihiro MIYANO"
+        },
+        {
+          "id": "OP17-032~ja",
+          "language": "ja",
+          "set": "OP17",
+          "rarity": "R",
+          "block": "5",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP17-032.png",
+          "cardSet": "ブースターパック 世界最強の戦士【OP-17】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "OP17-033",
       "name": "Lucky.Roux",
+      "names": {
+        "en": "Lucky.Roux",
+        "ja": "ラッキー・ルウ"
+      },
       "category": "Character",
       "cost": 4,
       "power": 5000,
@@ -2177,12 +2865,39 @@
             "distance": 6
           },
           "artist": "Akihiro MIYANO"
+        },
+        {
+          "id": "OP17-033~ja",
+          "language": "ja",
+          "set": "OP17",
+          "rarity": "R",
+          "block": "5",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP17-033.png",
+          "cardSet": "ブースターパック 世界最強の戦士【OP-17】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP17-033_p1~ja",
+          "language": "ja",
+          "set": "OP17",
+          "rarity": "TR",
+          "block": "5",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP17-033_p1.png",
+          "cardSet": "ブースターパック 世界最強の戦士【OP-17】",
+          "source": "bandai"
         }
       ]
     },
     {
       "number": "OP17-034",
       "name": "Rockstar",
+      "names": {
+        "en": "Rockstar",
+        "ja": "ロックスター"
+      },
       "category": "Character",
       "cost": 5,
       "power": 6000,
@@ -2247,12 +2962,29 @@
             }
           ],
           "artist": "Tanaka Kenichi"
+        },
+        {
+          "id": "OP17-034~ja",
+          "language": "ja",
+          "set": "OP17",
+          "rarity": "C",
+          "block": "5",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP17-034.png",
+          "cardSet": "ブースターパック 世界最強の戦士【OP-17】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP17-035",
       "name": "Roronoa Zoro",
+      "names": {
+        "en": "Roronoa Zoro",
+        "ja": "ロロノア・ゾロ"
+      },
       "category": "Character",
       "cost": 7,
       "power": 8000,
@@ -2318,12 +3050,29 @@
             }
           ],
           "artist": "tatsuya"
+        },
+        {
+          "id": "OP17-035~ja",
+          "language": "ja",
+          "set": "OP17",
+          "rarity": "C",
+          "block": "5",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP17-035.png",
+          "cardSet": "ブースターパック 世界最強の戦士【OP-17】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP17-036",
       "name": "Withdraw Now and Allow Me to Save Face",
+      "names": {
+        "en": "Withdraw Now and Allow Me to Save Face",
+        "ja": "全員 この場はおれの顔を立てて貰おう"
+      },
       "category": "Event",
       "cost": 1,
       "colors": [
@@ -2382,12 +3131,29 @@
               "category": "event"
             }
           ]
+        },
+        {
+          "id": "OP17-036~ja",
+          "language": "ja",
+          "set": "OP17",
+          "rarity": "UC",
+          "block": "5",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP17-036.png",
+          "cardSet": "ブースターパック 世界最強の戦士【OP-17】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP17-037",
       "name": "Are You That Afraid of the New Era?!!",
+      "names": {
+        "en": "Are You That Afraid of the New Era?!!",
+        "ja": "そんなに恐いか？「新時代」が!!!"
+      },
       "category": "Event",
       "cost": 1,
       "colors": [
@@ -2444,12 +3210,42 @@
           "treatments": [
             "alternate_art"
           ]
+        },
+        {
+          "id": "OP17-037~ja",
+          "language": "ja",
+          "set": "OP17",
+          "rarity": "R",
+          "block": "5",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP17-037.png",
+          "cardSet": "ブースターパック 世界最強の戦士【OP-17】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP17-037_p1~ja",
+          "language": "ja",
+          "set": "OP17",
+          "rarity": "R",
+          "block": "5",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP17-037_p1.png",
+          "cardSet": "ブースターパック 世界最強の戦士【OP-17】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "OP17-038",
       "name": "I Think He's Seen an Ugly Future...",
+      "names": {
+        "en": "I Think He's Seen an Ugly Future...",
+        "ja": "やべェ未来が見えた様だ…"
+      },
       "category": "Event",
       "colors": [
         "Green"
@@ -2506,12 +3302,29 @@
               "category": "event"
             }
           ]
+        },
+        {
+          "id": "OP17-038~ja",
+          "language": "ja",
+          "set": "OP17",
+          "rarity": "C",
+          "block": "5",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP17-038.png",
+          "cardSet": "ブースターパック 世界最強の戦士【OP-17】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP17-039",
       "name": "Rocks.D.Xebec",
+      "names": {
+        "en": "Rocks.D.Xebec",
+        "ja": "ロックス・Ｄ・ジーベック"
+      },
       "category": "Leader",
       "power": 5000,
       "life": 5,
@@ -2572,12 +3385,42 @@
           "treatments": [
             "alternate_art"
           ]
+        },
+        {
+          "id": "OP17-039~ja",
+          "language": "ja",
+          "set": "OP17",
+          "rarity": "L",
+          "block": "5",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP17-039.png",
+          "cardSet": "ブースターパック 世界最強の戦士【OP-17】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
+        },
+        {
+          "id": "OP17-039_p1~ja",
+          "language": "ja",
+          "set": "OP17",
+          "rarity": "L",
+          "block": "5",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP17-039_p1.png",
+          "cardSet": "ブースターパック 世界最強の戦士【OP-17】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "OP17-040",
       "name": "Edward.Newgate",
+      "names": {
+        "en": "Edward.Newgate",
+        "ja": "エドワード・ニューゲート"
+      },
       "category": "Character",
       "cost": 6,
       "power": 8000,
@@ -2636,12 +3479,29 @@
             "distance": 5
           },
           "artist": "Bashikou"
+        },
+        {
+          "id": "OP17-040~ja",
+          "language": "ja",
+          "set": "OP17",
+          "rarity": "R",
+          "block": "5",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP17-040.png",
+          "cardSet": "ブースターパック 世界最強の戦士【OP-17】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "OP17-041",
       "name": "Wang Zhi",
+      "names": {
+        "en": "Wang Zhi",
+        "ja": "王直"
+      },
       "category": "Character",
       "cost": 4,
       "power": 6000,
@@ -2705,12 +3565,29 @@
             }
           ],
           "artist": "ASAKI KURODA"
+        },
+        {
+          "id": "OP17-041~ja",
+          "language": "ja",
+          "set": "OP17",
+          "rarity": "UC",
+          "block": "5",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP17-041.png",
+          "cardSet": "ブースターパック 世界最強の戦士【OP-17】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP17-042",
       "name": "Kaido",
+      "names": {
+        "en": "Kaido",
+        "ja": "カイドウ"
+      },
       "category": "Character",
       "cost": 4,
       "power": 6000,
@@ -2746,12 +3623,29 @@
             "distance": 1
           },
           "artist": "tatsuya"
+        },
+        {
+          "id": "OP17-042~ja",
+          "language": "ja",
+          "set": "OP17",
+          "rarity": "R",
+          "block": "5",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP17-042.png",
+          "cardSet": "ブースターパック 世界最強の戦士【OP-17】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "OP17-043",
       "name": "Ganzui",
+      "names": {
+        "en": "Ganzui",
+        "ja": "ガンズイ"
+      },
       "category": "Character",
       "cost": 5,
       "power": 7000,
@@ -2815,12 +3709,29 @@
             }
           ],
           "artist": "tasaka"
+        },
+        {
+          "id": "OP17-043~ja",
+          "language": "ja",
+          "set": "OP17",
+          "rarity": "UC",
+          "block": "5",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP17-043.png",
+          "cardSet": "ブースターパック 世界最強の戦士【OP-17】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP17-044",
       "name": "Captain John",
+      "names": {
+        "en": "Captain John",
+        "ja": "キャプテン・ジョン"
+      },
       "category": "Character",
       "cost": 4,
       "power": 6000,
@@ -2884,12 +3795,39 @@
             }
           ],
           "artist": "Naruse Uroko"
+        },
+        {
+          "id": "OP17-044~ja",
+          "language": "ja",
+          "set": "OP17",
+          "rarity": "UC",
+          "block": "5",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP17-044.png",
+          "cardSet": "ブースターパック 世界最強の戦士【OP-17】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
+        },
+        {
+          "id": "OP17-044_p1~ja",
+          "language": "ja",
+          "set": "P",
+          "rarity": "UC",
+          "block": "5",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP17-044_p1.png",
+          "cardSet": "プロモーションパックEX vol.5",
+          "source": "bandai"
         }
       ]
     },
     {
       "number": "OP17-045",
       "name": "Kyo",
+      "names": {
+        "en": "Kyo",
+        "ja": "凶"
+      },
       "category": "Character",
       "cost": 2,
       "power": 4000,
@@ -2975,12 +3913,42 @@
               "category": "event"
             }
           ]
+        },
+        {
+          "id": "OP17-045~ja",
+          "language": "ja",
+          "set": "OP17",
+          "rarity": "UC",
+          "block": "5",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP17-045.png",
+          "cardSet": "ブースターパック 世界最強の戦士【OP-17】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
+        },
+        {
+          "id": "OP17-045_p1~ja",
+          "language": "ja",
+          "set": "OP17",
+          "rarity": "UC",
+          "block": "5",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP17-045_p1.png",
+          "cardSet": "ブースターパック 世界最強の戦士【OP-17】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP17-046",
       "name": "Gloriosa",
+      "names": {
+        "en": "Gloriosa",
+        "ja": "グロリオーサ"
+      },
       "category": "Character",
       "cost": 4,
       "power": 1000,
@@ -3043,12 +4011,42 @@
             "alternate_art"
           ],
           "artist": "otton"
+        },
+        {
+          "id": "OP17-046~ja",
+          "language": "ja",
+          "set": "OP17",
+          "rarity": "SR",
+          "block": "5",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP17-046.png",
+          "cardSet": "ブースターパック 世界最強の戦士【OP-17】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP17-046_p1~ja",
+          "language": "ja",
+          "set": "OP17",
+          "rarity": "SR",
+          "block": "5",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP17-046_p1.png",
+          "cardSet": "ブースターパック 世界最強の戦士【OP-17】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "OP17-047",
       "name": "Shiki",
+      "names": {
+        "en": "Shiki",
+        "ja": "シキ"
+      },
       "category": "Character",
       "cost": 9,
       "power": 10000,
@@ -3114,12 +4112,29 @@
             }
           ],
           "artist": "tatsuya"
+        },
+        {
+          "id": "OP17-047~ja",
+          "language": "ja",
+          "set": "OP17",
+          "rarity": "C",
+          "block": "5",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP17-047.png",
+          "cardSet": "ブースターパック 世界最強の戦士【OP-17】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP17-048",
       "name": "Shiki",
+      "names": {
+        "en": "Shiki",
+        "ja": "シキ"
+      },
       "category": "Character",
       "cost": 7,
       "power": 9000,
@@ -3181,12 +4196,42 @@
             "alternate_art"
           ],
           "artist": "SENNSU"
+        },
+        {
+          "id": "OP17-048~ja",
+          "language": "ja",
+          "set": "OP17",
+          "rarity": "SR",
+          "block": "5",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP17-048.png",
+          "cardSet": "ブースターパック 世界最強の戦士【OP-17】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP17-048_p1~ja",
+          "language": "ja",
+          "set": "OP17",
+          "rarity": "SR",
+          "block": "5",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP17-048_p1.png",
+          "cardSet": "ブースターパック 世界最強の戦士【OP-17】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "OP17-049",
       "name": "Charlotte Linlin",
+      "names": {
+        "en": "Charlotte Linlin",
+        "ja": "シャーロット・リンリン"
+      },
       "category": "Character",
       "cost": 5,
       "power": 7000,
@@ -3248,12 +4293,42 @@
             "alternate_art"
           ],
           "artist": "Hashimoto Q"
+        },
+        {
+          "id": "OP17-049~ja",
+          "language": "ja",
+          "set": "OP17",
+          "rarity": "R",
+          "block": "5",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP17-049.png",
+          "cardSet": "ブースターパック 世界最強の戦士【OP-17】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP17-049_p1~ja",
+          "language": "ja",
+          "set": "OP17",
+          "rarity": "R",
+          "block": "5",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP17-049_p1.png",
+          "cardSet": "ブースターパック 世界最強の戦士【OP-17】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "OP17-050",
       "name": "Streusen",
+      "names": {
+        "en": "Streusen",
+        "ja": "シュトロイゼン"
+      },
       "category": "Character",
       "cost": 1,
       "power": 2000,
@@ -3317,12 +4392,29 @@
             }
           ],
           "artist": "SHINRA AGENCY Co. Ltd."
+        },
+        {
+          "id": "OP17-050~ja",
+          "language": "ja",
+          "set": "OP17",
+          "rarity": "C",
+          "block": "5",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP17-050.png",
+          "cardSet": "ブースターパック 世界最強の戦士【OP-17】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP17-051",
       "name": "Jinbe",
+      "names": {
+        "en": "Jinbe",
+        "ja": "ジンベエ"
+      },
       "category": "Character",
       "cost": 7,
       "power": 8000,
@@ -3389,12 +4481,29 @@
             }
           ],
           "artist": "Moopic"
+        },
+        {
+          "id": "OP17-051~ja",
+          "language": "ja",
+          "set": "OP17",
+          "rarity": "C",
+          "block": "5",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP17-051.png",
+          "cardSet": "ブースターパック 世界最強の戦士【OP-17】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP17-052",
       "name": "Don Marlon",
+      "names": {
+        "en": "Don Marlon",
+        "ja": "首領・マーロン"
+      },
       "category": "Character",
       "cost": 3,
       "power": 5000,
@@ -3458,12 +4567,29 @@
             }
           ],
           "artist": "Studio Vigor Co. Ltd"
+        },
+        {
+          "id": "OP17-052~ja",
+          "language": "ja",
+          "set": "OP17",
+          "rarity": "C",
+          "block": "5",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP17-052.png",
+          "cardSet": "ブースターパック 世界最強の戦士【OP-17】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP17-053",
       "name": "Barbell",
+      "names": {
+        "en": "Barbell",
+        "ja": "バーベル"
+      },
       "category": "Character",
       "cost": 5,
       "power": 7000,
@@ -3528,12 +4654,29 @@
             }
           ],
           "artist": "nukadokomogera"
+        },
+        {
+          "id": "OP17-053~ja",
+          "language": "ja",
+          "set": "OP17",
+          "rarity": "C",
+          "block": "5",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP17-053.png",
+          "cardSet": "ブースターパック 世界最強の戦士【OP-17】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP17-054",
       "name": "Miss Buckingham Stussy",
+      "names": {
+        "en": "Miss Buckingham Stussy",
+        "ja": "ミス・バッキンガム・ステューシー"
+      },
       "category": "Character",
       "cost": 3,
       "power": 5000,
@@ -3595,12 +4738,52 @@
             "alternate_art"
           ],
           "artist": "nuisuke"
+        },
+        {
+          "id": "OP17-054~ja",
+          "language": "ja",
+          "set": "OP17",
+          "rarity": "R",
+          "block": "5",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP17-054.png",
+          "cardSet": "ブースターパック 世界最強の戦士【OP-17】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP17-054_p1~ja",
+          "language": "ja",
+          "set": "OP17",
+          "rarity": "R",
+          "block": "5",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP17-054_p1.png",
+          "cardSet": "ブースターパック 世界最強の戦士【OP-17】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP17-054_p2~ja",
+          "language": "ja",
+          "set": "P",
+          "rarity": "R",
+          "block": "5",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP17-054_p2.png",
+          "cardSet": "エクストラグランドバトル2026 10月上位記念品",
+          "source": "bandai"
         }
       ]
     },
     {
       "number": "OP17-055",
       "name": "There's No Authority in the World That Lasts Forever!!!",
+      "names": {
+        "en": "There's No Authority in the World That Lasts Forever!!!",
+        "ja": "永遠に続く権力などこの世にゃねェんだ!!!"
+      },
       "category": "Event",
       "colors": [
         "Blue"
@@ -3630,12 +4813,29 @@
             "match": "image-only-candidate",
             "distance": 2
           }
+        },
+        {
+          "id": "OP17-055~ja",
+          "language": "ja",
+          "set": "OP17",
+          "rarity": "R",
+          "block": "5",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP17-055.png",
+          "cardSet": "ブースターパック 世界最強の戦士【OP-17】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "OP17-056",
       "name": "Rocks Pirates",
+      "names": {
+        "en": "Rocks Pirates",
+        "ja": "ロックス海賊団"
+      },
       "category": "Event",
       "colors": [
         "Blue"
@@ -3692,12 +4892,29 @@
               "category": "event"
             }
           ]
+        },
+        {
+          "id": "OP17-056~ja",
+          "language": "ja",
+          "set": "OP17",
+          "rarity": "UC",
+          "block": "5",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP17-056.png",
+          "cardSet": "ブースターパック 世界最強の戦士【OP-17】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP17-057",
       "name": "Fullalead",
+      "names": {
+        "en": "Fullalead",
+        "ja": "ハチノス"
+      },
       "category": "Stage",
       "cost": 1,
       "colors": [
@@ -3755,12 +4972,29 @@
               "category": "event"
             }
           ]
+        },
+        {
+          "id": "OP17-057~ja",
+          "language": "ja",
+          "set": "OP17",
+          "rarity": "C",
+          "block": "5",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP17-057.png",
+          "cardSet": "ブースターパック 世界最強の戦士【OP-17】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP17-058",
       "name": "Kaido",
+      "names": {
+        "en": "Kaido",
+        "ja": "カイドウ"
+      },
       "category": "Leader",
       "power": 5000,
       "life": 5,
@@ -3822,12 +5056,42 @@
           "treatments": [
             "alternate_art"
           ]
+        },
+        {
+          "id": "OP17-058~ja",
+          "language": "ja",
+          "set": "OP17",
+          "rarity": "L",
+          "block": "5",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP17-058.png",
+          "cardSet": "ブースターパック 世界最強の戦士【OP-17】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
+        },
+        {
+          "id": "OP17-058_p1~ja",
+          "language": "ja",
+          "set": "OP17",
+          "rarity": "L",
+          "block": "5",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP17-058_p1.png",
+          "cardSet": "ブースターパック 世界最強の戦士【OP-17】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "OP17-059",
       "name": "Aramaki",
+      "names": {
+        "en": "Aramaki",
+        "ja": "アラマキ"
+      },
       "category": "Character",
       "cost": 7,
       "power": 8000,
@@ -3892,12 +5156,29 @@
             }
           ],
           "artist": "Morechand"
+        },
+        {
+          "id": "OP17-059~ja",
+          "language": "ja",
+          "set": "OP17",
+          "rarity": "UC",
+          "block": "5",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP17-059.png",
+          "cardSet": "ブースターパック 世界最強の戦士【OP-17】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP17-060",
       "name": "Ulti & Page One",
+      "names": {
+        "en": "Ulti & Page One",
+        "ja": "うるティ＆ページワン"
+      },
       "category": "Character",
       "cost": 6,
       "power": 6000,
@@ -3934,12 +5215,29 @@
             "distance": 2
           },
           "artist": "Koushi Rokushiro"
+        },
+        {
+          "id": "OP17-060~ja",
+          "language": "ja",
+          "set": "OP17",
+          "rarity": "R",
+          "block": "5",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP17-060.png",
+          "cardSet": "ブースターパック 世界最強の戦士【OP-17】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "OP17-061",
       "name": "Lead Performers",
+      "names": {
+        "en": "Lead Performers",
+        "ja": "大看板"
+      },
       "category": "Character",
       "cost": 9,
       "power": 11000,
@@ -4003,12 +5301,42 @@
             "alternate_art"
           ],
           "artist": "Morechand"
+        },
+        {
+          "id": "OP17-061~ja",
+          "language": "ja",
+          "set": "OP17",
+          "rarity": "R",
+          "block": "5",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP17-061.png",
+          "cardSet": "ブースターパック 世界最強の戦士【OP-17】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP17-061_p1~ja",
+          "language": "ja",
+          "set": "OP17",
+          "rarity": "R",
+          "block": "5",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP17-061_p1.png",
+          "cardSet": "ブースターパック 世界最強の戦士【OP-17】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "OP17-062",
       "name": "Kaido",
+      "names": {
+        "en": "Kaido",
+        "ja": "カイドウ"
+      },
       "category": "Character",
       "cost": 10,
       "power": 12000,
@@ -4122,12 +5450,68 @@
             "alternate_art"
           ],
           "artist": "KEISUKE ITAGAKI"
+        },
+        {
+          "id": "OP17-062~ja",
+          "language": "ja",
+          "set": "OP17",
+          "rarity": "SR",
+          "block": "X",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP17-062.png",
+          "cardSet": "ブースターパック 世界最強の戦士【OP-17】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP17-062_p1~ja",
+          "language": "ja",
+          "set": "OP17",
+          "rarity": "SR",
+          "block": "X",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP17-062_p1.png",
+          "cardSet": "ブースターパック 世界最強の戦士【OP-17】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP17-062_p2~ja",
+          "language": "ja",
+          "set": "OP17",
+          "rarity": "SR",
+          "block": "X",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP17-062_p2.png",
+          "cardSet": "ブースターパック 世界最強の戦士【OP-17】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP17-062_p3~ja",
+          "language": "ja",
+          "set": "OP17",
+          "rarity": "SR",
+          "block": "X",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP17-062_p3.png",
+          "cardSet": "ブースターパック 世界最強の戦士【OP-17】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "OP17-063",
       "name": "Kaido",
+      "names": {
+        "en": "Kaido",
+        "ja": "カイドウ"
+      },
       "category": "Character",
       "cost": 10,
       "power": 12000,
@@ -4190,12 +5574,42 @@
             "alternate_art"
           ],
           "artist": "Shishizaru"
+        },
+        {
+          "id": "OP17-063~ja",
+          "language": "ja",
+          "set": "OP17",
+          "rarity": "SR",
+          "block": "5",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP17-063.png",
+          "cardSet": "ブースターパック 世界最強の戦士【OP-17】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP17-063_p1~ja",
+          "language": "ja",
+          "set": "OP17",
+          "rarity": "SR",
+          "block": "5",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP17-063_p1.png",
+          "cardSet": "ブースターパック 世界最強の戦士【OP-17】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "OP17-064",
       "name": "King",
+      "names": {
+        "en": "King",
+        "ja": "キング"
+      },
       "category": "Character",
       "cost": 9,
       "power": 10000,
@@ -4260,12 +5674,29 @@
             }
           ],
           "artist": "Koushi Rokushiro"
+        },
+        {
+          "id": "OP17-064~ja",
+          "language": "ja",
+          "set": "OP17",
+          "rarity": "C",
+          "block": "5",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP17-064.png",
+          "cardSet": "ブースターパック 世界最強の戦士【OP-17】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP17-065",
       "name": "Queen",
+      "names": {
+        "en": "Queen",
+        "ja": "クイーン"
+      },
       "category": "Character",
       "cost": 9,
       "power": 10000,
@@ -4329,12 +5760,29 @@
             }
           ],
           "artist": "kankurou"
+        },
+        {
+          "id": "OP17-065~ja",
+          "language": "ja",
+          "set": "OP17",
+          "rarity": "UC",
+          "block": "5",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP17-065.png",
+          "cardSet": "ブースターパック 世界最強の戦士【OP-17】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP17-066",
       "name": "Kurozumi Orochi",
+      "names": {
+        "en": "Kurozumi Orochi",
+        "ja": "黒炭オロチ"
+      },
       "category": "Character",
       "cost": 1,
       "counter": 1000,
@@ -4399,12 +5847,29 @@
             }
           ],
           "artist": "kankurou"
+        },
+        {
+          "id": "OP17-066~ja",
+          "language": "ja",
+          "set": "OP17",
+          "rarity": "C",
+          "block": "5",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP17-066.png",
+          "cardSet": "ブースターパック 世界最強の戦士【OP-17】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP17-067",
       "name": "Kurozumi Kanjuro",
+      "names": {
+        "en": "Kurozumi Kanjuro",
+        "ja": "黒炭カン十郎"
+      },
       "category": "Character",
       "cost": 2,
       "power": 3000,
@@ -4470,12 +5935,29 @@
             }
           ],
           "artist": "Hayaken-sarena"
+        },
+        {
+          "id": "OP17-067~ja",
+          "language": "ja",
+          "set": "OP17",
+          "rarity": "C",
+          "block": "5",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP17-067.png",
+          "cardSet": "ブースターパック 世界最強の戦士【OP-17】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP17-068",
       "name": "Sasaki",
+      "names": {
+        "en": "Sasaki",
+        "ja": "ササキ"
+      },
       "category": "Character",
       "cost": 3,
       "power": 4000,
@@ -4540,12 +6022,29 @@
             }
           ],
           "artist": "Yasushi Yamaguchi"
+        },
+        {
+          "id": "OP17-068~ja",
+          "language": "ja",
+          "set": "OP17",
+          "rarity": "C",
+          "block": "5",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP17-068.png",
+          "cardSet": "ブースターパック 世界最強の戦士【OP-17】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP17-069",
       "name": "Jack",
+      "names": {
+        "en": "Jack",
+        "ja": "ジャック"
+      },
       "category": "Character",
       "cost": 9,
       "power": 10000,
@@ -4610,12 +6109,29 @@
             }
           ],
           "artist": "eiji kaneda"
+        },
+        {
+          "id": "OP17-069~ja",
+          "language": "ja",
+          "set": "OP17",
+          "rarity": "UC",
+          "block": "5",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP17-069.png",
+          "cardSet": "ブースターパック 世界最強の戦士【OP-17】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP17-070",
       "name": "Scratchmen Apoo",
+      "names": {
+        "en": "Scratchmen Apoo",
+        "ja": "スクラッチメン・アプー"
+      },
       "category": "Character",
       "cost": 6,
       "power": 7000,
@@ -4704,12 +6220,42 @@
             }
           ],
           "artist": "Yasushi Yamaguchi"
+        },
+        {
+          "id": "OP17-070~ja",
+          "language": "ja",
+          "set": "OP17",
+          "rarity": "C",
+          "block": "5",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP17-070.png",
+          "cardSet": "ブースターパック 世界最強の戦士【OP-17】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
+        },
+        {
+          "id": "OP17-070_p1~ja",
+          "language": "ja",
+          "set": "OP17",
+          "rarity": "C",
+          "block": "5",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP17-070_p1.png",
+          "cardSet": "ブースターパック 世界最強の戦士【OP-17】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP17-071",
       "name": "Who's.Who",
+      "names": {
+        "en": "Who's.Who",
+        "ja": "フーズ・フー"
+      },
       "category": "Character",
       "cost": 2,
       "power": 3000,
@@ -4775,12 +6321,29 @@
             }
           ],
           "artist": "Daisuke Enoshima"
+        },
+        {
+          "id": "OP17-071~ja",
+          "language": "ja",
+          "set": "OP17",
+          "rarity": "C",
+          "block": "5",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP17-071.png",
+          "cardSet": "ブースターパック 世界最強の戦士【OP-17】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP17-072",
       "name": "Black Maria",
+      "names": {
+        "en": "Black Maria",
+        "ja": "ブラックマリア"
+      },
       "category": "Character",
       "cost": 2,
       "power": 1000,
@@ -4845,12 +6408,29 @@
             }
           ],
           "artist": "kou tasake"
+        },
+        {
+          "id": "OP17-072~ja",
+          "language": "ja",
+          "set": "OP17",
+          "rarity": "C",
+          "block": "5",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP17-072.png",
+          "cardSet": "ブースターパック 世界最強の戦士【OP-17】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP17-073",
       "name": "Basil Hawkins",
+      "names": {
+        "en": "Basil Hawkins",
+        "ja": "バジル・ホーキンス"
+      },
       "category": "Character",
       "cost": 3,
       "power": 1000,
@@ -4916,12 +6496,29 @@
             }
           ],
           "artist": "Nijihayashi"
+        },
+        {
+          "id": "OP17-073~ja",
+          "language": "ja",
+          "set": "OP17",
+          "rarity": "UC",
+          "block": "5",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP17-073.png",
+          "cardSet": "ブースターパック 世界最強の戦士【OP-17】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP17-074",
       "name": "Yamato",
+      "names": {
+        "en": "Yamato",
+        "ja": "ヤマト"
+      },
       "category": "Character",
       "cost": 3,
       "power": 1000,
@@ -4958,12 +6555,29 @@
             "distance": 8
           },
           "artist": "sho"
+        },
+        {
+          "id": "OP17-074~ja",
+          "language": "ja",
+          "set": "OP17",
+          "rarity": "R",
+          "block": "5",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP17-074.png",
+          "cardSet": "ブースターパック 世界最強の戦士【OP-17】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "OP17-075",
       "name": "X.Drake",
+      "names": {
+        "en": "X.Drake",
+        "ja": "Ｘ・ドレーク"
+      },
       "category": "Character",
       "cost": 2,
       "power": 2000,
@@ -5030,12 +6644,29 @@
             }
           ],
           "artist": "touge369"
+        },
+        {
+          "id": "OP17-075~ja",
+          "language": "ja",
+          "set": "OP17",
+          "rarity": "C",
+          "block": "5",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP17-075.png",
+          "cardSet": "ブースターパック 世界最強の戦士【OP-17】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP17-076",
       "name": "Wo Ro Ro Ro Ro... I Think I've Sobered Up",
+      "names": {
+        "en": "Wo Ro Ro Ro Ro... I Think I've Sobered Up",
+        "ja": "ウォロロロロ…!!すっかり酔いが醒めたぜ"
+      },
       "category": "Event",
       "colors": [
         "Purple"
@@ -5066,12 +6697,29 @@
             "match": "image-only-candidate",
             "distance": 6
           }
+        },
+        {
+          "id": "OP17-076~ja",
+          "language": "ja",
+          "set": "OP17",
+          "rarity": "R",
+          "block": "5",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP17-076.png",
+          "cardSet": "ブースターパック 世界最強の戦士【OP-17】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "OP17-077",
       "name": "Kundali Dragon Swarm",
+      "names": {
+        "en": "Kundali Dragon Swarm",
+        "ja": "軍荼利龍盛軍"
+      },
       "category": "Event",
       "cost": 1,
       "colors": [
@@ -5130,12 +6778,29 @@
               "category": "event"
             }
           ]
+        },
+        {
+          "id": "OP17-077~ja",
+          "language": "ja",
+          "set": "OP17",
+          "rarity": "UC",
+          "block": "5",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP17-077.png",
+          "cardSet": "ブースターパック 世界最強の戦士【OP-17】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP17-078",
       "name": "Drunken Dragon Bagua",
+      "names": {
+        "en": "Drunken Dragon Bagua",
+        "ja": "酒龍八卦"
+      },
       "category": "Event",
       "cost": 2,
       "colors": [
@@ -5194,12 +6859,29 @@
               "category": "event"
             }
           ]
+        },
+        {
+          "id": "OP17-078~ja",
+          "language": "ja",
+          "set": "OP17",
+          "rarity": "C",
+          "block": "5",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP17-078.png",
+          "cardSet": "ブースターパック 世界最強の戦士【OP-17】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP17-079",
       "name": "Monkey.D.Luffy",
+      "names": {
+        "en": "Monkey.D.Luffy",
+        "ja": "モンキー・Ｄ・ルフィ"
+      },
       "category": "Leader",
       "power": 5000,
       "life": 5,
@@ -5287,12 +6969,55 @@
           "treatments": [
             "alternate_art"
           ]
+        },
+        {
+          "id": "OP17-079~ja",
+          "language": "ja",
+          "set": "OP17",
+          "rarity": "L",
+          "block": "5",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP17-079.png",
+          "cardSet": "ブースターパック 世界最強の戦士【OP-17】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
+        },
+        {
+          "id": "OP17-079_p1~ja",
+          "language": "ja",
+          "set": "OP17",
+          "rarity": "L",
+          "block": "5",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP17-079_p1.png",
+          "cardSet": "ブースターパック 世界最強の戦士【OP-17】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP17-079_p2~ja",
+          "language": "ja",
+          "set": "OP17",
+          "rarity": "L",
+          "block": "5",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP17-079_p2.png",
+          "cardSet": "ブースターパック 世界最強の戦士【OP-17】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "OP17-080",
       "name": "Usopp",
+      "names": {
+        "en": "Usopp",
+        "ja": "ウソップ"
+      },
       "category": "Character",
       "cost": 2,
       "power": 2000,
@@ -5356,12 +7081,42 @@
             "alternate_art"
           ],
           "artist": "SENNSU"
+        },
+        {
+          "id": "OP17-080~ja",
+          "language": "ja",
+          "set": "OP17",
+          "rarity": "SR",
+          "block": "5",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP17-080.png",
+          "cardSet": "ブースターパック 世界最強の戦士【OP-17】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP17-080_p1~ja",
+          "language": "ja",
+          "set": "OP17",
+          "rarity": "SR",
+          "block": "5",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP17-080_p1.png",
+          "cardSet": "ブースターパック 世界最強の戦士【OP-17】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "OP17-081",
       "name": "Gerd",
+      "names": {
+        "en": "Gerd",
+        "ja": "ゲルズ"
+      },
       "category": "Character",
       "cost": 2,
       "power": 3000,
@@ -5400,12 +7155,29 @@
             "distance": 0
           },
           "artist": "Hashimoto Q"
+        },
+        {
+          "id": "OP17-081~ja",
+          "language": "ja",
+          "set": "OP17",
+          "rarity": "R",
+          "block": "5",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP17-081.png",
+          "cardSet": "ブースターパック 世界最強の戦士【OP-17】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "OP17-082",
       "name": "Sanji",
+      "names": {
+        "en": "Sanji",
+        "ja": "サンジ"
+      },
       "category": "Character",
       "cost": 2,
       "power": 2000,
@@ -5471,12 +7243,29 @@
             }
           ],
           "artist": "NIJIMAARC"
+        },
+        {
+          "id": "OP17-082~ja",
+          "language": "ja",
+          "set": "OP17",
+          "rarity": "C",
+          "block": "5",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP17-082.png",
+          "cardSet": "ブースターパック 世界最強の戦士【OP-17】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP17-083",
       "name": "Jinbe",
+      "names": {
+        "en": "Jinbe",
+        "ja": "ジンベエ"
+      },
       "category": "Character",
       "cost": 2,
       "power": 2000,
@@ -5543,12 +7332,29 @@
             }
           ],
           "artist": "Katsuo Tadano"
+        },
+        {
+          "id": "OP17-083~ja",
+          "language": "ja",
+          "set": "OP17",
+          "rarity": "C",
+          "block": "5",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP17-083.png",
+          "cardSet": "ブースターパック 世界最強の戦士【OP-17】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP17-084",
       "name": "Tony Tony.Chopper",
+      "names": {
+        "en": "Tony Tony.Chopper",
+        "ja": "トニートニー・チョッパー"
+      },
       "category": "Character",
       "cost": 1,
       "power": 2000,
@@ -5615,12 +7421,29 @@
             }
           ],
           "artist": "TAPIOCA"
+        },
+        {
+          "id": "OP17-084~ja",
+          "language": "ja",
+          "set": "OP17",
+          "rarity": "UC",
+          "block": "5",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP17-084.png",
+          "cardSet": "ブースターパック 世界最強の戦士【OP-17】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP17-085",
       "name": "Dorry",
+      "names": {
+        "en": "Dorry",
+        "ja": "ドリー"
+      },
       "category": "Character",
       "cost": 5,
       "power": 5000,
@@ -5687,12 +7510,29 @@
             }
           ],
           "artist": "KISUKE"
+        },
+        {
+          "id": "OP17-085~ja",
+          "language": "ja",
+          "set": "OP17",
+          "rarity": "UC",
+          "block": "5",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP17-085.png",
+          "cardSet": "ブースターパック 世界最強の戦士【OP-17】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP17-086",
       "name": "Nami",
+      "names": {
+        "en": "Nami",
+        "ja": "ナミ"
+      },
       "category": "Character",
       "cost": 1,
       "power": 2000,
@@ -5758,12 +7598,29 @@
             }
           ],
           "artist": "Sunohara"
+        },
+        {
+          "id": "OP17-086~ja",
+          "language": "ja",
+          "set": "OP17",
+          "rarity": "UC",
+          "block": "5",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP17-086.png",
+          "cardSet": "ブースターパック 世界最強の戦士【OP-17】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP17-087",
       "name": "Nico Robin",
+      "names": {
+        "en": "Nico Robin",
+        "ja": "ニコ・ロビン"
+      },
       "category": "Character",
       "cost": 2,
       "power": 2000,
@@ -5827,12 +7684,42 @@
             "alternate_art"
           ],
           "artist": "otton"
+        },
+        {
+          "id": "OP17-087~ja",
+          "language": "ja",
+          "set": "OP17",
+          "rarity": "R",
+          "block": "5",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP17-087.png",
+          "cardSet": "ブースターパック 世界最強の戦士【OP-17】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP17-087_p1~ja",
+          "language": "ja",
+          "set": "OP17",
+          "rarity": "R",
+          "block": "5",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP17-087_p1.png",
+          "cardSet": "ブースターパック 世界最強の戦士【OP-17】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "OP17-088",
       "name": "Hajrudin",
+      "names": {
+        "en": "Hajrudin",
+        "ja": "ハイルディン"
+      },
       "category": "Character",
       "cost": 7,
       "power": 8000,
@@ -5922,12 +7809,42 @@
             }
           ],
           "artist": "Moopic"
+        },
+        {
+          "id": "OP17-088~ja",
+          "language": "ja",
+          "set": "OP17",
+          "rarity": "C",
+          "block": "5",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP17-088.png",
+          "cardSet": "ブースターパック 世界最強の戦士【OP-17】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
+        },
+        {
+          "id": "OP17-088_p1~ja",
+          "language": "ja",
+          "set": "OP17",
+          "rarity": "C",
+          "block": "5",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP17-088_p1.png",
+          "cardSet": "ブースターパック 世界最強の戦士【OP-17】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP17-089",
       "name": "Jaguar.D.Saul",
+      "names": {
+        "en": "Jaguar.D.Saul",
+        "ja": "ハグワール・Ｄ・サウロ"
+      },
       "category": "Character",
       "cost": 4,
       "power": 6000,
@@ -5965,12 +7882,29 @@
             "distance": 2
           },
           "artist": "tessy"
+        },
+        {
+          "id": "OP17-089~ja",
+          "language": "ja",
+          "set": "OP17",
+          "rarity": "R",
+          "block": "5",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP17-089.png",
+          "cardSet": "ブースターパック 世界最強の戦士【OP-17】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "OP17-090",
       "name": "Franky",
+      "names": {
+        "en": "Franky",
+        "ja": "フランキー"
+      },
       "category": "Character",
       "cost": 2,
       "power": 2000,
@@ -6036,12 +7970,29 @@
             }
           ],
           "artist": "Tadaichi Nakama"
+        },
+        {
+          "id": "OP17-090~ja",
+          "language": "ja",
+          "set": "OP17",
+          "rarity": "C",
+          "block": "5",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP17-090.png",
+          "cardSet": "ブースターパック 世界最強の戦士【OP-17】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP17-091",
       "name": "Brook",
+      "names": {
+        "en": "Brook",
+        "ja": "ブルック"
+      },
       "category": "Character",
       "cost": 2,
       "power": 2000,
@@ -6107,12 +8058,29 @@
             }
           ],
           "artist": "teo"
+        },
+        {
+          "id": "OP17-091~ja",
+          "language": "ja",
+          "set": "OP17",
+          "rarity": "C",
+          "block": "5",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP17-091.png",
+          "cardSet": "ブースターパック 世界最強の戦士【OP-17】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP17-092",
       "name": "Brogy",
+      "names": {
+        "en": "Brogy",
+        "ja": "ブロギー"
+      },
       "category": "Character",
       "cost": 5,
       "power": 5000,
@@ -6179,12 +8147,29 @@
             }
           ],
           "artist": "KISUKE"
+        },
+        {
+          "id": "OP17-092~ja",
+          "language": "ja",
+          "set": "OP17",
+          "rarity": "UC",
+          "block": "5",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP17-092.png",
+          "cardSet": "ブースターパック 世界最強の戦士【OP-17】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP17-093",
       "name": "Monkey.D.Luffy",
+      "names": {
+        "en": "Monkey.D.Luffy",
+        "ja": "モンキー・Ｄ・ルフィ"
+      },
       "category": "Character",
       "cost": 8,
       "power": 8000,
@@ -6248,12 +8233,42 @@
             "alternate_art"
           ],
           "artist": "Bashikou"
+        },
+        {
+          "id": "OP17-093~ja",
+          "language": "ja",
+          "set": "OP17",
+          "rarity": "SR",
+          "block": "5",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP17-093.png",
+          "cardSet": "ブースターパック 世界最強の戦士【OP-17】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP17-093_p1~ja",
+          "language": "ja",
+          "set": "OP17",
+          "rarity": "SR",
+          "block": "5",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP17-093_p1.png",
+          "cardSet": "ブースターパック 世界最強の戦士【OP-17】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "OP17-094",
       "name": "Rodo",
+      "names": {
+        "en": "Rodo",
+        "ja": "ロード"
+      },
       "category": "Character",
       "cost": 1,
       "power": 2000,
@@ -6320,12 +8335,29 @@
             }
           ],
           "artist": "tasaka"
+        },
+        {
+          "id": "OP17-094~ja",
+          "language": "ja",
+          "set": "OP17",
+          "rarity": "UC",
+          "block": "5",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP17-094.png",
+          "cardSet": "ブースターパック 世界最強の戦士【OP-17】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP17-095",
       "name": "Roronoa Zoro",
+      "names": {
+        "en": "Roronoa Zoro",
+        "ja": "ロロノア・ゾロ"
+      },
       "category": "Character",
       "cost": 2,
       "power": 2000,
@@ -6391,12 +8423,29 @@
             }
           ],
           "artist": "kudo sakiko"
+        },
+        {
+          "id": "OP17-095~ja",
+          "language": "ja",
+          "set": "OP17",
+          "rarity": "C",
+          "block": "5",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP17-095.png",
+          "cardSet": "ブースターパック 世界最強の戦士【OP-17】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP17-096",
       "name": "I'm Luffy!! The Man Who Will Be King of the Pirates!!",
+      "names": {
+        "en": "I'm Luffy!! The Man Who Will Be King of the Pirates!!",
+        "ja": "おれはルフィ!!海賊王になる男だ!!"
+      },
       "category": "Event",
       "cost": 1,
       "colors": [
@@ -6429,12 +8478,29 @@
             "match": "image-only-candidate",
             "distance": 4
           }
+        },
+        {
+          "id": "OP17-096~ja",
+          "language": "ja",
+          "set": "OP17",
+          "rarity": "R",
+          "block": "5",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP17-096.png",
+          "cardSet": "ブースターパック 世界最強の戦士【OP-17】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "OP17-097",
       "name": "I'll Feed on This Rage and Use It to Bring the World to Ruin!!!",
+      "names": {
+        "en": "I'll Feed on This Rage and Use It to Bring the World to Ruin!!!",
+        "ja": "この怒りを食らっておれは!!!“世界”を滅ぼしてやる!!!"
+      },
       "category": "Event",
       "cost": 1,
       "colors": [
@@ -6493,12 +8559,29 @@
               "category": "event"
             }
           ]
+        },
+        {
+          "id": "OP17-097~ja",
+          "language": "ja",
+          "set": "OP17",
+          "rarity": "C",
+          "block": "5",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP17-097.png",
+          "cardSet": "ブースターパック 世界最強の戦士【OP-17】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP17-098",
       "name": "Gum-Gum Kong Gun",
+      "names": {
+        "en": "Gum-Gum Kong Gun",
+        "ja": "ゴムゴムの猿王銃"
+      },
       "category": "Event",
       "cost": 1,
       "colors": [
@@ -6558,12 +8641,29 @@
               "category": "event"
             }
           ]
+        },
+        {
+          "id": "OP17-098~ja",
+          "language": "ja",
+          "set": "OP17",
+          "rarity": "C",
+          "block": "5",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP17-098.png",
+          "cardSet": "ブースターパック 世界最強の戦士【OP-17】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP17-099",
       "name": "Charlotte Linlin",
+      "names": {
+        "en": "Charlotte Linlin",
+        "ja": "シャーロット・リンリン"
+      },
       "category": "Leader",
       "power": 5000,
       "life": 5,
@@ -6625,12 +8725,42 @@
           "treatments": [
             "alternate_art"
           ]
+        },
+        {
+          "id": "OP17-099~ja",
+          "language": "ja",
+          "set": "OP17",
+          "rarity": "L",
+          "block": "5",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP17-099.png",
+          "cardSet": "ブースターパック 世界最強の戦士【OP-17】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
+        },
+        {
+          "id": "OP17-099_p1~ja",
+          "language": "ja",
+          "set": "OP17",
+          "rarity": "L",
+          "block": "5",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP17-099_p1.png",
+          "cardSet": "ブースターパック 世界最強の戦士【OP-17】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "OP17-100",
       "name": "Capone\"Gang\"Bege",
+      "names": {
+        "en": "Capone\"Gang\"Bege",
+        "ja": "カポネ・ベッジ"
+      },
       "category": "Character",
       "cost": 7,
       "power": 8000,
@@ -6696,12 +8826,29 @@
             }
           ],
           "artist": "touge369"
+        },
+        {
+          "id": "OP17-100~ja",
+          "language": "ja",
+          "set": "OP17",
+          "rarity": "C",
+          "block": "5",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP17-100.png",
+          "cardSet": "ブースターパック 世界最強の戦士【OP-17】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP17-101",
       "name": "Caribou",
+      "names": {
+        "en": "Caribou",
+        "ja": "カリブー"
+      },
       "category": "Character",
       "cost": 5,
       "power": 6000,
@@ -6767,12 +8914,29 @@
             }
           ],
           "artist": "kankurou"
+        },
+        {
+          "id": "OP17-101~ja",
+          "language": "ja",
+          "set": "OP17",
+          "rarity": "C",
+          "block": "5",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP17-101.png",
+          "cardSet": "ブースターパック 世界最強の戦士【OP-17】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP17-102",
       "name": "Charlotte Oven",
+      "names": {
+        "en": "Charlotte Oven",
+        "ja": "シャーロット・オーブン"
+      },
       "category": "Character",
       "cost": 4,
       "power": 4000,
@@ -6837,12 +9001,29 @@
             }
           ],
           "artist": "Yasushi Yamaguchi"
+        },
+        {
+          "id": "OP17-102~ja",
+          "language": "ja",
+          "set": "OP17",
+          "rarity": "UC",
+          "block": "5",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP17-102.png",
+          "cardSet": "ブースターパック 世界最強の戦士【OP-17】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP17-103",
       "name": "Charlotte Katakuri",
+      "names": {
+        "en": "Charlotte Katakuri",
+        "ja": "シャーロット・カタクリ"
+      },
       "category": "Character",
       "cost": 6,
       "power": 4000,
@@ -6907,12 +9088,29 @@
             }
           ],
           "artist": "Koushi Rokushiro"
+        },
+        {
+          "id": "OP17-103~ja",
+          "language": "ja",
+          "set": "OP17",
+          "rarity": "UC",
+          "block": "5",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP17-103.png",
+          "cardSet": "ブースターパック 世界最強の戦士【OP-17】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP17-104",
       "name": "Charlotte Cracker",
+      "names": {
+        "en": "Charlotte Cracker",
+        "ja": "シャーロット・クラッカー"
+      },
       "category": "Character",
       "cost": 3,
       "power": 4000,
@@ -6977,12 +9175,29 @@
             }
           ],
           "artist": "BISAI"
+        },
+        {
+          "id": "OP17-104~ja",
+          "language": "ja",
+          "set": "OP17",
+          "rarity": "UC",
+          "block": "5",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP17-104.png",
+          "cardSet": "ブースターパック 世界最強の戦士【OP-17】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP17-105",
       "name": "Charlotte Chiffon",
+      "names": {
+        "en": "Charlotte Chiffon",
+        "ja": "シャーロット・シフォン"
+      },
       "category": "Character",
       "cost": 5,
       "counter": 1000,
@@ -7047,12 +9262,29 @@
             }
           ],
           "artist": "Retsu"
+        },
+        {
+          "id": "OP17-105~ja",
+          "language": "ja",
+          "set": "OP17",
+          "rarity": "C",
+          "block": "5",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP17-105.png",
+          "cardSet": "ブースターパック 世界最強の戦士【OP-17】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP17-106",
       "name": "Charlotte Smoothie",
+      "names": {
+        "en": "Charlotte Smoothie",
+        "ja": "シャーロット・スムージー"
+      },
       "category": "Character",
       "cost": 5,
       "power": 4000,
@@ -7117,12 +9349,29 @@
             }
           ],
           "artist": "Kaito Shibano"
+        },
+        {
+          "id": "OP17-106~ja",
+          "language": "ja",
+          "set": "OP17",
+          "rarity": "C",
+          "block": "5",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP17-106.png",
+          "cardSet": "ブースターパック 世界最強の戦士【OP-17】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP17-107",
       "name": "Charlotte Daifuku",
+      "names": {
+        "en": "Charlotte Daifuku",
+        "ja": "シャーロット・ダイフク"
+      },
       "category": "Character",
       "cost": 3,
       "power": 4000,
@@ -7208,12 +9457,42 @@
               "category": "event"
             }
           ]
+        },
+        {
+          "id": "OP17-107~ja",
+          "language": "ja",
+          "set": "OP17",
+          "rarity": "UC",
+          "block": "5",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP17-107.png",
+          "cardSet": "ブースターパック 世界最強の戦士【OP-17】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
+        },
+        {
+          "id": "OP17-107_p1~ja",
+          "language": "ja",
+          "set": "OP17",
+          "rarity": "UC",
+          "block": "5",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP17-107_p1.png",
+          "cardSet": "ブースターパック 世界最強の戦士【OP-17】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP17-108",
       "name": "Charlotte Brulee",
+      "names": {
+        "en": "Charlotte Brulee",
+        "ja": "シャーロット・ブリュレ"
+      },
       "category": "Character",
       "cost": 3,
       "power": 4000,
@@ -7278,12 +9557,29 @@
             }
           ],
           "artist": "kankurou"
+        },
+        {
+          "id": "OP17-108~ja",
+          "language": "ja",
+          "set": "OP17",
+          "rarity": "C",
+          "block": "5",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP17-108.png",
+          "cardSet": "ブースターパック 世界最強の戦士【OP-17】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP17-109",
       "name": "Charlotte Pudding",
+      "names": {
+        "en": "Charlotte Pudding",
+        "ja": "シャーロット・プリン"
+      },
       "category": "Character",
       "cost": 3,
       "power": 4000,
@@ -7320,12 +9616,29 @@
             "distance": 1
           },
           "artist": "sho"
+        },
+        {
+          "id": "OP17-109~ja",
+          "language": "ja",
+          "set": "OP17",
+          "rarity": "R",
+          "block": "5",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP17-109.png",
+          "cardSet": "ブースターパック 世界最強の戦士【OP-17】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "OP17-110",
       "name": "Charlotte Perospero",
+      "names": {
+        "en": "Charlotte Perospero",
+        "ja": "シャーロット・ペロスペロー"
+      },
       "category": "Character",
       "cost": 7,
       "power": 4000,
@@ -7390,12 +9703,29 @@
             }
           ],
           "artist": "Nekobayashi"
+        },
+        {
+          "id": "OP17-110~ja",
+          "language": "ja",
+          "set": "OP17",
+          "rarity": "C",
+          "block": "5",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP17-110.png",
+          "cardSet": "ブースターパック 世界最強の戦士【OP-17】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP17-111",
       "name": "Charlotte Mont-d'or",
+      "names": {
+        "en": "Charlotte Mont-d'or",
+        "ja": "シャーロット・モンドール"
+      },
       "category": "Character",
       "cost": 3,
       "power": 4000,
@@ -7460,12 +9790,29 @@
             }
           ],
           "artist": "Morechand"
+        },
+        {
+          "id": "OP17-111~ja",
+          "language": "ja",
+          "set": "OP17",
+          "rarity": "C",
+          "block": "5",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP17-111.png",
+          "cardSet": "ブースターパック 世界最強の戦士【OP-17】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP17-112",
       "name": "Charlotte Linlin",
+      "names": {
+        "en": "Charlotte Linlin",
+        "ja": "シャーロット・リンリン"
+      },
       "category": "Character",
       "cost": 10,
       "power": 12000,
@@ -7553,12 +9900,55 @@
           "treatments": [
             "manga"
           ]
+        },
+        {
+          "id": "OP17-112~ja",
+          "language": "ja",
+          "set": "OP17",
+          "rarity": "SR",
+          "block": "X",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP17-112.png",
+          "cardSet": "ブースターパック 世界最強の戦士【OP-17】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP17-112_p1~ja",
+          "language": "ja",
+          "set": "OP17",
+          "rarity": "SR",
+          "block": "X",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP17-112_p1.png",
+          "cardSet": "ブースターパック 世界最強の戦士【OP-17】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP17-112_p2~ja",
+          "language": "ja",
+          "set": "OP17",
+          "rarity": "SR",
+          "block": "X",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP17-112_p2.png",
+          "cardSet": "ブースターパック 世界最強の戦士【OP-17】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "OP17-113",
       "name": "Streusen",
+      "names": {
+        "en": "Streusen",
+        "ja": "シュトロイゼン"
+      },
       "category": "Character",
       "cost": 1,
       "power": 2000,
@@ -7595,12 +9985,29 @@
             "distance": 4
           },
           "artist": "Misa Matoki"
+        },
+        {
+          "id": "OP17-113~ja",
+          "language": "ja",
+          "set": "OP17",
+          "rarity": "R",
+          "block": "5",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP17-113.png",
+          "cardSet": "ブースターパック 世界最強の戦士【OP-17】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "OP17-114",
       "name": "Sweet 3 Generals",
+      "names": {
+        "en": "Sweet 3 Generals",
+        "ja": "スイート３将星"
+      },
       "category": "Character",
       "cost": 6,
       "power": 4000,
@@ -7664,12 +10071,42 @@
             "alternate_art"
           ],
           "artist": "BISAI"
+        },
+        {
+          "id": "OP17-114~ja",
+          "language": "ja",
+          "set": "OP17",
+          "rarity": "R",
+          "block": "5",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP17-114.png",
+          "cardSet": "ブースターパック 世界最強の戦士【OP-17】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP17-114_p1~ja",
+          "language": "ja",
+          "set": "OP17",
+          "rarity": "R",
+          "block": "5",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP17-114_p1.png",
+          "cardSet": "ブースターパック 世界最強の戦士【OP-17】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "OP17-115",
       "name": "Don't you know that even in the cruel world of pirates there's still a code of honor?!!",
+      "names": {
+        "en": "Don't you know that even in the cruel world of pirates there's still a code of honor?!!",
+        "ja": "仁義ってモンがあんだろうが アホンダラァ!!!"
+      },
       "category": "Event",
       "cost": 1,
       "colors": [
@@ -7701,12 +10138,29 @@
             "match": "image-only-candidate",
             "distance": 2
           }
+        },
+        {
+          "id": "OP17-115~ja",
+          "language": "ja",
+          "set": "OP17",
+          "rarity": "R",
+          "block": "5",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP17-115.png",
+          "cardSet": "ブースターパック 世界最強の戦士【OP-17】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "OP17-116",
       "name": "Fulgora",
+      "names": {
+        "en": "Fulgora",
+        "ja": "震御雷"
+      },
       "category": "Event",
       "cost": 1,
       "colors": [
@@ -7765,12 +10219,29 @@
               "category": "event"
             }
           ]
+        },
+        {
+          "id": "OP17-116~ja",
+          "language": "ja",
+          "set": "OP17",
+          "rarity": "UC",
+          "block": "5",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP17-116.png",
+          "cardSet": "ブースターパック 世界最強の戦士【OP-17】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP17-117",
       "name": "Maser Saber",
+      "names": {
+        "en": "Maser Saber",
+        "ja": "鳴光剣"
+      },
       "category": "Event",
       "cost": 1,
       "colors": [
@@ -7829,12 +10300,29 @@
               "category": "event"
             }
           ]
+        },
+        {
+          "id": "OP17-117~ja",
+          "language": "ja",
+          "set": "OP17",
+          "rarity": "C",
+          "block": "5",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP17-117.png",
+          "cardSet": "ブースターパック 世界最強の戦士【OP-17】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP17-118",
       "name": "Rocks.D.Xebec",
+      "names": {
+        "en": "Rocks.D.Xebec",
+        "ja": "ロックス・Ｄ・ジーベック"
+      },
       "category": "Character",
       "cost": 10,
       "power": 12000,
@@ -7921,12 +10409,55 @@
           "treatments": [
             "alternate_art"
           ]
+        },
+        {
+          "id": "OP17-118~ja",
+          "language": "ja",
+          "set": "OP17",
+          "rarity": "SEC",
+          "block": "X",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP17-118.png",
+          "cardSet": "ブースターパック 世界最強の戦士【OP-17】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP17-118_p1~ja",
+          "language": "ja",
+          "set": "OP17",
+          "rarity": "SEC",
+          "block": "X",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP17-118_p1.png",
+          "cardSet": "ブースターパック 世界最強の戦士【OP-17】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP17-118_p2~ja",
+          "language": "ja",
+          "set": "OP17",
+          "rarity": "SEC",
+          "block": "X",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP17-118_p2.png",
+          "cardSet": "ブースターパック 世界最強の戦士【OP-17】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "OP17-119",
       "name": "Loki",
+      "names": {
+        "en": "Loki",
+        "ja": "ロキ"
+      },
       "category": "Character",
       "cost": 6,
       "power": 8000,
@@ -7989,6 +10520,32 @@
             "alternate_art"
           ],
           "artist": "AKIRA EGAWA"
+        },
+        {
+          "id": "OP17-119~ja",
+          "language": "ja",
+          "set": "OP17",
+          "rarity": "SEC",
+          "block": "5",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP17-119.png",
+          "cardSet": "ブースターパック 世界最強の戦士【OP-17】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP17-119_p1~ja",
+          "language": "ja",
+          "set": "OP17",
+          "rarity": "SEC",
+          "block": "5",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP17-119_p1.png",
+          "cardSet": "ブースターパック 世界最強の戦士【OP-17】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     }

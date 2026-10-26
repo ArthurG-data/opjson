@@ -3,6 +3,10 @@
     {
       "number": "ST24-001",
       "name": "Capone\"Gang\"Bege",
+      "names": {
+        "en": "Capone\"Gang\"Bege",
+        "ja": "カポネ・ベッジ"
+      },
       "category": "Character",
       "cost": 2,
       "power": 1000,
@@ -40,12 +44,29 @@
             "distance": 3
           },
           "artist": "Yasushi Yamaguchi"
+        },
+        {
+          "id": "ST24-001~ja",
+          "language": "ja",
+          "set": "ST24",
+          "rarity": "C",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/ST24-001.png",
+          "cardSet": "スタートデッキ 緑 ジュエリー・ボニー【ST-24】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "ST24-002",
       "name": "Kid & Killer",
+      "names": {
+        "en": "Kid & Killer",
+        "ja": "キッド＆キラー"
+      },
       "category": "Character",
       "cost": 2,
       "power": 2000,
@@ -84,12 +105,29 @@
             "distance": 2
           },
           "artist": "Hokuyuu"
+        },
+        {
+          "id": "ST24-002~ja",
+          "language": "ja",
+          "set": "ST24",
+          "rarity": "SR",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/ST24-002.png",
+          "cardSet": "スタートデッキ 緑 ジュエリー・ボニー【ST-24】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "ST24-003",
       "name": "Basil Hawkins",
+      "names": {
+        "en": "Basil Hawkins",
+        "ja": "バジル・ホーキンス"
+      },
       "category": "Character",
       "cost": 4,
       "power": 4000,
@@ -127,12 +165,29 @@
             "distance": 1
           },
           "artist": "Nekobayashi"
+        },
+        {
+          "id": "ST24-003~ja",
+          "language": "ja",
+          "set": "ST24",
+          "rarity": "C",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/ST24-003.png",
+          "cardSet": "スタートデッキ 緑 ジュエリー・ボニー【ST-24】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "ST24-004",
       "name": "Law & Bepo",
+      "names": {
+        "en": "Law & Bepo",
+        "ja": "ロー＆ベポ"
+      },
       "category": "Character",
       "cost": 10,
       "power": 11000,
@@ -171,12 +226,29 @@
             "distance": 3
           },
           "artist": "Koushi Rokushiro"
+        },
+        {
+          "id": "ST24-004~ja",
+          "language": "ja",
+          "set": "ST24",
+          "rarity": "SR",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/ST24-004.png",
+          "cardSet": "スタートデッキ 緑 ジュエリー・ボニー【ST-24】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "ST24-005",
       "name": "X.Drake",
+      "names": {
+        "en": "X.Drake",
+        "ja": "X・ドレーク"
+      },
       "category": "Character",
       "cost": 5,
       "power": 5000,
@@ -229,6 +301,32 @@
             "nonfoil"
           ],
           "artist": "touge369"
+        },
+        {
+          "id": "ST24-005~ja",
+          "language": "ja",
+          "set": "ST24",
+          "rarity": "C",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/ST24-005.png",
+          "cardSet": "スタートデッキ 緑 ジュエリー・ボニー【ST-24】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
+        },
+        {
+          "id": "ST24-005_r1~ja",
+          "language": "ja",
+          "set": "ST32",
+          "rarity": "C",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/ST24-005_r1.png",
+          "cardSet": "スタートデッキ 緑 ロロノア・ゾロ【ST-32】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     }

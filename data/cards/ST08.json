@@ -3,6 +3,10 @@
     {
       "number": "ST08-001",
       "name": "Monkey.D.Luffy",
+      "names": {
+        "en": "Monkey.D.Luffy",
+        "ja": "モンキー・D・ルフィ"
+      },
       "category": "Leader",
       "power": 5000,
       "life": 5,
@@ -38,12 +42,29 @@
             "distance": 0
           },
           "artist": "Denim2"
+        },
+        {
+          "id": "ST08-001~ja",
+          "language": "ja",
+          "set": "ST08",
+          "rarity": "L",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/ST08-001.png",
+          "cardSet": "Side モンキー・D・ルフィ【ST-08】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "ST08-002",
       "name": "Uta",
+      "names": {
+        "en": "Uta",
+        "ja": "ウタ"
+      },
       "category": "Character",
       "cost": 2,
       "power": 3000,
@@ -105,12 +126,39 @@
               "category": "retail"
             }
           ]
+        },
+        {
+          "id": "ST08-002~ja",
+          "language": "ja",
+          "set": "ST08",
+          "rarity": "SR",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/ST08-002.png",
+          "cardSet": "Side モンキー・D・ルフィ【ST-08】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "ST08-002_p2~ja",
+          "language": "ja",
+          "set": "OTHER",
+          "rarity": "SR",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/ST08-002_p2.png",
+          "cardSet": "プレミアムカードコレクション-ウタ-",
+          "source": "bandai"
         }
       ]
     },
     {
       "number": "ST08-003",
       "name": "Gaimon",
+      "names": {
+        "en": "Gaimon",
+        "ja": "ガイモン"
+      },
       "category": "Character",
       "cost": 2,
       "power": 4000,
@@ -147,12 +195,29 @@
             "distance": 4
           },
           "artist": "Anderson"
+        },
+        {
+          "id": "ST08-003~ja",
+          "language": "ja",
+          "set": "ST08",
+          "rarity": "C",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/ST08-003.png",
+          "cardSet": "Side モンキー・D・ルフィ【ST-08】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "ST08-004",
       "name": "Koby",
+      "names": {
+        "en": "Koby",
+        "ja": "コビー"
+      },
       "category": "Character",
       "cost": 4,
       "power": 1000,
@@ -189,12 +254,29 @@
             "distance": 5
           },
           "artist": "Minato Sashima"
+        },
+        {
+          "id": "ST08-004~ja",
+          "language": "ja",
+          "set": "ST08",
+          "rarity": "C",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/ST08-004.png",
+          "cardSet": "Side モンキー・D・ルフィ【ST-08】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "ST08-005",
       "name": "Shanks",
+      "names": {
+        "en": "Shanks",
+        "ja": "シャンクス"
+      },
       "category": "Character",
       "cost": 9,
       "power": 10000,
@@ -230,12 +312,29 @@
             "distance": 5
           },
           "artist": "Makitoshi"
+        },
+        {
+          "id": "ST08-005~ja",
+          "language": "ja",
+          "set": "ST08",
+          "rarity": "SR",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/ST08-005.png",
+          "cardSet": "Side モンキー・D・ルフィ【ST-08】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "ST08-006",
       "name": "Shirahoshi",
+      "names": {
+        "en": "Shirahoshi",
+        "ja": "しらほし"
+      },
       "category": "Character",
       "cost": 4,
       "counter": 1000,
@@ -271,12 +370,29 @@
             "distance": 4
           },
           "artist": "Suzume Muraichi"
+        },
+        {
+          "id": "ST08-006~ja",
+          "language": "ja",
+          "set": "ST08",
+          "rarity": "C",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/ST08-006.png",
+          "cardSet": "Side モンキー・D・ルフィ【ST-08】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "ST08-007",
       "name": "Nefeltari Vivi",
+      "names": {
+        "en": "Nefeltari Vivi",
+        "ja": "ネフェルタリ・ビビ"
+      },
       "category": "Character",
       "cost": 3,
       "power": 1000,
@@ -313,12 +429,29 @@
             "distance": 5
           },
           "artist": "Hatori Kyoka"
+        },
+        {
+          "id": "ST08-007~ja",
+          "language": "ja",
+          "set": "ST08",
+          "rarity": "C",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/ST08-007.png",
+          "cardSet": "Side モンキー・D・ルフィ【ST-08】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "ST08-008",
       "name": "Higuma",
+      "names": {
+        "en": "Higuma",
+        "ja": "ヒグマ"
+      },
       "category": "Character",
       "cost": 1,
       "power": 2000,
@@ -355,12 +488,29 @@
             "distance": 10
           },
           "artist": "tasaka"
+        },
+        {
+          "id": "ST08-008~ja",
+          "language": "ja",
+          "set": "ST08",
+          "rarity": "C",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/ST08-008.png",
+          "cardSet": "Side モンキー・D・ルフィ【ST-08】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "ST08-009",
       "name": "Makino",
+      "names": {
+        "en": "Makino",
+        "ja": "マキノ"
+      },
       "category": "Character",
       "cost": 2,
       "counter": 2000,
@@ -396,12 +546,29 @@
             "distance": 13
           },
           "artist": "tasaka"
+        },
+        {
+          "id": "ST08-009~ja",
+          "language": "ja",
+          "set": "ST08",
+          "rarity": "C",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/ST08-009.png",
+          "cardSet": "Side モンキー・D・ルフィ【ST-08】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "ST08-010",
       "name": "Monkey.D.Garp",
+      "names": {
+        "en": "Monkey.D.Garp",
+        "ja": "モンキー・D・ガープ"
+      },
       "category": "Character",
       "cost": 5,
       "power": 7000,
@@ -438,12 +605,29 @@
             "distance": 7
           },
           "artist": "tasaka"
+        },
+        {
+          "id": "ST08-010~ja",
+          "language": "ja",
+          "set": "ST08",
+          "rarity": "C",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/ST08-010.png",
+          "cardSet": "Side モンキー・D・ルフィ【ST-08】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "ST08-011",
       "name": "Monkey.D.Luffy",
+      "names": {
+        "en": "Monkey.D.Luffy",
+        "ja": "モンキー・D・ルフィ"
+      },
       "category": "Character",
       "cost": 3,
       "power": 5000,
@@ -480,12 +664,29 @@
             "distance": 5
           },
           "artist": "Studio Vigor Co. Ltd"
+        },
+        {
+          "id": "ST08-011~ja",
+          "language": "ja",
+          "set": "ST08",
+          "rarity": "C",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/ST08-011.png",
+          "cardSet": "Side モンキー・D・ルフィ【ST-08】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "ST08-012",
       "name": "Laboon",
+      "names": {
+        "en": "Laboon",
+        "ja": "ラブーン"
+      },
       "category": "Character",
       "cost": 4,
       "power": 6000,
@@ -522,12 +723,29 @@
             "distance": 2
           },
           "artist": "Anderson"
+        },
+        {
+          "id": "ST08-012~ja",
+          "language": "ja",
+          "set": "ST08",
+          "rarity": "C",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/ST08-012.png",
+          "cardSet": "Side モンキー・D・ルフィ【ST-08】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "ST08-013",
       "name": "Mr.2.Bon.Kurei(Bentham)",
+      "names": {
+        "en": "Mr.2.Bon.Kurei(Bentham)",
+        "ja": "Mr.2・ボン・クレー(ベンサム)"
+      },
       "category": "Character",
       "cost": 5,
       "power": 6000,
@@ -563,12 +781,29 @@
             "distance": 3
           },
           "artist": "Ryuda"
+        },
+        {
+          "id": "ST08-013~ja",
+          "language": "ja",
+          "set": "ST08",
+          "rarity": "C",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/ST08-013.png",
+          "cardSet": "Side モンキー・D・ルフィ【ST-08】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "ST08-014",
       "name": "Gum-Gum Bell",
+      "names": {
+        "en": "Gum-Gum Bell",
+        "ja": "ゴムゴムの鐘"
+      },
       "category": "Event",
       "cost": 2,
       "colors": [
@@ -599,12 +834,29 @@
             "match": "image-only-candidate",
             "distance": 5
           }
+        },
+        {
+          "id": "ST08-014~ja",
+          "language": "ja",
+          "set": "ST08",
+          "rarity": "C",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/ST08-014.png",
+          "cardSet": "Side モンキー・D・ルフィ【ST-08】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "ST08-015",
       "name": "Gum-Gum Pistol",
+      "names": {
+        "en": "Gum-Gum Pistol",
+        "ja": "ゴムゴムの銃"
+      },
       "category": "Event",
       "cost": 3,
       "colors": [
@@ -635,6 +887,19 @@
             "match": "image-only-candidate",
             "distance": 2
           }
+        },
+        {
+          "id": "ST08-015~ja",
+          "language": "ja",
+          "set": "ST08",
+          "rarity": "C",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/ST08-015.png",
+          "cardSet": "Side モンキー・D・ルフィ【ST-08】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     }

@@ -103,11 +103,13 @@ def set_blocks(sets: list[dict], printings: list[dict]) -> list[dict]:
     """Write each Bandai set's block onto it, or drop it; return the sets left without one, with why."""
     own = collections.defaultdict(collections.Counter)
     for p in printings:
-        if p["source"] == "bandai" and p["id"] == p["card"] and p["card"].split("-")[0] == p["set"].split("-")[0] \
+        if p["source"] == "bandai" and opjson.language(p) == "en" and p["id"] == p["card"] and p["card"].split("-")[0] == p["set"].split("-")[0] \
                 and p.get("block") not in (None, "X"):
             own[p["set"]][p["block"]] += 1
     left = []
     for s in sets:
+        if not opjson.has_release(s, "en"):
+            continue  # a Japanese-only set takes its block from import_bandai_ja
         s.pop("block", None)
         if s.get("source") == "tcgplayer" or s["type"] in ("promo", "box_set"):
             continue
@@ -126,7 +128,7 @@ def set_blocks(sets: list[dict], printings: list[dict]) -> list[dict]:
 def main() -> None:
     files = opjson.load_cards()
     flat = opjson.flatten(opjson.load_sets(), files)
-    bandai = [p for p in flat["printings"].values() if p["source"] == "bandai"]
+    bandai = [p for p in flat["printings"].values() if p["source"] == "bandai" and opjson.language(p) == "en"]
     refs = build_references(bandai)
     reading: dict[str, tuple[str, float, float]] = {}
     no_image = []

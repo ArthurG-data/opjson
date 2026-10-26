@@ -3,6 +3,10 @@
     {
       "number": "PRB02-001",
       "name": "Koby",
+      "names": {
+        "en": "Koby",
+        "ja": "コビー"
+      },
       "category": "Character",
       "cost": 4,
       "power": 5000,
@@ -66,12 +70,42 @@
             "alternate_art"
           ],
           "artist": "Studio Vigor Co. Ltd"
+        },
+        {
+          "id": "PRB02-001~ja",
+          "language": "ja",
+          "set": "PRB02",
+          "rarity": "R",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/PRB02-001.png",
+          "cardSet": "ONE PIECE CARD THE BEST vol.2【PRB-02】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "PRB02-001_p1~ja",
+          "language": "ja",
+          "set": "PRB02",
+          "rarity": "R",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/PRB02-001_p1.png",
+          "cardSet": "ONE PIECE CARD THE BEST vol.2【PRB-02】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "PRB02-002",
       "name": "Trafalgar Law",
+      "names": {
+        "en": "Trafalgar Law",
+        "ja": "トラファルガー・ロー"
+      },
       "category": "Character",
       "cost": 6,
       "power": 7000,
@@ -136,12 +170,42 @@
             "alternate_art"
           ],
           "artist": "AKIRA EGAWA"
+        },
+        {
+          "id": "PRB02-002~ja",
+          "language": "ja",
+          "set": "PRB02",
+          "rarity": "SR",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/PRB02-002.png",
+          "cardSet": "ONE PIECE CARD THE BEST vol.2【PRB-02】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "PRB02-002_p1~ja",
+          "language": "ja",
+          "set": "PRB02",
+          "rarity": "SR",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/PRB02-002_p1.png",
+          "cardSet": "ONE PIECE CARD THE BEST vol.2【PRB-02】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "PRB02-003",
       "name": "Lucky.Roux",
+      "names": {
+        "en": "Lucky.Roux",
+        "ja": "ラッキー・ルウ"
+      },
       "category": "Character",
       "cost": 4,
       "power": 2000,
@@ -204,12 +268,42 @@
             "alternate_art"
           ],
           "artist": "S-KINOKO"
+        },
+        {
+          "id": "PRB02-003~ja",
+          "language": "ja",
+          "set": "PRB02",
+          "rarity": "R",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/PRB02-003.png",
+          "cardSet": "ONE PIECE CARD THE BEST vol.2【PRB-02】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "PRB02-003_p1~ja",
+          "language": "ja",
+          "set": "PRB02",
+          "rarity": "R",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/PRB02-003_p1.png",
+          "cardSet": "ONE PIECE CARD THE BEST vol.2【PRB-02】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "PRB02-004",
       "name": "Jewelry Bonney",
+      "names": {
+        "en": "Jewelry Bonney",
+        "ja": "ジュエリー・ボニー"
+      },
       "category": "Character",
       "cost": 3,
       "power": 3000,
@@ -273,12 +367,42 @@
             "alternate_art"
           ],
           "artist": "NAKAuMA"
+        },
+        {
+          "id": "PRB02-004~ja",
+          "language": "ja",
+          "set": "PRB02",
+          "rarity": "R",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/PRB02-004.png",
+          "cardSet": "ONE PIECE CARD THE BEST vol.2【PRB-02】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "PRB02-004_p1~ja",
+          "language": "ja",
+          "set": "PRB02",
+          "rarity": "R",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/PRB02-004_p1.png",
+          "cardSet": "ONE PIECE CARD THE BEST vol.2【PRB-02】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "PRB02-005",
       "name": "Monkey.D.Luffy",
+      "names": {
+        "en": "Monkey.D.Luffy",
+        "ja": "モンキー・Ｄ・ルフィ"
+      },
       "category": "Character",
       "cost": 4,
       "power": 5000,
@@ -426,12 +550,52 @@
               "category": "foil-pattern"
             }
           ]
+        },
+        {
+          "id": "PRB02-005~ja",
+          "language": "ja",
+          "set": "PRB02",
+          "rarity": "SR",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/PRB02-005.png",
+          "cardSet": "ONE PIECE CARD THE BEST vol.2【PRB-02】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "PRB02-005_p1~ja",
+          "language": "ja",
+          "set": "PRB02",
+          "rarity": "SR",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/PRB02-005_p1.png",
+          "cardSet": "ONE PIECE CARD THE BEST vol.2【PRB-02】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "PRB02-005_p2~ja",
+          "language": "ja",
+          "set": "P",
+          "rarity": "SR",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/PRB02-005_p2.png",
+          "cardSet": "プロモーションパックEX Vol.4",
+          "source": "bandai"
         }
       ]
     },
     {
       "number": "PRB02-006",
       "name": "Roronoa Zoro",
+      "names": {
+        "en": "Roronoa Zoro",
+        "ja": "ロロノア・ゾロ"
+      },
       "category": "Character",
       "cost": 4,
       "power": 4000,
@@ -573,12 +737,55 @@
               "category": "event"
             }
           ]
+        },
+        {
+          "id": "PRB02-006~ja",
+          "language": "ja",
+          "set": "PRB02",
+          "rarity": "R",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/PRB02-006.png",
+          "cardSet": "ONE PIECE CARD THE BEST vol.2【PRB-02】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "PRB02-006_p1~ja",
+          "language": "ja",
+          "set": "PRB02",
+          "rarity": "R",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/PRB02-006_p1.png",
+          "cardSet": "ONE PIECE CARD THE BEST vol.2【PRB-02】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "PRB02-006_p2~ja",
+          "language": "ja",
+          "set": "EB04",
+          "rarity": "SP CARD",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/PRB02-006_p2.png",
+          "cardSet": "エクストラブースター EGGHEAD CRISIS【EB-04】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "PRB02-007",
       "name": "Jinbe",
+      "names": {
+        "en": "Jinbe",
+        "ja": "ジンベエ"
+      },
       "category": "Character",
       "cost": 4,
       "power": 5000,
@@ -643,12 +850,42 @@
             "alternate_art"
           ],
           "artist": "Studio Vigor Co. Ltd"
+        },
+        {
+          "id": "PRB02-007~ja",
+          "language": "ja",
+          "set": "PRB02",
+          "rarity": "R",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/PRB02-007.png",
+          "cardSet": "ONE PIECE CARD THE BEST vol.2【PRB-02】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "PRB02-007_p1~ja",
+          "language": "ja",
+          "set": "PRB02",
+          "rarity": "R",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/PRB02-007_p1.png",
+          "cardSet": "ONE PIECE CARD THE BEST vol.2【PRB-02】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "PRB02-008",
       "name": "Marco",
+      "names": {
+        "en": "Marco",
+        "ja": "マルコ"
+      },
       "category": "Character",
       "cost": 4,
       "power": 6000,
@@ -711,12 +948,42 @@
             "alternate_art"
           ],
           "artist": "TAPIOCA"
+        },
+        {
+          "id": "PRB02-008~ja",
+          "language": "ja",
+          "set": "PRB02",
+          "rarity": "SR",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/PRB02-008.png",
+          "cardSet": "ONE PIECE CARD THE BEST vol.2【PRB-02】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "PRB02-008_p1~ja",
+          "language": "ja",
+          "set": "PRB02",
+          "rarity": "SR",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/PRB02-008_p1.png",
+          "cardSet": "ONE PIECE CARD THE BEST vol.2【PRB-02】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "PRB02-009",
       "name": "Mr.3(Galdino)",
+      "names": {
+        "en": "Mr.3(Galdino)",
+        "ja": "Mr.3(ギャルディーノ)"
+      },
       "category": "Character",
       "cost": 2,
       "power": 1000,
@@ -780,12 +1047,42 @@
             "alternate_art"
           ],
           "artist": "Katsuo Tadano"
+        },
+        {
+          "id": "PRB02-009~ja",
+          "language": "ja",
+          "set": "PRB02",
+          "rarity": "R",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/PRB02-009.png",
+          "cardSet": "ONE PIECE CARD THE BEST vol.2【PRB-02】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "PRB02-009_p1~ja",
+          "language": "ja",
+          "set": "PRB02",
+          "rarity": "R",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/PRB02-009_p1.png",
+          "cardSet": "ONE PIECE CARD THE BEST vol.2【PRB-02】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "PRB02-010",
       "name": "Charlotte Pudding",
+      "names": {
+        "en": "Charlotte Pudding",
+        "ja": "シャーロット・プリン"
+      },
       "category": "Character",
       "cost": 7,
       "power": 5000,
@@ -848,12 +1145,42 @@
             "alternate_art"
           ],
           "artist": "Hashimoto Q"
+        },
+        {
+          "id": "PRB02-010~ja",
+          "language": "ja",
+          "set": "PRB02",
+          "rarity": "SR",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/PRB02-010.png",
+          "cardSet": "ONE PIECE CARD THE BEST vol.2【PRB-02】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "PRB02-010_p1~ja",
+          "language": "ja",
+          "set": "PRB02",
+          "rarity": "SR",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/PRB02-010_p1.png",
+          "cardSet": "ONE PIECE CARD THE BEST vol.2【PRB-02】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "PRB02-011",
       "name": "Donquixote Doflamingo",
+      "names": {
+        "en": "Donquixote Doflamingo",
+        "ja": "ドンキホーテ・ドフラミンゴ"
+      },
       "category": "Character",
       "cost": 5,
       "power": 6000,
@@ -917,12 +1244,42 @@
             "alternate_art"
           ],
           "artist": "SENNSU"
+        },
+        {
+          "id": "PRB02-011~ja",
+          "language": "ja",
+          "set": "PRB02",
+          "rarity": "R",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/PRB02-011.png",
+          "cardSet": "ONE PIECE CARD THE BEST vol.2【PRB-02】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "PRB02-011_p1~ja",
+          "language": "ja",
+          "set": "PRB02",
+          "rarity": "R",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/PRB02-011_p1.png",
+          "cardSet": "ONE PIECE CARD THE BEST vol.2【PRB-02】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "PRB02-012",
       "name": "Nami",
+      "names": {
+        "en": "Nami",
+        "ja": "ナミ"
+      },
       "category": "Character",
       "cost": 2,
       "power": 2000,
@@ -1011,12 +1368,42 @@
               "category": "retail"
             }
           ]
+        },
+        {
+          "id": "PRB02-012~ja",
+          "language": "ja",
+          "set": "PRB02",
+          "rarity": "R",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/PRB02-012.png",
+          "cardSet": "ONE PIECE CARD THE BEST vol.2【PRB-02】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "PRB02-012_p1~ja",
+          "language": "ja",
+          "set": "PRB02",
+          "rarity": "R",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/PRB02-012_p1.png",
+          "cardSet": "ONE PIECE CARD THE BEST vol.2【PRB-02】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "PRB02-013",
       "name": "Gecko Moria",
+      "names": {
+        "en": "Gecko Moria",
+        "ja": "ゲッコー・モリア"
+      },
       "category": "Character",
       "cost": 6,
       "power": 7000,
@@ -1079,12 +1466,42 @@
             "alternate_art"
           ],
           "artist": "Ryuda"
+        },
+        {
+          "id": "PRB02-013~ja",
+          "language": "ja",
+          "set": "PRB02",
+          "rarity": "R",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/PRB02-013.png",
+          "cardSet": "ONE PIECE CARD THE BEST vol.2【PRB-02】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "PRB02-013_p1~ja",
+          "language": "ja",
+          "set": "PRB02",
+          "rarity": "R",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/PRB02-013_p1.png",
+          "cardSet": "ONE PIECE CARD THE BEST vol.2【PRB-02】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "PRB02-014",
       "name": "Sabo",
+      "names": {
+        "en": "Sabo",
+        "ja": "サボ"
+      },
       "category": "Character",
       "cost": 6,
       "power": 6000,
@@ -1174,12 +1591,55 @@
             "sp"
           ],
           "artist": "Bashikou"
+        },
+        {
+          "id": "PRB02-014~ja",
+          "language": "ja",
+          "set": "PRB02",
+          "rarity": "SR",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/PRB02-014.png",
+          "cardSet": "ONE PIECE CARD THE BEST vol.2【PRB-02】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "PRB02-014_p1~ja",
+          "language": "ja",
+          "set": "PRB02",
+          "rarity": "SR",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/PRB02-014_p1.png",
+          "cardSet": "ONE PIECE CARD THE BEST vol.2【PRB-02】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "PRB02-014_p2~ja",
+          "language": "ja",
+          "set": "EB04",
+          "rarity": "SP CARD",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/PRB02-014_p2.png",
+          "cardSet": "エクストラブースター EGGHEAD CRISIS【EB-04】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "PRB02-015",
       "name": "Shiryu",
+      "names": {
+        "en": "Shiryu",
+        "ja": "シリュウ"
+      },
       "category": "Character",
       "cost": 4,
       "power": 5000,
@@ -1242,12 +1702,42 @@
             "alternate_art"
           ],
           "artist": "Akanegumo"
+        },
+        {
+          "id": "PRB02-015~ja",
+          "language": "ja",
+          "set": "PRB02",
+          "rarity": "R",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/PRB02-015.png",
+          "cardSet": "ONE PIECE CARD THE BEST vol.2【PRB-02】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "PRB02-015_p1~ja",
+          "language": "ja",
+          "set": "PRB02",
+          "rarity": "R",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/PRB02-015_p1.png",
+          "cardSet": "ONE PIECE CARD THE BEST vol.2【PRB-02】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "PRB02-016",
       "name": "Otama",
+      "names": {
+        "en": "Otama",
+        "ja": "お玉"
+      },
       "category": "Character",
       "cost": 2,
       "counter": 2000,
@@ -1309,12 +1799,42 @@
             "alternate_art"
           ],
           "artist": "SHIE NANAHARA"
+        },
+        {
+          "id": "PRB02-016~ja",
+          "language": "ja",
+          "set": "PRB02",
+          "rarity": "R",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/PRB02-016.png",
+          "cardSet": "ONE PIECE CARD THE BEST vol.2【PRB-02】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "PRB02-016_p1~ja",
+          "language": "ja",
+          "set": "PRB02",
+          "rarity": "R",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/PRB02-016_p1.png",
+          "cardSet": "ONE PIECE CARD THE BEST vol.2【PRB-02】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "PRB02-017",
       "name": "Boa Hancock",
+      "names": {
+        "en": "Boa Hancock",
+        "ja": "ボア・ハンコック"
+      },
       "category": "Character",
       "cost": 5,
       "power": 7000,
@@ -1378,12 +1898,42 @@
             "alternate_art"
           ],
           "artist": "otton"
+        },
+        {
+          "id": "PRB02-017~ja",
+          "language": "ja",
+          "set": "PRB02",
+          "rarity": "SR",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/PRB02-017.png",
+          "cardSet": "ONE PIECE CARD THE BEST vol.2【PRB-02】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "PRB02-017_p1~ja",
+          "language": "ja",
+          "set": "PRB02",
+          "rarity": "SR",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/PRB02-017_p1.png",
+          "cardSet": "ONE PIECE CARD THE BEST vol.2【PRB-02】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "PRB02-018",
       "name": "Portgas.D.Ace",
+      "names": {
+        "en": "Portgas.D.Ace",
+        "ja": "ポートガス・Ｄ・エース"
+      },
       "category": "Character",
       "cost": 5,
       "power": 7000,
@@ -1445,6 +1995,32 @@
             "alternate_art"
           ],
           "artist": "Minato Sashima"
+        },
+        {
+          "id": "PRB02-018~ja",
+          "language": "ja",
+          "set": "PRB02",
+          "rarity": "R",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/PRB02-018.png",
+          "cardSet": "ONE PIECE CARD THE BEST vol.2【PRB-02】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "PRB02-018_p1~ja",
+          "language": "ja",
+          "set": "PRB02",
+          "rarity": "R",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/PRB02-018_p1.png",
+          "cardSet": "ONE PIECE CARD THE BEST vol.2【PRB-02】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     }

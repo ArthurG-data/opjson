@@ -3,6 +3,10 @@
     {
       "number": "ST22-001",
       "name": "Ace & Newgate",
+      "names": {
+        "en": "Ace & Newgate",
+        "ja": "エース＆ニューゲート"
+      },
       "category": "Leader",
       "power": 5000,
       "life": 5,
@@ -65,12 +69,42 @@
             "parallel"
           ],
           "artist": "Daisuke Izuka"
+        },
+        {
+          "id": "ST22-001~ja",
+          "language": "ja",
+          "set": "ST22",
+          "rarity": "L",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/ST22-001.png",
+          "cardSet": "スタートデッキ エース&ニューゲート【ST-22】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "ST22-001_p1~ja",
+          "language": "ja",
+          "set": "ST22",
+          "rarity": "L",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/ST22-001_p1.png",
+          "cardSet": "スタートデッキ エース&ニューゲート【ST-22】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "ST22-002",
       "name": "Izo",
+      "names": {
+        "en": "Izo",
+        "ja": "イゾウ"
+      },
       "category": "Character",
       "cost": 1,
       "counter": 1000,
@@ -133,12 +167,42 @@
             "parallel"
           ],
           "artist": "Hokuyuu"
+        },
+        {
+          "id": "ST22-002~ja",
+          "language": "ja",
+          "set": "ST22",
+          "rarity": "SR",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/ST22-002.png",
+          "cardSet": "スタートデッキ エース&ニューゲート【ST-22】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "ST22-002_p1~ja",
+          "language": "ja",
+          "set": "ST22",
+          "rarity": "SR",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/ST22-002_p1.png",
+          "cardSet": "スタートデッキ エース&ニューゲート【ST-22】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "ST22-003",
       "name": "Edward.Newgate",
+      "names": {
+        "en": "Edward.Newgate",
+        "ja": "エドワード・ニューゲート"
+      },
       "category": "Character",
       "cost": 9,
       "power": 10000,
@@ -227,12 +291,42 @@
               "category": "retail"
             }
           ]
+        },
+        {
+          "id": "ST22-003~ja",
+          "language": "ja",
+          "set": "ST22",
+          "rarity": "C",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/ST22-003.png",
+          "cardSet": "スタートデッキ エース&ニューゲート【ST-22】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
+        },
+        {
+          "id": "ST22-003_p1~ja",
+          "language": "ja",
+          "set": "ST22",
+          "rarity": "C",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/ST22-003_p1.png",
+          "cardSet": "スタートデッキ エース&ニューゲート【ST-22】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "ST22-004",
       "name": "Elmy",
+      "names": {
+        "en": "Elmy",
+        "ja": "エルミー"
+      },
       "category": "Character",
       "cost": 3,
       "power": 5000,
@@ -295,12 +389,42 @@
             "parallel"
           ],
           "artist": "Nekobayashi"
+        },
+        {
+          "id": "ST22-004~ja",
+          "language": "ja",
+          "set": "ST22",
+          "rarity": "C",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/ST22-004.png",
+          "cardSet": "スタートデッキ エース&ニューゲート【ST-22】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
+        },
+        {
+          "id": "ST22-004_p1~ja",
+          "language": "ja",
+          "set": "ST22",
+          "rarity": "C",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/ST22-004_p1.png",
+          "cardSet": "スタートデッキ エース&ニューゲート【ST-22】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "ST22-005",
       "name": "Kouzuki Oden",
+      "names": {
+        "en": "Kouzuki Oden",
+        "ja": "光月おでん"
+      },
       "category": "Character",
       "cost": 7,
       "power": 8000,
@@ -364,12 +488,42 @@
             "parallel"
           ],
           "artist": "Yosuke Adachi"
+        },
+        {
+          "id": "ST22-005~ja",
+          "language": "ja",
+          "set": "ST22",
+          "rarity": "SR",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/ST22-005.png",
+          "cardSet": "スタートデッキ エース&ニューゲート【ST-22】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "ST22-005_p1~ja",
+          "language": "ja",
+          "set": "ST22",
+          "rarity": "SR",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/ST22-005_p1.png",
+          "cardSet": "スタートデッキ エース&ニューゲート【ST-22】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "ST22-006",
       "name": "Jozu",
+      "names": {
+        "en": "Jozu",
+        "ja": "ジョズ"
+      },
       "category": "Character",
       "cost": 7,
       "power": 8000,
@@ -432,12 +586,42 @@
             "parallel"
           ],
           "artist": "DAI-XT."
+        },
+        {
+          "id": "ST22-006~ja",
+          "language": "ja",
+          "set": "ST22",
+          "rarity": "C",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/ST22-006.png",
+          "cardSet": "スタートデッキ エース&ニューゲート【ST-22】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
+        },
+        {
+          "id": "ST22-006_p1~ja",
+          "language": "ja",
+          "set": "ST22",
+          "rarity": "C",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/ST22-006_p1.png",
+          "cardSet": "スタートデッキ エース&ニューゲート【ST-22】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "ST22-007",
       "name": "Squard",
+      "names": {
+        "en": "Squard",
+        "ja": "スクアード"
+      },
       "category": "Character",
       "cost": 1,
       "power": 2000,
@@ -500,12 +684,42 @@
             "parallel"
           ],
           "artist": "BISAI"
+        },
+        {
+          "id": "ST22-007~ja",
+          "language": "ja",
+          "set": "ST22",
+          "rarity": "C",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/ST22-007.png",
+          "cardSet": "スタートデッキ エース&ニューゲート【ST-22】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
+        },
+        {
+          "id": "ST22-007_p1~ja",
+          "language": "ja",
+          "set": "ST22",
+          "rarity": "C",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/ST22-007_p1.png",
+          "cardSet": "スタートデッキ エース&ニューゲート【ST-22】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "ST22-008",
       "name": "Decalvan Brothers",
+      "names": {
+        "en": "Decalvan Brothers",
+        "ja": "ディカルバン兄弟"
+      },
       "category": "Character",
       "cost": 2,
       "power": 4000,
@@ -568,12 +782,42 @@
             "parallel"
           ],
           "artist": "kankurou"
+        },
+        {
+          "id": "ST22-008~ja",
+          "language": "ja",
+          "set": "ST22",
+          "rarity": "C",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/ST22-008.png",
+          "cardSet": "スタートデッキ エース&ニューゲート【ST-22】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
+        },
+        {
+          "id": "ST22-008_p1~ja",
+          "language": "ja",
+          "set": "ST22",
+          "rarity": "C",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/ST22-008_p1.png",
+          "cardSet": "スタートデッキ エース&ニューゲート【ST-22】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "ST22-009",
       "name": "Vista",
+      "names": {
+        "en": "Vista",
+        "ja": "ビスタ"
+      },
       "category": "Character",
       "cost": 1,
       "power": 1000,
@@ -635,12 +879,42 @@
             "parallel"
           ],
           "artist": "Koushi Rokushiro"
+        },
+        {
+          "id": "ST22-009~ja",
+          "language": "ja",
+          "set": "ST22",
+          "rarity": "C",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/ST22-009.png",
+          "cardSet": "スタートデッキ エース&ニューゲート【ST-22】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
+        },
+        {
+          "id": "ST22-009_p1~ja",
+          "language": "ja",
+          "set": "ST22",
+          "rarity": "C",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/ST22-009_p1.png",
+          "cardSet": "スタートデッキ エース&ニューゲート【ST-22】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "ST22-010",
       "name": "Portgas.D.Ace",
+      "names": {
+        "en": "Portgas.D.Ace",
+        "ja": "ポートガス・Ｄ・エース"
+      },
       "category": "Character",
       "cost": 5,
       "power": 6000,
@@ -703,12 +977,42 @@
             "parallel"
           ],
           "artist": "Hokuyuu"
+        },
+        {
+          "id": "ST22-010~ja",
+          "language": "ja",
+          "set": "ST22",
+          "rarity": "C",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/ST22-010.png",
+          "cardSet": "スタートデッキ エース&ニューゲート【ST-22】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
+        },
+        {
+          "id": "ST22-010_p1~ja",
+          "language": "ja",
+          "set": "ST22",
+          "rarity": "C",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/ST22-010_p1.png",
+          "cardSet": "スタートデッキ エース&ニューゲート【ST-22】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "ST22-011",
       "name": "Whitey Bay",
+      "names": {
+        "en": "Whitey Bay",
+        "ja": "ホワイティベイ"
+      },
       "category": "Character",
       "cost": 1,
       "power": 1000,
@@ -771,12 +1075,42 @@
             "parallel"
           ],
           "artist": "Koushi Rokushiro"
+        },
+        {
+          "id": "ST22-011~ja",
+          "language": "ja",
+          "set": "ST22",
+          "rarity": "C",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/ST22-011.png",
+          "cardSet": "スタートデッキ エース&ニューゲート【ST-22】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
+        },
+        {
+          "id": "ST22-011_p1~ja",
+          "language": "ja",
+          "set": "ST22",
+          "rarity": "C",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/ST22-011_p1.png",
+          "cardSet": "スタートデッキ エース&ニューゲート【ST-22】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "ST22-012",
       "name": "Marco",
+      "names": {
+        "en": "Marco",
+        "ja": "マルコ"
+      },
       "category": "Character",
       "cost": 4,
       "power": 5000,
@@ -839,12 +1173,42 @@
             "parallel"
           ],
           "artist": "Hokuyuu"
+        },
+        {
+          "id": "ST22-012~ja",
+          "language": "ja",
+          "set": "ST22",
+          "rarity": "C",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/ST22-012.png",
+          "cardSet": "スタートデッキ エース&ニューゲート【ST-22】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
+        },
+        {
+          "id": "ST22-012_p1~ja",
+          "language": "ja",
+          "set": "ST22",
+          "rarity": "C",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/ST22-012_p1.png",
+          "cardSet": "スタートデッキ エース&ニューゲート【ST-22】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "ST22-013",
       "name": "LittleOars Jr.",
+      "names": {
+        "en": "LittleOars Jr.",
+        "ja": "リトルオーズJr."
+      },
       "category": "Character",
       "cost": 5,
       "power": 7000,
@@ -908,12 +1272,42 @@
             "parallel"
           ],
           "artist": "shosuke"
+        },
+        {
+          "id": "ST22-013~ja",
+          "language": "ja",
+          "set": "ST22",
+          "rarity": "C",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/ST22-013.png",
+          "cardSet": "スタートデッキ エース&ニューゲート【ST-22】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
+        },
+        {
+          "id": "ST22-013_p1~ja",
+          "language": "ja",
+          "set": "ST22",
+          "rarity": "C",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/ST22-013_p1.png",
+          "cardSet": "スタートデッキ エース&ニューゲート【ST-22】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "ST22-014",
       "name": "A.O.",
+      "names": {
+        "en": "A.O.",
+        "ja": "Ａ・Ｏ"
+      },
       "category": "Character",
       "cost": 4,
       "power": 6000,
@@ -976,12 +1370,42 @@
             "parallel"
           ],
           "artist": "kankurou"
+        },
+        {
+          "id": "ST22-014~ja",
+          "language": "ja",
+          "set": "ST22",
+          "rarity": "C",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/ST22-014.png",
+          "cardSet": "スタートデッキ エース&ニューゲート【ST-22】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
+        },
+        {
+          "id": "ST22-014_p1~ja",
+          "language": "ja",
+          "set": "ST22",
+          "rarity": "C",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/ST22-014_p1.png",
+          "cardSet": "スタートデッキ エース&ニューゲート【ST-22】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "ST22-015",
       "name": "I Am Whitebeard!!",
+      "names": {
+        "en": "I Am Whitebeard!!",
+        "ja": "おれァ‘‘白ひげ‘‘だァア!!!!"
+      },
       "category": "Event",
       "cost": 8,
       "colors": [
@@ -1013,12 +1437,29 @@
             "match": "image-only-candidate",
             "distance": 2
           }
+        },
+        {
+          "id": "ST22-015~ja",
+          "language": "ja",
+          "set": "ST22",
+          "rarity": "C",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/ST22-015.png",
+          "cardSet": "スタートデッキ エース&ニューゲート【ST-22】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "ST22-016",
       "name": "Take That Back!! Take Back What You Said!!",
+      "names": {
+        "en": "Take That Back!! Take Back What You Said!!",
+        "ja": "取り消せよ……!!!今の言葉……!!!"
+      },
       "category": "Event",
       "cost": 1,
       "colors": [
@@ -1049,12 +1490,29 @@
             "match": "image-only-candidate",
             "distance": 5
           }
+        },
+        {
+          "id": "ST22-016~ja",
+          "language": "ja",
+          "set": "ST22",
+          "rarity": "C",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/ST22-016.png",
+          "cardSet": "スタートデッキ エース&ニューゲート【ST-22】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "ST22-017",
       "name": "Fire Fist",
+      "names": {
+        "en": "Fire Fist",
+        "ja": "火拳"
+      },
       "category": "Event",
       "cost": 5,
       "colors": [
@@ -1085,6 +1543,19 @@
             "match": "image-only-candidate",
             "distance": 2
           }
+        },
+        {
+          "id": "ST22-017~ja",
+          "language": "ja",
+          "set": "ST22",
+          "rarity": "C",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/ST22-017.png",
+          "cardSet": "スタートデッキ エース&ニューゲート【ST-22】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     }

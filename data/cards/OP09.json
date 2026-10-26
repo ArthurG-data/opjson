@@ -3,6 +3,10 @@
     {
       "number": "OP09-001",
       "name": "Shanks",
+      "names": {
+        "en": "Shanks",
+        "ja": "シャンクス"
+      },
       "category": "Leader",
       "power": 5000,
       "life": 5,
@@ -145,12 +149,65 @@
               "category": "media"
             }
           ]
+        },
+        {
+          "id": "OP09-001~ja",
+          "language": "ja",
+          "set": "OP09",
+          "rarity": "L",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP09-001.png",
+          "cardSet": "ブースターパック 新たなる皇帝【OP-09】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
+        },
+        {
+          "id": "OP09-001_p1~ja",
+          "language": "ja",
+          "set": "OP09",
+          "rarity": "L",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP09-001_p1.png",
+          "cardSet": "ブースターパック 新たなる皇帝【OP-09】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP09-001_p2~ja",
+          "language": "ja",
+          "set": "ST23",
+          "rarity": "L",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP09-001_p2.png",
+          "cardSet": "スタートデッキ 赤 シャンクス【ST-23】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP09-001_p3~ja",
+          "language": "ja",
+          "set": "OTHER",
+          "rarity": "L",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP09-001_p3.png",
+          "cardSet": "ONE PIECE カードゲーム English 2nd ANNIVERSARY SET",
+          "source": "bandai"
         }
       ]
     },
     {
       "number": "OP09-002",
       "name": "Uta",
+      "names": {
+        "en": "Uta",
+        "ja": "ウタ"
+      },
       "category": "Character",
       "cost": 1,
       "power": 2000,
@@ -348,12 +405,65 @@
               "category": "retail"
             }
           ]
+        },
+        {
+          "id": "OP09-002~ja",
+          "language": "ja",
+          "set": "OP09",
+          "rarity": "R",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP09-002.png",
+          "cardSet": "ブースターパック 新たなる皇帝【OP-09】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP09-002_p1~ja",
+          "language": "ja",
+          "set": "OP09",
+          "rarity": "R",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP09-002_p1.png",
+          "cardSet": "ブースターパック 新たなる皇帝【OP-09】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP09-002_p2~ja",
+          "language": "ja",
+          "set": "P",
+          "rarity": "R",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP09-002_p2.png",
+          "cardSet": "フラッグシップバトル2024 10月優勝記念品",
+          "source": "bandai"
+        },
+        {
+          "id": "OP09-002_r1~ja",
+          "language": "ja",
+          "set": "PRB02",
+          "rarity": "R",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP09-002_r1.png",
+          "cardSet": "ONE PIECE CARD THE BEST vol.2【PRB-02】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "OP09-003",
       "name": "Shachi & Penguin",
+      "names": {
+        "en": "Shachi & Penguin",
+        "ja": "シャチ＆ペンギン"
+      },
       "category": "Character",
       "cost": 4,
       "power": 5000,
@@ -418,12 +528,29 @@
             }
           ],
           "artist": "Aidle Co. Ltd."
+        },
+        {
+          "id": "OP09-003~ja",
+          "language": "ja",
+          "set": "OP09",
+          "rarity": "C",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP09-003.png",
+          "cardSet": "ブースターパック 新たなる皇帝【OP-09】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP09-004",
       "name": "Shanks",
+      "names": {
+        "en": "Shanks",
+        "ja": "シャンクス"
+      },
       "category": "Character",
       "cost": 10,
       "power": 12000,
@@ -670,12 +797,127 @@
               "category": "retail"
             }
           ]
+        },
+        {
+          "id": "OP09-004~ja",
+          "language": "ja",
+          "set": "OP09",
+          "rarity": "SR",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP09-004.png",
+          "cardSet": "ブースターパック 新たなる皇帝【OP-09】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP09-004_p1~ja",
+          "language": "ja",
+          "set": "OP09",
+          "rarity": "SR",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP09-004_p1.png",
+          "cardSet": "ブースターパック 新たなる皇帝【OP-09】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP09-004_p2~ja",
+          "language": "ja",
+          "set": "OP09",
+          "rarity": "SR",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP09-004_p2.png",
+          "cardSet": "ブースターパック 新たなる皇帝【OP-09】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP09-004_p3~ja",
+          "language": "ja",
+          "set": "OP09",
+          "rarity": "SP CARD",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP09-004_p3.png",
+          "cardSet": "ブースターパック 新たなる皇帝【OP-09】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP09-004_p4~ja",
+          "language": "ja",
+          "set": "P",
+          "rarity": "SR",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP09-004_p4.png",
+          "cardSet": "チャンピオンシップ25-26 Season 1 エリア決勝大会 ベスト32記念品",
+          "source": "bandai"
+        },
+        {
+          "id": "OP09-004_p5~ja",
+          "language": "ja",
+          "set": "OP13",
+          "rarity": "SP CARD",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP09-004_p5.png",
+          "cardSet": "受け継がれる意志【OP-13】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP09-004_p6~ja",
+          "language": "ja",
+          "set": "OP13",
+          "rarity": "SP CARD",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP09-004_p6.png",
+          "cardSet": "受け継がれる意志【OP-13】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP09-004_p7~ja",
+          "language": "ja",
+          "set": "OTHER",
+          "rarity": "SR",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP09-004_p7.png",
+          "cardSet": "ONE PIECE カードゲーム English 2nd ANNIVERSARY SET",
+          "source": "bandai"
+        },
+        {
+          "id": "OP09-004_r1~ja",
+          "language": "ja",
+          "set": "PRB02",
+          "rarity": "SR",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP09-004_r1.png",
+          "cardSet": "ONE PIECE CARD THE BEST vol.2【PRB-02】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "OP09-005",
       "name": "Silvers Rayleigh",
+      "names": {
+        "en": "Silvers Rayleigh",
+        "ja": "シルバーズ・レイリー"
+      },
       "category": "Character",
       "cost": 5,
       "power": 6000,
@@ -785,12 +1027,55 @@
           "finishes": [
             "nonfoil"
           ]
+        },
+        {
+          "id": "OP09-005~ja",
+          "language": "ja",
+          "set": "OP09",
+          "rarity": "R",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP09-005.png",
+          "cardSet": "ブースターパック 新たなる皇帝【OP-09】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP09-005_p1~ja",
+          "language": "ja",
+          "set": "OP11",
+          "rarity": "SP CARD",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP09-005_p1.png",
+          "cardSet": "ブースターパック 神速の拳【OP-11】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP09-005_r1~ja",
+          "language": "ja",
+          "set": "PRB02",
+          "rarity": "R",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP09-005_r1.png",
+          "cardSet": "ONE PIECE CARD THE BEST vol.2【PRB-02】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "OP09-006",
       "name": "Howling Gab",
+      "names": {
+        "en": "Howling Gab",
+        "ja": "\"ハウリング\"ガブ"
+      },
       "category": "Character",
       "cost": 5,
       "power": 7000,
@@ -882,12 +1167,42 @@
             }
           ],
           "artist": "tasaka"
+        },
+        {
+          "id": "OP09-006~ja",
+          "language": "ja",
+          "set": "OP09",
+          "rarity": "C",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP09-006.png",
+          "cardSet": "ブースターパック 新たなる皇帝【OP-09】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
+        },
+        {
+          "id": "OP09-006_r1~ja",
+          "language": "ja",
+          "set": "ST23",
+          "rarity": "C",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP09-006_r1.png",
+          "cardSet": "スタートデッキ 赤 シャンクス【ST-23】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP09-007",
       "name": "Heat",
+      "names": {
+        "en": "Heat",
+        "ja": "ヒート"
+      },
       "category": "Character",
       "cost": 3,
       "power": 4000,
@@ -952,12 +1267,29 @@
             }
           ],
           "artist": "tasaka"
+        },
+        {
+          "id": "OP09-007~ja",
+          "language": "ja",
+          "set": "OP09",
+          "rarity": "C",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP09-007.png",
+          "cardSet": "ブースターパック 新たなる皇帝【OP-09】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP09-008",
       "name": "Building Snake",
+      "names": {
+        "en": "Building Snake",
+        "ja": "ビルディング・スネイク"
+      },
       "category": "Character",
       "cost": 1,
       "power": 2000,
@@ -1057,12 +1389,39 @@
               "category": "retail"
             }
           ]
+        },
+        {
+          "id": "OP09-008~ja",
+          "language": "ja",
+          "set": "OP09",
+          "rarity": "UC",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP09-008.png",
+          "cardSet": "ブースターパック 新たなる皇帝【OP-09】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
+        },
+        {
+          "id": "OP09-008_p1~ja",
+          "language": "ja",
+          "set": "OTHER",
+          "rarity": "UC",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP09-008_p1.png",
+          "cardSet": "プレミアムカードコレクション - ベストセレクション vol.4 -",
+          "source": "bandai"
         }
       ]
     },
     {
       "number": "OP09-009",
       "name": "Benn.Beckman",
+      "names": {
+        "en": "Benn.Beckman",
+        "ja": "ベン・ベックマン"
+      },
       "category": "Character",
       "cost": 7,
       "power": 7000,
@@ -1207,12 +1566,65 @@
           ],
           "artOf": "OP09-009",
           "artist": "akagi"
+        },
+        {
+          "id": "OP09-009~ja",
+          "language": "ja",
+          "set": "OP09",
+          "rarity": "SR",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP09-009.png",
+          "cardSet": "ブースターパック 新たなる皇帝【OP-09】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP09-009_p1~ja",
+          "language": "ja",
+          "set": "OP09",
+          "rarity": "SR",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP09-009_p1.png",
+          "cardSet": "ブースターパック 新たなる皇帝【OP-09】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP09-009_p2~ja",
+          "language": "ja",
+          "set": "OP13",
+          "rarity": "SP CARD",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP09-009_p2.png",
+          "cardSet": "受け継がれる意志【OP-13】",
+          "source": "bandai"
+        },
+        {
+          "id": "OP09-009_r1~ja",
+          "language": "ja",
+          "set": "PRB02",
+          "rarity": "SR",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP09-009_r1.png",
+          "cardSet": "ONE PIECE CARD THE BEST vol.2【PRB-02】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "OP09-010",
       "name": "Bonk Punch",
+      "names": {
+        "en": "Bonk Punch",
+        "ja": "ボンク・パンチ"
+      },
       "category": "Character",
       "cost": 4,
       "power": 5000,
@@ -1304,12 +1716,42 @@
             }
           ],
           "artist": "S-KINOKO"
+        },
+        {
+          "id": "OP09-010~ja",
+          "language": "ja",
+          "set": "OP09",
+          "rarity": "C",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP09-010.png",
+          "cardSet": "ブースターパック 新たなる皇帝【OP-09】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
+        },
+        {
+          "id": "OP09-010_r1~ja",
+          "language": "ja",
+          "set": "ST23",
+          "rarity": "C",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP09-010_r1.png",
+          "cardSet": "スタートデッキ 赤 シャンクス【ST-23】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP09-011",
       "name": "Hongo",
+      "names": {
+        "en": "Hongo",
+        "ja": "ホンゴウ"
+      },
       "category": "Character",
       "cost": 3,
       "power": 3000,
@@ -1518,12 +1960,55 @@
               "category": "program"
             }
           ]
+        },
+        {
+          "id": "OP09-011~ja",
+          "language": "ja",
+          "set": "OP09",
+          "rarity": "UC",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP09-011.png",
+          "cardSet": "ブースターパック 新たなる皇帝【OP-09】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
+        },
+        {
+          "id": "OP09-011_p1~ja",
+          "language": "ja",
+          "set": "P",
+          "rarity": "UC",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP09-011_p1.png",
+          "cardSet": "スタンダードバトルパックVol.10",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
+        },
+        {
+          "id": "OP09-011_r1~ja",
+          "language": "ja",
+          "set": "ST23",
+          "rarity": "UC",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP09-011_r1.png",
+          "cardSet": "スタートデッキ 赤 シャンクス【ST-23】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP09-012",
       "name": "Monster",
+      "names": {
+        "en": "Monster",
+        "ja": "モンスター"
+      },
       "category": "Character",
       "cost": 3,
       "power": 4000,
@@ -1616,12 +2101,42 @@
             }
           ],
           "artist": "S-KINOKO"
+        },
+        {
+          "id": "OP09-012~ja",
+          "language": "ja",
+          "set": "OP09",
+          "rarity": "C",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP09-012.png",
+          "cardSet": "ブースターパック 新たなる皇帝【OP-09】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
+        },
+        {
+          "id": "OP09-012_r1~ja",
+          "language": "ja",
+          "set": "ST23",
+          "rarity": "C",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP09-012_r1.png",
+          "cardSet": "スタートデッキ 赤 シャンクス【ST-23】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP09-013",
       "name": "Yasopp",
+      "names": {
+        "en": "Yasopp",
+        "ja": "ヤソップ"
+      },
       "category": "Character",
       "cost": 5,
       "power": 6000,
@@ -1738,12 +2253,52 @@
           "treatments": [
             "reprint"
           ]
+        },
+        {
+          "id": "OP09-013~ja",
+          "language": "ja",
+          "set": "OP09",
+          "rarity": "R",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP09-013.png",
+          "cardSet": "ブースターパック 新たなる皇帝【OP-09】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP09-013_p1~ja",
+          "language": "ja",
+          "set": "OP12",
+          "rarity": "SP CARD",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP09-013_p1.png",
+          "cardSet": "師弟の絆【OP-12】",
+          "source": "bandai"
+        },
+        {
+          "id": "OP09-013_r1~ja",
+          "language": "ja",
+          "set": "ST23",
+          "rarity": "R",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP09-013_r1.png",
+          "cardSet": "スタートデッキ 赤 シャンクス【ST-23】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP09-014",
       "name": "Limejuice",
+      "names": {
+        "en": "Limejuice",
+        "ja": "ライムジュース"
+      },
       "category": "Character",
       "cost": 3,
       "power": 3000,
@@ -1918,12 +2473,78 @@
             }
           ],
           "artist": "Studio Vigor Co. Ltd"
+        },
+        {
+          "id": "OP09-014~ja",
+          "language": "ja",
+          "set": "OP09",
+          "rarity": "UC",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP09-014.png",
+          "cardSet": "ブースターパック 新たなる皇帝【OP-09】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
+        },
+        {
+          "id": "OP09-014_p2~ja",
+          "language": "ja",
+          "set": "PRB02",
+          "rarity": "UC",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP09-014_p2.png",
+          "cardSet": "ONE PIECE CARD THE BEST vol.2【PRB-02】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP09-014_p3~ja",
+          "language": "ja",
+          "set": "PRB02",
+          "rarity": "UC",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP09-014_p3.png",
+          "cardSet": "ONE PIECE CARD THE BEST vol.2【PRB-02】",
+          "source": "bandai"
+        },
+        {
+          "id": "OP09-014_r1~ja",
+          "language": "ja",
+          "set": "ST23",
+          "rarity": "UC",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP09-014_r1.png",
+          "cardSet": "スタートデッキ 赤 シャンクス【ST-23】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
+        },
+        {
+          "id": "OP09-014_r2~ja",
+          "language": "ja",
+          "set": "PRB02",
+          "rarity": "UC",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP09-014_r2.png",
+          "cardSet": "ONE PIECE CARD THE BEST vol.2【PRB-02】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP09-015",
       "name": "Lucky.Roux",
+      "names": {
+        "en": "Lucky.Roux",
+        "ja": "ラッキー・ルウ"
+      },
       "category": "Character",
       "cost": 4,
       "power": 5000,
@@ -2010,12 +2631,42 @@
           ],
           "artOf": "OP09-015",
           "artist": "tasaka"
+        },
+        {
+          "id": "OP09-015~ja",
+          "language": "ja",
+          "set": "OP09",
+          "rarity": "R",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP09-015.png",
+          "cardSet": "ブースターパック 新たなる皇帝【OP-09】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP09-015_r1~ja",
+          "language": "ja",
+          "set": "ST23",
+          "rarity": "R",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP09-015_r1.png",
+          "cardSet": "スタートデッキ 赤 シャンクス【ST-23】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP09-016",
       "name": "Rockstar",
+      "names": {
+        "en": "Rockstar",
+        "ja": "ロックスター"
+      },
       "category": "Character",
       "cost": 4,
       "power": 6000,
@@ -2107,12 +2758,42 @@
             }
           ],
           "artist": "Nakamaru"
+        },
+        {
+          "id": "OP09-016~ja",
+          "language": "ja",
+          "set": "OP09",
+          "rarity": "C",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP09-016.png",
+          "cardSet": "ブースターパック 新たなる皇帝【OP-09】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
+        },
+        {
+          "id": "OP09-016_r1~ja",
+          "language": "ja",
+          "set": "ST23",
+          "rarity": "C",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP09-016_r1.png",
+          "cardSet": "スタートデッキ 赤 シャンクス【ST-23】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP09-017",
       "name": "Wire",
+      "names": {
+        "en": "Wire",
+        "ja": "ワイヤー"
+      },
       "category": "Character",
       "cost": 4,
       "power": 4000,
@@ -2177,12 +2858,29 @@
             }
           ],
           "artist": "S-KINOKO"
+        },
+        {
+          "id": "OP09-017~ja",
+          "language": "ja",
+          "set": "OP09",
+          "rarity": "UC",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP09-017.png",
+          "cardSet": "ブースターパック 新たなる皇帝【OP-09】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP09-018",
       "name": "Get Out of Here!",
+      "names": {
+        "en": "Get Out of Here!",
+        "ja": "失せろ"
+      },
       "category": "Event",
       "cost": 3,
       "colors": [
@@ -2240,12 +2938,29 @@
               "category": "anniversary"
             }
           ]
+        },
+        {
+          "id": "OP09-018~ja",
+          "language": "ja",
+          "set": "OP09",
+          "rarity": "UC",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP09-018.png",
+          "cardSet": "ブースターパック 新たなる皇帝【OP-09】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP09-019",
       "name": "Nobody Hurts a Friend of Mine!!!!",
+      "names": {
+        "en": "Nobody Hurts a Friend of Mine!!!!",
+        "ja": "おれは友達を傷つける奴は許さない!!!!"
+      },
       "category": "Event",
       "cost": 2,
       "colors": [
@@ -2303,12 +3018,29 @@
               "category": "anniversary"
             }
           ]
+        },
+        {
+          "id": "OP09-019~ja",
+          "language": "ja",
+          "set": "OP09",
+          "rarity": "C",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP09-019.png",
+          "cardSet": "ブースターパック 新たなる皇帝【OP-09】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP09-020",
       "name": "Come On!! We'll Fight You!!",
+      "names": {
+        "en": "Come On!! We'll Fight You!!",
+        "ja": "来い…!!!おれ達が相手をしてやる!!!"
+      },
       "category": "Event",
       "cost": 1,
       "colors": [
@@ -2416,12 +3148,62 @@
             "reprint"
           ],
           "artOf": "OP09-020"
+        },
+        {
+          "id": "OP09-020~ja",
+          "language": "ja",
+          "set": "OP09",
+          "rarity": "R",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP09-020.png",
+          "cardSet": "ブースターパック 新たなる皇帝【OP-09】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP09-020_p1~ja",
+          "language": "ja",
+          "set": "ST23",
+          "rarity": "R",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP09-020_p1.png",
+          "cardSet": "スタートデッキ 赤 シャンクス【ST-23】",
+          "source": "bandai"
+        },
+        {
+          "id": "OP09-020_p2~ja",
+          "language": "ja",
+          "set": "PRB02",
+          "rarity": "SP CARD",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP09-020_p2.png",
+          "cardSet": "ONE PIECE CARD THE BEST vol.2【PRB-02】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP09-020_r1~ja",
+          "language": "ja",
+          "set": "PRB02",
+          "rarity": "R",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP09-020_r1.png",
+          "cardSet": "ONE PIECE CARD THE BEST vol.2【PRB-02】",
+          "source": "bandai"
         }
       ]
     },
     {
       "number": "OP09-021",
       "name": "Red Force",
+      "names": {
+        "en": "Red Force",
+        "ja": "レッド・フォース号"
+      },
       "category": "Stage",
       "cost": 2,
       "colors": [
@@ -2479,12 +3261,29 @@
               "category": "anniversary"
             }
           ]
+        },
+        {
+          "id": "OP09-021~ja",
+          "language": "ja",
+          "set": "OP09",
+          "rarity": "C",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP09-021.png",
+          "cardSet": "ブースターパック 新たなる皇帝【OP-09】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP09-022",
       "name": "Lim",
+      "names": {
+        "en": "Lim",
+        "ja": "リム"
+      },
       "category": "Leader",
       "power": 5000,
       "life": 4,
@@ -2545,12 +3344,42 @@
           "treatments": [
             "parallel"
           ]
+        },
+        {
+          "id": "OP09-022~ja",
+          "language": "ja",
+          "set": "OP09",
+          "rarity": "L",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP09-022.png",
+          "cardSet": "ブースターパック 新たなる皇帝【OP-09】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
+        },
+        {
+          "id": "OP09-022_p1~ja",
+          "language": "ja",
+          "set": "OP09",
+          "rarity": "L",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP09-022_p1.png",
+          "cardSet": "ブースターパック 新たなる皇帝【OP-09】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "OP09-023",
       "name": "Adio",
+      "names": {
+        "en": "Adio",
+        "ja": "アディオ"
+      },
       "category": "Character",
       "cost": 9,
       "power": 9000,
@@ -2612,12 +3441,42 @@
             "parallel"
           ],
           "artist": "BISAI"
+        },
+        {
+          "id": "OP09-023~ja",
+          "language": "ja",
+          "set": "OP09",
+          "rarity": "SR",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP09-023.png",
+          "cardSet": "ブースターパック 新たなる皇帝【OP-09】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP09-023_p1~ja",
+          "language": "ja",
+          "set": "OP09",
+          "rarity": "SR",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP09-023_p1.png",
+          "cardSet": "ブースターパック 新たなる皇帝【OP-09】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "OP09-024",
       "name": "Usopp",
+      "names": {
+        "en": "Usopp",
+        "ja": "ウソップ"
+      },
       "category": "Character",
       "cost": 4,
       "power": 5000,
@@ -2683,12 +3542,29 @@
             }
           ],
           "artist": "HISASHI HUJIWARA"
+        },
+        {
+          "id": "OP09-024~ja",
+          "language": "ja",
+          "set": "OP09",
+          "rarity": "C",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP09-024.png",
+          "cardSet": "ブースターパック 新たなる皇帝【OP-09】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP09-025",
       "name": "Crocodile",
+      "names": {
+        "en": "Crocodile",
+        "ja": "クロコダイル"
+      },
       "category": "Character",
       "cost": 4,
       "power": 5000,
@@ -2755,12 +3631,29 @@
             }
           ],
           "artist": "touge369"
+        },
+        {
+          "id": "OP09-025~ja",
+          "language": "ja",
+          "set": "OP09",
+          "rarity": "UC",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP09-025.png",
+          "cardSet": "ブースターパック 新たなる皇帝【OP-09】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP09-026",
       "name": "Sakazuki",
+      "names": {
+        "en": "Sakazuki",
+        "ja": "サカズキ"
+      },
       "category": "Character",
       "cost": 6,
       "power": 7000,
@@ -2797,12 +3690,29 @@
             "distance": 6
           },
           "artist": "Hayaken-sarena"
+        },
+        {
+          "id": "OP09-026~ja",
+          "language": "ja",
+          "set": "OP09",
+          "rarity": "R",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP09-026.png",
+          "cardSet": "ブースターパック 新たなる皇帝【OP-09】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "OP09-027",
       "name": "Sabo",
+      "names": {
+        "en": "Sabo",
+        "ja": "サボ"
+      },
       "category": "Character",
       "cost": 5,
       "power": 6000,
@@ -2971,12 +3881,62 @@
               "category": "anniversary"
             }
           ]
+        },
+        {
+          "id": "OP09-027~ja",
+          "language": "ja",
+          "set": "OP09",
+          "rarity": "UC",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP09-027.png",
+          "cardSet": "ブースターパック 新たなる皇帝【OP-09】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
+        },
+        {
+          "id": "OP09-027_p1~ja",
+          "language": "ja",
+          "set": "P",
+          "rarity": "UC",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP09-027_p1.png",
+          "cardSet": "週刊少年ジャンプ19号応募者全員サービス（2025年4月7日売）",
+          "source": "bandai"
+        },
+        {
+          "id": "OP09-027_p2~ja",
+          "language": "ja",
+          "set": "PRB02",
+          "rarity": "UC",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP09-027_p2.png",
+          "cardSet": "ONE PIECE CARD THE BEST vol.2【PRB-02】",
+          "source": "bandai"
+        },
+        {
+          "id": "OP09-027_r1~ja",
+          "language": "ja",
+          "set": "PRB02",
+          "rarity": "UC",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP09-027_r1.png",
+          "cardSet": "ONE PIECE CARD THE BEST vol.2【PRB-02】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP09-028",
       "name": "Sanji",
+      "names": {
+        "en": "Sanji",
+        "ja": "サンジ"
+      },
       "category": "Character",
       "cost": 5,
       "power": 6000,
@@ -3042,12 +4002,29 @@
             }
           ],
           "artist": "yuu"
+        },
+        {
+          "id": "OP09-028~ja",
+          "language": "ja",
+          "set": "OP09",
+          "rarity": "C",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP09-028.png",
+          "cardSet": "ブースターパック 新たなる皇帝【OP-09】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP09-029",
       "name": "Tony Tony.Chopper",
+      "names": {
+        "en": "Tony Tony.Chopper",
+        "ja": "トニートニー・チョッパー"
+      },
       "category": "Character",
       "cost": 3,
       "power": 4000,
@@ -3140,12 +4117,29 @@
               "category": "event"
             }
           ]
+        },
+        {
+          "id": "OP09-029~ja",
+          "language": "ja",
+          "set": "OP09",
+          "rarity": "C",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP09-029.png",
+          "cardSet": "ブースターパック 新たなる皇帝【OP-09】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP09-030",
       "name": "Trafalgar Law",
+      "names": {
+        "en": "Trafalgar Law",
+        "ja": "トラファルガー・ロー"
+      },
       "category": "Character",
       "cost": 3,
       "power": 4000,
@@ -3212,12 +4206,29 @@
             }
           ],
           "artist": "Nijihayashi"
+        },
+        {
+          "id": "OP09-030~ja",
+          "language": "ja",
+          "set": "OP09",
+          "rarity": "UC",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP09-030.png",
+          "cardSet": "ブースターパック 新たなる皇帝【OP-09】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP09-031",
       "name": "Donquixote Doflamingo",
+      "names": {
+        "en": "Donquixote Doflamingo",
+        "ja": "ドンキホーテ・ドフラミンゴ"
+      },
       "category": "Character",
       "cost": 5,
       "power": 6000,
@@ -3256,12 +4267,29 @@
             "distance": 6
           },
           "artist": "PENEKOR"
+        },
+        {
+          "id": "OP09-031~ja",
+          "language": "ja",
+          "set": "OP09",
+          "rarity": "R",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP09-031.png",
+          "cardSet": "ブースターパック 新たなる皇帝【OP-09】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "OP09-032",
       "name": "Donquixote Rosinante",
+      "names": {
+        "en": "Donquixote Rosinante",
+        "ja": "ドンキホーテ・ロシナンテ"
+      },
       "category": "Character",
       "cost": 3,
       "power": 4000,
@@ -3328,12 +4356,29 @@
             }
           ],
           "artist": "PENEKOR"
+        },
+        {
+          "id": "OP09-032~ja",
+          "language": "ja",
+          "set": "OP09",
+          "rarity": "UC",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP09-032.png",
+          "cardSet": "ブースターパック 新たなる皇帝【OP-09】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP09-033",
       "name": "Nico Robin",
+      "names": {
+        "en": "Nico Robin",
+        "ja": "ニコ・ロビン"
+      },
       "category": "Character",
       "cost": 4,
       "power": 5000,
@@ -3455,12 +4500,55 @@
             }
           ],
           "artist": "Koushi Rokushiro"
+        },
+        {
+          "id": "OP09-033~ja",
+          "language": "ja",
+          "set": "OP09",
+          "rarity": "C",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP09-033.png",
+          "cardSet": "ブースターパック 新たなる皇帝【OP-09】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
+        },
+        {
+          "id": "OP09-033_p1~ja",
+          "language": "ja",
+          "set": "PRB02",
+          "rarity": "C",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP09-033_p1.png",
+          "cardSet": "ONE PIECE CARD THE BEST vol.2【PRB-02】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP09-033_r1~ja",
+          "language": "ja",
+          "set": "PRB02",
+          "rarity": "C",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP09-033_r1.png",
+          "cardSet": "ONE PIECE CARD THE BEST vol.2【PRB-02】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP09-034",
       "name": "Perona",
+      "names": {
+        "en": "Perona",
+        "ja": "ペローナ"
+      },
       "category": "Character",
       "cost": 1,
       "power": 2000,
@@ -3604,12 +4692,55 @@
               "category": "retail"
             }
           ]
+        },
+        {
+          "id": "OP09-034~ja",
+          "language": "ja",
+          "set": "OP09",
+          "rarity": "R",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP09-034.png",
+          "cardSet": "ブースターパック 新たなる皇帝【OP-09】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP09-034_p1~ja",
+          "language": "ja",
+          "set": "OP09",
+          "rarity": "R",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP09-034_p1.png",
+          "cardSet": "ブースターパック 新たなる皇帝【OP-09】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP09-034_p2~ja",
+          "language": "ja",
+          "set": "P",
+          "rarity": "R",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP09-034_p2.png",
+          "cardSet": "Vジャンプ10月特大号 応募者全員サービス",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "OP09-035",
       "name": "Portgas.D.Ace",
+      "names": {
+        "en": "Portgas.D.Ace",
+        "ja": "ポートガス・D・エース"
+      },
       "category": "Character",
       "cost": 5,
       "power": 5000,
@@ -3728,12 +4859,42 @@
               "category": "program"
             }
           ]
+        },
+        {
+          "id": "OP09-035~ja",
+          "language": "ja",
+          "set": "OP09",
+          "rarity": "UC",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP09-035.png",
+          "cardSet": "ブースターパック 新たなる皇帝【OP-09】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
+        },
+        {
+          "id": "OP09-035_r1~ja",
+          "language": "ja",
+          "set": "ST28",
+          "rarity": "UC",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP09-035_r1.png",
+          "cardSet": "スタートデッキ 緑黄 ヤマト【ST-28】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP09-036",
       "name": "Monkey.D.Luffy",
+      "names": {
+        "en": "Monkey.D.Luffy",
+        "ja": "モンキー・D・ルフィ"
+      },
       "category": "Character",
       "cost": 5,
       "power": 6000,
@@ -3800,12 +4961,29 @@
             }
           ],
           "artist": "Nekobayashi"
+        },
+        {
+          "id": "OP09-036~ja",
+          "language": "ja",
+          "set": "OP09",
+          "rarity": "C",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP09-036.png",
+          "cardSet": "ブースターパック 新たなる皇帝【OP-09】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP09-037",
       "name": "Lim",
+      "names": {
+        "en": "Lim",
+        "ja": "リム"
+      },
       "category": "Character",
       "cost": 3,
       "power": 5000,
@@ -3893,12 +5071,55 @@
             "sp"
           ],
           "artist": "Hashimoto Q"
+        },
+        {
+          "id": "OP09-037~ja",
+          "language": "ja",
+          "set": "OP09",
+          "rarity": "SR",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP09-037.png",
+          "cardSet": "ブースターパック 新たなる皇帝【OP-09】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP09-037_p1~ja",
+          "language": "ja",
+          "set": "OP09",
+          "rarity": "SR",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP09-037_p1.png",
+          "cardSet": "ブースターパック 新たなる皇帝【OP-09】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP09-037_p2~ja",
+          "language": "ja",
+          "set": "OP12",
+          "rarity": "SP CARD",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP09-037_p2.png",
+          "cardSet": "師弟の絆【OP-12】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "OP09-038",
       "name": "Rob Lucci",
+      "names": {
+        "en": "Rob Lucci",
+        "ja": "ロブ・ルッチ"
+      },
       "category": "Character",
       "cost": 4,
       "power": 6000,
@@ -3964,12 +5185,29 @@
             }
           ],
           "artist": "DAI-XT."
+        },
+        {
+          "id": "OP09-038~ja",
+          "language": "ja",
+          "set": "OP09",
+          "rarity": "C",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP09-038.png",
+          "cardSet": "ブースターパック 新たなる皇帝【OP-09】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP09-039",
       "name": "Gum-Gum Cuatro Jet Cross Shock Bazooka",
+      "names": {
+        "en": "Gum-Gum Cuatro Jet Cross Shock Bazooka",
+        "ja": "ゴムゴムの「四本樹」JET十字架ショックバズーカ"
+      },
       "category": "Event",
       "cost": 1,
       "colors": [
@@ -4003,12 +5241,29 @@
             "distance": 3
           },
           "artist": "Game"
+        },
+        {
+          "id": "OP09-039~ja",
+          "language": "ja",
+          "set": "OP09",
+          "rarity": "R",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP09-039.png",
+          "cardSet": "ブースターパック 新たなる皇帝【OP-09】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "OP09-040",
       "name": "Thunder Lance Flip Caliber Phoenix Shot",
+      "names": {
+        "en": "Thunder Lance Flip Caliber Phoenix Shot",
+        "ja": "雷光槍フリップ煩悩鳳ショット"
+      },
       "category": "Event",
       "cost": 3,
       "colors": [
@@ -4070,12 +5325,29 @@
             }
           ],
           "artist": "Game"
+        },
+        {
+          "id": "OP09-040~ja",
+          "language": "ja",
+          "set": "OP09",
+          "rarity": "UC",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP09-040.png",
+          "cardSet": "ブースターパック 新たなる皇帝【OP-09】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP09-041",
       "name": "Soul Franky Swing Arm Boxing Solid",
+      "names": {
+        "en": "Soul Franky Swing Arm Boxing Solid",
+        "ja": "魂のフランキー風速計BOXING喪剣"
+      },
       "category": "Event",
       "cost": 1,
       "colors": [
@@ -4136,12 +5408,29 @@
             }
           ],
           "artist": "Game"
+        },
+        {
+          "id": "OP09-041~ja",
+          "language": "ja",
+          "set": "OP09",
+          "rarity": "C",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP09-041.png",
+          "cardSet": "ブースターパック 新たなる皇帝【OP-09】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP09-042",
       "name": "Buggy",
+      "names": {
+        "en": "Buggy",
+        "ja": "バギー"
+      },
       "category": "Leader",
       "power": 5000,
       "life": 5,
@@ -4255,12 +5544,65 @@
               "category": "retail"
             }
           ]
+        },
+        {
+          "id": "OP09-042~ja",
+          "language": "ja",
+          "set": "OP09",
+          "rarity": "L",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP09-042.png",
+          "cardSet": "ブースターパック 新たなる皇帝【OP-09】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
+        },
+        {
+          "id": "OP09-042_p1~ja",
+          "language": "ja",
+          "set": "OP09",
+          "rarity": "L",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP09-042_p1.png",
+          "cardSet": "ブースターパック 新たなる皇帝【OP-09】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP09-042_p2~ja",
+          "language": "ja",
+          "set": "ST25",
+          "rarity": "L",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP09-042_p2.png",
+          "cardSet": "スタートデッキ 青 バギー【ST-25】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP09-042_p3~ja",
+          "language": "ja",
+          "set": "OTHER",
+          "rarity": "L",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP09-042_p3.png",
+          "cardSet": "ONE PIECE カードゲーム English 2nd ANNIVERSARY SET",
+          "source": "bandai"
         }
       ]
     },
     {
       "number": "OP09-043",
       "name": "Alvida",
+      "names": {
+        "en": "Alvida",
+        "ja": "アルビダ"
+      },
       "category": "Character",
       "cost": 5,
       "power": 6000,
@@ -4424,12 +5766,52 @@
             }
           ],
           "artist": "Studio Vigor Co. Ltd"
+        },
+        {
+          "id": "OP09-043~ja",
+          "language": "ja",
+          "set": "OP09",
+          "rarity": "UC",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP09-043.png",
+          "cardSet": "ブースターパック 新たなる皇帝【OP-09】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
+        },
+        {
+          "id": "OP09-043_p1~ja",
+          "language": "ja",
+          "set": "P",
+          "rarity": "UC",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP09-043_p1.png",
+          "cardSet": "ONE PIECEカードゲーム プロモーションパックVol.7",
+          "source": "bandai"
+        },
+        {
+          "id": "OP09-043_r1~ja",
+          "language": "ja",
+          "set": "ST25",
+          "rarity": "UC",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP09-043_r1.png",
+          "cardSet": "スタートデッキ 青 バギー【ST-25】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP09-044",
       "name": "Izo",
+      "names": {
+        "en": "Izo",
+        "ja": "イゾウ"
+      },
       "category": "Character",
       "cost": 3,
       "power": 4000,
@@ -4495,12 +5877,29 @@
             }
           ],
           "artist": "Hatori Kyoka"
+        },
+        {
+          "id": "OP09-044~ja",
+          "language": "ja",
+          "set": "OP09",
+          "rarity": "UC",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP09-044.png",
+          "cardSet": "ブースターパック 新たなる皇帝【OP-09】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP09-045",
       "name": "Cabaji",
+      "names": {
+        "en": "Cabaji",
+        "ja": "カバジ"
+      },
       "category": "Character",
       "cost": 5,
       "power": 5000,
@@ -4592,12 +5991,42 @@
             }
           ],
           "artist": "UGUME"
+        },
+        {
+          "id": "OP09-045~ja",
+          "language": "ja",
+          "set": "OP09",
+          "rarity": "UC",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP09-045.png",
+          "cardSet": "ブースターパック 新たなる皇帝【OP-09】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
+        },
+        {
+          "id": "OP09-045_r1~ja",
+          "language": "ja",
+          "set": "ST25",
+          "rarity": "UC",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP09-045_r1.png",
+          "cardSet": "スタートデッキ 青 バギー【ST-25】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP09-046",
       "name": "Crocodile",
+      "names": {
+        "en": "Crocodile",
+        "ja": "クロコダイル"
+      },
       "category": "Character",
       "cost": 7,
       "power": 7000,
@@ -4688,12 +6117,55 @@
           ],
           "artOf": "OP09-046",
           "artist": "SENNSU"
+        },
+        {
+          "id": "OP09-046~ja",
+          "language": "ja",
+          "set": "OP09",
+          "rarity": "SR",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP09-046.png",
+          "cardSet": "ブースターパック 新たなる皇帝【OP-09】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP09-046_p1~ja",
+          "language": "ja",
+          "set": "OP09",
+          "rarity": "SR",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP09-046_p1.png",
+          "cardSet": "ブースターパック 新たなる皇帝【OP-09】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP09-046_r1~ja",
+          "language": "ja",
+          "set": "PRB02",
+          "rarity": "SR",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP09-046_r1.png",
+          "cardSet": "ONE PIECE CARD THE BEST vol.2【PRB-02】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "OP09-047",
       "name": "Kouzuki Oden",
+      "names": {
+        "en": "Kouzuki Oden",
+        "ja": "光月おでん"
+      },
       "category": "Character",
       "cost": 9,
       "power": 10000,
@@ -4758,12 +6230,29 @@
             }
           ],
           "artist": "tunbolt"
+        },
+        {
+          "id": "OP09-047~ja",
+          "language": "ja",
+          "set": "OP09",
+          "rarity": "C",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP09-047.png",
+          "cardSet": "ブースターパック 新たなる皇帝【OP-09】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP09-048",
       "name": "Dracule Mihawk",
+      "names": {
+        "en": "Dracule Mihawk",
+        "ja": "ジュラキュール・ミホーク"
+      },
       "category": "Character",
       "cost": 6,
       "power": 7000,
@@ -4852,12 +6341,55 @@
           ],
           "artOf": "OP09-048",
           "artist": "Minato Sashima"
+        },
+        {
+          "id": "OP09-048~ja",
+          "language": "ja",
+          "set": "OP09",
+          "rarity": "SR",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP09-048.png",
+          "cardSet": "ブースターパック 新たなる皇帝【OP-09】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP09-048_p1~ja",
+          "language": "ja",
+          "set": "OP09",
+          "rarity": "SR",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP09-048_p1.png",
+          "cardSet": "ブースターパック 新たなる皇帝【OP-09】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP09-048_r1~ja",
+          "language": "ja",
+          "set": "PRB02",
+          "rarity": "SR",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP09-048_r1.png",
+          "cardSet": "ONE PIECE CARD THE BEST vol.2【PRB-02】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "OP09-049",
       "name": "Jozu",
+      "names": {
+        "en": "Jozu",
+        "ja": "ジョズ"
+      },
       "category": "Character",
       "cost": 4,
       "power": 6000,
@@ -4922,12 +6454,29 @@
             }
           ],
           "artist": "Tanaka Kenichi"
+        },
+        {
+          "id": "OP09-049~ja",
+          "language": "ja",
+          "set": "OP09",
+          "rarity": "C",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP09-049.png",
+          "cardSet": "ブースターパック 新たなる皇帝【OP-09】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP09-050",
       "name": "Nami",
+      "names": {
+        "en": "Nami",
+        "ja": "ナミ"
+      },
       "category": "Character",
       "cost": 1,
       "power": 1000,
@@ -5019,12 +6568,65 @@
             }
           ],
           "artist": "MOROI"
+        },
+        {
+          "id": "OP09-050~ja",
+          "language": "ja",
+          "set": "OP09",
+          "rarity": "R",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP09-050.png",
+          "cardSet": "ブースターパック 新たなる皇帝【OP-09】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP09-050_p1~ja",
+          "language": "ja",
+          "set": "OP09",
+          "rarity": "R",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP09-050_p1.png",
+          "cardSet": "ブースターパック 新たなる皇帝【OP-09】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP09-050_p2~ja",
+          "language": "ja",
+          "set": "P",
+          "rarity": "R",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP09-050_p2.png",
+          "cardSet": "始めようキャンペーン プロモーションパック",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP09-050_p3~ja",
+          "language": "ja",
+          "set": "P",
+          "rarity": "R",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP09-050_p3.png",
+          "cardSet": "始めようキャンペーン プロモーションパック",
+          "source": "bandai"
         }
       ]
     },
     {
       "number": "OP09-051",
       "name": "Buggy",
+      "names": {
+        "en": "Buggy",
+        "ja": "バギー"
+      },
       "category": "Character",
       "cost": 10,
       "power": 12000,
@@ -5245,12 +6847,114 @@
               "category": "retail"
             }
           ]
+        },
+        {
+          "id": "OP09-051~ja",
+          "language": "ja",
+          "set": "OP09",
+          "rarity": "R",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP09-051.png",
+          "cardSet": "ブースターパック 新たなる皇帝【OP-09】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP09-051_p1~ja",
+          "language": "ja",
+          "set": "OP09",
+          "rarity": "R",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP09-051_p1.png",
+          "cardSet": "ブースターパック 新たなる皇帝【OP-09】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP09-051_p2~ja",
+          "language": "ja",
+          "set": "OP09",
+          "rarity": "R",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP09-051_p2.png",
+          "cardSet": "ブースターパック 新たなる皇帝【OP-09】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP09-051_p3~ja",
+          "language": "ja",
+          "set": "OP09",
+          "rarity": "SP CARD",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP09-051_p3.png",
+          "cardSet": "ブースターパック 新たなる皇帝【OP-09】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP09-051_p4~ja",
+          "language": "ja",
+          "set": "OTHER",
+          "rarity": "R",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP09-051_p4.png",
+          "cardSet": "ONE PIECE カードゲーム English 2nd ANNIVERSARY SET",
+          "source": "bandai"
+        },
+        {
+          "id": "OP09-051_p5~ja",
+          "language": "ja",
+          "set": "OP14",
+          "rarity": "SP CARD",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP09-051_p5.png",
+          "cardSet": "ブースターパック 蒼海の七傑【OP-14】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP09-051_p6~ja",
+          "language": "ja",
+          "set": "OP14",
+          "rarity": "SP CARD",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP09-051_p6.png",
+          "cardSet": "ブースターパック 蒼海の七傑【OP-14】",
+          "source": "bandai"
+        },
+        {
+          "id": "OP09-051_r1~ja",
+          "language": "ja",
+          "set": "ST25",
+          "rarity": "R",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP09-051_r1.png",
+          "cardSet": "スタートデッキ 青 バギー【ST-25】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP09-052",
       "name": "Marco",
+      "names": {
+        "en": "Marco",
+        "ja": "マルコ"
+      },
       "category": "Character",
       "cost": 3,
       "power": 5000,
@@ -5314,12 +7018,29 @@
             }
           ],
           "artist": "Rofta"
+        },
+        {
+          "id": "OP09-052~ja",
+          "language": "ja",
+          "set": "OP09",
+          "rarity": "C",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP09-052.png",
+          "cardSet": "ブースターパック 新たなる皇帝【OP-09】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP09-053",
       "name": "Mohji",
+      "names": {
+        "en": "Mohji",
+        "ja": "モージ"
+      },
       "category": "Character",
       "cost": 5,
       "power": 5000,
@@ -5411,12 +7132,42 @@
             }
           ],
           "artist": "Suzume Muraichi"
+        },
+        {
+          "id": "OP09-053~ja",
+          "language": "ja",
+          "set": "OP09",
+          "rarity": "UC",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP09-053.png",
+          "cardSet": "ブースターパック 新たなる皇帝【OP-09】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
+        },
+        {
+          "id": "OP09-053_r1~ja",
+          "language": "ja",
+          "set": "ST25",
+          "rarity": "UC",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP09-053_r1.png",
+          "cardSet": "スタートデッキ 青 バギー【ST-25】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP09-054",
       "name": "Richie",
+      "names": {
+        "en": "Richie",
+        "ja": "リッチー"
+      },
       "category": "Character",
       "cost": 2,
       "power": 2000,
@@ -5509,12 +7260,42 @@
             }
           ],
           "artist": "Yoichi Amano"
+        },
+        {
+          "id": "OP09-054~ja",
+          "language": "ja",
+          "set": "OP09",
+          "rarity": "C",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP09-054.png",
+          "cardSet": "ブースターパック 新たなる皇帝【OP-09】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
+        },
+        {
+          "id": "OP09-054_r1~ja",
+          "language": "ja",
+          "set": "ST25",
+          "rarity": "C",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP09-054_r1.png",
+          "cardSet": "スタートデッキ 青 バギー【ST-25】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP09-055",
       "name": "Mr.1(Daz.Bonez)",
+      "names": {
+        "en": "Mr.1(Daz.Bonez)",
+        "ja": "Mr.1(ダズ・ボーネス)"
+      },
       "category": "Character",
       "cost": 5,
       "power": 7000,
@@ -5607,12 +7388,42 @@
             }
           ],
           "artist": "Rofta"
+        },
+        {
+          "id": "OP09-055~ja",
+          "language": "ja",
+          "set": "OP09",
+          "rarity": "C",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP09-055.png",
+          "cardSet": "ブースターパック 新たなる皇帝【OP-09】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
+        },
+        {
+          "id": "OP09-055_r1~ja",
+          "language": "ja",
+          "set": "ST25",
+          "rarity": "C",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP09-055_r1.png",
+          "cardSet": "スタートデッキ 青 バギー【ST-25】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP09-056",
       "name": "Mr.3(Galdino)",
+      "names": {
+        "en": "Mr.3(Galdino)",
+        "ja": "Mr.3(ギャルディーノ)"
+      },
       "category": "Character",
       "cost": 1,
       "power": 2000,
@@ -5730,12 +7541,68 @@
           ],
           "artOf": "OP09-056",
           "artist": "Akihiro MIYANO"
+        },
+        {
+          "id": "OP09-056~ja",
+          "language": "ja",
+          "set": "OP09",
+          "rarity": "R",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP09-056.png",
+          "cardSet": "ブースターパック 新たなる皇帝【OP-09】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP09-056_p1~ja",
+          "language": "ja",
+          "set": "PRB02",
+          "rarity": "R",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP09-056_p1.png",
+          "cardSet": "ONE PIECE CARD THE BEST vol.2【PRB-02】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP09-056_r1~ja",
+          "language": "ja",
+          "set": "ST25",
+          "rarity": "R",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP09-056_r1.png",
+          "cardSet": "スタートデッキ 青 バギー【ST-25】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
+        },
+        {
+          "id": "OP09-056_r2~ja",
+          "language": "ja",
+          "set": "PRB02",
+          "rarity": "R",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP09-056_r2.png",
+          "cardSet": "ONE PIECE CARD THE BEST vol.2【PRB-02】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "OP09-057",
       "name": "Cross Guild",
+      "names": {
+        "en": "Cross Guild",
+        "ja": "クロスギルド"
+      },
       "category": "Event",
       "cost": 1,
       "colors": [
@@ -5842,12 +7709,62 @@
             "reprint"
           ],
           "artOf": "OP09-057"
+        },
+        {
+          "id": "OP09-057~ja",
+          "language": "ja",
+          "set": "OP09",
+          "rarity": "R",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP09-057.png",
+          "cardSet": "ブースターパック 新たなる皇帝【OP-09】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP09-057_p1~ja",
+          "language": "ja",
+          "set": "ST25",
+          "rarity": "R",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP09-057_p1.png",
+          "cardSet": "スタートデッキ 青 バギー【ST-25】",
+          "source": "bandai"
+        },
+        {
+          "id": "OP09-057_p2~ja",
+          "language": "ja",
+          "set": "PRB02",
+          "rarity": "SP CARD",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP09-057_p2.png",
+          "cardSet": "ONE PIECE CARD THE BEST vol.2【PRB-02】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP09-057_r1~ja",
+          "language": "ja",
+          "set": "PRB02",
+          "rarity": "R",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP09-057_r1.png",
+          "cardSet": "ONE PIECE CARD THE BEST vol.2【PRB-02】",
+          "source": "bandai"
         }
       ]
     },
     {
       "number": "OP09-058",
       "name": "Special Muggy Ball",
+      "names": {
+        "en": "Special Muggy Ball",
+        "ja": "特製マギー玉"
+      },
       "category": "Event",
       "cost": 2,
       "colors": [
@@ -5905,12 +7822,29 @@
               "category": "anniversary"
             }
           ]
+        },
+        {
+          "id": "OP09-058~ja",
+          "language": "ja",
+          "set": "OP09",
+          "rarity": "C",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP09-058.png",
+          "cardSet": "ブースターパック 新たなる皇帝【OP-09】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP09-059",
       "name": "Murder at the Steam Bath",
+      "names": {
+        "en": "Murder at the Steam Bath",
+        "ja": "湯けむり殺人事件"
+      },
       "category": "Event",
       "cost": 2,
       "colors": [
@@ -5968,12 +7902,29 @@
               "category": "anniversary"
             }
           ]
+        },
+        {
+          "id": "OP09-059~ja",
+          "language": "ja",
+          "set": "OP09",
+          "rarity": "UC",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP09-059.png",
+          "cardSet": "ブースターパック 新たなる皇帝【OP-09】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP09-060",
       "name": "Emptee Bluffs Island",
+      "names": {
+        "en": "Emptee Bluffs Island",
+        "ja": "カライ・バリ島"
+      },
       "category": "Stage",
       "cost": 1,
       "colors": [
@@ -6031,12 +7982,29 @@
               "category": "anniversary"
             }
           ]
+        },
+        {
+          "id": "OP09-060~ja",
+          "language": "ja",
+          "set": "OP09",
+          "rarity": "C",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP09-060.png",
+          "cardSet": "ブースターパック 新たなる皇帝【OP-09】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP09-061",
       "name": "Monkey.D.Luffy",
+      "names": {
+        "en": "Monkey.D.Luffy",
+        "ja": "モンキー・D・ルフィ"
+      },
       "category": "Leader",
       "power": 5000,
       "life": 4,
@@ -6174,12 +8142,65 @@
               "category": "card-stock"
             }
           ]
+        },
+        {
+          "id": "OP09-061~ja",
+          "language": "ja",
+          "set": "OP09",
+          "rarity": "L",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP09-061.png",
+          "cardSet": "ブースターパック 新たなる皇帝【OP-09】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
+        },
+        {
+          "id": "OP09-061_p1~ja",
+          "language": "ja",
+          "set": "OP09",
+          "rarity": "L",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP09-061_p1.png",
+          "cardSet": "ブースターパック 新たなる皇帝【OP-09】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP09-061_p2~ja",
+          "language": "ja",
+          "set": "ST26",
+          "rarity": "L",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP09-061_p2.png",
+          "cardSet": "スタートデッキ 紫黒 モンキー・D・ルフィ【ST-26】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP09-061_p3~ja",
+          "language": "ja",
+          "set": "OTHER",
+          "rarity": "L",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP09-061_p3.png",
+          "cardSet": "ONE PIECE カードゲーム English 2nd ANNIVERSARY SET",
+          "source": "bandai"
         }
       ]
     },
     {
       "number": "OP09-062",
       "name": "Nico Robin",
+      "names": {
+        "en": "Nico Robin",
+        "ja": "ニコ・ロビン"
+      },
       "category": "Leader",
       "power": 5000,
       "life": 4,
@@ -6240,12 +8261,42 @@
           "treatments": [
             "parallel"
           ]
+        },
+        {
+          "id": "OP09-062~ja",
+          "language": "ja",
+          "set": "OP09",
+          "rarity": "L",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP09-062.png",
+          "cardSet": "ブースターパック 新たなる皇帝【OP-09】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
+        },
+        {
+          "id": "OP09-062_p1~ja",
+          "language": "ja",
+          "set": "OP09",
+          "rarity": "L",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP09-062_p1.png",
+          "cardSet": "ブースターパック 新たなる皇帝【OP-09】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "OP09-063",
       "name": "Usopp",
+      "names": {
+        "en": "Usopp",
+        "ja": "ウソップ"
+      },
       "category": "Character",
       "cost": 4,
       "power": 6000,
@@ -6337,12 +8388,42 @@
             }
           ],
           "artist": "Takamasa Moue"
+        },
+        {
+          "id": "OP09-063~ja",
+          "language": "ja",
+          "set": "OP09",
+          "rarity": "C",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP09-063.png",
+          "cardSet": "ブースターパック 新たなる皇帝【OP-09】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
+        },
+        {
+          "id": "OP09-063_r1~ja",
+          "language": "ja",
+          "set": "ST26",
+          "rarity": "C",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP09-063_r1.png",
+          "cardSet": "スタートデッキ 紫黒 モンキー・D・ルフィ【ST-26】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP09-064",
       "name": "Killer",
+      "names": {
+        "en": "Killer",
+        "ja": "キラー"
+      },
       "category": "Character",
       "cost": 5,
       "power": 5000,
@@ -6407,12 +8488,29 @@
             }
           ],
           "artist": "Katsuo Tadano"
+        },
+        {
+          "id": "OP09-064~ja",
+          "language": "ja",
+          "set": "OP09",
+          "rarity": "UC",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP09-064.png",
+          "cardSet": "ブースターパック 新たなる皇帝【OP-09】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP09-065",
       "name": "Sanji",
+      "names": {
+        "en": "Sanji",
+        "ja": "サンジ"
+      },
       "category": "Character",
       "cost": 7,
       "power": 7000,
@@ -6531,12 +8629,68 @@
           ],
           "artOf": "OP09-065",
           "artist": "Bashikou"
+        },
+        {
+          "id": "OP09-065~ja",
+          "language": "ja",
+          "set": "OP09",
+          "rarity": "SR",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP09-065.png",
+          "cardSet": "ブースターパック 新たなる皇帝【OP-09】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP09-065_p1~ja",
+          "language": "ja",
+          "set": "OP09",
+          "rarity": "SR",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP09-065_p1.png",
+          "cardSet": "ブースターパック 新たなる皇帝【OP-09】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP09-065_p2~ja",
+          "language": "ja",
+          "set": "P",
+          "rarity": "SR",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP09-065_p2.png",
+          "cardSet": "プロモーションパックEX Vol.2",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP09-065_r1~ja",
+          "language": "ja",
+          "set": "PRB02",
+          "rarity": "SR",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP09-065_r1.png",
+          "cardSet": "ONE PIECE CARD THE BEST vol.2【PRB-02】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "OP09-066",
       "name": "Jean Bart",
+      "names": {
+        "en": "Jean Bart",
+        "ja": "ジャンバール"
+      },
       "category": "Character",
       "cost": 4,
       "power": 6000,
@@ -6600,12 +8754,29 @@
             }
           ],
           "artist": "Studio Vigor Co. Ltd"
+        },
+        {
+          "id": "OP09-066~ja",
+          "language": "ja",
+          "set": "OP09",
+          "rarity": "UC",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP09-066.png",
+          "cardSet": "ブースターパック 新たなる皇帝【OP-09】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP09-067",
       "name": "Jinbe",
+      "names": {
+        "en": "Jinbe",
+        "ja": "ジンベエ"
+      },
       "category": "Character",
       "cost": 7,
       "power": 9000,
@@ -6671,12 +8842,29 @@
             }
           ],
           "artist": "SHINRA AGENCY Co. Ltd."
+        },
+        {
+          "id": "OP09-067~ja",
+          "language": "ja",
+          "set": "OP09",
+          "rarity": "C",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP09-067.png",
+          "cardSet": "ブースターパック 新たなる皇帝【OP-09】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP09-068",
       "name": "Tony Tony.Chopper",
+      "names": {
+        "en": "Tony Tony.Chopper",
+        "ja": "トニートニー・チョッパー"
+      },
       "category": "Character",
       "cost": 5,
       "power": 6000,
@@ -6768,12 +8956,29 @@
               "category": "event"
             }
           ]
+        },
+        {
+          "id": "OP09-068~ja",
+          "language": "ja",
+          "set": "OP09",
+          "rarity": "UC",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP09-068.png",
+          "cardSet": "ブースターパック 新たなる皇帝【OP-09】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP09-069",
       "name": "Trafalgar Law",
+      "names": {
+        "en": "Trafalgar Law",
+        "ja": "トラファルガー・ロー"
+      },
       "category": "Character",
       "cost": 1,
       "power": 2000,
@@ -6945,12 +9150,65 @@
               "category": "placement"
             }
           ]
+        },
+        {
+          "id": "OP09-069~ja",
+          "language": "ja",
+          "set": "OP09",
+          "rarity": "R",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP09-069.png",
+          "cardSet": "ブースターパック 新たなる皇帝【OP-09】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP09-069_p1~ja",
+          "language": "ja",
+          "set": "OP09",
+          "rarity": "R",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP09-069_p1.png",
+          "cardSet": "ブースターパック 新たなる皇帝【OP-09】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP09-069_p2~ja",
+          "language": "ja",
+          "set": "P",
+          "rarity": "R",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP09-069_p2.png",
+          "cardSet": "フラッグシップバトル2025 1月優勝記念品",
+          "source": "bandai"
+        },
+        {
+          "id": "OP09-069_r1~ja",
+          "language": "ja",
+          "set": "PRB02",
+          "rarity": "R",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP09-069_r1.png",
+          "cardSet": "ONE PIECE CARD THE BEST vol.2【PRB-02】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "OP09-070",
       "name": "Nami",
+      "names": {
+        "en": "Nami",
+        "ja": "ナミ"
+      },
       "category": "Character",
       "cost": 3,
       "power": 2000,
@@ -7078,12 +9336,52 @@
               "category": "retail"
             }
           ]
+        },
+        {
+          "id": "OP09-070~ja",
+          "language": "ja",
+          "set": "OP09",
+          "rarity": "UC",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP09-070.png",
+          "cardSet": "ブースターパック 新たなる皇帝【OP-09】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
+        },
+        {
+          "id": "OP09-070_p1~ja",
+          "language": "ja",
+          "set": "OTHER",
+          "rarity": "UC",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP09-070_p1.png",
+          "cardSet": "プレミアムカードコレクション - ベストセレクション vol.4 -",
+          "source": "bandai"
+        },
+        {
+          "id": "OP09-070_r1~ja",
+          "language": "ja",
+          "set": "ST26",
+          "rarity": "UC",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP09-070_r1.png",
+          "cardSet": "スタートデッキ 紫黒 モンキー・D・ルフィ【ST-26】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP09-071",
       "name": "Nico Robin",
+      "names": {
+        "en": "Nico Robin",
+        "ja": "ニコ・ロビン"
+      },
       "category": "Character",
       "cost": 2,
       "power": 2000,
@@ -7148,12 +9446,29 @@
             }
           ],
           "artist": "SHIE NANAHARA"
+        },
+        {
+          "id": "OP09-071~ja",
+          "language": "ja",
+          "set": "OP09",
+          "rarity": "C",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP09-071.png",
+          "cardSet": "ブースターパック 新たなる皇帝【OP-09】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP09-072",
       "name": "Franky",
+      "names": {
+        "en": "Franky",
+        "ja": "フランキー"
+      },
       "category": "Character",
       "cost": 4,
       "power": 5000,
@@ -7241,12 +9556,55 @@
             "reprint"
           ],
           "artOf": "OP09-072"
+        },
+        {
+          "id": "OP09-072~ja",
+          "language": "ja",
+          "set": "OP09",
+          "rarity": "SR",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP09-072.png",
+          "cardSet": "ブースターパック 新たなる皇帝【OP-09】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP09-072_p1~ja",
+          "language": "ja",
+          "set": "OP09",
+          "rarity": "SR",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP09-072_p1.png",
+          "cardSet": "ブースターパック 新たなる皇帝【OP-09】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP09-072_r1~ja",
+          "language": "ja",
+          "set": "PRB02",
+          "rarity": "SR",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP09-072_r1.png",
+          "cardSet": "ONE PIECE CARD THE BEST vol.2【PRB-02】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "OP09-073",
       "name": "Brook",
+      "names": {
+        "en": "Brook",
+        "ja": "ブルック"
+      },
       "category": "Character",
       "cost": 6,
       "power": 7000,
@@ -7311,12 +9669,29 @@
             }
           ],
           "artist": "Studio Vigor Co. Ltd"
+        },
+        {
+          "id": "OP09-073~ja",
+          "language": "ja",
+          "set": "OP09",
+          "rarity": "C",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP09-073.png",
+          "cardSet": "ブースターパック 新たなる皇帝【OP-09】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP09-074",
       "name": "Bepo",
+      "names": {
+        "en": "Bepo",
+        "ja": "ベポ"
+      },
       "category": "Character",
       "cost": 2,
       "power": 2000,
@@ -7382,12 +9757,29 @@
             }
           ],
           "artist": "COGA"
+        },
+        {
+          "id": "OP09-074~ja",
+          "language": "ja",
+          "set": "OP09",
+          "rarity": "C",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP09-074.png",
+          "cardSet": "ブースターパック 新たなる皇帝【OP-09】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP09-075",
       "name": "Eustass\"Captain\"Kid",
+      "names": {
+        "en": "Eustass\"Captain\"Kid",
+        "ja": "ユースタス・キッド"
+      },
       "category": "Character",
       "cost": 3,
       "power": 5000,
@@ -7451,12 +9843,29 @@
             }
           ],
           "artist": "Hatori Kyoka"
+        },
+        {
+          "id": "OP09-075~ja",
+          "language": "ja",
+          "set": "OP09",
+          "rarity": "UC",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP09-075.png",
+          "cardSet": "ブースターパック 新たなる皇帝【OP-09】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP09-076",
       "name": "Roronoa Zoro",
+      "names": {
+        "en": "Roronoa Zoro",
+        "ja": "ロロノア・ゾロ"
+      },
       "category": "Character",
       "cost": 3,
       "power": 5000,
@@ -7624,12 +10033,75 @@
               "category": "retail"
             }
           ]
+        },
+        {
+          "id": "OP09-076~ja",
+          "language": "ja",
+          "set": "OP09",
+          "rarity": "R",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP09-076.png",
+          "cardSet": "ブースターパック 新たなる皇帝【OP-09】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP09-076_p1~ja",
+          "language": "ja",
+          "set": "PRB02",
+          "rarity": "R",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP09-076_p1.png",
+          "cardSet": "ONE PIECE CARD THE BEST vol.2【PRB-02】",
+          "source": "bandai"
+        },
+        {
+          "id": "OP09-076_p2~ja",
+          "language": "ja",
+          "set": "P",
+          "rarity": "R",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP09-076_p2.png",
+          "cardSet": "プロモーションパックEX Vol.2",
+          "source": "bandai"
+        },
+        {
+          "id": "OP09-076_r1~ja",
+          "language": "ja",
+          "set": "ST26",
+          "rarity": "R",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP09-076_r1.png",
+          "cardSet": "スタートデッキ 紫黒 モンキー・D・ルフィ【ST-26】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
+        },
+        {
+          "id": "OP09-076_r2~ja",
+          "language": "ja",
+          "set": "PRB02",
+          "rarity": "R",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP09-076_r2.png",
+          "cardSet": "ONE PIECE CARD THE BEST vol.2【PRB-02】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "OP09-077",
       "name": "Gum-Gum Lightning",
+      "names": {
+        "en": "Gum-Gum Lightning",
+        "ja": "ゴムゴムの雷"
+      },
       "category": "Event",
       "cost": 2,
       "colors": [
@@ -7804,12 +10276,78 @@
               "category": "retail"
             }
           ]
+        },
+        {
+          "id": "OP09-077~ja",
+          "language": "ja",
+          "set": "OP09",
+          "rarity": "UC",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP09-077.png",
+          "cardSet": "ブースターパック 新たなる皇帝【OP-09】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
+        },
+        {
+          "id": "OP09-077_p1~ja",
+          "language": "ja",
+          "set": "PRB02",
+          "rarity": "UC",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP09-077_p1.png",
+          "cardSet": "ONE PIECE CARD THE BEST vol.2【PRB-02】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP09-077_p2~ja",
+          "language": "ja",
+          "set": "OTHER",
+          "rarity": "UC",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP09-077_p2.png",
+          "cardSet": "プレミアムカードコレクション - ベストセレクション vol.4 -",
+          "source": "bandai"
+        },
+        {
+          "id": "OP09-077_r1~ja",
+          "language": "ja",
+          "set": "ST26",
+          "rarity": "UC",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP09-077_r1.png",
+          "cardSet": "スタートデッキ 紫黒 モンキー・D・ルフィ【ST-26】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
+        },
+        {
+          "id": "OP09-077_r2~ja",
+          "language": "ja",
+          "set": "PRB02",
+          "rarity": "UC",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP09-077_r2.png",
+          "cardSet": "ONE PIECE CARD THE BEST vol.2【PRB-02】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP09-078",
       "name": "Gum-Gum Giant",
+      "names": {
+        "en": "Gum-Gum Giant",
+        "ja": "ゴムゴムの巨人"
+      },
       "category": "Event",
       "cost": 1,
       "colors": [
@@ -7917,12 +10455,68 @@
             "reprint"
           ],
           "artOf": "OP09-078"
+        },
+        {
+          "id": "OP09-078~ja",
+          "language": "ja",
+          "set": "OP09",
+          "rarity": "R",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP09-078.png",
+          "cardSet": "ブースターパック 新たなる皇帝【OP-09】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP09-078_p1~ja",
+          "language": "ja",
+          "set": "ST26",
+          "rarity": "R",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP09-078_p1.png",
+          "cardSet": "スタートデッキ 紫黒 モンキー・D・ルフィ【ST-26】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
+        },
+        {
+          "id": "OP09-078_p2~ja",
+          "language": "ja",
+          "set": "PRB02",
+          "rarity": "SP CARD",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP09-078_p2.png",
+          "cardSet": "ONE PIECE CARD THE BEST vol.2【PRB-02】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP09-078_r1~ja",
+          "language": "ja",
+          "set": "PRB02",
+          "rarity": "R",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP09-078_r1.png",
+          "cardSet": "ONE PIECE CARD THE BEST vol.2【PRB-02】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "OP09-079",
       "name": "Gum-Gum Jump Rope",
+      "names": {
+        "en": "Gum-Gum Jump Rope",
+        "ja": "ゴムゴムの縄跳び"
+      },
       "category": "Event",
       "cost": 2,
       "colors": [
@@ -8035,12 +10629,55 @@
               "category": "anniversary"
             }
           ]
+        },
+        {
+          "id": "OP09-079~ja",
+          "language": "ja",
+          "set": "OP09",
+          "rarity": "C",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP09-079.png",
+          "cardSet": "ブースターパック 新たなる皇帝【OP-09】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
+        },
+        {
+          "id": "OP09-079_p1~ja",
+          "language": "ja",
+          "set": "PRB02",
+          "rarity": "C",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP09-079_p1.png",
+          "cardSet": "ONE PIECE CARD THE BEST vol.2【PRB-02】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP09-079_r1~ja",
+          "language": "ja",
+          "set": "PRB02",
+          "rarity": "C",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP09-079_r1.png",
+          "cardSet": "ONE PIECE CARD THE BEST vol.2【PRB-02】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP09-080",
       "name": "Thousand Sunny",
+      "names": {
+        "en": "Thousand Sunny",
+        "ja": "サウザンド・サニー号"
+      },
       "category": "Stage",
       "cost": 1,
       "colors": [
@@ -8098,12 +10735,29 @@
               "category": "anniversary"
             }
           ]
+        },
+        {
+          "id": "OP09-080~ja",
+          "language": "ja",
+          "set": "OP09",
+          "rarity": "C",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP09-080.png",
+          "cardSet": "ブースターパック 新たなる皇帝【OP-09】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP09-081",
       "name": "Marshall.D.Teach",
+      "names": {
+        "en": "Marshall.D.Teach",
+        "ja": "マーシャル・Ｄ・ティーチ"
+      },
       "category": "Leader",
       "power": 5000,
       "life": 5,
@@ -8217,12 +10871,65 @@
               "category": "retail"
             }
           ]
+        },
+        {
+          "id": "OP09-081~ja",
+          "language": "ja",
+          "set": "OP09",
+          "rarity": "L",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP09-081.png",
+          "cardSet": "ブースターパック 新たなる皇帝【OP-09】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
+        },
+        {
+          "id": "OP09-081_p1~ja",
+          "language": "ja",
+          "set": "OP09",
+          "rarity": "L",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP09-081_p1.png",
+          "cardSet": "ブースターパック 新たなる皇帝【OP-09】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP09-081_p2~ja",
+          "language": "ja",
+          "set": "ST27",
+          "rarity": "L",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP09-081_p2.png",
+          "cardSet": "スタートデッキ 黒 マーシャル・Ｄ・ティーチ【ST-27】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP09-081_p3~ja",
+          "language": "ja",
+          "set": "OTHER",
+          "rarity": "L",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP09-081_p3.png",
+          "cardSet": "ONE PIECE カードゲーム English 2nd ANNIVERSARY SET",
+          "source": "bandai"
         }
       ]
     },
     {
       "number": "OP09-082",
       "name": "Avalo Pizarro",
+      "names": {
+        "en": "Avalo Pizarro",
+        "ja": "アバロ・ピサロ"
+      },
       "category": "Character",
       "cost": 4,
       "power": 6000,
@@ -8287,12 +10994,29 @@
             }
           ],
           "artist": "S-KINOKO"
+        },
+        {
+          "id": "OP09-082~ja",
+          "language": "ja",
+          "set": "OP09",
+          "rarity": "C",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP09-082.png",
+          "cardSet": "ブースターパック 新たなる皇帝【OP-09】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP09-083",
       "name": "Van Augur",
+      "names": {
+        "en": "Van Augur",
+        "ja": "ヴァン・オーガー"
+      },
       "category": "Character",
       "cost": 5,
       "power": 6000,
@@ -8354,12 +11078,42 @@
           "treatments": [
             "reprint"
           ]
+        },
+        {
+          "id": "OP09-083~ja",
+          "language": "ja",
+          "set": "OP09",
+          "rarity": "R",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP09-083.png",
+          "cardSet": "ブースターパック 新たなる皇帝【OP-09】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP09-083_r1~ja",
+          "language": "ja",
+          "set": "ST27",
+          "rarity": "R",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP09-083_r1.png",
+          "cardSet": "スタートデッキ 黒 マーシャル・Ｄ・ティーチ【ST-27】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP09-084",
       "name": "Catarina Devon",
+      "names": {
+        "en": "Catarina Devon",
+        "ja": "カタリーナ・デボン"
+      },
       "category": "Character",
       "cost": 5,
       "power": 6000,
@@ -8481,12 +11235,55 @@
             }
           ],
           "artist": "Hashimoto Q"
+        },
+        {
+          "id": "OP09-084~ja",
+          "language": "ja",
+          "set": "OP09",
+          "rarity": "UC",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP09-084.png",
+          "cardSet": "ブースターパック 新たなる皇帝【OP-09】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
+        },
+        {
+          "id": "OP09-084_p1~ja",
+          "language": "ja",
+          "set": "PRB02",
+          "rarity": "UC",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP09-084_p1.png",
+          "cardSet": "ONE PIECE CARD THE BEST vol.2【PRB-02】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP09-084_r1~ja",
+          "language": "ja",
+          "set": "PRB02",
+          "rarity": "UC",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP09-084_r1.png",
+          "cardSet": "ONE PIECE CARD THE BEST vol.2【PRB-02】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP09-085",
       "name": "Gecko Moria",
+      "names": {
+        "en": "Gecko Moria",
+        "ja": "ゲッコー・モリア"
+      },
       "category": "Character",
       "cost": 4,
       "power": 5000,
@@ -8550,12 +11347,29 @@
             }
           ],
           "artist": "Aidle Co. Ltd."
+        },
+        {
+          "id": "OP09-085~ja",
+          "language": "ja",
+          "set": "OP09",
+          "rarity": "C",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP09-085.png",
+          "cardSet": "ブースターパック 新たなる皇帝【OP-09】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP09-086",
       "name": "Jesus Burgess",
+      "names": {
+        "en": "Jesus Burgess",
+        "ja": "ジーザス・バージェス"
+      },
       "category": "Character",
       "cost": 4,
       "power": 5000,
@@ -8672,12 +11486,68 @@
           ],
           "artOf": "OP09-086",
           "artist": "Aidle Co. Ltd."
+        },
+        {
+          "id": "OP09-086~ja",
+          "language": "ja",
+          "set": "OP09",
+          "rarity": "R",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP09-086.png",
+          "cardSet": "ブースターパック 新たなる皇帝【OP-09】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP09-086_p1~ja",
+          "language": "ja",
+          "set": "PRB02",
+          "rarity": "R",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP09-086_p1.png",
+          "cardSet": "ONE PIECE CARD THE BEST vol.2【PRB-02】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP09-086_r1~ja",
+          "language": "ja",
+          "set": "ST27",
+          "rarity": "R",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP09-086_r1.png",
+          "cardSet": "スタートデッキ 黒 マーシャル・Ｄ・ティーチ【ST-27】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
+        },
+        {
+          "id": "OP09-086_r2~ja",
+          "language": "ja",
+          "set": "PRB02",
+          "rarity": "R",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP09-086_r2.png",
+          "cardSet": "ONE PIECE CARD THE BEST vol.2【PRB-02】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "OP09-087",
       "name": "Charlotte Pudding",
+      "names": {
+        "en": "Charlotte Pudding",
+        "ja": "シャーロット・プリン"
+      },
       "category": "Character",
       "cost": 2,
       "counter": 1000,
@@ -8741,12 +11611,29 @@
             }
           ],
           "artist": "SHINRA AGENCY Co. Ltd."
+        },
+        {
+          "id": "OP09-087~ja",
+          "language": "ja",
+          "set": "OP09",
+          "rarity": "C",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP09-087.png",
+          "cardSet": "ブースターパック 新たなる皇帝【OP-09】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP09-088",
       "name": "Shiryu",
+      "names": {
+        "en": "Shiryu",
+        "ja": "シリュウ"
+      },
       "category": "Character",
       "cost": 3,
       "power": 4000,
@@ -8864,12 +11751,42 @@
               "category": "program"
             }
           ]
+        },
+        {
+          "id": "OP09-088~ja",
+          "language": "ja",
+          "set": "OP09",
+          "rarity": "UC",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP09-088.png",
+          "cardSet": "ブースターパック 新たなる皇帝【OP-09】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
+        },
+        {
+          "id": "OP09-088_r1~ja",
+          "language": "ja",
+          "set": "ST27",
+          "rarity": "UC",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP09-088_r1.png",
+          "cardSet": "スタートデッキ 黒 マーシャル・Ｄ・ティーチ【ST-27】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP09-089",
       "name": "Stronger",
+      "names": {
+        "en": "Stronger",
+        "ja": "ストロンガー"
+      },
       "category": "Character",
       "cost": 1,
       "counter": 2000,
@@ -9036,12 +11953,52 @@
             }
           ],
           "artist": "Aidle Co. Ltd."
+        },
+        {
+          "id": "OP09-089~ja",
+          "language": "ja",
+          "set": "OP09",
+          "rarity": "UC",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP09-089.png",
+          "cardSet": "ブースターパック 新たなる皇帝【OP-09】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
+        },
+        {
+          "id": "OP09-089_p1~ja",
+          "language": "ja",
+          "set": "P",
+          "rarity": "UC",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP09-089_p1.png",
+          "cardSet": "ONE PIECEカードゲーム プロモーションパックVol.7",
+          "source": "bandai"
+        },
+        {
+          "id": "OP09-089_r1~ja",
+          "language": "ja",
+          "set": "ST27",
+          "rarity": "UC",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP09-089_r1.png",
+          "cardSet": "スタートデッキ 黒 マーシャル・Ｄ・ティーチ【ST-27】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP09-090",
       "name": "Doc Q",
+      "names": {
+        "en": "Doc Q",
+        "ja": "ドクQ"
+      },
       "category": "Character",
       "cost": 2,
       "counter": 1000,
@@ -9104,12 +12061,42 @@
           ],
           "artOf": "OP09-090",
           "artist": "Aidle Co. Ltd."
+        },
+        {
+          "id": "OP09-090~ja",
+          "language": "ja",
+          "set": "OP09",
+          "rarity": "R",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP09-090.png",
+          "cardSet": "ブースターパック 新たなる皇帝【OP-09】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP09-090_r1~ja",
+          "language": "ja",
+          "set": "ST27",
+          "rarity": "R",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP09-090_r1.png",
+          "cardSet": "スタートデッキ 黒 マーシャル・Ｄ・ティーチ【ST-27】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP09-091",
       "name": "Vasco Shot",
+      "names": {
+        "en": "Vasco Shot",
+        "ja": "バスコ・ショット"
+      },
       "category": "Character",
       "cost": 2,
       "power": 2000,
@@ -9201,12 +12188,42 @@
             }
           ],
           "artist": "Aidle Co. Ltd."
+        },
+        {
+          "id": "OP09-091~ja",
+          "language": "ja",
+          "set": "OP09",
+          "rarity": "C",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP09-091.png",
+          "cardSet": "ブースターパック 新たなる皇帝【OP-09】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
+        },
+        {
+          "id": "OP09-091_r1~ja",
+          "language": "ja",
+          "set": "ST27",
+          "rarity": "C",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP09-091_r1.png",
+          "cardSet": "スタートデッキ 黒 マーシャル・Ｄ・ティーチ【ST-27】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP09-092",
       "name": "Marshall.D.Teach",
+      "names": {
+        "en": "Marshall.D.Teach",
+        "ja": "マーシャル・D・ティーチ"
+      },
       "category": "Character",
       "cost": 3,
       "power": 4000,
@@ -9271,12 +12288,29 @@
             }
           ],
           "artist": "Nakamaru"
+        },
+        {
+          "id": "OP09-092~ja",
+          "language": "ja",
+          "set": "OP09",
+          "rarity": "C",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP09-092.png",
+          "cardSet": "ブースターパック 新たなる皇帝【OP-09】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP09-093",
       "name": "Marshall.D.Teach",
+      "names": {
+        "en": "Marshall.D.Teach",
+        "ja": "マーシャル・D・ティーチ"
+      },
       "category": "Character",
       "cost": 10,
       "power": 12000,
@@ -9498,12 +12532,117 @@
               "category": "retail"
             }
           ]
+        },
+        {
+          "id": "OP09-093~ja",
+          "language": "ja",
+          "set": "OP09",
+          "rarity": "SR",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP09-093.png",
+          "cardSet": "ブースターパック 新たなる皇帝【OP-09】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP09-093_p1~ja",
+          "language": "ja",
+          "set": "OP09",
+          "rarity": "SR",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP09-093_p1.png",
+          "cardSet": "ブースターパック 新たなる皇帝【OP-09】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP09-093_p2~ja",
+          "language": "ja",
+          "set": "OP09",
+          "rarity": "SR",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP09-093_p2.png",
+          "cardSet": "ブースターパック 新たなる皇帝【OP-09】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP09-093_p3~ja",
+          "language": "ja",
+          "set": "OP09",
+          "rarity": "SP CARD",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP09-093_p3.png",
+          "cardSet": "ブースターパック 新たなる皇帝【OP-09】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP09-093_p4~ja",
+          "language": "ja",
+          "set": "OP12",
+          "rarity": "SP CARD",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP09-093_p4.png",
+          "cardSet": "師弟の絆【OP-12】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP09-093_p5~ja",
+          "language": "ja",
+          "set": "OP12",
+          "rarity": "SP CARD",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP09-093_p5.png",
+          "cardSet": "師弟の絆【OP-12】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP09-093_p6~ja",
+          "language": "ja",
+          "set": "OTHER",
+          "rarity": "SR",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP09-093_p6.png",
+          "cardSet": "ONE PIECE カードゲーム English 2nd ANNIVERSARY SET",
+          "source": "bandai"
+        },
+        {
+          "id": "OP09-093_r1~ja",
+          "language": "ja",
+          "set": "PRB02",
+          "rarity": "SR",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP09-093_r1.png",
+          "cardSet": "ONE PIECE CARD THE BEST vol.2【PRB-02】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "OP09-094",
       "name": "Peachbeard",
+      "names": {
+        "en": "Peachbeard",
+        "ja": "桃ひげ"
+      },
       "category": "Character",
       "cost": 3,
       "power": 5000,
@@ -9569,12 +12708,29 @@
             }
           ],
           "artist": "nukadokomogera"
+        },
+        {
+          "id": "OP09-094~ja",
+          "language": "ja",
+          "set": "OP09",
+          "rarity": "C",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP09-094.png",
+          "cardSet": "ブースターパック 新たなる皇帝【OP-09】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP09-095",
       "name": "Laffitte",
+      "names": {
+        "en": "Laffitte",
+        "ja": "ラフィット"
+      },
       "category": "Character",
       "cost": 1,
       "power": 1000,
@@ -9672,12 +12828,52 @@
               "category": "retail"
             }
           ]
+        },
+        {
+          "id": "OP09-095~ja",
+          "language": "ja",
+          "set": "OP09",
+          "rarity": "R",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP09-095.png",
+          "cardSet": "ブースターパック 新たなる皇帝【OP-09】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP09-095_p1~ja",
+          "language": "ja",
+          "set": "OTHER",
+          "rarity": "R",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP09-095_p1.png",
+          "cardSet": "プレミアムカードコレクション - ベストセレクション vol.4 -",
+          "source": "bandai"
+        },
+        {
+          "id": "OP09-095_r1~ja",
+          "language": "ja",
+          "set": "ST27",
+          "rarity": "R",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP09-095_r1.png",
+          "cardSet": "スタートデッキ 黒 マーシャル・Ｄ・ティーチ【ST-27】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP09-096",
       "name": "My Era...Begins!!",
+      "names": {
+        "en": "My Era...Begins!!",
+        "ja": "おれの時代だァ!!!!"
+      },
       "category": "Event",
       "cost": 1,
       "colors": [
@@ -9759,12 +12955,55 @@
             "reprint"
           ],
           "artOf": "OP09-096"
+        },
+        {
+          "id": "OP09-096~ja",
+          "language": "ja",
+          "set": "OP09",
+          "rarity": "R",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP09-096.png",
+          "cardSet": "ブースターパック 新たなる皇帝【OP-09】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP09-096_p1~ja",
+          "language": "ja",
+          "set": "PRB02",
+          "rarity": "SP CARD",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP09-096_p1.png",
+          "cardSet": "ONE PIECE CARD THE BEST vol.2【PRB-02】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP09-096_r1~ja",
+          "language": "ja",
+          "set": "PRB02",
+          "rarity": "R",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP09-096_r1.png",
+          "cardSet": "ONE PIECE CARD THE BEST vol.2【PRB-02】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "OP09-097",
       "name": "Black Vortex",
+      "names": {
+        "en": "Black Vortex",
+        "ja": "闇水"
+      },
       "category": "Event",
       "cost": 2,
       "colors": [
@@ -9876,12 +13115,55 @@
               "category": "anniversary"
             }
           ]
+        },
+        {
+          "id": "OP09-097~ja",
+          "language": "ja",
+          "set": "OP09",
+          "rarity": "C",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP09-097.png",
+          "cardSet": "ブースターパック 新たなる皇帝【OP-09】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
+        },
+        {
+          "id": "OP09-097_p1~ja",
+          "language": "ja",
+          "set": "PRB02",
+          "rarity": "C",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP09-097_p1.png",
+          "cardSet": "ONE PIECE CARD THE BEST vol.2【PRB-02】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP09-097_r1~ja",
+          "language": "ja",
+          "set": "PRB02",
+          "rarity": "C",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP09-097_r1.png",
+          "cardSet": "ONE PIECE CARD THE BEST vol.2【PRB-02】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP09-098",
       "name": "Black Hole",
+      "names": {
+        "en": "Black Hole",
+        "ja": "闇穴道"
+      },
       "category": "Event",
       "cost": 4,
       "colors": [
@@ -9993,12 +13275,55 @@
               "category": "anniversary"
             }
           ]
+        },
+        {
+          "id": "OP09-098~ja",
+          "language": "ja",
+          "set": "OP09",
+          "rarity": "UC",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP09-098.png",
+          "cardSet": "ブースターパック 新たなる皇帝【OP-09】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
+        },
+        {
+          "id": "OP09-098_p1~ja",
+          "language": "ja",
+          "set": "PRB02",
+          "rarity": "UC",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP09-098_p1.png",
+          "cardSet": "ONE PIECE CARD THE BEST vol.2【PRB-02】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP09-098_r1~ja",
+          "language": "ja",
+          "set": "PRB02",
+          "rarity": "UC",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP09-098_r1.png",
+          "cardSet": "ONE PIECE CARD THE BEST vol.2【PRB-02】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP09-099",
       "name": "Fullalead",
+      "names": {
+        "en": "Fullalead",
+        "ja": "ハチノス"
+      },
       "category": "Stage",
       "cost": 1,
       "colors": [
@@ -10133,12 +13458,42 @@
               "category": "placement"
             }
           ]
+        },
+        {
+          "id": "OP09-099~ja",
+          "language": "ja",
+          "set": "OP09",
+          "rarity": "C",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP09-099.png",
+          "cardSet": "ブースターパック 新たなる皇帝【OP-09】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
+        },
+        {
+          "id": "OP09-099_r1~ja",
+          "language": "ja",
+          "set": "ST27",
+          "rarity": "C",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP09-099_r1.png",
+          "cardSet": "スタートデッキ 黒 マーシャル・Ｄ・ティーチ【ST-27】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP09-100",
       "name": "Karasu",
+      "names": {
+        "en": "Karasu",
+        "ja": "カラス"
+      },
       "category": "Character",
       "cost": 3,
       "power": 4000,
@@ -10203,12 +13558,29 @@
             }
           ],
           "artist": "shosuke"
+        },
+        {
+          "id": "OP09-100~ja",
+          "language": "ja",
+          "set": "OP09",
+          "rarity": "UC",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP09-100.png",
+          "cardSet": "ブースターパック 新たなる皇帝【OP-09】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP09-101",
       "name": "Kuzan",
+      "names": {
+        "en": "Kuzan",
+        "ja": "クザン"
+      },
       "category": "Character",
       "cost": 4,
       "power": 5000,
@@ -10245,12 +13617,29 @@
             "distance": 6
           },
           "artist": "DAI-XT."
+        },
+        {
+          "id": "OP09-101~ja",
+          "language": "ja",
+          "set": "OP09",
+          "rarity": "R",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP09-101.png",
+          "cardSet": "ブースターパック 新たなる皇帝【OP-09】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "OP09-102",
       "name": "Professor Clover",
+      "names": {
+        "en": "Professor Clover",
+        "ja": "クローバー博士"
+      },
       "category": "Character",
       "cost": 1,
       "counter": 2000,
@@ -10286,12 +13675,29 @@
             "distance": 3
           },
           "artist": "Hayaken-sarena"
+        },
+        {
+          "id": "OP09-102~ja",
+          "language": "ja",
+          "set": "OP09",
+          "rarity": "R",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP09-102.png",
+          "cardSet": "ブースターパック 新たなる皇帝【OP-09】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "OP09-103",
       "name": "Koala",
+      "names": {
+        "en": "Koala",
+        "ja": "コアラ"
+      },
       "category": "Character",
       "cost": 6,
       "power": 6000,
@@ -10353,12 +13759,42 @@
             "parallel"
           ],
           "artist": "DAI-XT."
+        },
+        {
+          "id": "OP09-103~ja",
+          "language": "ja",
+          "set": "OP09",
+          "rarity": "SR",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP09-103.png",
+          "cardSet": "ブースターパック 新たなる皇帝【OP-09】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP09-103_p1~ja",
+          "language": "ja",
+          "set": "OP09",
+          "rarity": "SR",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP09-103_p1.png",
+          "cardSet": "ブースターパック 新たなる皇帝【OP-09】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "OP09-104",
       "name": "Sabo",
+      "names": {
+        "en": "Sabo",
+        "ja": "サボ"
+      },
       "category": "Character",
       "cost": 7,
       "power": 7000,
@@ -10395,12 +13831,29 @@
             "distance": 2
           },
           "artist": "DAI-XT."
+        },
+        {
+          "id": "OP09-104~ja",
+          "language": "ja",
+          "set": "OP09",
+          "rarity": "R",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP09-104.png",
+          "cardSet": "ブースターパック 新たなる皇帝【OP-09】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "OP09-105",
       "name": "Sanji",
+      "names": {
+        "en": "Sanji",
+        "ja": "サンジ"
+      },
       "category": "Character",
       "cost": 5,
       "power": 6000,
@@ -10464,12 +13917,29 @@
               "category": "anniversary"
             }
           ]
+        },
+        {
+          "id": "OP09-105~ja",
+          "language": "ja",
+          "set": "OP09",
+          "rarity": "C",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP09-105.png",
+          "cardSet": "ブースターパック 新たなる皇帝【OP-09】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP09-106",
       "name": "Nico Olvia",
+      "names": {
+        "en": "Nico Olvia",
+        "ja": "ニコ・オルビア"
+      },
       "category": "Character",
       "cost": 1,
       "counter": 2000,
@@ -10619,12 +14089,52 @@
               "category": "anniversary"
             }
           ]
+        },
+        {
+          "id": "OP09-106~ja",
+          "language": "ja",
+          "set": "OP09",
+          "rarity": "C",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP09-106.png",
+          "cardSet": "ブースターパック 新たなる皇帝【OP-09】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
+        },
+        {
+          "id": "OP09-106_p1~ja",
+          "language": "ja",
+          "set": "P",
+          "rarity": "C",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP09-106_p1.png",
+          "cardSet": "始めようキャンペーン プロモーションパック",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
+        },
+        {
+          "id": "OP09-106_p2~ja",
+          "language": "ja",
+          "set": "P",
+          "rarity": "C",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP09-106_p2.png",
+          "cardSet": "始めようキャンペーン プロモーションパック",
+          "source": "bandai"
         }
       ]
     },
     {
       "number": "OP09-107",
       "name": "Nico Robin",
+      "names": {
+        "en": "Nico Robin",
+        "ja": "ニコ・ロビン"
+      },
       "category": "Character",
       "cost": 6,
       "power": 6000,
@@ -10707,12 +14217,42 @@
           "finishes": [
             "nonfoil"
           ]
+        },
+        {
+          "id": "OP09-107~ja",
+          "language": "ja",
+          "set": "OP09",
+          "rarity": "R",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP09-107.png",
+          "cardSet": "ブースターパック 新たなる皇帝【OP-09】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP09-107_p1~ja",
+          "language": "ja",
+          "set": "OP09",
+          "rarity": "R",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP09-107_p1.png",
+          "cardSet": "ブースターパック 新たなる皇帝【OP-09】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "OP09-108",
       "name": "Bartholomew Kuma",
+      "names": {
+        "en": "Bartholomew Kuma",
+        "ja": "バーソロミュー・くま"
+      },
       "category": "Character",
       "cost": 4,
       "power": 5000,
@@ -10866,12 +14406,42 @@
               "category": "event"
             }
           ]
+        },
+        {
+          "id": "OP09-108~ja",
+          "language": "ja",
+          "set": "OP09",
+          "rarity": "UC",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP09-108.png",
+          "cardSet": "ブースターパック 新たなる皇帝【OP-09】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
+        },
+        {
+          "id": "OP09-108_p2~ja",
+          "language": "ja",
+          "set": "P",
+          "rarity": "UC",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP09-108_p2.png",
+          "cardSet": "スタンダードバトルパックVol.12",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "OP09-109",
       "name": "Jaguar.D.Saul",
+      "names": {
+        "en": "Jaguar.D.Saul",
+        "ja": "ハグワール・D・サウロ"
+      },
       "category": "Character",
       "cost": 3,
       "power": 5000,
@@ -10937,12 +14507,29 @@
             }
           ],
           "artist": "Yasushi Yamaguchi"
+        },
+        {
+          "id": "OP09-109~ja",
+          "language": "ja",
+          "set": "OP09",
+          "rarity": "UC",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP09-109.png",
+          "cardSet": "ブースターパック 新たなる皇帝【OP-09】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP09-110",
       "name": "Pierre",
+      "names": {
+        "en": "Pierre",
+        "ja": "ピエール"
+      },
       "category": "Character",
       "cost": 2,
       "power": 2000,
@@ -11008,12 +14595,29 @@
             }
           ],
           "artist": "HISASHI HUJIWARA"
+        },
+        {
+          "id": "OP09-110~ja",
+          "language": "ja",
+          "set": "OP09",
+          "rarity": "C",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP09-110.png",
+          "cardSet": "ブースターパック 新たなる皇帝【OP-09】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP09-111",
       "name": "Brook",
+      "names": {
+        "en": "Brook",
+        "ja": "ブルック"
+      },
       "category": "Character",
       "cost": 5,
       "power": 6000,
@@ -11079,12 +14683,29 @@
             }
           ],
           "artist": "Yasushi Yamaguchi"
+        },
+        {
+          "id": "OP09-111~ja",
+          "language": "ja",
+          "set": "OP09",
+          "rarity": "C",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP09-111.png",
+          "cardSet": "ブースターパック 新たなる皇帝【OP-09】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP09-112",
       "name": "Belo Betty",
+      "names": {
+        "en": "Belo Betty",
+        "ja": "ベロ・ベティ"
+      },
       "category": "Character",
       "cost": 3,
       "power": 4000,
@@ -11149,12 +14770,29 @@
             }
           ],
           "artist": "Hagane Tsurugi"
+        },
+        {
+          "id": "OP09-112~ja",
+          "language": "ja",
+          "set": "OP09",
+          "rarity": "C",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP09-112.png",
+          "cardSet": "ブースターパック 新たなる皇帝【OP-09】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP09-113",
       "name": "Morley",
+      "names": {
+        "en": "Morley",
+        "ja": "モーリー"
+      },
       "category": "Character",
       "cost": 4,
       "power": 6000,
@@ -11220,12 +14858,29 @@
             }
           ],
           "artist": "HISASHI HUJIWARA"
+        },
+        {
+          "id": "OP09-113~ja",
+          "language": "ja",
+          "set": "OP09",
+          "rarity": "C",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP09-113.png",
+          "cardSet": "ブースターパック 新たなる皇帝【OP-09】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP09-114",
       "name": "Lindbergh",
+      "names": {
+        "en": "Lindbergh",
+        "ja": "リンドバーグ"
+      },
       "category": "Character",
       "cost": 3,
       "power": 4000,
@@ -11291,12 +14946,29 @@
             }
           ],
           "artist": "kankurou"
+        },
+        {
+          "id": "OP09-114~ja",
+          "language": "ja",
+          "set": "OP09",
+          "rarity": "C",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP09-114.png",
+          "cardSet": "ブースターパック 新たなる皇帝【OP-09】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP09-115",
       "name": "Ice Block Partisan",
+      "names": {
+        "en": "Ice Block Partisan",
+        "ja": "アイス塊「両棘矛」"
+      },
       "category": "Event",
       "cost": 1,
       "colors": [
@@ -11354,12 +15026,29 @@
               "category": "anniversary"
             }
           ]
+        },
+        {
+          "id": "OP09-115~ja",
+          "language": "ja",
+          "set": "OP09",
+          "rarity": "UC",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP09-115.png",
+          "cardSet": "ブースターパック 新たなる皇帝【OP-09】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP09-116",
       "name": "Never Underestimate the Power of Miracles!!",
+      "names": {
+        "en": "Never Underestimate the Power of Miracles!!",
+        "ja": "”奇跡”ナメんじゃないよォ!!!!"
+      },
       "category": "Event",
       "cost": 1,
       "colors": [
@@ -11417,12 +15106,29 @@
               "category": "anniversary"
             }
           ]
+        },
+        {
+          "id": "OP09-116~ja",
+          "language": "ja",
+          "set": "OP09",
+          "rarity": "C",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP09-116.png",
+          "cardSet": "ブースターパック 新たなる皇帝【OP-09】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP09-117",
       "name": "Dereshi!",
+      "names": {
+        "en": "Dereshi!",
+        "ja": "デレシ!!"
+      },
       "category": "Event",
       "cost": 3,
       "colors": [
@@ -11489,12 +15195,39 @@
               "category": "retail"
             }
           ]
+        },
+        {
+          "id": "OP09-117~ja",
+          "language": "ja",
+          "set": "OP09",
+          "rarity": "R",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP09-117.png",
+          "cardSet": "ブースターパック 新たなる皇帝【OP-09】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP09-117_p1~ja",
+          "language": "ja",
+          "set": "OTHER",
+          "rarity": "R",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP09-117_p1.png",
+          "cardSet": "プレミアムカードコレクション - ベストセレクション vol.4 -",
+          "source": "bandai"
         }
       ]
     },
     {
       "number": "OP09-118",
       "name": "Gol.D.Roger",
+      "names": {
+        "en": "Gol.D.Roger",
+        "ja": "ゴール・D・ロジャー"
+      },
       "category": "Character",
       "cost": 10,
       "power": 13000,
@@ -11607,12 +15340,68 @@
             "sp",
             "wanted_poster"
           ]
+        },
+        {
+          "id": "OP09-118~ja",
+          "language": "ja",
+          "set": "OP09",
+          "rarity": "SEC",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP09-118.png",
+          "cardSet": "ブースターパック 新たなる皇帝【OP-09】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP09-118_p1~ja",
+          "language": "ja",
+          "set": "OP09",
+          "rarity": "SEC",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP09-118_p1.png",
+          "cardSet": "ブースターパック 新たなる皇帝【OP-09】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP09-118_p2~ja",
+          "language": "ja",
+          "set": "OP09",
+          "rarity": "SEC",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP09-118_p2.png",
+          "cardSet": "ブースターパック 新たなる皇帝【OP-09】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP09-118_p3~ja",
+          "language": "ja",
+          "set": "OP13",
+          "rarity": "SP CARD",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP09-118_p3.png",
+          "cardSet": "受け継がれる意志【OP-13】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "OP09-119",
       "name": "Monkey.D.Luffy",
+      "names": {
+        "en": "Monkey.D.Luffy",
+        "ja": "モンキー・D・ルフィ"
+      },
       "category": "Character",
       "cost": 9,
       "power": 10000,
@@ -11758,6 +15547,71 @@
             }
           ],
           "artist": "BISAI"
+        },
+        {
+          "id": "OP09-119~ja",
+          "language": "ja",
+          "set": "OP09",
+          "rarity": "SEC",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP09-119.png",
+          "cardSet": "ブースターパック 新たなる皇帝【OP-09】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP09-119_p1~ja",
+          "language": "ja",
+          "set": "OP09",
+          "rarity": "SEC",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP09-119_p1.png",
+          "cardSet": "ブースターパック 新たなる皇帝【OP-09】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP09-119_p2~ja",
+          "language": "ja",
+          "set": "OP09",
+          "rarity": "SEC",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP09-119_p2.png",
+          "cardSet": "ブースターパック 新たなる皇帝【OP-09】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP09-119_p3~ja",
+          "language": "ja",
+          "set": "OP13",
+          "rarity": "SP CARD",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP09-119_p3.png",
+          "cardSet": "受け継がれる意志【OP-13】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP09-119_p4~ja",
+          "language": "ja",
+          "set": "OTHER",
+          "rarity": "SEC",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP09-119_p4.png",
+          "cardSet": "ONE PIECE カードゲーム 3rd ANNIVERSARY SET",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     }

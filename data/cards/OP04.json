@@ -3,6 +3,10 @@
     {
       "number": "OP04-001",
       "name": "Nefeltari Vivi",
+      "names": {
+        "en": "Nefeltari Vivi",
+        "ja": "ネフェルタリ・ビビ"
+      },
       "category": "Leader",
       "power": 5000,
       "life": 5,
@@ -64,12 +68,42 @@
             "alternate_art"
           ],
           "artist": "phima"
+        },
+        {
+          "id": "OP04-001~ja",
+          "language": "ja",
+          "set": "OP04",
+          "rarity": "L",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP04-001.png",
+          "cardSet": "謀略の王国【OP-04】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
+        },
+        {
+          "id": "OP04-001_p1~ja",
+          "language": "ja",
+          "set": "OP04",
+          "rarity": "L",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP04-001_p1.png",
+          "cardSet": "謀略の王国【OP-04】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "OP04-002",
       "name": "Igaram",
+      "names": {
+        "en": "Igaram",
+        "ja": "イガラム"
+      },
       "category": "Character",
       "cost": 2,
       "power": 3000,
@@ -106,12 +140,29 @@
             "distance": 3
           },
           "artist": "Ryuda"
+        },
+        {
+          "id": "OP04-002~ja",
+          "language": "ja",
+          "set": "OP04",
+          "rarity": "R",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP04-002.png",
+          "cardSet": "謀略の王国【OP-04】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "OP04-003",
       "name": "Usopp",
+      "names": {
+        "en": "Usopp",
+        "ja": "ウソップ"
+      },
       "category": "Character",
       "cost": 4,
       "power": 5000,
@@ -177,12 +228,29 @@
             }
           ],
           "artist": "TAPIOCA"
+        },
+        {
+          "id": "OP04-003~ja",
+          "language": "ja",
+          "set": "OP04",
+          "rarity": "UC",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP04-003.png",
+          "cardSet": "謀略の王国【OP-04】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP04-004",
       "name": "Karoo",
+      "names": {
+        "en": "Karoo",
+        "ja": "カルー"
+      },
       "category": "Character",
       "cost": 1,
       "power": 2000,
@@ -248,12 +316,29 @@
             }
           ],
           "artist": "Suzume Muraichi"
+        },
+        {
+          "id": "OP04-004~ja",
+          "language": "ja",
+          "set": "OP04",
+          "rarity": "C",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP04-004.png",
+          "cardSet": "謀略の王国【OP-04】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP04-005",
       "name": "Kung Fu Jugon",
+      "names": {
+        "en": "Kung Fu Jugon",
+        "ja": "クンフージュゴン"
+      },
       "category": "Character",
       "cost": 1,
       "power": 1000,
@@ -319,12 +404,29 @@
             }
           ],
           "artist": "SOWSOW"
+        },
+        {
+          "id": "OP04-005~ja",
+          "language": "ja",
+          "set": "OP04",
+          "rarity": "C",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP04-005.png",
+          "cardSet": "謀略の王国【OP-04】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP04-006",
       "name": "Koza",
+      "names": {
+        "en": "Koza",
+        "ja": "コーザ"
+      },
       "category": "Character",
       "cost": 3,
       "power": 3000,
@@ -389,12 +491,29 @@
             }
           ],
           "artist": "Minato Sashima"
+        },
+        {
+          "id": "OP04-006~ja",
+          "language": "ja",
+          "set": "OP04",
+          "rarity": "UC",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP04-006.png",
+          "cardSet": "謀略の王国【OP-04】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP04-007",
       "name": "Sanji",
+      "names": {
+        "en": "Sanji",
+        "ja": "サンジ"
+      },
       "category": "Character",
       "cost": 1,
       "power": 3000,
@@ -460,12 +579,29 @@
             }
           ],
           "artist": "otton"
+        },
+        {
+          "id": "OP04-007~ja",
+          "language": "ja",
+          "set": "OP04",
+          "rarity": "C",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP04-007.png",
+          "cardSet": "謀略の王国【OP-04】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP04-008",
       "name": "Chaka",
+      "names": {
+        "en": "Chaka",
+        "ja": "チャカ"
+      },
       "category": "Character",
       "cost": 3,
       "power": 5000,
@@ -501,12 +637,29 @@
             "distance": 3
           },
           "artist": "KISUKE"
+        },
+        {
+          "id": "OP04-008~ja",
+          "language": "ja",
+          "set": "OP04",
+          "rarity": "R",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP04-008.png",
+          "cardSet": "謀略の王国【OP-04】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "OP04-009",
       "name": "Super Spot-Billed Duck Troops",
+      "names": {
+        "en": "Super Spot-Billed Duck Troops",
+        "ja": "超カルガモ部隊"
+      },
       "category": "Character",
       "cost": 2,
       "power": 3000,
@@ -572,12 +725,29 @@
             }
           ],
           "artist": "UGUME"
+        },
+        {
+          "id": "OP04-009~ja",
+          "language": "ja",
+          "set": "OP04",
+          "rarity": "UC",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP04-009.png",
+          "cardSet": "謀略の王国【OP-04】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP04-010",
       "name": "Tony Tony.Chopper",
+      "names": {
+        "en": "Tony Tony.Chopper",
+        "ja": "トニートニー・チョッパー"
+      },
       "category": "Character",
       "cost": 3,
       "power": 4000,
@@ -732,12 +902,42 @@
               "category": "placement"
             }
           ]
+        },
+        {
+          "id": "OP04-010~ja",
+          "language": "ja",
+          "set": "OP04",
+          "rarity": "C",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP04-010.png",
+          "cardSet": "謀略の王国【OP-04】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
+        },
+        {
+          "id": "OP04-010_p1~ja",
+          "language": "ja",
+          "set": "P",
+          "rarity": "C",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP04-010_p1.png",
+          "cardSet": "スタンダードバトルパックVol.8",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP04-011",
       "name": "Nami",
+      "names": {
+        "en": "Nami",
+        "ja": "ナミ"
+      },
       "category": "Character",
       "cost": 2,
       "power": 3000,
@@ -803,12 +1003,29 @@
             }
           ],
           "artist": "NIJIMAARC"
+        },
+        {
+          "id": "OP04-011~ja",
+          "language": "ja",
+          "set": "OP04",
+          "rarity": "C",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP04-011.png",
+          "cardSet": "謀略の王国【OP-04】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP04-012",
       "name": "Nefeltari Cobra",
+      "names": {
+        "en": "Nefeltari Cobra",
+        "ja": "ネフェルタリ・コブラ"
+      },
       "category": "Character",
       "cost": 2,
       "counter": 1000,
@@ -872,12 +1089,29 @@
             }
           ],
           "artist": "Anderson"
+        },
+        {
+          "id": "OP04-012~ja",
+          "language": "ja",
+          "set": "OP04",
+          "rarity": "C",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP04-012.png",
+          "cardSet": "謀略の王国【OP-04】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP04-013",
       "name": "Pell",
+      "names": {
+        "en": "Pell",
+        "ja": "ペル"
+      },
       "category": "Character",
       "cost": 5,
       "power": 6000,
@@ -939,12 +1173,42 @@
             "alternate_art"
           ],
           "artist": "Denim2"
+        },
+        {
+          "id": "OP04-013~ja",
+          "language": "ja",
+          "set": "OP04",
+          "rarity": "SR",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP04-013.png",
+          "cardSet": "謀略の王国【OP-04】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP04-013_p1~ja",
+          "language": "ja",
+          "set": "OP04",
+          "rarity": "SR",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP04-013_p1.png",
+          "cardSet": "謀略の王国【OP-04】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "OP04-014",
       "name": "Monkey.D.Luffy",
+      "names": {
+        "en": "Monkey.D.Luffy",
+        "ja": "モンキー・D・ルフィ"
+      },
       "category": "Character",
       "cost": 8,
       "power": 9000,
@@ -1009,12 +1273,29 @@
             }
           ],
           "artist": "Makitoshi"
+        },
+        {
+          "id": "OP04-014~ja",
+          "language": "ja",
+          "set": "OP04",
+          "rarity": "UC",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP04-014.png",
+          "cardSet": "謀略の王国【OP-04】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP04-015",
       "name": "Roronoa Zoro",
+      "names": {
+        "en": "Roronoa Zoro",
+        "ja": "ロロノア・ゾロ"
+      },
       "category": "Character",
       "cost": 5,
       "power": 6000,
@@ -1052,12 +1333,29 @@
             "distance": 2
           },
           "artist": "AKIRA EGAWA"
+        },
+        {
+          "id": "OP04-015~ja",
+          "language": "ja",
+          "set": "OP04",
+          "rarity": "R",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP04-015.png",
+          "cardSet": "謀略の王国【OP-04】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "OP04-016",
       "name": "Bad Manners Kick Course",
+      "names": {
+        "en": "Bad Manners Kick Course",
+        "ja": "反行儀キックコース"
+      },
       "category": "Event",
       "colors": [
         "Red"
@@ -1162,12 +1460,78 @@
             "reprint"
           ],
           "artOf": "OP04-016"
+        },
+        {
+          "id": "OP04-016~ja",
+          "language": "ja",
+          "set": "OP04",
+          "rarity": "R",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP04-016.png",
+          "cardSet": "謀略の王国【OP-04】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP04-016_p1~ja",
+          "language": "ja",
+          "set": "PRB02",
+          "rarity": "R",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP04-016_p1.png",
+          "cardSet": "ONE PIECE CARD THE BEST vol.2【PRB-02】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP04-016_p2~ja",
+          "language": "ja",
+          "set": "P",
+          "rarity": "R",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP04-016_p2.png",
+          "cardSet": "プロモーションカードセット2026",
+          "source": "bandai"
+        },
+        {
+          "id": "OP04-016_p3~ja",
+          "language": "ja",
+          "set": "ST31",
+          "rarity": "R",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP04-016_p3.png",
+          "cardSet": "スタートデッキ 赤 モンキー・D・ルフィ【ST-31】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
+        },
+        {
+          "id": "OP04-016_r1~ja",
+          "language": "ja",
+          "set": "PRB02",
+          "rarity": "R",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP04-016_r1.png",
+          "cardSet": "ONE PIECE CARD THE BEST vol.2【PRB-02】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "OP04-017",
       "name": "Happiness Punch",
+      "names": {
+        "en": "Happiness Punch",
+        "ja": "幸せパンチ"
+      },
       "category": "Event",
       "cost": 1,
       "colors": [
@@ -1226,12 +1590,29 @@
               "category": "event"
             }
           ]
+        },
+        {
+          "id": "OP04-017~ja",
+          "language": "ja",
+          "set": "OP04",
+          "rarity": "C",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP04-017.png",
+          "cardSet": "謀略の王国【OP-04】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP04-018",
       "name": "Enchanting Vertigo Dance",
+      "names": {
+        "en": "Enchanting Vertigo Dance",
+        "ja": "魅惑のメマーイダンス"
+      },
       "category": "Event",
       "cost": 3,
       "colors": [
@@ -1289,12 +1670,29 @@
               "category": "event"
             }
           ]
+        },
+        {
+          "id": "OP04-018~ja",
+          "language": "ja",
+          "set": "OP04",
+          "rarity": "UC",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP04-018.png",
+          "cardSet": "謀略の王国【OP-04】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP04-019",
       "name": "Donquixote Doflamingo",
+      "names": {
+        "en": "Donquixote Doflamingo",
+        "ja": "ドンキホーテ・ドフラミンゴ"
+      },
       "category": "Leader",
       "power": 5000,
       "life": 4,
@@ -1357,12 +1755,42 @@
             "alternate_art"
           ],
           "artist": "Studio Vigor Co. Ltd"
+        },
+        {
+          "id": "OP04-019~ja",
+          "language": "ja",
+          "set": "OP04",
+          "rarity": "L",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP04-019.png",
+          "cardSet": "謀略の王国【OP-04】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
+        },
+        {
+          "id": "OP04-019_p1~ja",
+          "language": "ja",
+          "set": "OP04",
+          "rarity": "L",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP04-019_p1.png",
+          "cardSet": "謀略の王国【OP-04】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "OP04-020",
       "name": "Issho",
+      "names": {
+        "en": "Issho",
+        "ja": "イッショウ"
+      },
       "category": "Leader",
       "power": 5000,
       "life": 4,
@@ -1424,12 +1852,42 @@
             "alternate_art"
           ],
           "artist": "Anderson"
+        },
+        {
+          "id": "OP04-020~ja",
+          "language": "ja",
+          "set": "OP04",
+          "rarity": "L",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP04-020.png",
+          "cardSet": "謀略の王国【OP-04】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
+        },
+        {
+          "id": "OP04-020_p1~ja",
+          "language": "ja",
+          "set": "OP04",
+          "rarity": "L",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP04-020_p1.png",
+          "cardSet": "謀略の王国【OP-04】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "OP04-021",
       "name": "Viola",
+      "names": {
+        "en": "Viola",
+        "ja": "ヴィオラ"
+      },
       "category": "Character",
       "cost": 3,
       "power": 3000,
@@ -1520,12 +1978,29 @@
               "category": "program"
             }
           ]
+        },
+        {
+          "id": "OP04-021~ja",
+          "language": "ja",
+          "set": "OP04",
+          "rarity": "C",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP04-021.png",
+          "cardSet": "謀略の王国【OP-04】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP04-022",
       "name": "Eric",
+      "names": {
+        "en": "Eric",
+        "ja": "エリック"
+      },
       "category": "Character",
       "cost": 1,
       "power": 2000,
@@ -1588,12 +2063,29 @@
               "category": "event"
             }
           ]
+        },
+        {
+          "id": "OP04-022~ja",
+          "language": "ja",
+          "set": "OP04",
+          "rarity": "UC",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP04-022.png",
+          "cardSet": "謀略の王国【OP-04】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP04-023",
       "name": "Kuro",
+      "names": {
+        "en": "Kuro",
+        "ja": "クロ"
+      },
       "category": "Character",
       "cost": 6,
       "power": 8000,
@@ -1659,12 +2151,29 @@
             }
           ],
           "artist": "Kaito Shibano"
+        },
+        {
+          "id": "OP04-023~ja",
+          "language": "ja",
+          "set": "OP04",
+          "rarity": "C",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP04-023.png",
+          "cardSet": "謀略の王国【OP-04】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP04-024",
       "name": "Sugar",
+      "names": {
+        "en": "Sugar",
+        "ja": "シュガー"
+      },
       "category": "Character",
       "cost": 2,
       "counter": 1000,
@@ -1752,12 +2261,55 @@
             "sp"
           ],
           "artist": "SOWSOW"
+        },
+        {
+          "id": "OP04-024~ja",
+          "language": "ja",
+          "set": "OP04",
+          "rarity": "SR",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP04-024.png",
+          "cardSet": "謀略の王国【OP-04】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP04-024_p1~ja",
+          "language": "ja",
+          "set": "OP04",
+          "rarity": "SR",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP04-024_p1.png",
+          "cardSet": "謀略の王国【OP-04】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP04-024_p2~ja",
+          "language": "ja",
+          "set": "OP06",
+          "rarity": "SP CARD",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP04-024_p2.png",
+          "cardSet": "双璧の覇者【OP-06】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "OP04-025",
       "name": "Giolla",
+      "names": {
+        "en": "Giolla",
+        "ja": "ジョーラ"
+      },
       "category": "Character",
       "cost": 4,
       "power": 4000,
@@ -1822,12 +2374,29 @@
             }
           ],
           "artist": "HISASHI HUJIWARA"
+        },
+        {
+          "id": "OP04-025~ja",
+          "language": "ja",
+          "set": "OP04",
+          "rarity": "C",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP04-025.png",
+          "cardSet": "謀略の王国【OP-04】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP04-026",
       "name": "Senor Pink",
+      "names": {
+        "en": "Senor Pink",
+        "ja": "セニョール・ピンク"
+      },
       "category": "Character",
       "cost": 3,
       "power": 5000,
@@ -1863,12 +2432,29 @@
             "distance": 0
           },
           "artist": "Hayaken-sarena"
+        },
+        {
+          "id": "OP04-026~ja",
+          "language": "ja",
+          "set": "OP04",
+          "rarity": "R",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP04-026.png",
+          "cardSet": "謀略の王国【OP-04】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "OP04-027",
       "name": "Daddy Masterson",
+      "names": {
+        "en": "Daddy Masterson",
+        "ja": "ダディ・マスターソン"
+      },
       "category": "Character",
       "cost": 4,
       "power": 5000,
@@ -1931,12 +2517,29 @@
               "category": "event"
             }
           ]
+        },
+        {
+          "id": "OP04-027~ja",
+          "language": "ja",
+          "set": "OP04",
+          "rarity": "C",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP04-027.png",
+          "cardSet": "謀略の王国【OP-04】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP04-028",
       "name": "Diamante",
+      "names": {
+        "en": "Diamante",
+        "ja": "ディアマンテ"
+      },
       "category": "Character",
       "cost": 5,
       "power": 6000,
@@ -1999,12 +2602,42 @@
             "alternate_art"
           ],
           "artist": "BISAI"
+        },
+        {
+          "id": "OP04-028~ja",
+          "language": "ja",
+          "set": "OP04",
+          "rarity": "R",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP04-028.png",
+          "cardSet": "謀略の王国【OP-04】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP04-028_p1~ja",
+          "language": "ja",
+          "set": "OP04",
+          "rarity": "R",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP04-028_p1.png",
+          "cardSet": "謀略の王国【OP-04】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "OP04-029",
       "name": "Dellinger",
+      "names": {
+        "en": "Dellinger",
+        "ja": "デリンジャー"
+      },
       "category": "Character",
       "cost": 3,
       "power": 4000,
@@ -2150,12 +2783,65 @@
             }
           ],
           "artist": "Yuu Shimotsuki"
+        },
+        {
+          "id": "OP04-029~ja",
+          "language": "ja",
+          "set": "OP04",
+          "rarity": "C",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP04-029.png",
+          "cardSet": "謀略の王国【OP-04】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
+        },
+        {
+          "id": "OP04-029_p1~ja",
+          "language": "ja",
+          "set": "PRB01",
+          "rarity": "C",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP04-029_p1.png",
+          "cardSet": "ONE PIECE CARD THE BEST【PRB-01】",
+          "source": "bandai"
+        },
+        {
+          "id": "OP04-029_p2~ja",
+          "language": "ja",
+          "set": "PRB01",
+          "rarity": "C",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP04-029_p2.png",
+          "cardSet": "ONE PIECE CARD THE BEST【PRB-01】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP04-029_r1~ja",
+          "language": "ja",
+          "set": "PRB01",
+          "rarity": "C",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP04-029_r1.png",
+          "cardSet": "ONE PIECE CARD THE BEST【PRB-01】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP04-030",
       "name": "Trebol",
+      "names": {
+        "en": "Trebol",
+        "ja": "トレーボル"
+      },
       "category": "Character",
       "cost": 6,
       "power": 6000,
@@ -2217,12 +2903,42 @@
             "alternate_art"
           ],
           "artist": "HISASHI HUJIWARA"
+        },
+        {
+          "id": "OP04-030~ja",
+          "language": "ja",
+          "set": "OP04",
+          "rarity": "R",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP04-030.png",
+          "cardSet": "謀略の王国【OP-04】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP04-030_p1~ja",
+          "language": "ja",
+          "set": "OP04",
+          "rarity": "R",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP04-030_p1.png",
+          "cardSet": "謀略の王国【OP-04】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "OP04-031",
       "name": "Donquixote Doflamingo",
+      "names": {
+        "en": "Donquixote Doflamingo",
+        "ja": "ドンキホーテ・ドフラミンゴ"
+      },
       "category": "Character",
       "cost": 10,
       "power": 10000,
@@ -2337,12 +3053,65 @@
           ],
           "artOf": "OP04-031",
           "artist": "DAI-XT."
+        },
+        {
+          "id": "OP04-031~ja",
+          "language": "ja",
+          "set": "OP04",
+          "rarity": "SR",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP04-031.png",
+          "cardSet": "謀略の王国【OP-04】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP04-031_p1~ja",
+          "language": "ja",
+          "set": "OP04",
+          "rarity": "SR",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP04-031_p1.png",
+          "cardSet": "謀略の王国【OP-04】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP04-031_p2~ja",
+          "language": "ja",
+          "set": "PRB01",
+          "rarity": "SR",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP04-031_p2.png",
+          "cardSet": "ONE PIECE CARD THE BEST【PRB-01】",
+          "source": "bandai"
+        },
+        {
+          "id": "OP04-031_r1~ja",
+          "language": "ja",
+          "set": "PRB01",
+          "rarity": "SR",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP04-031_r1.png",
+          "cardSet": "ONE PIECE CARD THE BEST【PRB-01】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "OP04-032",
       "name": "Baby 5",
+      "names": {
+        "en": "Baby 5",
+        "ja": "ベビー5"
+      },
       "category": "Character",
       "cost": 1,
       "power": 1000,
@@ -2518,12 +3287,75 @@
             }
           ],
           "artist": "Akira Kano"
+        },
+        {
+          "id": "OP04-032~ja",
+          "language": "ja",
+          "set": "OP04",
+          "rarity": "UC",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP04-032.png",
+          "cardSet": "謀略の王国【OP-04】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
+        },
+        {
+          "id": "OP04-032_p1~ja",
+          "language": "ja",
+          "set": "PRB01",
+          "rarity": "UC",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP04-032_p1.png",
+          "cardSet": "ONE PIECE CARD THE BEST【PRB-01】",
+          "source": "bandai"
+        },
+        {
+          "id": "OP04-032_p2~ja",
+          "language": "ja",
+          "set": "PRB01",
+          "rarity": "UC",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP04-032_p2.png",
+          "cardSet": "ONE PIECE CARD THE BEST【PRB-01】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP04-032_p3~ja",
+          "language": "ja",
+          "set": "OTHER",
+          "rarity": "UC",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP04-032_p3.png",
+          "cardSet": "プレミアムカードコレクション-ベストセレクションvol.3-",
+          "source": "bandai"
+        },
+        {
+          "id": "OP04-032_r1~ja",
+          "language": "ja",
+          "set": "PRB01",
+          "rarity": "UC",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP04-032_r1.png",
+          "cardSet": "ONE PIECE CARD THE BEST【PRB-01】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP04-033",
       "name": "Machvise",
+      "names": {
+        "en": "Machvise",
+        "ja": "マッハバイス"
+      },
       "category": "Character",
       "cost": 4,
       "power": 5000,
@@ -2588,12 +3420,29 @@
             }
           ],
           "artist": "HISASHI HUJIWARA"
+        },
+        {
+          "id": "OP04-033~ja",
+          "language": "ja",
+          "set": "OP04",
+          "rarity": "UC",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP04-033.png",
+          "cardSet": "謀略の王国【OP-04】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP04-034",
       "name": "Lao.G",
+      "names": {
+        "en": "Lao.G",
+        "ja": "ラオG"
+      },
       "category": "Character",
       "cost": 4,
       "power": 5000,
@@ -2658,12 +3507,29 @@
             }
           ],
           "artist": "touge369"
+        },
+        {
+          "id": "OP04-034~ja",
+          "language": "ja",
+          "set": "OP04",
+          "rarity": "UC",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP04-034.png",
+          "cardSet": "謀略の王国【OP-04】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP04-035",
       "name": "Spiderweb",
+      "names": {
+        "en": "Spiderweb",
+        "ja": "蜘蛛の巣がき"
+      },
       "category": "Event",
       "cost": 2,
       "colors": [
@@ -2721,12 +3587,29 @@
               "category": "program"
             }
           ]
+        },
+        {
+          "id": "OP04-035~ja",
+          "language": "ja",
+          "set": "OP04",
+          "rarity": "R",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP04-035.png",
+          "cardSet": "謀略の王国【OP-04】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "OP04-036",
       "name": "Donquixote Family",
+      "names": {
+        "en": "Donquixote Family",
+        "ja": "ドンキホーテファミリー"
+      },
       "category": "Event",
       "cost": 1,
       "colors": [
@@ -2855,12 +3738,65 @@
               "category": "event"
             }
           ]
+        },
+        {
+          "id": "OP04-036~ja",
+          "language": "ja",
+          "set": "OP04",
+          "rarity": "C",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP04-036.png",
+          "cardSet": "謀略の王国【OP-04】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
+        },
+        {
+          "id": "OP04-036_p1~ja",
+          "language": "ja",
+          "set": "PRB01",
+          "rarity": "C",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP04-036_p1.png",
+          "cardSet": "ONE PIECE CARD THE BEST【PRB-01】",
+          "source": "bandai"
+        },
+        {
+          "id": "OP04-036_p2~ja",
+          "language": "ja",
+          "set": "PRB01",
+          "rarity": "C",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP04-036_p2.png",
+          "cardSet": "ONE PIECE CARD THE BEST【PRB-01】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP04-036_r1~ja",
+          "language": "ja",
+          "set": "PRB01",
+          "rarity": "C",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP04-036_r1.png",
+          "cardSet": "ONE PIECE CARD THE BEST【PRB-01】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP04-037",
       "name": "Flapping Thread",
+      "names": {
+        "en": "Flapping Thread",
+        "ja": "羽撃糸"
+      },
       "category": "Event",
       "cost": 2,
       "colors": [
@@ -2919,12 +3855,29 @@
               "category": "event"
             }
           ]
+        },
+        {
+          "id": "OP04-037~ja",
+          "language": "ja",
+          "set": "OP04",
+          "rarity": "UC",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP04-037.png",
+          "cardSet": "謀略の王国【OP-04】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP04-038",
       "name": "The Weak Do Not Have the Right to Choose How They Die!!!",
+      "names": {
+        "en": "The Weak Do Not Have the Right to Choose How They Die!!!",
+        "ja": "弱ェ奴は死に方も選べねェ!!!"
+      },
       "category": "Event",
       "cost": 5,
       "colors": [
@@ -2983,12 +3936,29 @@
               "category": "event"
             }
           ]
+        },
+        {
+          "id": "OP04-038~ja",
+          "language": "ja",
+          "set": "OP04",
+          "rarity": "C",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP04-038.png",
+          "cardSet": "謀略の王国【OP-04】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP04-039",
       "name": "Rebecca",
+      "names": {
+        "en": "Rebecca",
+        "ja": "レベッカ"
+      },
       "category": "Leader",
       "power": 5000,
       "life": 5,
@@ -3050,12 +4020,42 @@
             "alternate_art"
           ],
           "artist": "Studio Vigor Co. Ltd"
+        },
+        {
+          "id": "OP04-039~ja",
+          "language": "ja",
+          "set": "OP04",
+          "rarity": "L",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP04-039.png",
+          "cardSet": "謀略の王国【OP-04】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
+        },
+        {
+          "id": "OP04-039_p1~ja",
+          "language": "ja",
+          "set": "OP04",
+          "rarity": "L",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP04-039_p1.png",
+          "cardSet": "謀略の王国【OP-04】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "OP04-040",
       "name": "Queen",
+      "names": {
+        "en": "Queen",
+        "ja": "クイーン"
+      },
       "category": "Leader",
       "power": 5000,
       "life": 4,
@@ -3117,12 +4117,42 @@
             "alternate_art"
           ],
           "artist": "Studio Vigor Co. Ltd"
+        },
+        {
+          "id": "OP04-040~ja",
+          "language": "ja",
+          "set": "OP04",
+          "rarity": "L",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP04-040.png",
+          "cardSet": "謀略の王国【OP-04】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
+        },
+        {
+          "id": "OP04-040_p1~ja",
+          "language": "ja",
+          "set": "OP04",
+          "rarity": "L",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP04-040_p1.png",
+          "cardSet": "謀略の王国【OP-04】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "OP04-041",
       "name": "Apis",
+      "names": {
+        "en": "Apis",
+        "ja": "アピス"
+      },
       "category": "Character",
       "cost": 1,
       "counter": 2000,
@@ -3184,12 +4214,29 @@
               "category": "event"
             }
           ]
+        },
+        {
+          "id": "OP04-041~ja",
+          "language": "ja",
+          "set": "OP04",
+          "rarity": "C",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP04-041.png",
+          "cardSet": "謀略の王国【OP-04】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP04-042",
       "name": "Ipponmatsu",
+      "names": {
+        "en": "Ipponmatsu",
+        "ja": "いっぽんマツ"
+      },
       "category": "Character",
       "cost": 2,
       "power": 1000,
@@ -3254,12 +4301,29 @@
             }
           ],
           "artist": "Moopic"
+        },
+        {
+          "id": "OP04-042~ja",
+          "language": "ja",
+          "set": "OP04",
+          "rarity": "C",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP04-042.png",
+          "cardSet": "謀略の王国【OP-04】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP04-043",
       "name": "Ulti",
+      "names": {
+        "en": "Ulti",
+        "ja": "うるティ"
+      },
       "category": "Character",
       "cost": 3,
       "power": 4000,
@@ -3322,12 +4386,29 @@
               "category": "program"
             }
           ]
+        },
+        {
+          "id": "OP04-043~ja",
+          "language": "ja",
+          "set": "OP04",
+          "rarity": "R",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP04-043.png",
+          "cardSet": "謀略の王国【OP-04】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "OP04-044",
       "name": "Kaido",
+      "names": {
+        "en": "Kaido",
+        "ja": "カイドウ"
+      },
       "category": "Character",
       "cost": 10,
       "power": 12000,
@@ -3468,12 +4549,78 @@
           ],
           "artOf": "OP04-044",
           "artist": "Mitsuaki Matsumoto"
+        },
+        {
+          "id": "OP04-044~ja",
+          "language": "ja",
+          "set": "OP04",
+          "rarity": "SR",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP04-044.png",
+          "cardSet": "謀略の王国【OP-04】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP04-044_p1~ja",
+          "language": "ja",
+          "set": "OP04",
+          "rarity": "SR",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP04-044_p1.png",
+          "cardSet": "謀略の王国【OP-04】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP04-044_p2~ja",
+          "language": "ja",
+          "set": "OP05",
+          "rarity": "SP CARD",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP04-044_p2.png",
+          "cardSet": "新時代の主役【OP-05】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP04-044_p3~ja",
+          "language": "ja",
+          "set": "PRB01",
+          "rarity": "SR",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP04-044_p3.png",
+          "cardSet": "ONE PIECE CARD THE BEST【PRB-01】",
+          "source": "bandai"
+        },
+        {
+          "id": "OP04-044_r1~ja",
+          "language": "ja",
+          "set": "PRB01",
+          "rarity": "SR",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP04-044_r1.png",
+          "cardSet": "ONE PIECE CARD THE BEST【PRB-01】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "OP04-045",
       "name": "King",
+      "names": {
+        "en": "King",
+        "ja": "キング"
+      },
       "category": "Character",
       "cost": 7,
       "power": 8000,
@@ -3510,12 +4657,29 @@
             "distance": 3
           },
           "artist": "Amano Yoichi"
+        },
+        {
+          "id": "OP04-045~ja",
+          "language": "ja",
+          "set": "OP04",
+          "rarity": "R",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP04-045.png",
+          "cardSet": "謀略の王国【OP-04】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "OP04-046",
       "name": "Queen",
+      "names": {
+        "en": "Queen",
+        "ja": "クイーン"
+      },
       "category": "Character",
       "cost": 4,
       "power": 5000,
@@ -3580,12 +4744,29 @@
             }
           ],
           "artist": "Studio Vigor Co. Ltd"
+        },
+        {
+          "id": "OP04-046~ja",
+          "language": "ja",
+          "set": "OP04",
+          "rarity": "UC",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP04-046.png",
+          "cardSet": "謀略の王国【OP-04】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP04-047",
       "name": "Ice Oni",
+      "names": {
+        "en": "Ice Oni",
+        "ja": "氷鬼"
+      },
       "category": "Character",
       "cost": 8,
       "counter": 1000,
@@ -3650,12 +4831,29 @@
             }
           ],
           "artist": "COGA"
+        },
+        {
+          "id": "OP04-047~ja",
+          "language": "ja",
+          "set": "OP04",
+          "rarity": "C",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP04-047.png",
+          "cardSet": "謀略の王国【OP-04】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP04-048",
       "name": "Sasaki",
+      "names": {
+        "en": "Sasaki",
+        "ja": "ササキ"
+      },
       "category": "Character",
       "cost": 3,
       "power": 4000,
@@ -3720,12 +4918,29 @@
             }
           ],
           "artist": "Mitsuaki Matsumoto"
+        },
+        {
+          "id": "OP04-048~ja",
+          "language": "ja",
+          "set": "OP04",
+          "rarity": "UC",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP04-048.png",
+          "cardSet": "謀略の王国【OP-04】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP04-049",
       "name": "Jack",
+      "names": {
+        "en": "Jack",
+        "ja": "ジャック"
+      },
       "category": "Character",
       "cost": 2,
       "power": 3000,
@@ -3790,12 +5005,29 @@
             }
           ],
           "artist": "S-KINOKO"
+        },
+        {
+          "id": "OP04-049~ja",
+          "language": "ja",
+          "set": "OP04",
+          "rarity": "UC",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP04-049.png",
+          "cardSet": "謀略の王国【OP-04】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP04-050",
       "name": "Hanger",
+      "names": {
+        "en": "Hanger",
+        "ja": "ハンガーさん"
+      },
       "category": "Character",
       "cost": 2,
       "counter": 1000,
@@ -3859,12 +5091,29 @@
             }
           ],
           "artist": "COGA"
+        },
+        {
+          "id": "OP04-050~ja",
+          "language": "ja",
+          "set": "OP04",
+          "rarity": "C",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP04-050.png",
+          "cardSet": "謀略の王国【OP-04】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP04-051",
       "name": "Who's.Who",
+      "names": {
+        "en": "Who's.Who",
+        "ja": "フーズ・フー"
+      },
       "category": "Character",
       "cost": 1,
       "power": 2000,
@@ -3927,12 +5176,42 @@
             "alternate_art"
           ],
           "artist": "nukadokomogera"
+        },
+        {
+          "id": "OP04-051~ja",
+          "language": "ja",
+          "set": "OP04",
+          "rarity": "R",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP04-051.png",
+          "cardSet": "謀略の王国【OP-04】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP04-051_p1~ja",
+          "language": "ja",
+          "set": "OP04",
+          "rarity": "R",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP04-051_p1.png",
+          "cardSet": "謀略の王国【OP-04】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "OP04-052",
       "name": "Black Maria",
+      "names": {
+        "en": "Black Maria",
+        "ja": "ブラックマリア"
+      },
       "category": "Character",
       "cost": 3,
       "power": 3000,
@@ -3997,12 +5276,29 @@
             }
           ],
           "artist": "Tanaka Kenichi"
+        },
+        {
+          "id": "OP04-052~ja",
+          "language": "ja",
+          "set": "OP04",
+          "rarity": "C",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP04-052.png",
+          "cardSet": "謀略の王国【OP-04】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP04-053",
       "name": "Page One",
+      "names": {
+        "en": "Page One",
+        "ja": "ページワン"
+      },
       "category": "Character",
       "cost": 4,
       "power": 6000,
@@ -4066,12 +5362,29 @@
             }
           ],
           "artist": "ASAKI KURODA"
+        },
+        {
+          "id": "OP04-053~ja",
+          "language": "ja",
+          "set": "OP04",
+          "rarity": "UC",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP04-053.png",
+          "cardSet": "謀略の王国【OP-04】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP04-054",
       "name": "Rokki",
+      "names": {
+        "en": "Rokki",
+        "ja": "六鬼"
+      },
       "category": "Character",
       "cost": 5,
       "power": 7000,
@@ -4137,12 +5450,29 @@
             }
           ],
           "artist": "nukadokomogera"
+        },
+        {
+          "id": "OP04-054~ja",
+          "language": "ja",
+          "set": "OP04",
+          "rarity": "C",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP04-054.png",
+          "cardSet": "謀略の王国【OP-04】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP04-055",
       "name": "Plague Rounds",
+      "names": {
+        "en": "Plague Rounds",
+        "ja": "疫災弾"
+      },
       "category": "Event",
       "cost": 2,
       "colors": [
@@ -4200,12 +5530,29 @@
               "category": "event"
             }
           ]
+        },
+        {
+          "id": "OP04-055~ja",
+          "language": "ja",
+          "set": "OP04",
+          "rarity": "C",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP04-055.png",
+          "cardSet": "謀略の王国【OP-04】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP04-056",
       "name": "Gum-Gum Red Roc",
+      "names": {
+        "en": "Gum-Gum Red Roc",
+        "ja": "ゴムゴムの業火拳銃"
+      },
       "category": "Event",
       "cost": 6,
       "colors": [
@@ -4329,12 +5676,75 @@
           "cardSet": "-ONE PIECE CARD THE BEST- [PRB-01]",
           "source": "bandai",
           "artOf": "OP04-056"
+        },
+        {
+          "id": "OP04-056~ja",
+          "language": "ja",
+          "set": "OP04",
+          "rarity": "R",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP04-056.png",
+          "cardSet": "謀略の王国【OP-04】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP04-056_p1~ja",
+          "language": "ja",
+          "set": "PRB01",
+          "rarity": "R",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP04-056_p1.png",
+          "cardSet": "ONE PIECE CARD THE BEST【PRB-01】",
+          "source": "bandai"
+        },
+        {
+          "id": "OP04-056_p2~ja",
+          "language": "ja",
+          "set": "PRB01",
+          "rarity": "R",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP04-056_p2.png",
+          "cardSet": "ONE PIECE CARD THE BEST【PRB-01】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP04-056_p3~ja",
+          "language": "ja",
+          "set": "PRB01",
+          "rarity": "R",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP04-056_p3.png",
+          "cardSet": "ONE PIECE CARD THE BEST【PRB-01】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP04-056_r1~ja",
+          "language": "ja",
+          "set": "PRB01",
+          "rarity": "R",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP04-056_r1.png",
+          "cardSet": "ONE PIECE CARD THE BEST【PRB-01】",
+          "source": "bandai"
         }
       ]
     },
     {
       "number": "OP04-057",
       "name": "Dragon Twister Demolition Breath",
+      "names": {
+        "en": "Dragon Twister Demolition Breath",
+        "ja": "龍巻壊風"
+      },
       "category": "Event",
       "cost": 2,
       "colors": [
@@ -4393,12 +5803,29 @@
               "category": "event"
             }
           ]
+        },
+        {
+          "id": "OP04-057~ja",
+          "language": "ja",
+          "set": "OP04",
+          "rarity": "UC",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP04-057.png",
+          "cardSet": "謀略の王国【OP-04】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP04-058",
       "name": "Crocodile",
+      "names": {
+        "en": "Crocodile",
+        "ja": "クロコダイル"
+      },
       "category": "Leader",
       "power": 5000,
       "life": 4,
@@ -4461,12 +5888,42 @@
             "alternate_art"
           ],
           "artist": "tasaka"
+        },
+        {
+          "id": "OP04-058~ja",
+          "language": "ja",
+          "set": "OP04",
+          "rarity": "L",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP04-058.png",
+          "cardSet": "謀略の王国【OP-04】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
+        },
+        {
+          "id": "OP04-058_p1~ja",
+          "language": "ja",
+          "set": "OP04",
+          "rarity": "L",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP04-058_p1.png",
+          "cardSet": "謀略の王国【OP-04】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "OP04-059",
       "name": "Iceburg",
+      "names": {
+        "en": "Iceburg",
+        "ja": "アイスバーグ"
+      },
       "category": "Character",
       "cost": 1,
       "counter": 1000,
@@ -4531,12 +5988,29 @@
             }
           ],
           "artist": "Hidano Kentaro"
+        },
+        {
+          "id": "OP04-059~ja",
+          "language": "ja",
+          "set": "OP04",
+          "rarity": "UC",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP04-059.png",
+          "cardSet": "謀略の王国【OP-04】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP04-060",
       "name": "Crocodile",
+      "names": {
+        "en": "Crocodile",
+        "ja": "クロコダイル"
+      },
       "category": "Character",
       "cost": 8,
       "power": 9000,
@@ -4599,12 +6073,42 @@
             "alternate_art"
           ],
           "artist": "tatsuya"
+        },
+        {
+          "id": "OP04-060~ja",
+          "language": "ja",
+          "set": "OP04",
+          "rarity": "SR",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP04-060.png",
+          "cardSet": "謀略の王国【OP-04】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP04-060_p1~ja",
+          "language": "ja",
+          "set": "OP04",
+          "rarity": "SR",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP04-060_p1.png",
+          "cardSet": "謀略の王国【OP-04】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "OP04-061",
       "name": "Tom",
+      "names": {
+        "en": "Tom",
+        "ja": "トム"
+      },
       "category": "Character",
       "cost": 3,
       "power": 4000,
@@ -4670,12 +6174,29 @@
             }
           ],
           "artist": "Moopic"
+        },
+        {
+          "id": "OP04-061~ja",
+          "language": "ja",
+          "set": "OP04",
+          "rarity": "C",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP04-061.png",
+          "cardSet": "謀略の王国【OP-04】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP04-062",
       "name": "Bananagator",
+      "names": {
+        "en": "Bananagator",
+        "ja": "バナナワニ"
+      },
       "category": "Character",
       "cost": 5,
       "power": 7000,
@@ -4740,12 +6261,29 @@
             }
           ],
           "artist": "S-KINOKO"
+        },
+        {
+          "id": "OP04-062~ja",
+          "language": "ja",
+          "set": "OP04",
+          "rarity": "C",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP04-062.png",
+          "cardSet": "謀略の王国【OP-04】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP04-063",
       "name": "Franky",
+      "names": {
+        "en": "Franky",
+        "ja": "フランキー"
+      },
       "category": "Character",
       "cost": 1,
       "power": 1000,
@@ -4783,12 +6321,29 @@
             "distance": 2
           },
           "artist": "Studio Vigor Co. Ltd"
+        },
+        {
+          "id": "OP04-063~ja",
+          "language": "ja",
+          "set": "OP04",
+          "rarity": "R",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP04-063.png",
+          "cardSet": "謀略の王国【OP-04】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "OP04-064",
       "name": "Ms. All Sunday",
+      "names": {
+        "en": "Ms. All Sunday",
+        "ja": "ミス・オールサンデー"
+      },
       "category": "Character",
       "cost": 5,
       "power": 5000,
@@ -4876,12 +6431,55 @@
             "sp"
           ],
           "artist": "Hatori Kyoka"
+        },
+        {
+          "id": "OP04-064~ja",
+          "language": "ja",
+          "set": "OP04",
+          "rarity": "SR",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP04-064.png",
+          "cardSet": "謀略の王国【OP-04】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP04-064_p1~ja",
+          "language": "ja",
+          "set": "OP04",
+          "rarity": "SR",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP04-064_p1.png",
+          "cardSet": "謀略の王国【OP-04】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP04-064_p2~ja",
+          "language": "ja",
+          "set": "OP06",
+          "rarity": "SP CARD",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP04-064_p2.png",
+          "cardSet": "双璧の覇者【OP-06】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "OP04-065",
       "name": "Miss.Goldenweek(Marianne)",
+      "names": {
+        "en": "Miss.Goldenweek(Marianne)",
+        "ja": "ミス・ゴールデンウィーク(マリアンヌ)"
+      },
       "category": "Character",
       "cost": 2,
       "power": 3000,
@@ -4946,12 +6544,29 @@
             }
           ],
           "artist": "Bashikou"
+        },
+        {
+          "id": "OP04-065~ja",
+          "language": "ja",
+          "set": "OP04",
+          "rarity": "C",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP04-065.png",
+          "cardSet": "謀略の王国【OP-04】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP04-066",
       "name": "Miss.Valentine(Mikita)",
+      "names": {
+        "en": "Miss.Valentine(Mikita)",
+        "ja": "ミス・バレンタイン(ミキータ)"
+      },
       "category": "Character",
       "cost": 2,
       "power": 2000,
@@ -4988,12 +6603,29 @@
             "distance": 1
           },
           "artist": "Hashimoto Q"
+        },
+        {
+          "id": "OP04-066~ja",
+          "language": "ja",
+          "set": "OP04",
+          "rarity": "R",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP04-066.png",
+          "cardSet": "謀略の王国【OP-04】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "OP04-067",
       "name": "Miss.MerryChristmas(Drophy)",
+      "names": {
+        "en": "Miss.MerryChristmas(Drophy)",
+        "ja": "ミス・メリークリスマス(ドロフィー)"
+      },
       "category": "Character",
       "cost": 4,
       "power": 4000,
@@ -5057,12 +6689,29 @@
             }
           ],
           "artist": "Akihiro MIYANO"
+        },
+        {
+          "id": "OP04-067~ja",
+          "language": "ja",
+          "set": "OP04",
+          "rarity": "C",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP04-067.png",
+          "cardSet": "謀略の王国【OP-04】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP04-068",
       "name": "Yokozuna",
+      "names": {
+        "en": "Yokozuna",
+        "ja": "ヨコヅナ"
+      },
       "category": "Character",
       "cost": 3,
       "power": 3000,
@@ -5128,12 +6777,29 @@
             }
           ],
           "artist": "KISUKE"
+        },
+        {
+          "id": "OP04-068~ja",
+          "language": "ja",
+          "set": "OP04",
+          "rarity": "C",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP04-068.png",
+          "cardSet": "謀略の王国【OP-04】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP04-069",
       "name": "Mr.2.Bon.Kurei(Bentham)",
+      "names": {
+        "en": "Mr.2.Bon.Kurei(Bentham)",
+        "ja": "Mｒ.2・ボン・クレー(ベンサム)"
+      },
       "category": "Character",
       "cost": 3,
       "power": 4000,
@@ -5198,12 +6864,29 @@
             }
           ],
           "artist": "otton"
+        },
+        {
+          "id": "OP04-069~ja",
+          "language": "ja",
+          "set": "OP04",
+          "rarity": "UC",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP04-069.png",
+          "cardSet": "謀略の王国【OP-04】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP04-070",
       "name": "Mr.3(Galdino)",
+      "names": {
+        "en": "Mr.3(Galdino)",
+        "ja": "Mr.3(ギャルディーノ)"
+      },
       "category": "Character",
       "cost": 3,
       "power": 4000,
@@ -5268,12 +6951,29 @@
             }
           ],
           "artist": "Anderson"
+        },
+        {
+          "id": "OP04-070~ja",
+          "language": "ja",
+          "set": "OP04",
+          "rarity": "UC",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP04-070.png",
+          "cardSet": "謀略の王国【OP-04】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP04-071",
       "name": "Mr.4(Babe)",
+      "names": {
+        "en": "Mr.4(Babe)",
+        "ja": "Mr.4(ベーブ)"
+      },
       "category": "Character",
       "cost": 5,
       "power": 6000,
@@ -5338,12 +7038,29 @@
             }
           ],
           "artist": "Anderson"
+        },
+        {
+          "id": "OP04-071~ja",
+          "language": "ja",
+          "set": "OP04",
+          "rarity": "UC",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP04-071.png",
+          "cardSet": "謀略の王国【OP-04】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP04-072",
       "name": "Mr.5(Gem)",
+      "names": {
+        "en": "Mr.5(Gem)",
+        "ja": "Mr.5(ジェム)"
+      },
       "category": "Character",
       "cost": 7,
       "power": 8000,
@@ -5405,12 +7122,42 @@
             "alternate_art"
           ],
           "artist": "Ryuda"
+        },
+        {
+          "id": "OP04-072~ja",
+          "language": "ja",
+          "set": "OP04",
+          "rarity": "R",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP04-072.png",
+          "cardSet": "謀略の王国【OP-04】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP04-072_p1~ja",
+          "language": "ja",
+          "set": "OP04",
+          "rarity": "R",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP04-072_p1.png",
+          "cardSet": "謀略の王国【OP-04】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "OP04-073",
       "name": "Mr.13 & Ms.Friday",
+      "names": {
+        "en": "Mr.13 & Ms.Friday",
+        "ja": "Mr.13&ミス・フライデー"
+      },
       "category": "Character",
       "cost": 3,
       "power": 1000,
@@ -5476,12 +7223,29 @@
             }
           ],
           "artist": "SOWSOW"
+        },
+        {
+          "id": "OP04-073~ja",
+          "language": "ja",
+          "set": "OP04",
+          "rarity": "C",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP04-073.png",
+          "cardSet": "謀略の王国【OP-04】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP04-074",
       "name": "Colors Trap",
+      "names": {
+        "en": "Colors Trap",
+        "ja": "カラーズトラップ"
+      },
       "category": "Event",
       "cost": 1,
       "colors": [
@@ -5512,12 +7276,29 @@
             "match": "image-only-candidate",
             "distance": 3
           }
+        },
+        {
+          "id": "OP04-074~ja",
+          "language": "ja",
+          "set": "OP04",
+          "rarity": "R",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP04-074.png",
+          "cardSet": "謀略の王国【OP-04】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "OP04-075",
       "name": "Nez-Palm Cannon",
+      "names": {
+        "en": "Nez-Palm Cannon",
+        "ja": "鼻空想砲"
+      },
       "category": "Event",
       "cost": 3,
       "colors": [
@@ -5575,12 +7356,29 @@
               "category": "event"
             }
           ]
+        },
+        {
+          "id": "OP04-075~ja",
+          "language": "ja",
+          "set": "OP04",
+          "rarity": "UC",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP04-075.png",
+          "cardSet": "謀略の王国【OP-04】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP04-076",
       "name": "Weakness...Is an Unforgivable Sin.",
+      "names": {
+        "en": "Weakness...Is an Unforgivable Sin.",
+        "ja": "弱ェってのは…罪なもんだ…"
+      },
       "category": "Event",
       "cost": 1,
       "colors": [
@@ -5639,12 +7437,29 @@
               "category": "event"
             }
           ]
+        },
+        {
+          "id": "OP04-076~ja",
+          "language": "ja",
+          "set": "OP04",
+          "rarity": "C",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP04-076.png",
+          "cardSet": "謀略の王国【OP-04】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP04-077",
       "name": "Ideo",
+      "names": {
+        "en": "Ideo",
+        "ja": "イデオ"
+      },
       "category": "Character",
       "cost": 2,
       "power": 2000,
@@ -5766,12 +7581,65 @@
             }
           ],
           "artist": "Kawaguchi Yuki"
+        },
+        {
+          "id": "OP04-077~ja",
+          "language": "ja",
+          "set": "OP04",
+          "rarity": "C",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP04-077.png",
+          "cardSet": "謀略の王国【OP-04】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
+        },
+        {
+          "id": "OP04-077_p1~ja",
+          "language": "ja",
+          "set": "PRB02",
+          "rarity": "C",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP04-077_p1.png",
+          "cardSet": "ONE PIECE CARD THE BEST vol.2【PRB-02】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP04-077_p2~ja",
+          "language": "ja",
+          "set": "P",
+          "rarity": "C",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP04-077_p2.png",
+          "cardSet": "プロモーションカードセット2026",
+          "source": "bandai"
+        },
+        {
+          "id": "OP04-077_r1~ja",
+          "language": "ja",
+          "set": "PRB02",
+          "rarity": "C",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP04-077_r1.png",
+          "cardSet": "ONE PIECE CARD THE BEST vol.2【PRB-02】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP04-078",
       "name": "Oimo & Kashii",
+      "names": {
+        "en": "Oimo & Kashii",
+        "ja": "オイモ&カーシー"
+      },
       "category": "Character",
       "cost": 6,
       "power": 8000,
@@ -5837,12 +7705,29 @@
             }
           ],
           "artist": "touge369"
+        },
+        {
+          "id": "OP04-078~ja",
+          "language": "ja",
+          "set": "OP04",
+          "rarity": "C",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP04-078.png",
+          "cardSet": "謀略の王国【OP-04】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP04-079",
       "name": "Orlumbus",
+      "names": {
+        "en": "Orlumbus",
+        "ja": "オオロンブス"
+      },
       "category": "Character",
       "cost": 4,
       "power": 5000,
@@ -5908,12 +7793,29 @@
             }
           ],
           "artist": "Nekobayashi"
+        },
+        {
+          "id": "OP04-079~ja",
+          "language": "ja",
+          "set": "OP04",
+          "rarity": "C",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP04-079.png",
+          "cardSet": "謀略の王国【OP-04】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP04-080",
       "name": "Gyats",
+      "names": {
+        "en": "Gyats",
+        "ja": "ギャッツ"
+      },
       "category": "Character",
       "cost": 1,
       "power": 1000,
@@ -5978,12 +7880,29 @@
             }
           ],
           "artist": "HISASHI HUJIWARA"
+        },
+        {
+          "id": "OP04-080~ja",
+          "language": "ja",
+          "set": "OP04",
+          "rarity": "UC",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP04-080.png",
+          "cardSet": "謀略の王国【OP-04】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP04-081",
       "name": "Cavendish",
+      "names": {
+        "en": "Cavendish",
+        "ja": "キャベンディッシュ"
+      },
       "category": "Character",
       "cost": 5,
       "power": 6000,
@@ -6020,12 +7939,29 @@
             "distance": 6
           },
           "artist": "Nijihayashi"
+        },
+        {
+          "id": "OP04-081~ja",
+          "language": "ja",
+          "set": "OP04",
+          "rarity": "R",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP04-081.png",
+          "cardSet": "謀略の王国【OP-04】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "OP04-082",
       "name": "Kyros",
+      "names": {
+        "en": "Kyros",
+        "ja": "キュロス"
+      },
       "category": "Character",
       "cost": 3,
       "power": 5000,
@@ -6087,12 +8023,42 @@
             "alternate_art"
           ],
           "artist": "DAI-XT."
+        },
+        {
+          "id": "OP04-082~ja",
+          "language": "ja",
+          "set": "OP04",
+          "rarity": "R",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP04-082.png",
+          "cardSet": "謀略の王国【OP-04】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP04-082_p1~ja",
+          "language": "ja",
+          "set": "OP04",
+          "rarity": "R",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP04-082_p1.png",
+          "cardSet": "謀略の王国【OP-04】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "OP04-083",
       "name": "Sabo",
+      "names": {
+        "en": "Sabo",
+        "ja": "サボ"
+      },
       "category": "Character",
       "cost": 5,
       "power": 6000,
@@ -6302,12 +8268,104 @@
               "category": "retail"
             }
           ]
+        },
+        {
+          "id": "OP04-083~ja",
+          "language": "ja",
+          "set": "OP04",
+          "rarity": "SR",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP04-083.png",
+          "cardSet": "謀略の王国【OP-04】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP04-083_p1~ja",
+          "language": "ja",
+          "set": "OP04",
+          "rarity": "SR",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP04-083_p1.png",
+          "cardSet": "謀略の王国【OP-04】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP04-083_p2~ja",
+          "language": "ja",
+          "set": "OP04",
+          "rarity": "SR",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP04-083_p2.png",
+          "cardSet": "謀略の王国【OP-04】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP04-083_p3~ja",
+          "language": "ja",
+          "set": "P",
+          "rarity": "SR",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP04-083_p3.png",
+          "cardSet": "8パックバトル 2023年優勝記念品",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP04-083_p5~ja",
+          "language": "ja",
+          "set": "OTHER",
+          "rarity": "SR",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP04-083_p5.png",
+          "cardSet": "2nd ANNIVERSARY SET",
+          "source": "bandai"
+        },
+        {
+          "id": "OP04-083_r1~ja",
+          "language": "ja",
+          "set": "PRB01",
+          "rarity": "SR",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP04-083_r1.png",
+          "cardSet": "ONE PIECE CARD THE BEST【PRB-01】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP04-083_r2~ja",
+          "language": "ja",
+          "set": "PRB02",
+          "rarity": "SR",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP04-083_r2.png",
+          "cardSet": "ONE PIECE CARD THE BEST vol.2【PRB-02】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "OP04-084",
       "name": "Stussy",
+      "names": {
+        "en": "Stussy",
+        "ja": "ステューシー"
+      },
       "category": "Character",
       "cost": 2,
       "power": 3000,
@@ -6371,12 +8429,29 @@
             }
           ],
           "artist": "Yamamoto Ryohei"
+        },
+        {
+          "id": "OP04-084~ja",
+          "language": "ja",
+          "set": "OP04",
+          "rarity": "C",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP04-084.png",
+          "cardSet": "謀略の王国【OP-04】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP04-085",
       "name": "Suleiman",
+      "names": {
+        "en": "Suleiman",
+        "ja": "スレイマン"
+      },
       "category": "Character",
       "cost": 3,
       "power": 4000,
@@ -6441,12 +8516,29 @@
             }
           ],
           "artist": "Amano Yoichi"
+        },
+        {
+          "id": "OP04-085~ja",
+          "language": "ja",
+          "set": "OP04",
+          "rarity": "UC",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP04-085.png",
+          "cardSet": "謀略の王国【OP-04】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP04-086",
       "name": "Chinjao",
+      "names": {
+        "en": "Chinjao",
+        "ja": "チンジャオ"
+      },
       "category": "Character",
       "cost": 5,
       "power": 6000,
@@ -6512,12 +8604,29 @@
             }
           ],
           "artist": "Hidano Kentaro"
+        },
+        {
+          "id": "OP04-086~ja",
+          "language": "ja",
+          "set": "OP04",
+          "rarity": "C",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP04-086.png",
+          "cardSet": "謀略の王国【OP-04】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP04-087",
       "name": "Trafalgar Law",
+      "names": {
+        "en": "Trafalgar Law",
+        "ja": "トラファルガー・ロー"
+      },
       "category": "Character",
       "cost": 5,
       "power": 7000,
@@ -6609,12 +8718,29 @@
               "category": "retail"
             }
           ]
+        },
+        {
+          "id": "OP04-087~ja",
+          "language": "ja",
+          "set": "OP04",
+          "rarity": "C",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP04-087.png",
+          "cardSet": "謀略の王国【OP-04】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP04-088",
       "name": "Hajrudin",
+      "names": {
+        "en": "Hajrudin",
+        "ja": "ハイルディン"
+      },
       "category": "Character",
       "cost": 6,
       "power": 7000,
@@ -6681,12 +8807,29 @@
             }
           ],
           "artist": "HISASHI HUJIWARA"
+        },
+        {
+          "id": "OP04-088~ja",
+          "language": "ja",
+          "set": "OP04",
+          "rarity": "UC",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP04-088.png",
+          "cardSet": "謀略の王国【OP-04】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP04-089",
       "name": "Bartolomeo",
+      "names": {
+        "en": "Bartolomeo",
+        "ja": "バルトロメオ"
+      },
       "category": "Character",
       "cost": 3,
       "power": 3000,
@@ -6858,12 +9001,78 @@
               "category": "program"
             }
           ]
+        },
+        {
+          "id": "OP04-089~ja",
+          "language": "ja",
+          "set": "OP04",
+          "rarity": "R",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP04-089.png",
+          "cardSet": "謀略の王国【OP-04】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP04-089_p1~ja",
+          "language": "ja",
+          "set": "PRB01",
+          "rarity": "R",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP04-089_p1.png",
+          "cardSet": "ONE PIECE CARD THE BEST【PRB-01】",
+          "source": "bandai"
+        },
+        {
+          "id": "OP04-089_p2~ja",
+          "language": "ja",
+          "set": "PRB01",
+          "rarity": "R",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP04-089_p2.png",
+          "cardSet": "ONE PIECE CARD THE BEST【PRB-01】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP04-089_p3~ja",
+          "language": "ja",
+          "set": "PRB01",
+          "rarity": "R",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP04-089_p3.png",
+          "cardSet": "ONE PIECE CARD THE BEST【PRB-01】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP04-089_r1~ja",
+          "language": "ja",
+          "set": "PRB01",
+          "rarity": "R",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP04-089_r1.png",
+          "cardSet": "ONE PIECE CARD THE BEST【PRB-01】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "OP04-090",
       "name": "Monkey.D.Luffy",
+      "names": {
+        "en": "Monkey.D.Luffy",
+        "ja": "モンキー・D・ルフィ"
+      },
       "category": "Character",
       "cost": 7,
       "power": 7000,
@@ -6926,12 +9135,42 @@
             "alternate_art"
           ],
           "artist": "Hokuyuu"
+        },
+        {
+          "id": "OP04-090~ja",
+          "language": "ja",
+          "set": "OP04",
+          "rarity": "SR",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP04-090.png",
+          "cardSet": "謀略の王国【OP-04】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP04-090_p1~ja",
+          "language": "ja",
+          "set": "OP04",
+          "rarity": "SR",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP04-090_p1.png",
+          "cardSet": "謀略の王国【OP-04】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "OP04-091",
       "name": "Leo",
+      "names": {
+        "en": "Leo",
+        "ja": "レオ"
+      },
       "category": "Character",
       "cost": 1,
       "power": 2000,
@@ -6997,12 +9236,29 @@
             }
           ],
           "artist": "Misa Tsutsui"
+        },
+        {
+          "id": "OP04-091~ja",
+          "language": "ja",
+          "set": "OP04",
+          "rarity": "UC",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP04-091.png",
+          "cardSet": "謀略の王国【OP-04】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP04-092",
       "name": "Rebecca",
+      "names": {
+        "en": "Rebecca",
+        "ja": "レベッカ"
+      },
       "category": "Character",
       "cost": 1,
       "power": 2000,
@@ -7156,12 +9412,55 @@
               "category": "program"
             }
           ]
+        },
+        {
+          "id": "OP04-092~ja",
+          "language": "ja",
+          "set": "OP04",
+          "rarity": "R",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP04-092.png",
+          "cardSet": "謀略の王国【OP-04】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP04-092_p1~ja",
+          "language": "ja",
+          "set": "P",
+          "rarity": "R",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP04-092_p1.png",
+          "cardSet": "スタンダードバトル 2024年12月優勝記念品",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
+        },
+        {
+          "id": "OP04-092_p2~ja",
+          "language": "ja",
+          "set": "P",
+          "rarity": "R",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP04-092_p2.png",
+          "cardSet": "スタンダードバトルパックVol.10",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "OP04-093",
       "name": "Gum-Gum King Kong Gun",
+      "names": {
+        "en": "Gum-Gum King Kong Gun",
+        "ja": "ゴムゴムの大猿王銃"
+      },
       "category": "Event",
       "cost": 3,
       "colors": [
@@ -7220,12 +9519,29 @@
               "category": "event"
             }
           ]
+        },
+        {
+          "id": "OP04-093~ja",
+          "language": "ja",
+          "set": "OP04",
+          "rarity": "UC",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP04-093.png",
+          "cardSet": "謀略の王国【OP-04】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP04-094",
       "name": "Trueno Bastardo",
+      "names": {
+        "en": "Trueno Bastardo",
+        "ja": "雷の破壊剣"
+      },
       "category": "Event",
       "cost": 4,
       "colors": [
@@ -7256,12 +9572,29 @@
             "match": "image-only-candidate",
             "distance": 3
           }
+        },
+        {
+          "id": "OP04-094~ja",
+          "language": "ja",
+          "set": "OP04",
+          "rarity": "R",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP04-094.png",
+          "cardSet": "謀略の王国【OP-04】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "OP04-095",
       "name": "Barrier!!",
+      "names": {
+        "en": "Barrier!!",
+        "ja": "バ～～～～リアッ!!"
+      },
       "category": "Event",
       "cost": 1,
       "colors": [
@@ -7416,12 +9749,78 @@
               "category": "retail"
             }
           ]
+        },
+        {
+          "id": "OP04-095~ja",
+          "language": "ja",
+          "set": "OP04",
+          "rarity": "C",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP04-095.png",
+          "cardSet": "謀略の王国【OP-04】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
+        },
+        {
+          "id": "OP04-095_p1~ja",
+          "language": "ja",
+          "set": "OTHER",
+          "rarity": "C",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP04-095_p1.png",
+          "cardSet": "プレミアムカードコレクション - ベストセレクションvol.2 -",
+          "source": "bandai"
+        },
+        {
+          "id": "OP04-095_p2~ja",
+          "language": "ja",
+          "set": "PRB01",
+          "rarity": "C",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP04-095_p2.png",
+          "cardSet": "ONE PIECE CARD THE BEST【PRB-01】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP04-095_p3~ja",
+          "language": "ja",
+          "set": "PRB01",
+          "rarity": "C",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP04-095_p3.png",
+          "cardSet": "ONE PIECE CARD THE BEST【PRB-01】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP04-095_r1~ja",
+          "language": "ja",
+          "set": "PRB01",
+          "rarity": "C",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP04-095_r1.png",
+          "cardSet": "ONE PIECE CARD THE BEST【PRB-01】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP04-096",
       "name": "Corrida Coliseum",
+      "names": {
+        "en": "Corrida Coliseum",
+        "ja": "コリーダコロシアム"
+      },
       "category": "Stage",
       "cost": 1,
       "colors": [
@@ -7560,12 +9959,65 @@
               "category": "program"
             }
           ]
+        },
+        {
+          "id": "OP04-096~ja",
+          "language": "ja",
+          "set": "OP04",
+          "rarity": "C",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP04-096.png",
+          "cardSet": "謀略の王国【OP-04】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
+        },
+        {
+          "id": "OP04-096_p1~ja",
+          "language": "ja",
+          "set": "PRB02",
+          "rarity": "C",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP04-096_p1.png",
+          "cardSet": "ONE PIECE CARD THE BEST vol.2【PRB-02】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP04-096_p2~ja",
+          "language": "ja",
+          "set": "P",
+          "rarity": "C",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP04-096_p2.png",
+          "cardSet": "プロモーションカードセット2026",
+          "source": "bandai"
+        },
+        {
+          "id": "OP04-096_r1~ja",
+          "language": "ja",
+          "set": "PRB02",
+          "rarity": "C",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP04-096_r1.png",
+          "cardSet": "ONE PIECE CARD THE BEST vol.2【PRB-02】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP04-097",
       "name": "Otama",
+      "names": {
+        "en": "Otama",
+        "ja": "お玉"
+      },
       "category": "Character",
       "cost": 1,
       "counter": 1000,
@@ -7629,12 +10081,29 @@
             }
           ],
           "artist": "Nekobayashi"
+        },
+        {
+          "id": "OP04-097~ja",
+          "language": "ja",
+          "set": "OP04",
+          "rarity": "C",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP04-097.png",
+          "cardSet": "謀略の王国【OP-04】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP04-098",
       "name": "Toko",
+      "names": {
+        "en": "Toko",
+        "ja": "おトコ"
+      },
       "category": "Character",
       "cost": 2,
       "counter": 1000,
@@ -7698,12 +10167,29 @@
             }
           ],
           "artist": "Misa Tsutsui"
+        },
+        {
+          "id": "OP04-098~ja",
+          "language": "ja",
+          "set": "OP04",
+          "rarity": "UC",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP04-098.png",
+          "cardSet": "謀略の王国【OP-04】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP04-099",
       "name": "Olin",
+      "names": {
+        "en": "Olin",
+        "ja": "おリン"
+      },
       "category": "Character",
       "cost": 7,
       "power": 7000,
@@ -7741,12 +10227,29 @@
             "distance": 1
           },
           "artist": "Nijihayashi"
+        },
+        {
+          "id": "OP04-099~ja",
+          "language": "ja",
+          "set": "OP04",
+          "rarity": "R",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP04-099.png",
+          "cardSet": "謀略の王国【OP-04】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "OP04-100",
       "name": "Capone\"Gang\"Bege",
+      "names": {
+        "en": "Capone\"Gang\"Bege",
+        "ja": "カポネ・ベッジ"
+      },
       "category": "Character",
       "cost": 3,
       "power": 3000,
@@ -8002,12 +10505,104 @@
               "category": "placement"
             }
           ]
+        },
+        {
+          "id": "OP04-100~ja",
+          "language": "ja",
+          "set": "OP04",
+          "rarity": "R",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP04-100.png",
+          "cardSet": "謀略の王国【OP-04】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP04-100_p1~ja",
+          "language": "ja",
+          "set": "OP04",
+          "rarity": "R",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP04-100_p1.png",
+          "cardSet": "謀略の王国【OP-04】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP04-100_p2~ja",
+          "language": "ja",
+          "set": "P",
+          "rarity": "R",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP04-100_p2.png",
+          "cardSet": "プロモーションパックEX Vol.1",
+          "source": "bandai"
+        },
+        {
+          "id": "OP04-100_p3~ja",
+          "language": "ja",
+          "set": "PRB01",
+          "rarity": "R",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP04-100_p3.png",
+          "cardSet": "ONE PIECE CARD THE BEST【PRB-01】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP04-100_p4~ja",
+          "language": "ja",
+          "set": "PRB01",
+          "rarity": "R",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP04-100_p4.png",
+          "cardSet": "ONE PIECE CARD THE BEST【PRB-01】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP04-100_p5~ja",
+          "language": "ja",
+          "set": "PRB01",
+          "rarity": "R",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP04-100_p5.png",
+          "cardSet": "ONE PIECE CARD THE BEST【PRB-01】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP04-100_r1~ja",
+          "language": "ja",
+          "set": "PRB01",
+          "rarity": "R",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP04-100_r1.png",
+          "cardSet": "ONE PIECE CARD THE BEST【PRB-01】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "OP04-101",
       "name": "Carmel",
+      "names": {
+        "en": "Carmel",
+        "ja": "カルメル"
+      },
       "category": "Character",
       "cost": 2,
       "power": 1000,
@@ -8072,12 +10667,29 @@
             }
           ],
           "artist": "Misa Matoki"
+        },
+        {
+          "id": "OP04-101~ja",
+          "language": "ja",
+          "set": "OP04",
+          "rarity": "C",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP04-101.png",
+          "cardSet": "謀略の王国【OP-04】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP04-102",
       "name": "Kin'emon",
+      "names": {
+        "en": "Kin'emon",
+        "ja": "錦えもん"
+      },
       "category": "Character",
       "cost": 6,
       "power": 6000,
@@ -8113,12 +10725,29 @@
             "distance": 1
           },
           "artist": "DAI-XT."
+        },
+        {
+          "id": "OP04-102~ja",
+          "language": "ja",
+          "set": "OP04",
+          "rarity": "R",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP04-102.png",
+          "cardSet": "謀略の王国【OP-04】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "OP04-103",
       "name": "Kouzuki Hiyori",
+      "names": {
+        "en": "Kouzuki Hiyori",
+        "ja": "光月日和"
+      },
       "category": "Character",
       "cost": 2,
       "counter": 2000,
@@ -8183,12 +10812,29 @@
             }
           ],
           "artist": "Nekobayashi"
+        },
+        {
+          "id": "OP04-103~ja",
+          "language": "ja",
+          "set": "OP04",
+          "rarity": "UC",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP04-103.png",
+          "cardSet": "謀略の王国【OP-04】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP04-104",
       "name": "Sanji",
+      "names": {
+        "en": "Sanji",
+        "ja": "サンジ"
+      },
       "category": "Character",
       "cost": 4,
       "power": 5000,
@@ -8303,12 +10949,65 @@
           ],
           "artOf": "OP04-104",
           "artist": "Hayaken-sarena"
+        },
+        {
+          "id": "OP04-104~ja",
+          "language": "ja",
+          "set": "OP04",
+          "rarity": "SR",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP04-104.png",
+          "cardSet": "謀略の王国【OP-04】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP04-104_p1~ja",
+          "language": "ja",
+          "set": "OP04",
+          "rarity": "SR",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP04-104_p1.png",
+          "cardSet": "謀略の王国【OP-04】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP04-104_p2~ja",
+          "language": "ja",
+          "set": "PRB01",
+          "rarity": "SR",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP04-104_p2.png",
+          "cardSet": "ONE PIECE CARD THE BEST【PRB-01】",
+          "source": "bandai"
+        },
+        {
+          "id": "OP04-104_r1~ja",
+          "language": "ja",
+          "set": "PRB01",
+          "rarity": "SR",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP04-104_r1.png",
+          "cardSet": "ONE PIECE CARD THE BEST【PRB-01】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "OP04-105",
       "name": "Charlotte Amande",
+      "names": {
+        "en": "Charlotte Amande",
+        "ja": "シャーロット・アマンド"
+      },
       "category": "Character",
       "cost": 3,
       "power": 3000,
@@ -8374,12 +11073,39 @@
             }
           ],
           "artist": "otton"
+        },
+        {
+          "id": "OP04-105~ja",
+          "language": "ja",
+          "set": "OP04",
+          "rarity": "R",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP04-105.png",
+          "cardSet": "謀略の王国【OP-04】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP04-105_p2~ja",
+          "language": "ja",
+          "set": "OTHER",
+          "rarity": "R",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP04-105_p2.png",
+          "cardSet": "プレミアムカードコレクション - ベストセレクションvol.1 -",
+          "source": "bandai"
         }
       ]
     },
     {
       "number": "OP04-106",
       "name": "Charlotte Bavarois",
+      "names": {
+        "en": "Charlotte Bavarois",
+        "ja": "シャーロット・ババロア"
+      },
       "category": "Character",
       "cost": 3,
       "power": 4000,
@@ -8444,12 +11170,29 @@
             }
           ],
           "artist": "Misa Tsutsui"
+        },
+        {
+          "id": "OP04-106~ja",
+          "language": "ja",
+          "set": "OP04",
+          "rarity": "C",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP04-106.png",
+          "cardSet": "謀略の王国【OP-04】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP04-107",
       "name": "Charlotte Perospero",
+      "names": {
+        "en": "Charlotte Perospero",
+        "ja": "シャーロット・ペロスペロー"
+      },
       "category": "Character",
       "cost": 6,
       "power": 8000,
@@ -8514,12 +11257,29 @@
             }
           ],
           "artist": "Nekobayashi"
+        },
+        {
+          "id": "OP04-107~ja",
+          "language": "ja",
+          "set": "OP04",
+          "rarity": "C",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP04-107.png",
+          "cardSet": "謀略の王国【OP-04】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP04-108",
       "name": "Charlotte Moscato",
+      "names": {
+        "en": "Charlotte Moscato",
+        "ja": "シャーロット・モスカート"
+      },
       "category": "Character",
       "cost": 3,
       "power": 4000,
@@ -8584,12 +11344,29 @@
             }
           ],
           "artist": "kankurou"
+        },
+        {
+          "id": "OP04-108~ja",
+          "language": "ja",
+          "set": "OP04",
+          "rarity": "UC",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP04-108.png",
+          "cardSet": "謀略の王国【OP-04】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP04-109",
       "name": "Tonoyasu",
+      "names": {
+        "en": "Tonoyasu",
+        "ja": "トの康"
+      },
       "category": "Character",
       "cost": 2,
       "power": 2000,
@@ -8654,12 +11431,29 @@
             }
           ],
           "artist": "HISASHI HUJIWARA"
+        },
+        {
+          "id": "OP04-109~ja",
+          "language": "ja",
+          "set": "OP04",
+          "rarity": "C",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP04-109.png",
+          "cardSet": "謀略の王国【OP-04】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP04-110",
       "name": "Pound",
+      "names": {
+        "en": "Pound",
+        "ja": "パウンド"
+      },
       "category": "Character",
       "cost": 3,
       "power": 3000,
@@ -8724,12 +11518,29 @@
             }
           ],
           "artist": "HISASHI HUJIWARA"
+        },
+        {
+          "id": "OP04-110~ja",
+          "language": "ja",
+          "set": "OP04",
+          "rarity": "C",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP04-110.png",
+          "cardSet": "謀略の王国【OP-04】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP04-111",
       "name": "Hera",
+      "names": {
+        "en": "Hera",
+        "ja": "ヘラ"
+      },
       "category": "Character",
       "cost": 5,
       "power": 3000,
@@ -8795,12 +11606,29 @@
             }
           ],
           "artist": "Misa Matoki"
+        },
+        {
+          "id": "OP04-111~ja",
+          "language": "ja",
+          "set": "OP04",
+          "rarity": "UC",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP04-111.png",
+          "cardSet": "謀略の王国【OP-04】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP04-112",
       "name": "Yamato",
+      "names": {
+        "en": "Yamato",
+        "ja": "ヤマト"
+      },
       "category": "Character",
       "cost": 9,
       "power": 9000,
@@ -8996,12 +11824,78 @@
               "category": "placement"
             }
           ]
+        },
+        {
+          "id": "OP04-112~ja",
+          "language": "ja",
+          "set": "OP04",
+          "rarity": "SR",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP04-112.png",
+          "cardSet": "謀略の王国【OP-04】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP04-112_p1~ja",
+          "language": "ja",
+          "set": "OP04",
+          "rarity": "SR",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP04-112_p1.png",
+          "cardSet": "謀略の王国【OP-04】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP04-112_p2~ja",
+          "language": "ja",
+          "set": "P",
+          "rarity": "SR",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP04-112_p2.png",
+          "cardSet": "フラッグシップバトル2024 7月ベスト8記念品",
+          "source": "bandai"
+        },
+        {
+          "id": "OP04-112_p3~ja",
+          "language": "ja",
+          "set": "PRB01",
+          "rarity": "SR",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP04-112_p3.png",
+          "cardSet": "ONE PIECE CARD THE BEST【PRB-01】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP04-112_r1~ja",
+          "language": "ja",
+          "set": "PRB01",
+          "rarity": "SR",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP04-112_r1.png",
+          "cardSet": "ONE PIECE CARD THE BEST【PRB-01】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "OP04-113",
       "name": "Rabiyan",
+      "names": {
+        "en": "Rabiyan",
+        "ja": "ラビヤン"
+      },
       "category": "Character",
       "cost": 2,
       "power": 3000,
@@ -9067,12 +11961,29 @@
             }
           ],
           "artist": "kankurou"
+        },
+        {
+          "id": "OP04-113~ja",
+          "language": "ja",
+          "set": "OP04",
+          "rarity": "C",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP04-113.png",
+          "cardSet": "謀略の王国【OP-04】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP04-114",
       "name": "Randolph",
+      "names": {
+        "en": "Randolph",
+        "ja": "ランドルフ"
+      },
       "category": "Character",
       "cost": 5,
       "power": 7000,
@@ -9138,12 +12049,29 @@
             }
           ],
           "artist": "shosuke"
+        },
+        {
+          "id": "OP04-114~ja",
+          "language": "ja",
+          "set": "OP04",
+          "rarity": "C",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP04-114.png",
+          "cardSet": "謀略の王国【OP-04】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP04-115",
       "name": "Gun Modoki",
+      "names": {
+        "en": "Gun Modoki",
+        "ja": "銃・擬鬼"
+      },
       "category": "Event",
       "cost": 1,
       "colors": [
@@ -9202,12 +12130,29 @@
               "category": "event"
             }
           ]
+        },
+        {
+          "id": "OP04-115~ja",
+          "language": "ja",
+          "set": "OP04",
+          "rarity": "C",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP04-115.png",
+          "cardSet": "謀略の王国【OP-04】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP04-116",
       "name": "Diable Jambe Joue Shot",
+      "names": {
+        "en": "Diable Jambe Joue Shot",
+        "ja": "悪魔風脚 ほほ肉シュート"
+      },
       "category": "Event",
       "cost": 3,
       "colors": [
@@ -9265,12 +12210,29 @@
               "category": "event"
             }
           ]
+        },
+        {
+          "id": "OP04-116~ja",
+          "language": "ja",
+          "set": "OP04",
+          "rarity": "UC",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP04-116.png",
+          "cardSet": "謀略の王国【OP-04】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP04-117",
       "name": "Heavenly Fire",
+      "names": {
+        "en": "Heavenly Fire",
+        "ja": "天上の火"
+      },
       "category": "Event",
       "cost": 1,
       "colors": [
@@ -9302,12 +12264,29 @@
             "match": "image-only-candidate",
             "distance": 0
           }
+        },
+        {
+          "id": "OP04-117~ja",
+          "language": "ja",
+          "set": "OP04",
+          "rarity": "R",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP04-117.png",
+          "cardSet": "謀略の王国【OP-04】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "OP04-118",
       "name": "Nefeltari Vivi",
+      "names": {
+        "en": "Nefeltari Vivi",
+        "ja": "ネフェルタリ・ビビ"
+      },
       "category": "Character",
       "cost": 7,
       "power": 4000,
@@ -9370,12 +12349,42 @@
             "alternate_art"
           ],
           "artist": "SHIE NANAHARA"
+        },
+        {
+          "id": "OP04-118~ja",
+          "language": "ja",
+          "set": "OP04",
+          "rarity": "SEC",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP04-118.png",
+          "cardSet": "謀略の王国【OP-04】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP04-118_p1~ja",
+          "language": "ja",
+          "set": "OP04",
+          "rarity": "SEC",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP04-118_p1.png",
+          "cardSet": "謀略の王国【OP-04】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "OP04-119",
       "name": "Donquixote Rosinante",
+      "names": {
+        "en": "Donquixote Rosinante",
+        "ja": "ドンキホーテ・ロシナンテ"
+      },
       "category": "Character",
       "cost": 8,
       "power": 8000,
@@ -9464,6 +12473,45 @@
             "sp"
           ],
           "artist": "Sunohara"
+        },
+        {
+          "id": "OP04-119~ja",
+          "language": "ja",
+          "set": "OP04",
+          "rarity": "SEC",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP04-119.png",
+          "cardSet": "謀略の王国【OP-04】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP04-119_p1~ja",
+          "language": "ja",
+          "set": "OP04",
+          "rarity": "SEC",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP04-119_p1.png",
+          "cardSet": "謀略の王国【OP-04】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP04-119_p2~ja",
+          "language": "ja",
+          "set": "OP09",
+          "rarity": "SP CARD",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP04-119_p2.png",
+          "cardSet": "ブースターパック 新たなる皇帝【OP-09】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     }

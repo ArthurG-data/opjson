@@ -3,6 +3,10 @@
     {
       "number": "OP10-001",
       "name": "Smoker",
+      "names": {
+        "en": "Smoker",
+        "ja": "スモーカー"
+      },
       "category": "Leader",
       "power": 5000,
       "life": 4,
@@ -66,12 +70,42 @@
             "parallel"
           ],
           "artist": "Zhiguang Liu"
+        },
+        {
+          "id": "OP10-001~ja",
+          "language": "ja",
+          "set": "OP10",
+          "rarity": "L",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP10-001.png",
+          "cardSet": "ブースターパック 王族の血統【OP-10】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
+        },
+        {
+          "id": "OP10-001_p1~ja",
+          "language": "ja",
+          "set": "OP10",
+          "rarity": "L",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP10-001_p1.png",
+          "cardSet": "ブースターパック 王族の血統【OP-10】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "OP10-002",
       "name": "Caesar Clown",
+      "names": {
+        "en": "Caesar Clown",
+        "ja": "シーザー・クラウン"
+      },
       "category": "Leader",
       "power": 5000,
       "life": 4,
@@ -135,12 +169,42 @@
             "parallel"
           ],
           "artist": "Shin Kashiwaguma"
+        },
+        {
+          "id": "OP10-002~ja",
+          "language": "ja",
+          "set": "OP10",
+          "rarity": "L",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP10-002.png",
+          "cardSet": "ブースターパック 王族の血統【OP-10】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
+        },
+        {
+          "id": "OP10-002_p1~ja",
+          "language": "ja",
+          "set": "OP10",
+          "rarity": "L",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP10-002_p1.png",
+          "cardSet": "ブースターパック 王族の血統【OP-10】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "OP10-003",
       "name": "Sugar",
+      "names": {
+        "en": "Sugar",
+        "ja": "シュガー"
+      },
       "category": "Leader",
       "power": 5000,
       "life": 4,
@@ -203,12 +267,52 @@
             "parallel"
           ],
           "artist": "hanao iida"
+        },
+        {
+          "id": "OP10-003~ja",
+          "language": "ja",
+          "set": "OP10",
+          "rarity": "L",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP10-003.png",
+          "cardSet": "ブースターパック 王族の血統【OP-10】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
+        },
+        {
+          "id": "OP10-003_p1~ja",
+          "language": "ja",
+          "set": "OP10",
+          "rarity": "L",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP10-003_p1.png",
+          "cardSet": "ブースターパック 王族の血統【OP-10】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP10-003_p2~ja",
+          "language": "ja",
+          "set": "OTHER",
+          "rarity": "L",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP10-003_p2.png",
+          "cardSet": "ONE PIECEカードゲーム BASE SHOPリミテッドカードコレクションvol.1",
+          "source": "bandai"
         }
       ]
     },
     {
       "number": "OP10-004",
       "name": "Vergo",
+      "names": {
+        "en": "Vergo",
+        "ja": "ヴェルゴ"
+      },
       "category": "Character",
       "cost": 1,
       "power": 2000,
@@ -247,12 +351,29 @@
             "distance": 1
           },
           "artist": "eiji kaneda"
+        },
+        {
+          "id": "OP10-004~ja",
+          "language": "ja",
+          "set": "OP10",
+          "rarity": "R",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP10-004.png",
+          "cardSet": "ブースターパック 王族の血統【OP-10】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "OP10-005",
       "name": "Sanji",
+      "names": {
+        "en": "Sanji",
+        "ja": "サンジ"
+      },
       "category": "Character",
       "cost": 3,
       "power": 3000,
@@ -342,12 +463,52 @@
             }
           ],
           "artist": "Koushi Rokushiro"
+        },
+        {
+          "id": "OP10-005~ja",
+          "language": "ja",
+          "set": "OP10",
+          "rarity": "SR",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP10-005.png",
+          "cardSet": "ブースターパック 王族の血統【OP-10】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP10-005_p1~ja",
+          "language": "ja",
+          "set": "OP10",
+          "rarity": "SR",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP10-005_p1.png",
+          "cardSet": "ブースターパック 王族の血統【OP-10】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP10-005_p2~ja",
+          "language": "ja",
+          "set": "P",
+          "rarity": "SR",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP10-005_p2.png",
+          "cardSet": "フラッグシップバトル2025 10月優勝記念品",
+          "source": "bandai"
         }
       ]
     },
     {
       "number": "OP10-006",
       "name": "Caesar Clown",
+      "names": {
+        "en": "Caesar Clown",
+        "ja": "シーザー・クラウン"
+      },
       "category": "Character",
       "cost": 7,
       "power": 7000,
@@ -412,12 +573,29 @@
             }
           ],
           "artist": "Koushi Rokushiro"
+        },
+        {
+          "id": "OP10-006~ja",
+          "language": "ja",
+          "set": "OP10",
+          "rarity": "UC",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP10-006.png",
+          "cardSet": "ブースターパック 王族の血統【OP-10】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP10-007",
       "name": "Ceaser Soldier",
+      "names": {
+        "en": "Ceaser Soldier",
+        "ja": "シーザー兵"
+      },
       "category": "Character",
       "cost": 3,
       "power": 4000,
@@ -482,12 +660,29 @@
             }
           ],
           "artist": "kankurou"
+        },
+        {
+          "id": "OP10-007~ja",
+          "language": "ja",
+          "set": "OP10",
+          "rarity": "UC",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP10-007.png",
+          "cardSet": "ブースターパック 王族の血統【OP-10】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP10-008",
       "name": "Scotch",
+      "names": {
+        "en": "Scotch",
+        "ja": "スコッチ"
+      },
       "category": "Character",
       "cost": 2,
       "power": 1000,
@@ -552,12 +747,29 @@
             }
           ],
           "artist": "HISASHI HUJIWARA"
+        },
+        {
+          "id": "OP10-008~ja",
+          "language": "ja",
+          "set": "OP10",
+          "rarity": "C",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP10-008.png",
+          "cardSet": "ブースターパック 王族の血統【OP-10】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP10-009",
       "name": "Smiley",
+      "names": {
+        "en": "Smiley",
+        "ja": "スマイリー"
+      },
       "category": "Character",
       "cost": 5,
       "power": 6000,
@@ -595,12 +807,29 @@
             "distance": 1
           },
           "artist": "HISASHI HUJIWARA"
+        },
+        {
+          "id": "OP10-009~ja",
+          "language": "ja",
+          "set": "OP10",
+          "rarity": "R",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP10-009.png",
+          "cardSet": "ブースターパック 王族の血統【OP-10】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "OP10-010",
       "name": "Chadros.Higelyges (Brownbeard)",
+      "names": {
+        "en": "Chadros.Higelyges (Brownbeard)",
+        "ja": "チャドロス・ヒゲリゲス(茶ひげ)"
+      },
       "category": "Character",
       "cost": 3,
       "power": 5000,
@@ -665,12 +894,29 @@
             }
           ],
           "artist": "Nakamaru"
+        },
+        {
+          "id": "OP10-010~ja",
+          "language": "ja",
+          "set": "OP10",
+          "rarity": "C",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP10-010.png",
+          "cardSet": "ブースターパック 王族の血統【OP-10】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP10-011",
       "name": "Tony Tony.Chopper",
+      "names": {
+        "en": "Tony Tony.Chopper",
+        "ja": "トニートニー・チョッパー"
+      },
       "category": "Character",
       "cost": 4,
       "power": 4000,
@@ -807,12 +1053,55 @@
           "finishes": [
             "nonfoil"
           ]
+        },
+        {
+          "id": "OP10-011~ja",
+          "language": "ja",
+          "set": "OP10",
+          "rarity": "R",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP10-011.png",
+          "cardSet": "ブースターパック 王族の血統【OP-10】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP10-011_p1~ja",
+          "language": "ja",
+          "set": "PRB02",
+          "rarity": "R",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP10-011_p1.png",
+          "cardSet": "ONE PIECE CARD THE BEST vol.2【PRB-02】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP10-011_r1~ja",
+          "language": "ja",
+          "set": "PRB02",
+          "rarity": "R",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP10-011_r1.png",
+          "cardSet": "ONE PIECE CARD THE BEST vol.2【PRB-02】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "OP10-012",
       "name": "Dragon Number Thirteen",
+      "names": {
+        "en": "Dragon Number Thirteen",
+        "ja": "ドラゴン十三號"
+      },
       "category": "Character",
       "cost": 2,
       "power": 2000,
@@ -878,12 +1167,29 @@
             }
           ],
           "artist": "shosuke"
+        },
+        {
+          "id": "OP10-012~ja",
+          "language": "ja",
+          "set": "OP10",
+          "rarity": "C",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP10-012.png",
+          "cardSet": "ブースターパック 王族の血統【OP-10】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP10-013",
       "name": "Nami",
+      "names": {
+        "en": "Nami",
+        "ja": "ナミ"
+      },
       "category": "Character",
       "cost": 5,
       "power": 7000,
@@ -969,12 +1275,29 @@
           "finishes": [
             "nonfoil"
           ]
+        },
+        {
+          "id": "OP10-013~ja",
+          "language": "ja",
+          "set": "OP10",
+          "rarity": "C",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP10-013.png",
+          "cardSet": "ブースターパック 王族の血統【OP-10】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP10-014",
       "name": "Franky",
+      "names": {
+        "en": "Franky",
+        "ja": "フランキー"
+      },
       "category": "Character",
       "cost": 6,
       "power": 8000,
@@ -1041,12 +1364,29 @@
             }
           ],
           "artist": "Koushi Rokushiro"
+        },
+        {
+          "id": "OP10-014~ja",
+          "language": "ja",
+          "set": "OP10",
+          "rarity": "C",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP10-014.png",
+          "cardSet": "ブースターパック 王族の血統【OP-10】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP10-015",
       "name": "Mocha",
+      "names": {
+        "en": "Mocha",
+        "ja": "モチャ"
+      },
       "category": "Character",
       "cost": 3,
       "power": 3000,
@@ -1111,12 +1451,29 @@
             }
           ],
           "artist": "Nekobayashi"
+        },
+        {
+          "id": "OP10-015~ja",
+          "language": "ja",
+          "set": "OP10",
+          "rarity": "UC",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP10-015.png",
+          "cardSet": "ブースターパック 王族の血統【OP-10】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP10-016",
       "name": "Monet",
+      "names": {
+        "en": "Monet",
+        "ja": "モネ"
+      },
       "category": "Character",
       "cost": 2,
       "power": 3000,
@@ -1180,12 +1537,42 @@
             "parallel"
           ],
           "artist": "Morechand"
+        },
+        {
+          "id": "OP10-016~ja",
+          "language": "ja",
+          "set": "OP10",
+          "rarity": "SR",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP10-016.png",
+          "cardSet": "ブースターパック 王族の血統【OP-10】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP10-016_p1~ja",
+          "language": "ja",
+          "set": "OP10",
+          "rarity": "SR",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP10-016_p1.png",
+          "cardSet": "ブースターパック 王族の血統【OP-10】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "OP10-017",
       "name": "Rock",
+      "names": {
+        "en": "Rock",
+        "ja": "ロック"
+      },
       "category": "Character",
       "cost": 2,
       "power": 3000,
@@ -1250,12 +1637,29 @@
             }
           ],
           "artist": "HISASHI HUJIWARA"
+        },
+        {
+          "id": "OP10-017~ja",
+          "language": "ja",
+          "set": "OP10",
+          "rarity": "C",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP10-017.png",
+          "cardSet": "ブースターパック 王族の血統【OP-10】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP10-018",
       "name": "Ten-Layer Igloo",
+      "names": {
+        "en": "Ten-Layer Igloo",
+        "ja": "カマクラ十草紙"
+      },
       "category": "Event",
       "cost": 2,
       "colors": [
@@ -1368,12 +1772,52 @@
               "category": "event"
             }
           ]
+        },
+        {
+          "id": "OP10-018~ja",
+          "language": "ja",
+          "set": "OP10",
+          "rarity": "C",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP10-018.png",
+          "cardSet": "ブースターパック 王族の血統【OP-10】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
+        },
+        {
+          "id": "OP10-018_p1~ja",
+          "language": "ja",
+          "set": "PRB02",
+          "rarity": "C",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP10-018_p1.png",
+          "cardSet": "ONE PIECE CARD THE BEST vol.2【PRB-02】",
+          "source": "bandai"
+        },
+        {
+          "id": "OP10-018_r1~ja",
+          "language": "ja",
+          "set": "PRB02",
+          "rarity": "C",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP10-018_r1.png",
+          "cardSet": "ONE PIECE CARD THE BEST vol.2【PRB-02】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP10-019",
       "name": "Divine Departure",
+      "names": {
+        "en": "Divine Departure",
+        "ja": "神避"
+      },
       "category": "Event",
       "cost": 1,
       "colors": [
@@ -1450,12 +1894,42 @@
           "finishes": [
             "nonfoil"
           ]
+        },
+        {
+          "id": "OP10-019~ja",
+          "language": "ja",
+          "set": "OP10",
+          "rarity": "R",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP10-019.png",
+          "cardSet": "ブースターパック 王族の血統【OP-10】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP10-019_p1~ja",
+          "language": "ja",
+          "set": "OP10",
+          "rarity": "R",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP10-019_p1.png",
+          "cardSet": "ブースターパック 王族の血統【OP-10】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "OP10-020",
       "name": "Gum-Gum UFO",
+      "names": {
+        "en": "Gum-Gum UFO",
+        "ja": "ゴムゴムのUFO"
+      },
       "category": "Event",
       "cost": 2,
       "colors": [
@@ -1560,12 +2034,29 @@
           "finishes": [
             "nonfoil"
           ]
+        },
+        {
+          "id": "OP10-020~ja",
+          "language": "ja",
+          "set": "OP10",
+          "rarity": "UC",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP10-020.png",
+          "cardSet": "ブースターパック 王族の血統【OP-10】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP10-021",
       "name": "Punk Hazard",
+      "names": {
+        "en": "Punk Hazard",
+        "ja": "パンクハザード"
+      },
       "category": "Stage",
       "cost": 1,
       "colors": [
@@ -1623,12 +2114,29 @@
               "category": "event"
             }
           ]
+        },
+        {
+          "id": "OP10-021~ja",
+          "language": "ja",
+          "set": "OP10",
+          "rarity": "C",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP10-021.png",
+          "cardSet": "ブースターパック 王族の血統【OP-10】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP10-022",
       "name": "Trafalgar Law",
+      "names": {
+        "en": "Trafalgar Law",
+        "ja": "トラファルガー・ロー"
+      },
       "category": "Leader",
       "power": 5000,
       "life": 4,
@@ -1713,12 +2221,52 @@
           "finishes": [
             "foil"
           ]
+        },
+        {
+          "id": "OP10-022~ja",
+          "language": "ja",
+          "set": "OP10",
+          "rarity": "L",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP10-022.png",
+          "cardSet": "ブースターパック 王族の血統【OP-10】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
+        },
+        {
+          "id": "OP10-022_p1~ja",
+          "language": "ja",
+          "set": "OP10",
+          "rarity": "L",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP10-022_p1.png",
+          "cardSet": "ブースターパック 王族の血統【OP-10】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP10-022_p2~ja",
+          "language": "ja",
+          "set": "P",
+          "rarity": "L",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP10-022_p2.png",
+          "cardSet": "メラメラの実争奪戦 上位記念品",
+          "source": "bandai"
         }
       ]
     },
     {
       "number": "OP10-023",
       "name": "Issho",
+      "names": {
+        "en": "Issho",
+        "ja": "イッショウ"
+      },
       "category": "Character",
       "cost": 5,
       "power": 6000,
@@ -1784,12 +2332,29 @@
             }
           ],
           "artist": "Hayaken-sarena"
+        },
+        {
+          "id": "OP10-023~ja",
+          "language": "ja",
+          "set": "OP10",
+          "rarity": "C",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP10-023.png",
+          "cardSet": "ブースターパック 王族の血統【OP-10】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP10-024",
       "name": "Edward.Newgate",
+      "names": {
+        "en": "Edward.Newgate",
+        "ja": "エドワード・ニューゲート"
+      },
       "category": "Character",
       "cost": 5,
       "power": 6000,
@@ -1856,12 +2421,29 @@
             }
           ],
           "artist": "BISAI"
+        },
+        {
+          "id": "OP10-024~ja",
+          "language": "ja",
+          "set": "OP10",
+          "rarity": "C",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP10-024.png",
+          "cardSet": "ブースターパック 王族の血統【OP-10】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP10-025",
       "name": "Enel",
+      "names": {
+        "en": "Enel",
+        "ja": "エネル"
+      },
       "category": "Character",
       "cost": 5,
       "power": 6000,
@@ -1925,12 +2507,29 @@
               "category": "program"
             }
           ]
+        },
+        {
+          "id": "OP10-025~ja",
+          "language": "ja",
+          "set": "OP10",
+          "rarity": "R",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP10-025.png",
+          "cardSet": "ブースターパック 王族の血統【OP-10】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "OP10-026",
       "name": "Kin'emon",
+      "names": {
+        "en": "Kin'emon",
+        "ja": "錦えもん"
+      },
       "category": "Character",
       "cost": 2,
       "power": 1000,
@@ -1997,12 +2596,29 @@
             }
           ],
           "artist": "kankurou"
+        },
+        {
+          "id": "OP10-026~ja",
+          "language": "ja",
+          "set": "OP10",
+          "rarity": "C",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP10-026.png",
+          "cardSet": "ブースターパック 王族の血統【OP-10】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP10-027",
       "name": "Kin'emon",
+      "names": {
+        "en": "Kin'emon",
+        "ja": "錦えもん"
+      },
       "category": "Character",
       "cost": 2,
       "counter": 2000,
@@ -2068,12 +2684,29 @@
             }
           ],
           "artist": "kankurou"
+        },
+        {
+          "id": "OP10-027~ja",
+          "language": "ja",
+          "set": "OP10",
+          "rarity": "UC",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP10-027.png",
+          "cardSet": "ブースターパック 王族の血統【OP-10】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP10-028",
       "name": "Kouzuki Momonosuke",
+      "names": {
+        "en": "Kouzuki Momonosuke",
+        "ja": "光月モモの助"
+      },
       "category": "Character",
       "cost": 1,
       "power": 1000,
@@ -2176,12 +2809,39 @@
               "category": "retail"
             }
           ]
+        },
+        {
+          "id": "OP10-028~ja",
+          "language": "ja",
+          "set": "OP10",
+          "rarity": "UC",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP10-028.png",
+          "cardSet": "ブースターパック 王族の血統【OP-10】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
+        },
+        {
+          "id": "OP10-028_p1~ja",
+          "language": "ja",
+          "set": "OTHER",
+          "rarity": "UC",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP10-028_p1.png",
+          "cardSet": "プレミアムカードコレクション - ベストセレクション vol.4 -",
+          "source": "bandai"
         }
       ]
     },
     {
       "number": "OP10-029",
       "name": "Dracule Mihawk",
+      "names": {
+        "en": "Dracule Mihawk",
+        "ja": "ジュラキュール・ミホーク"
+      },
       "category": "Character",
       "cost": 5,
       "power": 6000,
@@ -2219,12 +2879,29 @@
             "distance": 1
           },
           "artist": "Morechand"
+        },
+        {
+          "id": "OP10-029~ja",
+          "language": "ja",
+          "set": "OP10",
+          "rarity": "R",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP10-029.png",
+          "cardSet": "ブースターパック 王族の血統【OP-10】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "OP10-030",
       "name": "Smoker",
+      "names": {
+        "en": "Smoker",
+        "ja": "スモーカー"
+      },
       "category": "Character",
       "cost": 5,
       "power": 7000,
@@ -2333,12 +3010,55 @@
           "finishes": [
             "nonfoil"
           ]
+        },
+        {
+          "id": "OP10-030~ja",
+          "language": "ja",
+          "set": "OP10",
+          "rarity": "SR",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP10-030.png",
+          "cardSet": "ブースターパック 王族の血統【OP-10】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP10-030_p1~ja",
+          "language": "ja",
+          "set": "OP10",
+          "rarity": "SR",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP10-030_p1.png",
+          "cardSet": "ブースターパック 王族の血統【OP-10】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP10-030_p2~ja",
+          "language": "ja",
+          "set": "OP13",
+          "rarity": "SP CARD",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP10-030_p2.png",
+          "cardSet": "受け継がれる意志【OP-13】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "OP10-031",
       "name": "Sengoku",
+      "names": {
+        "en": "Sengoku",
+        "ja": "センゴク"
+      },
       "category": "Character",
       "cost": 5,
       "power": 7000,
@@ -2404,12 +3124,29 @@
             }
           ],
           "artist": "Hayaken-sarena"
+        },
+        {
+          "id": "OP10-031~ja",
+          "language": "ja",
+          "set": "OP10",
+          "rarity": "C",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP10-031.png",
+          "cardSet": "ブースターパック 王族の血統【OP-10】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP10-032",
       "name": "Tashigi",
+      "names": {
+        "en": "Tashigi",
+        "ja": "たしぎ"
+      },
       "category": "Character",
       "cost": 3,
       "power": 4000,
@@ -2579,12 +3316,65 @@
               "category": "placement"
             }
           ]
+        },
+        {
+          "id": "OP10-032~ja",
+          "language": "ja",
+          "set": "OP10",
+          "rarity": "SR",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP10-032.png",
+          "cardSet": "ブースターパック 王族の血統【OP-10】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP10-032_p1~ja",
+          "language": "ja",
+          "set": "OP10",
+          "rarity": "SR",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP10-032_p1.png",
+          "cardSet": "ブースターパック 王族の血統【OP-10】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP10-032_p2~ja",
+          "language": "ja",
+          "set": "P",
+          "rarity": "SR",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP10-032_p2.png",
+          "cardSet": "プロモーションパックEX Vol.3",
+          "source": "bandai"
+        },
+        {
+          "id": "OP10-032_r1~ja",
+          "language": "ja",
+          "set": "PRB02",
+          "rarity": "SR",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP10-032_r1.png",
+          "cardSet": "ONE PIECE CARD THE BEST vol.2【PRB-02】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "OP10-033",
       "name": "Nami",
+      "names": {
+        "en": "Nami",
+        "ja": "ナミ"
+      },
       "category": "Character",
       "cost": 2,
       "power": 2000,
@@ -2714,12 +3504,39 @@
             }
           ],
           "artist": "Hagane Tsurugi"
+        },
+        {
+          "id": "OP10-033~ja",
+          "language": "ja",
+          "set": "OP10",
+          "rarity": "UC",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP10-033.png",
+          "cardSet": "ブースターパック 王族の血統【OP-10】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
+        },
+        {
+          "id": "OP10-033_p1~ja",
+          "language": "ja",
+          "set": "P",
+          "rarity": "UC",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP10-033_p1.png",
+          "cardSet": "最強ジャンプ5月号応募者全員サービス（2025年4月4日売）",
+          "source": "bandai"
         }
       ]
     },
     {
       "number": "OP10-034",
       "name": "Franky",
+      "names": {
+        "en": "Franky",
+        "ja": "フランキー"
+      },
       "category": "Character",
       "cost": 4,
       "power": 5000,
@@ -2785,12 +3602,29 @@
             }
           ],
           "artist": "Yuu Shimotsuki"
+        },
+        {
+          "id": "OP10-034~ja",
+          "language": "ja",
+          "set": "OP10",
+          "rarity": "C",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP10-034.png",
+          "cardSet": "ブースターパック 王族の血統【OP-10】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP10-035",
       "name": "Brook",
+      "names": {
+        "en": "Brook",
+        "ja": "ブルック"
+      },
       "category": "Character",
       "cost": 3,
       "power": 5000,
@@ -2855,12 +3689,29 @@
             }
           ],
           "artist": "Nekobayashi"
+        },
+        {
+          "id": "OP10-035~ja",
+          "language": "ja",
+          "set": "OP10",
+          "rarity": "C",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP10-035.png",
+          "cardSet": "ブースターパック 王族の血統【OP-10】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP10-036",
       "name": "Perona",
+      "names": {
+        "en": "Perona",
+        "ja": "ペローナ"
+      },
       "category": "Character",
       "cost": 4,
       "power": 5000,
@@ -2941,12 +3792,42 @@
             }
           ],
           "artist": "BISAI"
+        },
+        {
+          "id": "OP10-036~ja",
+          "language": "ja",
+          "set": "OP10",
+          "rarity": "C",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP10-036.png",
+          "cardSet": "ブースターパック 王族の血統【OP-10】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
+        },
+        {
+          "id": "OP10-036_r1~ja",
+          "language": "ja",
+          "set": "ST32",
+          "rarity": "C",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP10-036_r1.png",
+          "cardSet": "スタートデッキ 緑 ロロノア・ゾロ【ST-32】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP10-037",
       "name": "Lim",
+      "names": {
+        "en": "Lim",
+        "ja": "リム"
+      },
       "category": "Character",
       "cost": 1,
       "counter": 1000,
@@ -3008,12 +3889,42 @@
             "parallel"
           ],
           "artist": "Koushi Rokushiro"
+        },
+        {
+          "id": "OP10-037~ja",
+          "language": "ja",
+          "set": "OP10",
+          "rarity": "R",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP10-037.png",
+          "cardSet": "ブースターパック 王族の血統【OP-10】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP10-037_p1~ja",
+          "language": "ja",
+          "set": "OP10",
+          "rarity": "R",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP10-037_p1.png",
+          "cardSet": "ブースターパック 王族の血統【OP-10】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "OP10-038",
       "name": "Roronoa Zoro",
+      "names": {
+        "en": "Roronoa Zoro",
+        "ja": "ロロノア・ゾロ"
+      },
       "category": "Character",
       "cost": 5,
       "power": 6000,
@@ -3080,12 +3991,29 @@
             }
           ],
           "artist": "Morechand"
+        },
+        {
+          "id": "OP10-038~ja",
+          "language": "ja",
+          "set": "OP10",
+          "rarity": "C",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP10-038.png",
+          "cardSet": "ブースターパック 王族の血統【OP-10】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP10-039",
       "name": "Gum-Gum Dragon Fire Pistol Twister Star",
+      "names": {
+        "en": "Gum-Gum Dragon Fire Pistol Twister Star",
+        "ja": "ゴムゴムの龍火炎銃巻き星"
+      },
       "category": "Event",
       "cost": 3,
       "colors": [
@@ -3145,12 +4073,29 @@
               "category": "event"
             }
           ]
+        },
+        {
+          "id": "OP10-039~ja",
+          "language": "ja",
+          "set": "OP10",
+          "rarity": "UC",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP10-039.png",
+          "cardSet": "ブースターパック 王族の血統【OP-10】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP10-040",
       "name": "The Weak Do Not Have the Right to Choose How They Die",
+      "names": {
+        "en": "The Weak Do Not Have the Right to Choose How They Die",
+        "ja": "弱ェ奴は死に方も選べねェ"
+      },
       "category": "Event",
       "cost": 5,
       "colors": [
@@ -3210,12 +4155,29 @@
               "category": "event"
             }
           ]
+        },
+        {
+          "id": "OP10-040~ja",
+          "language": "ja",
+          "set": "OP10",
+          "rarity": "C",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP10-040.png",
+          "cardSet": "ブースターパック 王族の血統【OP-10】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP10-041",
       "name": "Radio Knife",
+      "names": {
+        "en": "Radio Knife",
+        "ja": "ラジオナイフ"
+      },
       "category": "Event",
       "cost": 4,
       "colors": [
@@ -3248,12 +4210,29 @@
             "match": "image-only-candidate",
             "distance": 0
           }
+        },
+        {
+          "id": "OP10-041~ja",
+          "language": "ja",
+          "set": "OP10",
+          "rarity": "R",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP10-041.png",
+          "cardSet": "ブースターパック 王族の血統【OP-10】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "OP10-042",
       "name": "Usopp",
+      "names": {
+        "en": "Usopp",
+        "ja": "ウソップ"
+      },
       "category": "Leader",
       "power": 5000,
       "life": 4,
@@ -3373,12 +4352,72 @@
           "finishes": [
             "foil"
           ]
+        },
+        {
+          "id": "OP10-042~ja",
+          "language": "ja",
+          "set": "OP10",
+          "rarity": "L",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP10-042.png",
+          "cardSet": "ブースターパック 王族の血統【OP-10】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
+        },
+        {
+          "id": "OP10-042_p1~ja",
+          "language": "ja",
+          "set": "OP10",
+          "rarity": "L",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP10-042_p1.png",
+          "cardSet": "ブースターパック 王族の血統【OP-10】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP10-042_p2~ja",
+          "language": "ja",
+          "set": "OTHER",
+          "rarity": "L",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP10-042_p2.png",
+          "cardSet": "ONE PIECEカードゲーム オフィシャルプレイマット リミテッドエディション vol.3",
+          "source": "bandai"
+        },
+        {
+          "id": "OP10-042_p3~ja",
+          "language": "ja",
+          "set": "OTHER",
+          "rarity": "L",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP10-042_p3.png",
+          "cardSet": "ONE PIECEカードゲーム BASE SHOPリミテッドカードコレクションvol.1",
+          "source": "bandai"
+        },
+        {
+          "id": "OP10-042_p4~ja",
+          "language": "ja",
+          "set": "P",
+          "rarity": "L",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP10-042_p4.png",
+          "cardSet": "メラメラの実争奪戦 上位記念品",
+          "source": "bandai"
         }
       ]
     },
     {
       "number": "OP10-043",
       "name": "Moocy",
+      "names": {
+        "en": "Moocy",
+        "ja": "ウーシー"
+      },
       "category": "Character",
       "cost": 2,
       "power": 2000,
@@ -3444,12 +4483,29 @@
             }
           ],
           "artist": "Nakamaru"
+        },
+        {
+          "id": "OP10-043~ja",
+          "language": "ja",
+          "set": "OP10",
+          "rarity": "C",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP10-043.png",
+          "cardSet": "ブースターパック 王族の血統【OP-10】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP10-044",
       "name": "Cub",
+      "names": {
+        "en": "Cub",
+        "ja": "カブ"
+      },
       "category": "Character",
       "cost": 1,
       "power": 2000,
@@ -3515,12 +4571,29 @@
             }
           ],
           "artist": "phima"
+        },
+        {
+          "id": "OP10-044~ja",
+          "language": "ja",
+          "set": "OP10",
+          "rarity": "UC",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP10-044.png",
+          "cardSet": "ブースターパック 王族の血統【OP-10】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP10-045",
       "name": "Cavendish",
+      "names": {
+        "en": "Cavendish",
+        "ja": "キャベンディッシュ"
+      },
       "category": "Character",
       "cost": 4,
       "power": 6000,
@@ -3635,12 +4708,55 @@
               "category": "program"
             }
           ]
+        },
+        {
+          "id": "OP10-045~ja",
+          "language": "ja",
+          "set": "OP10",
+          "rarity": "R",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP10-045.png",
+          "cardSet": "ブースターパック 王族の血統【OP-10】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP10-045_p1~ja",
+          "language": "ja",
+          "set": "OP10",
+          "rarity": "R",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP10-045_p1.png",
+          "cardSet": "ブースターパック 王族の血統【OP-10】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP10-045_p2~ja",
+          "language": "ja",
+          "set": "OP16",
+          "rarity": "SP CARD",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP10-045_p2.png",
+          "cardSet": "ブースターパック 決戦の刻【OP-16】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "OP10-046",
       "name": "Kyros",
+      "names": {
+        "en": "Kyros",
+        "ja": "キュロス"
+      },
       "category": "Character",
       "cost": 7,
       "power": 9000,
@@ -3729,12 +4845,55 @@
           ],
           "artOf": "OP10-046",
           "artist": "Anderson"
+        },
+        {
+          "id": "OP10-046~ja",
+          "language": "ja",
+          "set": "OP10",
+          "rarity": "SR",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP10-046.png",
+          "cardSet": "ブースターパック 王族の血統【OP-10】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP10-046_p1~ja",
+          "language": "ja",
+          "set": "OP10",
+          "rarity": "SR",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP10-046_p1.png",
+          "cardSet": "ブースターパック 王族の血統【OP-10】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP10-046_r1~ja",
+          "language": "ja",
+          "set": "PRB02",
+          "rarity": "SR",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP10-046_r1.png",
+          "cardSet": "ONE PIECE CARD THE BEST vol.2【PRB-02】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "OP10-047",
       "name": "Koala",
+      "names": {
+        "en": "Koala",
+        "ja": "コアラ"
+      },
       "category": "Character",
       "cost": 2,
       "power": 3000,
@@ -3800,12 +4959,29 @@
             }
           ],
           "artist": "phima"
+        },
+        {
+          "id": "OP10-047~ja",
+          "language": "ja",
+          "set": "OP10",
+          "rarity": "UC",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP10-047.png",
+          "cardSet": "ブースターパック 王族の血統【OP-10】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP10-048",
       "name": "Sai",
+      "names": {
+        "en": "Sai",
+        "ja": "サイ"
+      },
       "category": "Character",
       "cost": 3,
       "power": 5000,
@@ -3870,12 +5046,29 @@
             }
           ],
           "artist": "Tanaka Kenichi"
+        },
+        {
+          "id": "OP10-048~ja",
+          "language": "ja",
+          "set": "OP10",
+          "rarity": "C",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP10-048.png",
+          "cardSet": "ブースターパック 王族の血統【OP-10】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP10-049",
       "name": "Sabo",
+      "names": {
+        "en": "Sabo",
+        "ja": "サボ"
+      },
       "category": "Character",
       "cost": 4,
       "power": 5000,
@@ -3979,12 +5172,49 @@
               "category": "retail"
             }
           ]
+        },
+        {
+          "id": "OP10-049~ja",
+          "language": "ja",
+          "set": "OP10",
+          "rarity": "R",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP10-049.png",
+          "cardSet": "ブースターパック 王族の血統【OP-10】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP10-049_p1~ja",
+          "language": "ja",
+          "set": "OTHER",
+          "rarity": "R",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP10-049_p1.png",
+          "cardSet": "プレミアムカードコレクション - ベストセレクション vol.4 -",
+          "source": "bandai"
+        },
+        {
+          "id": "OP10-049_p2~ja",
+          "language": "ja",
+          "set": "P",
+          "rarity": "R",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP10-049_p2.png",
+          "cardSet": "3周年！ワンピースカードトレジャーキャンペーンパック",
+          "source": "bandai"
         }
       ]
     },
     {
       "number": "OP10-050",
       "name": "Hajrudin",
+      "names": {
+        "en": "Hajrudin",
+        "ja": "ハイルディン"
+      },
       "category": "Character",
       "cost": 7,
       "power": 9000,
@@ -4051,12 +5281,29 @@
             }
           ],
           "artist": "S-KINOKO"
+        },
+        {
+          "id": "OP10-050~ja",
+          "language": "ja",
+          "set": "OP10",
+          "rarity": "C",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP10-050.png",
+          "cardSet": "ブースターパック 王族の血統【OP-10】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP10-051",
       "name": "Hack",
+      "names": {
+        "en": "Hack",
+        "ja": "ハック"
+      },
       "category": "Character",
       "cost": 4,
       "power": 5000,
@@ -4123,12 +5370,29 @@
             }
           ],
           "artist": "tasaka"
+        },
+        {
+          "id": "OP10-051~ja",
+          "language": "ja",
+          "set": "OP10",
+          "rarity": "UC",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP10-051.png",
+          "cardSet": "ブースターパック 王族の血統【OP-10】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP10-052",
       "name": "Bartolomeo",
+      "names": {
+        "en": "Bartolomeo",
+        "ja": "バルトロメオ"
+      },
       "category": "Character",
       "cost": 5,
       "power": 6000,
@@ -4193,12 +5457,29 @@
             }
           ],
           "artist": "Aidle Co. Ltd."
+        },
+        {
+          "id": "OP10-052~ja",
+          "language": "ja",
+          "set": "OP10",
+          "rarity": "C",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP10-052.png",
+          "cardSet": "ブースターパック 王族の血統【OP-10】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP10-053",
       "name": "Bian",
+      "names": {
+        "en": "Bian",
+        "ja": "ビアン"
+      },
       "category": "Character",
       "cost": 1,
       "power": 1000,
@@ -4264,12 +5545,29 @@
             }
           ],
           "artist": "Haru Miyajima"
+        },
+        {
+          "id": "OP10-053~ja",
+          "language": "ja",
+          "set": "OP10",
+          "rarity": "C",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP10-053.png",
+          "cardSet": "ブースターパック 王族の血統【OP-10】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP10-054",
       "name": "Blue Gilly",
+      "names": {
+        "en": "Blue Gilly",
+        "ja": "ブルーギリー"
+      },
       "category": "Character",
       "cost": 3,
       "power": 5000,
@@ -4334,12 +5632,29 @@
             }
           ],
           "artist": "UGUME"
+        },
+        {
+          "id": "OP10-054~ja",
+          "language": "ja",
+          "set": "OP10",
+          "rarity": "C",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP10-054.png",
+          "cardSet": "ブースターパック 王族の血統【OP-10】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP10-055",
       "name": "Marco",
+      "names": {
+        "en": "Marco",
+        "ja": "マルコ"
+      },
       "category": "Character",
       "cost": 3,
       "power": 5000,
@@ -4375,12 +5690,29 @@
             "distance": 3
           },
           "artist": "Studio Vigor Co. Ltd"
+        },
+        {
+          "id": "OP10-055~ja",
+          "language": "ja",
+          "set": "OP10",
+          "rarity": "R",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP10-055.png",
+          "cardSet": "ブースターパック 王族の血統【OP-10】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "OP10-056",
       "name": "Mansherry",
+      "names": {
+        "en": "Mansherry",
+        "ja": "マンシェリー"
+      },
       "category": "Character",
       "cost": 2,
       "counter": 1000,
@@ -4445,12 +5777,29 @@
             }
           ],
           "artist": "SHINRA AGENCY Co. Ltd."
+        },
+        {
+          "id": "OP10-056~ja",
+          "language": "ja",
+          "set": "OP10",
+          "rarity": "UC",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP10-056.png",
+          "cardSet": "ブースターパック 王族の血統【OP-10】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP10-057",
       "name": "Leo",
+      "names": {
+        "en": "Leo",
+        "ja": "レオ"
+      },
       "category": "Character",
       "cost": 1,
       "power": 2000,
@@ -4540,12 +5889,29 @@
               "category": "retail"
             }
           ]
+        },
+        {
+          "id": "OP10-057~ja",
+          "language": "ja",
+          "set": "OP10",
+          "rarity": "R",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP10-057.png",
+          "cardSet": "ブースターパック 王族の血統【OP-10】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "OP10-058",
       "name": "Rebecca",
+      "names": {
+        "en": "Rebecca",
+        "ja": "レベッカ"
+      },
       "category": "Character",
       "cost": 7,
       "power": 4000,
@@ -4608,12 +5974,42 @@
             "parallel"
           ],
           "artist": "otton"
+        },
+        {
+          "id": "OP10-058~ja",
+          "language": "ja",
+          "set": "OP10",
+          "rarity": "SR",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP10-058.png",
+          "cardSet": "ブースターパック 王族の血統【OP-10】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP10-058_p1~ja",
+          "language": "ja",
+          "set": "OP10",
+          "rarity": "SR",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP10-058_p1.png",
+          "cardSet": "ブースターパック 王族の血統【OP-10】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "OP10-059",
       "name": "Fo...llow...Me...and...I...Will...Gui...de...You",
+      "names": {
+        "en": "Fo...llow...Me...and...I...Will...Gui...de...You",
+        "ja": "おまえ…タチ…わ…おれ…が…み…ち…び…く…!!!"
+      },
       "category": "Event",
       "cost": 1,
       "colors": [
@@ -4645,12 +6041,29 @@
             "match": "image-only-candidate",
             "distance": 4
           }
+        },
+        {
+          "id": "OP10-059~ja",
+          "language": "ja",
+          "set": "OP10",
+          "rarity": "R",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP10-059.png",
+          "cardSet": "ブースターパック 王族の血統【OP-10】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "OP10-060",
       "name": "Barrier-Barrier Pistol",
+      "names": {
+        "en": "Barrier-Barrier Pistol",
+        "ja": "バリバリの銃"
+      },
       "category": "Event",
       "cost": 5,
       "colors": [
@@ -4709,12 +6122,29 @@
               "category": "event"
             }
           ]
+        },
+        {
+          "id": "OP10-060~ja",
+          "language": "ja",
+          "set": "OP10",
+          "rarity": "C",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP10-060.png",
+          "cardSet": "ブースターパック 王族の血統【OP-10】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP10-061",
       "name": "Special Long-Range Attack!! Bagworm",
+      "names": {
+        "en": "Special Long-Range Attack!! Bagworm",
+        "ja": "必殺!!遠距離“蓑虫星”"
+      },
       "category": "Event",
       "cost": 3,
       "colors": [
@@ -4773,12 +6203,29 @@
               "category": "event"
             }
           ]
+        },
+        {
+          "id": "OP10-061~ja",
+          "language": "ja",
+          "set": "OP10",
+          "rarity": "UC",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP10-061.png",
+          "cardSet": "ブースターパック 王族の血統【OP-10】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP10-062",
       "name": "Violet",
+      "names": {
+        "en": "Violet",
+        "ja": "ヴァイオレット"
+      },
       "category": "Character",
       "cost": 3,
       "power": 4000,
@@ -4815,12 +6262,29 @@
             "distance": 3
           },
           "artist": "Sunohara"
+        },
+        {
+          "id": "OP10-062~ja",
+          "language": "ja",
+          "set": "OP10",
+          "rarity": "R",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP10-062.png",
+          "cardSet": "ブースターパック 王族の血統【OP-10】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "OP10-063",
       "name": "Vinsmoke Sanji",
+      "names": {
+        "en": "Vinsmoke Sanji",
+        "ja": "ヴィンスモーク・サンジ"
+      },
       "category": "Character",
       "cost": 1,
       "power": 2000,
@@ -4881,12 +6345,29 @@
             "distance": 2
           },
           "artist": "Denim2"
+        },
+        {
+          "id": "OP10-063~ja",
+          "language": "ja",
+          "set": "OP10",
+          "rarity": "R",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP10-063.png",
+          "cardSet": "ブースターパック 王族の血統【OP-10】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "OP10-064",
       "name": "Clone Soldier",
+      "names": {
+        "en": "Clone Soldier",
+        "ja": "複製兵"
+      },
       "category": "Character",
       "cost": 2,
       "power": 2000,
@@ -4951,12 +6432,29 @@
             }
           ],
           "artist": "Aidle Co. Ltd."
+        },
+        {
+          "id": "OP10-064~ja",
+          "language": "ja",
+          "set": "OP10",
+          "rarity": "C",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP10-064.png",
+          "cardSet": "ブースターパック 王族の血統【OP-10】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP10-065",
       "name": "Sugar",
+      "names": {
+        "en": "Sugar",
+        "ja": "シュガー"
+      },
       "category": "Character",
       "cost": 1,
       "power": 1000,
@@ -5045,12 +6543,42 @@
               "category": "program"
             }
           ]
+        },
+        {
+          "id": "OP10-065~ja",
+          "language": "ja",
+          "set": "OP10",
+          "rarity": "R",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP10-065.png",
+          "cardSet": "ブースターパック 王族の血統【OP-10】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP10-065_p1~ja",
+          "language": "ja",
+          "set": "OP14",
+          "rarity": "SP CARD",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP10-065_p1.png",
+          "cardSet": "ブースターパック 蒼海の七傑【OP-14】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "OP10-066",
       "name": "Giolla",
+      "names": {
+        "en": "Giolla",
+        "ja": "ジョーラ"
+      },
       "category": "Character",
       "cost": 2,
       "power": 2000,
@@ -5115,12 +6643,29 @@
             }
           ],
           "artist": "Hashimoto Q"
+        },
+        {
+          "id": "OP10-066~ja",
+          "language": "ja",
+          "set": "OP10",
+          "rarity": "UC",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP10-066.png",
+          "cardSet": "ブースターパック 王族の血統【OP-10】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP10-067",
       "name": "Senor Pink",
+      "names": {
+        "en": "Senor Pink",
+        "ja": "セニョール・ピンク"
+      },
       "category": "Character",
       "cost": 5,
       "power": 6000,
@@ -5182,12 +6727,42 @@
             "parallel"
           ],
           "artist": "Nakamaru"
+        },
+        {
+          "id": "OP10-067~ja",
+          "language": "ja",
+          "set": "OP10",
+          "rarity": "R",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP10-067.png",
+          "cardSet": "ブースターパック 王族の血統【OP-10】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP10-067_p1~ja",
+          "language": "ja",
+          "set": "OP10",
+          "rarity": "R",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP10-067_p1.png",
+          "cardSet": "ブースターパック 王族の血統【OP-10】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "OP10-068",
       "name": "Diamante",
+      "names": {
+        "en": "Diamante",
+        "ja": "ディアマンテ"
+      },
       "category": "Character",
       "cost": 5,
       "power": 7000,
@@ -5252,12 +6827,29 @@
             }
           ],
           "artist": "UGUME"
+        },
+        {
+          "id": "OP10-068~ja",
+          "language": "ja",
+          "set": "OP10",
+          "rarity": "C",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP10-068.png",
+          "cardSet": "ブースターパック 王族の血統【OP-10】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP10-069",
       "name": "Fighting Fish",
+      "names": {
+        "en": "Fighting Fish",
+        "ja": "闘魚"
+      },
       "category": "Character",
       "cost": 4,
       "power": 6000,
@@ -5322,12 +6914,29 @@
             }
           ],
           "artist": "Nakamaru"
+        },
+        {
+          "id": "OP10-069~ja",
+          "language": "ja",
+          "set": "OP10",
+          "rarity": "C",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP10-069.png",
+          "cardSet": "ブースターパック 王族の血統【OP-10】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP10-070",
       "name": "Trebol",
+      "names": {
+        "en": "Trebol",
+        "ja": "トレーボル"
+      },
       "category": "Character",
       "cost": 4,
       "power": 5000,
@@ -5392,12 +7001,29 @@
             }
           ],
           "artist": "S-KINOKO"
+        },
+        {
+          "id": "OP10-070~ja",
+          "language": "ja",
+          "set": "OP10",
+          "rarity": "C",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP10-070.png",
+          "cardSet": "ブースターパック 王族の血統【OP-10】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP10-071",
       "name": "Donquixote Doflamingo",
+      "names": {
+        "en": "Donquixote Doflamingo",
+        "ja": "ドンキホーテ・ドフラミンゴ"
+      },
       "category": "Character",
       "cost": 8,
       "power": 9000,
@@ -5460,12 +7086,42 @@
             "parallel"
           ],
           "artist": "tatsuya"
+        },
+        {
+          "id": "OP10-071~ja",
+          "language": "ja",
+          "set": "OP10",
+          "rarity": "SR",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP10-071.png",
+          "cardSet": "ブースターパック 王族の血統【OP-10】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP10-071_p1~ja",
+          "language": "ja",
+          "set": "OP10",
+          "rarity": "SR",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP10-071_p1.png",
+          "cardSet": "ブースターパック 王族の血統【OP-10】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "OP10-072",
       "name": "Donquixote Rosinante",
+      "names": {
+        "en": "Donquixote Rosinante",
+        "ja": "ドンキホーテ・ロシナンテ"
+      },
       "category": "Character",
       "cost": 5,
       "power": 6000,
@@ -5529,12 +7185,42 @@
             "parallel"
           ],
           "artist": "AKIRA EGAWA"
+        },
+        {
+          "id": "OP10-072~ja",
+          "language": "ja",
+          "set": "OP10",
+          "rarity": "SR",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP10-072.png",
+          "cardSet": "ブースターパック 王族の血統【OP-10】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP10-072_p1~ja",
+          "language": "ja",
+          "set": "OP10",
+          "rarity": "SR",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP10-072_p1.png",
+          "cardSet": "ブースターパック 王族の血統【OP-10】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "OP10-073",
       "name": "Buffalo",
+      "names": {
+        "en": "Buffalo",
+        "ja": "バッファロー"
+      },
       "category": "Character",
       "cost": 4,
       "power": 6000,
@@ -5599,12 +7285,29 @@
             }
           ],
           "artist": "Anderson"
+        },
+        {
+          "id": "OP10-073~ja",
+          "language": "ja",
+          "set": "OP10",
+          "rarity": "C",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP10-073.png",
+          "cardSet": "ブースターパック 王族の血統【OP-10】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP10-074",
       "name": "Pica",
+      "names": {
+        "en": "Pica",
+        "ja": "ピーカ"
+      },
       "category": "Character",
       "cost": 4,
       "power": 5000,
@@ -5669,12 +7372,29 @@
             }
           ],
           "artist": "KISUKE"
+        },
+        {
+          "id": "OP10-074~ja",
+          "language": "ja",
+          "set": "OP10",
+          "rarity": "UC",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP10-074.png",
+          "cardSet": "ブースターパック 王族の血統【OP-10】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP10-075",
       "name": "Foxy",
+      "names": {
+        "en": "Foxy",
+        "ja": "フォクシー"
+      },
       "category": "Character",
       "cost": 2,
       "power": 1000,
@@ -5739,12 +7459,29 @@
             }
           ],
           "artist": "Katsuo Tadano"
+        },
+        {
+          "id": "OP10-075~ja",
+          "language": "ja",
+          "set": "OP10",
+          "rarity": "UC",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP10-075.png",
+          "cardSet": "ブースターパック 王族の血統【OP-10】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP10-076",
       "name": "Baby 5",
+      "names": {
+        "en": "Baby 5",
+        "ja": "ベビー5"
+      },
       "category": "Character",
       "cost": 3,
       "power": 1000,
@@ -5835,12 +7572,29 @@
             }
           ],
           "artist": "SHIE NANAHARA"
+        },
+        {
+          "id": "OP10-076~ja",
+          "language": "ja",
+          "set": "OP10",
+          "rarity": "UC",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP10-076.png",
+          "cardSet": "ブースターパック 王族の血統【OP-10】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP10-077",
       "name": "Bellamy",
+      "names": {
+        "en": "Bellamy",
+        "ja": "ベラミー"
+      },
       "category": "Character",
       "cost": 3,
       "power": 4000,
@@ -5905,12 +7659,29 @@
             }
           ],
           "artist": "S-KINOKO"
+        },
+        {
+          "id": "OP10-077~ja",
+          "language": "ja",
+          "set": "OP10",
+          "rarity": "C",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP10-077.png",
+          "cardSet": "ブースターパック 王族の血統【OP-10】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP10-078",
       "name": "I Do Not Forgive Those Who Laugh at My Family!!!",
+      "names": {
+        "en": "I Do Not Forgive Those Who Laugh at My Family!!!",
+        "ja": "家族を笑う者はおれが許さん…!!!"
+      },
       "category": "Event",
       "cost": 1,
       "colors": [
@@ -5942,12 +7713,29 @@
             "match": "image-only-candidate",
             "distance": 4
           }
+        },
+        {
+          "id": "OP10-078~ja",
+          "language": "ja",
+          "set": "OP10",
+          "rarity": "R",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP10-078.png",
+          "cardSet": "ブースターパック 王族の血統【OP-10】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "OP10-079",
       "name": "God Thread",
+      "names": {
+        "en": "God Thread",
+        "ja": "神誅殺"
+      },
       "category": "Event",
       "cost": 5,
       "colors": [
@@ -6086,12 +7874,55 @@
               "category": "program"
             }
           ]
+        },
+        {
+          "id": "OP10-079~ja",
+          "language": "ja",
+          "set": "OP10",
+          "rarity": "UC",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP10-079.png",
+          "cardSet": "ブースターパック 王族の血統【OP-10】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
+        },
+        {
+          "id": "OP10-079_p1~ja",
+          "language": "ja",
+          "set": "PRB02",
+          "rarity": "UC",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP10-079_p1.png",
+          "cardSet": "ONE PIECE CARD THE BEST vol.2【PRB-02】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP10-079_r1~ja",
+          "language": "ja",
+          "set": "PRB02",
+          "rarity": "UC",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP10-079_r1.png",
+          "cardSet": "ONE PIECE CARD THE BEST vol.2【PRB-02】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP10-080",
       "name": "Little Black Bears",
+      "names": {
+        "en": "Little Black Bears",
+        "ja": "小熊玩具"
+      },
       "category": "Event",
       "cost": 3,
       "colors": [
@@ -6149,12 +7980,29 @@
               "category": "event"
             }
           ]
+        },
+        {
+          "id": "OP10-080~ja",
+          "language": "ja",
+          "set": "OP10",
+          "rarity": "C",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP10-080.png",
+          "cardSet": "ブースターパック 王族の血統【OP-10】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP10-081",
       "name": "Usopp",
+      "names": {
+        "en": "Usopp",
+        "ja": "ウソップ"
+      },
       "category": "Character",
       "cost": 4,
       "power": 5000,
@@ -6220,12 +8068,29 @@
             }
           ],
           "artist": "Ryuda"
+        },
+        {
+          "id": "OP10-081~ja",
+          "language": "ja",
+          "set": "OP10",
+          "rarity": "C",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP10-081.png",
+          "cardSet": "ブースターパック 王族の血統【OP-10】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP10-082",
       "name": "Kuzan",
+      "names": {
+        "en": "Kuzan",
+        "ja": "クザン"
+      },
       "category": "Character",
       "cost": 5,
       "power": 5000,
@@ -6314,12 +8179,55 @@
             "sp"
           ],
           "artist": "Bashikou"
+        },
+        {
+          "id": "OP10-082~ja",
+          "language": "ja",
+          "set": "OP10",
+          "rarity": "SR",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP10-082.png",
+          "cardSet": "ブースターパック 王族の血統【OP-10】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP10-082_p1~ja",
+          "language": "ja",
+          "set": "OP10",
+          "rarity": "SR",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP10-082_p1.png",
+          "cardSet": "ブースターパック 王族の血統【OP-10】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP10-082_p2~ja",
+          "language": "ja",
+          "set": "OP12",
+          "rarity": "SP CARD",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP10-082_p2.png",
+          "cardSet": "師弟の絆【OP-12】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "OP10-083",
       "name": "Kouzuki Momonosuke",
+      "names": {
+        "en": "Kouzuki Momonosuke",
+        "ja": "光月モモの助"
+      },
       "category": "Character",
       "cost": 2,
       "counter": 2000,
@@ -6385,12 +8293,29 @@
             }
           ],
           "artist": "COGA"
+        },
+        {
+          "id": "OP10-083~ja",
+          "language": "ja",
+          "set": "OP10",
+          "rarity": "UC",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP10-083.png",
+          "cardSet": "ブースターパック 王族の血統【OP-10】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP10-084",
       "name": "Sanjuan.Wolf",
+      "names": {
+        "en": "Sanjuan.Wolf",
+        "ja": "サンファン・ウルフ"
+      },
       "category": "Character",
       "cost": 5,
       "power": 7000,
@@ -6483,12 +8408,42 @@
             }
           ],
           "artist": "Aidle Co. Ltd."
+        },
+        {
+          "id": "OP10-084~ja",
+          "language": "ja",
+          "set": "OP10",
+          "rarity": "C",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP10-084.png",
+          "cardSet": "ブースターパック 王族の血統【OP-10】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
+        },
+        {
+          "id": "OP10-084_r1~ja",
+          "language": "ja",
+          "set": "ST27",
+          "rarity": "C",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP10-084_r1.png",
+          "cardSet": "スタートデッキ 黒 マーシャル・Ｄ・ティーチ【ST-27】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP10-085",
       "name": "Jesus Burgess",
+      "names": {
+        "en": "Jesus Burgess",
+        "ja": "ジーザス・バージェス"
+      },
       "category": "Character",
       "cost": 5,
       "power": 6000,
@@ -6609,12 +8564,29 @@
               "category": "placement"
             }
           ]
+        },
+        {
+          "id": "OP10-085~ja",
+          "language": "ja",
+          "set": "OP10",
+          "rarity": "UC",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP10-085.png",
+          "cardSet": "ブースターパック 王族の血統【OP-10】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP10-086",
       "name": "Shiryu",
+      "names": {
+        "en": "Shiryu",
+        "ja": "シリュウ"
+      },
       "category": "Character",
       "cost": 4,
       "power": 5000,
@@ -6651,12 +8623,29 @@
             "distance": 3
           },
           "artist": "SHINRA AGENCY Co. Ltd."
+        },
+        {
+          "id": "OP10-086~ja",
+          "language": "ja",
+          "set": "OP10",
+          "rarity": "R",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP10-086.png",
+          "cardSet": "ブースターパック 王族の血統【OP-10】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "OP10-087",
       "name": "Tony Tony.Chopper",
+      "names": {
+        "en": "Tony Tony.Chopper",
+        "ja": "トニートニー・チョッパー"
+      },
       "category": "Character",
       "cost": 2,
       "counter": 1000,
@@ -6722,12 +8711,29 @@
             }
           ],
           "artist": "Suzume Muraichi"
+        },
+        {
+          "id": "OP10-087~ja",
+          "language": "ja",
+          "set": "OP10",
+          "rarity": "UC",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP10-087.png",
+          "cardSet": "ブースターパック 王族の血統【OP-10】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP10-088",
       "name": "Nami",
+      "names": {
+        "en": "Nami",
+        "ja": "ナミ"
+      },
       "category": "Character",
       "cost": 2,
       "counter": 1000,
@@ -6792,12 +8798,29 @@
             }
           ],
           "artist": "Akihiro MIYANO"
+        },
+        {
+          "id": "OP10-088~ja",
+          "language": "ja",
+          "set": "OP10",
+          "rarity": "UC",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP10-088.png",
+          "cardSet": "ブースターパック 王族の血統【OP-10】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP10-089",
       "name": "Nico Robin",
+      "names": {
+        "en": "Nico Robin",
+        "ja": "ニコ・ロビン"
+      },
       "category": "Character",
       "cost": 6,
       "power": 8000,
@@ -6863,12 +8886,29 @@
             }
           ],
           "artist": "SHINRA AGENCY Co. Ltd."
+        },
+        {
+          "id": "OP10-089~ja",
+          "language": "ja",
+          "set": "OP10",
+          "rarity": "C",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP10-089.png",
+          "cardSet": "ブースターパック 王族の血統【OP-10】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP10-090",
       "name": "Franky",
+      "names": {
+        "en": "Franky",
+        "ja": "フランキー"
+      },
       "category": "Character",
       "cost": 4,
       "power": 5000,
@@ -6932,12 +8972,42 @@
             "parallel"
           ],
           "artist": "Moopic"
+        },
+        {
+          "id": "OP10-090~ja",
+          "language": "ja",
+          "set": "OP10",
+          "rarity": "R",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP10-090.png",
+          "cardSet": "ブースターパック 王族の血統【OP-10】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP10-090_p1~ja",
+          "language": "ja",
+          "set": "OP10",
+          "rarity": "R",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP10-090_p1.png",
+          "cardSet": "ブースターパック 王族の血統【OP-10】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "OP10-091",
       "name": "Brook",
+      "names": {
+        "en": "Brook",
+        "ja": "ブルック"
+      },
       "category": "Character",
       "cost": 3,
       "counter": 1000,
@@ -7002,12 +9072,29 @@
             }
           ],
           "artist": "Ryuda"
+        },
+        {
+          "id": "OP10-091~ja",
+          "language": "ja",
+          "set": "OP10",
+          "rarity": "C",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP10-091.png",
+          "cardSet": "ブースターパック 王族の血統【OP-10】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP10-092",
       "name": "Perona",
+      "names": {
+        "en": "Perona",
+        "ja": "ペローナ"
+      },
       "category": "Character",
       "cost": 4,
       "power": 5000,
@@ -7168,12 +9255,39 @@
               "category": "retail"
             }
           ]
+        },
+        {
+          "id": "OP10-092~ja",
+          "language": "ja",
+          "set": "OP10",
+          "rarity": "C",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP10-092.png",
+          "cardSet": "ブースターパック 王族の血統【OP-10】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
+        },
+        {
+          "id": "OP10-092_p1~ja",
+          "language": "ja",
+          "set": "OTHER",
+          "rarity": "C",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP10-092_p1.png",
+          "cardSet": "プレミアムカードコレクション - ベストセレクション vol.4 -",
+          "source": "bandai"
         }
       ]
     },
     {
       "number": "OP10-093",
       "name": "Saint Homing",
+      "names": {
+        "en": "Saint Homing",
+        "ja": "ホーミング聖"
+      },
       "category": "Character",
       "cost": 1,
       "counter": 1000,
@@ -7237,12 +9351,29 @@
             }
           ],
           "artist": "Ryo Nakama"
+        },
+        {
+          "id": "OP10-093~ja",
+          "language": "ja",
+          "set": "OP10",
+          "rarity": "C",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP10-093.png",
+          "cardSet": "ブースターパック 王族の血統【OP-10】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP10-094",
       "name": "Ryuma",
+      "names": {
+        "en": "Ryuma",
+        "ja": "リューマ"
+      },
       "category": "Character",
       "cost": 4,
       "power": 6000,
@@ -7307,12 +9438,29 @@
             }
           ],
           "artist": "Hashimoto Q"
+        },
+        {
+          "id": "OP10-094~ja",
+          "language": "ja",
+          "set": "OP10",
+          "rarity": "UC",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP10-094.png",
+          "cardSet": "ブースターパック 王族の血統【OP-10】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP10-095",
       "name": "Roronoa Zoro",
+      "names": {
+        "en": "Roronoa Zoro",
+        "ja": "ロロノア・ゾロ"
+      },
       "category": "Character",
       "cost": 4,
       "power": 6000,
@@ -7403,12 +9551,55 @@
           ],
           "artOf": "OP10-095",
           "artist": "Matsumoto Akira"
+        },
+        {
+          "id": "OP10-095~ja",
+          "language": "ja",
+          "set": "OP10",
+          "rarity": "R",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP10-095.png",
+          "cardSet": "ブースターパック 王族の血統【OP-10】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP10-095_p1~ja",
+          "language": "ja",
+          "set": "PRB02",
+          "rarity": "R",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP10-095_p1.png",
+          "cardSet": "ONE PIECE CARD THE BEST vol.2【PRB-02】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP10-095_r1~ja",
+          "language": "ja",
+          "set": "PRB02",
+          "rarity": "R",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP10-095_r1.png",
+          "cardSet": "ONE PIECE CARD THE BEST vol.2【PRB-02】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "OP10-096",
       "name": "There’s No Longer Any Need for the Seven Warlords of the Sea!!!",
+      "names": {
+        "en": "There’s No Longer Any Need for the Seven Warlords of the Sea!!!",
+        "ja": "王下七武海はもう要らねェ…!!!"
+      },
       "category": "Event",
       "cost": 4,
       "colors": [
@@ -7466,12 +9657,29 @@
               "category": "event"
             }
           ]
+        },
+        {
+          "id": "OP10-096~ja",
+          "language": "ja",
+          "set": "OP10",
+          "rarity": "UC",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP10-096.png",
+          "cardSet": "ブースターパック 王族の血統【OP-10】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP10-097",
       "name": "Gum-Gum Rhino Schneider",
+      "names": {
+        "en": "Gum-Gum Rhino Schneider",
+        "ja": "ゴムゴムの犀榴弾砲"
+      },
       "category": "Event",
       "cost": 1,
       "colors": [
@@ -7531,12 +9739,29 @@
               "category": "event"
             }
           ]
+        },
+        {
+          "id": "OP10-097~ja",
+          "language": "ja",
+          "set": "OP10",
+          "rarity": "C",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP10-097.png",
+          "cardSet": "ブースターパック 王族の血統【OP-10】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP10-098",
       "name": "Liberation",
+      "names": {
+        "en": "Liberation",
+        "ja": "解放"
+      },
       "category": "Event",
       "cost": 6,
       "colors": [
@@ -7567,12 +9792,29 @@
             "match": "image-only-candidate",
             "distance": 2
           }
+        },
+        {
+          "id": "OP10-098~ja",
+          "language": "ja",
+          "set": "OP10",
+          "rarity": "R",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP10-098.png",
+          "cardSet": "ブースターパック 王族の血統【OP-10】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "OP10-099",
       "name": "Eustass\"Captain\"Kid",
+      "names": {
+        "en": "Eustass\"Captain\"Kid",
+        "ja": "ユースタス・キッド"
+      },
       "category": "Leader",
       "power": 5000,
       "life": 5,
@@ -7658,12 +9900,55 @@
             "distance": 4
           },
           "artist": "Bashikou"
+        },
+        {
+          "id": "OP10-099~ja",
+          "language": "ja",
+          "set": "OP10",
+          "rarity": "L",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP10-099.png",
+          "cardSet": "ブースターパック 王族の血統【OP-10】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
+        },
+        {
+          "id": "OP10-099_p1~ja",
+          "language": "ja",
+          "set": "OP10",
+          "rarity": "L",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP10-099_p1.png",
+          "cardSet": "ブースターパック 王族の血統【OP-10】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP10-099_p2~ja",
+          "language": "ja",
+          "set": "ST36",
+          "rarity": "L",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP10-099_p2.png",
+          "cardSet": "スタートデッキ 黄 ユースタス・キッド【ST-36】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "OP10-100",
       "name": "Inazuma",
+      "names": {
+        "en": "Inazuma",
+        "ja": "イナズマ"
+      },
       "category": "Character",
       "cost": 4,
       "power": 5000,
@@ -7728,12 +10013,29 @@
             }
           ],
           "artist": "Tanaka Kenichi"
+        },
+        {
+          "id": "OP10-100~ja",
+          "language": "ja",
+          "set": "OP10",
+          "rarity": "C",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP10-100.png",
+          "cardSet": "ブースターパック 王族の血統【OP-10】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP10-101",
       "name": "Urouge",
+      "names": {
+        "en": "Urouge",
+        "ja": "ウルージ"
+      },
       "category": "Character",
       "cost": 5,
       "power": 7000,
@@ -7813,12 +10115,42 @@
             }
           ],
           "artist": "Ryo Nakama"
+        },
+        {
+          "id": "OP10-101~ja",
+          "language": "ja",
+          "set": "OP10",
+          "rarity": "C",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP10-101.png",
+          "cardSet": "ブースターパック 王族の血統【OP-10】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
+        },
+        {
+          "id": "OP10-101_r1~ja",
+          "language": "ja",
+          "set": "ST36",
+          "rarity": "C",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP10-101_r1.png",
+          "cardSet": "スタートデッキ 黄 ユースタス・キッド【ST-36】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP10-102",
       "name": "Emporio.Ivankov",
+      "names": {
+        "en": "Emporio.Ivankov",
+        "ja": "エンポリオ・イワンコフ"
+      },
       "category": "Character",
       "cost": 5,
       "power": 6000,
@@ -7883,12 +10215,29 @@
             }
           ],
           "artist": "Hashimoto Q"
+        },
+        {
+          "id": "OP10-102~ja",
+          "language": "ja",
+          "set": "OP10",
+          "rarity": "C",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP10-102.png",
+          "cardSet": "ブースターパック 王族の血統【OP-10】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP10-103",
       "name": "Capone\"Gang\"Bege",
+      "names": {
+        "en": "Capone\"Gang\"Bege",
+        "ja": "カポネ・ベッジ"
+      },
       "category": "Character",
       "cost": 1,
       "counter": 2000,
@@ -7949,12 +10298,42 @@
           },
           "artOf": "OP10-103",
           "artist": "Anderson"
+        },
+        {
+          "id": "OP10-103~ja",
+          "language": "ja",
+          "set": "OP10",
+          "rarity": "R",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP10-103.png",
+          "cardSet": "ブースターパック 王族の血統【OP-10】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP10-103_r1~ja",
+          "language": "ja",
+          "set": "ST36",
+          "rarity": "R",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP10-103_r1.png",
+          "cardSet": "スタートデッキ 黄 ユースタス・キッド【ST-36】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP10-104",
       "name": "Caribou",
+      "names": {
+        "en": "Caribou",
+        "ja": "カリブー"
+      },
       "category": "Character",
       "cost": 4,
       "power": 5000,
@@ -8020,12 +10399,29 @@
             }
           ],
           "artist": "KISUKE"
+        },
+        {
+          "id": "OP10-104~ja",
+          "language": "ja",
+          "set": "OP10",
+          "rarity": "UC",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP10-104.png",
+          "cardSet": "ブースターパック 王族の血統【OP-10】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP10-105",
       "name": "Cavendish",
+      "names": {
+        "en": "Cavendish",
+        "ja": "キャベンディッシュ"
+      },
       "category": "Character",
       "cost": 6,
       "power": 8000,
@@ -8149,12 +10545,55 @@
             }
           ],
           "artist": "Denim2"
+        },
+        {
+          "id": "OP10-105~ja",
+          "language": "ja",
+          "set": "OP10",
+          "rarity": "C",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP10-105.png",
+          "cardSet": "ブースターパック 王族の血統【OP-10】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
+        },
+        {
+          "id": "OP10-105_p1~ja",
+          "language": "ja",
+          "set": "PRB02",
+          "rarity": "C",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP10-105_p1.png",
+          "cardSet": "ONE PIECE CARD THE BEST vol.2【PRB-02】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP10-105_r1~ja",
+          "language": "ja",
+          "set": "PRB02",
+          "rarity": "C",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP10-105_r1.png",
+          "cardSet": "ONE PIECE CARD THE BEST vol.2【PRB-02】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP10-106",
       "name": "Killer",
+      "names": {
+        "en": "Killer",
+        "ja": "キラー"
+      },
       "category": "Character",
       "cost": 3,
       "power": 5000,
@@ -8245,12 +10684,29 @@
             }
           ],
           "artist": "tasaka"
+        },
+        {
+          "id": "OP10-106~ja",
+          "language": "ja",
+          "set": "OP10",
+          "rarity": "UC",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP10-106.png",
+          "cardSet": "ブースターパック 王族の血統【OP-10】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP10-107",
       "name": "Jewelry Bonney",
+      "names": {
+        "en": "Jewelry Bonney",
+        "ja": "ジュエリー・ボニー"
+      },
       "category": "Character",
       "cost": 3,
       "power": 4000,
@@ -8397,12 +10853,39 @@
               "category": "program"
             }
           ]
+        },
+        {
+          "id": "OP10-107~ja",
+          "language": "ja",
+          "set": "OP10",
+          "rarity": "UC",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP10-107.png",
+          "cardSet": "ブースターパック 王族の血統【OP-10】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
+        },
+        {
+          "id": "OP10-107_p1~ja",
+          "language": "ja",
+          "set": "P",
+          "rarity": "UC",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP10-107_p1.png",
+          "cardSet": "ONE PIECEカードゲーム プロモーションパックVol.7",
+          "source": "bandai"
         }
       ]
     },
     {
       "number": "OP10-108",
       "name": "Scratchmen Apoo",
+      "names": {
+        "en": "Scratchmen Apoo",
+        "ja": "スクラッチメン・アプー"
+      },
       "category": "Character",
       "cost": 1,
       "power": 1000,
@@ -8609,12 +11092,68 @@
               "category": "placement"
             }
           ]
+        },
+        {
+          "id": "OP10-108~ja",
+          "language": "ja",
+          "set": "OP10",
+          "rarity": "C",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP10-108.png",
+          "cardSet": "ブースターパック 王族の血統【OP-10】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
+        },
+        {
+          "id": "OP10-108_p1~ja",
+          "language": "ja",
+          "set": "PRB02",
+          "rarity": "C",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP10-108_p1.png",
+          "cardSet": "ONE PIECE CARD THE BEST vol.2【PRB-02】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP10-108_p2~ja",
+          "language": "ja",
+          "set": "OTHER",
+          "rarity": "C",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP10-108_p2.png",
+          "cardSet": "プレミアムカードコレクション - ベストセレクション vol.6 -",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP10-108_r1~ja",
+          "language": "ja",
+          "set": "PRB02",
+          "rarity": "C",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP10-108_r1.png",
+          "cardSet": "ONE PIECE CARD THE BEST vol.2【PRB-02】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP10-109",
       "name": "Basil Hawkins",
+      "names": {
+        "en": "Basil Hawkins",
+        "ja": "バジル・ホーキンス"
+      },
       "category": "Character",
       "cost": 4,
       "power": 5000,
@@ -8754,12 +11293,69 @@
               "category": "program"
             }
           ]
+        },
+        {
+          "id": "OP10-109~ja",
+          "language": "ja",
+          "set": "OP10",
+          "rarity": "R",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP10-109.png",
+          "cardSet": "ブースターパック 王族の血統【OP-10】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP10-109_p1~ja",
+          "language": "ja",
+          "set": "PRB02",
+          "rarity": "R",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP10-109_p1.png",
+          "cardSet": "ONE PIECE CARD THE BEST vol.2【PRB-02】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP10-109_r1~ja",
+          "language": "ja",
+          "set": "PRB02",
+          "rarity": "R",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP10-109_r1.png",
+          "cardSet": "ONE PIECE CARD THE BEST vol.2【PRB-02】",
+          "source": "bandai",
+          "finishes": [
+            "foil",
+            "nonfoil"
+          ]
+        },
+        {
+          "id": "OP10-109_r2~ja",
+          "language": "ja",
+          "set": "ST36",
+          "rarity": "R",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP10-109_r2.png",
+          "cardSet": "スタートデッキ 黄 ユースタス・キッド【ST-36】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP10-110",
       "name": "Heat & Wire",
+      "names": {
+        "en": "Heat & Wire",
+        "ja": "ヒート＆ワイヤー"
+      },
       "category": "Character",
       "cost": 3,
       "power": 4000,
@@ -8825,12 +11421,29 @@
             }
           ],
           "artist": "Aidle Co. Ltd."
+        },
+        {
+          "id": "OP10-110~ja",
+          "language": "ja",
+          "set": "OP10",
+          "rarity": "C",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP10-110.png",
+          "cardSet": "ブースターパック 王族の血統【OP-10】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP10-111",
       "name": "Monkey.D.Luffy",
+      "names": {
+        "en": "Monkey.D.Luffy",
+        "ja": "モンキー・D・ルフィ"
+      },
       "category": "Character",
       "cost": 1,
       "power": 2000,
@@ -8994,12 +11607,55 @@
               "category": "retail"
             }
           ]
+        },
+        {
+          "id": "OP10-111~ja",
+          "language": "ja",
+          "set": "OP10",
+          "rarity": "R",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP10-111.png",
+          "cardSet": "ブースターパック 王族の血統【OP-10】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP10-111_p1~ja",
+          "language": "ja",
+          "set": "OP10",
+          "rarity": "R",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP10-111_p1.png",
+          "cardSet": "ブースターパック 王族の血統【OP-10】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP10-111_r1~ja",
+          "language": "ja",
+          "set": "ST36",
+          "rarity": "R",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP10-111_r1.png",
+          "cardSet": "スタートデッキ 黄 ユースタス・キッド【ST-36】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP10-112",
       "name": "Eustass\"Captain\"Kid",
+      "names": {
+        "en": "Eustass\"Captain\"Kid",
+        "ja": "ユースタス・キッド"
+      },
       "category": "Character",
       "cost": 8,
       "power": 9000,
@@ -9089,12 +11745,55 @@
           ],
           "artOf": "OP10-112",
           "artist": "Studio Vigor Co. Ltd"
+        },
+        {
+          "id": "OP10-112~ja",
+          "language": "ja",
+          "set": "OP10",
+          "rarity": "SR",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP10-112.png",
+          "cardSet": "ブースターパック 王族の血統【OP-10】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP10-112_p1~ja",
+          "language": "ja",
+          "set": "OP10",
+          "rarity": "SR",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP10-112_p1.png",
+          "cardSet": "ブースターパック 王族の血統【OP-10】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP10-112_r1~ja",
+          "language": "ja",
+          "set": "PRB02",
+          "rarity": "SR",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP10-112_r1.png",
+          "cardSet": "ONE PIECE CARD THE BEST vol.2【PRB-02】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "OP10-113",
       "name": "Roronoa Zoro",
+      "names": {
+        "en": "Roronoa Zoro",
+        "ja": "ロロノア・ゾロ"
+      },
       "category": "Character",
       "cost": 3,
       "power": 5000,
@@ -9211,12 +11910,29 @@
               "category": "event"
             }
           ]
+        },
+        {
+          "id": "OP10-113~ja",
+          "language": "ja",
+          "set": "OP10",
+          "rarity": "UC",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP10-113.png",
+          "cardSet": "ブースターパック 王族の血統【OP-10】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP10-114",
       "name": "X.Drake",
+      "names": {
+        "en": "X.Drake",
+        "ja": "X・ドレーク"
+      },
       "category": "Character",
       "cost": 3,
       "power": 3000,
@@ -9380,12 +12096,81 @@
             }
           ],
           "artist": "tasaka"
+        },
+        {
+          "id": "OP10-114~ja",
+          "language": "ja",
+          "set": "OP10",
+          "rarity": "UC",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP10-114.png",
+          "cardSet": "ブースターパック 王族の血統【OP-10】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
+        },
+        {
+          "id": "OP10-114_p1~ja",
+          "language": "ja",
+          "set": "PRB02",
+          "rarity": "UC",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP10-114_p1.png",
+          "cardSet": "ONE PIECE CARD THE BEST vol.2【PRB-02】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP10-114_p2~ja",
+          "language": "ja",
+          "set": "PRB02",
+          "rarity": "UC",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP10-114_p2.png",
+          "cardSet": "ONE PIECE CARD THE BEST vol.2【PRB-02】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP10-114_r1~ja",
+          "language": "ja",
+          "set": "PRB02",
+          "rarity": "UC",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP10-114_r1.png",
+          "cardSet": "ONE PIECE CARD THE BEST vol.2【PRB-02】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
+        },
+        {
+          "id": "OP10-114_r2~ja",
+          "language": "ja",
+          "set": "ST36",
+          "rarity": "UC",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP10-114_r2.png",
+          "cardSet": "スタートデッキ 黄 ユースタス・キッド【ST-36】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP10-115",
       "name": "Let's Meet Again in the New World",
+      "names": {
+        "en": "Let's Meet Again in the New World",
+        "ja": "“新世界”で会おうぜ"
+      },
       "category": "Event",
       "cost": 2,
       "colors": [
@@ -9444,12 +12229,29 @@
               "category": "event"
             }
           ]
+        },
+        {
+          "id": "OP10-115~ja",
+          "language": "ja",
+          "set": "OP10",
+          "rarity": "C",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP10-115.png",
+          "cardSet": "ブースターパック 王族の血統【OP-10】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP10-116",
       "name": "Damned Punk",
+      "names": {
+        "en": "Damned Punk",
+        "ja": "電磁砲"
+      },
       "category": "Event",
       "cost": 4,
       "colors": [
@@ -9481,12 +12283,29 @@
             "match": "image-only-candidate",
             "distance": 0
           }
+        },
+        {
+          "id": "OP10-116~ja",
+          "language": "ja",
+          "set": "OP10",
+          "rarity": "R",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP10-116.png",
+          "cardSet": "ブースターパック 王族の血統【OP-10】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "OP10-117",
       "name": "ROOM",
+      "names": {
+        "en": "ROOM",
+        "ja": "ROOM"
+      },
       "category": "Event",
       "cost": 1,
       "colors": [
@@ -9545,12 +12364,29 @@
               "category": "event"
             }
           ]
+        },
+        {
+          "id": "OP10-117~ja",
+          "language": "ja",
+          "set": "OP10",
+          "rarity": "UC",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP10-117.png",
+          "cardSet": "ブースターパック 王族の血統【OP-10】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP10-118",
       "name": "Monkey.D.Luffy",
+      "names": {
+        "en": "Monkey.D.Luffy",
+        "ja": "モンキー・D・ルフィ"
+      },
       "category": "Character",
       "cost": 6,
       "power": 7000,
@@ -9614,12 +12450,42 @@
           "treatments": [
             "parallel"
           ]
+        },
+        {
+          "id": "OP10-118~ja",
+          "language": "ja",
+          "set": "OP10",
+          "rarity": "SEC",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP10-118.png",
+          "cardSet": "ブースターパック 王族の血統【OP-10】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP10-118_p1~ja",
+          "language": "ja",
+          "set": "OP10",
+          "rarity": "SEC",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP10-118_p1.png",
+          "cardSet": "ブースターパック 王族の血統【OP-10】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "OP10-119",
       "name": "Trafalgar Law",
+      "names": {
+        "en": "Trafalgar Law",
+        "ja": "トラファルガー・ロー"
+      },
       "category": "Character",
       "cost": 7,
       "power": 9000,
@@ -9760,6 +12626,71 @@
           ],
           "artOf": "OP10-119",
           "artist": "lack"
+        },
+        {
+          "id": "OP10-119~ja",
+          "language": "ja",
+          "set": "OP10",
+          "rarity": "SEC",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP10-119.png",
+          "cardSet": "ブースターパック 王族の血統【OP-10】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP10-119_p1~ja",
+          "language": "ja",
+          "set": "OP10",
+          "rarity": "SEC",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP10-119_p1.png",
+          "cardSet": "ブースターパック 王族の血統【OP-10】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP10-119_p2~ja",
+          "language": "ja",
+          "set": "OP10",
+          "rarity": "SEC",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP10-119_p2.png",
+          "cardSet": "ブースターパック 王族の血統【OP-10】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP10-119_p3~ja",
+          "language": "ja",
+          "set": "PRB02",
+          "rarity": "SP CARD",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP10-119_p3.png",
+          "cardSet": "ONE PIECE CARD THE BEST vol.2【PRB-02】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP10-119_r1~ja",
+          "language": "ja",
+          "set": "PRB02",
+          "rarity": "SEC",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP10-119_r1.png",
+          "cardSet": "ONE PIECE CARD THE BEST vol.2【PRB-02】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     }

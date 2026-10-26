@@ -65,7 +65,7 @@ def main() -> None:
     linked, close, missing = 0, [], []
     for body in files.values():
         for card in body["cards"]:
-            bandai = [p for p in card["printings"] if p["source"] == "bandai"]
+            bandai = [p for p in card["printings"] if p["source"] == "bandai" and opjson.language(p) == "en"]
             for p in bandai:
                 p.pop("artOf", None)
             links, c, m = link(bandai, hash_of)

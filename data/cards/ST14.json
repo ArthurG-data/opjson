@@ -3,6 +3,10 @@
     {
       "number": "ST14-001",
       "name": "Monkey.D.Luffy",
+      "names": {
+        "en": "Monkey.D.Luffy",
+        "ja": "モンキー・D・ルフィ"
+      },
       "category": "Leader",
       "power": 5000,
       "life": 5,
@@ -38,12 +42,29 @@
             "distance": 4
           },
           "artist": "Hokuyuu"
+        },
+        {
+          "id": "ST14-001~ja",
+          "language": "ja",
+          "set": "ST14",
+          "rarity": "L",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/ST14-001.png",
+          "cardSet": "3D2Y【ST-14】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "ST14-002",
       "name": "Usopp",
+      "names": {
+        "en": "Usopp",
+        "ja": "ウソップ"
+      },
       "category": "Character",
       "cost": 3,
       "power": 4000,
@@ -80,12 +101,29 @@
             "distance": 4
           },
           "artist": "HISASHI HUJIWARA"
+        },
+        {
+          "id": "ST14-002~ja",
+          "language": "ja",
+          "set": "ST14",
+          "rarity": "C",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/ST14-002.png",
+          "cardSet": "3D2Y【ST-14】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "ST14-003",
       "name": "Sanji",
+      "names": {
+        "en": "Sanji",
+        "ja": "サンジ"
+      },
       "category": "Character",
       "cost": 5,
       "power": 6000,
@@ -147,12 +185,42 @@
             "sp"
           ],
           "artist": "otton"
+        },
+        {
+          "id": "ST14-003~ja",
+          "language": "ja",
+          "set": "ST14",
+          "rarity": "SR",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/ST14-003.png",
+          "cardSet": "3D2Y【ST-14】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "ST14-003_p1~ja",
+          "language": "ja",
+          "set": "OP10",
+          "rarity": "SP CARD",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/ST14-003_p1.png",
+          "cardSet": "ブースターパック 王族の血統【OP-10】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "ST14-004",
       "name": "Jinbe",
+      "names": {
+        "en": "Jinbe",
+        "ja": "ジンベエ"
+      },
       "category": "Character",
       "cost": 3,
       "power": 4000,
@@ -190,12 +258,29 @@
             "distance": 4
           },
           "artist": "kankurou"
+        },
+        {
+          "id": "ST14-004~ja",
+          "language": "ja",
+          "set": "ST14",
+          "rarity": "C",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/ST14-004.png",
+          "cardSet": "3D2Y【ST-14】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "ST14-005",
       "name": "Tony Tony.Chopper",
+      "names": {
+        "en": "Tony Tony.Chopper",
+        "ja": "トニートニー・チョッパー"
+      },
       "category": "Character",
       "cost": 4,
       "power": 6000,
@@ -233,12 +318,29 @@
             "distance": 1
           },
           "artist": "Yasushi Yamaguchi"
+        },
+        {
+          "id": "ST14-005~ja",
+          "language": "ja",
+          "set": "ST14",
+          "rarity": "C",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/ST14-005.png",
+          "cardSet": "3D2Y【ST-14】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "ST14-006",
       "name": "Nami",
+      "names": {
+        "en": "Nami",
+        "ja": "ナミ"
+      },
       "category": "Character",
       "cost": 3,
       "power": 2000,
@@ -275,12 +377,29 @@
             "distance": 1
           },
           "artist": "Yuu Shimotsuki"
+        },
+        {
+          "id": "ST14-006~ja",
+          "language": "ja",
+          "set": "ST14",
+          "rarity": "SR",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/ST14-006.png",
+          "cardSet": "3D2Y【ST-14】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "ST14-007",
       "name": "Nico Robin",
+      "names": {
+        "en": "Nico Robin",
+        "ja": "ニコ・ロビン"
+      },
       "category": "Character",
       "cost": 6,
       "power": 7000,
@@ -373,12 +492,55 @@
           ],
           "artOf": "ST14-007",
           "artist": "BISAI"
+        },
+        {
+          "id": "ST14-007~ja",
+          "language": "ja",
+          "set": "ST14",
+          "rarity": "C",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/ST14-007.png",
+          "cardSet": "3D2Y【ST-14】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
+        },
+        {
+          "id": "ST14-007_p1~ja",
+          "language": "ja",
+          "set": "PRB02",
+          "rarity": "C",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/ST14-007_p1.png",
+          "cardSet": "ONE PIECE CARD THE BEST vol.2【PRB-02】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "ST14-007_r1~ja",
+          "language": "ja",
+          "set": "PRB02",
+          "rarity": "C",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/ST14-007_r1.png",
+          "cardSet": "ONE PIECE CARD THE BEST vol.2【PRB-02】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "ST14-008",
       "name": "Haredas",
+      "names": {
+        "en": "Haredas",
+        "ja": "ハレダス"
+      },
       "category": "Character",
       "cost": 1,
       "counter": 2000,
@@ -414,12 +576,29 @@
             "distance": 1
           },
           "artist": "kankurou"
+        },
+        {
+          "id": "ST14-008~ja",
+          "language": "ja",
+          "set": "ST14",
+          "rarity": "C",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/ST14-008.png",
+          "cardSet": "3D2Y【ST-14】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "ST14-009",
       "name": "Franky",
+      "names": {
+        "en": "Franky",
+        "ja": "フランキー"
+      },
       "category": "Character",
       "cost": 5,
       "power": 6000,
@@ -456,12 +635,29 @@
             "distance": 3
           },
           "artist": "Nekobayashi"
+        },
+        {
+          "id": "ST14-009~ja",
+          "language": "ja",
+          "set": "ST14",
+          "rarity": "C",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/ST14-009.png",
+          "cardSet": "3D2Y【ST-14】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "ST14-010",
       "name": "Brook",
+      "names": {
+        "en": "Brook",
+        "ja": "ブルック"
+      },
       "category": "Character",
       "cost": 5,
       "power": 7000,
@@ -580,12 +776,68 @@
           ],
           "artOf": "ST14-010",
           "artist": "DAI-XT."
+        },
+        {
+          "id": "ST14-010~ja",
+          "language": "ja",
+          "set": "ST14",
+          "rarity": "C",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/ST14-010.png",
+          "cardSet": "3D2Y【ST-14】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
+        },
+        {
+          "id": "ST14-010_p1~ja",
+          "language": "ja",
+          "set": "PRB02",
+          "rarity": "C",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/ST14-010_p1.png",
+          "cardSet": "ONE PIECE CARD THE BEST vol.2【PRB-02】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "ST14-010_r1~ja",
+          "language": "ja",
+          "set": "ST26",
+          "rarity": "C",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/ST14-010_r1.png",
+          "cardSet": "スタートデッキ 紫黒 モンキー・D・ルフィ【ST-26】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
+        },
+        {
+          "id": "ST14-010_r2~ja",
+          "language": "ja",
+          "set": "PRB02",
+          "rarity": "C",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/ST14-010_r2.png",
+          "cardSet": "ONE PIECE CARD THE BEST vol.2【PRB-02】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "ST14-011",
       "name": "Heracles",
+      "names": {
+        "en": "Heracles",
+        "ja": "ヘラクレス"
+      },
       "category": "Character",
       "cost": 1,
       "power": 2000,
@@ -622,12 +874,29 @@
             "distance": 3
           },
           "artist": "Nekobayashi"
+        },
+        {
+          "id": "ST14-011~ja",
+          "language": "ja",
+          "set": "ST14",
+          "rarity": "C",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/ST14-011.png",
+          "cardSet": "3D2Y【ST-14】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "ST14-012",
       "name": "Monkey.D.Luffy",
+      "names": {
+        "en": "Monkey.D.Luffy",
+        "ja": "モンキー・D・ルフィ"
+      },
       "category": "Character",
       "cost": 8,
       "power": 10000,
@@ -663,12 +932,29 @@
             "distance": 7
           },
           "artist": "Nijihayashi"
+        },
+        {
+          "id": "ST14-012~ja",
+          "language": "ja",
+          "set": "ST14",
+          "rarity": "C",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/ST14-012.png",
+          "cardSet": "3D2Y【ST-14】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "ST14-013",
       "name": "Roronoa Zoro",
+      "names": {
+        "en": "Roronoa Zoro",
+        "ja": "ロロノア・ゾロ"
+      },
       "category": "Character",
       "cost": 6,
       "power": 8000,
@@ -761,12 +1047,55 @@
           ],
           "artOf": "ST14-013",
           "artist": "Daisuke Izuka"
+        },
+        {
+          "id": "ST14-013~ja",
+          "language": "ja",
+          "set": "ST14",
+          "rarity": "C",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/ST14-013.png",
+          "cardSet": "3D2Y【ST-14】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
+        },
+        {
+          "id": "ST14-013_p1~ja",
+          "language": "ja",
+          "set": "PRB02",
+          "rarity": "C",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/ST14-013_p1.png",
+          "cardSet": "ONE PIECE CARD THE BEST vol.2【PRB-02】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "ST14-013_r1~ja",
+          "language": "ja",
+          "set": "PRB02",
+          "rarity": "C",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/ST14-013_r1.png",
+          "cardSet": "ONE PIECE CARD THE BEST vol.2【PRB-02】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "ST14-014",
       "name": "Gum-Gum Giant Rifle",
+      "names": {
+        "en": "Gum-Gum Giant Rifle",
+        "ja": "ゴムゴムの巨人の回転弾"
+      },
       "category": "Event",
       "cost": 1,
       "colors": [
@@ -798,12 +1127,29 @@
             "distance": 3
           },
           "artist": "Yasushi Yamaguchi"
+        },
+        {
+          "id": "ST14-014~ja",
+          "language": "ja",
+          "set": "ST14",
+          "rarity": "C",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/ST14-014.png",
+          "cardSet": "3D2Y【ST-14】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "ST14-015",
       "name": "Gum-Gum Diable Three-Swords Style Mouten Jet Six Hundred Pound Phoenix Cannon",
+      "names": {
+        "en": "Gum-Gum Diable Three-Swords Style Mouten Jet Six Hundred Pound Phoenix Cannon",
+        "ja": "ゴムゴムの悪魔風三刀流羊肉JET六百煩悩攻城砲"
+      },
       "category": "Event",
       "cost": 2,
       "colors": [
@@ -835,12 +1181,29 @@
             "distance": 2
           },
           "artist": "Yasushi Yamaguchi"
+        },
+        {
+          "id": "ST14-015~ja",
+          "language": "ja",
+          "set": "ST14",
+          "rarity": "C",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/ST14-015.png",
+          "cardSet": "3D2Y【ST-14】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "ST14-016",
       "name": "I Have My Crew!!",
+      "names": {
+        "en": "I Have My Crew!!",
+        "ja": "仲間がいる゛よ!!!!"
+      },
       "category": "Event",
       "cost": 1,
       "colors": [
@@ -926,12 +1289,55 @@
             "reprint"
           ],
           "artOf": "ST14-016"
+        },
+        {
+          "id": "ST14-016~ja",
+          "language": "ja",
+          "set": "ST14",
+          "rarity": "C",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/ST14-016.png",
+          "cardSet": "3D2Y【ST-14】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
+        },
+        {
+          "id": "ST14-016_p1~ja",
+          "language": "ja",
+          "set": "PRB02",
+          "rarity": "C",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/ST14-016_p1.png",
+          "cardSet": "ONE PIECE CARD THE BEST vol.2【PRB-02】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "ST14-016_r1~ja",
+          "language": "ja",
+          "set": "PRB02",
+          "rarity": "C",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/ST14-016_r1.png",
+          "cardSet": "ONE PIECE CARD THE BEST vol.2【PRB-02】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "ST14-017",
       "name": "Thousand Sunny",
+      "names": {
+        "en": "Thousand Sunny",
+        "ja": "サウザンド・サニー号"
+      },
       "category": "Stage",
       "cost": 1,
       "colors": [
@@ -1016,6 +1422,45 @@
             "reprint"
           ],
           "artOf": "ST14-017"
+        },
+        {
+          "id": "ST14-017~ja",
+          "language": "ja",
+          "set": "ST14",
+          "rarity": "C",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/ST14-017.png",
+          "cardSet": "3D2Y【ST-14】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
+        },
+        {
+          "id": "ST14-017_p1~ja",
+          "language": "ja",
+          "set": "PRB02",
+          "rarity": "C",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/ST14-017_p1.png",
+          "cardSet": "ONE PIECE CARD THE BEST vol.2【PRB-02】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "ST14-017_r1~ja",
+          "language": "ja",
+          "set": "PRB02",
+          "rarity": "C",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/ST14-017_r1.png",
+          "cardSet": "ONE PIECE CARD THE BEST vol.2【PRB-02】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     }

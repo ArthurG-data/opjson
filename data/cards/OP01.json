@@ -3,6 +3,10 @@
     {
       "number": "OP01-001",
       "name": "Roronoa Zoro",
+      "names": {
+        "en": "Roronoa Zoro",
+        "ja": "ロロノア・ゾロ"
+      },
       "category": "Leader",
       "power": 5000,
       "life": 5,
@@ -108,12 +112,59 @@
           "finishes": [
             "nonfoil"
           ]
+        },
+        {
+          "id": "OP01-001~ja",
+          "language": "ja",
+          "set": "OP01",
+          "rarity": "L",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP01-001.png",
+          "cardSet": "ROMANCE DAWN【OP-01】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
+        },
+        {
+          "id": "OP01-001_p1~ja",
+          "language": "ja",
+          "set": "OTHER",
+          "rarity": "L",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP01-001_p1.png",
+          "cardSet": "プレミアムカードコレクション 25周年エディション",
+          "source": "bandai"
+        },
+        {
+          "id": "OP01-001_p2~ja",
+          "language": "ja",
+          "set": "OP01",
+          "rarity": "L",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP01-001_p2.png",
+          "cardSet": "ROMANCE DAWN【OP-01】",
+          "source": "bandai"
+        },
+        {
+          "id": "OP01-001_p3~ja",
+          "language": "ja",
+          "set": "OTHER",
+          "rarity": "L",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP01-001_p3.png",
+          "cardSet": "週刊少年ジャンプ応募者全員サービス",
+          "source": "bandai"
         }
       ]
     },
     {
       "number": "OP01-002",
       "name": "Trafalgar Law",
+      "names": {
+        "en": "Trafalgar Law",
+        "ja": "トラファルガー・ロー"
+      },
       "category": "Leader",
       "power": 5000,
       "life": 4,
@@ -175,12 +226,42 @@
           "treatments": [
             "parallel"
           ]
+        },
+        {
+          "id": "OP01-002~ja",
+          "language": "ja",
+          "set": "OP01",
+          "rarity": "L",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP01-002.png",
+          "cardSet": "ROMANCE DAWN【OP-01】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
+        },
+        {
+          "id": "OP01-002_p1~ja",
+          "language": "ja",
+          "set": "OP01",
+          "rarity": "L",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP01-002_p1.png",
+          "cardSet": "ROMANCE DAWN【OP-01】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "OP01-003",
       "name": "Monkey.D.Luffy",
+      "names": {
+        "en": "Monkey.D.Luffy",
+        "ja": "モンキー・D・ルフィ"
+      },
       "category": "Leader",
       "power": 5000,
       "life": 4,
@@ -262,12 +343,42 @@
           "finishes": [
             "nonfoil"
           ]
+        },
+        {
+          "id": "OP01-003~ja",
+          "language": "ja",
+          "set": "OP01",
+          "rarity": "L",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP01-003.png",
+          "cardSet": "ROMANCE DAWN【OP-01】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
+        },
+        {
+          "id": "OP01-003_p1~ja",
+          "language": "ja",
+          "set": "OP01",
+          "rarity": "L",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP01-003_p1.png",
+          "cardSet": "ROMANCE DAWN【OP-01】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "OP01-004",
       "name": "Usopp",
+      "names": {
+        "en": "Usopp",
+        "ja": "ウソップ"
+      },
       "category": "Character",
       "cost": 2,
       "power": 3000,
@@ -448,12 +559,39 @@
           "finishes": [
             "nonfoil"
           ]
+        },
+        {
+          "id": "OP01-004~ja",
+          "language": "ja",
+          "set": "OP01",
+          "rarity": "R",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP01-004.png",
+          "cardSet": "ROMANCE DAWN【OP-01】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP01-004_p2~ja",
+          "language": "ja",
+          "set": "P",
+          "rarity": "R",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP01-004_p2.png",
+          "cardSet": "チャンピオンシップ2022 予選 ベスト32記念品",
+          "source": "bandai"
         }
       ]
     },
     {
       "number": "OP01-005",
       "name": "Uta",
+      "names": {
+        "en": "Uta",
+        "ja": "ウタ"
+      },
       "category": "Character",
       "cost": 4,
       "power": 4000,
@@ -615,12 +753,73 @@
           "finishes": [
             "nonfoil"
           ]
+        },
+        {
+          "id": "OP01-005~ja",
+          "language": "ja",
+          "set": "OP01",
+          "rarity": "R",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP01-005.png",
+          "cardSet": "ROMANCE DAWN【OP-01】",
+          "source": "bandai",
+          "finishes": [
+            "foil",
+            "nonfoil"
+          ]
+        },
+        {
+          "id": "OP01-005_p1~ja",
+          "language": "ja",
+          "set": "P",
+          "rarity": "R",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP01-005_p1.png",
+          "cardSet": "『ONE PIECE FILM RED』入場者プレゼント フィナーレセット",
+          "source": "bandai"
+        },
+        {
+          "id": "OP01-005_p2~ja",
+          "language": "ja",
+          "set": "OTHER",
+          "rarity": "R",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP01-005_p2.png",
+          "cardSet": "プレミアムカードコレクション ‐ONE PIECE FILM RED ‐",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP01-005_p3~ja",
+          "language": "ja",
+          "set": "OTHER",
+          "rarity": "R",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP01-005_p3.png",
+          "cardSet": "プレミアムカードコレクション-ウタ-",
+          "source": "bandai"
+        },
+        {
+          "id": "OP01-005_p4~ja",
+          "language": "ja",
+          "set": "P",
+          "rarity": "R",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP01-005_p4.png",
+          "cardSet": "プロモーションカードセット",
+          "source": "bandai"
         }
       ]
     },
     {
       "number": "OP01-006",
       "name": "Otama",
+      "names": {
+        "en": "Otama",
+        "ja": "お玉"
+      },
       "category": "Character",
       "cost": 1,
       "counter": 2000,
@@ -1004,12 +1203,85 @@
               "category": "retail"
             }
           ]
+        },
+        {
+          "id": "OP01-006~ja",
+          "language": "ja",
+          "set": "OP01",
+          "rarity": "UC",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP01-006.png",
+          "cardSet": "ROMANCE DAWN【OP-01】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
+        },
+        {
+          "id": "OP01-006_p1~ja",
+          "language": "ja",
+          "set": "PRB01",
+          "rarity": "UC",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP01-006_p1.png",
+          "cardSet": "ONE PIECE CARD THE BEST【PRB-01】",
+          "source": "bandai"
+        },
+        {
+          "id": "OP01-006_p2~ja",
+          "language": "ja",
+          "set": "PRB01",
+          "rarity": "UC",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP01-006_p2.png",
+          "cardSet": "ONE PIECE CARD THE BEST【PRB-01】",
+          "source": "bandai"
+        },
+        {
+          "id": "OP01-006_p3~ja",
+          "language": "ja",
+          "set": "PRB01",
+          "rarity": "UC",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP01-006_p3.png",
+          "cardSet": "ONE PIECE CARD THE BEST【PRB-01】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP01-006_p4~ja",
+          "language": "ja",
+          "set": "OTHER",
+          "rarity": "UC",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP01-006_p4.png",
+          "cardSet": "1st ANNIVERSARY SET",
+          "source": "bandai"
+        },
+        {
+          "id": "OP01-006_r1~ja",
+          "language": "ja",
+          "set": "PRB01",
+          "rarity": "UC",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP01-006_r1.png",
+          "cardSet": "ONE PIECE CARD THE BEST【PRB-01】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP01-007",
       "name": "Caribou",
+      "names": {
+        "en": "Caribou",
+        "ja": "カリブー"
+      },
       "category": "Character",
       "cost": 3,
       "power": 4000,
@@ -1047,12 +1319,29 @@
             "distance": 5
           },
           "artist": "kankurou"
+        },
+        {
+          "id": "OP01-007~ja",
+          "language": "ja",
+          "set": "OP01",
+          "rarity": "C",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP01-007.png",
+          "cardSet": "ROMANCE DAWN【OP-01】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP01-008",
       "name": "Cavendish",
+      "names": {
+        "en": "Cavendish",
+        "ja": "キャベンディッシュ"
+      },
       "category": "Character",
       "cost": 4,
       "power": 5000,
@@ -1138,12 +1427,42 @@
           "finishes": [
             "nonfoil"
           ]
+        },
+        {
+          "id": "OP01-008~ja",
+          "language": "ja",
+          "set": "OP01",
+          "rarity": "C",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP01-008.png",
+          "cardSet": "ROMANCE DAWN【OP-01】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
+        },
+        {
+          "id": "OP01-008_p1~ja",
+          "language": "ja",
+          "set": "OP01",
+          "rarity": "C",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP01-008_p1.png",
+          "cardSet": "ROMANCE DAWN【OP-01】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "OP01-009",
       "name": "Carrot",
+      "names": {
+        "en": "Carrot",
+        "ja": "キャロット"
+      },
       "category": "Character",
       "cost": 2,
       "power": 3000,
@@ -1180,12 +1499,29 @@
             "distance": 6
           },
           "artist": "Rina Usui"
+        },
+        {
+          "id": "OP01-009~ja",
+          "language": "ja",
+          "set": "OP01",
+          "rarity": "C",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP01-009.png",
+          "cardSet": "ROMANCE DAWN【OP-01】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP01-010",
       "name": "Komachiyo",
+      "names": {
+        "en": "Komachiyo",
+        "ja": "狛ちよ"
+      },
       "category": "Character",
       "cost": 1,
       "power": 3000,
@@ -1223,12 +1559,29 @@
             "distance": 4
           },
           "artist": "HISASHI HUJIWARA"
+        },
+        {
+          "id": "OP01-010~ja",
+          "language": "ja",
+          "set": "OP01",
+          "rarity": "C",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP01-010.png",
+          "cardSet": "ROMANCE DAWN【OP-01】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP01-011",
       "name": "Gordon",
+      "names": {
+        "en": "Gordon",
+        "ja": "ゴードン"
+      },
       "category": "Character",
       "cost": 2,
       "power": 3000,
@@ -1284,12 +1637,29 @@
           "finishes": [
             "nonfoil"
           ]
+        },
+        {
+          "id": "OP01-011~ja",
+          "language": "ja",
+          "set": "OP01",
+          "rarity": "UC",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP01-011.png",
+          "cardSet": "ROMANCE DAWN【OP-01】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP01-012",
       "name": "Sai",
+      "names": {
+        "en": "Sai",
+        "ja": "サイ"
+      },
       "category": "Character",
       "cost": 2,
       "power": 4000,
@@ -1346,12 +1716,29 @@
           "finishes": [
             "nonfoil"
           ]
+        },
+        {
+          "id": "OP01-012~ja",
+          "language": "ja",
+          "set": "OP01",
+          "rarity": "C",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP01-012.png",
+          "cardSet": "ROMANCE DAWN【OP-01】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP01-013",
       "name": "Sanji",
+      "names": {
+        "en": "Sanji",
+        "ja": "サンジ"
+      },
       "category": "Character",
       "cost": 2,
       "power": 3000,
@@ -1546,12 +1933,59 @@
           "finishes": [
             "nonfoil"
           ]
+        },
+        {
+          "id": "OP01-013~ja",
+          "language": "ja",
+          "set": "OP01",
+          "rarity": "R",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP01-013.png",
+          "cardSet": "ROMANCE DAWN【OP-01】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP01-013_p1~ja",
+          "language": "ja",
+          "set": "OTHER",
+          "rarity": "R",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP01-013_p1.png",
+          "cardSet": "プレミアムカードコレクション 25周年エディション",
+          "source": "bandai"
+        },
+        {
+          "id": "OP01-013_p2~ja",
+          "language": "ja",
+          "set": "OP01",
+          "rarity": "R",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP01-013_p2.png",
+          "cardSet": "ROMANCE DAWN【OP-01】",
+          "source": "bandai"
+        },
+        {
+          "id": "OP01-013_p3~ja",
+          "language": "ja",
+          "set": "P",
+          "rarity": "R",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP01-013_p3.png",
+          "cardSet": "プロモーションカードセット",
+          "source": "bandai"
         }
       ]
     },
     {
       "number": "OP01-014",
       "name": "Jinbe",
+      "names": {
+        "en": "Jinbe",
+        "ja": "ジンベエ"
+      },
       "category": "Character",
       "cost": 4,
       "power": 5000,
@@ -1619,12 +2053,49 @@
               "category": "retail"
             }
           ]
+        },
+        {
+          "id": "OP01-014~ja",
+          "language": "ja",
+          "set": "OP01",
+          "rarity": "UC",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP01-014.png",
+          "cardSet": "ROMANCE DAWN【OP-01】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
+        },
+        {
+          "id": "OP01-014_p1~ja",
+          "language": "ja",
+          "set": "P",
+          "rarity": "UC",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP01-014_p1.png",
+          "cardSet": "『ONE PIECE FILM RED』入場者プレゼント フィナーレセット",
+          "source": "bandai"
+        },
+        {
+          "id": "OP01-014_p2~ja",
+          "language": "ja",
+          "set": "OTHER",
+          "rarity": "UC",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP01-014_p2.png",
+          "cardSet": "プレミアムカードコレクション ‐ONE PIECE FILM RED ‐",
+          "source": "bandai"
         }
       ]
     },
     {
       "number": "OP01-015",
       "name": "Tony Tony.Chopper",
+      "names": {
+        "en": "Tony Tony.Chopper",
+        "ja": "トニートニー・チョッパー"
+      },
       "category": "Character",
       "cost": 3,
       "power": 4000,
@@ -1847,12 +2318,42 @@
           "finishes": [
             "nonfoil"
           ]
+        },
+        {
+          "id": "OP01-015~ja",
+          "language": "ja",
+          "set": "OP01",
+          "rarity": "UC",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP01-015.png",
+          "cardSet": "ROMANCE DAWN【OP-01】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
+        },
+        {
+          "id": "OP01-015_p1~ja",
+          "language": "ja",
+          "set": "P",
+          "rarity": "UC",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP01-015_p1.png",
+          "cardSet": "ONE PIECEカードゲーム プロモーションパックVol.6",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "OP01-016",
       "name": "Nami",
+      "names": {
+        "en": "Nami",
+        "ja": "ナミ"
+      },
       "category": "Character",
       "cost": 1,
       "power": 2000,
@@ -2150,12 +2651,115 @@
           "finishes": [
             "nonfoil"
           ]
+        },
+        {
+          "id": "OP01-016~ja",
+          "language": "ja",
+          "set": "OP01",
+          "rarity": "R",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP01-016.png",
+          "cardSet": "ROMANCE DAWN【OP-01】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP01-016_p1~ja",
+          "language": "ja",
+          "set": "OTHER",
+          "rarity": "R",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP01-016_p1.png",
+          "cardSet": "プレミアムカードコレクション 25周年エディション",
+          "source": "bandai"
+        },
+        {
+          "id": "OP01-016_p2~ja",
+          "language": "ja",
+          "set": "OP01",
+          "rarity": "R",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP01-016_p2.png",
+          "cardSet": "ROMANCE DAWN【OP-01】",
+          "source": "bandai"
+        },
+        {
+          "id": "OP01-016_p3~ja",
+          "language": "ja",
+          "set": "ST10",
+          "rarity": "R",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP01-016_p3.png",
+          "cardSet": "“三船長”集結【ST-10】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP01-016_p4~ja",
+          "language": "ja",
+          "set": "OP05",
+          "rarity": "SP CARD",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP01-016_p4.png",
+          "cardSet": "新時代の主役【OP-05】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP01-016_p5~ja",
+          "language": "ja",
+          "set": "P",
+          "rarity": "R",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP01-016_p5.png",
+          "cardSet": "ジャンプGIGA 2023 SPRING 応募者全員サービス",
+          "source": "bandai"
+        },
+        {
+          "id": "OP01-016_p6~ja",
+          "language": "ja",
+          "set": "P",
+          "rarity": "R",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP01-016_p6.png",
+          "cardSet": "プロモーションカードセット",
+          "source": "bandai"
+        },
+        {
+          "id": "OP01-016_p7~ja",
+          "language": "ja",
+          "set": "PRB01",
+          "rarity": "R",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP01-016_p7.png",
+          "cardSet": "ONE PIECE CARD THE BEST【PRB-01】",
+          "source": "bandai"
+        },
+        {
+          "id": "OP01-016_p8~ja",
+          "language": "ja",
+          "set": "ST31",
+          "rarity": "R",
+          "block": "X",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP01-016_p8.png",
+          "cardSet": "スタートデッキ 赤 モンキー・D・ルフィ【ST-31】",
+          "source": "bandai"
         }
       ]
     },
     {
       "number": "OP01-017",
       "name": "Nico Robin",
+      "names": {
+        "en": "Nico Robin",
+        "ja": "ニコ・ロビン"
+      },
       "category": "Character",
       "cost": 3,
       "power": 4000,
@@ -2286,12 +2890,62 @@
               "category": "event"
             }
           ]
+        },
+        {
+          "id": "OP01-017~ja",
+          "language": "ja",
+          "set": "OP01",
+          "rarity": "R",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP01-017.png",
+          "cardSet": "ROMANCE DAWN【OP-01】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP01-017_p1~ja",
+          "language": "ja",
+          "set": "P",
+          "rarity": "R",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP01-017_p1.png",
+          "cardSet": "『ONE PIECE FILM RED』入場者プレゼント フィナーレセット",
+          "source": "bandai"
+        },
+        {
+          "id": "OP01-017_p2~ja",
+          "language": "ja",
+          "set": "OTHER",
+          "rarity": "R",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP01-017_p2.png",
+          "cardSet": "プレミアムカードコレクション ‐ONE PIECE FILM RED ‐",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP01-017_p3~ja",
+          "language": "ja",
+          "set": "P",
+          "rarity": "R",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP01-017_p3.png",
+          "cardSet": "ONE PIECEカードゲーム プロモーションパックVol.5",
+          "source": "bandai"
         }
       ]
     },
     {
       "number": "OP01-018",
       "name": "Hajrudin",
+      "names": {
+        "en": "Hajrudin",
+        "ja": "ハイルディン"
+      },
       "category": "Character",
       "cost": 4,
       "power": 6000,
@@ -2329,12 +2983,29 @@
             "distance": 6
           },
           "artist": "Nekobayashi"
+        },
+        {
+          "id": "OP01-018~ja",
+          "language": "ja",
+          "set": "OP01",
+          "rarity": "C",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP01-018.png",
+          "cardSet": "ROMANCE DAWN【OP-01】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP01-019",
       "name": "Bartolomeo",
+      "names": {
+        "en": "Bartolomeo",
+        "ja": "バルトロメオ"
+      },
       "category": "Character",
       "cost": 2,
       "power": 2000,
@@ -2392,12 +3063,29 @@
           "finishes": [
             "nonfoil"
           ]
+        },
+        {
+          "id": "OP01-019~ja",
+          "language": "ja",
+          "set": "OP01",
+          "rarity": "C",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP01-019.png",
+          "cardSet": "ROMANCE DAWN【OP-01】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP01-020",
       "name": "Hyogoro",
+      "names": {
+        "en": "Hyogoro",
+        "ja": "ヒョウ五郎"
+      },
       "category": "Character",
       "cost": 2,
       "power": 3000,
@@ -2434,12 +3122,29 @@
             "distance": 7
           },
           "artist": "kankurou"
+        },
+        {
+          "id": "OP01-020~ja",
+          "language": "ja",
+          "set": "OP01",
+          "rarity": "C",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP01-020.png",
+          "cardSet": "ROMANCE DAWN【OP-01】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP01-021",
       "name": "Franky",
+      "names": {
+        "en": "Franky",
+        "ja": "フランキー"
+      },
       "category": "Character",
       "cost": 3,
       "power": 4000,
@@ -2651,12 +3356,82 @@
           "finishes": [
             "nonfoil"
           ]
+        },
+        {
+          "id": "OP01-021~ja",
+          "language": "ja",
+          "set": "OP01",
+          "rarity": "UC",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP01-021.png",
+          "cardSet": "ROMANCE DAWN【OP-01】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
+        },
+        {
+          "id": "OP01-021_p1~ja",
+          "language": "ja",
+          "set": "P",
+          "rarity": "UC",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP01-021_p1.png",
+          "cardSet": "『ONE PIECE FILM RED』入場者プレゼント フィナーレセット",
+          "source": "bandai"
+        },
+        {
+          "id": "OP01-021_p2~ja",
+          "language": "ja",
+          "set": "P",
+          "rarity": "UC",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP01-021_p2.png",
+          "cardSet": "スタンダードバトル 9月優勝記念品",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
+        },
+        {
+          "id": "OP01-021_p3~ja",
+          "language": "ja",
+          "set": "P",
+          "rarity": "UC",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP01-021_p3.png",
+          "cardSet": "スタンダードバトルパック2022 Vol.1",
+          "source": "bandai"
+        },
+        {
+          "id": "OP01-021_p4~ja",
+          "language": "ja",
+          "set": "OTHER",
+          "rarity": "UC",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP01-021_p4.png",
+          "cardSet": "プレミアムカードコレクション ‐ONE PIECE FILM RED ‐",
+          "source": "bandai"
+        },
+        {
+          "id": "OP01-021_p5~ja",
+          "language": "ja",
+          "set": "P",
+          "rarity": "UC",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP01-021_p5.png",
+          "cardSet": "プロモーションカードセット",
+          "source": "bandai"
         }
       ]
     },
     {
       "number": "OP01-022",
       "name": "Brook",
+      "names": {
+        "en": "Brook",
+        "ja": "ブルック"
+      },
       "category": "Character",
       "cost": 4,
       "power": 5000,
@@ -2717,12 +3492,42 @@
           "treatments": [
             "alternate_art"
           ]
+        },
+        {
+          "id": "OP01-022~ja",
+          "language": "ja",
+          "set": "OP01",
+          "rarity": "UC",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP01-022.png",
+          "cardSet": "ROMANCE DAWN【OP-01】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
+        },
+        {
+          "id": "OP01-022_p1~ja",
+          "language": "ja",
+          "set": "OTHER",
+          "rarity": "UC",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP01-022_p1.png",
+          "cardSet": "プレミアムカードコレクション 25周年エディション",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "OP01-023",
       "name": "Marco",
+      "names": {
+        "en": "Marco",
+        "ja": "マルコ"
+      },
       "category": "Character",
       "cost": 3,
       "power": 5000,
@@ -2758,12 +3563,29 @@
             "match": "image-only-candidate",
             "distance": 6
           }
+        },
+        {
+          "id": "OP01-023~ja",
+          "language": "ja",
+          "set": "OP01",
+          "rarity": "C",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP01-023.png",
+          "cardSet": "ROMANCE DAWN【OP-01】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP01-024",
       "name": "Monkey.D.Luffy",
+      "names": {
+        "en": "Monkey.D.Luffy",
+        "ja": "モンキー・D・ルフィ"
+      },
       "category": "Character",
       "cost": 2,
       "power": 3000,
@@ -2861,12 +3683,62 @@
           "cardSet": "-ONE PIECE CARD THE BEST- [PRB-01]",
           "source": "bandai",
           "artOf": "OP01-024"
+        },
+        {
+          "id": "OP01-024~ja",
+          "language": "ja",
+          "set": "OP01",
+          "rarity": "SR",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP01-024.png",
+          "cardSet": "ROMANCE DAWN【OP-01】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP01-024_p1~ja",
+          "language": "ja",
+          "set": "OP01",
+          "rarity": "SR",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP01-024_p1.png",
+          "cardSet": "ROMANCE DAWN【OP-01】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP01-024_p2~ja",
+          "language": "ja",
+          "set": "PRB01",
+          "rarity": "SR",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP01-024_p2.png",
+          "cardSet": "ONE PIECE CARD THE BEST【PRB-01】",
+          "source": "bandai"
+        },
+        {
+          "id": "OP01-024_r1~ja",
+          "language": "ja",
+          "set": "PRB01",
+          "rarity": "SR",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP01-024_r1.png",
+          "cardSet": "ONE PIECE CARD THE BEST【PRB-01】",
+          "source": "bandai"
         }
       ]
     },
     {
       "number": "OP01-025",
       "name": "Roronoa Zoro",
+      "names": {
+        "en": "Roronoa Zoro",
+        "ja": "ロロノア・ゾロ"
+      },
       "category": "Character",
       "cost": 3,
       "power": 5000,
@@ -3014,12 +3886,65 @@
               "category": "retail"
             }
           ]
+        },
+        {
+          "id": "OP01-025~ja",
+          "language": "ja",
+          "set": "OP01",
+          "rarity": "SR",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP01-025.png",
+          "cardSet": "ROMANCE DAWN【OP-01】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP01-025_p1~ja",
+          "language": "ja",
+          "set": "OP01",
+          "rarity": "SR",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP01-025_p1.png",
+          "cardSet": "ROMANCE DAWN【OP-01】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP01-025_p2~ja",
+          "language": "ja",
+          "set": "ST10",
+          "rarity": "SR",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP01-025_p2.png",
+          "cardSet": "“三船長”集結【ST-10】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP01-025_p4~ja",
+          "language": "ja",
+          "set": "P",
+          "rarity": "SR",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP01-025_p4.png",
+          "cardSet": "フラッグシップバトル2023 4月優勝記念品",
+          "source": "bandai"
         }
       ]
     },
     {
       "number": "OP01-026",
       "name": "Gum-Gum Fire-Fist Pistol Red Hawk",
+      "names": {
+        "en": "Gum-Gum Fire-Fist Pistol Red Hawk",
+        "ja": "ゴムゴムの火拳銃"
+      },
       "category": "Event",
       "cost": 2,
       "colors": [
@@ -3051,12 +3976,29 @@
             "match": "image-only-candidate",
             "distance": 5
           }
+        },
+        {
+          "id": "OP01-026~ja",
+          "language": "ja",
+          "set": "OP01",
+          "rarity": "R",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP01-026.png",
+          "cardSet": "ROMANCE DAWN【OP-01】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "OP01-027",
       "name": "Round Table",
+      "names": {
+        "en": "Round Table",
+        "ja": "円卓"
+      },
       "category": "Event",
       "cost": 4,
       "colors": [
@@ -3088,12 +4030,29 @@
             "match": "image-only-candidate",
             "distance": 1
           }
+        },
+        {
+          "id": "OP01-027~ja",
+          "language": "ja",
+          "set": "OP01",
+          "rarity": "C",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP01-027.png",
+          "cardSet": "ROMANCE DAWN【OP-01】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP01-028",
       "name": "Green Star Rafflesia",
+      "names": {
+        "en": "Green Star Rafflesia",
+        "ja": "必殺緑星ラフレシア"
+      },
       "category": "Event",
       "cost": 1,
       "colors": [
@@ -3124,12 +4083,29 @@
             "match": "image-only-candidate",
             "distance": 13
           }
+        },
+        {
+          "id": "OP01-028~ja",
+          "language": "ja",
+          "set": "OP01",
+          "rarity": "C",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP01-028.png",
+          "cardSet": "ROMANCE DAWN【OP-01】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP01-029",
       "name": "Radical Beam!!",
+      "names": {
+        "en": "Radical Beam!!",
+        "ja": "ラディカルビ～～～ム‼‼"
+      },
       "category": "Event",
       "cost": 1,
       "colors": [
@@ -3285,12 +4261,75 @@
           "finishes": [
             "nonfoil"
           ]
+        },
+        {
+          "id": "OP01-029~ja",
+          "language": "ja",
+          "set": "OP01",
+          "rarity": "UC",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP01-029.png",
+          "cardSet": "ROMANCE DAWN【OP-01】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
+        },
+        {
+          "id": "OP01-029_p2~ja",
+          "language": "ja",
+          "set": "OTHER",
+          "rarity": "UC",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP01-029_p2.png",
+          "cardSet": "プレミアムカードコレクション - ベストセレクションvol.1 -",
+          "source": "bandai"
+        },
+        {
+          "id": "OP01-029_p3~ja",
+          "language": "ja",
+          "set": "PRB01",
+          "rarity": "UC",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP01-029_p3.png",
+          "cardSet": "ONE PIECE CARD THE BEST【PRB-01】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP01-029_p4~ja",
+          "language": "ja",
+          "set": "PRB01",
+          "rarity": "UC",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP01-029_p4.png",
+          "cardSet": "ONE PIECE CARD THE BEST【PRB-01】",
+          "source": "bandai"
+        },
+        {
+          "id": "OP01-029_r1~ja",
+          "language": "ja",
+          "set": "PRB01",
+          "rarity": "UC",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP01-029_r1.png",
+          "cardSet": "ONE PIECE CARD THE BEST【PRB-01】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP01-030",
       "name": "In Two Years!! At the Sabaody Archipelago!!",
+      "names": {
+        "en": "In Two Years!! At the Sabaody Archipelago!!",
+        "ja": "2年後に‼!シャボンディ諸島で!!!"
+      },
       "category": "Event",
       "cost": 1,
       "colors": [
@@ -3353,12 +4392,42 @@
               "category": "retail"
             }
           ]
+        },
+        {
+          "id": "OP01-030~ja",
+          "language": "ja",
+          "set": "OP01",
+          "rarity": "UC",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP01-030.png",
+          "cardSet": "ROMANCE DAWN【OP-01】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
+        },
+        {
+          "id": "OP01-030_p1~ja",
+          "language": "ja",
+          "set": "OTHER",
+          "rarity": "UC",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP01-030_p1.png",
+          "cardSet": "2nd ANNIVERSARY SET",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "OP01-031",
       "name": "Kouzuki Oden",
+      "names": {
+        "en": "Kouzuki Oden",
+        "ja": "光月おでん"
+      },
       "category": "Leader",
       "power": 5000,
       "life": 5,
@@ -3419,12 +4488,42 @@
           "treatments": [
             "parallel"
           ]
+        },
+        {
+          "id": "OP01-031~ja",
+          "language": "ja",
+          "set": "OP01",
+          "rarity": "L",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP01-031.png",
+          "cardSet": "ROMANCE DAWN【OP-01】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
+        },
+        {
+          "id": "OP01-031_p1~ja",
+          "language": "ja",
+          "set": "OP01",
+          "rarity": "L",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP01-031_p1.png",
+          "cardSet": "ROMANCE DAWN【OP-01】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "OP01-032",
       "name": "Ashura Doji",
+      "names": {
+        "en": "Ashura Doji",
+        "ja": "アシュラ童子"
+      },
       "category": "Character",
       "cost": 3,
       "power": 4000,
@@ -3462,12 +4561,29 @@
             "distance": 5
           },
           "artist": "kankurou"
+        },
+        {
+          "id": "OP01-032~ja",
+          "language": "ja",
+          "set": "OP01",
+          "rarity": "UC",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP01-032.png",
+          "cardSet": "ROMANCE DAWN【OP-01】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP01-033",
       "name": "Izo",
+      "names": {
+        "en": "Izo",
+        "ja": "イゾウ"
+      },
       "category": "Character",
       "cost": 3,
       "power": 3000,
@@ -3719,12 +4835,91 @@
               "category": "retail"
             }
           ]
+        },
+        {
+          "id": "OP01-033~ja",
+          "language": "ja",
+          "set": "OP01",
+          "rarity": "UC",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP01-033.png",
+          "cardSet": "ROMANCE DAWN【OP-01】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
+        },
+        {
+          "id": "OP01-033_p1~ja",
+          "language": "ja",
+          "set": "P",
+          "rarity": "UC",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP01-033_p1.png",
+          "cardSet": "スタンダードバトルパック2022 Vol.1",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
+        },
+        {
+          "id": "OP01-033_p2~ja",
+          "language": "ja",
+          "set": "PRB01",
+          "rarity": "UC",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP01-033_p2.png",
+          "cardSet": "ONE PIECE CARD THE BEST【PRB-01】",
+          "source": "bandai"
+        },
+        {
+          "id": "OP01-033_p3~ja",
+          "language": "ja",
+          "set": "PRB01",
+          "rarity": "UC",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP01-033_p3.png",
+          "cardSet": "ONE PIECE CARD THE BEST【PRB-01】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP01-033_p4~ja",
+          "language": "ja",
+          "set": "PRB01",
+          "rarity": "UC",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP01-033_p4.png",
+          "cardSet": "ONE PIECE CARD THE BEST【PRB-01】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP01-033_r1~ja",
+          "language": "ja",
+          "set": "PRB01",
+          "rarity": "UC",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP01-033_r1.png",
+          "cardSet": "ONE PIECE CARD THE BEST【PRB-01】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP01-034",
       "name": "Inuarashi",
+      "names": {
+        "en": "Inuarashi",
+        "ja": "イヌアラシ"
+      },
       "category": "Character",
       "cost": 3,
       "power": 4000,
@@ -3792,12 +4987,42 @@
             }
           ],
           "artist": "TAPIOCA"
+        },
+        {
+          "id": "OP01-034~ja",
+          "language": "ja",
+          "set": "OP01",
+          "rarity": "C",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP01-034.png",
+          "cardSet": "ROMANCE DAWN【OP-01】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
+        },
+        {
+          "id": "OP01-034_p1~ja",
+          "language": "ja",
+          "set": "OP01",
+          "rarity": "C",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP01-034_p1.png",
+          "cardSet": "ROMANCE DAWN【OP-01】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "OP01-035",
       "name": "Okiku",
+      "names": {
+        "en": "Okiku",
+        "ja": "お菊"
+      },
       "category": "Character",
       "cost": 3,
       "power": 5000,
@@ -4010,12 +5235,55 @@
               "category": "retail"
             }
           ]
+        },
+        {
+          "id": "OP01-035~ja",
+          "language": "ja",
+          "set": "OP01",
+          "rarity": "R",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP01-035.png",
+          "cardSet": "ROMANCE DAWN【OP-01】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP01-035_p1~ja",
+          "language": "ja",
+          "set": "P",
+          "rarity": "R",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP01-035_p1.png",
+          "cardSet": "スタンダードバトルパック Vol.3",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
+        },
+        {
+          "id": "OP01-035_p2~ja",
+          "language": "ja",
+          "set": "OP07",
+          "rarity": "SP CARD",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP01-035_p2.png",
+          "cardSet": "500年後の未来【OP-07】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "OP01-036",
       "name": "Otsuru",
+      "names": {
+        "en": "Otsuru",
+        "ja": "お鶴"
+      },
       "category": "Character",
       "cost": 1,
       "power": 3000,
@@ -4051,12 +5319,29 @@
             "match": "image-only-candidate",
             "distance": 4
           }
+        },
+        {
+          "id": "OP01-036~ja",
+          "language": "ja",
+          "set": "OP01",
+          "rarity": "C",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP01-036.png",
+          "cardSet": "ROMANCE DAWN【OP-01】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP01-037",
       "name": "Kawamatsu",
+      "names": {
+        "en": "Kawamatsu",
+        "ja": "河松"
+      },
       "category": "Character",
       "cost": 2,
       "power": 3000,
@@ -4095,12 +5380,29 @@
             "distance": 6
           },
           "artist": "Studio Vigor Co. Ltd"
+        },
+        {
+          "id": "OP01-037~ja",
+          "language": "ja",
+          "set": "OP01",
+          "rarity": "C",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP01-037.png",
+          "cardSet": "ROMANCE DAWN【OP-01】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP01-038",
       "name": "Kanjuro",
+      "names": {
+        "en": "Kanjuro",
+        "ja": "カン十郎"
+      },
       "category": "Character",
       "cost": 2,
       "power": 3000,
@@ -4137,12 +5439,29 @@
             "match": "image-only-candidate",
             "distance": 11
           }
+        },
+        {
+          "id": "OP01-038~ja",
+          "language": "ja",
+          "set": "OP01",
+          "rarity": "C",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP01-038.png",
+          "cardSet": "ROMANCE DAWN【OP-01】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP01-039",
       "name": "Killer",
+      "names": {
+        "en": "Killer",
+        "ja": "キラー"
+      },
       "category": "Character",
       "cost": 2,
       "power": 2000,
@@ -4372,12 +5691,72 @@
               "category": "program"
             }
           ]
+        },
+        {
+          "id": "OP01-039~ja",
+          "language": "ja",
+          "set": "OP01",
+          "rarity": "UC",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP01-039.png",
+          "cardSet": "ROMANCE DAWN【OP-01】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
+        },
+        {
+          "id": "OP01-039_p1~ja",
+          "language": "ja",
+          "set": "P",
+          "rarity": "UC",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP01-039_p1.png",
+          "cardSet": "プロモーションパックEX Vol.1",
+          "source": "bandai"
+        },
+        {
+          "id": "OP01-039_p2~ja",
+          "language": "ja",
+          "set": "PRB02",
+          "rarity": "UC",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP01-039_p2.png",
+          "cardSet": "ONE PIECE CARD THE BEST vol.2【PRB-02】",
+          "source": "bandai"
+        },
+        {
+          "id": "OP01-039_p3~ja",
+          "language": "ja",
+          "set": "P",
+          "rarity": "UC",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP01-039_p3.png",
+          "cardSet": "プロモーションカードセット2026",
+          "source": "bandai"
+        },
+        {
+          "id": "OP01-039_r1~ja",
+          "language": "ja",
+          "set": "PRB02",
+          "rarity": "UC",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP01-039_r1.png",
+          "cardSet": "ONE PIECE CARD THE BEST vol.2【PRB-02】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP01-040",
       "name": "Kin'emon",
+      "names": {
+        "en": "Kin'emon",
+        "ja": "錦えもん"
+      },
       "category": "Character",
       "cost": 6,
       "power": 6000,
@@ -4439,12 +5818,42 @@
             "parallel"
           ],
           "artist": "touge369"
+        },
+        {
+          "id": "OP01-040~ja",
+          "language": "ja",
+          "set": "OP01",
+          "rarity": "SR",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP01-040.png",
+          "cardSet": "ROMANCE DAWN【OP-01】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP01-040_p1~ja",
+          "language": "ja",
+          "set": "OP01",
+          "rarity": "SR",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP01-040_p1.png",
+          "cardSet": "ROMANCE DAWN【OP-01】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "OP01-041",
       "name": "Kouzuki Momonosuke",
+      "names": {
+        "en": "Kouzuki Momonosuke",
+        "ja": "光月モモの助"
+      },
       "category": "Character",
       "cost": 1,
       "counter": 1000,
@@ -4655,12 +6064,88 @@
               "category": "event"
             }
           ]
+        },
+        {
+          "id": "OP01-041~ja",
+          "language": "ja",
+          "set": "OP01",
+          "rarity": "R",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP01-041.png",
+          "cardSet": "ROMANCE DAWN【OP-01】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP01-041_p1~ja",
+          "language": "ja",
+          "set": "P",
+          "rarity": "R",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP01-041_p1.png",
+          "cardSet": "スタンダードバトルパックVol.7",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
+        },
+        {
+          "id": "OP01-041_p2~ja",
+          "language": "ja",
+          "set": "PRB01",
+          "rarity": "R",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP01-041_p2.png",
+          "cardSet": "ONE PIECE CARD THE BEST【PRB-01】",
+          "source": "bandai"
+        },
+        {
+          "id": "OP01-041_p3~ja",
+          "language": "ja",
+          "set": "PRB01",
+          "rarity": "R",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP01-041_p3.png",
+          "cardSet": "ONE PIECE CARD THE BEST【PRB-01】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP01-041_p4~ja",
+          "language": "ja",
+          "set": "PRB01",
+          "rarity": "R",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP01-041_p4.png",
+          "cardSet": "ONE PIECE CARD THE BEST【PRB-01】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP01-041_r1~ja",
+          "language": "ja",
+          "set": "PRB01",
+          "rarity": "R",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP01-041_r1.png",
+          "cardSet": "ONE PIECE CARD THE BEST【PRB-01】",
+          "source": "bandai"
         }
       ]
     },
     {
       "number": "OP01-042",
       "name": "Komurasaki",
+      "names": {
+        "en": "Komurasaki",
+        "ja": "小紫"
+      },
       "category": "Character",
       "cost": 1,
       "counter": 1000,
@@ -4696,12 +6181,29 @@
             "match": "image-only-candidate",
             "distance": 6
           }
+        },
+        {
+          "id": "OP01-042~ja",
+          "language": "ja",
+          "set": "OP01",
+          "rarity": "UC",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP01-042.png",
+          "cardSet": "ROMANCE DAWN【OP-01】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP01-043",
       "name": "Shinobu",
+      "names": {
+        "en": "Shinobu",
+        "ja": "しのぶ"
+      },
       "category": "Character",
       "cost": 3,
       "power": 5000,
@@ -4737,12 +6239,29 @@
             "match": "image-only-candidate",
             "distance": 10
           }
+        },
+        {
+          "id": "OP01-043~ja",
+          "language": "ja",
+          "set": "OP01",
+          "rarity": "C",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP01-043.png",
+          "cardSet": "ROMANCE DAWN【OP-01】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP01-044",
       "name": "Shachi",
+      "names": {
+        "en": "Shachi",
+        "ja": "シャチ"
+      },
       "category": "Character",
       "cost": 3,
       "power": 4000,
@@ -4779,12 +6298,29 @@
             "distance": 3
           },
           "artist": "Misa Matoki"
+        },
+        {
+          "id": "OP01-044~ja",
+          "language": "ja",
+          "set": "OP01",
+          "rarity": "C",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP01-044.png",
+          "cardSet": "ROMANCE DAWN【OP-01】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP01-045",
       "name": "Jean Bart",
+      "names": {
+        "en": "Jean Bart",
+        "ja": "ジャンバール"
+      },
       "category": "Character",
       "cost": 4,
       "power": 6000,
@@ -4821,12 +6357,29 @@
             "distance": 4
           },
           "artist": "HISASHI HUJIWARA"
+        },
+        {
+          "id": "OP01-045~ja",
+          "language": "ja",
+          "set": "OP01",
+          "rarity": "C",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP01-045.png",
+          "cardSet": "ROMANCE DAWN【OP-01】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP01-046",
       "name": "Denjiro",
+      "names": {
+        "en": "Denjiro",
+        "ja": "傳ジロー"
+      },
       "category": "Character",
       "cost": 5,
       "power": 7000,
@@ -4862,12 +6415,29 @@
             "match": "name-sole-plain",
             "distance": 89
           }
+        },
+        {
+          "id": "OP01-046~ja",
+          "language": "ja",
+          "set": "OP01",
+          "rarity": "R",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP01-046.png",
+          "cardSet": "ROMANCE DAWN【OP-01】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "OP01-047",
       "name": "Trafalgar Law",
+      "names": {
+        "en": "Trafalgar Law",
+        "ja": "トラファルガー・ロー"
+      },
       "category": "Character",
       "cost": 5,
       "power": 6000,
@@ -4990,12 +6560,75 @@
           "cardSet": "-ONE PIECE CARD THE BEST- [PRB-01]",
           "source": "bandai",
           "artOf": "OP01-047"
+        },
+        {
+          "id": "OP01-047~ja",
+          "language": "ja",
+          "set": "OP01",
+          "rarity": "SR",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP01-047.png",
+          "cardSet": "ROMANCE DAWN【OP-01】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP01-047_p1~ja",
+          "language": "ja",
+          "set": "OP01",
+          "rarity": "SR",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP01-047_p1.png",
+          "cardSet": "ROMANCE DAWN【OP-01】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP01-047_p2~ja",
+          "language": "ja",
+          "set": "OP04",
+          "rarity": "SP CARD",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP01-047_p2.png",
+          "cardSet": "謀略の王国【OP-04】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP01-047_p3~ja",
+          "language": "ja",
+          "set": "PRB01",
+          "rarity": "SR",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP01-047_p3.png",
+          "cardSet": "ONE PIECE CARD THE BEST【PRB-01】",
+          "source": "bandai"
+        },
+        {
+          "id": "OP01-047_r1~ja",
+          "language": "ja",
+          "set": "PRB01",
+          "rarity": "SR",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP01-047_r1.png",
+          "cardSet": "ONE PIECE CARD THE BEST【PRB-01】",
+          "source": "bandai"
         }
       ]
     },
     {
       "number": "OP01-048",
       "name": "Nekomamushi",
+      "names": {
+        "en": "Nekomamushi",
+        "ja": "ネコマムシ"
+      },
       "category": "Character",
       "cost": 2,
       "power": 3000,
@@ -5063,12 +6696,42 @@
             }
           ],
           "artist": "TAPIOCA"
+        },
+        {
+          "id": "OP01-048~ja",
+          "language": "ja",
+          "set": "OP01",
+          "rarity": "C",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP01-048.png",
+          "cardSet": "ROMANCE DAWN【OP-01】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
+        },
+        {
+          "id": "OP01-048_p1~ja",
+          "language": "ja",
+          "set": "OP01",
+          "rarity": "C",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP01-048_p1.png",
+          "cardSet": "ROMANCE DAWN【OP-01】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "OP01-049",
       "name": "Bepo",
+      "names": {
+        "en": "Bepo",
+        "ja": "ベポ"
+      },
       "category": "Character",
       "cost": 4,
       "power": 4000,
@@ -5106,12 +6769,29 @@
             "distance": 5
           },
           "artist": "TAPIOCA"
+        },
+        {
+          "id": "OP01-049~ja",
+          "language": "ja",
+          "set": "OP01",
+          "rarity": "R",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP01-049.png",
+          "cardSet": "ROMANCE DAWN【OP-01】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "OP01-050",
       "name": "Penguin",
+      "names": {
+        "en": "Penguin",
+        "ja": "ペンギン"
+      },
       "category": "Character",
       "cost": 3,
       "power": 2000,
@@ -5148,12 +6828,29 @@
             "distance": 7
           },
           "artist": "Misa Matoki"
+        },
+        {
+          "id": "OP01-050~ja",
+          "language": "ja",
+          "set": "OP01",
+          "rarity": "C",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP01-050.png",
+          "cardSet": "ROMANCE DAWN【OP-01】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP01-051",
       "name": "Eustass\"Captain\"Kid",
+      "names": {
+        "en": "Eustass\"Captain\"Kid",
+        "ja": "ユースタス・キッド"
+      },
       "category": "Character",
       "cost": 8,
       "power": 8000,
@@ -5275,12 +6972,75 @@
           "cardSet": "-ONE PIECE CARD THE BEST- [PRB-01]",
           "source": "bandai",
           "artOf": "OP01-051"
+        },
+        {
+          "id": "OP01-051~ja",
+          "language": "ja",
+          "set": "OP01",
+          "rarity": "SR",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP01-051.png",
+          "cardSet": "ROMANCE DAWN【OP-01】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP01-051_p1~ja",
+          "language": "ja",
+          "set": "OP01",
+          "rarity": "SR",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP01-051_p1.png",
+          "cardSet": "ROMANCE DAWN【OP-01】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP01-051_p2~ja",
+          "language": "ja",
+          "set": "OP03",
+          "rarity": "SP CARD",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP01-051_p2.png",
+          "cardSet": "強大な敵【OP-03】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP01-051_p3~ja",
+          "language": "ja",
+          "set": "PRB01",
+          "rarity": "SR",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP01-051_p3.png",
+          "cardSet": "ONE PIECE CARD THE BEST【PRB-01】",
+          "source": "bandai"
+        },
+        {
+          "id": "OP01-051_r1~ja",
+          "language": "ja",
+          "set": "PRB01",
+          "rarity": "SR",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP01-051_r1.png",
+          "cardSet": "ONE PIECE CARD THE BEST【PRB-01】",
+          "source": "bandai"
         }
       ]
     },
     {
       "number": "OP01-052",
       "name": "Raizo",
+      "names": {
+        "en": "Raizo",
+        "ja": "雷ぞう"
+      },
       "category": "Character",
       "cost": 3,
       "power": 4000,
@@ -5491,12 +7251,62 @@
               "category": "placement"
             }
           ]
+        },
+        {
+          "id": "OP01-052~ja",
+          "language": "ja",
+          "set": "OP01",
+          "rarity": "UC",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP01-052.png",
+          "cardSet": "ROMANCE DAWN【OP-01】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
+        },
+        {
+          "id": "OP01-052_p1~ja",
+          "language": "ja",
+          "set": "PRB01",
+          "rarity": "UC",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP01-052_p1.png",
+          "cardSet": "ONE PIECE CARD THE BEST【PRB-01】",
+          "source": "bandai"
+        },
+        {
+          "id": "OP01-052_p2~ja",
+          "language": "ja",
+          "set": "PRB01",
+          "rarity": "UC",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP01-052_p2.png",
+          "cardSet": "ONE PIECE CARD THE BEST【PRB-01】",
+          "source": "bandai"
+        },
+        {
+          "id": "OP01-052_r1~ja",
+          "language": "ja",
+          "set": "PRB01",
+          "rarity": "UC",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP01-052_r1.png",
+          "cardSet": "ONE PIECE CARD THE BEST【PRB-01】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP01-053",
       "name": "Wire",
+      "names": {
+        "en": "Wire",
+        "ja": "ワイヤー"
+      },
       "category": "Character",
       "cost": 2,
       "power": 4000,
@@ -5533,12 +7343,29 @@
             "distance": 4
           },
           "artist": "Koushi Rokushiro"
+        },
+        {
+          "id": "OP01-053~ja",
+          "language": "ja",
+          "set": "OP01",
+          "rarity": "C",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP01-053.png",
+          "cardSet": "ROMANCE DAWN【OP-01】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP01-054",
       "name": "X.Drake",
+      "names": {
+        "en": "X.Drake",
+        "ja": "X・ドレーク"
+      },
       "category": "Character",
       "cost": 5,
       "power": 6000,
@@ -5577,12 +7404,29 @@
             "distance": 5
           },
           "artist": "BISAI"
+        },
+        {
+          "id": "OP01-054~ja",
+          "language": "ja",
+          "set": "OP01",
+          "rarity": "R",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP01-054.png",
+          "cardSet": "ROMANCE DAWN【OP-01】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "OP01-055",
       "name": "You Can Be My Samurai!!",
+      "names": {
+        "en": "You Can Be My Samurai!!",
+        "ja": "おれの”侍”になれ‼!"
+      },
       "category": "Event",
       "cost": 1,
       "colors": [
@@ -5667,12 +7511,65 @@
           "treatments": [
             "reprint"
           ]
+        },
+        {
+          "id": "OP01-055~ja",
+          "language": "ja",
+          "set": "OP01",
+          "rarity": "C",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP01-055.png",
+          "cardSet": "ROMANCE DAWN【OP-01】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
+        },
+        {
+          "id": "OP01-055_p1~ja",
+          "language": "ja",
+          "set": "PRB02",
+          "rarity": "C",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP01-055_p1.png",
+          "cardSet": "ONE PIECE CARD THE BEST vol.2【PRB-02】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP01-055_p2~ja",
+          "language": "ja",
+          "set": "P",
+          "rarity": "C",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP01-055_p2.png",
+          "cardSet": "プロモーションカードセット2026",
+          "source": "bandai"
+        },
+        {
+          "id": "OP01-055_r1~ja",
+          "language": "ja",
+          "set": "PRB02",
+          "rarity": "C",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP01-055_r1.png",
+          "cardSet": "ONE PIECE CARD THE BEST vol.2【PRB-02】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP01-056",
       "name": "Demon Face",
+      "names": {
+        "en": "Demon Face",
+        "ja": "降魔の相"
+      },
       "category": "Event",
       "cost": 6,
       "colors": [
@@ -5704,12 +7601,29 @@
             "match": "image-only-candidate",
             "distance": 2
           }
+        },
+        {
+          "id": "OP01-056~ja",
+          "language": "ja",
+          "set": "OP01",
+          "rarity": "UC",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP01-056.png",
+          "cardSet": "ROMANCE DAWN【OP-01】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP01-057",
       "name": "Paradise Waterfall",
+      "names": {
+        "en": "Paradise Waterfall",
+        "ja": "桃源白滝"
+      },
       "category": "Event",
       "cost": 1,
       "colors": [
@@ -5770,12 +7684,39 @@
             }
           ],
           "artist": "Bashikou"
+        },
+        {
+          "id": "OP01-057~ja",
+          "language": "ja",
+          "set": "OP01",
+          "rarity": "UC",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP01-057.png",
+          "cardSet": "ROMANCE DAWN【OP-01】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
+        },
+        {
+          "id": "OP01-057_p2~ja",
+          "language": "ja",
+          "set": "OTHER",
+          "rarity": "UC",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP01-057_p2.png",
+          "cardSet": "プレミアムカードコレクション - ベストセレクションvol.1 -",
+          "source": "bandai"
         }
       ]
     },
     {
       "number": "OP01-058",
       "name": "Punk Gibson",
+      "names": {
+        "en": "Punk Gibson",
+        "ja": "磁気弦"
+      },
       "category": "Event",
       "cost": 2,
       "colors": [
@@ -5807,12 +7748,29 @@
             "match": "image-only-candidate",
             "distance": 6
           }
+        },
+        {
+          "id": "OP01-058~ja",
+          "language": "ja",
+          "set": "OP01",
+          "rarity": "R",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP01-058.png",
+          "cardSet": "ROMANCE DAWN【OP-01】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "OP01-059",
       "name": "BE-BENG!!",
+      "names": {
+        "en": "BE-BENG!!",
+        "ja": "べべんっ‼"
+      },
       "category": "Event",
       "cost": 3,
       "colors": [
@@ -5843,12 +7801,29 @@
             "match": "image-only-candidate",
             "distance": 12
           }
+        },
+        {
+          "id": "OP01-059~ja",
+          "language": "ja",
+          "set": "OP01",
+          "rarity": "C",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP01-059.png",
+          "cardSet": "ROMANCE DAWN【OP-01】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP01-060",
       "name": "Donquixote Doflamingo",
+      "names": {
+        "en": "Donquixote Doflamingo",
+        "ja": "ドンキホーテ・ドフラミンゴ"
+      },
       "category": "Leader",
       "power": 5000,
       "life": 5,
@@ -5932,12 +7907,55 @@
             "distance": 1
           },
           "artist": "BISAI"
+        },
+        {
+          "id": "OP01-060~ja",
+          "language": "ja",
+          "set": "OP01",
+          "rarity": "L",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP01-060.png",
+          "cardSet": "ROMANCE DAWN【OP-01】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
+        },
+        {
+          "id": "OP01-060_p1~ja",
+          "language": "ja",
+          "set": "OP01",
+          "rarity": "L",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP01-060_p1.png",
+          "cardSet": "ROMANCE DAWN【OP-01】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP01-060_p2~ja",
+          "language": "ja",
+          "set": "ST17",
+          "rarity": "L",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP01-060_p2.png",
+          "cardSet": "スタートデッキ 青 ドンキホーテ・ドフラミンゴ【ST-17】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "OP01-061",
       "name": "Kaido",
+      "names": {
+        "en": "Kaido",
+        "ja": "カイドウ"
+      },
       "category": "Leader",
       "power": 5000,
       "life": 4,
@@ -5999,12 +8017,42 @@
           "treatments": [
             "parallel"
           ]
+        },
+        {
+          "id": "OP01-061~ja",
+          "language": "ja",
+          "set": "OP01",
+          "rarity": "L",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP01-061.png",
+          "cardSet": "ROMANCE DAWN【OP-01】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
+        },
+        {
+          "id": "OP01-061_p1~ja",
+          "language": "ja",
+          "set": "OP01",
+          "rarity": "L",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP01-061_p1.png",
+          "cardSet": "ROMANCE DAWN【OP-01】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "OP01-062",
       "name": "Crocodile",
+      "names": {
+        "en": "Crocodile",
+        "ja": "クロコダイル"
+      },
       "category": "Leader",
       "power": 5000,
       "life": 4,
@@ -6066,12 +8114,42 @@
           "treatments": [
             "parallel"
           ]
+        },
+        {
+          "id": "OP01-062~ja",
+          "language": "ja",
+          "set": "OP01",
+          "rarity": "L",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP01-062.png",
+          "cardSet": "ROMANCE DAWN【OP-01】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
+        },
+        {
+          "id": "OP01-062_p1~ja",
+          "language": "ja",
+          "set": "OP01",
+          "rarity": "L",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP01-062_p1.png",
+          "cardSet": "ROMANCE DAWN【OP-01】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "OP01-063",
       "name": "Arlong",
+      "names": {
+        "en": "Arlong",
+        "ja": "アーロン"
+      },
       "category": "Character",
       "cost": 4,
       "power": 5000,
@@ -6109,12 +8187,29 @@
             "distance": 6
           },
           "artist": "Anderson"
+        },
+        {
+          "id": "OP01-063~ja",
+          "language": "ja",
+          "set": "OP01",
+          "rarity": "UC",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP01-063.png",
+          "cardSet": "ROMANCE DAWN【OP-01】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP01-064",
       "name": "Alvida",
+      "names": {
+        "en": "Alvida",
+        "ja": "アルビダ"
+      },
       "category": "Character",
       "cost": 2,
       "power": 3000,
@@ -6180,12 +8275,42 @@
             }
           ],
           "artist": "Hashimoto Q"
+        },
+        {
+          "id": "OP01-064~ja",
+          "language": "ja",
+          "set": "OP01",
+          "rarity": "C",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP01-064.png",
+          "cardSet": "ROMANCE DAWN【OP-01】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
+        },
+        {
+          "id": "OP01-064_p1~ja",
+          "language": "ja",
+          "set": "OP01",
+          "rarity": "C",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP01-064_p1.png",
+          "cardSet": "ROMANCE DAWN【OP-01】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "OP01-065",
       "name": "Vergo",
+      "names": {
+        "en": "Vergo",
+        "ja": "ヴェルゴ"
+      },
       "category": "Character",
       "cost": 5,
       "power": 7000,
@@ -6224,12 +8349,29 @@
             "distance": 3
           },
           "artist": "Akihiro MIYANO"
+        },
+        {
+          "id": "OP01-065~ja",
+          "language": "ja",
+          "set": "OP01",
+          "rarity": "C",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP01-065.png",
+          "cardSet": "ROMANCE DAWN【OP-01】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP01-066",
       "name": "Krieg",
+      "names": {
+        "en": "Krieg",
+        "ja": "クリーク"
+      },
       "category": "Character",
       "cost": 4,
       "power": 6000,
@@ -6266,12 +8408,29 @@
             "distance": 2
           },
           "artist": "Anderson"
+        },
+        {
+          "id": "OP01-066~ja",
+          "language": "ja",
+          "set": "OP01",
+          "rarity": "C",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP01-066.png",
+          "cardSet": "ROMANCE DAWN【OP-01】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP01-067",
       "name": "Crocodile",
+      "names": {
+        "en": "Crocodile",
+        "ja": "クロコダイル"
+      },
       "category": "Character",
       "cost": 7,
       "power": 7000,
@@ -6334,12 +8493,42 @@
             "parallel"
           ],
           "artist": "tatsuya"
+        },
+        {
+          "id": "OP01-067~ja",
+          "language": "ja",
+          "set": "OP01",
+          "rarity": "SR",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP01-067.png",
+          "cardSet": "ROMANCE DAWN【OP-01】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP01-067_p1~ja",
+          "language": "ja",
+          "set": "OP01",
+          "rarity": "SR",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP01-067_p1.png",
+          "cardSet": "ROMANCE DAWN【OP-01】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "OP01-068",
       "name": "Gecko Moria",
+      "names": {
+        "en": "Gecko Moria",
+        "ja": "ゲッコー・モリア"
+      },
       "category": "Character",
       "cost": 4,
       "power": 5000,
@@ -6378,12 +8567,30 @@
             "distance": 102
           },
           "artist": "phima"
+        },
+        {
+          "id": "OP01-068~ja",
+          "language": "ja",
+          "set": "OP01",
+          "rarity": "R",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP01-068.png",
+          "cardSet": "ROMANCE DAWN【OP-01】",
+          "source": "bandai",
+          "finishes": [
+            "foil",
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP01-069",
       "name": "Caesar Clown",
+      "names": {
+        "en": "Caesar Clown",
+        "ja": "シーザー・クラウン"
+      },
       "category": "Character",
       "cost": 4,
       "power": 5000,
@@ -6421,12 +8628,29 @@
             "distance": 5
           },
           "artist": "Moopic"
+        },
+        {
+          "id": "OP01-069~ja",
+          "language": "ja",
+          "set": "OP01",
+          "rarity": "R",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP01-069.png",
+          "cardSet": "ROMANCE DAWN【OP-01】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "OP01-070",
       "name": "Dracule Mihawk",
+      "names": {
+        "en": "Dracule Mihawk",
+        "ja": "ジュラキュール・ミホーク"
+      },
       "category": "Character",
       "cost": 9,
       "power": 9000,
@@ -6566,12 +8790,75 @@
           ],
           "artOf": "OP01-070",
           "artist": "Nijihayashi"
+        },
+        {
+          "id": "OP01-070~ja",
+          "language": "ja",
+          "set": "OP01",
+          "rarity": "SR",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP01-070.png",
+          "cardSet": "ROMANCE DAWN【OP-01】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP01-070_p1~ja",
+          "language": "ja",
+          "set": "OP01",
+          "rarity": "SR",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP01-070_p1.png",
+          "cardSet": "ROMANCE DAWN【OP-01】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP01-070_p2~ja",
+          "language": "ja",
+          "set": "P",
+          "rarity": "SR",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP01-070_p2.png",
+          "cardSet": "フラッグシップバトル2024 1月優勝記念品",
+          "source": "bandai"
+        },
+        {
+          "id": "OP01-070_p3~ja",
+          "language": "ja",
+          "set": "PRB01",
+          "rarity": "SR",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP01-070_p3.png",
+          "cardSet": "ONE PIECE CARD THE BEST【PRB-01】",
+          "source": "bandai"
+        },
+        {
+          "id": "OP01-070_r1~ja",
+          "language": "ja",
+          "set": "PRB01",
+          "rarity": "SR",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP01-070_r1.png",
+          "cardSet": "ONE PIECE CARD THE BEST【PRB-01】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "OP01-071",
       "name": "Jinbe",
+      "names": {
+        "en": "Jinbe",
+        "ja": "ジンベエ"
+      },
       "category": "Character",
       "cost": 4,
       "power": 2000,
@@ -6608,12 +8895,29 @@
             "distance": 4
           },
           "artist": "BISAI"
+        },
+        {
+          "id": "OP01-071~ja",
+          "language": "ja",
+          "set": "OP01",
+          "rarity": "R",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP01-071.png",
+          "cardSet": "ROMANCE DAWN【OP-01】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "OP01-072",
       "name": "Smiley",
+      "names": {
+        "en": "Smiley",
+        "ja": "スマイリー"
+      },
       "category": "Character",
       "cost": 3,
       "power": 1000,
@@ -6651,12 +8955,29 @@
             "distance": 6
           },
           "artist": "Misa Matoki"
+        },
+        {
+          "id": "OP01-072~ja",
+          "language": "ja",
+          "set": "OP01",
+          "rarity": "C",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP01-072.png",
+          "cardSet": "ROMANCE DAWN【OP-01】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP01-073",
       "name": "Donquixote Doflamingo",
+      "names": {
+        "en": "Donquixote Doflamingo",
+        "ja": "ドンキホーテ・ドフラミンゴ"
+      },
       "category": "Character",
       "cost": 3,
       "power": 4000,
@@ -6794,12 +9115,68 @@
               "category": "program"
             }
           ]
+        },
+        {
+          "id": "OP01-073~ja",
+          "language": "ja",
+          "set": "OP01",
+          "rarity": "R",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP01-073.png",
+          "cardSet": "ROMANCE DAWN【OP-01】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP01-073_p1~ja",
+          "language": "ja",
+          "set": "OP01",
+          "rarity": "R",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP01-073_p1.png",
+          "cardSet": "ROMANCE DAWN【OP-01】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP01-073_p2~ja",
+          "language": "ja",
+          "set": "OP07",
+          "rarity": "SP CARD",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP01-073_p2.png",
+          "cardSet": "500年後の未来【OP-07】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP01-073_r1~ja",
+          "language": "ja",
+          "set": "ST17",
+          "rarity": "R",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP01-073_r1.png",
+          "cardSet": "スタートデッキ 青 ドンキホーテ・ドフラミンゴ【ST-17】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP01-074",
       "name": "Bartholomew Kuma",
+      "names": {
+        "en": "Bartholomew Kuma",
+        "ja": "バーソロミュー・くま"
+      },
       "category": "Character",
       "cost": 4,
       "power": 5000,
@@ -6837,12 +9214,29 @@
             "distance": 4
           },
           "artist": "Moopic"
+        },
+        {
+          "id": "OP01-074~ja",
+          "language": "ja",
+          "set": "OP01",
+          "rarity": "R",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP01-074.png",
+          "cardSet": "ROMANCE DAWN【OP-01】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "OP01-075",
       "name": "Pacifista",
+      "names": {
+        "en": "Pacifista",
+        "ja": "パシフィスタ"
+      },
       "category": "Character",
       "cost": 4,
       "power": 5000,
@@ -6905,12 +9299,29 @@
               "category": "program"
             }
           ]
+        },
+        {
+          "id": "OP01-075~ja",
+          "language": "ja",
+          "set": "OP01",
+          "rarity": "C",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP01-075.png",
+          "cardSet": "ROMANCE DAWN【OP-01】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP01-076",
       "name": "Bellamy",
+      "names": {
+        "en": "Bellamy",
+        "ja": "ベラミー"
+      },
       "category": "Character",
       "cost": 2,
       "power": 4000,
@@ -6947,12 +9358,29 @@
             "distance": 7
           },
           "artist": "Nekobayashi"
+        },
+        {
+          "id": "OP01-076~ja",
+          "language": "ja",
+          "set": "OP01",
+          "rarity": "C",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP01-076.png",
+          "cardSet": "ROMANCE DAWN【OP-01】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP01-077",
       "name": "Perona",
+      "names": {
+        "en": "Perona",
+        "ja": "ペローナ"
+      },
       "category": "Character",
       "cost": 1,
       "power": 2000,
@@ -7155,12 +9583,72 @@
               "category": "placement"
             }
           ]
+        },
+        {
+          "id": "OP01-077~ja",
+          "language": "ja",
+          "set": "OP01",
+          "rarity": "UC",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP01-077.png",
+          "cardSet": "ROMANCE DAWN【OP-01】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
+        },
+        {
+          "id": "OP01-077_p1~ja",
+          "language": "ja",
+          "set": "OP01",
+          "rarity": "UC",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP01-077_p1.png",
+          "cardSet": "ROMANCE DAWN【OP-01】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP01-077_p3~ja",
+          "language": "ja",
+          "set": "P",
+          "rarity": "UC",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP01-077_p3.png",
+          "cardSet": "ジャンプGIGA 2023 SPRING 応募者全員サービス",
+          "source": "bandai"
+        },
+        {
+          "id": "OP01-077_p4~ja",
+          "language": "ja",
+          "set": "P",
+          "rarity": "UC",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP01-077_p4.png",
+          "cardSet": "始めようキャンペーン プロモーションパック",
+          "source": "bandai"
+        },
+        {
+          "id": "OP01-077_p5~ja",
+          "language": "ja",
+          "set": "P",
+          "rarity": "UC",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP01-077_p5.png",
+          "cardSet": "始めようキャンペーン プロモーションパック",
+          "source": "bandai"
         }
       ]
     },
     {
       "number": "OP01-078",
       "name": "Boa Hancock",
+      "names": {
+        "en": "Boa Hancock",
+        "ja": "ボア・ハンコック"
+      },
       "category": "Character",
       "cost": 4,
       "power": 5000,
@@ -7302,12 +9790,78 @@
           ],
           "artOf": "OP01-078",
           "artist": "Mutsumi Sasaki"
+        },
+        {
+          "id": "OP01-078~ja",
+          "language": "ja",
+          "set": "OP01",
+          "rarity": "SR",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP01-078.png",
+          "cardSet": "ROMANCE DAWN【OP-01】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP01-078_p1~ja",
+          "language": "ja",
+          "set": "OP01",
+          "rarity": "SR",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP01-078_p1.png",
+          "cardSet": "ROMANCE DAWN【OP-01】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP01-078_p2~ja",
+          "language": "ja",
+          "set": "OP04",
+          "rarity": "SP CARD",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP01-078_p2.png",
+          "cardSet": "謀略の王国【OP-04】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP01-078_p3~ja",
+          "language": "ja",
+          "set": "PRB01",
+          "rarity": "SR",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP01-078_p3.png",
+          "cardSet": "ONE PIECE CARD THE BEST【PRB-01】",
+          "source": "bandai"
+        },
+        {
+          "id": "OP01-078_r1~ja",
+          "language": "ja",
+          "set": "PRB01",
+          "rarity": "SR",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP01-078_r1.png",
+          "cardSet": "ONE PIECE CARD THE BEST【PRB-01】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "OP01-079",
       "name": "Ms. All Sunday",
+      "names": {
+        "en": "Ms. All Sunday",
+        "ja": "ミス・オールサンデー"
+      },
       "category": "Character",
       "cost": 3,
       "power": 1000,
@@ -7370,12 +9924,29 @@
               "category": "retail"
             }
           ]
+        },
+        {
+          "id": "OP01-079~ja",
+          "language": "ja",
+          "set": "OP01",
+          "rarity": "R",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP01-079.png",
+          "cardSet": "ROMANCE DAWN【OP-01】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "OP01-080",
       "name": "Miss Doublefinger(Zala)",
+      "names": {
+        "en": "Miss Doublefinger(Zala)",
+        "ja": "ミス・ダブルフィンガー(ザラ)"
+      },
       "category": "Character",
       "cost": 3,
       "power": 4000,
@@ -7412,12 +9983,29 @@
             "distance": 3
           },
           "artist": "HISASHI HUJIWARA"
+        },
+        {
+          "id": "OP01-080~ja",
+          "language": "ja",
+          "set": "OP01",
+          "rarity": "C",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP01-080.png",
+          "cardSet": "ROMANCE DAWN【OP-01】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP01-081",
       "name": "Mocha",
+      "names": {
+        "en": "Mocha",
+        "ja": "モチャ"
+      },
       "category": "Character",
       "cost": 3,
       "power": 5000,
@@ -7454,12 +10042,29 @@
             "distance": 6
           },
           "artist": "Suzume Muraichi"
+        },
+        {
+          "id": "OP01-081~ja",
+          "language": "ja",
+          "set": "OP01",
+          "rarity": "C",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP01-081.png",
+          "cardSet": "ROMANCE DAWN【OP-01】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP01-082",
       "name": "Monet",
+      "names": {
+        "en": "Monet",
+        "ja": "モネ"
+      },
       "category": "Character",
       "cost": 2,
       "power": 3000,
@@ -7497,12 +10102,29 @@
             "distance": 7
           },
           "artist": "Hashimoto Q"
+        },
+        {
+          "id": "OP01-082~ja",
+          "language": "ja",
+          "set": "OP01",
+          "rarity": "C",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP01-082.png",
+          "cardSet": "ROMANCE DAWN【OP-01】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP01-083",
       "name": "Mr.1(Daz.Bonez)",
+      "names": {
+        "en": "Mr.1(Daz.Bonez)",
+        "ja": "Mr.1(ダズ・ボーネス)"
+      },
       "category": "Character",
       "cost": 2,
       "power": 3000,
@@ -7539,12 +10161,29 @@
             "distance": 6
           },
           "artist": "touge369"
+        },
+        {
+          "id": "OP01-083~ja",
+          "language": "ja",
+          "set": "OP01",
+          "rarity": "UC",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP01-083.png",
+          "cardSet": "ROMANCE DAWN【OP-01】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP01-084",
       "name": "Mr.2.Bon.Kurei(Bentham)",
+      "names": {
+        "en": "Mr.2.Bon.Kurei(Bentham)",
+        "ja": "Mr.2ボン・クレー(ベンサム)"
+      },
       "category": "Character",
       "cost": 3,
       "power": 4000,
@@ -7611,12 +10250,29 @@
               "category": "event"
             }
           ]
+        },
+        {
+          "id": "OP01-084~ja",
+          "language": "ja",
+          "set": "OP01",
+          "rarity": "UC",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP01-084.png",
+          "cardSet": "ROMANCE DAWN【OP-01】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP01-085",
       "name": "Mr.3(Galdino)",
+      "names": {
+        "en": "Mr.3(Galdino)",
+        "ja": "Mr.3(ギャルディーノ)"
+      },
       "category": "Character",
       "cost": 2,
       "power": 3000,
@@ -7653,12 +10309,29 @@
             "distance": 4
           },
           "artist": "Kaito Shibano"
+        },
+        {
+          "id": "OP01-085~ja",
+          "language": "ja",
+          "set": "OP01",
+          "rarity": "UC",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP01-085.png",
+          "cardSet": "ROMANCE DAWN【OP-01】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP01-086",
       "name": "Overheat",
+      "names": {
+        "en": "Overheat",
+        "ja": "超過鞭糸"
+      },
       "category": "Event",
       "cost": 2,
       "colors": [
@@ -7700,12 +10373,40 @@
           "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP01-086_r1.png",
           "cardSet": "-Blue Donquixote Doflamingo- [ST-17]",
           "source": "bandai"
+        },
+        {
+          "id": "OP01-086~ja",
+          "language": "ja",
+          "set": "OP01",
+          "rarity": "R",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP01-086.png",
+          "cardSet": "ROMANCE DAWN【OP-01】",
+          "source": "bandai",
+          "finishes": [
+            "foil",
+            "nonfoil"
+          ]
+        },
+        {
+          "id": "OP01-086_r1~ja",
+          "language": "ja",
+          "set": "ST17",
+          "rarity": "R",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP01-086_r1.png",
+          "cardSet": "スタートデッキ 青 ドンキホーテ・ドフラミンゴ【ST-17】",
+          "source": "bandai"
         }
       ]
     },
     {
       "number": "OP01-087",
       "name": "Officer Agents",
+      "names": {
+        "en": "Officer Agents",
+        "ja": "オフィサーエージェント"
+      },
       "category": "Event",
       "cost": 2,
       "colors": [
@@ -7736,12 +10437,29 @@
             "match": "image-only-candidate",
             "distance": 14
           }
+        },
+        {
+          "id": "OP01-087~ja",
+          "language": "ja",
+          "set": "OP01",
+          "rarity": "C",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP01-087.png",
+          "cardSet": "ROMANCE DAWN【OP-01】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP01-088",
       "name": "Desert Spada",
+      "names": {
+        "en": "Desert Spada",
+        "ja": "砂漠の宝刀"
+      },
       "category": "Event",
       "cost": 1,
       "colors": [
@@ -7773,12 +10491,29 @@
             "match": "image-only-candidate",
             "distance": 3
           }
+        },
+        {
+          "id": "OP01-088~ja",
+          "language": "ja",
+          "set": "OP01",
+          "rarity": "UC",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP01-088.png",
+          "cardSet": "ROMANCE DAWN【OP-01】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP01-089",
       "name": "Crescent Cutlass",
+      "names": {
+        "en": "Crescent Cutlass",
+        "ja": "三日月形砂丘"
+      },
       "category": "Event",
       "cost": 3,
       "colors": [
@@ -7810,12 +10545,29 @@
             "match": "image-only-candidate",
             "distance": 5
           }
+        },
+        {
+          "id": "OP01-089~ja",
+          "language": "ja",
+          "set": "OP01",
+          "rarity": "C",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP01-089.png",
+          "cardSet": "ROMANCE DAWN【OP-01】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP01-090",
       "name": "Baroque Works",
+      "names": {
+        "en": "Baroque Works",
+        "ja": "バロックワークス"
+      },
       "category": "Event",
       "cost": 1,
       "colors": [
@@ -7846,12 +10598,29 @@
             "match": "image-only-candidate",
             "distance": 0
           }
+        },
+        {
+          "id": "OP01-090~ja",
+          "language": "ja",
+          "set": "OP01",
+          "rarity": "UC",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP01-090.png",
+          "cardSet": "ROMANCE DAWN【OP-01】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP01-091",
       "name": "King",
+      "names": {
+        "en": "King",
+        "ja": "キング"
+      },
       "category": "Leader",
       "power": 5000,
       "life": 5,
@@ -7911,12 +10680,42 @@
           "treatments": [
             "parallel"
           ]
+        },
+        {
+          "id": "OP01-091~ja",
+          "language": "ja",
+          "set": "OP01",
+          "rarity": "L",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP01-091.png",
+          "cardSet": "ROMANCE DAWN【OP-01】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
+        },
+        {
+          "id": "OP01-091_p1~ja",
+          "language": "ja",
+          "set": "OP01",
+          "rarity": "L",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP01-091_p1.png",
+          "cardSet": "ROMANCE DAWN【OP-01】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "OP01-092",
       "name": "Urashima",
+      "names": {
+        "en": "Urashima",
+        "ja": "浦島"
+      },
       "category": "Character",
       "cost": 7,
       "power": 9000,
@@ -7953,12 +10752,29 @@
             "distance": 6
           },
           "artist": "HISASHI HUJIWARA"
+        },
+        {
+          "id": "OP01-092~ja",
+          "language": "ja",
+          "set": "OP01",
+          "rarity": "C",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP01-092.png",
+          "cardSet": "ROMANCE DAWN【OP-01】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP01-093",
       "name": "Ulti",
+      "names": {
+        "en": "Ulti",
+        "ja": "うるティ"
+      },
       "category": "Character",
       "cost": 2,
       "power": 3000,
@@ -8046,12 +10862,42 @@
               "category": "retail"
             }
           ]
+        },
+        {
+          "id": "OP01-093~ja",
+          "language": "ja",
+          "set": "OP01",
+          "rarity": "R",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP01-093.png",
+          "cardSet": "ROMANCE DAWN【OP-01】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP01-093_p1~ja",
+          "language": "ja",
+          "set": "OP01",
+          "rarity": "R",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP01-093_p1.png",
+          "cardSet": "ROMANCE DAWN【OP-01】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "OP01-094",
       "name": "Kaido",
+      "names": {
+        "en": "Kaido",
+        "ja": "カイドウ"
+      },
       "category": "Character",
       "cost": 10,
       "power": 12000,
@@ -8137,12 +10983,52 @@
               "category": "championship"
             }
           ]
+        },
+        {
+          "id": "OP01-094~ja",
+          "language": "ja",
+          "set": "OP01",
+          "rarity": "SR",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP01-094.png",
+          "cardSet": "ROMANCE DAWN【OP-01】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP01-094_p1~ja",
+          "language": "ja",
+          "set": "OP01",
+          "rarity": "SR",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP01-094_p1.png",
+          "cardSet": "ROMANCE DAWN【OP-01】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP01-094_p3~ja",
+          "language": "ja",
+          "set": "P",
+          "rarity": "SR",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP01-094_p3.png",
+          "cardSet": "フラッグシップバトル2023 10月優勝記念品",
+          "source": "bandai"
         }
       ]
     },
     {
       "number": "OP01-095",
       "name": "Kyoshirou",
+      "names": {
+        "en": "Kyoshirou",
+        "ja": "狂死郎"
+      },
       "category": "Character",
       "cost": 5,
       "power": 6000,
@@ -8179,12 +11065,29 @@
             "distance": 3
           },
           "artist": "Hayaken-sarena"
+        },
+        {
+          "id": "OP01-095~ja",
+          "language": "ja",
+          "set": "OP01",
+          "rarity": "UC",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP01-095.png",
+          "cardSet": "ROMANCE DAWN【OP-01】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP01-096",
       "name": "King",
+      "names": {
+        "en": "King",
+        "ja": "キング"
+      },
       "category": "Character",
       "cost": 7,
       "power": 7000,
@@ -8246,12 +11149,42 @@
             "parallel"
           ],
           "artist": "DAI-XT."
+        },
+        {
+          "id": "OP01-096~ja",
+          "language": "ja",
+          "set": "OP01",
+          "rarity": "SR",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP01-096.png",
+          "cardSet": "ROMANCE DAWN【OP-01】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP01-096_p1~ja",
+          "language": "ja",
+          "set": "OP01",
+          "rarity": "SR",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP01-096_p1.png",
+          "cardSet": "ROMANCE DAWN【OP-01】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "OP01-097",
       "name": "Queen",
+      "names": {
+        "en": "Queen",
+        "ja": "クイーン"
+      },
       "category": "Character",
       "cost": 6,
       "power": 5000,
@@ -8314,12 +11247,42 @@
             "parallel"
           ],
           "artist": "Yuu Shimotsuki"
+        },
+        {
+          "id": "OP01-097~ja",
+          "language": "ja",
+          "set": "OP01",
+          "rarity": "R",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP01-097.png",
+          "cardSet": "ROMANCE DAWN【OP-01】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP01-097_p1~ja",
+          "language": "ja",
+          "set": "OP01",
+          "rarity": "R",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP01-097_p1.png",
+          "cardSet": "ROMANCE DAWN【OP-01】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "OP01-098",
       "name": "Kurozumi Orochi",
+      "names": {
+        "en": "Kurozumi Orochi",
+        "ja": "黒炭オロチ"
+      },
       "category": "Character",
       "cost": 1,
       "power": 2000,
@@ -8357,12 +11320,29 @@
             "distance": 5
           },
           "artist": "HISASHI HUJIWARA"
+        },
+        {
+          "id": "OP01-098~ja",
+          "language": "ja",
+          "set": "OP01",
+          "rarity": "UC",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP01-098.png",
+          "cardSet": "ROMANCE DAWN【OP-01】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP01-099",
       "name": "Kurozumi Semimaru",
+      "names": {
+        "en": "Kurozumi Semimaru",
+        "ja": "黒炭せみ丸"
+      },
       "category": "Character",
       "cost": 2,
       "power": 3000,
@@ -8400,12 +11380,29 @@
             "distance": 4
           },
           "artist": "HISASHI HUJIWARA"
+        },
+        {
+          "id": "OP01-099~ja",
+          "language": "ja",
+          "set": "OP01",
+          "rarity": "C",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP01-099.png",
+          "cardSet": "ROMANCE DAWN【OP-01】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP01-100",
       "name": "Kurozumi Higurashi",
+      "names": {
+        "en": "Kurozumi Higurashi",
+        "ja": "黒炭ひぐらし"
+      },
       "category": "Character",
       "cost": 2,
       "power": 3000,
@@ -8469,12 +11466,29 @@
               "category": "program"
             }
           ]
+        },
+        {
+          "id": "OP01-100~ja",
+          "language": "ja",
+          "set": "OP01",
+          "rarity": "C",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP01-100.png",
+          "cardSet": "ROMANCE DAWN【OP-01】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP01-101",
       "name": "Sasaki",
+      "names": {
+        "en": "Sasaki",
+        "ja": "ササキ"
+      },
       "category": "Character",
       "cost": 3,
       "power": 4000,
@@ -8601,12 +11615,29 @@
               "category": "placement"
             }
           ]
+        },
+        {
+          "id": "OP01-101~ja",
+          "language": "ja",
+          "set": "OP01",
+          "rarity": "UC",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP01-101.png",
+          "cardSet": "ROMANCE DAWN【OP-01】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP01-102",
       "name": "Jack",
+      "names": {
+        "en": "Jack",
+        "ja": "ジャック"
+      },
       "category": "Character",
       "cost": 3,
       "power": 4000,
@@ -8669,12 +11700,42 @@
             "parallel"
           ],
           "artist": "DAI-XT."
+        },
+        {
+          "id": "OP01-102~ja",
+          "language": "ja",
+          "set": "OP01",
+          "rarity": "R",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP01-102.png",
+          "cardSet": "ROMANCE DAWN【OP-01】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP01-102_p1~ja",
+          "language": "ja",
+          "set": "OP01",
+          "rarity": "R",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP01-102_p1.png",
+          "cardSet": "ROMANCE DAWN【OP-01】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "OP01-103",
       "name": "Scratchmen Apoo",
+      "names": {
+        "en": "Scratchmen Apoo",
+        "ja": "スクラッチメン・アプー"
+      },
       "category": "Character",
       "cost": 4,
       "power": 6000,
@@ -8712,12 +11773,29 @@
             "distance": 2
           },
           "artist": "Akira Kano"
+        },
+        {
+          "id": "OP01-103~ja",
+          "language": "ja",
+          "set": "OP01",
+          "rarity": "C",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP01-103.png",
+          "cardSet": "ROMANCE DAWN【OP-01】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP01-104",
       "name": "Speed",
+      "names": {
+        "en": "Speed",
+        "ja": "スピード"
+      },
       "category": "Character",
       "cost": 2,
       "power": 3000,
@@ -8755,12 +11833,29 @@
             "distance": 6
           },
           "artist": "HISASHI HUJIWARA"
+        },
+        {
+          "id": "OP01-104~ja",
+          "language": "ja",
+          "set": "OP01",
+          "rarity": "C",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP01-104.png",
+          "cardSet": "ROMANCE DAWN【OP-01】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP01-105",
       "name": "Bao Huang",
+      "names": {
+        "en": "Bao Huang",
+        "ja": "バオファン"
+      },
       "category": "Character",
       "cost": 2,
       "power": 3000,
@@ -8798,12 +11893,29 @@
             "distance": 9
           },
           "artist": "Mutsumi Sasaki"
+        },
+        {
+          "id": "OP01-105~ja",
+          "language": "ja",
+          "set": "OP01",
+          "rarity": "C",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP01-105.png",
+          "cardSet": "ROMANCE DAWN【OP-01】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP01-106",
       "name": "Basil Hawkins",
+      "names": {
+        "en": "Basil Hawkins",
+        "ja": "バジル・ホーキンス"
+      },
       "category": "Character",
       "cost": 4,
       "power": 2000,
@@ -8841,12 +11953,29 @@
             "distance": 4
           },
           "artist": "Hatori Kyoka"
+        },
+        {
+          "id": "OP01-106~ja",
+          "language": "ja",
+          "set": "OP01",
+          "rarity": "UC",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP01-106.png",
+          "cardSet": "ROMANCE DAWN【OP-01】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP01-107",
       "name": "Babanuki",
+      "names": {
+        "en": "Babanuki",
+        "ja": "ババヌキ"
+      },
       "category": "Character",
       "cost": 5,
       "power": 7000,
@@ -8884,12 +12013,29 @@
             "distance": 6
           },
           "artist": "HISASHI HUJIWARA"
+        },
+        {
+          "id": "OP01-107~ja",
+          "language": "ja",
+          "set": "OP01",
+          "rarity": "C",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP01-107.png",
+          "cardSet": "ROMANCE DAWN【OP-01】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP01-108",
       "name": "Hitokiri Kamazo",
+      "names": {
+        "en": "Hitokiri Kamazo",
+        "ja": "人斬り鎌ぞう"
+      },
       "category": "Character",
       "cost": 4,
       "power": 5000,
@@ -8958,12 +12104,39 @@
               "category": "event"
             }
           ]
+        },
+        {
+          "id": "OP01-108~ja",
+          "language": "ja",
+          "set": "OP01",
+          "rarity": "UC",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP01-108.png",
+          "cardSet": "ROMANCE DAWN【OP-01】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
+        },
+        {
+          "id": "OP01-108_p1~ja",
+          "language": "ja",
+          "set": "P",
+          "rarity": "UC",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP01-108_p1.png",
+          "cardSet": "ONE PIECEカードゲーム プロモーションパックVol.5",
+          "source": "bandai"
         }
       ]
     },
     {
       "number": "OP01-109",
       "name": "Who's.Who",
+      "names": {
+        "en": "Who's.Who",
+        "ja": "フーズ・フー"
+      },
       "category": "Character",
       "cost": 2,
       "power": 3000,
@@ -9029,12 +12202,42 @@
             }
           ],
           "artist": "Anderson"
+        },
+        {
+          "id": "OP01-109~ja",
+          "language": "ja",
+          "set": "OP01",
+          "rarity": "UC",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP01-109.png",
+          "cardSet": "ROMANCE DAWN【OP-01】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
+        },
+        {
+          "id": "OP01-109_p1~ja",
+          "language": "ja",
+          "set": "OP01",
+          "rarity": "UC",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP01-109_p1.png",
+          "cardSet": "ROMANCE DAWN【OP-01】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "OP01-110",
       "name": "Fukurokuju",
+      "names": {
+        "en": "Fukurokuju",
+        "ja": "福ロクジュ"
+      },
       "category": "Character",
       "cost": 6,
       "power": 8000,
@@ -9072,12 +12275,29 @@
             "distance": 7
           },
           "artist": "Misa Matoki"
+        },
+        {
+          "id": "OP01-110~ja",
+          "language": "ja",
+          "set": "OP01",
+          "rarity": "C",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP01-110.png",
+          "cardSet": "ROMANCE DAWN【OP-01】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP01-111",
       "name": "Black Maria",
+      "names": {
+        "en": "Black Maria",
+        "ja": "ブラックマリア"
+      },
       "category": "Character",
       "cost": 4,
       "power": 5000,
@@ -9114,12 +12334,29 @@
             "distance": 76
           },
           "artist": "Mutsumi Sasaki"
+        },
+        {
+          "id": "OP01-111~ja",
+          "language": "ja",
+          "set": "OP01",
+          "rarity": "R",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP01-111.png",
+          "cardSet": "ROMANCE DAWN【OP-01】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "OP01-112",
       "name": "Page One",
+      "names": {
+        "en": "Page One",
+        "ja": "ページワン"
+      },
       "category": "Character",
       "cost": 4,
       "power": 5000,
@@ -9156,12 +12393,29 @@
             "distance": 2
           },
           "artist": "Koushi Rokushiro"
+        },
+        {
+          "id": "OP01-112~ja",
+          "language": "ja",
+          "set": "OP01",
+          "rarity": "R",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP01-112.png",
+          "cardSet": "ROMANCE DAWN【OP-01】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "OP01-113",
       "name": "Holedem",
+      "names": {
+        "en": "Holedem",
+        "ja": "ホールデム"
+      },
       "category": "Character",
       "cost": 3,
       "power": 4000,
@@ -9199,12 +12453,29 @@
             "distance": 3
           },
           "artist": "Misa Tsutsui"
+        },
+        {
+          "id": "OP01-113~ja",
+          "language": "ja",
+          "set": "OP01",
+          "rarity": "C",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP01-113.png",
+          "cardSet": "ROMANCE DAWN【OP-01】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP01-114",
       "name": "X.Drake",
+      "names": {
+        "en": "X.Drake",
+        "ja": "X・ドレーク"
+      },
       "category": "Character",
       "cost": 5,
       "power": 5000,
@@ -9353,12 +12624,49 @@
               "category": "retail"
             }
           ]
+        },
+        {
+          "id": "OP01-114~ja",
+          "language": "ja",
+          "set": "OP01",
+          "rarity": "R",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP01-114.png",
+          "cardSet": "ROMANCE DAWN【OP-01】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP01-114_p1~ja",
+          "language": "ja",
+          "set": "P",
+          "rarity": "R",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP01-114_p1.png",
+          "cardSet": "プロモーションパックEX Vol.1",
+          "source": "bandai"
+        },
+        {
+          "id": "OP01-114_p2~ja",
+          "language": "ja",
+          "set": "OTHER",
+          "rarity": "R",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP01-114_p2.png",
+          "cardSet": "プレミアムカードコレクション - ベストセレクションvol.2 -",
+          "source": "bandai"
         }
       ]
     },
     {
       "number": "OP01-115",
       "name": "Elephant's Marchoo",
+      "names": {
+        "en": "Elephant's Marchoo",
+        "ja": "象の鼻息"
+      },
       "category": "Event",
       "cost": 4,
       "colors": [
@@ -9390,12 +12698,29 @@
             "match": "image-only-candidate",
             "distance": 8
           }
+        },
+        {
+          "id": "OP01-115~ja",
+          "language": "ja",
+          "set": "OP01",
+          "rarity": "C",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP01-115.png",
+          "cardSet": "ROMANCE DAWN【OP-01】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP01-116",
       "name": "Artificial Devil Fruit SMILE",
+      "names": {
+        "en": "Artificial Devil Fruit SMILE",
+        "ja": "人造悪魔の実SMILE"
+      },
       "category": "Event",
       "cost": 2,
       "colors": [
@@ -9427,12 +12752,29 @@
             "match": "image-only-candidate",
             "distance": 3
           }
+        },
+        {
+          "id": "OP01-116~ja",
+          "language": "ja",
+          "set": "OP01",
+          "rarity": "UC",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP01-116.png",
+          "cardSet": "ROMANCE DAWN【OP-01】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP01-117",
       "name": "Sheep's Horn",
+      "names": {
+        "en": "Sheep's Horn",
+        "ja": "シープスホーン"
+      },
       "category": "Event",
       "cost": 2,
       "colors": [
@@ -9464,12 +12806,29 @@
             "match": "image-only-candidate",
             "distance": 6
           }
+        },
+        {
+          "id": "OP01-117~ja",
+          "language": "ja",
+          "set": "OP01",
+          "rarity": "C",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP01-117.png",
+          "cardSet": "ROMANCE DAWN【OP-01】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP01-118",
       "name": "Ulti-Mortar",
+      "names": {
+        "en": "Ulti-Mortar",
+        "ja": "ウル頭銃"
+      },
       "category": "Event",
       "cost": 1,
       "colors": [
@@ -9500,12 +12859,29 @@
             "match": "image-only-candidate",
             "distance": 3
           }
+        },
+        {
+          "id": "OP01-118~ja",
+          "language": "ja",
+          "set": "OP01",
+          "rarity": "UC",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP01-118.png",
+          "cardSet": "ROMANCE DAWN【OP-01】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP01-119",
       "name": "Thunder Bagua",
+      "names": {
+        "en": "Thunder Bagua",
+        "ja": "雷鳴八卦"
+      },
       "category": "Event",
       "cost": 2,
       "colors": [
@@ -9537,12 +12913,29 @@
             "match": "image-only-candidate",
             "distance": 4
           }
+        },
+        {
+          "id": "OP01-119~ja",
+          "language": "ja",
+          "set": "OP01",
+          "rarity": "R",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP01-119.png",
+          "cardSet": "ROMANCE DAWN【OP-01】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "OP01-120",
       "name": "Shanks",
+      "names": {
+        "en": "Shanks",
+        "ja": "シャンクス"
+      },
       "category": "Character",
       "cost": 9,
       "power": 10000,
@@ -9735,12 +13128,104 @@
               "category": "championship"
             }
           ]
+        },
+        {
+          "id": "OP01-120~ja",
+          "language": "ja",
+          "set": "OP01",
+          "rarity": "SEC",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP01-120.png",
+          "cardSet": "ROMANCE DAWN【OP-01】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP01-120_p1~ja",
+          "language": "ja",
+          "set": "OP01",
+          "rarity": "SEC",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP01-120_p1.png",
+          "cardSet": "ROMANCE DAWN【OP-01】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP01-120_p2~ja",
+          "language": "ja",
+          "set": "OP01",
+          "rarity": "SEC",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP01-120_p2.png",
+          "cardSet": "ROMANCE DAWN【OP-01】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP01-120_p4~ja",
+          "language": "ja",
+          "set": "P",
+          "rarity": "SEC",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP01-120_p4.png",
+          "cardSet": "フラッグシップバトル2023 7月優勝記念品",
+          "source": "bandai"
+        },
+        {
+          "id": "OP01-120_p5~ja",
+          "language": "ja",
+          "set": "PRB01",
+          "rarity": "SEC",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP01-120_p5.png",
+          "cardSet": "ONE PIECE CARD THE BEST【PRB-01】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP01-120_r1~ja",
+          "language": "ja",
+          "set": "PRB01",
+          "rarity": "SEC",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP01-120_r1.png",
+          "cardSet": "ONE PIECE CARD THE BEST【PRB-01】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP01-120_r2~ja",
+          "language": "ja",
+          "set": "PRB01",
+          "rarity": "SEC",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP01-120_r2.png",
+          "cardSet": "ONE PIECE CARD THE BEST【PRB-01】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "OP01-121",
       "name": "Yamato",
+      "names": {
+        "en": "Yamato",
+        "ja": "ヤマト"
+      },
       "category": "Character",
       "cost": 5,
       "power": 5000,
@@ -9904,6 +13389,68 @@
               "type": "treasure_cup",
               "category": "championship"
             }
+          ]
+        },
+        {
+          "id": "OP01-121~ja",
+          "language": "ja",
+          "set": "OP01",
+          "rarity": "SEC",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP01-121.png",
+          "cardSet": "ROMANCE DAWN【OP-01】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP01-121_p1~ja",
+          "language": "ja",
+          "set": "OP01",
+          "rarity": "SEC",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP01-121_p1.png",
+          "cardSet": "ROMANCE DAWN【OP-01】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP01-121_p2~ja",
+          "language": "ja",
+          "set": "OP05",
+          "rarity": "SP CARD",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP01-121_p2.png",
+          "cardSet": "新時代の主役【OP-05】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP01-121_p3~ja",
+          "language": "ja",
+          "set": "PRB01",
+          "rarity": "SEC",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP01-121_p3.png",
+          "cardSet": "ONE PIECE CARD THE BEST【PRB-01】",
+          "source": "bandai"
+        },
+        {
+          "id": "OP01-121_r1~ja",
+          "language": "ja",
+          "set": "PRB01",
+          "rarity": "SEC",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP01-121_r1.png",
+          "cardSet": "ONE PIECE CARD THE BEST【PRB-01】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
           ]
         }
       ]

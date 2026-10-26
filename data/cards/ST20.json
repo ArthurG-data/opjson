@@ -3,6 +3,10 @@
     {
       "number": "ST20-001",
       "name": "Charlotte Katakuri",
+      "names": {
+        "en": "Charlotte Katakuri",
+        "ja": "シャーロット・カタクリ"
+      },
       "category": "Character",
       "cost": 5,
       "power": 6000,
@@ -39,12 +43,29 @@
             "distance": 2
           },
           "artist": "Koushi Rokushiro"
+        },
+        {
+          "id": "ST20-001~ja",
+          "language": "ja",
+          "set": "ST20",
+          "rarity": "SR",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/ST20-001.png",
+          "cardSet": "スタートデッキ 黄 シャーロット・カタクリ【ST-20】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "ST20-002",
       "name": "Charlotte Cracker",
+      "names": {
+        "en": "Charlotte Cracker",
+        "ja": "シャーロット・クラッカー"
+      },
       "category": "Character",
       "cost": 4,
       "power": 5000,
@@ -81,12 +102,29 @@
             "distance": 0
           },
           "artist": "Yamada Rokkaku."
+        },
+        {
+          "id": "ST20-002~ja",
+          "language": "ja",
+          "set": "ST20",
+          "rarity": "C",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/ST20-002.png",
+          "cardSet": "スタートデッキ 黄 シャーロット・カタクリ【ST-20】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "ST20-003",
       "name": "Charlotte Brulee",
+      "names": {
+        "en": "Charlotte Brulee",
+        "ja": "シャーロット・ブリュレ"
+      },
       "category": "Character",
       "cost": 3,
       "power": 3000,
@@ -179,12 +217,55 @@
           ],
           "artOf": "ST20-003",
           "artist": "Nekobayashi"
+        },
+        {
+          "id": "ST20-003~ja",
+          "language": "ja",
+          "set": "ST20",
+          "rarity": "C",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/ST20-003.png",
+          "cardSet": "スタートデッキ 黄 シャーロット・カタクリ【ST-20】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
+        },
+        {
+          "id": "ST20-003_p1~ja",
+          "language": "ja",
+          "set": "PRB02",
+          "rarity": "C",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/ST20-003_p1.png",
+          "cardSet": "ONE PIECE CARD THE BEST vol.2【PRB-02】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "ST20-003_r1~ja",
+          "language": "ja",
+          "set": "PRB02",
+          "rarity": "C",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/ST20-003_r1.png",
+          "cardSet": "ONE PIECE CARD THE BEST vol.2【PRB-02】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "ST20-004",
       "name": "Charlotte Pudding",
+      "names": {
+        "en": "Charlotte Pudding",
+        "ja": "シャーロット・プリン"
+      },
       "category": "Character",
       "cost": 3,
       "power": 2000,
@@ -221,12 +302,29 @@
             "distance": 2
           },
           "artist": "Koushi Rokushiro"
+        },
+        {
+          "id": "ST20-004~ja",
+          "language": "ja",
+          "set": "ST20",
+          "rarity": "C",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/ST20-004.png",
+          "cardSet": "スタートデッキ 黄 シャーロット・カタクリ【ST-20】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "ST20-005",
       "name": "Charlotte Linlin",
+      "names": {
+        "en": "Charlotte Linlin",
+        "ja": "シャーロット・リンリン"
+      },
       "category": "Character",
       "cost": 6,
       "power": 7000,
@@ -292,6 +390,19 @@
               "type": "retail_product",
               "category": "retail"
             }
+          ]
+        },
+        {
+          "id": "ST20-005~ja",
+          "language": "ja",
+          "set": "ST20",
+          "rarity": "SR",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/ST20-005.png",
+          "cardSet": "スタートデッキ 黄 シャーロット・カタクリ【ST-20】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
           ]
         }
       ]

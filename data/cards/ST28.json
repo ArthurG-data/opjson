@@ -3,6 +3,10 @@
     {
       "number": "ST28-001",
       "name": "Ashura Doji",
+      "names": {
+        "en": "Ashura Doji",
+        "ja": "アシュラ童子"
+      },
       "category": "Character",
       "cost": 3,
       "power": 3000,
@@ -40,12 +44,29 @@
             "distance": 4
           },
           "artist": "Yasushi Yamaguchi"
+        },
+        {
+          "id": "ST28-001~ja",
+          "language": "ja",
+          "set": "ST28",
+          "rarity": "C",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/ST28-001.png",
+          "cardSet": "スタートデッキ 緑黄 ヤマト【ST-28】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "ST28-002",
       "name": "Izo",
+      "names": {
+        "en": "Izo",
+        "ja": "イゾウ"
+      },
       "category": "Character",
       "cost": 2,
       "power": 1000,
@@ -83,12 +104,29 @@
             "distance": 4
           },
           "artist": "Morechand"
+        },
+        {
+          "id": "ST28-002~ja",
+          "language": "ja",
+          "set": "ST28",
+          "rarity": "C",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/ST28-002.png",
+          "cardSet": "スタートデッキ 緑黄 ヤマト【ST-28】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "ST28-003",
       "name": "Kin'emon",
+      "names": {
+        "en": "Kin'emon",
+        "ja": "錦えもん"
+      },
       "category": "Character",
       "cost": 4,
       "power": 5000,
@@ -126,12 +164,29 @@
             "distance": 1
           },
           "artist": "kankurou"
+        },
+        {
+          "id": "ST28-003~ja",
+          "language": "ja",
+          "set": "ST28",
+          "rarity": "C",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/ST28-003.png",
+          "cardSet": "スタートデッキ 緑黄 ヤマト【ST-28】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "ST28-004",
       "name": "Kouzuki Momonosuke",
+      "names": {
+        "en": "Kouzuki Momonosuke",
+        "ja": "光月モモの助"
+      },
       "category": "Character",
       "cost": 6,
       "power": 7000,
@@ -168,12 +223,29 @@
             "distance": 2
           },
           "artist": "Misa Matoki"
+        },
+        {
+          "id": "ST28-004~ja",
+          "language": "ja",
+          "set": "ST28",
+          "rarity": "SR",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/ST28-004.png",
+          "cardSet": "スタートデッキ 緑黄 ヤマト【ST-28】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "ST28-005",
       "name": "Yamato",
+      "names": {
+        "en": "Yamato",
+        "ja": "ヤマト"
+      },
       "category": "Character",
       "cost": 1,
       "counter": 1000,
@@ -209,6 +281,19 @@
             "distance": 1
           },
           "artist": "PENEKOR"
+        },
+        {
+          "id": "ST28-005~ja",
+          "language": "ja",
+          "set": "ST28",
+          "rarity": "SR",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/ST28-005.png",
+          "cardSet": "スタートデッキ 緑黄 ヤマト【ST-28】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     }

@@ -3,6 +3,10 @@
     {
       "number": "OP08-001",
       "name": "Tony Tony.Chopper",
+      "names": {
+        "en": "Tony Tony.Chopper",
+        "ja": "トニートニー・チョッパー"
+      },
       "category": "Leader",
       "power": 5000,
       "life": 4,
@@ -91,12 +95,65 @@
           "treatments": [
             "sp"
           ]
+        },
+        {
+          "id": "OP08-001~ja",
+          "language": "ja",
+          "set": "OP08",
+          "rarity": "L",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP08-001.png",
+          "cardSet": "ブースターパック 二つの伝説【OP-08】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
+        },
+        {
+          "id": "OP08-001_p1~ja",
+          "language": "ja",
+          "set": "OP08",
+          "rarity": "L",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP08-001_p1.png",
+          "cardSet": "ブースターパック 二つの伝説【OP-08】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP08-001_p2~ja",
+          "language": "ja",
+          "set": "EB02",
+          "rarity": "L",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP08-001_p2.png",
+          "cardSet": "エクストラブースター Anime 25th collection【EB-02】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP08-001_p3~ja",
+          "language": "ja",
+          "set": "OTHER",
+          "rarity": "L",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP08-001_p3.png",
+          "cardSet": "ONE PIECEカードゲーム BASE SHOPリミテッドカードコレクションvol.1",
+          "source": "bandai"
         }
       ]
     },
     {
       "number": "OP08-002",
       "name": "Marco",
+      "names": {
+        "en": "Marco",
+        "ja": "マルコ"
+      },
       "category": "Leader",
       "power": 5000,
       "life": 4,
@@ -183,12 +240,65 @@
           "treatments": [
             "sp"
           ]
+        },
+        {
+          "id": "OP08-002~ja",
+          "language": "ja",
+          "set": "OP08",
+          "rarity": "L",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP08-002.png",
+          "cardSet": "ブースターパック 二つの伝説【OP-08】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
+        },
+        {
+          "id": "OP08-002_p1~ja",
+          "language": "ja",
+          "set": "OP08",
+          "rarity": "L",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP08-002_p1.png",
+          "cardSet": "ブースターパック 二つの伝説【OP-08】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP08-002_p2~ja",
+          "language": "ja",
+          "set": "EB02",
+          "rarity": "L",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP08-002_p2.png",
+          "cardSet": "エクストラブースター Anime 25th collection【EB-02】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP08-002_p3~ja",
+          "language": "ja",
+          "set": "OTHER",
+          "rarity": "L",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP08-002_p3.png",
+          "cardSet": "週刊少年ジャンプ応募者全員サービス",
+          "source": "bandai"
         }
       ]
     },
     {
       "number": "OP08-003",
       "name": "Twenty Doctors",
+      "names": {
+        "en": "Twenty Doctors",
+        "ja": "イッシー20"
+      },
       "category": "Character",
       "cost": 2,
       "power": 2000,
@@ -253,12 +363,29 @@
             }
           ],
           "artist": "Yoichi Amano"
+        },
+        {
+          "id": "OP08-003~ja",
+          "language": "ja",
+          "set": "OP08",
+          "rarity": "C",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP08-003.png",
+          "cardSet": "ブースターパック 二つの伝説【OP-08】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP08-004",
       "name": "Kuromarimo",
+      "names": {
+        "en": "Kuromarimo",
+        "ja": "クロマーリモ"
+      },
       "category": "Character",
       "cost": 4,
       "power": 5000,
@@ -323,12 +450,29 @@
             }
           ],
           "artist": "S-KINOKO"
+        },
+        {
+          "id": "OP08-004~ja",
+          "language": "ja",
+          "set": "OP08",
+          "rarity": "C",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP08-004.png",
+          "cardSet": "ブースターパック 二つの伝説【OP-08】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP08-005",
       "name": "Chess",
+      "names": {
+        "en": "Chess",
+        "ja": "チェス"
+      },
       "category": "Character",
       "cost": 3,
       "power": 3000,
@@ -393,12 +537,29 @@
             }
           ],
           "artist": "Aidle Co. Ltd."
+        },
+        {
+          "id": "OP08-005~ja",
+          "language": "ja",
+          "set": "OP08",
+          "rarity": "C",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP08-005.png",
+          "cardSet": "ブースターパック 二つの伝説【OP-08】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP08-006",
       "name": "Chessmarimo",
+      "names": {
+        "en": "Chessmarimo",
+        "ja": "チェスマーリモ"
+      },
       "category": "Character",
       "cost": 5,
       "power": 6000,
@@ -464,12 +625,29 @@
             }
           ],
           "artist": "KISUKE"
+        },
+        {
+          "id": "OP08-006~ja",
+          "language": "ja",
+          "set": "OP08",
+          "rarity": "UC",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP08-006.png",
+          "cardSet": "ブースターパック 二つの伝説【OP-08】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP08-007",
       "name": "Tony Tony.Chopper",
+      "names": {
+        "en": "Tony Tony.Chopper",
+        "ja": "トニートニー・チョッパー"
+      },
       "category": "Character",
       "cost": 3,
       "power": 5000,
@@ -533,12 +711,42 @@
             "parallel"
           ],
           "artist": "Ryuda"
+        },
+        {
+          "id": "OP08-007~ja",
+          "language": "ja",
+          "set": "OP08",
+          "rarity": "SR",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP08-007.png",
+          "cardSet": "ブースターパック 二つの伝説【OP-08】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP08-007_p1~ja",
+          "language": "ja",
+          "set": "OP08",
+          "rarity": "SR",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP08-007_p1.png",
+          "cardSet": "ブースターパック 二つの伝説【OP-08】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "OP08-008",
       "name": "Dalton",
+      "names": {
+        "en": "Dalton",
+        "ja": "ドルトン"
+      },
       "category": "Character",
       "cost": 5,
       "power": 6000,
@@ -575,12 +783,29 @@
             "distance": 1
           },
           "artist": "tasaka"
+        },
+        {
+          "id": "OP08-008~ja",
+          "language": "ja",
+          "set": "OP08",
+          "rarity": "R",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP08-008.png",
+          "cardSet": "ブースターパック 二つの伝説【OP-08】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "OP08-009",
       "name": "Maria Onion Bear",
+      "names": {
+        "en": "Maria Onion Bear",
+        "ja": "ネギ熊まりあ"
+      },
       "category": "Character",
       "cost": 3,
       "power": 5000,
@@ -645,12 +870,29 @@
             }
           ],
           "artist": "Aidle Co. Ltd."
+        },
+        {
+          "id": "OP08-009~ja",
+          "language": "ja",
+          "set": "OP08",
+          "rarity": "C",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP08-009.png",
+          "cardSet": "ブースターパック 二つの伝説【OP-08】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP08-010",
       "name": "Hiking Bear",
+      "names": {
+        "en": "Hiking Bear",
+        "ja": "ハイキングベア"
+      },
       "category": "Character",
       "cost": 3,
       "power": 3000,
@@ -716,12 +958,29 @@
             }
           ],
           "artist": "COGA"
+        },
+        {
+          "id": "OP08-010~ja",
+          "language": "ja",
+          "set": "OP08",
+          "rarity": "UC",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP08-010.png",
+          "cardSet": "ブースターパック 二つの伝説【OP-08】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP08-011",
       "name": "Musshuru",
+      "names": {
+        "en": "Musshuru",
+        "ja": "ムッシュール"
+      },
       "category": "Character",
       "cost": 6,
       "power": 8000,
@@ -787,12 +1046,29 @@
             }
           ],
           "artist": "UGUME"
+        },
+        {
+          "id": "OP08-011~ja",
+          "language": "ja",
+          "set": "OP08",
+          "rarity": "C",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP08-011.png",
+          "cardSet": "ブースターパック 二つの伝説【OP-08】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP08-012",
       "name": "Lapins",
+      "names": {
+        "en": "Lapins",
+        "ja": "ラパーン"
+      },
       "category": "Character",
       "cost": 3,
       "power": 3000,
@@ -858,12 +1134,29 @@
             }
           ],
           "artist": "tatsuya"
+        },
+        {
+          "id": "OP08-012~ja",
+          "language": "ja",
+          "set": "OP08",
+          "rarity": "UC",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP08-012.png",
+          "cardSet": "ブースターパック 二つの伝説【OP-08】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP08-013",
       "name": "Robson",
+      "names": {
+        "en": "Robson",
+        "ja": "ロブソン"
+      },
       "category": "Character",
       "cost": 3,
       "power": 4000,
@@ -929,12 +1222,29 @@
             }
           ],
           "artist": "nukadokomogera"
+        },
+        {
+          "id": "OP08-013~ja",
+          "language": "ja",
+          "set": "OP08",
+          "rarity": "UC",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP08-013.png",
+          "cardSet": "ブースターパック 二つの伝説【OP-08】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP08-014",
       "name": "Wapol",
+      "names": {
+        "en": "Wapol",
+        "ja": "ワポル"
+      },
       "category": "Character",
       "cost": 6,
       "power": 6000,
@@ -971,12 +1281,29 @@
             "distance": 6
           },
           "artist": "ASAKI KURODA"
+        },
+        {
+          "id": "OP08-014~ja",
+          "language": "ja",
+          "set": "OP08",
+          "rarity": "R",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP08-014.png",
+          "cardSet": "ブースターパック 二つの伝説【OP-08】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "OP08-015",
       "name": "Dr.Kureha",
+      "names": {
+        "en": "Dr.Kureha",
+        "ja": "Dr.くれは"
+      },
       "category": "Character",
       "cost": 1,
       "power": 2000,
@@ -1038,12 +1365,42 @@
           "treatments": [
             "parallel"
           ]
+        },
+        {
+          "id": "OP08-015~ja",
+          "language": "ja",
+          "set": "OP08",
+          "rarity": "R",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP08-015.png",
+          "cardSet": "ブースターパック 二つの伝説【OP-08】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP08-015_p1~ja",
+          "language": "ja",
+          "set": "OP08",
+          "rarity": "R",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP08-015_p1.png",
+          "cardSet": "ブースターパック 二つの伝説【OP-08】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "OP08-016",
       "name": "Dr.Hiriluk",
+      "names": {
+        "en": "Dr.Hiriluk",
+        "ja": "Dr.ヒルルク"
+      },
       "category": "Character",
       "cost": 3,
       "counter": 2000,
@@ -1079,12 +1436,29 @@
             "distance": 1
           },
           "artist": "Aidle Co. Ltd."
+        },
+        {
+          "id": "OP08-016~ja",
+          "language": "ja",
+          "set": "OP08",
+          "rarity": "R",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP08-016.png",
+          "cardSet": "ブースターパック 二つの伝説【OP-08】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "OP08-017",
       "name": "I'd Never Shoot You!!!!",
+      "names": {
+        "en": "I'd Never Shoot You!!!!",
+        "ja": "おれは決して お前を撃たねェ!!!!"
+      },
       "category": "Event",
       "cost": 2,
       "colors": [
@@ -1142,12 +1516,29 @@
               "category": "event"
             }
           ]
+        },
+        {
+          "id": "OP08-017~ja",
+          "language": "ja",
+          "set": "OP08",
+          "rarity": "C",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP08-017.png",
+          "cardSet": "ブースターパック 二つの伝説【OP-08】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP08-018",
       "name": "Cloven Rose",
+      "names": {
+        "en": "Cloven Rose",
+        "ja": "刻蹄『桜』"
+      },
       "category": "Event",
       "cost": 2,
       "colors": [
@@ -1180,12 +1571,29 @@
             "match": "image-only-candidate",
             "distance": 2
           }
+        },
+        {
+          "id": "OP08-018~ja",
+          "language": "ja",
+          "set": "OP08",
+          "rarity": "R",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP08-018.png",
+          "cardSet": "ブースターパック 二つの伝説【OP-08】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "OP08-019",
       "name": "Munch-Munch Mutation",
+      "names": {
+        "en": "Munch-Munch Mutation",
+        "ja": "バクバク食"
+      },
       "category": "Event",
       "cost": 3,
       "colors": [
@@ -1243,12 +1651,29 @@
               "category": "event"
             }
           ]
+        },
+        {
+          "id": "OP08-019~ja",
+          "language": "ja",
+          "set": "OP08",
+          "rarity": "UC",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP08-019.png",
+          "cardSet": "ブースターパック 二つの伝説【OP-08】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP08-020",
       "name": "Drum Kingdom",
+      "names": {
+        "en": "Drum Kingdom",
+        "ja": "ドラム王国"
+      },
       "category": "Stage",
       "cost": 1,
       "colors": [
@@ -1414,12 +1839,39 @@
               "category": "placement"
             }
           ]
+        },
+        {
+          "id": "OP08-020~ja",
+          "language": "ja",
+          "set": "OP08",
+          "rarity": "C",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP08-020.png",
+          "cardSet": "ブースターパック 二つの伝説【OP-08】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
+        },
+        {
+          "id": "OP08-020_p1~ja",
+          "language": "ja",
+          "set": "P",
+          "rarity": "C",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP08-020_p1.png",
+          "cardSet": "プロモーションパックEX Vol.2",
+          "source": "bandai"
         }
       ]
     },
     {
       "number": "OP08-021",
       "name": "Carrot",
+      "names": {
+        "en": "Carrot",
+        "ja": "キャロット"
+      },
       "category": "Leader",
       "power": 5000,
       "life": 5,
@@ -1505,12 +1957,55 @@
           "treatments": [
             "sp"
           ]
+        },
+        {
+          "id": "OP08-021~ja",
+          "language": "ja",
+          "set": "OP08",
+          "rarity": "L",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP08-021.png",
+          "cardSet": "ブースターパック 二つの伝説【OP-08】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
+        },
+        {
+          "id": "OP08-021_p1~ja",
+          "language": "ja",
+          "set": "OP08",
+          "rarity": "L",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP08-021_p1.png",
+          "cardSet": "ブースターパック 二つの伝説【OP-08】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP08-021_p2~ja",
+          "language": "ja",
+          "set": "EB02",
+          "rarity": "L",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP08-021_p2.png",
+          "cardSet": "エクストラブースター Anime 25th collection【EB-02】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "OP08-022",
       "name": "Inuarashi",
+      "names": {
+        "en": "Inuarashi",
+        "ja": "イヌアラシ"
+      },
       "category": "Character",
       "cost": 5,
       "power": 6000,
@@ -1576,12 +2071,29 @@
             }
           ],
           "artist": "tatsuya"
+        },
+        {
+          "id": "OP08-022~ja",
+          "language": "ja",
+          "set": "OP08",
+          "rarity": "UC",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP08-022.png",
+          "cardSet": "ブースターパック 二つの伝説【OP-08】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP08-023",
       "name": "Carrot",
+      "names": {
+        "en": "Carrot",
+        "ja": "キャロット"
+      },
       "category": "Character",
       "cost": 5,
       "power": 6000,
@@ -1697,12 +2209,68 @@
           ],
           "artOf": "OP08-023",
           "artist": "Hashimoto Q"
+        },
+        {
+          "id": "OP08-023~ja",
+          "language": "ja",
+          "set": "OP08",
+          "rarity": "SR",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP08-023.png",
+          "cardSet": "ブースターパック 二つの伝説【OP-08】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP08-023_p1~ja",
+          "language": "ja",
+          "set": "OP08",
+          "rarity": "SR",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP08-023_p1.png",
+          "cardSet": "ブースターパック 二つの伝説【OP-08】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP08-023_p2~ja",
+          "language": "ja",
+          "set": "PRB02",
+          "rarity": "SP CARD",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP08-023_p2.png",
+          "cardSet": "ONE PIECE CARD THE BEST vol.2【PRB-02】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP08-023_r1~ja",
+          "language": "ja",
+          "set": "PRB02",
+          "rarity": "SR",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP08-023_r1.png",
+          "cardSet": "ONE PIECE CARD THE BEST vol.2【PRB-02】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "OP08-024",
       "name": "Concelot",
+      "names": {
+        "en": "Concelot",
+        "ja": "コンスロット"
+      },
       "category": "Character",
       "cost": 3,
       "power": 4000,
@@ -1767,12 +2335,29 @@
             }
           ],
           "artist": "Suzume Muraichi"
+        },
+        {
+          "id": "OP08-024~ja",
+          "language": "ja",
+          "set": "OP08",
+          "rarity": "UC",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP08-024.png",
+          "cardSet": "ブースターパック 二つの伝説【OP-08】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP08-025",
       "name": "Shishilian",
+      "names": {
+        "en": "Shishilian",
+        "ja": "シシリアン"
+      },
       "category": "Character",
       "cost": 3,
       "power": 4000,
@@ -1837,12 +2422,29 @@
             }
           ],
           "artist": "Anderson"
+        },
+        {
+          "id": "OP08-025~ja",
+          "language": "ja",
+          "set": "OP08",
+          "rarity": "C",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP08-025.png",
+          "cardSet": "ブースターパック 二つの伝説【OP-08】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP08-026",
       "name": "Giovanni",
+      "names": {
+        "en": "Giovanni",
+        "ja": "ジョバンニ"
+      },
       "category": "Character",
       "cost": 2,
       "power": 3000,
@@ -1907,12 +2509,29 @@
             }
           ],
           "artist": "SENNSU"
+        },
+        {
+          "id": "OP08-026~ja",
+          "language": "ja",
+          "set": "OP08",
+          "rarity": "C",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP08-026.png",
+          "cardSet": "ブースターパック 二つの伝説【OP-08】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP08-027",
       "name": "Tristan",
+      "names": {
+        "en": "Tristan",
+        "ja": "トリスタン"
+      },
       "category": "Character",
       "cost": 1,
       "power": 3000,
@@ -1977,12 +2596,29 @@
             }
           ],
           "artist": "UGUME"
+        },
+        {
+          "id": "OP08-027~ja",
+          "language": "ja",
+          "set": "OP08",
+          "rarity": "C",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP08-027.png",
+          "cardSet": "ブースターパック 二つの伝説【OP-08】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP08-028",
       "name": "Nekomamushi",
+      "names": {
+        "en": "Nekomamushi",
+        "ja": "ネコマムシ"
+      },
       "category": "Character",
       "cost": 5,
       "power": 6000,
@@ -2068,12 +2704,29 @@
           "finishes": [
             "nonfoil"
           ]
+        },
+        {
+          "id": "OP08-028~ja",
+          "language": "ja",
+          "set": "OP08",
+          "rarity": "UC",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP08-028.png",
+          "cardSet": "ブースターパック 二つの伝説【OP-08】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP08-029",
       "name": "Pekoms",
+      "names": {
+        "en": "Pekoms",
+        "ja": "ペコムズ"
+      },
       "category": "Character",
       "cost": 4,
       "power": 6000,
@@ -2138,12 +2791,29 @@
             }
           ],
           "artist": "Daiki Ihara"
+        },
+        {
+          "id": "OP08-029~ja",
+          "language": "ja",
+          "set": "OP08",
+          "rarity": "C",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP08-029.png",
+          "cardSet": "ブースターパック 二つの伝説【OP-08】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP08-030",
       "name": "Pedro",
+      "names": {
+        "en": "Pedro",
+        "ja": "ペドロ"
+      },
       "category": "Character",
       "cost": 4,
       "power": 5000,
@@ -2206,12 +2876,42 @@
             "parallel"
           ],
           "artist": "Yoichi Amano"
+        },
+        {
+          "id": "OP08-030~ja",
+          "language": "ja",
+          "set": "OP08",
+          "rarity": "R",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP08-030.png",
+          "cardSet": "ブースターパック 二つの伝説【OP-08】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP08-030_p1~ja",
+          "language": "ja",
+          "set": "OP08",
+          "rarity": "R",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP08-030_p1.png",
+          "cardSet": "ブースターパック 二つの伝説【OP-08】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "OP08-031",
       "name": "Miyagi",
+      "names": {
+        "en": "Miyagi",
+        "ja": "ミヤギ"
+      },
       "category": "Character",
       "cost": 3,
       "power": 1000,
@@ -2276,12 +2976,29 @@
             }
           ],
           "artist": "SOWSOW"
+        },
+        {
+          "id": "OP08-031~ja",
+          "language": "ja",
+          "set": "OP08",
+          "rarity": "C",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP08-031.png",
+          "cardSet": "ブースターパック 二つの伝説【OP-08】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP08-032",
       "name": "Milky",
+      "names": {
+        "en": "Milky",
+        "ja": "ミルキー"
+      },
       "category": "Character",
       "cost": 2,
       "counter": 2000,
@@ -2345,12 +3062,29 @@
             }
           ],
           "artist": "Haru Miyajima"
+        },
+        {
+          "id": "OP08-032~ja",
+          "language": "ja",
+          "set": "OP08",
+          "rarity": "UC",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP08-032.png",
+          "cardSet": "ブースターパック 二つの伝説【OP-08】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP08-033",
       "name": "Roddy",
+      "names": {
+        "en": "Roddy",
+        "ja": "ロディ"
+      },
       "category": "Character",
       "cost": 1,
       "power": 2000,
@@ -2415,12 +3149,29 @@
             }
           ],
           "artist": "tasaka"
+        },
+        {
+          "id": "OP08-033~ja",
+          "language": "ja",
+          "set": "OP08",
+          "rarity": "C",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP08-033.png",
+          "cardSet": "ブースターパック 二つの伝説【OP-08】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP08-034",
       "name": "Wanda",
+      "names": {
+        "en": "Wanda",
+        "ja": "ワンダ"
+      },
       "category": "Character",
       "cost": 1,
       "power": 2000,
@@ -2457,12 +3208,29 @@
             "distance": 1
           },
           "artist": "NIJIMAARC"
+        },
+        {
+          "id": "OP08-034~ja",
+          "language": "ja",
+          "set": "OP08",
+          "rarity": "R",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP08-034.png",
+          "cardSet": "ブースターパック 二つの伝説【OP-08】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "OP08-035",
       "name": "BB",
+      "names": {
+        "en": "BB",
+        "ja": "BB"
+      },
       "category": "Character",
       "cost": 2,
       "power": 4000,
@@ -2527,12 +3295,29 @@
             }
           ],
           "artist": "S-KINOKO"
+        },
+        {
+          "id": "OP08-035~ja",
+          "language": "ja",
+          "set": "OP08",
+          "rarity": "C",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP08-035.png",
+          "cardSet": "ブースターパック 二つの伝説【OP-08】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP08-036",
       "name": "Electrical Luna",
+      "names": {
+        "en": "Electrical Luna",
+        "ja": "エレクトリカルルナ"
+      },
       "category": "Event",
       "cost": 3,
       "colors": [
@@ -2599,12 +3384,39 @@
               "category": "retail"
             }
           ]
+        },
+        {
+          "id": "OP08-036~ja",
+          "language": "ja",
+          "set": "OP08",
+          "rarity": "R",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP08-036.png",
+          "cardSet": "ブースターパック 二つの伝説【OP-08】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP08-036_p1~ja",
+          "language": "ja",
+          "set": "OTHER",
+          "rarity": "R",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP08-036_p1.png",
+          "cardSet": "プレミアムカードコレクション - ベストセレクション vol.5 -",
+          "source": "bandai"
         }
       ]
     },
     {
       "number": "OP08-037",
       "name": "Garchu",
+      "names": {
+        "en": "Garchu",
+        "ja": "ガルチュー"
+      },
       "category": "Event",
       "cost": 1,
       "colors": [
@@ -2662,12 +3474,29 @@
               "category": "event"
             }
           ]
+        },
+        {
+          "id": "OP08-037~ja",
+          "language": "ja",
+          "set": "OP08",
+          "rarity": "UC",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP08-037.png",
+          "cardSet": "ブースターパック 二つの伝説【OP-08】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP08-038",
       "name": "We Would Never Sell a Comrade to an Enemy!!!",
+      "names": {
+        "en": "We Would Never Sell a Comrade to an Enemy!!!",
+        "ja": "敵に“仲間”は売らんぜよ!!!"
+      },
       "category": "Event",
       "cost": 1,
       "colors": [
@@ -2726,12 +3555,29 @@
               "category": "event"
             }
           ]
+        },
+        {
+          "id": "OP08-038~ja",
+          "language": "ja",
+          "set": "OP08",
+          "rarity": "C",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP08-038.png",
+          "cardSet": "ブースターパック 二つの伝説【OP-08】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP08-039",
       "name": "Zou",
+      "names": {
+        "en": "Zou",
+        "ja": "ゾウ"
+      },
       "category": "Stage",
       "cost": 3,
       "colors": [
@@ -2762,12 +3608,29 @@
             "match": "image-only-candidate",
             "distance": 3
           }
+        },
+        {
+          "id": "OP08-039~ja",
+          "language": "ja",
+          "set": "OP08",
+          "rarity": "R",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP08-039.png",
+          "cardSet": "ブースターパック 二つの伝説【OP-08】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "OP08-040",
       "name": "Atmos",
+      "names": {
+        "en": "Atmos",
+        "ja": "アトモス"
+      },
       "category": "Character",
       "cost": 4,
       "power": 5000,
@@ -2861,12 +3724,42 @@
             }
           ],
           "artist": "kankurou"
+        },
+        {
+          "id": "OP08-040~ja",
+          "language": "ja",
+          "set": "OP08",
+          "rarity": "UC",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP08-040.png",
+          "cardSet": "ブースターパック 二つの伝説【OP-08】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
+        },
+        {
+          "id": "OP08-040_p1~ja",
+          "language": "ja",
+          "set": "OTHER",
+          "rarity": "UC",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP08-040_p1.png",
+          "cardSet": "プレミアムカードコレクション-ベストセレクションvol.3-",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "OP08-041",
       "name": "Aphelandra",
+      "names": {
+        "en": "Aphelandra",
+        "ja": "アフェランドラ"
+      },
       "category": "Character",
       "cost": 3,
       "power": 4000,
@@ -2931,12 +3824,29 @@
             }
           ],
           "artist": "Misa Matoki"
+        },
+        {
+          "id": "OP08-041~ja",
+          "language": "ja",
+          "set": "OP08",
+          "rarity": "C",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP08-041.png",
+          "cardSet": "ブースターパック 二つの伝説【OP-08】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP08-042",
       "name": "Edward Weevil",
+      "names": {
+        "en": "Edward Weevil",
+        "ja": "エドワード・ウィーブル"
+      },
       "category": "Character",
       "cost": 4,
       "power": 5000,
@@ -3001,12 +3911,29 @@
             }
           ],
           "artist": "kankurou"
+        },
+        {
+          "id": "OP08-042~ja",
+          "language": "ja",
+          "set": "OP08",
+          "rarity": "UC",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP08-042.png",
+          "cardSet": "ブースターパック 二つの伝説【OP-08】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP08-043",
       "name": "Edward.Newgate",
+      "names": {
+        "en": "Edward.Newgate",
+        "ja": "エドワード・ニューゲート"
+      },
       "category": "Character",
       "cost": 10,
       "power": 12000,
@@ -3069,12 +3996,42 @@
             "parallel"
           ],
           "artist": "DAI-XT."
+        },
+        {
+          "id": "OP08-043~ja",
+          "language": "ja",
+          "set": "OP08",
+          "rarity": "SR",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP08-043.png",
+          "cardSet": "ブースターパック 二つの伝説【OP-08】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP08-043_p1~ja",
+          "language": "ja",
+          "set": "OP08",
+          "rarity": "SR",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP08-043_p1.png",
+          "cardSet": "ブースターパック 二つの伝説【OP-08】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "OP08-044",
       "name": "Kingdew",
+      "names": {
+        "en": "Kingdew",
+        "ja": "キングデュー"
+      },
       "category": "Character",
       "cost": 4,
       "power": 4000,
@@ -3139,12 +4096,29 @@
             }
           ],
           "artist": "touge369"
+        },
+        {
+          "id": "OP08-044~ja",
+          "language": "ja",
+          "set": "OP08",
+          "rarity": "UC",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP08-044.png",
+          "cardSet": "ブースターパック 二つの伝説【OP-08】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP08-045",
       "name": "Thatch",
+      "names": {
+        "en": "Thatch",
+        "ja": "サッチ"
+      },
       "category": "Character",
       "cost": 4,
       "power": 5000,
@@ -3209,12 +4183,29 @@
             }
           ],
           "artist": "Nekobayashi"
+        },
+        {
+          "id": "OP08-045~ja",
+          "language": "ja",
+          "set": "OP08",
+          "rarity": "UC",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP08-045.png",
+          "cardSet": "ブースターパック 二つの伝説【OP-08】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP08-046",
       "name": "Shakuyaku",
+      "names": {
+        "en": "Shakuyaku",
+        "ja": "シャクヤク"
+      },
       "category": "Character",
       "cost": 5,
       "power": 6000,
@@ -3251,12 +4242,29 @@
             "distance": 4
           },
           "artist": "BISAI"
+        },
+        {
+          "id": "OP08-046~ja",
+          "language": "ja",
+          "set": "OP08",
+          "rarity": "R",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP08-046.png",
+          "cardSet": "ブースターパック 二つの伝説【OP-08】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "OP08-047",
       "name": "Jozu",
+      "names": {
+        "en": "Jozu",
+        "ja": "ジョズ"
+      },
       "category": "Character",
       "cost": 6,
       "power": 7000,
@@ -3380,12 +4388,39 @@
               "category": "placement"
             }
           ]
+        },
+        {
+          "id": "OP08-047~ja",
+          "language": "ja",
+          "set": "OP08",
+          "rarity": "R",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP08-047.png",
+          "cardSet": "ブースターパック 二つの伝説【OP-08】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP08-047_p1~ja",
+          "language": "ja",
+          "set": "P",
+          "rarity": "R",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP08-047_p1.png",
+          "cardSet": "プロモーションパックEX Vol.4",
+          "source": "bandai"
         }
       ]
     },
     {
       "number": "OP08-048",
       "name": "Sweetpea",
+      "names": {
+        "en": "Sweetpea",
+        "ja": "スイトピー"
+      },
       "category": "Character",
       "cost": 4,
       "power": 6000,
@@ -3450,12 +4485,29 @@
             }
           ],
           "artist": "HISASHI HUJIWARA"
+        },
+        {
+          "id": "OP08-048~ja",
+          "language": "ja",
+          "set": "OP08",
+          "rarity": "C",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP08-048.png",
+          "cardSet": "ブースターパック 二つの伝説【OP-08】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP08-049",
       "name": "Speed Jil",
+      "names": {
+        "en": "Speed Jil",
+        "ja": "スピード・ジル"
+      },
       "category": "Character",
       "cost": 4,
       "power": 5000,
@@ -3520,12 +4572,29 @@
             }
           ],
           "artist": "Nekobayashi"
+        },
+        {
+          "id": "OP08-049~ja",
+          "language": "ja",
+          "set": "OP08",
+          "rarity": "C",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP08-049.png",
+          "cardSet": "ブースターパック 二つの伝説【OP-08】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP08-050",
       "name": "Namule",
+      "names": {
+        "en": "Namule",
+        "ja": "ナミュール"
+      },
       "category": "Character",
       "cost": 3,
       "power": 2000,
@@ -3591,12 +4660,29 @@
             }
           ],
           "artist": "Yasushi Yamaguchi"
+        },
+        {
+          "id": "OP08-050~ja",
+          "language": "ja",
+          "set": "OP08",
+          "rarity": "C",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP08-050.png",
+          "cardSet": "ブースターパック 二つの伝説【OP-08】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP08-051",
       "name": "Buckin",
+      "names": {
+        "en": "Buckin",
+        "ja": "バッキン"
+      },
       "category": "Character",
       "cost": 1,
       "power": 2000,
@@ -3661,12 +4747,29 @@
             }
           ],
           "artist": "Misa Matoki"
+        },
+        {
+          "id": "OP08-051~ja",
+          "language": "ja",
+          "set": "OP08",
+          "rarity": "C",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP08-051.png",
+          "cardSet": "ブースターパック 二つの伝説【OP-08】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP08-052",
       "name": "Portgas.D.Ace",
+      "names": {
+        "en": "Portgas.D.Ace",
+        "ja": "ポートガス・D・エース"
+      },
       "category": "Character",
       "cost": 5,
       "power": 6000,
@@ -3752,12 +4855,42 @@
             "distance": 1
           },
           "artist": "tatsuya"
+        },
+        {
+          "id": "OP08-052~ja",
+          "language": "ja",
+          "set": "OP08",
+          "rarity": "R",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP08-052.png",
+          "cardSet": "ブースターパック 二つの伝説【OP-08】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP08-052_p1~ja",
+          "language": "ja",
+          "set": "OP08",
+          "rarity": "R",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP08-052_p1.png",
+          "cardSet": "ブースターパック 二つの伝説【OP-08】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "OP08-053",
       "name": "Thank You...for Loving Me!!",
+      "names": {
+        "en": "Thank You...for Loving Me!!",
+        "ja": "愛してくれて………ありがとう!!!"
+      },
       "category": "Event",
       "cost": 1,
       "colors": [
@@ -3788,12 +4921,29 @@
             "match": "image-only-candidate",
             "distance": 3
           }
+        },
+        {
+          "id": "OP08-053~ja",
+          "language": "ja",
+          "set": "OP08",
+          "rarity": "R",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP08-053.png",
+          "cardSet": "ブースターパック 二つの伝説【OP-08】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "OP08-054",
       "name": "You Can't Take Our King This Early in the Game.",
+      "names": {
+        "en": "You Can't Take Our King This Early in the Game.",
+        "ja": "いきなり“キング”は取れねェだろうよい"
+      },
       "category": "Event",
       "cost": 3,
       "colors": [
@@ -3851,12 +5001,29 @@
               "category": "event"
             }
           ]
+        },
+        {
+          "id": "OP08-054~ja",
+          "language": "ja",
+          "set": "OP08",
+          "rarity": "C",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP08-054.png",
+          "cardSet": "ブースターパック 二つの伝説【OP-08】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP08-055",
       "name": "Phoenix Brand",
+      "names": {
+        "en": "Phoenix Brand",
+        "ja": "鳳凰印"
+      },
       "category": "Event",
       "cost": 4,
       "colors": [
@@ -3914,12 +5081,29 @@
               "category": "event"
             }
           ]
+        },
+        {
+          "id": "OP08-055~ja",
+          "language": "ja",
+          "set": "OP08",
+          "rarity": "UC",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP08-055.png",
+          "cardSet": "ブースターパック 二つの伝説【OP-08】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP08-056",
       "name": "Moby Dick",
+      "names": {
+        "en": "Moby Dick",
+        "ja": "モビー・ディック号"
+      },
       "category": "Stage",
       "cost": 2,
       "colors": [
@@ -3977,12 +5161,29 @@
               "category": "event"
             }
           ]
+        },
+        {
+          "id": "OP08-056~ja",
+          "language": "ja",
+          "set": "OP08",
+          "rarity": "C",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP08-056.png",
+          "cardSet": "ブースターパック 二つの伝説【OP-08】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP08-057",
       "name": "King",
+      "names": {
+        "en": "King",
+        "ja": "キング"
+      },
       "category": "Leader",
       "power": 5000,
       "life": 4,
@@ -4066,12 +5267,52 @@
           "treatments": [
             "sp"
           ]
+        },
+        {
+          "id": "OP08-057~ja",
+          "language": "ja",
+          "set": "OP08",
+          "rarity": "L",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP08-057.png",
+          "cardSet": "ブースターパック 二つの伝説【OP-08】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
+        },
+        {
+          "id": "OP08-057_p1~ja",
+          "language": "ja",
+          "set": "OP08",
+          "rarity": "L",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP08-057_p1.png",
+          "cardSet": "ブースターパック 二つの伝説【OP-08】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP08-057_p2~ja",
+          "language": "ja",
+          "set": "EB02",
+          "rarity": "L",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP08-057_p2.png",
+          "cardSet": "エクストラブースター Anime 25th collection【EB-02】",
+          "source": "bandai"
         }
       ]
     },
     {
       "number": "OP08-058",
       "name": "Charlotte Pudding",
+      "names": {
+        "en": "Charlotte Pudding",
+        "ja": "シャーロット・プリン"
+      },
       "category": "Leader",
       "power": 5000,
       "life": 4,
@@ -4158,12 +5399,55 @@
           "treatments": [
             "sp"
           ]
+        },
+        {
+          "id": "OP08-058~ja",
+          "language": "ja",
+          "set": "OP08",
+          "rarity": "L",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP08-058.png",
+          "cardSet": "ブースターパック 二つの伝説【OP-08】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
+        },
+        {
+          "id": "OP08-058_p1~ja",
+          "language": "ja",
+          "set": "OP08",
+          "rarity": "L",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP08-058_p1.png",
+          "cardSet": "ブースターパック 二つの伝説【OP-08】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP08-058_p2~ja",
+          "language": "ja",
+          "set": "EB02",
+          "rarity": "L",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP08-058_p2.png",
+          "cardSet": "エクストラブースター Anime 25th collection【EB-02】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "OP08-059",
       "name": "Alber",
+      "names": {
+        "en": "Alber",
+        "ja": "アルベル"
+      },
       "category": "Character",
       "cost": 4,
       "power": 5000,
@@ -4229,12 +5513,29 @@
             }
           ],
           "artist": "Morechand"
+        },
+        {
+          "id": "OP08-059~ja",
+          "language": "ja",
+          "set": "OP08",
+          "rarity": "UC",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP08-059.png",
+          "cardSet": "ブースターパック 二つの伝説【OP-08】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP08-060",
       "name": "King",
+      "names": {
+        "en": "King",
+        "ja": "キング"
+      },
       "category": "Character",
       "cost": 7,
       "power": 8000,
@@ -4270,12 +5571,29 @@
             "distance": 3
           },
           "artist": "eiji kaneda"
+        },
+        {
+          "id": "OP08-060~ja",
+          "language": "ja",
+          "set": "OP08",
+          "rarity": "R",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP08-060.png",
+          "cardSet": "ブースターパック 二つの伝説【OP-08】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "OP08-061",
       "name": "Charlotte Oven",
+      "names": {
+        "en": "Charlotte Oven",
+        "ja": "シャーロット・オーブン"
+      },
       "category": "Character",
       "cost": 5,
       "power": 6000,
@@ -4340,12 +5658,29 @@
             }
           ],
           "artist": "touge369"
+        },
+        {
+          "id": "OP08-061~ja",
+          "language": "ja",
+          "set": "OP08",
+          "rarity": "UC",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP08-061.png",
+          "cardSet": "ブースターパック 二つの伝説【OP-08】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP08-062",
       "name": "Charlotte Katakuri",
+      "names": {
+        "en": "Charlotte Katakuri",
+        "ja": "シャーロット・カタクリ"
+      },
       "category": "Character",
       "cost": 2,
       "power": 3000,
@@ -4468,12 +5803,42 @@
             }
           ],
           "artist": "BISAI"
+        },
+        {
+          "id": "OP08-062~ja",
+          "language": "ja",
+          "set": "OP08",
+          "rarity": "UC",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP08-062.png",
+          "cardSet": "ブースターパック 二つの伝説【OP-08】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
+        },
+        {
+          "id": "OP08-062_p1~ja",
+          "language": "ja",
+          "set": "P",
+          "rarity": "UC",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP08-062_p1.png",
+          "cardSet": "スタンダードバトルパックVol.11",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP08-063",
       "name": "Charlotte Katakuri",
+      "names": {
+        "en": "Charlotte Katakuri",
+        "ja": "シャーロット・カタクリ"
+      },
       "category": "Character",
       "cost": 6,
       "power": 7000,
@@ -4510,12 +5875,29 @@
             "distance": 7
           },
           "artist": "Koushi Rokushiro"
+        },
+        {
+          "id": "OP08-063~ja",
+          "language": "ja",
+          "set": "OP08",
+          "rarity": "R",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP08-063.png",
+          "cardSet": "ブースターパック 二つの伝説【OP-08】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "OP08-064",
       "name": "Charlotte Cracker",
+      "names": {
+        "en": "Charlotte Cracker",
+        "ja": "シャーロット・クラッカー"
+      },
       "category": "Character",
       "cost": 4,
       "power": 5000,
@@ -4580,12 +5962,29 @@
             }
           ],
           "artist": "BISAI"
+        },
+        {
+          "id": "OP08-064~ja",
+          "language": "ja",
+          "set": "OP08",
+          "rarity": "C",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP08-064.png",
+          "cardSet": "ブースターパック 二つの伝説【OP-08】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP08-065",
       "name": "Charlotte Smoothie",
+      "names": {
+        "en": "Charlotte Smoothie",
+        "ja": "シャーロット・スムージー"
+      },
       "category": "Character",
       "cost": 7,
       "power": 9000,
@@ -4650,12 +6049,29 @@
             }
           ],
           "artist": "Koushi Rokushiro"
+        },
+        {
+          "id": "OP08-065~ja",
+          "language": "ja",
+          "set": "OP08",
+          "rarity": "C",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP08-065.png",
+          "cardSet": "ブースターパック 二つの伝説【OP-08】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP08-066",
       "name": "Charlotte Brulee",
+      "names": {
+        "en": "Charlotte Brulee",
+        "ja": "シャーロット・ブリュレ"
+      },
       "category": "Character",
       "cost": 4,
       "power": 1000,
@@ -4720,12 +6136,29 @@
             }
           ],
           "artist": "Yasushi Yamaguchi"
+        },
+        {
+          "id": "OP08-066~ja",
+          "language": "ja",
+          "set": "OP08",
+          "rarity": "UC",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP08-066.png",
+          "cardSet": "ブースターパック 二つの伝説【OP-08】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP08-067",
       "name": "Charlotte Pudding",
+      "names": {
+        "en": "Charlotte Pudding",
+        "ja": "シャーロット・プリン"
+      },
       "category": "Character",
       "cost": 3,
       "power": 4000,
@@ -4870,12 +6303,68 @@
               "category": "championship"
             }
           ]
+        },
+        {
+          "id": "OP08-067~ja",
+          "language": "ja",
+          "set": "OP08",
+          "rarity": "R",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP08-067.png",
+          "cardSet": "ブースターパック 二つの伝説【OP-08】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP08-067_p1~ja",
+          "language": "ja",
+          "set": "OP08",
+          "rarity": "R",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP08-067_p1.png",
+          "cardSet": "ブースターパック 二つの伝説【OP-08】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP08-067_p2~ja",
+          "language": "ja",
+          "set": "P",
+          "rarity": "R",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP08-067_p2.png",
+          "cardSet": "フラッグシップバトル2025 1月ベスト8記念品",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP08-067_r1~ja",
+          "language": "ja",
+          "set": "PRB02",
+          "rarity": "R",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP08-067_r1.png",
+          "cardSet": "ONE PIECE CARD THE BEST vol.2【PRB-02】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "OP08-068",
       "name": "Charlotte Perospero",
+      "names": {
+        "en": "Charlotte Perospero",
+        "ja": "シャーロット・ペロスペロー"
+      },
       "category": "Character",
       "cost": 3,
       "power": 5000,
@@ -4939,12 +6428,29 @@
             }
           ],
           "artist": "kankurou"
+        },
+        {
+          "id": "OP08-068~ja",
+          "language": "ja",
+          "set": "OP08",
+          "rarity": "C",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP08-068.png",
+          "cardSet": "ブースターパック 二つの伝説【OP-08】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP08-069",
       "name": "Charlotte Linlin",
+      "names": {
+        "en": "Charlotte Linlin",
+        "ja": "シャーロット・リンリン"
+      },
       "category": "Character",
       "cost": 9,
       "power": 9000,
@@ -5047,12 +6553,52 @@
               "category": "retail"
             }
           ]
+        },
+        {
+          "id": "OP08-069~ja",
+          "language": "ja",
+          "set": "OP08",
+          "rarity": "SR",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP08-069.png",
+          "cardSet": "ブースターパック 二つの伝説【OP-08】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP08-069_p1~ja",
+          "language": "ja",
+          "set": "OP08",
+          "rarity": "SR",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP08-069_p1.png",
+          "cardSet": "ブースターパック 二つの伝説【OP-08】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP08-069_p2~ja",
+          "language": "ja",
+          "set": "OTHER",
+          "rarity": "SR",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP08-069_p2.png",
+          "cardSet": "2nd ANNIVERSARY SET",
+          "source": "bandai"
         }
       ]
     },
     {
       "number": "OP08-070",
       "name": "Baron Tamago",
+      "names": {
+        "en": "Baron Tamago",
+        "ja": "タマゴ男爵"
+      },
       "category": "Character",
       "cost": 3,
       "power": 4000,
@@ -5117,12 +6663,29 @@
             }
           ],
           "artist": "HISASHI HUJIWARA"
+        },
+        {
+          "id": "OP08-070~ja",
+          "language": "ja",
+          "set": "OP08",
+          "rarity": "C",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP08-070.png",
+          "cardSet": "ブースターパック 二つの伝説【OP-08】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP08-071",
       "name": "Count Niwatori",
+      "names": {
+        "en": "Count Niwatori",
+        "ja": "ニワトリ伯爵"
+      },
       "category": "Character",
       "cost": 6,
       "power": 7000,
@@ -5187,12 +6750,29 @@
             }
           ],
           "artist": "HISASHI HUJIWARA"
+        },
+        {
+          "id": "OP08-071~ja",
+          "language": "ja",
+          "set": "OP08",
+          "rarity": "C",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP08-071.png",
+          "cardSet": "ブースターパック 二つの伝説【OP-08】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP08-072",
       "name": "Biscuit Warrior",
+      "names": {
+        "en": "Biscuit Warrior",
+        "ja": "ビスケット兵"
+      },
       "category": "Character",
       "cost": 5,
       "power": 5000,
@@ -5257,12 +6837,29 @@
             }
           ],
           "artist": "Yasushi Yamaguchi"
+        },
+        {
+          "id": "OP08-072~ja",
+          "language": "ja",
+          "set": "OP08",
+          "rarity": "C",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP08-072.png",
+          "cardSet": "ブースターパック 二つの伝説【OP-08】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP08-073",
       "name": "Viscount Hiyoko",
+      "names": {
+        "en": "Viscount Hiyoko",
+        "ja": "ヒヨコ子爵"
+      },
       "category": "Character",
       "cost": 5,
       "power": 6000,
@@ -5327,12 +6924,29 @@
             }
           ],
           "artist": "HISASHI HUJIWARA"
+        },
+        {
+          "id": "OP08-073~ja",
+          "language": "ja",
+          "set": "OP08",
+          "rarity": "C",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP08-073.png",
+          "cardSet": "ブースターパック 二つの伝説【OP-08】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP08-074",
       "name": "Black Maria",
+      "names": {
+        "en": "Black Maria",
+        "ja": "ブラックマリア"
+      },
       "category": "Character",
       "cost": 3,
       "power": 2000,
@@ -5478,12 +7092,75 @@
               "category": "retail"
             }
           ]
+        },
+        {
+          "id": "OP08-074~ja",
+          "language": "ja",
+          "set": "OP08",
+          "rarity": "SR",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP08-074.png",
+          "cardSet": "ブースターパック 二つの伝説【OP-08】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP08-074_p1~ja",
+          "language": "ja",
+          "set": "OP08",
+          "rarity": "SR",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP08-074_p1.png",
+          "cardSet": "ブースターパック 二つの伝説【OP-08】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP08-074_p2~ja",
+          "language": "ja",
+          "set": "P",
+          "rarity": "SR",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP08-074_p2.png",
+          "cardSet": "始めようキャンペーン プロモーションパック",
+          "source": "bandai"
+        },
+        {
+          "id": "OP08-074_p3~ja",
+          "language": "ja",
+          "set": "P",
+          "rarity": "SR",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP08-074_p3.png",
+          "cardSet": "始めようキャンペーン プロモーションパック",
+          "source": "bandai"
+        },
+        {
+          "id": "OP08-074_r1~ja",
+          "language": "ja",
+          "set": "PRB02",
+          "rarity": "SR",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP08-074_r1.png",
+          "cardSet": "ONE PIECE CARD THE BEST vol.2【PRB-02】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "OP08-075",
       "name": "Candy Maiden",
+      "names": {
+        "en": "Candy Maiden",
+        "ja": "キャンディメイデン"
+      },
       "category": "Event",
       "cost": 1,
       "colors": [
@@ -5541,12 +7218,29 @@
               "category": "event"
             }
           ]
+        },
+        {
+          "id": "OP08-075~ja",
+          "language": "ja",
+          "set": "OP08",
+          "rarity": "C",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP08-075.png",
+          "cardSet": "ブースターパック 二つの伝説【OP-08】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP08-076",
       "name": "It's to Die For...",
+      "names": {
+        "en": "It's to Die For...",
+        "ja": "しぬほど…おいしい♡"
+      },
       "category": "Event",
       "cost": 3,
       "colors": [
@@ -5659,12 +7353,55 @@
               "category": "event"
             }
           ]
+        },
+        {
+          "id": "OP08-076~ja",
+          "language": "ja",
+          "set": "OP08",
+          "rarity": "UC",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP08-076.png",
+          "cardSet": "ブースターパック 二つの伝説【OP-08】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
+        },
+        {
+          "id": "OP08-076_p1~ja",
+          "language": "ja",
+          "set": "PRB02",
+          "rarity": "UC",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP08-076_p1.png",
+          "cardSet": "ONE PIECE CARD THE BEST vol.2【PRB-02】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP08-076_r1~ja",
+          "language": "ja",
+          "set": "PRB02",
+          "rarity": "UC",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP08-076_r1.png",
+          "cardSet": "ONE PIECE CARD THE BEST vol.2【PRB-02】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP08-077",
       "name": "Conquest of the Sea",
+      "names": {
+        "en": "Conquest of the Sea",
+        "ja": "覇海"
+      },
       "category": "Event",
       "cost": 6,
       "colors": [
@@ -5697,12 +7434,29 @@
             "match": "image-only-candidate",
             "distance": 4
           }
+        },
+        {
+          "id": "OP08-077~ja",
+          "language": "ja",
+          "set": "OP08",
+          "rarity": "R",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP08-077.png",
+          "cardSet": "ブースターパック 二つの伝説【OP-08】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "OP08-078",
       "name": "Ulti",
+      "names": {
+        "en": "Ulti",
+        "ja": "うるティ"
+      },
       "category": "Character",
       "cost": 4,
       "power": 6000,
@@ -5767,12 +7521,29 @@
             }
           ],
           "artist": "Hagane Tsurugi"
+        },
+        {
+          "id": "OP08-078~ja",
+          "language": "ja",
+          "set": "OP08",
+          "rarity": "C",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP08-078.png",
+          "cardSet": "ブースターパック 二つの伝説【OP-08】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP08-079",
       "name": "Kaido",
+      "names": {
+        "en": "Kaido",
+        "ja": "カイドウ"
+      },
       "category": "Character",
       "cost": 9,
       "power": 9000,
@@ -5835,12 +7606,42 @@
             "parallel"
           ],
           "artist": "DAI-XT."
+        },
+        {
+          "id": "OP08-079~ja",
+          "language": "ja",
+          "set": "OP08",
+          "rarity": "SR",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP08-079.png",
+          "cardSet": "ブースターパック 二つの伝説【OP-08】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP08-079_p1~ja",
+          "language": "ja",
+          "set": "OP08",
+          "rarity": "SR",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP08-079_p1.png",
+          "cardSet": "ブースターパック 二つの伝説【OP-08】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "OP08-080",
       "name": "Queen",
+      "names": {
+        "en": "Queen",
+        "ja": "クイーン"
+      },
       "category": "Character",
       "cost": 1,
       "power": 2000,
@@ -5903,12 +7704,42 @@
             "parallel"
           ],
           "artist": "Hokuyuu"
+        },
+        {
+          "id": "OP08-080~ja",
+          "language": "ja",
+          "set": "OP08",
+          "rarity": "R",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP08-080.png",
+          "cardSet": "ブースターパック 二つの伝説【OP-08】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP08-080_p1~ja",
+          "language": "ja",
+          "set": "OP08",
+          "rarity": "R",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP08-080_p1.png",
+          "cardSet": "ブースターパック 二つの伝説【OP-08】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "OP08-081",
       "name": "Guernica",
+      "names": {
+        "en": "Guernica",
+        "ja": "ゲルニカ"
+      },
       "category": "Character",
       "cost": 1,
       "power": 2000,
@@ -5973,12 +7804,29 @@
             }
           ],
           "artist": "Hayaken-sarena"
+        },
+        {
+          "id": "OP08-081~ja",
+          "language": "ja",
+          "set": "OP08",
+          "rarity": "C",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP08-081.png",
+          "cardSet": "ブースターパック 二つの伝説【OP-08】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP08-082",
       "name": "Sasaki",
+      "names": {
+        "en": "Sasaki",
+        "ja": "ササキ"
+      },
       "category": "Character",
       "cost": 1,
       "power": 1000,
@@ -6015,12 +7863,29 @@
             "distance": 1
           },
           "artist": "Hokuyuu"
+        },
+        {
+          "id": "OP08-082~ja",
+          "language": "ja",
+          "set": "OP08",
+          "rarity": "R",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP08-082.png",
+          "cardSet": "ブースターパック 二つの伝説【OP-08】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "OP08-083",
       "name": "Sheepshead",
+      "names": {
+        "en": "Sheepshead",
+        "ja": "シープスヘッド"
+      },
       "category": "Character",
       "cost": 2,
       "power": 3000,
@@ -6086,12 +7951,29 @@
             }
           ],
           "artist": "Morechand"
+        },
+        {
+          "id": "OP08-083~ja",
+          "language": "ja",
+          "set": "OP08",
+          "rarity": "UC",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP08-083.png",
+          "cardSet": "ブースターパック 二つの伝説【OP-08】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP08-084",
       "name": "Jack",
+      "names": {
+        "en": "Jack",
+        "ja": "ジャック"
+      },
       "category": "Character",
       "cost": 7,
       "power": 8000,
@@ -6179,12 +8061,52 @@
             }
           ],
           "artist": "tatsuya"
+        },
+        {
+          "id": "OP08-084~ja",
+          "language": "ja",
+          "set": "OP08",
+          "rarity": "SR",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP08-084.png",
+          "cardSet": "ブースターパック 二つの伝説【OP-08】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP08-084_p1~ja",
+          "language": "ja",
+          "set": "OP08",
+          "rarity": "SR",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP08-084_p1.png",
+          "cardSet": "ブースターパック 二つの伝説【OP-08】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP08-084_p2~ja",
+          "language": "ja",
+          "set": "P",
+          "rarity": "SR",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP08-084_p2.png",
+          "cardSet": "フラッグシップバトル2024 10月ベスト8記念品",
+          "source": "bandai"
         }
       ]
     },
     {
       "number": "OP08-085",
       "name": "Jinbe",
+      "names": {
+        "en": "Jinbe",
+        "ja": "ジンベエ"
+      },
       "category": "Character",
       "cost": 5,
       "power": 6000,
@@ -6249,12 +8171,29 @@
             }
           ],
           "artist": "Ryo Nakama"
+        },
+        {
+          "id": "OP08-085~ja",
+          "language": "ja",
+          "set": "OP08",
+          "rarity": "UC",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP08-085.png",
+          "cardSet": "ブースターパック 二つの伝説【OP-08】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP08-086",
       "name": "Ginrummy",
+      "names": {
+        "en": "Ginrummy",
+        "ja": "ジンラミー"
+      },
       "category": "Character",
       "cost": 2,
       "power": 3000,
@@ -6320,12 +8259,29 @@
             }
           ],
           "artist": "eiji kaneda"
+        },
+        {
+          "id": "OP08-086~ja",
+          "language": "ja",
+          "set": "OP08",
+          "rarity": "C",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP08-086.png",
+          "cardSet": "ブースターパック 二つの伝説【OP-08】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP08-087",
       "name": "Scratchmen Apoo",
+      "names": {
+        "en": "Scratchmen Apoo",
+        "ja": "スクラッチメン・アプー"
+      },
       "category": "Character",
       "cost": 4,
       "power": 5000,
@@ -6447,12 +8403,55 @@
             }
           ],
           "artist": "kankurou"
+        },
+        {
+          "id": "OP08-087~ja",
+          "language": "ja",
+          "set": "OP08",
+          "rarity": "UC",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP08-087.png",
+          "cardSet": "ブースターパック 二つの伝説【OP-08】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
+        },
+        {
+          "id": "OP08-087_p1~ja",
+          "language": "ja",
+          "set": "PRB02",
+          "rarity": "UC",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP08-087_p1.png",
+          "cardSet": "ONE PIECE CARD THE BEST vol.2【PRB-02】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP08-087_r1~ja",
+          "language": "ja",
+          "set": "PRB02",
+          "rarity": "UC",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP08-087_r1.png",
+          "cardSet": "ONE PIECE CARD THE BEST vol.2【PRB-02】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP08-088",
       "name": "Duval",
+      "names": {
+        "en": "Duval",
+        "ja": "デュバル"
+      },
       "category": "Character",
       "cost": 1,
       "power": 2000,
@@ -6517,12 +8516,29 @@
             }
           ],
           "artist": "Koushi Rokushiro"
+        },
+        {
+          "id": "OP08-088~ja",
+          "language": "ja",
+          "set": "OP08",
+          "rarity": "UC",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP08-088.png",
+          "cardSet": "ブースターパック 二つの伝説【OP-08】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP08-089",
       "name": "Basil Hawkins",
+      "names": {
+        "en": "Basil Hawkins",
+        "ja": "バジル・ホーキンス"
+      },
       "category": "Character",
       "cost": 7,
       "power": 9000,
@@ -6588,12 +8604,29 @@
             }
           ],
           "artist": "Yamada Rokkaku."
+        },
+        {
+          "id": "OP08-089~ja",
+          "language": "ja",
+          "set": "OP08",
+          "rarity": "C",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP08-089.png",
+          "cardSet": "ブースターパック 二つの伝説【OP-08】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP08-090",
       "name": "Hamlet",
+      "names": {
+        "en": "Hamlet",
+        "ja": "ハムレット"
+      },
       "category": "Character",
       "cost": 3,
       "power": 4000,
@@ -6659,12 +8692,29 @@
             }
           ],
           "artist": "HISASHI HUJIWARA"
+        },
+        {
+          "id": "OP08-090~ja",
+          "language": "ja",
+          "set": "OP08",
+          "rarity": "C",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP08-090.png",
+          "cardSet": "ブースターパック 二つの伝説【OP-08】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP08-091",
       "name": "Who's.Who",
+      "names": {
+        "en": "Who's.Who",
+        "ja": "フーズ・フー"
+      },
       "category": "Character",
       "cost": 5,
       "power": 5000,
@@ -6702,12 +8752,29 @@
             "distance": 1
           },
           "artist": "Morechand"
+        },
+        {
+          "id": "OP08-091~ja",
+          "language": "ja",
+          "set": "OP08",
+          "rarity": "R",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP08-091.png",
+          "cardSet": "ブースターパック 二つの伝説【OP-08】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "OP08-092",
       "name": "Page One",
+      "names": {
+        "en": "Page One",
+        "ja": "ページワン"
+      },
       "category": "Character",
       "cost": 5,
       "power": 5000,
@@ -6744,12 +8811,29 @@
             "distance": 4
           },
           "artist": "Yamada Rokkaku."
+        },
+        {
+          "id": "OP08-092~ja",
+          "language": "ja",
+          "set": "OP08",
+          "rarity": "R",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP08-092.png",
+          "cardSet": "ブースターパック 二つの伝説【OP-08】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "OP08-093",
       "name": "X.Drake",
+      "names": {
+        "en": "X.Drake",
+        "ja": "X・ドレーク"
+      },
       "category": "Character",
       "cost": 4,
       "power": 6000,
@@ -6815,12 +8899,29 @@
             }
           ],
           "artist": "Yamada Rokkaku."
+        },
+        {
+          "id": "OP08-093~ja",
+          "language": "ja",
+          "set": "OP08",
+          "rarity": "C",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP08-093.png",
+          "cardSet": "ブースターパック 二つの伝説【OP-08】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP08-094",
       "name": "Imperial Flame",
+      "names": {
+        "en": "Imperial Flame",
+        "ja": "炎皇"
+      },
       "category": "Event",
       "cost": 2,
       "colors": [
@@ -6851,12 +8952,29 @@
             "match": "image-only-candidate",
             "distance": 2
           }
+        },
+        {
+          "id": "OP08-094~ja",
+          "language": "ja",
+          "set": "OP08",
+          "rarity": "R",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP08-094.png",
+          "cardSet": "ブースターパック 二つの伝説【OP-08】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "OP08-095",
       "name": "Iron Body Fang Flash",
+      "names": {
+        "en": "Iron Body Fang Flash",
+        "ja": "鉄塊 牙閃"
+      },
       "category": "Event",
       "cost": 2,
       "colors": [
@@ -6915,12 +9033,29 @@
               "category": "event"
             }
           ]
+        },
+        {
+          "id": "OP08-095~ja",
+          "language": "ja",
+          "set": "OP08",
+          "rarity": "UC",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP08-095.png",
+          "cardSet": "ブースターパック 二つの伝説【OP-08】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP08-096",
       "name": "People's Dreams Don't Ever End!!",
+      "names": {
+        "en": "People's Dreams Don't Ever End!!",
+        "ja": "人の夢は!!!終わらねェ!!!!"
+      },
       "category": "Event",
       "cost": 1,
       "colors": [
@@ -6978,12 +9113,29 @@
               "category": "event"
             }
           ]
+        },
+        {
+          "id": "OP08-096~ja",
+          "language": "ja",
+          "set": "OP08",
+          "rarity": "C",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP08-096.png",
+          "cardSet": "ブースターパック 二つの伝説【OP-08】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP08-097",
       "name": "Heliceratops",
+      "names": {
+        "en": "Heliceratops",
+        "ja": "ヘリケラトプス"
+      },
       "category": "Event",
       "cost": 3,
       "colors": [
@@ -7041,12 +9193,29 @@
               "category": "event"
             }
           ]
+        },
+        {
+          "id": "OP08-097~ja",
+          "language": "ja",
+          "set": "OP08",
+          "rarity": "C",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP08-097.png",
+          "cardSet": "ブースターパック 二つの伝説【OP-08】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP08-098",
       "name": "Kalgara",
+      "names": {
+        "en": "Kalgara",
+        "ja": "カルガラ"
+      },
       "category": "Leader",
       "power": 5000,
       "life": 5,
@@ -7134,12 +9303,55 @@
           "treatments": [
             "sp"
           ]
+        },
+        {
+          "id": "OP08-098~ja",
+          "language": "ja",
+          "set": "OP08",
+          "rarity": "L",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP08-098.png",
+          "cardSet": "ブースターパック 二つの伝説【OP-08】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
+        },
+        {
+          "id": "OP08-098_p1~ja",
+          "language": "ja",
+          "set": "OP08",
+          "rarity": "L",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP08-098_p1.png",
+          "cardSet": "ブースターパック 二つの伝説【OP-08】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP08-098_p2~ja",
+          "language": "ja",
+          "set": "EB02",
+          "rarity": "L",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP08-098_p2.png",
+          "cardSet": "エクストラブースター Anime 25th collection【EB-02】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "OP08-099",
       "name": "Kalgara",
+      "names": {
+        "en": "Kalgara",
+        "ja": "カルガラ"
+      },
       "category": "Character",
       "cost": 6,
       "power": 8000,
@@ -7291,12 +9503,68 @@
             }
           ],
           "artist": "Tanaka Kenichi"
+        },
+        {
+          "id": "OP08-099~ja",
+          "language": "ja",
+          "set": "OP08",
+          "rarity": "C",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP08-099.png",
+          "cardSet": "ブースターパック 二つの伝説【OP-08】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
+        },
+        {
+          "id": "OP08-099_p1~ja",
+          "language": "ja",
+          "set": "PRB02",
+          "rarity": "C",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP08-099_p1.png",
+          "cardSet": "ONE PIECE CARD THE BEST vol.2【PRB-02】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP08-099_p2~ja",
+          "language": "ja",
+          "set": "OTHER",
+          "rarity": "C",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP08-099_p2.png",
+          "cardSet": "プレミアムカードコレクション - ベストセレクション vol.4 -",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP08-099_r1~ja",
+          "language": "ja",
+          "set": "PRB02",
+          "rarity": "C",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP08-099_r1.png",
+          "cardSet": "ONE PIECE CARD THE BEST vol.2【PRB-02】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP08-100",
       "name": "South Bird",
+      "names": {
+        "en": "South Bird",
+        "ja": "サウスバード"
+      },
       "category": "Character",
       "cost": 1,
       "power": 2000,
@@ -7363,12 +9631,29 @@
             }
           ],
           "artist": "Yoichi Amano"
+        },
+        {
+          "id": "OP08-100~ja",
+          "language": "ja",
+          "set": "OP08",
+          "rarity": "UC",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP08-100.png",
+          "cardSet": "ブースターパック 二つの伝説【OP-08】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP08-101",
       "name": "Charlotte Angel",
+      "names": {
+        "en": "Charlotte Angel",
+        "ja": "シャーロット・エンゼル"
+      },
       "category": "Character",
       "cost": 2,
       "power": 3000,
@@ -7433,12 +9718,29 @@
             }
           ],
           "artist": "phima"
+        },
+        {
+          "id": "OP08-101~ja",
+          "language": "ja",
+          "set": "OP08",
+          "rarity": "C",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP08-101.png",
+          "cardSet": "ブースターパック 二つの伝説【OP-08】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP08-102",
       "name": "Charlotte Opera",
+      "names": {
+        "en": "Charlotte Opera",
+        "ja": "シャーロット・オペラ"
+      },
       "category": "Character",
       "cost": 6,
       "power": 6000,
@@ -7503,12 +9805,29 @@
             }
           ],
           "artist": "Mitsuaki Matsumoto"
+        },
+        {
+          "id": "OP08-102~ja",
+          "language": "ja",
+          "set": "OP08",
+          "rarity": "UC",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP08-102.png",
+          "cardSet": "ブースターパック 二つの伝説【OP-08】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP08-103",
       "name": "Charlotte Custard",
+      "names": {
+        "en": "Charlotte Custard",
+        "ja": "シャーロット・カスタード"
+      },
       "category": "Character",
       "cost": 2,
       "power": 3000,
@@ -7573,12 +9892,29 @@
             }
           ],
           "artist": "otton"
+        },
+        {
+          "id": "OP08-103~ja",
+          "language": "ja",
+          "set": "OP08",
+          "rarity": "UC",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP08-103.png",
+          "cardSet": "ブースターパック 二つの伝説【OP-08】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP08-104",
       "name": "Charlotte Poire",
+      "names": {
+        "en": "Charlotte Poire",
+        "ja": "シャーロット・ポワール"
+      },
       "category": "Character",
       "cost": 1,
       "power": 2000,
@@ -7643,12 +9979,29 @@
             }
           ],
           "artist": "Bashikou"
+        },
+        {
+          "id": "OP08-104~ja",
+          "language": "ja",
+          "set": "OP08",
+          "rarity": "C",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP08-104.png",
+          "cardSet": "ブースターパック 二つの伝説【OP-08】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP08-105",
       "name": "Jewelry Bonney",
+      "names": {
+        "en": "Jewelry Bonney",
+        "ja": "ジュエリー・ボニー"
+      },
       "category": "Character",
       "cost": 3,
       "power": 4000,
@@ -7738,12 +10091,62 @@
               "category": "retail"
             }
           ]
+        },
+        {
+          "id": "OP08-105~ja",
+          "language": "ja",
+          "set": "OP08",
+          "rarity": "SR",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP08-105.png",
+          "cardSet": "ブースターパック 二つの伝説【OP-08】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP08-105_p1~ja",
+          "language": "ja",
+          "set": "OP08",
+          "rarity": "SR",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP08-105_p1.png",
+          "cardSet": "ブースターパック 二つの伝説【OP-08】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP08-105_p2~ja",
+          "language": "ja",
+          "set": "OTHER",
+          "rarity": "SR",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP08-105_p2.png",
+          "cardSet": "プレミアムブースター ONE PIECE CARD THE BEST ストレージボックスセット",
+          "source": "bandai"
+        },
+        {
+          "id": "OP08-105_p3~ja",
+          "language": "ja",
+          "set": "OTHER",
+          "rarity": "SR",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP08-105_p3.png",
+          "cardSet": "プレミアムブースター ONE PIECE CARD THE BEST ストレージボックスセット",
+          "source": "bandai"
         }
       ]
     },
     {
       "number": "OP08-106",
       "name": "Nami",
+      "names": {
+        "en": "Nami",
+        "ja": "ナミ"
+      },
       "category": "Character",
       "cost": 5,
       "power": 5000,
@@ -7863,12 +10266,72 @@
               "category": "event"
             }
           ]
+        },
+        {
+          "id": "OP08-106~ja",
+          "language": "ja",
+          "set": "OP08",
+          "rarity": "SR",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP08-106.png",
+          "cardSet": "ブースターパック 二つの伝説【OP-08】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP08-106_p1~ja",
+          "language": "ja",
+          "set": "OP08",
+          "rarity": "SR",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP08-106_p1.png",
+          "cardSet": "ブースターパック 二つの伝説【OP-08】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP08-106_p3~ja",
+          "language": "ja",
+          "set": "P",
+          "rarity": "SR",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP08-106_p3.png",
+          "cardSet": "シリアルナンバー入りナミ ゲットキャンペーン",
+          "source": "bandai"
+        },
+        {
+          "id": "OP08-106_p4~ja",
+          "language": "ja",
+          "set": "OP09",
+          "rarity": "SP CARD",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP08-106_p4.png",
+          "cardSet": "ブースターパック 新たなる皇帝【OP-09】",
+          "source": "bandai"
+        },
+        {
+          "id": "OP08-106_p5~ja",
+          "language": "ja",
+          "set": "P",
+          "rarity": "SR",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP08-106_p5.png",
+          "cardSet": "プロモーションパックEX Vol.3",
+          "source": "bandai"
         }
       ]
     },
     {
       "number": "OP08-107",
       "name": "Nitro",
+      "names": {
+        "en": "Nitro",
+        "ja": "ニトロ"
+      },
       "category": "Character",
       "cost": 1,
       "power": 2000,
@@ -7934,12 +10397,29 @@
             }
           ],
           "artist": "Aidle Co. Ltd."
+        },
+        {
+          "id": "OP08-107~ja",
+          "language": "ja",
+          "set": "OP08",
+          "rarity": "C",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP08-107.png",
+          "cardSet": "ブースターパック 二つの伝説【OP-08】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP08-108",
       "name": "Mont Blanc Cricket",
+      "names": {
+        "en": "Mont Blanc Cricket",
+        "ja": "モンブラン・クリケット"
+      },
       "category": "Character",
       "cost": 4,
       "power": 6000,
@@ -8005,12 +10485,29 @@
             }
           ],
           "artist": "Anderson"
+        },
+        {
+          "id": "OP08-108~ja",
+          "language": "ja",
+          "set": "OP08",
+          "rarity": "C",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP08-108.png",
+          "cardSet": "ブースターパック 二つの伝説【OP-08】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP08-109",
       "name": "Mont Blanc Noland",
+      "names": {
+        "en": "Mont Blanc Noland",
+        "ja": "モンブラン・ノーランド"
+      },
       "category": "Character",
       "cost": 5,
       "power": 6000,
@@ -8048,12 +10545,29 @@
             "distance": 4
           },
           "artist": "Moopic"
+        },
+        {
+          "id": "OP08-109~ja",
+          "language": "ja",
+          "set": "OP08",
+          "rarity": "R",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP08-109.png",
+          "cardSet": "ブースターパック 二つの伝説【OP-08】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "OP08-110",
       "name": "Wyper",
+      "names": {
+        "en": "Wyper",
+        "ja": "ワイパー"
+      },
       "category": "Character",
       "cost": 4,
       "power": 5000,
@@ -8208,12 +10722,55 @@
             }
           ],
           "artist": "ASAKI KURODA"
+        },
+        {
+          "id": "OP08-110~ja",
+          "language": "ja",
+          "set": "OP08",
+          "rarity": "R",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP08-110.png",
+          "cardSet": "ブースターパック 二つの伝説【OP-08】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP08-110_p1~ja",
+          "language": "ja",
+          "set": "OP08",
+          "rarity": "R",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP08-110_p1.png",
+          "cardSet": "ブースターパック 二つの伝説【OP-08】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP08-110_p2~ja",
+          "language": "ja",
+          "set": "P",
+          "rarity": "R",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP08-110_p2.png",
+          "cardSet": "スタンダードバトルパックVol.10",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP08-111",
       "name": "S-Shark",
+      "names": {
+        "en": "S-Shark",
+        "ja": "S-シャーク"
+      },
       "category": "Character",
       "cost": 4,
       "power": 5000,
@@ -8279,12 +10836,29 @@
             }
           ],
           "artist": "Suzume Muraichi"
+        },
+        {
+          "id": "OP08-111~ja",
+          "language": "ja",
+          "set": "OP08",
+          "rarity": "UC",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP08-111.png",
+          "cardSet": "ブースターパック 二つの伝説【OP-08】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP08-112",
       "name": "S-Snake",
+      "names": {
+        "en": "S-Snake",
+        "ja": "S-スネーク"
+      },
       "category": "Character",
       "cost": 5,
       "power": 6000,
@@ -8348,12 +10922,42 @@
             "parallel"
           ],
           "artist": "nuisuke"
+        },
+        {
+          "id": "OP08-112~ja",
+          "language": "ja",
+          "set": "OP08",
+          "rarity": "SR",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP08-112.png",
+          "cardSet": "ブースターパック 二つの伝説【OP-08】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP08-112_p1~ja",
+          "language": "ja",
+          "set": "OP08",
+          "rarity": "SR",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP08-112_p1.png",
+          "cardSet": "ブースターパック 二つの伝説【OP-08】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "OP08-113",
       "name": "S-Bear",
+      "names": {
+        "en": "S-Bear",
+        "ja": "S-ベア"
+      },
       "category": "Character",
       "cost": 3,
       "power": 4000,
@@ -8419,12 +11023,29 @@
             }
           ],
           "artist": "Tanaka Kenichi"
+        },
+        {
+          "id": "OP08-113~ja",
+          "language": "ja",
+          "set": "OP08",
+          "rarity": "C",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP08-113.png",
+          "cardSet": "ブースターパック 二つの伝説【OP-08】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP08-114",
       "name": "S-Hawk",
+      "names": {
+        "en": "S-Hawk",
+        "ja": "S-ホーク"
+      },
       "category": "Character",
       "cost": 4,
       "power": 5000,
@@ -8462,12 +11083,29 @@
             "distance": 4
           },
           "artist": "Moopic"
+        },
+        {
+          "id": "OP08-114~ja",
+          "language": "ja",
+          "set": "OP08",
+          "rarity": "R",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP08-114.png",
+          "cardSet": "ブースターパック 二つの伝説【OP-08】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "OP08-115",
       "name": "The Earth Will Not Lose!",
+      "names": {
+        "en": "The Earth Will Not Lose!",
+        "ja": "大地は敗けない!!!"
+      },
       "category": "Event",
       "cost": 1,
       "colors": [
@@ -8499,12 +11137,29 @@
             "match": "image-only-candidate",
             "distance": 2
           }
+        },
+        {
+          "id": "OP08-115~ja",
+          "language": "ja",
+          "set": "OP08",
+          "rarity": "R",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP08-115.png",
+          "cardSet": "ブースターパック 二つの伝説【OP-08】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "OP08-116",
       "name": "Burn Bazooka",
+      "names": {
+        "en": "Burn Bazooka",
+        "ja": "燃焼砲"
+      },
       "category": "Event",
       "cost": 2,
       "colors": [
@@ -8563,12 +11218,29 @@
               "category": "event"
             }
           ]
+        },
+        {
+          "id": "OP08-116~ja",
+          "language": "ja",
+          "set": "OP08",
+          "rarity": "C",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP08-116.png",
+          "cardSet": "ブースターパック 二つの伝説【OP-08】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP08-117",
       "name": "Burn Blade",
+      "names": {
+        "en": "Burn Blade",
+        "ja": "燃焼剣"
+      },
       "category": "Event",
       "cost": 5,
       "colors": [
@@ -8627,12 +11299,29 @@
               "category": "event"
             }
           ]
+        },
+        {
+          "id": "OP08-117~ja",
+          "language": "ja",
+          "set": "OP08",
+          "rarity": "UC",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP08-117.png",
+          "cardSet": "ブースターパック 二つの伝説【OP-08】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP08-118",
       "name": "Silvers Rayleigh",
+      "names": {
+        "en": "Silvers Rayleigh",
+        "ja": "シルバーズ･レイリー"
+      },
       "category": "Character",
       "cost": 8,
       "power": 8000,
@@ -8746,12 +11435,68 @@
           ],
           "artOf": "OP08-118",
           "artist": "AKIRA EGAWA"
+        },
+        {
+          "id": "OP08-118~ja",
+          "language": "ja",
+          "set": "OP08",
+          "rarity": "SEC",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP08-118.png",
+          "cardSet": "ブースターパック 二つの伝説【OP-08】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP08-118_p1~ja",
+          "language": "ja",
+          "set": "OP08",
+          "rarity": "SEC",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP08-118_p1.png",
+          "cardSet": "ブースターパック 二つの伝説【OP-08】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP08-118_p2~ja",
+          "language": "ja",
+          "set": "OP08",
+          "rarity": "SEC",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP08-118_p2.png",
+          "cardSet": "ブースターパック 二つの伝説【OP-08】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP08-118_r1~ja",
+          "language": "ja",
+          "set": "PRB02",
+          "rarity": "SEC",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP08-118_r1.png",
+          "cardSet": "ONE PIECE CARD THE BEST vol.2【PRB-02】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "OP08-119",
       "name": "Kaido & Linlin",
+      "names": {
+        "en": "Kaido & Linlin",
+        "ja": "カイドウ＆リンリン"
+      },
       "category": "Character",
       "cost": 10,
       "power": 12000,
@@ -8814,6 +11559,32 @@
           },
           "treatments": [
             "parallel"
+          ]
+        },
+        {
+          "id": "OP08-119~ja",
+          "language": "ja",
+          "set": "OP08",
+          "rarity": "SEC",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP08-119.png",
+          "cardSet": "ブースターパック 二つの伝説【OP-08】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP08-119_p1~ja",
+          "language": "ja",
+          "set": "OP08",
+          "rarity": "SEC",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP08-119_p1.png",
+          "cardSet": "ブースターパック 二つの伝説【OP-08】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
           ]
         }
       ]

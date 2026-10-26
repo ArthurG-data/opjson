@@ -3,6 +3,10 @@
     {
       "number": "ST26-001",
       "name": "Soba Mask",
+      "names": {
+        "en": "Soba Mask",
+        "ja": "おそばマスク"
+      },
       "category": "Character",
       "cost": 7,
       "power": 9000,
@@ -38,12 +42,29 @@
             "distance": 2
           },
           "artist": "touge369"
+        },
+        {
+          "id": "ST26-001~ja",
+          "language": "ja",
+          "set": "ST26",
+          "rarity": "C",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/ST26-001.png",
+          "cardSet": "スタートデッキ 紫黒 モンキー・D・ルフィ【ST-26】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "ST26-002",
       "name": "Tony Tony.Chopper",
+      "names": {
+        "en": "Tony Tony.Chopper",
+        "ja": "トニートニー・チョッパー"
+      },
       "category": "Character",
       "cost": 3,
       "power": 4000,
@@ -81,12 +102,29 @@
             "distance": 0
           },
           "artist": "kito"
+        },
+        {
+          "id": "ST26-002~ja",
+          "language": "ja",
+          "set": "ST26",
+          "rarity": "C",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/ST26-002.png",
+          "cardSet": "スタートデッキ 紫黒 モンキー・D・ルフィ【ST-26】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "ST26-003",
       "name": "Nico Robin",
+      "names": {
+        "en": "Nico Robin",
+        "ja": "ニコ・ロビン"
+      },
       "category": "Character",
       "cost": 3,
       "power": 4000,
@@ -123,12 +161,29 @@
             "distance": 2
           },
           "artist": "Nijihayashi"
+        },
+        {
+          "id": "ST26-003~ja",
+          "language": "ja",
+          "set": "ST26",
+          "rarity": "SR",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/ST26-003.png",
+          "cardSet": "スタートデッキ 紫黒 モンキー・D・ルフィ【ST-26】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "ST26-004",
       "name": "General Franky",
+      "names": {
+        "en": "General Franky",
+        "ja": "フランキー将軍"
+      },
       "category": "Character",
       "cost": 8,
       "power": 10000,
@@ -164,12 +219,29 @@
             "distance": 10
           },
           "artist": "shosuke"
+        },
+        {
+          "id": "ST26-004~ja",
+          "language": "ja",
+          "set": "ST26",
+          "rarity": "C",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/ST26-004.png",
+          "cardSet": "スタートデッキ 紫黒 モンキー・D・ルフィ【ST-26】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "ST26-005",
       "name": "Monkey.D.Luffy",
+      "names": {
+        "en": "Monkey.D.Luffy",
+        "ja": "モンキー・Ｄ・ルフィ"
+      },
       "category": "Character",
       "cost": 6,
       "power": 7000,
@@ -231,6 +303,32 @@
             "sp"
           ],
           "artist": "Bashikou"
+        },
+        {
+          "id": "ST26-005~ja",
+          "language": "ja",
+          "set": "ST26",
+          "rarity": "SR",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/ST26-005.png",
+          "cardSet": "スタートデッキ 紫黒 モンキー・D・ルフィ【ST-26】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "ST26-005_p1~ja",
+          "language": "ja",
+          "set": "OP15",
+          "rarity": "SP CARD",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/ST26-005_p1.png",
+          "cardSet": "ブースターパック 神の島の冒険【OP-15】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     }

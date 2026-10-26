@@ -3,6 +3,10 @@
     {
       "number": "ST01-001",
       "name": "Monkey.D.Luffy",
+      "names": {
+        "en": "Monkey.D.Luffy",
+        "ja": "モンキー・D・ルフィ"
+      },
       "category": "Leader",
       "power": 5000,
       "life": 5,
@@ -106,12 +110,59 @@
             "foil",
             "nonfoil"
           ]
+        },
+        {
+          "id": "ST01-001~ja",
+          "language": "ja",
+          "set": "ST01",
+          "rarity": "L",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/ST01-001.png",
+          "cardSet": "麦わらの一味【ST-01】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "ST01-001_p1~ja",
+          "language": "ja",
+          "set": "FAMILY",
+          "rarity": "L",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/ST01-001_p1.png",
+          "cardSet": "ファミリーデッキセット",
+          "source": "bandai"
+        },
+        {
+          "id": "ST01-001_p3~ja",
+          "language": "ja",
+          "set": "P",
+          "rarity": "L",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/ST01-001_p3.png",
+          "cardSet": "フラッグシップバトル2022 優勝記念品",
+          "source": "bandai"
+        },
+        {
+          "id": "ST01-001_p4~ja",
+          "language": "ja",
+          "set": "OTHER",
+          "rarity": "L",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/ST01-001_p4.png",
+          "cardSet": "週刊少年ジャンプ応募者全員サービス",
+          "source": "bandai"
         }
       ]
     },
     {
       "number": "ST01-002",
       "name": "Usopp",
+      "names": {
+        "en": "Usopp",
+        "ja": "ウソップ"
+      },
       "category": "Character",
       "cost": 2,
       "power": 2000,
@@ -231,12 +282,72 @@
               "category": "event"
             }
           ]
+        },
+        {
+          "id": "ST01-002~ja",
+          "language": "ja",
+          "set": "ST01",
+          "rarity": "C",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/ST01-002.png",
+          "cardSet": "麦わらの一味【ST-01】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
+        },
+        {
+          "id": "ST01-002_p1~ja",
+          "language": "ja",
+          "set": "OTHER",
+          "rarity": "C",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/ST01-002_p1.png",
+          "cardSet": "プレミアムカードコレクション 25周年エディション",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "ST01-002_p2~ja",
+          "language": "ja",
+          "set": "P",
+          "rarity": "C",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/ST01-002_p2.png",
+          "cardSet": "『ONE PIECE FILM RED』入場者プレゼント フィナーレセット",
+          "source": "bandai"
+        },
+        {
+          "id": "ST01-002_p4~ja",
+          "language": "ja",
+          "set": "OTHER",
+          "rarity": "C",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/ST01-002_p4.png",
+          "cardSet": "プレミアムカードコレクション ‐ONE PIECE FILM RED ‐",
+          "source": "bandai"
+        },
+        {
+          "id": "ST01-002_r1~ja",
+          "language": "ja",
+          "set": "FAMILY",
+          "rarity": "C",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/ST01-002_r1.png",
+          "cardSet": "ファミリーデッキセット",
+          "source": "bandai"
         }
       ]
     },
     {
       "number": "ST01-003",
       "name": "Karoo",
+      "names": {
+        "en": "Karoo",
+        "ja": "カルー"
+      },
       "category": "Character",
       "cost": 1,
       "power": 3000,
@@ -300,12 +411,39 @@
               "category": "event"
             }
           ]
+        },
+        {
+          "id": "ST01-003~ja",
+          "language": "ja",
+          "set": "ST01",
+          "rarity": "C",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/ST01-003.png",
+          "cardSet": "麦わらの一味【ST-01】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
+        },
+        {
+          "id": "ST01-003_r1~ja",
+          "language": "ja",
+          "set": "FAMILY",
+          "rarity": "C",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/ST01-003_r1.png",
+          "cardSet": "ファミリーデッキセット",
+          "source": "bandai"
         }
       ]
     },
     {
       "number": "ST01-004",
       "name": "Sanji",
+      "names": {
+        "en": "Sanji",
+        "ja": "サンジ"
+      },
       "category": "Character",
       "cost": 2,
       "power": 4000,
@@ -576,12 +714,72 @@
               "category": "placement"
             }
           ]
+        },
+        {
+          "id": "ST01-004~ja",
+          "language": "ja",
+          "set": "ST01",
+          "rarity": "C",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/ST01-004.png",
+          "cardSet": "麦わらの一味【ST-01】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
+        },
+        {
+          "id": "ST01-004_p1~ja",
+          "language": "ja",
+          "set": "P",
+          "rarity": "C",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/ST01-004_p1.png",
+          "cardSet": "『ONE PIECE FILM RED』入場者プレゼント フィナーレセット",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "ST01-004_p2~ja",
+          "language": "ja",
+          "set": "P",
+          "rarity": "C",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/ST01-004_p2.png",
+          "cardSet": "ONE PIECEカードゲーム プロモーションパックVol.3",
+          "source": "bandai"
+        },
+        {
+          "id": "ST01-004_p4~ja",
+          "language": "ja",
+          "set": "OTHER",
+          "rarity": "C",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/ST01-004_p4.png",
+          "cardSet": "プレミアムカードコレクション ‐ONE PIECE FILM RED ‐",
+          "source": "bandai"
+        },
+        {
+          "id": "ST01-004_r1~ja",
+          "language": "ja",
+          "set": "FAMILY",
+          "rarity": "C",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/ST01-004_r1.png",
+          "cardSet": "ファミリーデッキセット",
+          "source": "bandai"
         }
       ]
     },
     {
       "number": "ST01-005",
       "name": "Jinbe",
+      "names": {
+        "en": "Jinbe",
+        "ja": "ジンベエ"
+      },
       "category": "Character",
       "cost": 3,
       "power": 5000,
@@ -738,12 +936,62 @@
           "finishes": [
             "nonfoil"
           ]
+        },
+        {
+          "id": "ST01-005~ja",
+          "language": "ja",
+          "set": "ST01",
+          "rarity": "C",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/ST01-005.png",
+          "cardSet": "麦わらの一味【ST-01】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
+        },
+        {
+          "id": "ST01-005_p1~ja",
+          "language": "ja",
+          "set": "OTHER",
+          "rarity": "C",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/ST01-005_p1.png",
+          "cardSet": "プレミアムカードコレクション 25周年エディション",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "ST01-005_p3~ja",
+          "language": "ja",
+          "set": "P",
+          "rarity": "C",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/ST01-005_p3.png",
+          "cardSet": "プロモーションカードセット",
+          "source": "bandai"
+        },
+        {
+          "id": "ST01-005_r1~ja",
+          "language": "ja",
+          "set": "FAMILY",
+          "rarity": "C",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/ST01-005_r1.png",
+          "cardSet": "ファミリーデッキセット",
+          "source": "bandai"
         }
       ]
     },
     {
       "number": "ST01-006",
       "name": "Tony Tony.Chopper",
+      "names": {
+        "en": "Tony Tony.Chopper",
+        "ja": "トニートニー・チョッパー"
+      },
       "category": "Character",
       "cost": 1,
       "power": 1000,
@@ -1127,12 +1375,135 @@
           "finishes": [
             "nonfoil"
           ]
+        },
+        {
+          "id": "ST01-006~ja",
+          "language": "ja",
+          "set": "ST01",
+          "rarity": "C",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/ST01-006.png",
+          "cardSet": "麦わらの一味【ST-01】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
+        },
+        {
+          "id": "ST01-006_p1~ja",
+          "language": "ja",
+          "set": "OTHER",
+          "rarity": "C",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/ST01-006_p1.png",
+          "cardSet": "プレミアムカードコレクション 25周年エディション",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "ST01-006_p2~ja",
+          "language": "ja",
+          "set": "P",
+          "rarity": "C",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/ST01-006_p2.png",
+          "cardSet": "『ONE PIECE FILM RED』入場者プレゼント フィナーレセット",
+          "source": "bandai"
+        },
+        {
+          "id": "ST01-006_p4~ja",
+          "language": "ja",
+          "set": "OTHER",
+          "rarity": "C",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/ST01-006_p4.png",
+          "cardSet": "プレミアムカードコレクション ‐ONE PIECE FILM RED ‐",
+          "source": "bandai"
+        },
+        {
+          "id": "ST01-006_p6~ja",
+          "language": "ja",
+          "set": "P",
+          "rarity": "C",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/ST01-006_p6.png",
+          "cardSet": "フラッグシップバトル2022 ベスト8記念品",
+          "source": "bandai"
+        },
+        {
+          "id": "ST01-006_p7~ja",
+          "language": "ja",
+          "set": "P",
+          "rarity": "C",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/ST01-006_p7.png",
+          "cardSet": "プロモーションカードセット",
+          "source": "bandai"
+        },
+        {
+          "id": "ST01-006_p8~ja",
+          "language": "ja",
+          "set": "PRB01",
+          "rarity": "C",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/ST01-006_p8.png",
+          "cardSet": "ONE PIECE CARD THE BEST【PRB-01】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "ST01-006_p9~ja",
+          "language": "ja",
+          "set": "PRB01",
+          "rarity": "C",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/ST01-006_p9.png",
+          "cardSet": "ONE PIECE CARD THE BEST【PRB-01】",
+          "source": "bandai"
+        },
+        {
+          "id": "ST01-006_p10~ja",
+          "language": "ja",
+          "set": "PRB01",
+          "rarity": "C",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/ST01-006_p10.png",
+          "cardSet": "ONE PIECE CARD THE BEST【PRB-01】",
+          "source": "bandai"
+        },
+        {
+          "id": "ST01-006_r1~ja",
+          "language": "ja",
+          "set": "FAMILY",
+          "rarity": "C",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/ST01-006_r1.png",
+          "cardSet": "ファミリーデッキセット",
+          "source": "bandai"
+        },
+        {
+          "id": "ST01-006_r2~ja",
+          "language": "ja",
+          "set": "PRB01",
+          "rarity": "C",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/ST01-006_r2.png",
+          "cardSet": "ONE PIECE CARD THE BEST【PRB-01】",
+          "source": "bandai"
         }
       ]
     },
     {
       "number": "ST01-007",
       "name": "Nami",
+      "names": {
+        "en": "Nami",
+        "ja": "ナミ"
+      },
       "category": "Character",
       "cost": 1,
       "power": 1000,
@@ -1422,12 +1793,102 @@
           "finishes": [
             "nonfoil"
           ]
+        },
+        {
+          "id": "ST01-007~ja",
+          "language": "ja",
+          "set": "ST01",
+          "rarity": "C",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/ST01-007.png",
+          "cardSet": "麦わらの一味【ST-01】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
+        },
+        {
+          "id": "ST01-007_p1~ja",
+          "language": "ja",
+          "set": "P",
+          "rarity": "C",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/ST01-007_p1.png",
+          "cardSet": "スタンダードバトル 12月優勝記念品",
+          "source": "bandai"
+        },
+        {
+          "id": "ST01-007_p2~ja",
+          "language": "ja",
+          "set": "P",
+          "rarity": "C",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/ST01-007_p2.png",
+          "cardSet": "スタンダードバトルパック2022 Vol.2",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
+        },
+        {
+          "id": "ST01-007_p3~ja",
+          "language": "ja",
+          "set": "P",
+          "rarity": "C",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/ST01-007_p3.png",
+          "cardSet": "『ONE PIECE FILM RED』入場者プレゼント フィナーレセット",
+          "source": "bandai"
+        },
+        {
+          "id": "ST01-007_p5~ja",
+          "language": "ja",
+          "set": "OTHER",
+          "rarity": "C",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/ST01-007_p5.png",
+          "cardSet": "プレミアムカードコレクション ‐ONE PIECE FILM RED ‐",
+          "source": "bandai"
+        },
+        {
+          "id": "ST01-007_p6~ja",
+          "language": "ja",
+          "set": "OTHER",
+          "rarity": "C",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/ST01-007_p6.png",
+          "cardSet": "プレミアムブースター ONE PIECE CARD THE BEST ストレージボックスセット",
+          "source": "bandai"
+        },
+        {
+          "id": "ST01-007_p7~ja",
+          "language": "ja",
+          "set": "OTHER",
+          "rarity": "C",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/ST01-007_p7.png",
+          "cardSet": "プレミアムブースター ONE PIECE CARD THE BEST ストレージボックスセット",
+          "source": "bandai"
+        },
+        {
+          "id": "ST01-007_r1~ja",
+          "language": "ja",
+          "set": "FAMILY",
+          "rarity": "C",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/ST01-007_r1.png",
+          "cardSet": "ファミリーデッキセット",
+          "source": "bandai"
         }
       ]
     },
     {
       "number": "ST01-008",
       "name": "Nico Robin",
+      "names": {
+        "en": "Nico Robin",
+        "ja": "ニコ・ロビン"
+      },
       "category": "Character",
       "cost": 3,
       "power": 5000,
@@ -1570,12 +2031,62 @@
           "finishes": [
             "nonfoil"
           ]
+        },
+        {
+          "id": "ST01-008~ja",
+          "language": "ja",
+          "set": "ST01",
+          "rarity": "C",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/ST01-008.png",
+          "cardSet": "麦わらの一味【ST-01】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
+        },
+        {
+          "id": "ST01-008_p1~ja",
+          "language": "ja",
+          "set": "OTHER",
+          "rarity": "C",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/ST01-008_p1.png",
+          "cardSet": "プレミアムカードコレクション 25周年エディション",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "ST01-008_p3~ja",
+          "language": "ja",
+          "set": "P",
+          "rarity": "C",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/ST01-008_p3.png",
+          "cardSet": "プロモーションカードセット",
+          "source": "bandai"
+        },
+        {
+          "id": "ST01-008_r1~ja",
+          "language": "ja",
+          "set": "FAMILY",
+          "rarity": "C",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/ST01-008_r1.png",
+          "cardSet": "ファミリーデッキセット",
+          "source": "bandai"
         }
       ]
     },
     {
       "number": "ST01-009",
       "name": "Nefeltari Vivi",
+      "names": {
+        "en": "Nefeltari Vivi",
+        "ja": "ネフェルタリ・ビビ"
+      },
       "category": "Character",
       "cost": 2,
       "power": 4000,
@@ -1701,12 +2212,52 @@
               "category": "event"
             }
           ]
+        },
+        {
+          "id": "ST01-009~ja",
+          "language": "ja",
+          "set": "ST01",
+          "rarity": "C",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/ST01-009.png",
+          "cardSet": "麦わらの一味【ST-01】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
+        },
+        {
+          "id": "ST01-009_p1~ja",
+          "language": "ja",
+          "set": "P",
+          "rarity": "C",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/ST01-009_p1.png",
+          "cardSet": "ジャンプGIGA 2023 WINTER付録（2022年12月26日売）",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
+        },
+        {
+          "id": "ST01-009_r1~ja",
+          "language": "ja",
+          "set": "FAMILY",
+          "rarity": "C",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/ST01-009_r1.png",
+          "cardSet": "ファミリーデッキセット",
+          "source": "bandai"
         }
       ]
     },
     {
       "number": "ST01-010",
       "name": "Franky",
+      "names": {
+        "en": "Franky",
+        "ja": "フランキー"
+      },
       "category": "Character",
       "cost": 4,
       "power": 6000,
@@ -1847,12 +2398,52 @@
           "finishes": [
             "nonfoil"
           ]
+        },
+        {
+          "id": "ST01-010~ja",
+          "language": "ja",
+          "set": "ST01",
+          "rarity": "C",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/ST01-010.png",
+          "cardSet": "麦わらの一味【ST-01】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
+        },
+        {
+          "id": "ST01-010_p1~ja",
+          "language": "ja",
+          "set": "OTHER",
+          "rarity": "C",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/ST01-010_p1.png",
+          "cardSet": "プレミアムカードコレクション 25周年エディション",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "ST01-010_r1~ja",
+          "language": "ja",
+          "set": "FAMILY",
+          "rarity": "C",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/ST01-010_r1.png",
+          "cardSet": "ファミリーデッキセット",
+          "source": "bandai"
         }
       ]
     },
     {
       "number": "ST01-011",
       "name": "Brook",
+      "names": {
+        "en": "Brook",
+        "ja": "ブルック"
+      },
       "category": "Character",
       "cost": 2,
       "power": 3000,
@@ -2173,12 +2764,102 @@
           "finishes": [
             "nonfoil"
           ]
+        },
+        {
+          "id": "ST01-011~ja",
+          "language": "ja",
+          "set": "ST01",
+          "rarity": "C",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/ST01-011.png",
+          "cardSet": "麦わらの一味【ST-01】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
+        },
+        {
+          "id": "ST01-011_p1~ja",
+          "language": "ja",
+          "set": "P",
+          "rarity": "C",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/ST01-011_p1.png",
+          "cardSet": "『ONE PIECE FILM RED』入場者プレゼント フィナーレセット",
+          "source": "bandai"
+        },
+        {
+          "id": "ST01-011_p2~ja",
+          "language": "ja",
+          "set": "P",
+          "rarity": "C",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/ST01-011_p2.png",
+          "cardSet": "スタンダードバトルパック Vol.3",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
+        },
+        {
+          "id": "ST01-011_p4~ja",
+          "language": "ja",
+          "set": "OTHER",
+          "rarity": "C",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/ST01-011_p4.png",
+          "cardSet": "プレミアムカードコレクション ‐ONE PIECE FILM RED ‐",
+          "source": "bandai"
+        },
+        {
+          "id": "ST01-011_p5~ja",
+          "language": "ja",
+          "set": "PRB02",
+          "rarity": "C",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/ST01-011_p5.png",
+          "cardSet": "ONE PIECE CARD THE BEST vol.2【PRB-02】",
+          "source": "bandai"
+        },
+        {
+          "id": "ST01-011_p6~ja",
+          "language": "ja",
+          "set": "P",
+          "rarity": "C",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/ST01-011_p6.png",
+          "cardSet": "プロモーションカードセット2026",
+          "source": "bandai"
+        },
+        {
+          "id": "ST01-011_r1~ja",
+          "language": "ja",
+          "set": "FAMILY",
+          "rarity": "C",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/ST01-011_r1.png",
+          "cardSet": "ファミリーデッキセット",
+          "source": "bandai"
+        },
+        {
+          "id": "ST01-011_r2~ja",
+          "language": "ja",
+          "set": "PRB02",
+          "rarity": "C",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/ST01-011_r2.png",
+          "cardSet": "ONE PIECE CARD THE BEST vol.2【PRB-02】",
+          "source": "bandai"
         }
       ]
     },
     {
       "number": "ST01-012",
       "name": "Monkey.D.Luffy",
+      "names": {
+        "en": "Monkey.D.Luffy",
+        "ja": "モンキー・D・ルフィ"
+      },
       "category": "Character",
       "cost": 5,
       "power": 6000,
@@ -2473,12 +3154,108 @@
               "category": "anniversary"
             }
           ]
+        },
+        {
+          "id": "ST01-012~ja",
+          "language": "ja",
+          "set": "ST01",
+          "rarity": "SR",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/ST01-012.png",
+          "cardSet": "麦わらの一味【ST-01】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "ST01-012_p1~ja",
+          "language": "ja",
+          "set": "OP03",
+          "rarity": "SP CARD",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/ST01-012_p1.png",
+          "cardSet": "強大な敵【OP-03】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "ST01-012_p3~ja",
+          "language": "ja",
+          "set": "OP05",
+          "rarity": "SR",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/ST01-012_p3.png",
+          "cardSet": "新時代の主役【OP-05】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "ST01-012_p4~ja",
+          "language": "ja",
+          "set": "OP05",
+          "rarity": "SR",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/ST01-012_p4.png",
+          "cardSet": "新時代の主役【OP-05】",
+          "source": "bandai"
+        },
+        {
+          "id": "ST01-012_p5~ja",
+          "language": "ja",
+          "set": "P",
+          "rarity": "SR",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/ST01-012_p5.png",
+          "cardSet": "スタンダードバトル 2023年10月優勝記念品",
+          "source": "bandai"
+        },
+        {
+          "id": "ST01-012_p6~ja",
+          "language": "ja",
+          "set": "P",
+          "rarity": "SR",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/ST01-012_p6.png",
+          "cardSet": "スタンダードバトルパックVol.5",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "ST01-012_p7~ja",
+          "language": "ja",
+          "set": "P",
+          "rarity": "SR",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/ST01-012_p7.png",
+          "cardSet": "週刊少年ジャンプ19号応募者全員サービス（2025年4月7日売）",
+          "source": "bandai"
+        },
+        {
+          "id": "ST01-012_r1~ja",
+          "language": "ja",
+          "set": "FAMILY",
+          "rarity": "SR",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/ST01-012_r1.png",
+          "cardSet": "ファミリーデッキセット",
+          "source": "bandai"
         }
       ]
     },
     {
       "number": "ST01-013",
       "name": "Roronoa Zoro",
+      "names": {
+        "en": "Roronoa Zoro",
+        "ja": "ロロノア・ゾロ"
+      },
       "category": "Character",
       "cost": 3,
       "power": 5000,
@@ -2674,12 +3451,79 @@
               "category": "placement"
             }
           ]
+        },
+        {
+          "id": "ST01-013~ja",
+          "language": "ja",
+          "set": "ST01",
+          "rarity": "SR",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/ST01-013.png",
+          "cardSet": "麦わらの一味【ST-01】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "ST01-013_p1~ja",
+          "language": "ja",
+          "set": "P",
+          "rarity": "SR",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/ST01-013_p1.png",
+          "cardSet": "『ONE PIECE FILM RED』入場者プレゼント フィナーレセット",
+          "source": "bandai"
+        },
+        {
+          "id": "ST01-013_p3~ja",
+          "language": "ja",
+          "set": "OTHER",
+          "rarity": "SR",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/ST01-013_p3.png",
+          "cardSet": "プレミアムカードコレクション ‐ONE PIECE FILM RED ‐",
+          "source": "bandai"
+        },
+        {
+          "id": "ST01-013_p4~ja",
+          "language": "ja",
+          "set": "P",
+          "rarity": "SR",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/ST01-013_p4.png",
+          "cardSet": "プロモーションカードセット",
+          "source": "bandai"
+        },
+        {
+          "id": "ST01-013_p5~ja",
+          "language": "ja",
+          "set": "P",
+          "rarity": "SR",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/ST01-013_p5.png",
+          "cardSet": "チャンピオンシップ2022 予選 ベスト16記念品",
+          "source": "bandai"
+        },
+        {
+          "id": "ST01-013_r1~ja",
+          "language": "ja",
+          "set": "FAMILY",
+          "rarity": "SR",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/ST01-013_r1.png",
+          "cardSet": "ファミリーデッキセット",
+          "source": "bandai"
         }
       ]
     },
     {
       "number": "ST01-014",
       "name": "Guard Point",
+      "names": {
+        "en": "Guard Point",
+        "ja": "毛皮強化"
+      },
       "category": "Event",
       "cost": 1,
       "colors": [
@@ -2850,12 +3694,75 @@
           "finishes": [
             "nonfoil"
           ]
+        },
+        {
+          "id": "ST01-014~ja",
+          "language": "ja",
+          "set": "ST01",
+          "rarity": "C",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/ST01-014.png",
+          "cardSet": "麦わらの一味【ST-01】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
+        },
+        {
+          "id": "ST01-014_p2~ja",
+          "language": "ja",
+          "set": "PRB01",
+          "rarity": "C",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/ST01-014_p2.png",
+          "cardSet": "ONE PIECE CARD THE BEST【PRB-01】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "ST01-014_p3~ja",
+          "language": "ja",
+          "set": "PRB01",
+          "rarity": "C",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/ST01-014_p3.png",
+          "cardSet": "ONE PIECE CARD THE BEST【PRB-01】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "ST01-014_r2~ja",
+          "language": "ja",
+          "set": "FAMILY",
+          "rarity": "C",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/ST01-014_r2.png",
+          "cardSet": "ファミリーデッキセット",
+          "source": "bandai"
+        },
+        {
+          "id": "ST01-014_r3~ja",
+          "language": "ja",
+          "set": "PRB01",
+          "rarity": "C",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/ST01-014_r3.png",
+          "cardSet": "ONE PIECE CARD THE BEST【PRB-01】",
+          "source": "bandai"
         }
       ]
     },
     {
       "number": "ST01-015",
       "name": "Gum-Gum Jet Pistol",
+      "names": {
+        "en": "Gum-Gum Jet Pistol",
+        "ja": "ゴムゴムのJET銃"
+      },
       "category": "Event",
       "cost": 4,
       "colors": [
@@ -3132,12 +4039,59 @@
           "finishes": [
             "nonfoil"
           ]
+        },
+        {
+          "id": "ST01-015~ja",
+          "language": "ja",
+          "set": "ST01",
+          "rarity": "C",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/ST01-015.png",
+          "cardSet": "麦わらの一味【ST-01】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
+        },
+        {
+          "id": "ST01-015_p2~ja",
+          "language": "ja",
+          "set": "P",
+          "rarity": "C",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/ST01-015_p2.png",
+          "cardSet": "スタンダードバトルパックVol.4",
+          "source": "bandai"
+        },
+        {
+          "id": "ST01-015_p3~ja",
+          "language": "ja",
+          "set": "P",
+          "rarity": "C",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/ST01-015_p3.png",
+          "cardSet": "スタンダードバトル 6月優勝記念品",
+          "source": "bandai"
+        },
+        {
+          "id": "ST01-015_r2~ja",
+          "language": "ja",
+          "set": "FAMILY",
+          "rarity": "C",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/ST01-015_r2.png",
+          "cardSet": "ファミリーデッキセット",
+          "source": "bandai"
         }
       ]
     },
     {
       "number": "ST01-016",
       "name": "Diable Jambe",
+      "names": {
+        "en": "Diable Jambe",
+        "ja": "悪魔風脚"
+      },
       "category": "Event",
       "cost": 1,
       "colors": [
@@ -3216,12 +4170,39 @@
           "finishes": [
             "nonfoil"
           ]
+        },
+        {
+          "id": "ST01-016~ja",
+          "language": "ja",
+          "set": "ST01",
+          "rarity": "C",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/ST01-016.png",
+          "cardSet": "麦わらの一味【ST-01】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
+        },
+        {
+          "id": "ST01-016_r1~ja",
+          "language": "ja",
+          "set": "FAMILY",
+          "rarity": "C",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/ST01-016_r1.png",
+          "cardSet": "ファミリーデッキセット",
+          "source": "bandai"
         }
       ]
     },
     {
       "number": "ST01-017",
       "name": "Thousand Sunny",
+      "names": {
+        "en": "Thousand Sunny",
+        "ja": "サウザンド・サニー号"
+      },
       "category": "Stage",
       "cost": 2,
       "colors": [
@@ -3323,6 +4304,29 @@
           "finishes": [
             "nonfoil"
           ]
+        },
+        {
+          "id": "ST01-017~ja",
+          "language": "ja",
+          "set": "ST01",
+          "rarity": "C",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/ST01-017.png",
+          "cardSet": "麦わらの一味【ST-01】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
+        },
+        {
+          "id": "ST01-017_r1~ja",
+          "language": "ja",
+          "set": "FAMILY",
+          "rarity": "C",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/ST01-017_r1.png",
+          "cardSet": "ファミリーデッキセット",
+          "source": "bandai"
         }
       ]
     }

@@ -3,6 +3,10 @@
     {
       "number": "ST31-001",
       "name": "Sanji",
+      "names": {
+        "en": "Sanji",
+        "ja": "サンジ"
+      },
       "category": "Character",
       "cost": 5,
       "power": 3000,
@@ -39,12 +43,29 @@
             "distance": 4
           },
           "artist": "Mii Akio"
+        },
+        {
+          "id": "ST31-001~ja",
+          "language": "ja",
+          "set": "ST31",
+          "rarity": "SR",
+          "block": "5",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/ST31-001.png",
+          "cardSet": "スタートデッキ 赤 モンキー・D・ルフィ【ST-31】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "ST31-002",
       "name": "Jinbe",
+      "names": {
+        "en": "Jinbe",
+        "ja": "ジンベエ"
+      },
       "category": "Character",
       "cost": 5,
       "power": 6000,
@@ -82,12 +103,29 @@
             "distance": 6
           },
           "artist": "Nekobayashi"
+        },
+        {
+          "id": "ST31-002~ja",
+          "language": "ja",
+          "set": "ST31",
+          "rarity": "C",
+          "block": "5",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/ST31-002.png",
+          "cardSet": "スタートデッキ 赤 モンキー・D・ルフィ【ST-31】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "ST31-003",
       "name": "Brook",
+      "names": {
+        "en": "Brook",
+        "ja": "ブルック"
+      },
       "category": "Character",
       "cost": 2,
       "power": 3000,
@@ -124,12 +162,29 @@
             "distance": 3
           },
           "artist": "shosuke"
+        },
+        {
+          "id": "ST31-003~ja",
+          "language": "ja",
+          "set": "ST31",
+          "rarity": "C",
+          "block": "5",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/ST31-003.png",
+          "cardSet": "スタートデッキ 赤 モンキー・D・ルフィ【ST-31】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "ST31-004",
       "name": "Monkey.D.Luffy",
+      "names": {
+        "en": "Monkey.D.Luffy",
+        "ja": "モンキー・Ｄ・ルフィ"
+      },
       "category": "Character",
       "cost": 7,
       "power": 9000,
@@ -192,12 +247,42 @@
             "sp"
           ],
           "artist": "Bashikou"
+        },
+        {
+          "id": "ST31-004~ja",
+          "language": "ja",
+          "set": "ST31",
+          "rarity": "SR",
+          "block": "5",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/ST31-004.png",
+          "cardSet": "スタートデッキ 赤 モンキー・D・ルフィ【ST-31】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "ST31-004_p1~ja",
+          "language": "ja",
+          "set": "OP17",
+          "rarity": "SP CARD",
+          "block": "5",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/ST31-004_p1.png",
+          "cardSet": "ブースターパック 世界最強の戦士【OP-17】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "ST31-005",
       "name": "Thousand Sunny",
+      "names": {
+        "en": "Thousand Sunny",
+        "ja": "サウザンド・サニー号"
+      },
       "category": "Stage",
       "cost": 1,
       "colors": [
@@ -229,6 +314,19 @@
             "distance": 4
           },
           "artist": "kankurou"
+        },
+        {
+          "id": "ST31-005~ja",
+          "language": "ja",
+          "set": "ST31",
+          "rarity": "C",
+          "block": "5",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/ST31-005.png",
+          "cardSet": "スタートデッキ 赤 モンキー・D・ルフィ【ST-31】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     }

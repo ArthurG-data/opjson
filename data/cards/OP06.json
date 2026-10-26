@@ -3,6 +3,10 @@
     {
       "number": "OP06-001",
       "name": "Uta",
+      "names": {
+        "en": "Uta",
+        "ja": "ウタ"
+      },
       "category": "Leader",
       "power": 5000,
       "life": 4,
@@ -89,12 +93,55 @@
           "treatments": [
             "sp"
           ]
+        },
+        {
+          "id": "OP06-001~ja",
+          "language": "ja",
+          "set": "OP06",
+          "rarity": "L",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP06-001.png",
+          "cardSet": "双璧の覇者【OP-06】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
+        },
+        {
+          "id": "OP06-001_p1~ja",
+          "language": "ja",
+          "set": "OP06",
+          "rarity": "L",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP06-001_p1.png",
+          "cardSet": "双璧の覇者【OP-06】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP06-001_p2~ja",
+          "language": "ja",
+          "set": "EB02",
+          "rarity": "L",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP06-001_p2.png",
+          "cardSet": "エクストラブースター Anime 25th collection【EB-02】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "OP06-002",
       "name": "Inazuma",
+      "names": {
+        "en": "Inazuma",
+        "ja": "イナズマ"
+      },
       "category": "Character",
       "cost": 4,
       "power": 5000,
@@ -159,12 +206,29 @@
             }
           ],
           "artist": "COGA"
+        },
+        {
+          "id": "OP06-002~ja",
+          "language": "ja",
+          "set": "OP06",
+          "rarity": "C",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP06-002.png",
+          "cardSet": "双璧の覇者【OP-06】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP06-003",
       "name": "Emporio.Ivankov",
+      "names": {
+        "en": "Emporio.Ivankov",
+        "ja": "エンポリオ・イワンコフ"
+      },
       "category": "Character",
       "cost": 5,
       "power": 6000,
@@ -296,12 +360,65 @@
             }
           ],
           "artist": "Akihiro MIYANO"
+        },
+        {
+          "id": "OP06-003~ja",
+          "language": "ja",
+          "set": "OP06",
+          "rarity": "UC",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP06-003.png",
+          "cardSet": "双璧の覇者【OP-06】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
+        },
+        {
+          "id": "OP06-003_p1~ja",
+          "language": "ja",
+          "set": "PRB01",
+          "rarity": "UC",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP06-003_p1.png",
+          "cardSet": "ONE PIECE CARD THE BEST【PRB-01】",
+          "source": "bandai"
+        },
+        {
+          "id": "OP06-003_p2~ja",
+          "language": "ja",
+          "set": "PRB01",
+          "rarity": "UC",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP06-003_p2.png",
+          "cardSet": "ONE PIECE CARD THE BEST【PRB-01】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP06-003_r1~ja",
+          "language": "ja",
+          "set": "PRB01",
+          "rarity": "UC",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP06-003_r1.png",
+          "cardSet": "ONE PIECE CARD THE BEST【PRB-01】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP06-004",
       "name": "Baron Omatsuri",
+      "names": {
+        "en": "Baron Omatsuri",
+        "ja": "オマツリ男爵"
+      },
       "category": "Character",
       "cost": 2,
       "power": 3000,
@@ -367,12 +484,29 @@
             }
           ],
           "artist": "Aidle Co. Ltd."
+        },
+        {
+          "id": "OP06-004~ja",
+          "language": "ja",
+          "set": "OP06",
+          "rarity": "C",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP06-004.png",
+          "cardSet": "双璧の覇者【OP-06】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP06-005",
       "name": "Gasparde",
+      "names": {
+        "en": "Gasparde",
+        "ja": "ガスパーデ"
+      },
       "category": "Character",
       "cost": 6,
       "power": 8000,
@@ -439,12 +573,29 @@
             }
           ],
           "artist": "tasaka"
+        },
+        {
+          "id": "OP06-005~ja",
+          "language": "ja",
+          "set": "OP06",
+          "rarity": "C",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP06-005.png",
+          "cardSet": "双璧の覇者【OP-06】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP06-006",
       "name": "Saga",
+      "names": {
+        "en": "Saga",
+        "ja": "サガ"
+      },
       "category": "Character",
       "cost": 4,
       "power": 5000,
@@ -510,12 +661,29 @@
             }
           ],
           "artist": "Hatori Kyoka"
+        },
+        {
+          "id": "OP06-006~ja",
+          "language": "ja",
+          "set": "OP06",
+          "rarity": "UC",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP06-006.png",
+          "cardSet": "双璧の覇者【OP-06】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP06-007",
       "name": "Shanks",
+      "names": {
+        "en": "Shanks",
+        "ja": "シャンクス"
+      },
       "category": "Character",
       "cost": 10,
       "power": 12000,
@@ -632,12 +800,68 @@
           ],
           "artOf": "OP06-007",
           "artist": "akagi"
+        },
+        {
+          "id": "OP06-007~ja",
+          "language": "ja",
+          "set": "OP06",
+          "rarity": "SR",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP06-007.png",
+          "cardSet": "双璧の覇者【OP-06】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP06-007_p1~ja",
+          "language": "ja",
+          "set": "OP06",
+          "rarity": "SR",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP06-007_p1.png",
+          "cardSet": "双璧の覇者【OP-06】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP06-007_p2~ja",
+          "language": "ja",
+          "set": "PRB02",
+          "rarity": "SP CARD",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP06-007_p2.png",
+          "cardSet": "ONE PIECE CARD THE BEST vol.2【PRB-02】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP06-007_r1~ja",
+          "language": "ja",
+          "set": "PRB02",
+          "rarity": "SR",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP06-007_r1.png",
+          "cardSet": "ONE PIECE CARD THE BEST vol.2【PRB-02】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "OP06-008",
       "name": "Schneider",
+      "names": {
+        "en": "Schneider",
+        "ja": "シュナイダー"
+      },
       "category": "Character",
       "cost": 3,
       "power": 5000,
@@ -703,12 +927,29 @@
             }
           ],
           "artist": "Aidle Co. Ltd."
+        },
+        {
+          "id": "OP06-008~ja",
+          "language": "ja",
+          "set": "OP06",
+          "rarity": "C",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP06-008.png",
+          "cardSet": "双璧の覇者【OP-06】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP06-009",
       "name": "Shuraiya",
+      "names": {
+        "en": "Shuraiya",
+        "ja": "シュライヤ"
+      },
       "category": "Character",
       "cost": 3,
       "power": 4000,
@@ -772,12 +1013,42 @@
             "alternate_art"
           ],
           "artist": "Ryuda"
+        },
+        {
+          "id": "OP06-009~ja",
+          "language": "ja",
+          "set": "OP06",
+          "rarity": "SR",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP06-009.png",
+          "cardSet": "双璧の覇者【OP-06】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP06-009_p1~ja",
+          "language": "ja",
+          "set": "OP06",
+          "rarity": "SR",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP06-009_p1.png",
+          "cardSet": "双璧の覇者【OP-06】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "OP06-010",
       "name": "Douglas Bullet",
+      "names": {
+        "en": "Douglas Bullet",
+        "ja": "ダグラス・バレット"
+      },
       "category": "Character",
       "cost": 6,
       "power": 7000,
@@ -815,12 +1086,29 @@
             "distance": 5
           },
           "artist": "Anderson"
+        },
+        {
+          "id": "OP06-010~ja",
+          "language": "ja",
+          "set": "OP06",
+          "rarity": "R",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP06-010.png",
+          "cardSet": "双璧の覇者【OP-06】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "OP06-011",
       "name": "Tot Musica",
+      "names": {
+        "en": "Tot Musica",
+        "ja": "トットムジカ"
+      },
       "category": "Character",
       "cost": 5,
       "power": 6000,
@@ -857,12 +1145,29 @@
             "distance": 2
           },
           "artist": "KISUKE"
+        },
+        {
+          "id": "OP06-011~ja",
+          "language": "ja",
+          "set": "OP06",
+          "rarity": "R",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP06-011.png",
+          "cardSet": "双璧の覇者【OP-06】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "OP06-012",
       "name": "Bear.King",
+      "names": {
+        "en": "Bear.King",
+        "ja": "ベアキング"
+      },
       "category": "Character",
       "cost": 5,
       "power": 6000,
@@ -928,12 +1233,29 @@
             }
           ],
           "artist": "SENNSU"
+        },
+        {
+          "id": "OP06-012~ja",
+          "language": "ja",
+          "set": "OP06",
+          "rarity": "UC",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP06-012.png",
+          "cardSet": "双璧の覇者【OP-06】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP06-013",
       "name": "Monkey.D.Luffy",
+      "names": {
+        "en": "Monkey.D.Luffy",
+        "ja": "モンキー・D・ルフィ"
+      },
       "category": "Character",
       "cost": 2,
       "power": 3000,
@@ -997,12 +1319,42 @@
             "alternate_art"
           ],
           "artist": "Anderson"
+        },
+        {
+          "id": "OP06-013~ja",
+          "language": "ja",
+          "set": "OP06",
+          "rarity": "R",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP06-013.png",
+          "cardSet": "双璧の覇者【OP-06】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP06-013_p1~ja",
+          "language": "ja",
+          "set": "OP06",
+          "rarity": "R",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP06-013_p1.png",
+          "cardSet": "双璧の覇者【OP-06】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "OP06-014",
       "name": "Ratchet",
+      "names": {
+        "en": "Ratchet",
+        "ja": "ラチェット"
+      },
       "category": "Character",
       "cost": 1,
       "counter": 1000,
@@ -1067,12 +1419,29 @@
             }
           ],
           "artist": "Suzume Muraichi"
+        },
+        {
+          "id": "OP06-014~ja",
+          "language": "ja",
+          "set": "OP06",
+          "rarity": "C",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP06-014.png",
+          "cardSet": "双璧の覇者【OP-06】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP06-015",
       "name": "Lily Carnation",
+      "names": {
+        "en": "Lily Carnation",
+        "ja": "リリーカーネーション"
+      },
       "category": "Character",
       "cost": 4,
       "counter": 1000,
@@ -1137,12 +1506,29 @@
             }
           ],
           "artist": "UGUME"
+        },
+        {
+          "id": "OP06-015~ja",
+          "language": "ja",
+          "set": "OP06",
+          "rarity": "C",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP06-015.png",
+          "cardSet": "双璧の覇者【OP-06】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP06-016",
       "name": "Raise Max",
+      "names": {
+        "en": "Raise Max",
+        "ja": "レイズ・マックス"
+      },
       "category": "Character",
       "cost": 1,
       "power": 2000,
@@ -1243,12 +1629,39 @@
               "category": "retail"
             }
           ]
+        },
+        {
+          "id": "OP06-016~ja",
+          "language": "ja",
+          "set": "OP06",
+          "rarity": "UC",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP06-016.png",
+          "cardSet": "双璧の覇者【OP-06】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
+        },
+        {
+          "id": "OP06-016_p1~ja",
+          "language": "ja",
+          "set": "OTHER",
+          "rarity": "UC",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP06-016_p1.png",
+          "cardSet": "プレミアムカードコレクション-ベストセレクションvol.3-",
+          "source": "bandai"
         }
       ]
     },
     {
       "number": "OP06-017",
       "name": "Meteor-Strike of Love",
+      "names": {
+        "en": "Meteor-Strike of Love",
+        "ja": "恋のメテオストライク"
+      },
       "category": "Event",
       "cost": 2,
       "colors": [
@@ -1307,12 +1720,29 @@
               "category": "event"
             }
           ]
+        },
+        {
+          "id": "OP06-017~ja",
+          "language": "ja",
+          "set": "OP06",
+          "rarity": "C",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP06-017.png",
+          "cardSet": "双璧の覇者【OP-06】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP06-018",
       "name": "Gum-Gum King Kong Gatling",
+      "names": {
+        "en": "Gum-Gum King Kong Gatling",
+        "ja": "ゴムゴムの大猿王銃乱打"
+      },
       "category": "Event",
       "cost": 2,
       "colors": [
@@ -1364,12 +1794,29 @@
           "finishes": [
             "nonfoil"
           ]
+        },
+        {
+          "id": "OP06-018~ja",
+          "language": "ja",
+          "set": "OP06",
+          "rarity": "R",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP06-018.png",
+          "cardSet": "双璧の覇者【OP-06】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "OP06-019",
       "name": "Blue Dragon Seal Water Stream",
+      "names": {
+        "en": "Blue Dragon Seal Water Stream",
+        "ja": "青龍印 流水"
+      },
       "category": "Event",
       "cost": 3,
       "colors": [
@@ -1428,12 +1875,29 @@
               "category": "event"
             }
           ]
+        },
+        {
+          "id": "OP06-019~ja",
+          "language": "ja",
+          "set": "OP06",
+          "rarity": "UC",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP06-019.png",
+          "cardSet": "双璧の覇者【OP-06】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP06-020",
       "name": "Hody Jones",
+      "names": {
+        "en": "Hody Jones",
+        "ja": "ホーディ・ジョーンズ"
+      },
       "category": "Leader",
       "power": 5000,
       "life": 5,
@@ -1520,12 +1984,55 @@
           "treatments": [
             "sp"
           ]
+        },
+        {
+          "id": "OP06-020~ja",
+          "language": "ja",
+          "set": "OP06",
+          "rarity": "L",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP06-020.png",
+          "cardSet": "双璧の覇者【OP-06】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
+        },
+        {
+          "id": "OP06-020_p1~ja",
+          "language": "ja",
+          "set": "OP06",
+          "rarity": "L",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP06-020_p1.png",
+          "cardSet": "双璧の覇者【OP-06】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP06-020_p2~ja",
+          "language": "ja",
+          "set": "EB02",
+          "rarity": "L",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP06-020_p2.png",
+          "cardSet": "エクストラブースター Anime 25th collection【EB-02】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "OP06-021",
       "name": "Perona",
+      "names": {
+        "en": "Perona",
+        "ja": "ペローナ"
+      },
       "category": "Leader",
       "power": 5000,
       "life": 4,
@@ -1612,12 +2119,65 @@
           "treatments": [
             "sp"
           ]
+        },
+        {
+          "id": "OP06-021~ja",
+          "language": "ja",
+          "set": "OP06",
+          "rarity": "L",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP06-021.png",
+          "cardSet": "双璧の覇者【OP-06】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
+        },
+        {
+          "id": "OP06-021_p1~ja",
+          "language": "ja",
+          "set": "OP06",
+          "rarity": "L",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP06-021_p1.png",
+          "cardSet": "双璧の覇者【OP-06】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP06-021_p2~ja",
+          "language": "ja",
+          "set": "EB02",
+          "rarity": "L",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP06-021_p2.png",
+          "cardSet": "エクストラブースター Anime 25th collection【EB-02】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP06-021_p3~ja",
+          "language": "ja",
+          "set": "OTHER",
+          "rarity": "L",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP06-021_p3.png",
+          "cardSet": "ONE PIECEカードゲーム BASE SHOPリミテッドカードコレクションvol.1",
+          "source": "bandai"
         }
       ]
     },
     {
       "number": "OP06-022",
       "name": "Yamato",
+      "names": {
+        "en": "Yamato",
+        "ja": "ヤマト"
+      },
       "category": "Leader",
       "power": 5000,
       "life": 4,
@@ -1727,12 +2287,78 @@
             "distance": 3
           },
           "artist": "DAI-XT."
+        },
+        {
+          "id": "OP06-022~ja",
+          "language": "ja",
+          "set": "OP06",
+          "rarity": "L",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP06-022.png",
+          "cardSet": "双璧の覇者【OP-06】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
+        },
+        {
+          "id": "OP06-022_p1~ja",
+          "language": "ja",
+          "set": "OP06",
+          "rarity": "L",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP06-022_p1.png",
+          "cardSet": "双璧の覇者【OP-06】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP06-022_p2~ja",
+          "language": "ja",
+          "set": "EB02",
+          "rarity": "L",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP06-022_p2.png",
+          "cardSet": "エクストラブースター Anime 25th collection【EB-02】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP06-022_p3~ja",
+          "language": "ja",
+          "set": "ST28",
+          "rarity": "L",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP06-022_p3.png",
+          "cardSet": "スタートデッキ 緑黄 ヤマト【ST-28】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP06-022_p4~ja",
+          "language": "ja",
+          "set": "OTHER",
+          "rarity": "L",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP06-022_p4.png",
+          "cardSet": "週刊少年ジャンプ応募者全員サービス",
+          "source": "bandai"
         }
       ]
     },
     {
       "number": "OP06-023",
       "name": "Arlong",
+      "names": {
+        "en": "Arlong",
+        "ja": "アーロン"
+      },
       "category": "Character",
       "cost": 4,
       "power": 6000,
@@ -1881,12 +2507,75 @@
           "finishes": [
             "nonfoil"
           ]
+        },
+        {
+          "id": "OP06-023~ja",
+          "language": "ja",
+          "set": "OP06",
+          "rarity": "R",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP06-023.png",
+          "cardSet": "双璧の覇者【OP-06】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP06-023_p1~ja",
+          "language": "ja",
+          "set": "PRB01",
+          "rarity": "R",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP06-023_p1.png",
+          "cardSet": "ONE PIECE CARD THE BEST【PRB-01】",
+          "source": "bandai"
+        },
+        {
+          "id": "OP06-023_p2~ja",
+          "language": "ja",
+          "set": "PRB01",
+          "rarity": "R",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP06-023_p2.png",
+          "cardSet": "ONE PIECE CARD THE BEST【PRB-01】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP06-023_p3~ja",
+          "language": "ja",
+          "set": "PRB01",
+          "rarity": "R",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP06-023_p3.png",
+          "cardSet": "ONE PIECE CARD THE BEST【PRB-01】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP06-023_r1~ja",
+          "language": "ja",
+          "set": "PRB01",
+          "rarity": "R",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP06-023_r1.png",
+          "cardSet": "ONE PIECE CARD THE BEST【PRB-01】",
+          "source": "bandai"
         }
       ]
     },
     {
       "number": "OP06-024",
       "name": "Ikaros Much",
+      "names": {
+        "en": "Ikaros Much",
+        "ja": "イカロス・ムッヒ"
+      },
       "category": "Character",
       "cost": 5,
       "power": 6000,
@@ -1952,12 +2641,29 @@
             }
           ],
           "artist": "HISASHI HUJIWARA"
+        },
+        {
+          "id": "OP06-024~ja",
+          "language": "ja",
+          "set": "OP06",
+          "rarity": "UC",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP06-024.png",
+          "cardSet": "双璧の覇者【OP-06】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP06-025",
       "name": "Camie",
+      "names": {
+        "en": "Camie",
+        "ja": "ケイミー"
+      },
       "category": "Character",
       "cost": 1,
       "power": 2000,
@@ -2134,12 +2840,52 @@
               "category": "placement"
             }
           ]
+        },
+        {
+          "id": "OP06-025~ja",
+          "language": "ja",
+          "set": "OP06",
+          "rarity": "R",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP06-025.png",
+          "cardSet": "双璧の覇者【OP-06】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP06-025_p1~ja",
+          "language": "ja",
+          "set": "OP06",
+          "rarity": "R",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP06-025_p1.png",
+          "cardSet": "双璧の覇者【OP-06】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP06-025_p2~ja",
+          "language": "ja",
+          "set": "P",
+          "rarity": "R",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP06-025_p2.png",
+          "cardSet": "プロモーションパックEX Vol.2",
+          "source": "bandai"
         }
       ]
     },
     {
       "number": "OP06-026",
       "name": "Koushirou",
+      "names": {
+        "en": "Koushirou",
+        "ja": "コウシロウ"
+      },
       "category": "Character",
       "cost": 3,
       "counter": 1000,
@@ -2203,12 +2949,29 @@
             }
           ],
           "artist": "Hayaken-sarena"
+        },
+        {
+          "id": "OP06-026~ja",
+          "language": "ja",
+          "set": "OP06",
+          "rarity": "C",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP06-026.png",
+          "cardSet": "双璧の覇者【OP-06】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP06-027",
       "name": "Gyro",
+      "names": {
+        "en": "Gyro",
+        "ja": "ジャイロ"
+      },
       "category": "Character",
       "cost": 1,
       "power": 2000,
@@ -2273,12 +3036,29 @@
             }
           ],
           "artist": "Misa Matoki"
+        },
+        {
+          "id": "OP06-027~ja",
+          "language": "ja",
+          "set": "OP06",
+          "rarity": "C",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP06-027.png",
+          "cardSet": "双璧の覇者【OP-06】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP06-028",
       "name": "Zeo",
+      "names": {
+        "en": "Zeo",
+        "ja": "ゼオ"
+      },
       "category": "Character",
       "cost": 2,
       "power": 3000,
@@ -2344,12 +3124,29 @@
             }
           ],
           "artist": "Misa Tsutsui"
+        },
+        {
+          "id": "OP06-028~ja",
+          "language": "ja",
+          "set": "OP06",
+          "rarity": "C",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP06-028.png",
+          "cardSet": "双璧の覇者【OP-06】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP06-029",
       "name": "Daruma",
+      "names": {
+        "en": "Daruma",
+        "ja": "ダルマ"
+      },
       "category": "Character",
       "cost": 3,
       "power": 4000,
@@ -2415,12 +3212,29 @@
             }
           ],
           "artist": "Nekobayashi"
+        },
+        {
+          "id": "OP06-029~ja",
+          "language": "ja",
+          "set": "OP06",
+          "rarity": "UC",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP06-029.png",
+          "cardSet": "双璧の覇者【OP-06】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP06-030",
       "name": "Dosun",
+      "names": {
+        "en": "Dosun",
+        "ja": "ドスン"
+      },
       "category": "Character",
       "cost": 3,
       "power": 4000,
@@ -2486,12 +3300,29 @@
             }
           ],
           "artist": "HISASHI HUJIWARA"
+        },
+        {
+          "id": "OP06-030~ja",
+          "language": "ja",
+          "set": "OP06",
+          "rarity": "C",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP06-030.png",
+          "cardSet": "双璧の覇者【OP-06】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP06-031",
       "name": "Hatchan",
+      "names": {
+        "en": "Hatchan",
+        "ja": "はっちゃん"
+      },
       "category": "Character",
       "cost": 4,
       "power": 5000,
@@ -2557,12 +3388,29 @@
             }
           ],
           "artist": "Misa Matoki"
+        },
+        {
+          "id": "OP06-031~ja",
+          "language": "ja",
+          "set": "OP06",
+          "rarity": "UC",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP06-031.png",
+          "cardSet": "双璧の覇者【OP-06】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP06-032",
       "name": "Hammond",
+      "names": {
+        "en": "Hammond",
+        "ja": "ハモンド"
+      },
       "category": "Character",
       "cost": 2,
       "power": 2000,
@@ -2628,12 +3476,29 @@
             }
           ],
           "artist": "shosuke"
+        },
+        {
+          "id": "OP06-032~ja",
+          "language": "ja",
+          "set": "OP06",
+          "rarity": "C",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP06-032.png",
+          "cardSet": "双璧の覇者【OP-06】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP06-033",
       "name": "Vander Decken IX",
+      "names": {
+        "en": "Vander Decken IX",
+        "ja": "バンダー・デッケン九世"
+      },
       "category": "Character",
       "cost": 2,
       "power": 2000,
@@ -2671,12 +3536,29 @@
             "distance": 6
           },
           "artist": "touge369"
+        },
+        {
+          "id": "OP06-033~ja",
+          "language": "ja",
+          "set": "OP06",
+          "rarity": "R",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP06-033.png",
+          "cardSet": "双璧の覇者【OP-06】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "OP06-034",
       "name": "Hyouzou",
+      "names": {
+        "en": "Hyouzou",
+        "ja": "ヒョウゾウ"
+      },
       "category": "Character",
       "cost": 4,
       "power": 6000,
@@ -2740,12 +3622,29 @@
             }
           ],
           "artist": "touge369"
+        },
+        {
+          "id": "OP06-034~ja",
+          "language": "ja",
+          "set": "OP06",
+          "rarity": "UC",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP06-034.png",
+          "cardSet": "双璧の覇者【OP-06】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP06-035",
       "name": "Hody Jones",
+      "names": {
+        "en": "Hody Jones",
+        "ja": "ホーディ・ジョーンズ"
+      },
       "category": "Character",
       "cost": 7,
       "power": 8000,
@@ -2844,12 +3743,62 @@
           "source": "bandai",
           "artOf": "OP06-035",
           "artist": "HISASHI HUJIWARA"
+        },
+        {
+          "id": "OP06-035~ja",
+          "language": "ja",
+          "set": "OP06",
+          "rarity": "SR",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP06-035.png",
+          "cardSet": "双璧の覇者【OP-06】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP06-035_p1~ja",
+          "language": "ja",
+          "set": "OP06",
+          "rarity": "SR",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP06-035_p1.png",
+          "cardSet": "双璧の覇者【OP-06】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP06-035_p2~ja",
+          "language": "ja",
+          "set": "PRB01",
+          "rarity": "SR",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP06-035_p2.png",
+          "cardSet": "ONE PIECE CARD THE BEST【PRB-01】",
+          "source": "bandai"
+        },
+        {
+          "id": "OP06-035_r1~ja",
+          "language": "ja",
+          "set": "PRB01",
+          "rarity": "SR",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP06-035_r1.png",
+          "cardSet": "ONE PIECE CARD THE BEST【PRB-01】",
+          "source": "bandai"
         }
       ]
     },
     {
       "number": "OP06-036",
       "name": "Ryuma",
+      "names": {
+        "en": "Ryuma",
+        "ja": "リューマ"
+      },
       "category": "Character",
       "cost": 4,
       "power": 6000,
@@ -3023,12 +3972,75 @@
           "finishes": [
             "nonfoil"
           ]
+        },
+        {
+          "id": "OP06-036~ja",
+          "language": "ja",
+          "set": "OP06",
+          "rarity": "R",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP06-036.png",
+          "cardSet": "双璧の覇者【OP-06】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP06-036_p1~ja",
+          "language": "ja",
+          "set": "PRB01",
+          "rarity": "R",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP06-036_p1.png",
+          "cardSet": "ONE PIECE CARD THE BEST【PRB-01】",
+          "source": "bandai"
+        },
+        {
+          "id": "OP06-036_p2~ja",
+          "language": "ja",
+          "set": "PRB01",
+          "rarity": "R",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP06-036_p2.png",
+          "cardSet": "ONE PIECE CARD THE BEST【PRB-01】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP06-036_p3~ja",
+          "language": "ja",
+          "set": "PRB01",
+          "rarity": "R",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP06-036_p3.png",
+          "cardSet": "ONE PIECE CARD THE BEST【PRB-01】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP06-036_r1~ja",
+          "language": "ja",
+          "set": "PRB01",
+          "rarity": "R",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP06-036_r1.png",
+          "cardSet": "ONE PIECE CARD THE BEST【PRB-01】",
+          "source": "bandai"
         }
       ]
     },
     {
       "number": "OP06-037",
       "name": "Wadatsumi",
+      "names": {
+        "en": "Wadatsumi",
+        "ja": "ワダツミ"
+      },
       "category": "Character",
       "cost": 6,
       "power": 8000,
@@ -3094,12 +4106,29 @@
             }
           ],
           "artist": "kankurou"
+        },
+        {
+          "id": "OP06-037~ja",
+          "language": "ja",
+          "set": "OP06",
+          "rarity": "C",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP06-037.png",
+          "cardSet": "双璧の覇者【OP-06】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP06-038",
       "name": "The Billion-fold World Trichiliocosm",
+      "names": {
+        "en": "The Billion-fold World Trichiliocosm",
+        "ja": "一大・三千・大千・世界"
+      },
       "category": "Event",
       "cost": 1,
       "colors": [
@@ -3274,12 +4303,78 @@
           "finishes": [
             "nonfoil"
           ]
+        },
+        {
+          "id": "OP06-038~ja",
+          "language": "ja",
+          "set": "OP06",
+          "rarity": "UC",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP06-038.png",
+          "cardSet": "双璧の覇者【OP-06】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
+        },
+        {
+          "id": "OP06-038_p1~ja",
+          "language": "ja",
+          "set": "OTHER",
+          "rarity": "UC",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP06-038_p1.png",
+          "cardSet": "プレミアムカードコレクション - ベストセレクションvol.2 -",
+          "source": "bandai"
+        },
+        {
+          "id": "OP06-038_p2~ja",
+          "language": "ja",
+          "set": "PRB01",
+          "rarity": "UC",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP06-038_p2.png",
+          "cardSet": "ONE PIECE CARD THE BEST【PRB-01】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP06-038_p3~ja",
+          "language": "ja",
+          "set": "PRB01",
+          "rarity": "UC",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP06-038_p3.png",
+          "cardSet": "ONE PIECE CARD THE BEST【PRB-01】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP06-038_r1~ja",
+          "language": "ja",
+          "set": "PRB01",
+          "rarity": "UC",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP06-038_r1.png",
+          "cardSet": "ONE PIECE CARD THE BEST【PRB-01】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP06-039",
       "name": "You Ain't Even Worth Killing Time!!",
+      "names": {
+        "en": "You Ain't Even Worth Killing Time!!",
+        "ja": "お前じゃ退屈凌ぎにもなりゃしねェ!!!"
+      },
       "category": "Event",
       "cost": 4,
       "colors": [
@@ -3310,12 +4405,29 @@
             "match": "image-only-candidate",
             "distance": 7
           }
+        },
+        {
+          "id": "OP06-039~ja",
+          "language": "ja",
+          "set": "OP06",
+          "rarity": "R",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP06-039.png",
+          "cardSet": "双璧の覇者【OP-06】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "OP06-040",
       "name": "Shark Arrows",
+      "names": {
+        "en": "Shark Arrows",
+        "ja": "矢武鮫"
+      },
       "category": "Event",
       "cost": 2,
       "colors": [
@@ -3374,12 +4486,29 @@
               "category": "event"
             }
           ]
+        },
+        {
+          "id": "OP06-040~ja",
+          "language": "ja",
+          "set": "OP06",
+          "rarity": "C",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP06-040.png",
+          "cardSet": "双璧の覇者【OP-06】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP06-041",
       "name": "The Ark Noah",
+      "names": {
+        "en": "The Ark Noah",
+        "ja": "方舟ノア"
+      },
       "category": "Stage",
       "cost": 6,
       "colors": [
@@ -3437,12 +4566,29 @@
               "category": "event"
             }
           ]
+        },
+        {
+          "id": "OP06-041~ja",
+          "language": "ja",
+          "set": "OP06",
+          "rarity": "C",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP06-041.png",
+          "cardSet": "双璧の覇者【OP-06】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP06-042",
       "name": "Vinsmoke Reiju",
+      "names": {
+        "en": "Vinsmoke Reiju",
+        "ja": "ヴィンスモーク・レイジュ"
+      },
       "category": "Leader",
       "power": 5000,
       "life": 4,
@@ -3530,12 +4676,55 @@
           "treatments": [
             "sp"
           ]
+        },
+        {
+          "id": "OP06-042~ja",
+          "language": "ja",
+          "set": "OP06",
+          "rarity": "L",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP06-042.png",
+          "cardSet": "双璧の覇者【OP-06】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
+        },
+        {
+          "id": "OP06-042_p1~ja",
+          "language": "ja",
+          "set": "OP06",
+          "rarity": "L",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP06-042_p1.png",
+          "cardSet": "双璧の覇者【OP-06】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP06-042_p2~ja",
+          "language": "ja",
+          "set": "EB02",
+          "rarity": "L",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP06-042_p2.png",
+          "cardSet": "エクストラブースター Anime 25th collection【EB-02】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "OP06-043",
       "name": "Aramaki",
+      "names": {
+        "en": "Aramaki",
+        "ja": "アラマキ"
+      },
       "category": "Character",
       "cost": 8,
       "power": 8000,
@@ -3597,12 +4786,42 @@
             "alternate_art"
           ],
           "artist": "Studio Vigor Co. Ltd"
+        },
+        {
+          "id": "OP06-043~ja",
+          "language": "ja",
+          "set": "OP06",
+          "rarity": "SR",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP06-043.png",
+          "cardSet": "双璧の覇者【OP-06】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP06-043_p1~ja",
+          "language": "ja",
+          "set": "OP06",
+          "rarity": "SR",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP06-043_p1.png",
+          "cardSet": "双璧の覇者【OP-06】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "OP06-044",
       "name": "Gion",
+      "names": {
+        "en": "Gion",
+        "ja": "ギオン"
+      },
       "category": "Character",
       "cost": 4,
       "power": 5000,
@@ -3723,12 +4942,55 @@
             }
           ],
           "artist": "otton"
+        },
+        {
+          "id": "OP06-044~ja",
+          "language": "ja",
+          "set": "OP06",
+          "rarity": "UC",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP06-044.png",
+          "cardSet": "双璧の覇者【OP-06】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
+        },
+        {
+          "id": "OP06-044_p1~ja",
+          "language": "ja",
+          "set": "PRB02",
+          "rarity": "UC",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP06-044_p1.png",
+          "cardSet": "ONE PIECE CARD THE BEST vol.2【PRB-02】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP06-044_r1~ja",
+          "language": "ja",
+          "set": "PRB02",
+          "rarity": "UC",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP06-044_r1.png",
+          "cardSet": "ONE PIECE CARD THE BEST vol.2【PRB-02】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP06-045",
       "name": "Kuzan",
+      "names": {
+        "en": "Kuzan",
+        "ja": "クザン"
+      },
       "category": "Character",
       "cost": 3,
       "power": 5000,
@@ -3792,12 +5054,29 @@
             }
           ],
           "artist": "SENNSU"
+        },
+        {
+          "id": "OP06-045~ja",
+          "language": "ja",
+          "set": "OP06",
+          "rarity": "UC",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP06-045.png",
+          "cardSet": "双璧の覇者【OP-06】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP06-046",
       "name": "Sakazuki",
+      "names": {
+        "en": "Sakazuki",
+        "ja": "サカズキ"
+      },
       "category": "Character",
       "cost": 5,
       "power": 6000,
@@ -3861,12 +5140,29 @@
             }
           ],
           "artist": "S-KINOKO"
+        },
+        {
+          "id": "OP06-046~ja",
+          "language": "ja",
+          "set": "OP06",
+          "rarity": "UC",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP06-046.png",
+          "cardSet": "双璧の覇者【OP-06】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP06-047",
       "name": "Charlotte Pudding",
+      "names": {
+        "en": "Charlotte Pudding",
+        "ja": "シャーロット・プリン"
+      },
       "category": "Character",
       "cost": 4,
       "power": 4000,
@@ -4041,12 +5337,75 @@
               "category": "event"
             }
           ]
+        },
+        {
+          "id": "OP06-047~ja",
+          "language": "ja",
+          "set": "OP06",
+          "rarity": "R",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP06-047.png",
+          "cardSet": "双璧の覇者【OP-06】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP06-047_p1~ja",
+          "language": "ja",
+          "set": "P",
+          "rarity": "R",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP06-047_p1.png",
+          "cardSet": "スタンダードバトル 2024年9月優勝記念品",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP06-047_p2~ja",
+          "language": "ja",
+          "set": "P",
+          "rarity": "R",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP06-047_p2.png",
+          "cardSet": "スタンダードバトルパックVol.9",
+          "source": "bandai"
+        },
+        {
+          "id": "OP06-047_p3~ja",
+          "language": "ja",
+          "set": "PRB02",
+          "rarity": "SP CARD",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP06-047_p3.png",
+          "cardSet": "ONE PIECE CARD THE BEST vol.2【PRB-02】",
+          "source": "bandai"
+        },
+        {
+          "id": "OP06-047_r1~ja",
+          "language": "ja",
+          "set": "PRB02",
+          "rarity": "R",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP06-047_r1.png",
+          "cardSet": "ONE PIECE CARD THE BEST vol.2【PRB-02】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "OP06-048",
       "name": "Zeff",
+      "names": {
+        "en": "Zeff",
+        "ja": "ゼフ"
+      },
       "category": "Character",
       "cost": 3,
       "power": 3000,
@@ -4111,12 +5470,29 @@
             }
           ],
           "artist": "Anderson"
+        },
+        {
+          "id": "OP06-048~ja",
+          "language": "ja",
+          "set": "OP06",
+          "rarity": "C",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP06-048.png",
+          "cardSet": "双璧の覇者【OP-06】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP06-049",
       "name": "Sengoku",
+      "names": {
+        "en": "Sengoku",
+        "ja": "センゴク"
+      },
       "category": "Character",
       "cost": 5,
       "power": 7000,
@@ -4237,12 +5613,55 @@
             }
           ],
           "artist": "nukadokomogera"
+        },
+        {
+          "id": "OP06-049~ja",
+          "language": "ja",
+          "set": "OP06",
+          "rarity": "C",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP06-049.png",
+          "cardSet": "双璧の覇者【OP-06】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
+        },
+        {
+          "id": "OP06-049_p1~ja",
+          "language": "ja",
+          "set": "PRB02",
+          "rarity": "C",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP06-049_p1.png",
+          "cardSet": "ONE PIECE CARD THE BEST vol.2【PRB-02】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP06-049_r1~ja",
+          "language": "ja",
+          "set": "PRB02",
+          "rarity": "C",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP06-049_r1.png",
+          "cardSet": "ONE PIECE CARD THE BEST vol.2【PRB-02】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP06-050",
       "name": "Tashigi",
+      "names": {
+        "en": "Tashigi",
+        "ja": "たしぎ"
+      },
       "category": "Character",
       "cost": 1,
       "power": 2000,
@@ -4331,12 +5750,55 @@
             "sp"
           ],
           "artist": "Hashimoto Q"
+        },
+        {
+          "id": "OP06-050~ja",
+          "language": "ja",
+          "set": "OP06",
+          "rarity": "R",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP06-050.png",
+          "cardSet": "双璧の覇者【OP-06】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP06-050_p1~ja",
+          "language": "ja",
+          "set": "OP06",
+          "rarity": "R",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP06-050_p1.png",
+          "cardSet": "双璧の覇者【OP-06】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP06-050_p2~ja",
+          "language": "ja",
+          "set": "OP12",
+          "rarity": "SP CARD",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP06-050_p2.png",
+          "cardSet": "師弟の絆【OP-12】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "OP06-051",
       "name": "Tsuru",
+      "names": {
+        "en": "Tsuru",
+        "ja": "つる"
+      },
       "category": "Character",
       "cost": 5,
       "power": 4000,
@@ -4461,12 +5923,42 @@
               "category": "event"
             }
           ]
+        },
+        {
+          "id": "OP06-051~ja",
+          "language": "ja",
+          "set": "OP06",
+          "rarity": "R",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP06-051.png",
+          "cardSet": "双璧の覇者【OP-06】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP06-051_p2~ja",
+          "language": "ja",
+          "set": "P",
+          "rarity": "R",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP06-051_p2.png",
+          "cardSet": "スタンダードバトルパックVol.12",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "OP06-052",
       "name": "Tokikake",
+      "names": {
+        "en": "Tokikake",
+        "ja": "トキカケ"
+      },
       "category": "Character",
       "cost": 2,
       "power": 3000,
@@ -4531,12 +6023,29 @@
             }
           ],
           "artist": "Moopic"
+        },
+        {
+          "id": "OP06-052~ja",
+          "language": "ja",
+          "set": "OP06",
+          "rarity": "C",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP06-052.png",
+          "cardSet": "双璧の覇者【OP-06】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP06-053",
       "name": "Jaguar.D.Saul",
+      "names": {
+        "en": "Jaguar.D.Saul",
+        "ja": "ハグワール・D・サウロ"
+      },
       "category": "Character",
       "cost": 2,
       "power": 3000,
@@ -4602,12 +6111,29 @@
             }
           ],
           "artist": "S-KINOKO"
+        },
+        {
+          "id": "OP06-053~ja",
+          "language": "ja",
+          "set": "OP06",
+          "rarity": "C",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP06-053.png",
+          "cardSet": "双璧の覇者【OP-06】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP06-054",
       "name": "Borsalino",
+      "names": {
+        "en": "Borsalino",
+        "ja": "ボルサリーノ"
+      },
       "category": "Character",
       "cost": 2,
       "power": 4000,
@@ -4671,12 +6197,29 @@
             }
           ],
           "artist": "Yoichi Amano"
+        },
+        {
+          "id": "OP06-054~ja",
+          "language": "ja",
+          "set": "OP06",
+          "rarity": "UC",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP06-054.png",
+          "cardSet": "双璧の覇者【OP-06】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP06-055",
       "name": "Monkey.D.Garp",
+      "names": {
+        "en": "Monkey.D.Garp",
+        "ja": "モンキー・D・ガープ"
+      },
       "category": "Character",
       "cost": 5,
       "power": 7000,
@@ -4740,12 +6283,29 @@
             }
           ],
           "artist": "tatsuya"
+        },
+        {
+          "id": "OP06-055~ja",
+          "language": "ja",
+          "set": "OP06",
+          "rarity": "C",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP06-055.png",
+          "cardSet": "双璧の覇者【OP-06】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP06-056",
       "name": "Ama no Murakumo Sword",
+      "names": {
+        "en": "Ama no Murakumo Sword",
+        "ja": "天叢雲剣"
+      },
       "category": "Event",
       "cost": 2,
       "colors": [
@@ -4927,12 +6487,88 @@
               "category": "event"
             }
           ]
+        },
+        {
+          "id": "OP06-056~ja",
+          "language": "ja",
+          "set": "OP06",
+          "rarity": "UC",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP06-056.png",
+          "cardSet": "双璧の覇者【OP-06】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
+        },
+        {
+          "id": "OP06-056_p1~ja",
+          "language": "ja",
+          "set": "PRB01",
+          "rarity": "UC",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP06-056_p1.png",
+          "cardSet": "ONE PIECE CARD THE BEST【PRB-01】",
+          "source": "bandai"
+        },
+        {
+          "id": "OP06-056_p2~ja",
+          "language": "ja",
+          "set": "PRB01",
+          "rarity": "UC",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP06-056_p2.png",
+          "cardSet": "ONE PIECE CARD THE BEST【PRB-01】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP06-056_p3~ja",
+          "language": "ja",
+          "set": "PRB02",
+          "rarity": "UC",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP06-056_p3.png",
+          "cardSet": "ONE PIECE CARD THE BEST vol.2【PRB-02】",
+          "source": "bandai"
+        },
+        {
+          "id": "OP06-056_r1~ja",
+          "language": "ja",
+          "set": "PRB01",
+          "rarity": "UC",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP06-056_r1.png",
+          "cardSet": "ONE PIECE CARD THE BEST【PRB-01】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
+        },
+        {
+          "id": "OP06-056_r2~ja",
+          "language": "ja",
+          "set": "PRB02",
+          "rarity": "UC",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP06-056_r2.png",
+          "cardSet": "ONE PIECE CARD THE BEST vol.2【PRB-02】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP06-057",
       "name": "But I Will Never Doubt a Woman's Tears!!!!",
+      "names": {
+        "en": "But I Will Never Doubt a Woman's Tears!!!!",
+        "ja": "おれは女の涙を疑わねェっ!!!!"
+      },
       "category": "Event",
       "cost": 1,
       "colors": [
@@ -4991,12 +6627,29 @@
               "category": "event"
             }
           ]
+        },
+        {
+          "id": "OP06-057~ja",
+          "language": "ja",
+          "set": "OP06",
+          "rarity": "C",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP06-057.png",
+          "cardSet": "双璧の覇者【OP-06】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP06-058",
       "name": "Gravity Blade Raging Tiger",
+      "names": {
+        "en": "Gravity Blade Raging Tiger",
+        "ja": "重力刀　猛虎"
+      },
       "category": "Event",
       "cost": 7,
       "colors": [
@@ -5079,12 +6732,55 @@
             "reprint"
           ],
           "artOf": "OP06-058"
+        },
+        {
+          "id": "OP06-058~ja",
+          "language": "ja",
+          "set": "OP06",
+          "rarity": "R",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP06-058.png",
+          "cardSet": "双璧の覇者【OP-06】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP06-058_p1~ja",
+          "language": "ja",
+          "set": "PRB02",
+          "rarity": "R",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP06-058_p1.png",
+          "cardSet": "ONE PIECE CARD THE BEST vol.2【PRB-02】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP06-058_r1~ja",
+          "language": "ja",
+          "set": "PRB02",
+          "rarity": "R",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP06-058_r1.png",
+          "cardSet": "ONE PIECE CARD THE BEST vol.2【PRB-02】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "OP06-059",
       "name": "White Snake",
+      "names": {
+        "en": "White Snake",
+        "ja": "ホワイトスネーク"
+      },
       "category": "Event",
       "cost": 2,
       "colors": [
@@ -5196,12 +6892,55 @@
               "category": "event"
             }
           ]
+        },
+        {
+          "id": "OP06-059~ja",
+          "language": "ja",
+          "set": "OP06",
+          "rarity": "UC",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP06-059.png",
+          "cardSet": "双璧の覇者【OP-06】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
+        },
+        {
+          "id": "OP06-059_p1~ja",
+          "language": "ja",
+          "set": "PRB02",
+          "rarity": "UC",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP06-059_p1.png",
+          "cardSet": "ONE PIECE CARD THE BEST vol.2【PRB-02】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP06-059_r1~ja",
+          "language": "ja",
+          "set": "PRB02",
+          "rarity": "UC",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP06-059_r1.png",
+          "cardSet": "ONE PIECE CARD THE BEST vol.2【PRB-02】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP06-060",
       "name": "Vinsmoke Ichiji",
+      "names": {
+        "en": "Vinsmoke Ichiji",
+        "ja": "ヴィンスモーク・イチジ"
+      },
       "category": "Character",
       "cost": 4,
       "power": 4000,
@@ -5335,12 +7074,65 @@
             }
           ],
           "artist": "UGUME"
+        },
+        {
+          "id": "OP06-060~ja",
+          "language": "ja",
+          "set": "OP06",
+          "rarity": "C",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP06-060.png",
+          "cardSet": "双璧の覇者【OP-06】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
+        },
+        {
+          "id": "OP06-060_p1~ja",
+          "language": "ja",
+          "set": "PRB01",
+          "rarity": "C",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP06-060_p1.png",
+          "cardSet": "ONE PIECE CARD THE BEST【PRB-01】",
+          "source": "bandai"
+        },
+        {
+          "id": "OP06-060_p2~ja",
+          "language": "ja",
+          "set": "PRB01",
+          "rarity": "C",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP06-060_p2.png",
+          "cardSet": "ONE PIECE CARD THE BEST【PRB-01】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP06-060_r1~ja",
+          "language": "ja",
+          "set": "PRB01",
+          "rarity": "C",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP06-060_r1.png",
+          "cardSet": "ONE PIECE CARD THE BEST【PRB-01】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP06-061",
       "name": "Vinsmoke Ichiji",
+      "names": {
+        "en": "Vinsmoke Ichiji",
+        "ja": "ヴィンスモーク・イチジ"
+      },
       "category": "Character",
       "cost": 7,
       "power": 7000,
@@ -5429,12 +7221,42 @@
               "category": "program"
             }
           ]
+        },
+        {
+          "id": "OP06-061~ja",
+          "language": "ja",
+          "set": "OP06",
+          "rarity": "R",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP06-061.png",
+          "cardSet": "双璧の覇者【OP-06】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP06-061_p1~ja",
+          "language": "ja",
+          "set": "OP06",
+          "rarity": "R",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP06-061_p1.png",
+          "cardSet": "双璧の覇者【OP-06】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "OP06-062",
       "name": "Vinsmoke Judge",
+      "names": {
+        "en": "Vinsmoke Judge",
+        "ja": "ヴィンスモーク・ジャッジ"
+      },
       "category": "Character",
       "cost": 8,
       "power": 8000,
@@ -5497,12 +7319,42 @@
             "alternate_art"
           ],
           "artist": "ASAKI KURODA"
+        },
+        {
+          "id": "OP06-062~ja",
+          "language": "ja",
+          "set": "OP06",
+          "rarity": "SR",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP06-062.png",
+          "cardSet": "双璧の覇者【OP-06】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP06-062_p1~ja",
+          "language": "ja",
+          "set": "OP06",
+          "rarity": "SR",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP06-062_p1.png",
+          "cardSet": "双璧の覇者【OP-06】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "OP06-063",
       "name": "Vinsmoke Sora",
+      "names": {
+        "en": "Vinsmoke Sora",
+        "ja": "ヴィンスモーク・ソラ"
+      },
       "category": "Character",
       "cost": 1,
       "counter": 2000,
@@ -5698,12 +7550,62 @@
             }
           ],
           "artist": "Pisuke"
+        },
+        {
+          "id": "OP06-063~ja",
+          "language": "ja",
+          "set": "OP06",
+          "rarity": "UC",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP06-063.png",
+          "cardSet": "双璧の覇者【OP-06】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
+        },
+        {
+          "id": "OP06-063_p1~ja",
+          "language": "ja",
+          "set": "P",
+          "rarity": "UC",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP06-063_p1.png",
+          "cardSet": "ONE PIECEカードゲーム プロモーションパックVol.7",
+          "source": "bandai"
+        },
+        {
+          "id": "OP06-063_p2~ja",
+          "language": "ja",
+          "set": "PRB02",
+          "rarity": "UC",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP06-063_p2.png",
+          "cardSet": "ONE PIECE CARD THE BEST vol.2【PRB-02】",
+          "source": "bandai"
+        },
+        {
+          "id": "OP06-063_r1~ja",
+          "language": "ja",
+          "set": "PRB02",
+          "rarity": "UC",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP06-063_r1.png",
+          "cardSet": "ONE PIECE CARD THE BEST vol.2【PRB-02】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP06-064",
       "name": "Vinsmoke Niji",
+      "names": {
+        "en": "Vinsmoke Niji",
+        "ja": "ヴィンスモーク・ニジ"
+      },
       "category": "Character",
       "cost": 3,
       "power": 3000,
@@ -5837,12 +7739,65 @@
             }
           ],
           "artist": "Tanaka Kenichi"
+        },
+        {
+          "id": "OP06-064~ja",
+          "language": "ja",
+          "set": "OP06",
+          "rarity": "C",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP06-064.png",
+          "cardSet": "双璧の覇者【OP-06】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
+        },
+        {
+          "id": "OP06-064_p1~ja",
+          "language": "ja",
+          "set": "PRB01",
+          "rarity": "C",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP06-064_p1.png",
+          "cardSet": "ONE PIECE CARD THE BEST【PRB-01】",
+          "source": "bandai"
+        },
+        {
+          "id": "OP06-064_p2~ja",
+          "language": "ja",
+          "set": "PRB01",
+          "rarity": "C",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP06-064_p2.png",
+          "cardSet": "ONE PIECE CARD THE BEST【PRB-01】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP06-064_r1~ja",
+          "language": "ja",
+          "set": "PRB01",
+          "rarity": "C",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP06-064_r1.png",
+          "cardSet": "ONE PIECE CARD THE BEST【PRB-01】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP06-065",
       "name": "Vinsmoke Niji",
+      "names": {
+        "en": "Vinsmoke Niji",
+        "ja": "ヴィンスモーク・ニジ"
+      },
       "category": "Character",
       "cost": 5,
       "power": 6000,
@@ -5972,12 +7927,75 @@
           "source": "bandai",
           "artOf": "OP06-065",
           "artist": "Moopic"
+        },
+        {
+          "id": "OP06-065~ja",
+          "language": "ja",
+          "set": "OP06",
+          "rarity": "R",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP06-065.png",
+          "cardSet": "双璧の覇者【OP-06】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP06-065_p1~ja",
+          "language": "ja",
+          "set": "PRB01",
+          "rarity": "R",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP06-065_p1.png",
+          "cardSet": "ONE PIECE CARD THE BEST【PRB-01】",
+          "source": "bandai"
+        },
+        {
+          "id": "OP06-065_p2~ja",
+          "language": "ja",
+          "set": "PRB01",
+          "rarity": "R",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP06-065_p2.png",
+          "cardSet": "ONE PIECE CARD THE BEST【PRB-01】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP06-065_p3~ja",
+          "language": "ja",
+          "set": "PRB01",
+          "rarity": "R",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP06-065_p3.png",
+          "cardSet": "ONE PIECE CARD THE BEST【PRB-01】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP06-065_r1~ja",
+          "language": "ja",
+          "set": "PRB01",
+          "rarity": "R",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP06-065_r1.png",
+          "cardSet": "ONE PIECE CARD THE BEST【PRB-01】",
+          "source": "bandai"
         }
       ]
     },
     {
       "number": "OP06-066",
       "name": "Vinsmoke Yonji",
+      "names": {
+        "en": "Vinsmoke Yonji",
+        "ja": "ヴィンスモーク・ヨンジ"
+      },
       "category": "Character",
       "cost": 2,
       "power": 2000,
@@ -6112,12 +8130,65 @@
             }
           ],
           "artist": "phima"
+        },
+        {
+          "id": "OP06-066~ja",
+          "language": "ja",
+          "set": "OP06",
+          "rarity": "C",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP06-066.png",
+          "cardSet": "双璧の覇者【OP-06】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
+        },
+        {
+          "id": "OP06-066_p1~ja",
+          "language": "ja",
+          "set": "PRB01",
+          "rarity": "C",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP06-066_p1.png",
+          "cardSet": "ONE PIECE CARD THE BEST【PRB-01】",
+          "source": "bandai"
+        },
+        {
+          "id": "OP06-066_p2~ja",
+          "language": "ja",
+          "set": "PRB01",
+          "rarity": "C",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP06-066_p2.png",
+          "cardSet": "ONE PIECE CARD THE BEST【PRB-01】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP06-066_r1~ja",
+          "language": "ja",
+          "set": "PRB01",
+          "rarity": "C",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP06-066_r1.png",
+          "cardSet": "ONE PIECE CARD THE BEST【PRB-01】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP06-067",
       "name": "Vinsmoke Yonji",
+      "names": {
+        "en": "Vinsmoke Yonji",
+        "ja": "ヴィンスモーク・ヨンジ"
+      },
       "category": "Character",
       "cost": 4,
       "power": 5000,
@@ -6246,12 +8317,75 @@
           "source": "bandai",
           "artOf": "OP06-067",
           "artist": "Sunohara"
+        },
+        {
+          "id": "OP06-067~ja",
+          "language": "ja",
+          "set": "OP06",
+          "rarity": "R",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP06-067.png",
+          "cardSet": "双璧の覇者【OP-06】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP06-067_p1~ja",
+          "language": "ja",
+          "set": "PRB01",
+          "rarity": "R",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP06-067_p1.png",
+          "cardSet": "ONE PIECE CARD THE BEST【PRB-01】",
+          "source": "bandai"
+        },
+        {
+          "id": "OP06-067_p2~ja",
+          "language": "ja",
+          "set": "PRB01",
+          "rarity": "R",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP06-067_p2.png",
+          "cardSet": "ONE PIECE CARD THE BEST【PRB-01】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP06-067_p3~ja",
+          "language": "ja",
+          "set": "PRB01",
+          "rarity": "R",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP06-067_p3.png",
+          "cardSet": "ONE PIECE CARD THE BEST【PRB-01】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP06-067_r1~ja",
+          "language": "ja",
+          "set": "PRB01",
+          "rarity": "R",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP06-067_r1.png",
+          "cardSet": "ONE PIECE CARD THE BEST【PRB-01】",
+          "source": "bandai"
         }
       ]
     },
     {
       "number": "OP06-068",
       "name": "Vinsmoke Reiju",
+      "names": {
+        "en": "Vinsmoke Reiju",
+        "ja": "ヴィンスモーク・レイジュ"
+      },
       "category": "Character",
       "cost": 2,
       "power": 2000,
@@ -6385,12 +8519,65 @@
             }
           ],
           "artist": "Bashikou"
+        },
+        {
+          "id": "OP06-068~ja",
+          "language": "ja",
+          "set": "OP06",
+          "rarity": "C",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP06-068.png",
+          "cardSet": "双璧の覇者【OP-06】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
+        },
+        {
+          "id": "OP06-068_p1~ja",
+          "language": "ja",
+          "set": "PRB01",
+          "rarity": "C",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP06-068_p1.png",
+          "cardSet": "ONE PIECE CARD THE BEST【PRB-01】",
+          "source": "bandai"
+        },
+        {
+          "id": "OP06-068_p2~ja",
+          "language": "ja",
+          "set": "PRB01",
+          "rarity": "C",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP06-068_p2.png",
+          "cardSet": "ONE PIECE CARD THE BEST【PRB-01】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP06-068_r1~ja",
+          "language": "ja",
+          "set": "PRB01",
+          "rarity": "C",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP06-068_r1.png",
+          "cardSet": "ONE PIECE CARD THE BEST【PRB-01】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP06-069",
       "name": "Vinsmoke Reiju",
+      "names": {
+        "en": "Vinsmoke Reiju",
+        "ja": "ヴィンスモーク・レイジュ"
+      },
       "category": "Character",
       "cost": 4,
       "power": 5000,
@@ -6516,12 +8703,72 @@
           "source": "bandai",
           "artOf": "OP06-069",
           "artist": "SHIE NANAHARA"
+        },
+        {
+          "id": "OP06-069~ja",
+          "language": "ja",
+          "set": "OP06",
+          "rarity": "SR",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP06-069.png",
+          "cardSet": "双璧の覇者【OP-06】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP06-069_p1~ja",
+          "language": "ja",
+          "set": "OP06",
+          "rarity": "SR",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP06-069_p1.png",
+          "cardSet": "双璧の覇者【OP-06】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP06-069_p2~ja",
+          "language": "ja",
+          "set": "P",
+          "rarity": "SR",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP06-069_p2.png",
+          "cardSet": "フラッグシップバトル2024 4月優勝記念品",
+          "source": "bandai"
+        },
+        {
+          "id": "OP06-069_p3~ja",
+          "language": "ja",
+          "set": "PRB01",
+          "rarity": "SR",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP06-069_p3.png",
+          "cardSet": "ONE PIECE CARD THE BEST【PRB-01】",
+          "source": "bandai"
+        },
+        {
+          "id": "OP06-069_r1~ja",
+          "language": "ja",
+          "set": "PRB01",
+          "rarity": "SR",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP06-069_r1.png",
+          "cardSet": "ONE PIECE CARD THE BEST【PRB-01】",
+          "source": "bandai"
         }
       ]
     },
     {
       "number": "OP06-070",
       "name": "Eldoraggo",
+      "names": {
+        "en": "Eldoraggo",
+        "ja": "エルドラゴ"
+      },
       "category": "Character",
       "cost": 5,
       "power": 7000,
@@ -6587,12 +8834,29 @@
             }
           ],
           "artist": "tasaka"
+        },
+        {
+          "id": "OP06-070~ja",
+          "language": "ja",
+          "set": "OP06",
+          "rarity": "C",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP06-070.png",
+          "cardSet": "双璧の覇者【OP-06】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP06-071",
       "name": "Gild Tesoro",
+      "names": {
+        "en": "Gild Tesoro",
+        "ja": "ギルド・テゾーロ"
+      },
       "category": "Character",
       "cost": 5,
       "power": 6000,
@@ -6658,12 +8922,29 @@
             }
           ],
           "artist": "tatsuya"
+        },
+        {
+          "id": "OP06-071~ja",
+          "language": "ja",
+          "set": "OP06",
+          "rarity": "UC",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP06-071.png",
+          "cardSet": "双璧の覇者【OP-06】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP06-072",
       "name": "Cosette",
+      "names": {
+        "en": "Cosette",
+        "ja": "コゼット"
+      },
       "category": "Character",
       "cost": 1,
       "counter": 1000,
@@ -6727,12 +9008,29 @@
             }
           ],
           "artist": "Sunohara"
+        },
+        {
+          "id": "OP06-072~ja",
+          "language": "ja",
+          "set": "OP06",
+          "rarity": "C",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP06-072.png",
+          "cardSet": "双璧の覇者【OP-06】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP06-073",
       "name": "Shiki",
+      "names": {
+        "en": "Shiki",
+        "ja": "シキ"
+      },
       "category": "Character",
       "cost": 2,
       "power": 1000,
@@ -6854,12 +9152,55 @@
             }
           ],
           "artist": "Studio Vigor Co. Ltd"
+        },
+        {
+          "id": "OP06-073~ja",
+          "language": "ja",
+          "set": "OP06",
+          "rarity": "UC",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP06-073.png",
+          "cardSet": "双璧の覇者【OP-06】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
+        },
+        {
+          "id": "OP06-073_p1~ja",
+          "language": "ja",
+          "set": "PRB02",
+          "rarity": "UC",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP06-073_p1.png",
+          "cardSet": "ONE PIECE CARD THE BEST vol.2【PRB-02】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP06-073_r1~ja",
+          "language": "ja",
+          "set": "PRB02",
+          "rarity": "UC",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP06-073_r1.png",
+          "cardSet": "ONE PIECE CARD THE BEST vol.2【PRB-02】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP06-074",
       "name": "Zephyr (Navy)",
+      "names": {
+        "en": "Zephyr (Navy)",
+        "ja": "ゼファー"
+      },
       "category": "Character",
       "cost": 7,
       "power": 7000,
@@ -6922,12 +9263,29 @@
               "category": "program"
             }
           ]
+        },
+        {
+          "id": "OP06-074~ja",
+          "language": "ja",
+          "set": "OP06",
+          "rarity": "R",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP06-074.png",
+          "cardSet": "双璧の覇者【OP-06】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "OP06-075",
       "name": "Count Battler",
+      "names": {
+        "en": "Count Battler",
+        "ja": "バトラー伯爵"
+      },
       "category": "Character",
       "cost": 2,
       "power": 3000,
@@ -6993,12 +9351,29 @@
             }
           ],
           "artist": "Minato Sashima"
+        },
+        {
+          "id": "OP06-075~ja",
+          "language": "ja",
+          "set": "OP06",
+          "rarity": "C",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP06-075.png",
+          "cardSet": "双璧の覇者【OP-06】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP06-076",
       "name": "Hitokiri Kamazo",
+      "names": {
+        "en": "Hitokiri Kamazo",
+        "ja": "人斬り鎌ぞう"
+      },
       "category": "Character",
       "cost": 4,
       "power": 5000,
@@ -7206,12 +9581,68 @@
               "category": "event"
             }
           ]
+        },
+        {
+          "id": "OP06-076~ja",
+          "language": "ja",
+          "set": "OP06",
+          "rarity": "UC",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP06-076.png",
+          "cardSet": "双璧の覇者【OP-06】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
+        },
+        {
+          "id": "OP06-076_p1~ja",
+          "language": "ja",
+          "set": "P",
+          "rarity": "UC",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP06-076_p1.png",
+          "cardSet": "スタンダードバトルパックVol.9",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP06-076_p2~ja",
+          "language": "ja",
+          "set": "PRB02",
+          "rarity": "UC",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP06-076_p2.png",
+          "cardSet": "ONE PIECE CARD THE BEST vol.2【PRB-02】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP06-076_r1~ja",
+          "language": "ja",
+          "set": "PRB02",
+          "rarity": "UC",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP06-076_r1.png",
+          "cardSet": "ONE PIECE CARD THE BEST vol.2【PRB-02】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP06-077",
       "name": "Black Bug",
+      "names": {
+        "en": "Black Bug",
+        "ja": "混色バグ"
+      },
       "category": "Event",
       "cost": 4,
       "colors": [
@@ -7243,12 +9674,29 @@
             "match": "image-only-candidate",
             "distance": 5
           }
+        },
+        {
+          "id": "OP06-077~ja",
+          "language": "ja",
+          "set": "OP06",
+          "rarity": "R",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP06-077.png",
+          "cardSet": "双璧の覇者【OP-06】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "OP06-078",
       "name": "GERMA 66",
+      "names": {
+        "en": "GERMA 66",
+        "ja": "GERMA 66"
+      },
       "category": "Event",
       "cost": 1,
       "colors": [
@@ -7361,12 +9809,55 @@
               "category": "event"
             }
           ]
+        },
+        {
+          "id": "OP06-078~ja",
+          "language": "ja",
+          "set": "OP06",
+          "rarity": "UC",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP06-078.png",
+          "cardSet": "双璧の覇者【OP-06】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
+        },
+        {
+          "id": "OP06-078_p1~ja",
+          "language": "ja",
+          "set": "PRB02",
+          "rarity": "UC",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP06-078_p1.png",
+          "cardSet": "ONE PIECE CARD THE BEST vol.2【PRB-02】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP06-078_r1~ja",
+          "language": "ja",
+          "set": "PRB02",
+          "rarity": "UC",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP06-078_r1.png",
+          "cardSet": "ONE PIECE CARD THE BEST vol.2【PRB-02】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP06-079",
       "name": "Kingdom of GERMA",
+      "names": {
+        "en": "Kingdom of GERMA",
+        "ja": "ジェルマ王国"
+      },
       "category": "Stage",
       "cost": 1,
       "colors": [
@@ -7520,12 +10011,78 @@
               "category": "event"
             }
           ]
+        },
+        {
+          "id": "OP06-079~ja",
+          "language": "ja",
+          "set": "OP06",
+          "rarity": "C",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP06-079.png",
+          "cardSet": "双璧の覇者【OP-06】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
+        },
+        {
+          "id": "OP06-079_p1~ja",
+          "language": "ja",
+          "set": "PRB01",
+          "rarity": "C",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP06-079_p1.png",
+          "cardSet": "ONE PIECE CARD THE BEST【PRB-01】",
+          "source": "bandai"
+        },
+        {
+          "id": "OP06-079_p2~ja",
+          "language": "ja",
+          "set": "PRB01",
+          "rarity": "C",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP06-079_p2.png",
+          "cardSet": "ONE PIECE CARD THE BEST【PRB-01】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP06-079_p3~ja",
+          "language": "ja",
+          "set": "PRB01",
+          "rarity": "C",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP06-079_p3.png",
+          "cardSet": "ONE PIECE CARD THE BEST【PRB-01】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP06-079_r1~ja",
+          "language": "ja",
+          "set": "PRB01",
+          "rarity": "C",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP06-079_r1.png",
+          "cardSet": "ONE PIECE CARD THE BEST【PRB-01】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP06-080",
       "name": "Gecko Moria",
+      "names": {
+        "en": "Gecko Moria",
+        "ja": "ゲッコー・モリア"
+      },
       "category": "Leader",
       "power": 5000,
       "life": 5,
@@ -7612,12 +10169,55 @@
           "treatments": [
             "sp"
           ]
+        },
+        {
+          "id": "OP06-080~ja",
+          "language": "ja",
+          "set": "OP06",
+          "rarity": "L",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP06-080.png",
+          "cardSet": "双璧の覇者【OP-06】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
+        },
+        {
+          "id": "OP06-080_p1~ja",
+          "language": "ja",
+          "set": "OP06",
+          "rarity": "L",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP06-080_p1.png",
+          "cardSet": "双璧の覇者【OP-06】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP06-080_p2~ja",
+          "language": "ja",
+          "set": "EB02",
+          "rarity": "L",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP06-080_p2.png",
+          "cardSet": "エクストラブースター Anime 25th collection【EB-02】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "OP06-081",
       "name": "Absalom",
+      "names": {
+        "en": "Absalom",
+        "ja": "アブサロム"
+      },
       "category": "Character",
       "cost": 4,
       "power": 5000,
@@ -7680,12 +10280,42 @@
             "alternate_art"
           ],
           "artist": "BISAI"
+        },
+        {
+          "id": "OP06-081~ja",
+          "language": "ja",
+          "set": "OP06",
+          "rarity": "R",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP06-081.png",
+          "cardSet": "双璧の覇者【OP-06】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP06-081_p1~ja",
+          "language": "ja",
+          "set": "OP06",
+          "rarity": "R",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP06-081_p1.png",
+          "cardSet": "双璧の覇者【OP-06】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "OP06-082",
       "name": "Inuppe",
+      "names": {
+        "en": "Inuppe",
+        "ja": "犬っぺ"
+      },
       "category": "Character",
       "cost": 2,
       "power": 3000,
@@ -7776,12 +10406,29 @@
               "category": "program"
             }
           ]
+        },
+        {
+          "id": "OP06-082~ja",
+          "language": "ja",
+          "set": "OP06",
+          "rarity": "C",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP06-082.png",
+          "cardSet": "双璧の覇者【OP-06】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP06-083",
       "name": "Oars",
+      "names": {
+        "en": "Oars",
+        "ja": "オーズ"
+      },
       "category": "Character",
       "cost": 4,
       "power": 7000,
@@ -7846,12 +10493,29 @@
             }
           ],
           "artist": "DAI-XT."
+        },
+        {
+          "id": "OP06-083~ja",
+          "language": "ja",
+          "set": "OP06",
+          "rarity": "UC",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP06-083.png",
+          "cardSet": "双璧の覇者【OP-06】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP06-084",
       "name": "Jigoro of the Wind",
+      "names": {
+        "en": "Jigoro of the Wind",
+        "ja": "風のジゴロウ"
+      },
       "category": "Character",
       "cost": 2,
       "power": 3000,
@@ -7916,12 +10580,29 @@
             }
           ],
           "artist": "HISASHI HUJIWARA"
+        },
+        {
+          "id": "OP06-084~ja",
+          "language": "ja",
+          "set": "OP06",
+          "rarity": "C",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP06-084.png",
+          "cardSet": "双璧の覇者【OP-06】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP06-085",
       "name": "Kumacy",
+      "names": {
+        "en": "Kumacy",
+        "ja": "クマシー"
+      },
       "category": "Character",
       "cost": 2,
       "power": 3000,
@@ -7986,12 +10667,29 @@
             }
           ],
           "artist": "kito"
+        },
+        {
+          "id": "OP06-085~ja",
+          "language": "ja",
+          "set": "OP06",
+          "rarity": "UC",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP06-085.png",
+          "cardSet": "双璧の覇者【OP-06】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP06-086",
       "name": "Gecko Moria",
+      "names": {
+        "en": "Gecko Moria",
+        "ja": "ゲッコー・モリア"
+      },
       "category": "Character",
       "cost": 8,
       "power": 9000,
@@ -8090,12 +10788,62 @@
           "source": "bandai",
           "artOf": "OP06-086",
           "artist": "eiji kaneda"
+        },
+        {
+          "id": "OP06-086~ja",
+          "language": "ja",
+          "set": "OP06",
+          "rarity": "SR",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP06-086.png",
+          "cardSet": "双璧の覇者【OP-06】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP06-086_p1~ja",
+          "language": "ja",
+          "set": "OP06",
+          "rarity": "SR",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP06-086_p1.png",
+          "cardSet": "双璧の覇者【OP-06】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP06-086_p2~ja",
+          "language": "ja",
+          "set": "PRB01",
+          "rarity": "SR",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP06-086_p2.png",
+          "cardSet": "ONE PIECE CARD THE BEST【PRB-01】",
+          "source": "bandai"
+        },
+        {
+          "id": "OP06-086_r1~ja",
+          "language": "ja",
+          "set": "PRB01",
+          "rarity": "SR",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP06-086_r1.png",
+          "cardSet": "ONE PIECE CARD THE BEST【PRB-01】",
+          "source": "bandai"
         }
       ]
     },
     {
       "number": "OP06-087",
       "name": "Cerberus",
+      "names": {
+        "en": "Cerberus",
+        "ja": "ケルベロス"
+      },
       "category": "Character",
       "cost": 2,
       "power": 2000,
@@ -8160,12 +10908,29 @@
             }
           ],
           "artist": "Nakamaru"
+        },
+        {
+          "id": "OP06-087~ja",
+          "language": "ja",
+          "set": "OP06",
+          "rarity": "C",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP06-087.png",
+          "cardSet": "双璧の覇者【OP-06】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP06-088",
       "name": "Sai",
+      "names": {
+        "en": "Sai",
+        "ja": "サイ"
+      },
       "category": "Character",
       "cost": 3,
       "power": 4000,
@@ -8231,12 +10996,29 @@
             }
           ],
           "artist": "Yasushi Yamaguchi"
+        },
+        {
+          "id": "OP06-088~ja",
+          "language": "ja",
+          "set": "OP06",
+          "rarity": "UC",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP06-088.png",
+          "cardSet": "双璧の覇者【OP-06】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP06-089",
       "name": "Taralan",
+      "names": {
+        "en": "Taralan",
+        "ja": "タララン"
+      },
       "category": "Character",
       "cost": 2,
       "power": 3000,
@@ -8301,12 +11083,29 @@
             }
           ],
           "artist": "kankurou"
+        },
+        {
+          "id": "OP06-089~ja",
+          "language": "ja",
+          "set": "OP06",
+          "rarity": "C",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP06-089.png",
+          "cardSet": "双璧の覇者【OP-06】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP06-090",
       "name": "Dr. Hogback",
+      "names": {
+        "en": "Dr. Hogback",
+        "ja": "ドクトル・ホグバック"
+      },
       "category": "Character",
       "cost": 4,
       "power": 5000,
@@ -8379,12 +11178,39 @@
               "category": "retail"
             }
           ]
+        },
+        {
+          "id": "OP06-090~ja",
+          "language": "ja",
+          "set": "OP06",
+          "rarity": "R",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP06-090.png",
+          "cardSet": "双璧の覇者【OP-06】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP06-090_p1~ja",
+          "language": "ja",
+          "set": "OTHER",
+          "rarity": "R",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP06-090_p1.png",
+          "cardSet": "プレミアムカードコレクション-ベストセレクションvol.3-",
+          "source": "bandai"
         }
       ]
     },
     {
       "number": "OP06-091",
       "name": "Victoria Cindry",
+      "names": {
+        "en": "Victoria Cindry",
+        "ja": "ビクトリア・シンドリー"
+      },
       "category": "Character",
       "cost": 1,
       "power": 2000,
@@ -8517,12 +11343,65 @@
             }
           ],
           "artist": "BISAI"
+        },
+        {
+          "id": "OP06-091~ja",
+          "language": "ja",
+          "set": "OP06",
+          "rarity": "UC",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP06-091.png",
+          "cardSet": "双璧の覇者【OP-06】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
+        },
+        {
+          "id": "OP06-091_p1~ja",
+          "language": "ja",
+          "set": "PRB01",
+          "rarity": "UC",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP06-091_p1.png",
+          "cardSet": "ONE PIECE CARD THE BEST【PRB-01】",
+          "source": "bandai"
+        },
+        {
+          "id": "OP06-091_p2~ja",
+          "language": "ja",
+          "set": "PRB01",
+          "rarity": "UC",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP06-091_p2.png",
+          "cardSet": "ONE PIECE CARD THE BEST【PRB-01】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP06-091_r1~ja",
+          "language": "ja",
+          "set": "PRB01",
+          "rarity": "UC",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP06-091_r1.png",
+          "cardSet": "ONE PIECE CARD THE BEST【PRB-01】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP06-092",
       "name": "Brook",
+      "names": {
+        "en": "Brook",
+        "ja": "ブルック"
+      },
       "category": "Character",
       "cost": 6,
       "power": 6000,
@@ -8675,12 +11554,39 @@
               "category": "placement"
             }
           ]
+        },
+        {
+          "id": "OP06-092~ja",
+          "language": "ja",
+          "set": "OP06",
+          "rarity": "R",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP06-092.png",
+          "cardSet": "双璧の覇者【OP-06】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP06-092_p1~ja",
+          "language": "ja",
+          "set": "P",
+          "rarity": "R",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP06-092_p1.png",
+          "cardSet": "プロモーションパックEX Vol.2",
+          "source": "bandai"
         }
       ]
     },
     {
       "number": "OP06-093",
       "name": "Perona",
+      "names": {
+        "en": "Perona",
+        "ja": "ペローナ"
+      },
       "category": "Character",
       "cost": 4,
       "power": 5000,
@@ -8823,12 +11729,62 @@
           "treatments": [
             "sp"
           ]
+        },
+        {
+          "id": "OP06-093~ja",
+          "language": "ja",
+          "set": "OP06",
+          "rarity": "SR",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP06-093.png",
+          "cardSet": "双璧の覇者【OP-06】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP06-093_p1~ja",
+          "language": "ja",
+          "set": "OP06",
+          "rarity": "SR",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP06-093_p1.png",
+          "cardSet": "双璧の覇者【OP-06】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP06-093_p2~ja",
+          "language": "ja",
+          "set": "P",
+          "rarity": "SR",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP06-093_p2.png",
+          "cardSet": "フラッグシップバトル2024 1月ベスト8記念品",
+          "source": "bandai"
+        },
+        {
+          "id": "OP06-093_p3~ja",
+          "language": "ja",
+          "set": "OP14",
+          "rarity": "SP CARD",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP06-093_p3.png",
+          "cardSet": "ブースターパック 蒼海の七傑【OP-14】",
+          "source": "bandai"
         }
       ]
     },
     {
       "number": "OP06-094",
       "name": "Lola",
+      "names": {
+        "en": "Lola",
+        "ja": "ローラ"
+      },
       "category": "Character",
       "cost": 4,
       "power": 6000,
@@ -8893,12 +11849,29 @@
             }
           ],
           "artist": "kankurou"
+        },
+        {
+          "id": "OP06-094~ja",
+          "language": "ja",
+          "set": "OP06",
+          "rarity": "C",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP06-094.png",
+          "cardSet": "双璧の覇者【OP-06】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP06-095",
       "name": "Shadows Asgard",
+      "names": {
+        "en": "Shadows Asgard",
+        "ja": "影の集合地"
+      },
       "category": "Event",
       "cost": 2,
       "colors": [
@@ -8957,12 +11930,29 @@
               "category": "event"
             }
           ]
+        },
+        {
+          "id": "OP06-095~ja",
+          "language": "ja",
+          "set": "OP06",
+          "rarity": "UC",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP06-095.png",
+          "cardSet": "双璧の覇者【OP-06】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP06-096",
       "name": "...Nothing...at All!!!",
+      "names": {
+        "en": "...Nothing...at All!!!",
+        "ja": "…なにも!!!な゛かった…!!!!"
+      },
       "category": "Event",
       "cost": 3,
       "colors": [
@@ -9020,12 +12010,29 @@
               "category": "event"
             }
           ]
+        },
+        {
+          "id": "OP06-096~ja",
+          "language": "ja",
+          "set": "OP06",
+          "rarity": "C",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP06-096.png",
+          "cardSet": "双璧の覇者【OP-06】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP06-097",
       "name": "Negative Hollow",
+      "names": {
+        "en": "Negative Hollow",
+        "ja": "ネガティブホロウ"
+      },
       "category": "Event",
       "cost": 2,
       "colors": [
@@ -9056,12 +12063,29 @@
             "match": "image-only-candidate",
             "distance": 5
           }
+        },
+        {
+          "id": "OP06-097~ja",
+          "language": "ja",
+          "set": "OP06",
+          "rarity": "R",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP06-097.png",
+          "cardSet": "双璧の覇者【OP-06】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "OP06-098",
       "name": "Thriller Bark",
+      "names": {
+        "en": "Thriller Bark",
+        "ja": "スリラーバーク"
+      },
       "category": "Stage",
       "cost": 1,
       "colors": [
@@ -9119,12 +12143,29 @@
               "category": "event"
             }
           ]
+        },
+        {
+          "id": "OP06-098~ja",
+          "language": "ja",
+          "set": "OP06",
+          "rarity": "C",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP06-098.png",
+          "cardSet": "双璧の覇者【OP-06】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP06-099",
       "name": "Aisa",
+      "names": {
+        "en": "Aisa",
+        "ja": "アイサ"
+      },
       "category": "Character",
       "cost": 1,
       "counter": 2000,
@@ -9188,12 +12229,29 @@
             }
           ],
           "artist": "Nekobayashi"
+        },
+        {
+          "id": "OP06-099~ja",
+          "language": "ja",
+          "set": "OP06",
+          "rarity": "C",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP06-099.png",
+          "cardSet": "双璧の覇者【OP-06】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP06-100",
       "name": "Inuarashi",
+      "names": {
+        "en": "Inuarashi",
+        "ja": "イヌアラシ"
+      },
       "category": "Character",
       "cost": 4,
       "power": 5000,
@@ -9353,12 +12411,78 @@
             }
           ],
           "artist": "Yasushi Yamaguchi"
+        },
+        {
+          "id": "OP06-100~ja",
+          "language": "ja",
+          "set": "OP06",
+          "rarity": "UC",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP06-100.png",
+          "cardSet": "双璧の覇者【OP-06】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
+        },
+        {
+          "id": "OP06-100_p1~ja",
+          "language": "ja",
+          "set": "PRB01",
+          "rarity": "UC",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP06-100_p1.png",
+          "cardSet": "ONE PIECE CARD THE BEST【PRB-01】",
+          "source": "bandai"
+        },
+        {
+          "id": "OP06-100_p2~ja",
+          "language": "ja",
+          "set": "PRB01",
+          "rarity": "UC",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP06-100_p2.png",
+          "cardSet": "ONE PIECE CARD THE BEST【PRB-01】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP06-100_r1~ja",
+          "language": "ja",
+          "set": "PRB01",
+          "rarity": "UC",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP06-100_r1.png",
+          "cardSet": "ONE PIECE CARD THE BEST【PRB-01】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
+        },
+        {
+          "id": "OP06-100_r2~ja",
+          "language": "ja",
+          "set": "ST28",
+          "rarity": "UC",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP06-100_r2.png",
+          "cardSet": "スタートデッキ 緑黄 ヤマト【ST-28】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP06-101",
       "name": "O-Nami",
+      "names": {
+        "en": "O-Nami",
+        "ja": "おナミ"
+      },
       "category": "Character",
       "cost": 2,
       "power": 3000,
@@ -9624,12 +12748,68 @@
               "category": "retail"
             }
           ]
+        },
+        {
+          "id": "OP06-101~ja",
+          "language": "ja",
+          "set": "OP06",
+          "rarity": "R",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP06-101.png",
+          "cardSet": "双璧の覇者【OP-06】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP06-101_p1~ja",
+          "language": "ja",
+          "set": "OP06",
+          "rarity": "R",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP06-101_p1.png",
+          "cardSet": "双璧の覇者【OP-06】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP06-101_p2~ja",
+          "language": "ja",
+          "set": "OP07",
+          "rarity": "SP CARD",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP06-101_p2.png",
+          "cardSet": "500年後の未来【OP-07】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP06-101_p3~ja",
+          "language": "ja",
+          "set": "P",
+          "rarity": "R",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP06-101_p3.png",
+          "cardSet": "「ONE PIECE CARD GAME 2nd ANNIVERSARY COMPLETE GUIDE」限定特典カード",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "OP06-102",
       "name": "Kamakiri",
+      "names": {
+        "en": "Kamakiri",
+        "ja": "カマキリ"
+      },
       "category": "Character",
       "cost": 3,
       "power": 4000,
@@ -9695,12 +12875,29 @@
             }
           ],
           "artist": "Koushi Rokushiro"
+        },
+        {
+          "id": "OP06-102~ja",
+          "language": "ja",
+          "set": "OP06",
+          "rarity": "C",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP06-102.png",
+          "cardSet": "双璧の覇者【OP-06】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP06-103",
       "name": "Kawamatsu",
+      "names": {
+        "en": "Kawamatsu",
+        "ja": "河松"
+      },
       "category": "Character",
       "cost": 3,
       "power": 5000,
@@ -9788,12 +12985,42 @@
             }
           ],
           "artist": "Yasushi Yamaguchi"
+        },
+        {
+          "id": "OP06-103~ja",
+          "language": "ja",
+          "set": "OP06",
+          "rarity": "C",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP06-103.png",
+          "cardSet": "双璧の覇者【OP-06】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
+        },
+        {
+          "id": "OP06-103_r1~ja",
+          "language": "ja",
+          "set": "ST28",
+          "rarity": "C",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP06-103_r1.png",
+          "cardSet": "スタートデッキ 緑黄 ヤマト【ST-28】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP06-104",
       "name": "Kikunojo",
+      "names": {
+        "en": "Kikunojo",
+        "ja": "菊之丞"
+      },
       "category": "Character",
       "cost": 4,
       "power": 6000,
@@ -9881,12 +13108,52 @@
               "category": "retail"
             }
           ]
+        },
+        {
+          "id": "OP06-104~ja",
+          "language": "ja",
+          "set": "OP06",
+          "rarity": "R",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP06-104.png",
+          "cardSet": "双璧の覇者【OP-06】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP06-104_p1~ja",
+          "language": "ja",
+          "set": "OTHER",
+          "rarity": "R",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP06-104_p1.png",
+          "cardSet": "プレミアムカードコレクション - ベストセレクションvol.2 -",
+          "source": "bandai"
+        },
+        {
+          "id": "OP06-104_r1~ja",
+          "language": "ja",
+          "set": "ST28",
+          "rarity": "R",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP06-104_r1.png",
+          "cardSet": "スタートデッキ 緑黄 ヤマト【ST-28】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP06-105",
       "name": "Genbo",
+      "names": {
+        "en": "Genbo",
+        "ja": "ゲンボウ"
+      },
       "category": "Character",
       "cost": 3,
       "power": 5000,
@@ -9952,12 +13219,29 @@
             }
           ],
           "artist": "touge369"
+        },
+        {
+          "id": "OP06-105~ja",
+          "language": "ja",
+          "set": "OP06",
+          "rarity": "C",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP06-105.png",
+          "cardSet": "双璧の覇者【OP-06】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP06-106",
       "name": "Kouzuki Hiyori",
+      "names": {
+        "en": "Kouzuki Hiyori",
+        "ja": "光月日和"
+      },
       "category": "Character",
       "cost": 2,
       "counter": 2000,
@@ -10056,12 +13340,62 @@
           "source": "bandai",
           "artOf": "OP06-106",
           "artist": "Mayu Sakai"
+        },
+        {
+          "id": "OP06-106~ja",
+          "language": "ja",
+          "set": "OP06",
+          "rarity": "SR",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP06-106.png",
+          "cardSet": "双璧の覇者【OP-06】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP06-106_p1~ja",
+          "language": "ja",
+          "set": "OP06",
+          "rarity": "SR",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP06-106_p1.png",
+          "cardSet": "双璧の覇者【OP-06】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP06-106_p2~ja",
+          "language": "ja",
+          "set": "PRB01",
+          "rarity": "SR",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP06-106_p2.png",
+          "cardSet": "ONE PIECE CARD THE BEST【PRB-01】",
+          "source": "bandai"
+        },
+        {
+          "id": "OP06-106_r1~ja",
+          "language": "ja",
+          "set": "PRB01",
+          "rarity": "SR",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP06-106_r1.png",
+          "cardSet": "ONE PIECE CARD THE BEST【PRB-01】",
+          "source": "bandai"
         }
       ]
     },
     {
       "number": "OP06-107",
       "name": "Kouzuki Momonosuke",
+      "names": {
+        "en": "Kouzuki Momonosuke",
+        "ja": "光月モモの助"
+      },
       "category": "Character",
       "cost": 5,
       "power": 6000,
@@ -10151,12 +13485,55 @@
           ],
           "artOf": "OP06-107",
           "artist": "Nijihayashi"
+        },
+        {
+          "id": "OP06-107~ja",
+          "language": "ja",
+          "set": "OP06",
+          "rarity": "SR",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP06-107.png",
+          "cardSet": "双璧の覇者【OP-06】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP06-107_p1~ja",
+          "language": "ja",
+          "set": "OP06",
+          "rarity": "SR",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP06-107_p1.png",
+          "cardSet": "双璧の覇者【OP-06】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP06-107_r1~ja",
+          "language": "ja",
+          "set": "PRB02",
+          "rarity": "SR",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP06-107_r1.png",
+          "cardSet": "ONE PIECE CARD THE BEST vol.2【PRB-02】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "OP06-108",
       "name": "Tenguyama Hitetsu",
+      "names": {
+        "en": "Tenguyama Hitetsu",
+        "ja": "天狗山飛徹"
+      },
       "category": "Character",
       "cost": 1,
       "power": 2000,
@@ -10222,12 +13599,29 @@
             }
           ],
           "artist": "Yasushi Yamaguchi"
+        },
+        {
+          "id": "OP06-108~ja",
+          "language": "ja",
+          "set": "OP06",
+          "rarity": "C",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP06-108.png",
+          "cardSet": "双璧の覇者【OP-06】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP06-109",
       "name": "Denjiro",
+      "names": {
+        "en": "Denjiro",
+        "ja": "傳ジロー"
+      },
       "category": "Character",
       "cost": 5,
       "power": 6000,
@@ -10319,12 +13713,42 @@
             }
           ],
           "artist": "eiji kaneda"
+        },
+        {
+          "id": "OP06-109~ja",
+          "language": "ja",
+          "set": "OP06",
+          "rarity": "UC",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP06-109.png",
+          "cardSet": "双璧の覇者【OP-06】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
+        },
+        {
+          "id": "OP06-109_r1~ja",
+          "language": "ja",
+          "set": "ST28",
+          "rarity": "UC",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP06-109_r1.png",
+          "cardSet": "スタートデッキ 緑黄 ヤマト【ST-28】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP06-110",
       "name": "Nekomamushi",
+      "names": {
+        "en": "Nekomamushi",
+        "ja": "ネコマムシ"
+      },
       "category": "Character",
       "cost": 4,
       "power": 5000,
@@ -10655,12 +14079,85 @@
               "category": "championship"
             }
           ]
+        },
+        {
+          "id": "OP06-110~ja",
+          "language": "ja",
+          "set": "OP06",
+          "rarity": "UC",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP06-110.png",
+          "cardSet": "双璧の覇者【OP-06】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
+        },
+        {
+          "id": "OP06-110_p1~ja",
+          "language": "ja",
+          "set": "PRB01",
+          "rarity": "UC",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP06-110_p1.png",
+          "cardSet": "ONE PIECE CARD THE BEST【PRB-01】",
+          "source": "bandai"
+        },
+        {
+          "id": "OP06-110_p2~ja",
+          "language": "ja",
+          "set": "PRB01",
+          "rarity": "UC",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP06-110_p2.png",
+          "cardSet": "ONE PIECE CARD THE BEST【PRB-01】",
+          "source": "bandai"
+        },
+        {
+          "id": "OP06-110_p3~ja",
+          "language": "ja",
+          "set": "P",
+          "rarity": "UC",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP06-110_p3.png",
+          "cardSet": "ONE PIECEカードゲーム プロモーションパックVol.6",
+          "source": "bandai"
+        },
+        {
+          "id": "OP06-110_r1~ja",
+          "language": "ja",
+          "set": "PRB01",
+          "rarity": "UC",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP06-110_r1.png",
+          "cardSet": "ONE PIECE CARD THE BEST【PRB-01】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
+        },
+        {
+          "id": "OP06-110_r2~ja",
+          "language": "ja",
+          "set": "ST28",
+          "rarity": "UC",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP06-110_r2.png",
+          "cardSet": "スタートデッキ 緑黄 ヤマト【ST-28】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP06-111",
       "name": "Braham",
+      "names": {
+        "en": "Braham",
+        "ja": "ブラハム"
+      },
       "category": "Character",
       "cost": 3,
       "power": 4000,
@@ -10726,12 +14223,29 @@
             }
           ],
           "artist": "Koushi Rokushiro"
+        },
+        {
+          "id": "OP06-111~ja",
+          "language": "ja",
+          "set": "OP06",
+          "rarity": "C",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP06-111.png",
+          "cardSet": "双璧の覇者【OP-06】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP06-112",
       "name": "Raizo",
+      "names": {
+        "en": "Raizo",
+        "ja": "雷ぞう"
+      },
       "category": "Character",
       "cost": 3,
       "power": 4000,
@@ -10824,12 +14338,42 @@
             }
           ],
           "artist": "Misa Matoki"
+        },
+        {
+          "id": "OP06-112~ja",
+          "language": "ja",
+          "set": "OP06",
+          "rarity": "C",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP06-112.png",
+          "cardSet": "双璧の覇者【OP-06】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
+        },
+        {
+          "id": "OP06-112_r1~ja",
+          "language": "ja",
+          "set": "ST28",
+          "rarity": "C",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP06-112_r1.png",
+          "cardSet": "スタートデッキ 緑黄 ヤマト【ST-28】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP06-113",
       "name": "Raki",
+      "names": {
+        "en": "Raki",
+        "ja": "ラキ"
+      },
       "category": "Character",
       "cost": 1,
       "power": 1000,
@@ -10895,12 +14439,29 @@
             }
           ],
           "artist": "eiji kaneda"
+        },
+        {
+          "id": "OP06-113~ja",
+          "language": "ja",
+          "set": "OP06",
+          "rarity": "C",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP06-113.png",
+          "cardSet": "双璧の覇者【OP-06】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP06-114",
       "name": "Wyper",
+      "names": {
+        "en": "Wyper",
+        "ja": "ワイパー"
+      },
       "category": "Character",
       "cost": 5,
       "power": 7000,
@@ -11033,12 +14594,65 @@
             }
           ],
           "artist": "Morechand"
+        },
+        {
+          "id": "OP06-114~ja",
+          "language": "ja",
+          "set": "OP06",
+          "rarity": "UC",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP06-114.png",
+          "cardSet": "双璧の覇者【OP-06】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
+        },
+        {
+          "id": "OP06-114_p1~ja",
+          "language": "ja",
+          "set": "PRB01",
+          "rarity": "UC",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP06-114_p1.png",
+          "cardSet": "ONE PIECE CARD THE BEST【PRB-01】",
+          "source": "bandai"
+        },
+        {
+          "id": "OP06-114_p2~ja",
+          "language": "ja",
+          "set": "PRB01",
+          "rarity": "UC",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP06-114_p2.png",
+          "cardSet": "ONE PIECE CARD THE BEST【PRB-01】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP06-114_r1~ja",
+          "language": "ja",
+          "set": "PRB01",
+          "rarity": "UC",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP06-114_r1.png",
+          "cardSet": "ONE PIECE CARD THE BEST【PRB-01】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP06-115",
       "name": "You're the One Who Should Disappear.",
+      "names": {
+        "en": "You're the One Who Should Disappear.",
+        "ja": "お前が消えろ"
+      },
       "category": "Event",
       "colors": [
         "Yellow"
@@ -11120,12 +14734,55 @@
             "reprint"
           ],
           "artOf": "OP06-115"
+        },
+        {
+          "id": "OP06-115~ja",
+          "language": "ja",
+          "set": "OP06",
+          "rarity": "R",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP06-115.png",
+          "cardSet": "双璧の覇者【OP-06】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP06-115_p1~ja",
+          "language": "ja",
+          "set": "PRB02",
+          "rarity": "R",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP06-115_p1.png",
+          "cardSet": "ONE PIECE CARD THE BEST vol.2【PRB-02】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP06-115_r1~ja",
+          "language": "ja",
+          "set": "PRB02",
+          "rarity": "R",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP06-115_r1.png",
+          "cardSet": "ONE PIECE CARD THE BEST vol.2【PRB-02】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "OP06-116",
       "name": "Reject",
+      "names": {
+        "en": "Reject",
+        "ja": "排撃"
+      },
       "category": "Event",
       "cost": 4,
       "colors": [
@@ -11157,12 +14814,29 @@
             "match": "image-only-candidate",
             "distance": 6
           }
+        },
+        {
+          "id": "OP06-116~ja",
+          "language": "ja",
+          "set": "OP06",
+          "rarity": "R",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP06-116.png",
+          "cardSet": "双璧の覇者【OP-06】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "OP06-117",
       "name": "The Ark Maxim",
+      "names": {
+        "en": "The Ark Maxim",
+        "ja": "方舟マクシム"
+      },
       "category": "Stage",
       "cost": 1,
       "colors": [
@@ -11220,12 +14894,29 @@
               "category": "event"
             }
           ]
+        },
+        {
+          "id": "OP06-117~ja",
+          "language": "ja",
+          "set": "OP06",
+          "rarity": "C",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP06-117.png",
+          "cardSet": "双璧の覇者【OP-06】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP06-118",
       "name": "Roronoa Zoro",
+      "names": {
+        "en": "Roronoa Zoro",
+        "ja": "ロロノア・ゾロ"
+      },
       "category": "Character",
       "cost": 9,
       "power": 9000,
@@ -11405,12 +15096,92 @@
               "category": "retail"
             }
           ]
+        },
+        {
+          "id": "OP06-118~ja",
+          "language": "ja",
+          "set": "OP06",
+          "rarity": "SEC",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP06-118.png",
+          "cardSet": "双璧の覇者【OP-06】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP06-118_p1~ja",
+          "language": "ja",
+          "set": "OP06",
+          "rarity": "SEC",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP06-118_p1.png",
+          "cardSet": "双璧の覇者【OP-06】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP06-118_p2~ja",
+          "language": "ja",
+          "set": "OP06",
+          "rarity": "SEC",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP06-118_p2.png",
+          "cardSet": "双璧の覇者【OP-06】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP06-118_p4~ja",
+          "language": "ja",
+          "set": "OTHER",
+          "rarity": "SEC",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP06-118_p4.png",
+          "cardSet": "2nd ANNIVERSARY SET",
+          "source": "bandai"
+        },
+        {
+          "id": "OP06-118_r1~ja",
+          "language": "ja",
+          "set": "PRB01",
+          "rarity": "SEC",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP06-118_r1.png",
+          "cardSet": "ONE PIECE CARD THE BEST【PRB-01】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP06-118_r2~ja",
+          "language": "ja",
+          "set": "PRB02",
+          "rarity": "SEC",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP06-118_r2.png",
+          "cardSet": "ONE PIECE CARD THE BEST vol.2【PRB-02】",
+          "source": "bandai",
+          "finishes": [
+            "foil",
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP06-119",
       "name": "Sanji",
+      "names": {
+        "en": "Sanji",
+        "ja": "サンジ"
+      },
       "category": "Character",
       "cost": 9,
       "power": 9000,
@@ -11550,6 +15321,71 @@
           ],
           "artOf": "OP06-119",
           "artist": "NIJIMAARC"
+        },
+        {
+          "id": "OP06-119~ja",
+          "language": "ja",
+          "set": "OP06",
+          "rarity": "SEC",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP06-119.png",
+          "cardSet": "双璧の覇者【OP-06】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP06-119_p1~ja",
+          "language": "ja",
+          "set": "OP06",
+          "rarity": "SEC",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP06-119_p1.png",
+          "cardSet": "双璧の覇者【OP-06】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP06-119_p2~ja",
+          "language": "ja",
+          "set": "OP11",
+          "rarity": "SP CARD",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP06-119_p2.png",
+          "cardSet": "ブースターパック 神速の拳【OP-11】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP06-119_p3~ja",
+          "language": "ja",
+          "set": "PRB02",
+          "rarity": "SEC",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP06-119_p3.png",
+          "cardSet": "ONE PIECE CARD THE BEST vol.2【PRB-02】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP06-119_r1~ja",
+          "language": "ja",
+          "set": "PRB02",
+          "rarity": "SEC",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP06-119_r1.png",
+          "cardSet": "ONE PIECE CARD THE BEST vol.2【PRB-02】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     }

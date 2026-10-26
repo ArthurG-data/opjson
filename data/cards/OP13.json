@@ -3,6 +3,10 @@
     {
       "number": "OP13-001",
       "name": "Monkey.D.Luffy",
+      "names": {
+        "en": "Monkey.D.Luffy",
+        "ja": "モンキー・Ｄ・ルフィ"
+      },
       "category": "Leader",
       "power": 5000,
       "life": 4,
@@ -144,12 +148,49 @@
               "category": "retail"
             }
           ]
+        },
+        {
+          "id": "OP13-001~ja",
+          "language": "ja",
+          "set": "OP13",
+          "rarity": "L",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP13-001.png",
+          "cardSet": "受け継がれる意志【OP-13】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
+        },
+        {
+          "id": "OP13-001_p1~ja",
+          "language": "ja",
+          "set": "P",
+          "rarity": "L",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP13-001_p1.png",
+          "cardSet": "一番くじ ONE PIECE CARD GAME 購入者特典",
+          "source": "bandai"
+        },
+        {
+          "id": "OP13-001_p2~ja",
+          "language": "ja",
+          "set": "OP13",
+          "rarity": "L",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP13-001_p2.png",
+          "cardSet": "受け継がれる意志【OP-13】",
+          "source": "bandai"
         }
       ]
     },
     {
       "number": "OP13-002",
       "name": "Portgas.D.Ace",
+      "names": {
+        "en": "Portgas.D.Ace",
+        "ja": "ポートガス・Ｄ・エース"
+      },
       "category": "Leader",
       "power": 6000,
       "life": 3,
@@ -293,12 +334,42 @@
               "category": "event"
             }
           ]
+        },
+        {
+          "id": "OP13-002~ja",
+          "language": "ja",
+          "set": "OP13",
+          "rarity": "L",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP13-002.png",
+          "cardSet": "受け継がれる意志【OP-13】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
+        },
+        {
+          "id": "OP13-002_p1~ja",
+          "language": "ja",
+          "set": "OP13",
+          "rarity": "L",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP13-002_p1.png",
+          "cardSet": "受け継がれる意志【OP-13】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "OP13-003",
       "name": "Gol.D.Roger",
+      "names": {
+        "en": "Gol.D.Roger",
+        "ja": "ゴール・Ｄ・ロジャー"
+      },
       "category": "Leader",
       "power": 7000,
       "life": 5,
@@ -384,12 +455,42 @@
               "category": "card-stock"
             }
           ]
+        },
+        {
+          "id": "OP13-003~ja",
+          "language": "ja",
+          "set": "OP13",
+          "rarity": "L",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP13-003.png",
+          "cardSet": "受け継がれる意志【OP-13】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
+        },
+        {
+          "id": "OP13-003_p1~ja",
+          "language": "ja",
+          "set": "OP13",
+          "rarity": "L",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP13-003_p1.png",
+          "cardSet": "受け継がれる意志【OP-13】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "OP13-004",
       "name": "Sabo",
+      "names": {
+        "en": "Sabo",
+        "ja": "サボ"
+      },
       "category": "Leader",
       "power": 5000,
       "life": 5,
@@ -551,12 +652,65 @@
           "finishes": [
             "foil"
           ]
+        },
+        {
+          "id": "OP13-004~ja",
+          "language": "ja",
+          "set": "OP13",
+          "rarity": "L",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP13-004.png",
+          "cardSet": "受け継がれる意志【OP-13】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
+        },
+        {
+          "id": "OP13-004_p1~ja",
+          "language": "ja",
+          "set": "OP13",
+          "rarity": "L",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP13-004_p1.png",
+          "cardSet": "受け継がれる意志【OP-13】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP13-004_p2~ja",
+          "language": "ja",
+          "set": "ST35",
+          "rarity": "L",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP13-004_p2.png",
+          "cardSet": "スタートデッキ 赤黒 サボ【ST-35】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP13-004_p3~ja",
+          "language": "ja",
+          "set": "P",
+          "rarity": "L",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP13-004_p3.png",
+          "cardSet": "メラメラの実争奪戦 上位記念品",
+          "source": "bandai"
         }
       ]
     },
     {
       "number": "OP13-005",
       "name": "Inazuma",
+      "names": {
+        "en": "Inazuma",
+        "ja": "イナズマ"
+      },
       "category": "Character",
       "cost": 4,
       "power": 5000,
@@ -635,12 +789,42 @@
             }
           ],
           "artist": "SHINRA AGENCY Co. Ltd."
+        },
+        {
+          "id": "OP13-005~ja",
+          "language": "ja",
+          "set": "OP13",
+          "rarity": "UC",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP13-005.png",
+          "cardSet": "受け継がれる意志【OP-13】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
+        },
+        {
+          "id": "OP13-005_r1~ja",
+          "language": "ja",
+          "set": "ST35",
+          "rarity": "UC",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP13-005_r1.png",
+          "cardSet": "スタートデッキ 赤黒 サボ【ST-35】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP13-006",
       "name": "Woop Slap",
+      "names": {
+        "en": "Woop Slap",
+        "ja": "ウープ・スラップ"
+      },
       "category": "Character",
       "cost": 1,
       "counter": 1000,
@@ -704,12 +888,29 @@
             }
           ],
           "artist": "S-KINOKO"
+        },
+        {
+          "id": "OP13-006~ja",
+          "language": "ja",
+          "set": "OP13",
+          "rarity": "C",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP13-006.png",
+          "cardSet": "受け継がれる意志【OP-13】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP13-007",
       "name": "Ace & Sabo & Luffy",
+      "names": {
+        "en": "Ace & Sabo & Luffy",
+        "ja": "エース＆サボ＆ルフィ"
+      },
       "category": "Character",
       "cost": 1,
       "power": 1000,
@@ -802,12 +1003,42 @@
               "category": "retail"
             }
           ]
+        },
+        {
+          "id": "OP13-007~ja",
+          "language": "ja",
+          "set": "OP13",
+          "rarity": "SR",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP13-007.png",
+          "cardSet": "受け継がれる意志【OP-13】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP13-007_p1~ja",
+          "language": "ja",
+          "set": "OP13",
+          "rarity": "SR",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP13-007_p1.png",
+          "cardSet": "受け継がれる意志【OP-13】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "OP13-008",
       "name": "Emporio.Ivankov",
+      "names": {
+        "en": "Emporio.Ivankov",
+        "ja": "エンポリオ・イワンコフ"
+      },
       "category": "Character",
       "cost": 2,
       "power": 3000,
@@ -886,12 +1117,42 @@
             }
           ],
           "artist": "S-KINOKO"
+        },
+        {
+          "id": "OP13-008~ja",
+          "language": "ja",
+          "set": "OP13",
+          "rarity": "C",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP13-008.png",
+          "cardSet": "受け継がれる意志【OP-13】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
+        },
+        {
+          "id": "OP13-008_r1~ja",
+          "language": "ja",
+          "set": "ST35",
+          "rarity": "C",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP13-008_r1.png",
+          "cardSet": "スタートデッキ 赤黒 サボ【ST-35】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP13-009",
       "name": "Curly.Dadan",
+      "names": {
+        "en": "Curly.Dadan",
+        "ja": "カーリー・ダダン"
+      },
       "category": "Character",
       "cost": 1,
       "power": 2000,
@@ -956,12 +1217,29 @@
             }
           ],
           "artist": "UGUME"
+        },
+        {
+          "id": "OP13-009~ja",
+          "language": "ja",
+          "set": "OP13",
+          "rarity": "C",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP13-009.png",
+          "cardSet": "受け継がれる意志【OP-13】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP13-010",
       "name": "Lord of the Coast",
+      "names": {
+        "en": "Lord of the Coast",
+        "ja": "近海の主"
+      },
       "category": "Character",
       "cost": 6,
       "power": 8000,
@@ -1027,12 +1305,29 @@
             }
           ],
           "artist": "Ryo Nakama"
+        },
+        {
+          "id": "OP13-010~ja",
+          "language": "ja",
+          "set": "OP13",
+          "rarity": "C",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP13-010.png",
+          "cardSet": "受け継がれる意志【OP-13】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP13-011",
       "name": "Nefeltari Cobra",
+      "names": {
+        "en": "Nefeltari Cobra",
+        "ja": "ネフェルタリ・コブラ"
+      },
       "category": "Character",
       "cost": 5,
       "power": 6000,
@@ -1097,12 +1392,29 @@
             }
           ],
           "artist": "Aidle Co. Ltd."
+        },
+        {
+          "id": "OP13-011~ja",
+          "language": "ja",
+          "set": "OP13",
+          "rarity": "UC",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP13-011.png",
+          "cardSet": "受け継がれる意志【OP-13】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP13-012",
       "name": "Nefeltari Vivi",
+      "names": {
+        "en": "Nefeltari Vivi",
+        "ja": "ネフェルタリ・ビビ"
+      },
       "category": "Character",
       "cost": 1,
       "power": 2000,
@@ -1191,12 +1503,39 @@
               "category": "program"
             }
           ]
+        },
+        {
+          "id": "OP13-012~ja",
+          "language": "ja",
+          "set": "OP13",
+          "rarity": "R",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP13-012.png",
+          "cardSet": "受け継がれる意志【OP-13】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP13-012_p1~ja",
+          "language": "ja",
+          "set": "OTHER",
+          "rarity": "R",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP13-012_p1.png",
+          "cardSet": "オフィシャルプレイマット ネフェルタリ・ビビ",
+          "source": "bandai"
         }
       ]
     },
     {
       "number": "OP13-013",
       "name": "Higuma",
+      "names": {
+        "en": "Higuma",
+        "ja": "ヒグマ"
+      },
       "category": "Character",
       "cost": 1,
       "power": 3000,
@@ -1260,12 +1599,29 @@
             }
           ],
           "artist": "Ryo Nakama"
+        },
+        {
+          "id": "OP13-013~ja",
+          "language": "ja",
+          "set": "OP13",
+          "rarity": "C",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP13-013.png",
+          "cardSet": "受け継がれる意志【OP-13】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP13-014",
       "name": "Portgas.D.Rouge",
+      "names": {
+        "en": "Portgas.D.Rouge",
+        "ja": "ポートガス・Ｄ・ルージュ"
+      },
       "category": "Character",
       "cost": 1,
       "counter": 2000,
@@ -1329,12 +1685,29 @@
             }
           ],
           "artist": "Sunohara"
+        },
+        {
+          "id": "OP13-014~ja",
+          "language": "ja",
+          "set": "OP13",
+          "rarity": "C",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP13-014.png",
+          "cardSet": "受け継がれる意志【OP-13】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP13-015",
       "name": "Makino",
+      "names": {
+        "en": "Makino",
+        "ja": "マキノ"
+      },
       "category": "Character",
       "cost": 1,
       "counter": 2000,
@@ -1398,12 +1771,29 @@
             }
           ],
           "artist": "Haru Miyajima"
+        },
+        {
+          "id": "OP13-015~ja",
+          "language": "ja",
+          "set": "OP13",
+          "rarity": "UC",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP13-015.png",
+          "cardSet": "受け継がれる意志【OP-13】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP13-016",
       "name": "Monkey.D.Garp",
+      "names": {
+        "en": "Monkey.D.Garp",
+        "ja": "モンキー・Ｄ・ガープ"
+      },
       "category": "Character",
       "cost": 1,
       "power": 2000,
@@ -1492,12 +1882,42 @@
               "category": "championship"
             }
           ]
+        },
+        {
+          "id": "OP13-016~ja",
+          "language": "ja",
+          "set": "OP13",
+          "rarity": "R",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP13-016.png",
+          "cardSet": "受け継がれる意志【OP-13】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP13-016_p1~ja",
+          "language": "ja",
+          "set": "OP13",
+          "rarity": "R",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP13-016_p1.png",
+          "cardSet": "受け継がれる意志【OP-13】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "OP13-017",
       "name": "Monkey.D.Dragon",
+      "names": {
+        "en": "Monkey.D.Dragon",
+        "ja": "モンキー・Ｄ・ドラゴン"
+      },
       "category": "Character",
       "cost": 6,
       "power": 7000,
@@ -1558,12 +1978,42 @@
           },
           "artOf": "OP13-017",
           "artist": "S-KINOKO"
+        },
+        {
+          "id": "OP13-017~ja",
+          "language": "ja",
+          "set": "OP13",
+          "rarity": "R",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP13-017.png",
+          "cardSet": "受け継がれる意志【OP-13】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP13-017_r1~ja",
+          "language": "ja",
+          "set": "ST35",
+          "rarity": "R",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP13-017_r1.png",
+          "cardSet": "スタートデッキ 赤黒 サボ【ST-35】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP13-018",
       "name": "Wapol",
+      "names": {
+        "en": "Wapol",
+        "ja": "ワポル"
+      },
       "category": "Character",
       "cost": 6,
       "power": 7000,
@@ -1628,12 +2078,29 @@
             }
           ],
           "artist": "Tanaka Kenichi"
+        },
+        {
+          "id": "OP13-018~ja",
+          "language": "ja",
+          "set": "OP13",
+          "rarity": "UC",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP13-018.png",
+          "cardSet": "受け継がれる意志【OP-13】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP13-019",
       "name": "But Ace Here Said You Deserved It!!",
+      "names": {
+        "en": "But Ace Here Said You Deserved It!!",
+        "ja": "“火炎”が許さねェってよ!!"
+      },
       "category": "Event",
       "cost": 1,
       "colors": [
@@ -1717,12 +2184,52 @@
               "category": "retail"
             }
           ]
+        },
+        {
+          "id": "OP13-019~ja",
+          "language": "ja",
+          "set": "OP13",
+          "rarity": "R",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP13-019.png",
+          "cardSet": "受け継がれる意志【OP-13】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP13-019_p1~ja",
+          "language": "ja",
+          "set": "P",
+          "rarity": "R",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP13-019_p1.png",
+          "cardSet": "3周年！ワンピースカードトレジャーキャンペーンパック",
+          "source": "bandai"
+        },
+        {
+          "id": "OP13-019_p2~ja",
+          "language": "ja",
+          "set": "ST35",
+          "rarity": "R",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP13-019_p2.png",
+          "cardSet": "スタートデッキ 赤黒 サボ【ST-35】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP13-020",
       "name": "Meteor Fist",
+      "names": {
+        "en": "Meteor Fist",
+        "ja": "拳・骨・隕石"
+      },
       "category": "Event",
       "cost": 3,
       "colors": [
@@ -1780,12 +2287,29 @@
               "category": "anniversary"
             }
           ]
+        },
+        {
+          "id": "OP13-020~ja",
+          "language": "ja",
+          "set": "OP13",
+          "rarity": "UC",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP13-020.png",
+          "cardSet": "受け継がれる意志【OP-13】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP13-021",
       "name": "Gum-Gum Gatling Gun",
+      "names": {
+        "en": "Gum-Gum Gatling Gun",
+        "ja": "ゴムゴムの銃乱打"
+      },
       "category": "Event",
       "cost": 1,
       "colors": [
@@ -1856,12 +2380,42 @@
               "category": "anniversary"
             }
           ]
+        },
+        {
+          "id": "OP13-021~ja",
+          "language": "ja",
+          "set": "OP13",
+          "rarity": "C",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP13-021.png",
+          "cardSet": "受け継がれる意志【OP-13】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
+        },
+        {
+          "id": "OP13-021_r1~ja",
+          "language": "ja",
+          "set": "ST31",
+          "rarity": "C",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP13-021_r1.png",
+          "cardSet": "スタートデッキ 赤 モンキー・D・ルフィ【ST-31】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP13-022",
       "name": "Windmill Village",
+      "names": {
+        "en": "Windmill Village",
+        "ja": "フーシャ村"
+      },
       "category": "Stage",
       "cost": 1,
       "colors": [
@@ -1919,12 +2473,29 @@
               "category": "anniversary"
             }
           ]
+        },
+        {
+          "id": "OP13-022~ja",
+          "language": "ja",
+          "set": "OP13",
+          "rarity": "C",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP13-022.png",
+          "cardSet": "受け継がれる意志【OP-13】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP13-023",
       "name": "Uta",
+      "names": {
+        "en": "Uta",
+        "ja": "ウタ"
+      },
       "category": "Character",
       "cost": 4,
       "power": 5000,
@@ -1987,12 +2558,42 @@
             "alternate_art"
           ],
           "artist": "Hokuyuu"
+        },
+        {
+          "id": "OP13-023~ja",
+          "language": "ja",
+          "set": "OP13",
+          "rarity": "SR",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP13-023.png",
+          "cardSet": "受け継がれる意志【OP-13】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP13-023_p1~ja",
+          "language": "ja",
+          "set": "OP13",
+          "rarity": "SR",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP13-023_p1.png",
+          "cardSet": "受け継がれる意志【OP-13】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "OP13-024",
       "name": "Gordon",
+      "names": {
+        "en": "Gordon",
+        "ja": "ゴードン"
+      },
       "category": "Character",
       "cost": 1,
       "counter": 2000,
@@ -2082,12 +2683,29 @@
               "category": "program"
             }
           ]
+        },
+        {
+          "id": "OP13-024~ja",
+          "language": "ja",
+          "set": "OP13",
+          "rarity": "C",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP13-024.png",
+          "cardSet": "受け継がれる意志【OP-13】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP13-025",
       "name": "Koby",
+      "names": {
+        "en": "Koby",
+        "ja": "コビー"
+      },
       "category": "Character",
       "cost": 5,
       "power": 6000,
@@ -2153,12 +2771,29 @@
             }
           ],
           "artist": "Koushi Rokushiro"
+        },
+        {
+          "id": "OP13-025~ja",
+          "language": "ja",
+          "set": "OP13",
+          "rarity": "C",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP13-025.png",
+          "cardSet": "受け継がれる意志【OP-13】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP13-026",
       "name": "Sunny-Kun",
+      "names": {
+        "en": "Sunny-Kun",
+        "ja": "サニーくん"
+      },
       "category": "Character",
       "cost": 1,
       "power": 2000,
@@ -2224,12 +2859,29 @@
             }
           ],
           "artist": "kito"
+        },
+        {
+          "id": "OP13-026~ja",
+          "language": "ja",
+          "set": "OP13",
+          "rarity": "C",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP13-026.png",
+          "cardSet": "受け継がれる意志【OP-13】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP13-027",
       "name": "Sanji",
+      "names": {
+        "en": "Sanji",
+        "ja": "サンジ"
+      },
       "category": "Character",
       "cost": 5,
       "power": 7000,
@@ -2292,12 +2944,42 @@
             "alternate_art"
           ],
           "artist": "Yosuke Adachi"
+        },
+        {
+          "id": "OP13-027~ja",
+          "language": "ja",
+          "set": "OP13",
+          "rarity": "R",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP13-027.png",
+          "cardSet": "受け継がれる意志【OP-13】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP13-027_p1~ja",
+          "language": "ja",
+          "set": "OP13",
+          "rarity": "R",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP13-027_p1.png",
+          "cardSet": "受け継がれる意志【OP-13】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "OP13-028",
       "name": "Shanks",
+      "names": {
+        "en": "Shanks",
+        "ja": "シャンクス"
+      },
       "category": "Character",
       "cost": 10,
       "power": 12000,
@@ -2387,12 +3069,55 @@
             "sp"
           ],
           "artist": "Bashikou"
+        },
+        {
+          "id": "OP13-028~ja",
+          "language": "ja",
+          "set": "OP13",
+          "rarity": "SR",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP13-028.png",
+          "cardSet": "受け継がれる意志【OP-13】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP13-028_p1~ja",
+          "language": "ja",
+          "set": "OP13",
+          "rarity": "SR",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP13-028_p1.png",
+          "cardSet": "受け継がれる意志【OP-13】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP13-028_p2~ja",
+          "language": "ja",
+          "set": "OP17",
+          "rarity": "SP CARD",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP13-028_p2.png",
+          "cardSet": "ブースターパック 世界最強の戦士【OP-17】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "OP13-029",
       "name": "Jinbe",
+      "names": {
+        "en": "Jinbe",
+        "ja": "ジンベエ"
+      },
       "category": "Character",
       "cost": 6,
       "power": 7000,
@@ -2459,12 +3184,29 @@
             }
           ],
           "artist": "touge369"
+        },
+        {
+          "id": "OP13-029~ja",
+          "language": "ja",
+          "set": "OP13",
+          "rarity": "UC",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP13-029.png",
+          "cardSet": "受け継がれる意志【OP-13】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP13-030",
       "name": "Tony Tony.Chopper",
+      "names": {
+        "en": "Tony Tony.Chopper",
+        "ja": "トニートニー・チョッパー"
+      },
       "category": "Character",
       "cost": 5,
       "power": 6000,
@@ -2531,12 +3273,29 @@
             }
           ],
           "artist": "Nekobayashi"
+        },
+        {
+          "id": "OP13-030~ja",
+          "language": "ja",
+          "set": "OP13",
+          "rarity": "UC",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP13-030.png",
+          "cardSet": "受け継がれる意志【OP-13】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP13-031",
       "name": "Trafalgar Law",
+      "names": {
+        "en": "Trafalgar Law",
+        "ja": "トラファルガー・ロー"
+      },
       "category": "Character",
       "cost": 6,
       "power": 6000,
@@ -2600,12 +3359,42 @@
             "sp"
           ],
           "artist": "Hashimoto Q"
+        },
+        {
+          "id": "OP13-031~ja",
+          "language": "ja",
+          "set": "OP13",
+          "rarity": "R",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP13-031.png",
+          "cardSet": "受け継がれる意志【OP-13】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP13-031_p1~ja",
+          "language": "ja",
+          "set": "OP15",
+          "rarity": "SP CARD",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP13-031_p1.png",
+          "cardSet": "ブースターパック 神の島の冒険【OP-15】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "OP13-032",
       "name": "Nico Robin",
+      "names": {
+        "en": "Nico Robin",
+        "ja": "ニコ・ロビン"
+      },
       "category": "Character",
       "cost": 7,
       "power": 7000,
@@ -2671,12 +3460,29 @@
             }
           ],
           "artist": "Koushi Rokushiro"
+        },
+        {
+          "id": "OP13-032~ja",
+          "language": "ja",
+          "set": "OP13",
+          "rarity": "UC",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP13-032.png",
+          "cardSet": "受け継がれる意志【OP-13】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP13-033",
       "name": "Franky",
+      "names": {
+        "en": "Franky",
+        "ja": "フランキー"
+      },
       "category": "Character",
       "cost": 3,
       "power": 5000,
@@ -2741,12 +3547,29 @@
             }
           ],
           "artist": "kankurou"
+        },
+        {
+          "id": "OP13-033~ja",
+          "language": "ja",
+          "set": "OP13",
+          "rarity": "C",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP13-033.png",
+          "cardSet": "受け継がれる意志【OP-13】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP13-034",
       "name": "Brook",
+      "names": {
+        "en": "Brook",
+        "ja": "ブルック"
+      },
       "category": "Character",
       "cost": 3,
       "power": 4000,
@@ -2812,12 +3635,29 @@
             }
           ],
           "artist": "Nekobayashi"
+        },
+        {
+          "id": "OP13-034~ja",
+          "language": "ja",
+          "set": "OP13",
+          "rarity": "C",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP13-034.png",
+          "cardSet": "受け継がれる意志【OP-13】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP13-035",
       "name": "Bepo",
+      "names": {
+        "en": "Bepo",
+        "ja": "ベポ"
+      },
       "category": "Character",
       "cost": 5,
       "power": 7000,
@@ -2883,12 +3723,29 @@
             }
           ],
           "artist": "touge369"
+        },
+        {
+          "id": "OP13-035~ja",
+          "language": "ja",
+          "set": "OP13",
+          "rarity": "C",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP13-035.png",
+          "cardSet": "受け継がれる意志【OP-13】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP13-036",
       "name": "Helmeppo",
+      "names": {
+        "en": "Helmeppo",
+        "ja": "ヘルメッポ"
+      },
       "category": "Character",
       "cost": 5,
       "power": 6000,
@@ -2954,12 +3811,29 @@
             }
           ],
           "artist": "touge369"
+        },
+        {
+          "id": "OP13-036~ja",
+          "language": "ja",
+          "set": "OP13",
+          "rarity": "UC",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP13-036.png",
+          "cardSet": "受け継がれる意志【OP-13】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP13-037",
       "name": "Roronoa Zoro",
+      "names": {
+        "en": "Roronoa Zoro",
+        "ja": "ロロノア・ゾロ"
+      },
       "category": "Character",
       "cost": 4,
       "power": 5000,
@@ -3050,12 +3924,39 @@
             }
           ],
           "artist": "Studio Vigor Co. Ltd"
+        },
+        {
+          "id": "OP13-037~ja",
+          "language": "ja",
+          "set": "OP13",
+          "rarity": "R",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP13-037.png",
+          "cardSet": "受け継がれる意志【OP-13】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP13-037_p1~ja",
+          "language": "ja",
+          "set": "OTHER",
+          "rarity": "R",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP13-037_p1.png",
+          "cardSet": "プレミアムカードコレクション - ベストセレクション vol.6 -",
+          "source": "bandai"
         }
       ]
     },
     {
       "number": "OP13-038",
       "name": "Gum-Gum Elephant Gun",
+      "names": {
+        "en": "Gum-Gum Elephant Gun",
+        "ja": "ゴムゴムの象銃"
+      },
       "category": "Event",
       "cost": 2,
       "colors": [
@@ -3114,12 +4015,29 @@
               "category": "anniversary"
             }
           ]
+        },
+        {
+          "id": "OP13-038~ja",
+          "language": "ja",
+          "set": "OP13",
+          "rarity": "UC",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP13-038.png",
+          "cardSet": "受け継がれる意志【OP-13】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP13-039",
       "name": "Gum-Gum Snake Shot",
+      "names": {
+        "en": "Gum-Gum Snake Shot",
+        "ja": "ゴムゴムの蛇銃"
+      },
       "category": "Event",
       "cost": 2,
       "colors": [
@@ -3179,12 +4097,29 @@
               "category": "anniversary"
             }
           ]
+        },
+        {
+          "id": "OP13-039~ja",
+          "language": "ja",
+          "set": "OP13",
+          "rarity": "C",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP13-039.png",
+          "cardSet": "受け継がれる意志【OP-13】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP13-040",
       "name": "I Know You're Strong... So I'll Go All Out from the Very Start!!!",
+      "names": {
+        "en": "I Know You're Strong... So I'll Go All Out from the Very Start!!!",
+        "ja": "強ェとわかってんだから… 始めから全開だ!!!"
+      },
       "category": "Event",
       "cost": 1,
       "colors": [
@@ -3298,12 +4233,39 @@
               "category": "placement"
             }
           ]
+        },
+        {
+          "id": "OP13-040~ja",
+          "language": "ja",
+          "set": "OP13",
+          "rarity": "R",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP13-040.png",
+          "cardSet": "受け継がれる意志【OP-13】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP13-040_p1~ja",
+          "language": "ja",
+          "set": "P",
+          "rarity": "R",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP13-040_p1.png",
+          "cardSet": "3周年！ワンピースカードトレジャーキャンペーンパック",
+          "source": "bandai"
         }
       ]
     },
     {
       "number": "OP13-041",
       "name": "Izo",
+      "names": {
+        "en": "Izo",
+        "ja": "イゾウ"
+      },
       "category": "Character",
       "cost": 6,
       "power": 6000,
@@ -3369,12 +4331,29 @@
             }
           ],
           "artist": "Studio Vigor Co. Ltd"
+        },
+        {
+          "id": "OP13-041~ja",
+          "language": "ja",
+          "set": "OP13",
+          "rarity": "UC",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP13-041.png",
+          "cardSet": "受け継がれる意志【OP-13】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP13-042",
       "name": "Edward.Newgate",
+      "names": {
+        "en": "Edward.Newgate",
+        "ja": "エドワード・ニューゲート"
+      },
       "category": "Character",
       "cost": 10,
       "power": 12000,
@@ -3463,12 +4442,55 @@
             "sp"
           ],
           "artist": "Katsuo Tadano"
+        },
+        {
+          "id": "OP13-042~ja",
+          "language": "ja",
+          "set": "OP13",
+          "rarity": "SR",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP13-042.png",
+          "cardSet": "受け継がれる意志【OP-13】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP13-042_p1~ja",
+          "language": "ja",
+          "set": "OP13",
+          "rarity": "SR",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP13-042_p1.png",
+          "cardSet": "受け継がれる意志【OP-13】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP13-042_p2~ja",
+          "language": "ja",
+          "set": "OP15",
+          "rarity": "SP CARD",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP13-042_p2.png",
+          "cardSet": "ブースターパック 神の島の冒険【OP-15】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "OP13-043",
       "name": "Otama",
+      "names": {
+        "en": "Otama",
+        "ja": "お玉"
+      },
       "category": "Character",
       "cost": 1,
       "counter": 2000,
@@ -3559,12 +4581,42 @@
               "category": "retail"
             }
           ]
+        },
+        {
+          "id": "OP13-043~ja",
+          "language": "ja",
+          "set": "OP13",
+          "rarity": "R",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP13-043.png",
+          "cardSet": "受け継がれる意志【OP-13】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP13-043_p1~ja",
+          "language": "ja",
+          "set": "OTHER",
+          "rarity": "R",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP13-043_p1.png",
+          "cardSet": "プレミアムカードコレクション - ベストセレクション vol.6 -",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "OP13-044",
       "name": "Curiel",
+      "names": {
+        "en": "Curiel",
+        "ja": "クリエル"
+      },
       "category": "Character",
       "cost": 3,
       "power": 4000,
@@ -3628,12 +4680,29 @@
             }
           ],
           "artist": "Studio Vigor Co. Ltd"
+        },
+        {
+          "id": "OP13-044~ja",
+          "language": "ja",
+          "set": "OP13",
+          "rarity": "C",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP13-044.png",
+          "cardSet": "受け継がれる意志【OP-13】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP13-045",
       "name": "Haruta",
+      "names": {
+        "en": "Haruta",
+        "ja": "ハルタ"
+      },
       "category": "Character",
       "cost": 1,
       "power": 2000,
@@ -3698,12 +4767,29 @@
             }
           ],
           "artist": "Suzume Muraichi"
+        },
+        {
+          "id": "OP13-045~ja",
+          "language": "ja",
+          "set": "OP13",
+          "rarity": "C",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP13-045.png",
+          "cardSet": "受け継がれる意志【OP-13】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP13-046",
       "name": "Vista",
+      "names": {
+        "en": "Vista",
+        "ja": "ビスタ"
+      },
       "category": "Character",
       "cost": 6,
       "power": 8000,
@@ -3823,12 +4909,39 @@
               "category": "placement"
             }
           ]
+        },
+        {
+          "id": "OP13-046~ja",
+          "language": "ja",
+          "set": "OP13",
+          "rarity": "R",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP13-046.png",
+          "cardSet": "受け継がれる意志【OP-13】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP13-046_p1~ja",
+          "language": "ja",
+          "set": "P",
+          "rarity": "R",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP13-046_p1.png",
+          "cardSet": "プロモーションパックVol.9",
+          "source": "bandai"
         }
       ]
     },
     {
       "number": "OP13-047",
       "name": "Fossa",
+      "names": {
+        "en": "Fossa",
+        "ja": "フォッサ"
+      },
       "category": "Character",
       "cost": 2,
       "power": 3000,
@@ -3893,12 +5006,29 @@
             }
           ],
           "artist": "Aidle Co. Ltd."
+        },
+        {
+          "id": "OP13-047~ja",
+          "language": "ja",
+          "set": "OP13",
+          "rarity": "C",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP13-047.png",
+          "cardSet": "受け継がれる意志【OP-13】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP13-048",
       "name": "Blamenco",
+      "names": {
+        "en": "Blamenco",
+        "ja": "ブラメンコ"
+      },
       "category": "Character",
       "cost": 5,
       "power": 6000,
@@ -3963,12 +5093,29 @@
             }
           ],
           "artist": "Studio Vigor Co. Ltd"
+        },
+        {
+          "id": "OP13-048~ja",
+          "language": "ja",
+          "set": "OP13",
+          "rarity": "UC",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP13-048.png",
+          "cardSet": "受け継がれる意志【OP-13】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP13-049",
       "name": "Blenheim",
+      "names": {
+        "en": "Blenheim",
+        "ja": "ブレンハイム"
+      },
       "category": "Character",
       "cost": 6,
       "power": 7000,
@@ -4033,12 +5180,29 @@
             }
           ],
           "artist": "Katsuo Tadano"
+        },
+        {
+          "id": "OP13-049~ja",
+          "language": "ja",
+          "set": "OP13",
+          "rarity": "UC",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP13-049.png",
+          "cardSet": "受け継がれる意志【OP-13】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP13-050",
       "name": "Boa Sandersonia",
+      "names": {
+        "en": "Boa Sandersonia",
+        "ja": "ボア・サンダーソニア"
+      },
       "category": "Character",
       "cost": 2,
       "power": 3000,
@@ -4103,12 +5267,29 @@
             }
           ],
           "artist": "UGUME"
+        },
+        {
+          "id": "OP13-050~ja",
+          "language": "ja",
+          "set": "OP13",
+          "rarity": "C",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP13-050.png",
+          "cardSet": "受け継がれる意志【OP-13】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP13-051",
       "name": "Boa Hancock",
+      "names": {
+        "en": "Boa Hancock",
+        "ja": "ボア・ハンコック"
+      },
       "category": "Character",
       "cost": 3,
       "power": 5000,
@@ -4171,12 +5352,42 @@
             "alternate_art"
           ],
           "artist": "Naruse Uroko"
+        },
+        {
+          "id": "OP13-051~ja",
+          "language": "ja",
+          "set": "OP13",
+          "rarity": "R",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP13-051.png",
+          "cardSet": "受け継がれる意志【OP-13】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP13-051_p1~ja",
+          "language": "ja",
+          "set": "OP13",
+          "rarity": "R",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP13-051_p1.png",
+          "cardSet": "受け継がれる意志【OP-13】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "OP13-052",
       "name": "Boa Marigold",
+      "names": {
+        "en": "Boa Marigold",
+        "ja": "ボア・マリーゴールド"
+      },
       "category": "Character",
       "cost": 5,
       "power": 4000,
@@ -4241,12 +5452,29 @@
             }
           ],
           "artist": "SHINRA AGENCY Co. Ltd."
+        },
+        {
+          "id": "OP13-052~ja",
+          "language": "ja",
+          "set": "OP13",
+          "rarity": "UC",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP13-052.png",
+          "cardSet": "受け継がれる意志【OP-13】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP13-053",
       "name": "Marshall.D.Teach",
+      "names": {
+        "en": "Marshall.D.Teach",
+        "ja": "マーシャル・Ｄ・ティーチ"
+      },
       "category": "Character",
       "cost": 4,
       "power": 5000,
@@ -4311,12 +5539,29 @@
             }
           ],
           "artist": "Aidle Co. Ltd."
+        },
+        {
+          "id": "OP13-053~ja",
+          "language": "ja",
+          "set": "OP13",
+          "rarity": "C",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP13-053.png",
+          "cardSet": "受け継がれる意志【OP-13】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP13-054",
       "name": "Yamato",
+      "names": {
+        "en": "Yamato",
+        "ja": "ヤマト"
+      },
       "category": "Character",
       "cost": 5,
       "power": 6000,
@@ -4379,12 +5624,42 @@
             "alternate_art"
           ],
           "artist": "NAKAuMA"
+        },
+        {
+          "id": "OP13-054~ja",
+          "language": "ja",
+          "set": "OP13",
+          "rarity": "SR",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP13-054.png",
+          "cardSet": "受け継がれる意志【OP-13】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP13-054_p1~ja",
+          "language": "ja",
+          "set": "OP13",
+          "rarity": "SR",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP13-054_p1.png",
+          "cardSet": "受け継がれる意志【OP-13】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "OP13-055",
       "name": "Rakuyo",
+      "names": {
+        "en": "Rakuyo",
+        "ja": "ラクヨウ"
+      },
       "category": "Character",
       "cost": 3,
       "power": 4000,
@@ -4449,12 +5724,29 @@
             }
           ],
           "artist": "ASAKI KURODA"
+        },
+        {
+          "id": "OP13-055~ja",
+          "language": "ja",
+          "set": "OP13",
+          "rarity": "C",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP13-055.png",
+          "cardSet": "受け継がれる意志【OP-13】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP13-056",
       "name": "LittleOars Jr.",
+      "names": {
+        "en": "LittleOars Jr.",
+        "ja": "リトルオーズJr."
+      },
       "category": "Character",
       "cost": 7,
       "power": 7000,
@@ -4520,12 +5812,29 @@
             }
           ],
           "artist": "nukadokomogera"
+        },
+        {
+          "id": "OP13-056~ja",
+          "language": "ja",
+          "set": "OP13",
+          "rarity": "C",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP13-056.png",
+          "cardSet": "受け継がれる意志【OP-13】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP13-057",
       "name": "If I Bowed Down to Power, What's the Point in Living?",
+      "names": {
+        "en": "If I Bowed Down to Power, What's the Point in Living?",
+        "ja": "“力”に屈したら男に生まれた意味がねェだろう"
+      },
       "category": "Event",
       "cost": 1,
       "colors": [
@@ -4586,12 +5895,39 @@
               "category": "retail"
             }
           ]
+        },
+        {
+          "id": "OP13-057~ja",
+          "language": "ja",
+          "set": "OP13",
+          "rarity": "R",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP13-057.png",
+          "cardSet": "受け継がれる意志【OP-13】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP13-057_p1~ja",
+          "language": "ja",
+          "set": "P",
+          "rarity": "R",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP13-057_p1.png",
+          "cardSet": "3周年！ワンピースカードトレジャーキャンペーンパック",
+          "source": "bandai"
         }
       ]
     },
     {
       "number": "OP13-058",
       "name": "Phoenix Pyreapple",
+      "names": {
+        "en": "Phoenix Pyreapple",
+        "ja": "鳳梨礫"
+      },
       "category": "Event",
       "cost": 1,
       "colors": [
@@ -4649,12 +5985,29 @@
               "category": "anniversary"
             }
           ]
+        },
+        {
+          "id": "OP13-058~ja",
+          "language": "ja",
+          "set": "OP13",
+          "rarity": "UC",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP13-058.png",
+          "cardSet": "受け継がれる意志【OP-13】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP13-059",
       "name": "Brilliant Punk",
+      "names": {
+        "en": "Brilliant Punk",
+        "ja": "ブリリアント・パンク"
+      },
       "category": "Event",
       "cost": 4,
       "colors": [
@@ -4712,12 +6065,29 @@
               "category": "anniversary"
             }
           ]
+        },
+        {
+          "id": "OP13-059~ja",
+          "language": "ja",
+          "set": "OP13",
+          "rarity": "C",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP13-059.png",
+          "cardSet": "受け継がれる意志【OP-13】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP13-060",
       "name": "Amatsuki Toki",
+      "names": {
+        "en": "Amatsuki Toki",
+        "ja": "天月トキ"
+      },
       "category": "Character",
       "cost": 2,
       "power": 3000,
@@ -4783,12 +6153,29 @@
             }
           ],
           "artist": "Hatori Kyoka"
+        },
+        {
+          "id": "OP13-060~ja",
+          "language": "ja",
+          "set": "OP13",
+          "rarity": "C",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP13-060.png",
+          "cardSet": "受け継がれる意志【OP-13】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP13-061",
       "name": "Inuarashi",
+      "names": {
+        "en": "Inuarashi",
+        "ja": "イヌアラシ"
+      },
       "category": "Character",
       "cost": 3,
       "power": 3000,
@@ -4854,12 +6241,29 @@
             }
           ],
           "artist": "COGA"
+        },
+        {
+          "id": "OP13-061~ja",
+          "language": "ja",
+          "set": "OP13",
+          "rarity": "C",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP13-061.png",
+          "cardSet": "受け継がれる意志【OP-13】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP13-062",
       "name": "Crocus",
+      "names": {
+        "en": "Crocus",
+        "ja": "クロッカス"
+      },
       "category": "Character",
       "cost": 5,
       "power": 6000,
@@ -4924,12 +6328,29 @@
             }
           ],
           "artist": "S-KINOKO"
+        },
+        {
+          "id": "OP13-062~ja",
+          "language": "ja",
+          "set": "OP13",
+          "rarity": "UC",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP13-062.png",
+          "cardSet": "受け継がれる意志【OP-13】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP13-063",
       "name": "Kouzuki Oden",
+      "names": {
+        "en": "Kouzuki Oden",
+        "ja": "光月おでん"
+      },
       "category": "Character",
       "cost": 5,
       "power": 6000,
@@ -5025,12 +6446,42 @@
             }
           ],
           "artist": "nukadokomogera"
+        },
+        {
+          "id": "OP13-063~ja",
+          "language": "ja",
+          "set": "OP13",
+          "rarity": "UC",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP13-063.png",
+          "cardSet": "受け継がれる意志【OP-13】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
+        },
+        {
+          "id": "OP13-063_p1~ja",
+          "language": "ja",
+          "set": "OTHER",
+          "rarity": "UC",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP13-063_p1.png",
+          "cardSet": "プレミアムカードコレクション - ベストセレクション vol.5 -",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "OP13-064",
       "name": "Gol.D.Roger",
+      "names": {
+        "en": "Gol.D.Roger",
+        "ja": "ゴール・Ｄ・ロジャー"
+      },
       "category": "Character",
       "cost": 10,
       "power": 13000,
@@ -5093,12 +6544,42 @@
             "alternate_art"
           ],
           "artist": "AKIRA EGAWA"
+        },
+        {
+          "id": "OP13-064~ja",
+          "language": "ja",
+          "set": "OP13",
+          "rarity": "SR",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP13-064.png",
+          "cardSet": "受け継がれる意志【OP-13】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP13-064_p1~ja",
+          "language": "ja",
+          "set": "OP13",
+          "rarity": "SR",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP13-064_p1.png",
+          "cardSet": "受け継がれる意志【OP-13】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "OP13-065",
       "name": "Shanks",
+      "names": {
+        "en": "Shanks",
+        "ja": "シャンクス"
+      },
       "category": "Character",
       "cost": 1,
       "power": 2000,
@@ -5161,12 +6642,42 @@
             "alternate_art"
           ],
           "artist": "Bashikou"
+        },
+        {
+          "id": "OP13-065~ja",
+          "language": "ja",
+          "set": "OP13",
+          "rarity": "R",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP13-065.png",
+          "cardSet": "受け継がれる意志【OP-13】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP13-065_p1~ja",
+          "language": "ja",
+          "set": "OP13",
+          "rarity": "R",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP13-065_p1.png",
+          "cardSet": "受け継がれる意志【OP-13】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "OP13-066",
       "name": "Silvers Rayleigh",
+      "names": {
+        "en": "Silvers Rayleigh",
+        "ja": "シルバーズ・レイリー"
+      },
       "category": "Character",
       "cost": 8,
       "power": 9000,
@@ -5228,12 +6739,42 @@
             "alternate_art"
           ],
           "artist": "lack"
+        },
+        {
+          "id": "OP13-066~ja",
+          "language": "ja",
+          "set": "OP13",
+          "rarity": "SR",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP13-066.png",
+          "cardSet": "受け継がれる意志【OP-13】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP13-066_p1~ja",
+          "language": "ja",
+          "set": "OP13",
+          "rarity": "SR",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP13-066_p1.png",
+          "cardSet": "受け継がれる意志【OP-13】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "OP13-067",
       "name": "Scopper Gaban",
+      "names": {
+        "en": "Scopper Gaban",
+        "ja": "スコッパー・ギャバン"
+      },
       "category": "Character",
       "cost": 6,
       "power": 7000,
@@ -5357,12 +6898,39 @@
               "category": "placement"
             }
           ]
+        },
+        {
+          "id": "OP13-067~ja",
+          "language": "ja",
+          "set": "OP13",
+          "rarity": "R",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP13-067.png",
+          "cardSet": "受け継がれる意志【OP-13】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP13-067_p1~ja",
+          "language": "ja",
+          "set": "P",
+          "rarity": "R",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP13-067_p1.png",
+          "cardSet": "プロモーションパックEX Vol.4",
+          "source": "bandai"
         }
       ]
     },
     {
       "number": "OP13-068",
       "name": "Douglas Bullet",
+      "names": {
+        "en": "Douglas Bullet",
+        "ja": "ダグラス・バレット"
+      },
       "category": "Character",
       "cost": 3,
       "power": 4000,
@@ -5428,12 +6996,29 @@
             }
           ],
           "artist": "Katsuo Tadano"
+        },
+        {
+          "id": "OP13-068~ja",
+          "language": "ja",
+          "set": "OP13",
+          "rarity": "C",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP13-068.png",
+          "cardSet": "受け継がれる意志【OP-13】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP13-069",
       "name": "Tom",
+      "names": {
+        "en": "Tom",
+        "ja": "トム"
+      },
       "category": "Character",
       "cost": 2,
       "power": 2000,
@@ -5499,12 +7084,29 @@
             }
           ],
           "artist": "tasaka"
+        },
+        {
+          "id": "OP13-069~ja",
+          "language": "ja",
+          "set": "OP13",
+          "rarity": "C",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP13-069.png",
+          "cardSet": "受け継がれる意志【OP-13】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP13-070",
       "name": "Napoleon",
+      "names": {
+        "en": "Napoleon",
+        "ja": "ナポレオン"
+      },
       "category": "Character",
       "cost": 5,
       "power": 7000,
@@ -5570,12 +7172,29 @@
             }
           ],
           "artist": "SHINRA AGENCY Co. Ltd."
+        },
+        {
+          "id": "OP13-070~ja",
+          "language": "ja",
+          "set": "OP13",
+          "rarity": "C",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP13-070.png",
+          "cardSet": "受け継がれる意志【OP-13】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP13-071",
       "name": "Nekomamushi",
+      "names": {
+        "en": "Nekomamushi",
+        "ja": "ネコマムシ"
+      },
       "category": "Character",
       "cost": 3,
       "power": 3000,
@@ -5641,12 +7260,39 @@
             }
           ],
           "artist": "Suzume Muraichi"
+        },
+        {
+          "id": "OP13-071~ja",
+          "language": "ja",
+          "set": "OP13",
+          "rarity": "UC",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP13-071.png",
+          "cardSet": "受け継がれる意志【OP-13】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
+        },
+        {
+          "id": "OP13-071_p1~ja",
+          "language": "ja",
+          "set": "P",
+          "rarity": "UC",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP13-071_p1.png",
+          "cardSet": "プロモーションパックVol.9",
+          "source": "bandai"
         }
       ]
     },
     {
       "number": "OP13-072",
       "name": "Buggy",
+      "names": {
+        "en": "Buggy",
+        "ja": "バギー"
+      },
       "category": "Character",
       "cost": 2,
       "power": 2000,
@@ -5712,12 +7358,42 @@
             }
           ],
           "artist": "kankurou"
+        },
+        {
+          "id": "OP13-072~ja",
+          "language": "ja",
+          "set": "OP13",
+          "rarity": "R",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP13-072.png",
+          "cardSet": "受け継がれる意志【OP-13】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP13-072_p1~ja",
+          "language": "ja",
+          "set": "OTHER",
+          "rarity": "R",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP13-072_p1.png",
+          "cardSet": "プレミアムカードコレクション - ベストセレクション vol.6 -",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "OP13-073",
       "name": "Prometheus",
+      "names": {
+        "en": "Prometheus",
+        "ja": "プロメテウス"
+      },
       "category": "Character",
       "cost": 5,
       "power": 6000,
@@ -5783,12 +7459,29 @@
             }
           ],
           "artist": "Nakamaru"
+        },
+        {
+          "id": "OP13-073~ja",
+          "language": "ja",
+          "set": "OP13",
+          "rarity": "UC",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP13-073.png",
+          "cardSet": "受け継がれる意志【OP-13】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP13-074",
       "name": "Hera",
+      "names": {
+        "en": "Hera",
+        "ja": "ヘラ"
+      },
       "category": "Character",
       "cost": 4,
       "power": 5000,
@@ -5854,12 +7547,29 @@
             }
           ],
           "artist": "Nakamaru"
+        },
+        {
+          "id": "OP13-074~ja",
+          "language": "ja",
+          "set": "OP13",
+          "rarity": "C",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP13-074.png",
+          "cardSet": "受け継がれる意志【OP-13】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP13-075",
       "name": "Guess We'll Have Another Scrap. You Can Only Risk Death While You're Still Alive!!",
+      "names": {
+        "en": "Guess We'll Have Another Scrap. You Can Only Risk Death While You're Still Alive!!",
+        "ja": "いっちょやるか生きててこその“殺し合い”!!!"
+      },
       "category": "Event",
       "cost": 1,
       "colors": [
@@ -5918,12 +7628,29 @@
               "category": "anniversary"
             }
           ]
+        },
+        {
+          "id": "OP13-075~ja",
+          "language": "ja",
+          "set": "OP13",
+          "rarity": "UC",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP13-075.png",
+          "cardSet": "受け継がれる意志【OP-13】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP13-076",
       "name": "Divine Departure",
+      "names": {
+        "en": "Divine Departure",
+        "ja": "神避"
+      },
       "category": "Event",
       "colors": [
         "Purple"
@@ -5979,12 +7706,42 @@
           "treatments": [
             "alternate_art"
           ]
+        },
+        {
+          "id": "OP13-076~ja",
+          "language": "ja",
+          "set": "OP13",
+          "rarity": "R",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP13-076.png",
+          "cardSet": "受け継がれる意志【OP-13】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP13-076_p1~ja",
+          "language": "ja",
+          "set": "OP13",
+          "rarity": "R",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP13-076_p1.png",
+          "cardSet": "受け継がれる意志【OP-13】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "OP13-077",
       "name": "Go All the Way to the Top!!",
+      "names": {
+        "en": "Go All the Way to the Top!!",
+        "ja": "頂点まで行って来い!!!"
+      },
       "category": "Event",
       "cost": 1,
       "colors": [
@@ -6042,12 +7799,29 @@
               "category": "anniversary"
             }
           ]
+        },
+        {
+          "id": "OP13-077~ja",
+          "language": "ja",
+          "set": "OP13",
+          "rarity": "C",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP13-077.png",
+          "cardSet": "受け継がれる意志【OP-13】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP13-078",
       "name": "Oro Jackson",
+      "names": {
+        "en": "Oro Jackson",
+        "ja": "オーロ・ジャクソン号"
+      },
       "category": "Stage",
       "cost": 1,
       "colors": [
@@ -6105,12 +7879,29 @@
               "category": "anniversary"
             }
           ]
+        },
+        {
+          "id": "OP13-078~ja",
+          "language": "ja",
+          "set": "OP13",
+          "rarity": "C",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP13-078.png",
+          "cardSet": "受け継がれる意志【OP-13】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP13-079",
       "name": "Imu",
+      "names": {
+        "en": "Imu",
+        "ja": "イム"
+      },
       "category": "Leader",
       "power": 5000,
       "life": 4,
@@ -6171,12 +7962,42 @@
           "treatments": [
             "alternate_art"
           ]
+        },
+        {
+          "id": "OP13-079~ja",
+          "language": "ja",
+          "set": "OP13",
+          "rarity": "L",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP13-079.png",
+          "cardSet": "受け継がれる意志【OP-13】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
+        },
+        {
+          "id": "OP13-079_p1~ja",
+          "language": "ja",
+          "set": "OP13",
+          "rarity": "L",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP13-079_p1.png",
+          "cardSet": "受け継がれる意志【OP-13】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "OP13-080",
       "name": "St. Ethanbaron V. Nusjuro",
+      "names": {
+        "en": "St. Ethanbaron V. Nusjuro",
+        "ja": "イーザンバロン・V・ナス寿郎聖"
+      },
       "category": "Character",
       "cost": 6,
       "power": 5000,
@@ -6266,12 +8087,55 @@
             "parallel"
           ],
           "artist": "Gege Akutami"
+        },
+        {
+          "id": "OP13-080~ja",
+          "language": "ja",
+          "set": "OP13",
+          "rarity": "R",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP13-080.png",
+          "cardSet": "受け継がれる意志【OP-13】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP13-080_p1~ja",
+          "language": "ja",
+          "set": "OP13",
+          "rarity": "R",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP13-080_p1.png",
+          "cardSet": "受け継がれる意志【OP-13】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP13-080_p2~ja",
+          "language": "ja",
+          "set": "OP13",
+          "rarity": "R",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP13-080_p2.png",
+          "cardSet": "受け継がれる意志【OP-13】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "OP13-081",
       "name": "Koala",
+      "names": {
+        "en": "Koala",
+        "ja": "コアラ"
+      },
       "category": "Character",
       "cost": 5,
       "power": 6000,
@@ -6351,12 +8215,42 @@
             }
           ],
           "artist": "Morechand"
+        },
+        {
+          "id": "OP13-081~ja",
+          "language": "ja",
+          "set": "OP13",
+          "rarity": "C",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP13-081.png",
+          "cardSet": "受け継がれる意志【OP-13】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
+        },
+        {
+          "id": "OP13-081_r1~ja",
+          "language": "ja",
+          "set": "ST35",
+          "rarity": "C",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP13-081_r1.png",
+          "cardSet": "スタートデッキ 赤黒 サボ【ST-35】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP13-082",
       "name": "Five Elders",
+      "names": {
+        "en": "Five Elders",
+        "ja": "五老星"
+      },
       "category": "Character",
       "cost": 10,
       "power": 12000,
@@ -6420,12 +8314,42 @@
             "alternate_art"
           ],
           "artist": "Hayaken-sarena"
+        },
+        {
+          "id": "OP13-082~ja",
+          "language": "ja",
+          "set": "OP13",
+          "rarity": "SR",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP13-082.png",
+          "cardSet": "受け継がれる意志【OP-13】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP13-082_p1~ja",
+          "language": "ja",
+          "set": "OP13",
+          "rarity": "SR",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP13-082_p1.png",
+          "cardSet": "受け継がれる意志【OP-13】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "OP13-083",
       "name": "St. Jaygarcia Saturn",
+      "names": {
+        "en": "St. Jaygarcia Saturn",
+        "ja": "ジェイガルシア・サターン聖"
+      },
       "category": "Character",
       "cost": 4,
       "power": 5000,
@@ -6515,12 +8439,55 @@
             "parallel"
           ],
           "artist": "Gege Akutami"
+        },
+        {
+          "id": "OP13-083~ja",
+          "language": "ja",
+          "set": "OP13",
+          "rarity": "R",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP13-083.png",
+          "cardSet": "受け継がれる意志【OP-13】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP13-083_p1~ja",
+          "language": "ja",
+          "set": "OP13",
+          "rarity": "R",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP13-083_p1.png",
+          "cardSet": "受け継がれる意志【OP-13】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP13-083_p2~ja",
+          "language": "ja",
+          "set": "OP13",
+          "rarity": "R",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP13-083_p2.png",
+          "cardSet": "受け継がれる意志【OP-13】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "OP13-084",
       "name": "St. Shepherd Ju Peter",
+      "names": {
+        "en": "St. Shepherd Ju Peter",
+        "ja": "シェパード・十・ピーター聖"
+      },
       "category": "Character",
       "cost": 7,
       "power": 5000,
@@ -6610,12 +8577,55 @@
             "parallel"
           ],
           "artist": "Gege Akutami"
+        },
+        {
+          "id": "OP13-084~ja",
+          "language": "ja",
+          "set": "OP13",
+          "rarity": "R",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP13-084.png",
+          "cardSet": "受け継がれる意志【OP-13】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP13-084_p1~ja",
+          "language": "ja",
+          "set": "OP13",
+          "rarity": "R",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP13-084_p1.png",
+          "cardSet": "受け継がれる意志【OP-13】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP13-084_p2~ja",
+          "language": "ja",
+          "set": "OP13",
+          "rarity": "R",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP13-084_p2.png",
+          "cardSet": "受け継がれる意志【OP-13】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "OP13-085",
       "name": "Saint Jalmac",
+      "names": {
+        "en": "Saint Jalmac",
+        "ja": "ジャルマック聖"
+      },
       "category": "Character",
       "cost": 2,
       "power": 4000,
@@ -6680,12 +8690,29 @@
             }
           ],
           "artist": "HISASHI HUJIWARA"
+        },
+        {
+          "id": "OP13-085~ja",
+          "language": "ja",
+          "set": "OP13",
+          "rarity": "C",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP13-085.png",
+          "cardSet": "受け継がれる意志【OP-13】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP13-086",
       "name": "Saint Shalria",
+      "names": {
+        "en": "Saint Shalria",
+        "ja": "シャルリア宮"
+      },
       "category": "Character",
       "cost": 1,
       "counter": 1000,
@@ -6778,12 +8805,42 @@
             }
           ],
           "artist": "Morechand"
+        },
+        {
+          "id": "OP13-086~ja",
+          "language": "ja",
+          "set": "OP13",
+          "rarity": "UC",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP13-086.png",
+          "cardSet": "受け継がれる意志【OP-13】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
+        },
+        {
+          "id": "OP13-086_p1~ja",
+          "language": "ja",
+          "set": "OTHER",
+          "rarity": "UC",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP13-086_p1.png",
+          "cardSet": "プレミアムカードコレクション - ベストセレクション vol.5 -",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "OP13-087",
       "name": "Saint Charlos",
+      "names": {
+        "en": "Saint Charlos",
+        "ja": "チャルロス聖"
+      },
       "category": "Character",
       "cost": 2,
       "counter": 1000,
@@ -6923,12 +8980,39 @@
               "category": "placement"
             }
           ]
+        },
+        {
+          "id": "OP13-087~ja",
+          "language": "ja",
+          "set": "OP13",
+          "rarity": "UC",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP13-087.png",
+          "cardSet": "受け継がれる意志【OP-13】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
+        },
+        {
+          "id": "OP13-087_p1~ja",
+          "language": "ja",
+          "set": "P",
+          "rarity": "UC",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP13-087_p1.png",
+          "cardSet": "プロモーションパックVol.9",
+          "source": "bandai"
         }
       ]
     },
     {
       "number": "OP13-088",
       "name": "Terry Gilteo",
+      "names": {
+        "en": "Terry Gilteo",
+        "ja": "テリー・ギルテオ"
+      },
       "category": "Character",
       "cost": 5,
       "power": 6000,
@@ -6993,12 +9077,29 @@
             }
           ],
           "artist": "Morechand"
+        },
+        {
+          "id": "OP13-088~ja",
+          "language": "ja",
+          "set": "OP13",
+          "rarity": "UC",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP13-088.png",
+          "cardSet": "受け継がれる意志【OP-13】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP13-089",
       "name": "St. Topman Warcury",
+      "names": {
+        "en": "St. Topman Warcury",
+        "ja": "トップマン・ウォーキュリー聖"
+      },
       "category": "Character",
       "cost": 4,
       "power": 5000,
@@ -7088,12 +9189,55 @@
             "parallel"
           ],
           "artist": "Gege Akutami"
+        },
+        {
+          "id": "OP13-089~ja",
+          "language": "ja",
+          "set": "OP13",
+          "rarity": "R",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP13-089.png",
+          "cardSet": "受け継がれる意志【OP-13】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP13-089_p1~ja",
+          "language": "ja",
+          "set": "OP13",
+          "rarity": "R",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP13-089_p1.png",
+          "cardSet": "受け継がれる意志【OP-13】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP13-089_p2~ja",
+          "language": "ja",
+          "set": "OP13",
+          "rarity": "R",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP13-089_p2.png",
+          "cardSet": "受け継がれる意志【OP-13】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "OP13-090",
       "name": "Hack",
+      "names": {
+        "en": "Hack",
+        "ja": "ハック"
+      },
       "category": "Character",
       "cost": 6,
       "power": 7000,
@@ -7160,12 +9304,29 @@
             }
           ],
           "artist": "Nekobayashi"
+        },
+        {
+          "id": "OP13-090~ja",
+          "language": "ja",
+          "set": "OP13",
+          "rarity": "UC",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP13-090.png",
+          "cardSet": "受け継がれる意志【OP-13】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP13-091",
       "name": "St. Marcus Mars",
+      "names": {
+        "en": "St. Marcus Mars",
+        "ja": "マーカス・マーズ聖"
+      },
       "category": "Character",
       "cost": 6,
       "power": 5000,
@@ -7255,12 +9416,55 @@
             "parallel"
           ],
           "artist": "Gege Akutami"
+        },
+        {
+          "id": "OP13-091~ja",
+          "language": "ja",
+          "set": "OP13",
+          "rarity": "R",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP13-091.png",
+          "cardSet": "受け継がれる意志【OP-13】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP13-091_p1~ja",
+          "language": "ja",
+          "set": "OP13",
+          "rarity": "R",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP13-091_p1.png",
+          "cardSet": "受け継がれる意志【OP-13】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP13-091_p2~ja",
+          "language": "ja",
+          "set": "OP13",
+          "rarity": "R",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP13-091_p2.png",
+          "cardSet": "受け継がれる意志【OP-13】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "OP13-092",
       "name": "Saint Mjosgard",
+      "names": {
+        "en": "Saint Mjosgard",
+        "ja": "ミョスガルド聖"
+      },
       "category": "Character",
       "cost": 2,
       "counter": 2000,
@@ -7353,12 +9557,42 @@
             }
           ],
           "artist": "kankurou"
+        },
+        {
+          "id": "OP13-092~ja",
+          "language": "ja",
+          "set": "OP13",
+          "rarity": "C",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP13-092.png",
+          "cardSet": "受け継がれる意志【OP-13】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
+        },
+        {
+          "id": "OP13-092_p1~ja",
+          "language": "ja",
+          "set": "OTHER",
+          "rarity": "C",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP13-092_p1.png",
+          "cardSet": "プレミアムカードコレクション - ベストセレクション vol.6 -",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "OP13-093",
       "name": "Morgans",
+      "names": {
+        "en": "Morgans",
+        "ja": "モルガンズ"
+      },
       "category": "Character",
       "cost": 3,
       "power": 4000,
@@ -7423,12 +9657,29 @@
             }
           ],
           "artist": "shosuke"
+        },
+        {
+          "id": "OP13-093~ja",
+          "language": "ja",
+          "set": "OP13",
+          "rarity": "C",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP13-093.png",
+          "cardSet": "受け継がれる意志【OP-13】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP13-094",
       "name": "York",
+      "names": {
+        "en": "York",
+        "ja": "ヨーク"
+      },
       "category": "Character",
       "cost": 1,
       "power": 1000,
@@ -7494,12 +9745,29 @@
             }
           ],
           "artist": "Koushi Rokushiro"
+        },
+        {
+          "id": "OP13-094~ja",
+          "language": "ja",
+          "set": "OP13",
+          "rarity": "C",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP13-094.png",
+          "cardSet": "受け継がれる意志【OP-13】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP13-095",
       "name": "Saint Rosward",
+      "names": {
+        "en": "Saint Rosward",
+        "ja": "ロズワード聖"
+      },
       "category": "Character",
       "cost": 3,
       "counter": 1000,
@@ -7563,12 +9831,29 @@
             }
           ],
           "artist": "Misa Matoki"
+        },
+        {
+          "id": "OP13-095~ja",
+          "language": "ja",
+          "set": "OP13",
+          "rarity": "C",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP13-095.png",
+          "cardSet": "受け継がれる意志【OP-13】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP13-096",
       "name": "The Five Elders Are at Your Service!!!",
+      "names": {
+        "en": "The Five Elders Are at Your Service!!!",
+        "ja": "“五老星”ここに!!!"
+      },
       "category": "Event",
       "cost": 1,
       "colors": [
@@ -7600,12 +9885,29 @@
             "match": "image-only-candidate",
             "distance": 2
           }
+        },
+        {
+          "id": "OP13-096~ja",
+          "language": "ja",
+          "set": "OP13",
+          "rarity": "R",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP13-096.png",
+          "cardSet": "受け継がれる意志【OP-13】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "OP13-097",
       "name": "The World's Equilibrium Cannot Be Maintained Forever",
+      "names": {
+        "en": "The World's Equilibrium Cannot Be Maintained Forever",
+        "ja": "世界の均衡など…永遠には保てぬのだ"
+      },
       "category": "Event",
       "cost": 1,
       "colors": [
@@ -7664,12 +9966,29 @@
               "category": "anniversary"
             }
           ]
+        },
+        {
+          "id": "OP13-097~ja",
+          "language": "ja",
+          "set": "OP13",
+          "rarity": "C",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP13-097.png",
+          "cardSet": "受け継がれる意志【OP-13】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP13-098",
       "name": "Never Existed... in the First Place...",
+      "names": {
+        "en": "Never Existed... in the First Place...",
+        "ja": "元々…ないではないか…"
+      },
       "category": "Event",
       "cost": 1,
       "colors": [
@@ -7728,12 +10047,29 @@
               "category": "anniversary"
             }
           ]
+        },
+        {
+          "id": "OP13-098~ja",
+          "language": "ja",
+          "set": "OP13",
+          "rarity": "UC",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP13-098.png",
+          "cardSet": "受け継がれる意志【OP-13】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP13-099",
       "name": "The Empty Throne",
+      "names": {
+        "en": "The Empty Throne",
+        "ja": "虚の玉座"
+      },
       "category": "Stage",
       "cost": 7,
       "colors": [
@@ -7791,12 +10127,29 @@
               "category": "anniversary"
             }
           ]
+        },
+        {
+          "id": "OP13-099~ja",
+          "language": "ja",
+          "set": "OP13",
+          "rarity": "C",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP13-099.png",
+          "cardSet": "受け継がれる意志【OP-13】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP13-100",
       "name": "Jewelry Bonney",
+      "names": {
+        "en": "Jewelry Bonney",
+        "ja": "ジュエリー・ボニー"
+      },
       "category": "Leader",
       "power": 5000,
       "life": 5,
@@ -7858,12 +10211,42 @@
           "treatments": [
             "alternate_art"
           ]
+        },
+        {
+          "id": "OP13-100~ja",
+          "language": "ja",
+          "set": "OP13",
+          "rarity": "L",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP13-100.png",
+          "cardSet": "受け継がれる意志【OP-13】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
+        },
+        {
+          "id": "OP13-100_p1~ja",
+          "language": "ja",
+          "set": "OP13",
+          "rarity": "L",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP13-100_p1.png",
+          "cardSet": "受け継がれる意志【OP-13】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "OP13-101",
       "name": "Atlas",
+      "names": {
+        "en": "Atlas",
+        "ja": "アトラス"
+      },
       "category": "Character",
       "cost": 5,
       "power": 6000,
@@ -7929,12 +10312,29 @@
             }
           ],
           "artist": "SHINRA AGENCY Co. Ltd."
+        },
+        {
+          "id": "OP13-101~ja",
+          "language": "ja",
+          "set": "OP13",
+          "rarity": "UC",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP13-101.png",
+          "cardSet": "受け継がれる意志【OP-13】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP13-102",
       "name": "Edison",
+      "names": {
+        "en": "Edison",
+        "ja": "エジソン"
+      },
       "category": "Character",
       "cost": 3,
       "power": 2000,
@@ -8000,12 +10400,29 @@
             }
           ],
           "artist": "Akihiro MIYANO"
+        },
+        {
+          "id": "OP13-102~ja",
+          "language": "ja",
+          "set": "OP13",
+          "rarity": "UC",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP13-102.png",
+          "cardSet": "受け継がれる意志【OP-13】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP13-103",
       "name": "Gyogyo",
+      "names": {
+        "en": "Gyogyo",
+        "ja": "ギョギョ"
+      },
       "category": "Character",
       "cost": 4,
       "power": 6000,
@@ -8070,12 +10487,29 @@
             }
           ],
           "artist": "Tanaka Kenichi"
+        },
+        {
+          "id": "OP13-103~ja",
+          "language": "ja",
+          "set": "OP13",
+          "rarity": "C",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP13-103.png",
+          "cardSet": "受け継がれる意志【OP-13】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP13-104",
       "name": "Kouzuki Hiyori",
+      "names": {
+        "en": "Kouzuki Hiyori",
+        "ja": "光月日和"
+      },
       "category": "Character",
       "cost": 4,
       "counter": 1000,
@@ -8112,12 +10546,29 @@
             "distance": 2
           },
           "artist": "SHINRA AGENCY Co. Ltd."
+        },
+        {
+          "id": "OP13-104~ja",
+          "language": "ja",
+          "set": "OP13",
+          "rarity": "R",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP13-104.png",
+          "cardSet": "受け継がれる意志【OP-13】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "OP13-105",
       "name": "Kouzuki Momonosuke",
+      "names": {
+        "en": "Kouzuki Momonosuke",
+        "ja": "光月モモの助"
+      },
       "category": "Character",
       "cost": 3,
       "counter": 1000,
@@ -8182,12 +10633,29 @@
             }
           ],
           "artist": "Aidle Co. Ltd."
+        },
+        {
+          "id": "OP13-105~ja",
+          "language": "ja",
+          "set": "OP13",
+          "rarity": "C",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP13-105.png",
+          "cardSet": "受け継がれる意志【OP-13】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP13-106",
       "name": "Conney",
+      "names": {
+        "en": "Conney",
+        "ja": "コニー"
+      },
       "category": "Character",
       "cost": 1,
       "power": 1000,
@@ -8252,12 +10720,29 @@
             }
           ],
           "artist": "SHINRA AGENCY Co. Ltd."
+        },
+        {
+          "id": "OP13-106~ja",
+          "language": "ja",
+          "set": "OP13",
+          "rarity": "C",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP13-106.png",
+          "cardSet": "受け継がれる意志【OP-13】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP13-107",
       "name": "Shaka",
+      "names": {
+        "en": "Shaka",
+        "ja": "シャカ"
+      },
       "category": "Character",
       "cost": 5,
       "power": 7000,
@@ -8323,12 +10808,29 @@
             }
           ],
           "artist": "Tanaka Kenichi"
+        },
+        {
+          "id": "OP13-107~ja",
+          "language": "ja",
+          "set": "OP13",
+          "rarity": "C",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP13-107.png",
+          "cardSet": "受け継がれる意志【OP-13】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP13-108",
       "name": "Jewelry Bonney",
+      "names": {
+        "en": "Jewelry Bonney",
+        "ja": "ジュエリー・ボニー"
+      },
       "category": "Character",
       "cost": 9,
       "power": 10000,
@@ -8417,12 +10919,52 @@
               "category": "championship"
             }
           ]
+        },
+        {
+          "id": "OP13-108~ja",
+          "language": "ja",
+          "set": "OP13",
+          "rarity": "SR",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP13-108.png",
+          "cardSet": "受け継がれる意志【OP-13】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP13-108_p1~ja",
+          "language": "ja",
+          "set": "OP13",
+          "rarity": "SR",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP13-108_p1.png",
+          "cardSet": "受け継がれる意志【OP-13】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP13-108_p2~ja",
+          "language": "ja",
+          "set": "P",
+          "rarity": "SR",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP13-108_p2.png",
+          "cardSet": "フラッグシップバトル2026 1月 ベスト8記念品",
+          "source": "bandai"
         }
       ]
     },
     {
       "number": "OP13-109",
       "name": "Jewelry Bonney",
+      "names": {
+        "en": "Jewelry Bonney",
+        "ja": "ジュエリー・ボニー"
+      },
       "category": "Character",
       "cost": 5,
       "power": 6000,
@@ -8488,12 +11030,29 @@
             }
           ],
           "artist": "Akihiro MIYANO"
+        },
+        {
+          "id": "OP13-109~ja",
+          "language": "ja",
+          "set": "OP13",
+          "rarity": "UC",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP13-109.png",
+          "cardSet": "受け継がれる意志【OP-13】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP13-110",
       "name": "Stussy",
+      "names": {
+        "en": "Stussy",
+        "ja": "ステューシー"
+      },
       "category": "Character",
       "cost": 7,
       "power": 7000,
@@ -8556,12 +11115,42 @@
             "alternate_art"
           ],
           "artist": "Peach Momoko"
+        },
+        {
+          "id": "OP13-110~ja",
+          "language": "ja",
+          "set": "OP13",
+          "rarity": "SR",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP13-110.png",
+          "cardSet": "受け継がれる意志【OP-13】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP13-110_p1~ja",
+          "language": "ja",
+          "set": "OP13",
+          "rarity": "SR",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP13-110_p1.png",
+          "cardSet": "受け継がれる意志【OP-13】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "OP13-111",
       "name": "Pythagoras",
+      "names": {
+        "en": "Pythagoras",
+        "ja": "ピタゴラス"
+      },
       "category": "Character",
       "cost": 6,
       "power": 7000,
@@ -8627,12 +11216,29 @@
             }
           ],
           "artist": "Aidle Co. Ltd."
+        },
+        {
+          "id": "OP13-111~ja",
+          "language": "ja",
+          "set": "OP13",
+          "rarity": "UC",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP13-111.png",
+          "cardSet": "受け継がれる意志【OP-13】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP13-112",
       "name": "Vegapunk",
+      "names": {
+        "en": "Vegapunk",
+        "ja": "ベガパンク"
+      },
       "category": "Character",
       "cost": 1,
       "power": 1000,
@@ -8698,12 +11304,29 @@
             }
           ],
           "artist": "tasaka"
+        },
+        {
+          "id": "OP13-112~ja",
+          "language": "ja",
+          "set": "OP13",
+          "rarity": "C",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP13-112.png",
+          "cardSet": "受け継がれる意志【OP-13】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP13-113",
       "name": "Lilith",
+      "names": {
+        "en": "Lilith",
+        "ja": "リリス"
+      },
       "category": "Character",
       "cost": 1,
       "power": 2000,
@@ -8767,12 +11390,42 @@
             "alternate_art"
           ],
           "artist": "sacanahen"
+        },
+        {
+          "id": "OP13-113~ja",
+          "language": "ja",
+          "set": "OP13",
+          "rarity": "R",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP13-113.png",
+          "cardSet": "受け継がれる意志【OP-13】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP13-113_p1~ja",
+          "language": "ja",
+          "set": "OP13",
+          "rarity": "R",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP13-113_p1.png",
+          "cardSet": "受け継がれる意志【OP-13】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "OP13-114",
       "name": "S-Snake",
+      "names": {
+        "en": "S-Snake",
+        "ja": "S-スネーク"
+      },
       "category": "Character",
       "cost": 4,
       "power": 5000,
@@ -8836,12 +11489,42 @@
             "alternate_art"
           ],
           "artist": "kusunoki harui"
+        },
+        {
+          "id": "OP13-114~ja",
+          "language": "ja",
+          "set": "OP13",
+          "rarity": "R",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP13-114.png",
+          "cardSet": "受け継がれる意志【OP-13】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP13-114_p1~ja",
+          "language": "ja",
+          "set": "OP13",
+          "rarity": "R",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP13-114_p1.png",
+          "cardSet": "受け継がれる意志【OP-13】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "OP13-115",
       "name": "Paper Art Afterimage",
+      "names": {
+        "en": "Paper Art Afterimage",
+        "ja": "「紙絵」“残身”"
+      },
       "category": "Event",
       "cost": 2,
       "colors": [
@@ -8900,12 +11583,29 @@
               "category": "anniversary"
             }
           ]
+        },
+        {
+          "id": "OP13-115~ja",
+          "language": "ja",
+          "set": "OP13",
+          "rarity": "C",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP13-115.png",
+          "cardSet": "受け継がれる意志【OP-13】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP13-116",
       "name": "The One Who Is the Most Free Is the Pirate King!!!",
+      "names": {
+        "en": "The One Who Is the Most Free Is the Pirate King!!!",
+        "ja": "この海で一番自由な奴が海賊王だ!!!"
+      },
       "category": "Event",
       "cost": 1,
       "colors": [
@@ -8977,12 +11677,42 @@
               "category": "anniversary"
             }
           ]
+        },
+        {
+          "id": "OP13-116~ja",
+          "language": "ja",
+          "set": "OP13",
+          "rarity": "UC",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP13-116.png",
+          "cardSet": "受け継がれる意志【OP-13】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
+        },
+        {
+          "id": "OP13-116_r1~ja",
+          "language": "ja",
+          "set": "ST36",
+          "rarity": "UC",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP13-116_r1.png",
+          "cardSet": "スタートデッキ 黄 ユースタス・キッド【ST-36】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP13-117",
       "name": "Gum-Gum Dawn Stamp",
+      "names": {
+        "en": "Gum-Gum Dawn Stamp",
+        "ja": "ゴムゴムの白いスタンプ"
+      },
       "category": "Event",
       "cost": 5,
       "colors": [
@@ -9015,12 +11745,29 @@
             "match": "image-only-candidate",
             "distance": 2
           }
+        },
+        {
+          "id": "OP13-117~ja",
+          "language": "ja",
+          "set": "OP13",
+          "rarity": "R",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP13-117.png",
+          "cardSet": "受け継がれる意志【OP-13】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "OP13-118",
       "name": "Monkey.D.Luffy",
+      "names": {
+        "en": "Monkey.D.Luffy",
+        "ja": "モンキー・Ｄ・ルフィ"
+      },
       "category": "Character",
       "cost": 6,
       "power": 7000,
@@ -9211,12 +11958,88 @@
               "category": "retail"
             }
           ]
+        },
+        {
+          "id": "OP13-118~ja",
+          "language": "ja",
+          "set": "OP13",
+          "rarity": "SEC",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP13-118.png",
+          "cardSet": "受け継がれる意志【OP-13】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP13-118_p1~ja",
+          "language": "ja",
+          "set": "OP13",
+          "rarity": "SEC",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP13-118_p1.png",
+          "cardSet": "受け継がれる意志【OP-13】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP13-118_p2~ja",
+          "language": "ja",
+          "set": "OP13",
+          "rarity": "SEC",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP13-118_p2.png",
+          "cardSet": "受け継がれる意志【OP-13】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP13-118_p3~ja",
+          "language": "ja",
+          "set": "OP13",
+          "rarity": "SEC",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP13-118_p3.png",
+          "cardSet": "受け継がれる意志【OP-13】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP13-118_p4~ja",
+          "language": "ja",
+          "set": "OP13",
+          "rarity": "SEC",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP13-118_p4.png",
+          "cardSet": "受け継がれる意志【OP-13】",
+          "source": "bandai"
+        },
+        {
+          "id": "OP13-118_p5~ja",
+          "language": "ja",
+          "set": "P",
+          "rarity": "SEC",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP13-118_p5.png",
+          "cardSet": "チャンピオンシップ25-26 Season2 決勝大会 ベスト32記念品",
+          "source": "bandai"
         }
       ]
     },
     {
       "number": "OP13-119",
       "name": "Portgas.D.Ace",
+      "names": {
+        "en": "Portgas.D.Ace",
+        "ja": "ポートガス・Ｄ・エース"
+      },
       "category": "Character",
       "cost": 6,
       "power": 7000,
@@ -9431,12 +12254,88 @@
               "category": "retail"
             }
           ]
+        },
+        {
+          "id": "OP13-119~ja",
+          "language": "ja",
+          "set": "OP13",
+          "rarity": "SEC",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP13-119.png",
+          "cardSet": "受け継がれる意志【OP-13】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP13-119_p1~ja",
+          "language": "ja",
+          "set": "OP13",
+          "rarity": "SEC",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP13-119_p1.png",
+          "cardSet": "受け継がれる意志【OP-13】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP13-119_p2~ja",
+          "language": "ja",
+          "set": "OP13",
+          "rarity": "SEC",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP13-119_p2.png",
+          "cardSet": "受け継がれる意志【OP-13】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP13-119_p3~ja",
+          "language": "ja",
+          "set": "OP13",
+          "rarity": "SEC",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP13-119_p3.png",
+          "cardSet": "受け継がれる意志【OP-13】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP13-119_p4~ja",
+          "language": "ja",
+          "set": "OP13",
+          "rarity": "SEC",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP13-119_p4.png",
+          "cardSet": "受け継がれる意志【OP-13】",
+          "source": "bandai"
+        },
+        {
+          "id": "OP13-119_p5~ja",
+          "language": "ja",
+          "set": "P",
+          "rarity": "SEC",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP13-119_p5.png",
+          "cardSet": "チャンピオンシップ25-26Season 2 決勝トーナメント上位記念品",
+          "source": "bandai"
         }
       ]
     },
     {
       "number": "OP13-120",
       "name": "Sabo",
+      "names": {
+        "en": "Sabo",
+        "ja": "サボ"
+      },
       "category": "Character",
       "cost": 6,
       "power": 7000,
@@ -9629,6 +12528,78 @@
               "category": "retail"
             }
           ]
+        },
+        {
+          "id": "OP13-120~ja",
+          "language": "ja",
+          "set": "OP13",
+          "rarity": "SEC",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP13-120.png",
+          "cardSet": "受け継がれる意志【OP-13】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP13-120_p1~ja",
+          "language": "ja",
+          "set": "OP13",
+          "rarity": "SEC",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP13-120_p1.png",
+          "cardSet": "受け継がれる意志【OP-13】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP13-120_p2~ja",
+          "language": "ja",
+          "set": "OP13",
+          "rarity": "SEC",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP13-120_p2.png",
+          "cardSet": "受け継がれる意志【OP-13】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP13-120_p3~ja",
+          "language": "ja",
+          "set": "OP13",
+          "rarity": "SEC",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP13-120_p3.png",
+          "cardSet": "受け継がれる意志【OP-13】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP13-120_p4~ja",
+          "language": "ja",
+          "set": "OP13",
+          "rarity": "SEC",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP13-120_p4.png",
+          "cardSet": "受け継がれる意志【OP-13】",
+          "source": "bandai"
+        },
+        {
+          "id": "OP13-120_p5~ja",
+          "language": "ja",
+          "set": "P",
+          "rarity": "SEC",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP13-120_p5.png",
+          "cardSet": "チャンピオンシップ25-26Season 2 エリア決勝大会権利獲得記念品",
+          "source": "bandai"
         }
       ]
     }

@@ -3,6 +3,10 @@
     {
       "number": "ST06-001",
       "name": "Sakazuki",
+      "names": {
+        "en": "Sakazuki",
+        "ja": "サカズキ"
+      },
       "category": "Leader",
       "power": 5000,
       "life": 5,
@@ -37,12 +41,29 @@
             "match": "image-only-candidate",
             "distance": 3
           }
+        },
+        {
+          "id": "ST06-001~ja",
+          "language": "ja",
+          "set": "ST06",
+          "rarity": "L",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/ST06-001.png",
+          "cardSet": "海軍【ST-06】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "ST06-002",
       "name": "Koby",
+      "names": {
+        "en": "Koby",
+        "ja": "コビー"
+      },
       "category": "Character",
       "cost": 1,
       "power": 2000,
@@ -105,12 +126,29 @@
               "category": "retail"
             }
           ]
+        },
+        {
+          "id": "ST06-002~ja",
+          "language": "ja",
+          "set": "ST06",
+          "rarity": "C",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/ST06-002.png",
+          "cardSet": "海軍【ST-06】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "ST06-003",
       "name": "Jango",
+      "names": {
+        "en": "Jango",
+        "ja": "ジャンゴ"
+      },
       "category": "Character",
       "cost": 1,
       "power": 3000,
@@ -146,12 +184,29 @@
             "match": "image-only-candidate",
             "distance": 4
           }
+        },
+        {
+          "id": "ST06-003~ja",
+          "language": "ja",
+          "set": "ST06",
+          "rarity": "C",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/ST06-003.png",
+          "cardSet": "海軍【ST-06】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "ST06-004",
       "name": "Smoker",
+      "names": {
+        "en": "Smoker",
+        "ja": "スモーカー"
+      },
       "category": "Character",
       "cost": 5,
       "power": 7000,
@@ -187,12 +242,29 @@
             "distance": 3
           },
           "artist": "Nijihayashi"
+        },
+        {
+          "id": "ST06-004~ja",
+          "language": "ja",
+          "set": "ST06",
+          "rarity": "SR",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/ST06-004.png",
+          "cardSet": "海軍【ST-06】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "ST06-005",
       "name": "Sengoku",
+      "names": {
+        "en": "Sengoku",
+        "ja": "センゴク"
+      },
       "category": "Character",
       "cost": 5,
       "power": 6000,
@@ -228,12 +300,29 @@
             "match": "image-only-candidate",
             "distance": 3
           }
+        },
+        {
+          "id": "ST06-005~ja",
+          "language": "ja",
+          "set": "ST06",
+          "rarity": "C",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/ST06-005.png",
+          "cardSet": "海軍【ST-06】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "ST06-006",
       "name": "Tashigi",
+      "names": {
+        "en": "Tashigi",
+        "ja": "たしぎ"
+      },
       "category": "Character",
       "cost": 3,
       "power": 4000,
@@ -484,12 +573,55 @@
               "category": "event"
             }
           ]
+        },
+        {
+          "id": "ST06-006~ja",
+          "language": "ja",
+          "set": "ST06",
+          "rarity": "C",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/ST06-006.png",
+          "cardSet": "海軍【ST-06】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
+        },
+        {
+          "id": "ST06-006_p1~ja",
+          "language": "ja",
+          "set": "P",
+          "rarity": "C",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/ST06-006_p1.png",
+          "cardSet": "スタンダードバトルパック Vol.3",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
+        },
+        {
+          "id": "ST06-006_p2~ja",
+          "language": "ja",
+          "set": "OP08",
+          "rarity": "SP CARD",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/ST06-006_p2.png",
+          "cardSet": "ブースターパック 二つの伝説【OP-08】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "ST06-007",
       "name": "Tsuru",
+      "names": {
+        "en": "Tsuru",
+        "ja": "つる"
+      },
       "category": "Character",
       "cost": 2,
       "power": 2000,
@@ -525,12 +657,29 @@
             "match": "image-only-candidate",
             "distance": 0
           }
+        },
+        {
+          "id": "ST06-007~ja",
+          "language": "ja",
+          "set": "ST06",
+          "rarity": "C",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/ST06-007.png",
+          "cardSet": "海軍【ST-06】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "ST06-008",
       "name": "Hina",
+      "names": {
+        "en": "Hina",
+        "ja": "ヒナ"
+      },
       "category": "Character",
       "cost": 3,
       "power": 5000,
@@ -673,12 +822,72 @@
               "category": "retail"
             }
           ]
+        },
+        {
+          "id": "ST06-008~ja",
+          "language": "ja",
+          "set": "ST06",
+          "rarity": "C",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/ST06-008.png",
+          "cardSet": "海軍【ST-06】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
+        },
+        {
+          "id": "ST06-008_p1~ja",
+          "language": "ja",
+          "set": "OTHER",
+          "rarity": "C",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/ST06-008_p1.png",
+          "cardSet": "プレミアムカードコレクション - ベストセレクションvol.2 -",
+          "source": "bandai"
+        },
+        {
+          "id": "ST06-008_p2~ja",
+          "language": "ja",
+          "set": "PRB02",
+          "rarity": "C",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/ST06-008_p2.png",
+          "cardSet": "ONE PIECE CARD THE BEST vol.2【PRB-02】",
+          "source": "bandai"
+        },
+        {
+          "id": "ST06-008_p3~ja",
+          "language": "ja",
+          "set": "P",
+          "rarity": "C",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/ST06-008_p3.png",
+          "cardSet": "プロモーションカードセット2026",
+          "source": "bandai"
+        },
+        {
+          "id": "ST06-008_r1~ja",
+          "language": "ja",
+          "set": "PRB02",
+          "rarity": "C",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/ST06-008_r1.png",
+          "cardSet": "ONE PIECE CARD THE BEST vol.2【PRB-02】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "ST06-009",
       "name": "Fullbody",
+      "names": {
+        "en": "Fullbody",
+        "ja": "フルボディ"
+      },
       "category": "Character",
       "cost": 2,
       "power": 4000,
@@ -714,12 +923,29 @@
             "match": "image-only-candidate",
             "distance": 0
           }
+        },
+        {
+          "id": "ST06-009~ja",
+          "language": "ja",
+          "set": "ST06",
+          "rarity": "C",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/ST06-009.png",
+          "cardSet": "海軍【ST-06】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "ST06-010",
       "name": "Helmeppo",
+      "names": {
+        "en": "Helmeppo",
+        "ja": "ヘルメッポ"
+      },
       "category": "Character",
       "cost": 2,
       "power": 3000,
@@ -863,12 +1089,65 @@
               "category": "program"
             }
           ]
+        },
+        {
+          "id": "ST06-010~ja",
+          "language": "ja",
+          "set": "ST06",
+          "rarity": "C",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/ST06-010.png",
+          "cardSet": "海軍【ST-06】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
+        },
+        {
+          "id": "ST06-010_p1~ja",
+          "language": "ja",
+          "set": "PRB01",
+          "rarity": "C",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/ST06-010_p1.png",
+          "cardSet": "ONE PIECE CARD THE BEST【PRB-01】",
+          "source": "bandai"
+        },
+        {
+          "id": "ST06-010_p2~ja",
+          "language": "ja",
+          "set": "PRB01",
+          "rarity": "C",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/ST06-010_p2.png",
+          "cardSet": "ONE PIECE CARD THE BEST【PRB-01】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "ST06-010_r1~ja",
+          "language": "ja",
+          "set": "PRB01",
+          "rarity": "C",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/ST06-010_r1.png",
+          "cardSet": "ONE PIECE CARD THE BEST【PRB-01】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "ST06-011",
       "name": "Momonga",
+      "names": {
+        "en": "Momonga",
+        "ja": "モモンガ"
+      },
       "category": "Character",
       "cost": 4,
       "power": 6000,
@@ -905,12 +1184,29 @@
             "distance": 4
           },
           "artist": "HISASHI HUJIWARA"
+        },
+        {
+          "id": "ST06-011~ja",
+          "language": "ja",
+          "set": "ST06",
+          "rarity": "C",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/ST06-011.png",
+          "cardSet": "海軍【ST-06】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "ST06-012",
       "name": "Monkey.D.Garp",
+      "names": {
+        "en": "Monkey.D.Garp",
+        "ja": "モンキー・D・ガープ"
+      },
       "category": "Character",
       "cost": 5,
       "power": 6000,
@@ -971,12 +1267,29 @@
               "category": "championship"
             }
           ]
+        },
+        {
+          "id": "ST06-012~ja",
+          "language": "ja",
+          "set": "ST06",
+          "rarity": "SR",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/ST06-012.png",
+          "cardSet": "海軍【ST-06】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "ST06-013",
       "name": "T-Bone",
+      "names": {
+        "en": "T-Bone",
+        "ja": "Tボーン"
+      },
       "category": "Character",
       "cost": 3,
       "power": 5000,
@@ -1013,12 +1326,29 @@
             "distance": 1
           },
           "artist": "HISASHI HUJIWARA"
+        },
+        {
+          "id": "ST06-013~ja",
+          "language": "ja",
+          "set": "ST06",
+          "rarity": "C",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/ST06-013.png",
+          "cardSet": "海軍【ST-06】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "ST06-014",
       "name": "Shockwave",
+      "names": {
+        "en": "Shockwave",
+        "ja": "衝撃波"
+      },
       "category": "Event",
       "cost": 2,
       "colors": [
@@ -1118,12 +1448,65 @@
           "finishes": [
             "nonfoil"
           ]
+        },
+        {
+          "id": "ST06-014~ja",
+          "language": "ja",
+          "set": "ST06",
+          "rarity": "C",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/ST06-014.png",
+          "cardSet": "海軍【ST-06】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
+        },
+        {
+          "id": "ST06-014_p1~ja",
+          "language": "ja",
+          "set": "PRB01",
+          "rarity": "C",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/ST06-014_p1.png",
+          "cardSet": "ONE PIECE CARD THE BEST【PRB-01】",
+          "source": "bandai"
+        },
+        {
+          "id": "ST06-014_p2~ja",
+          "language": "ja",
+          "set": "PRB01",
+          "rarity": "C",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/ST06-014_p2.png",
+          "cardSet": "ONE PIECE CARD THE BEST【PRB-01】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "ST06-014_r1~ja",
+          "language": "ja",
+          "set": "PRB01",
+          "rarity": "C",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/ST06-014_r1.png",
+          "cardSet": "ONE PIECE CARD THE BEST【PRB-01】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "ST06-015",
       "name": "Great Eruption",
+      "names": {
+        "en": "Great Eruption",
+        "ja": "大噴火"
+      },
       "category": "Event",
       "cost": 1,
       "colors": [
@@ -1154,12 +1537,29 @@
             "match": "image-only-candidate",
             "distance": 1
           }
+        },
+        {
+          "id": "ST06-015~ja",
+          "language": "ja",
+          "set": "ST06",
+          "rarity": "C",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/ST06-015.png",
+          "cardSet": "海軍【ST-06】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "ST06-016",
       "name": "White Out",
+      "names": {
+        "en": "White Out",
+        "ja": "ホワイト・アウト"
+      },
       "category": "Event",
       "cost": 1,
       "colors": [
@@ -1190,12 +1590,29 @@
             "match": "image-only-candidate",
             "distance": 4
           }
+        },
+        {
+          "id": "ST06-016~ja",
+          "language": "ja",
+          "set": "ST06",
+          "rarity": "C",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/ST06-016.png",
+          "cardSet": "海軍【ST-06】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "ST06-017",
       "name": "Navy HQ",
+      "names": {
+        "en": "Navy HQ",
+        "ja": "海軍本部"
+      },
       "category": "Stage",
       "cost": 1,
       "colors": [
@@ -1226,6 +1643,19 @@
             "match": "image-only-candidate",
             "distance": 0
           }
+        },
+        {
+          "id": "ST06-017~ja",
+          "language": "ja",
+          "set": "ST06",
+          "rarity": "C",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/ST06-017.png",
+          "cardSet": "海軍【ST-06】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     }

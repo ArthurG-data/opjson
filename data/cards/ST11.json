@@ -3,6 +3,10 @@
     {
       "number": "ST11-001",
       "name": "Uta",
+      "names": {
+        "en": "Uta",
+        "ja": "ウタ"
+      },
       "category": "Leader",
       "power": 5000,
       "life": 5,
@@ -60,12 +64,42 @@
             "distance": 3
           },
           "artist": "BISAI"
+        },
+        {
+          "id": "ST11-001~ja",
+          "language": "ja",
+          "set": "ST11",
+          "rarity": "L",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/ST11-001.png",
+          "cardSet": "Side ウタ【ST-11】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "ST11-001_p1~ja",
+          "language": "ja",
+          "set": "ST16",
+          "rarity": "L",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/ST11-001_p1.png",
+          "cardSet": "スタートデッキ 緑 ウタ【ST-16】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "ST11-002",
       "name": "Uta",
+      "names": {
+        "en": "Uta",
+        "ja": "ウタ"
+      },
       "category": "Character",
       "cost": 3,
       "power": 4000,
@@ -103,12 +137,29 @@
             "distance": 2
           },
           "artist": "Sunohara"
+        },
+        {
+          "id": "ST11-002~ja",
+          "language": "ja",
+          "set": "ST11",
+          "rarity": "SR",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/ST11-002.png",
+          "cardSet": "Side ウタ【ST-11】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "ST11-003",
       "name": "Backlight",
+      "names": {
+        "en": "Backlight",
+        "ja": "逆光"
+      },
       "category": "Event",
       "cost": 2,
       "colors": [
@@ -217,12 +268,55 @@
               "category": "program"
             }
           ]
+        },
+        {
+          "id": "ST11-003~ja",
+          "language": "ja",
+          "set": "ST11",
+          "rarity": "C",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/ST11-003.png",
+          "cardSet": "Side ウタ【ST-11】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
+        },
+        {
+          "id": "ST11-003_p1~ja",
+          "language": "ja",
+          "set": "P",
+          "rarity": "C",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/ST11-003_p1.png",
+          "cardSet": "『ONE PIECE FILM RED』入場者プレゼント アンコールパック",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
+        },
+        {
+          "id": "ST11-003_p2~ja",
+          "language": "ja",
+          "set": "ST16",
+          "rarity": "C",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/ST11-003_p2.png",
+          "cardSet": "スタートデッキ 緑 ウタ【ST-16】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "ST11-004",
       "name": "New Genesis",
+      "names": {
+        "en": "New Genesis",
+        "ja": "新時代"
+      },
       "category": "Event",
       "cost": 1,
       "colors": [
@@ -305,12 +399,55 @@
             "match": "image-only-candidate",
             "distance": 2
           }
+        },
+        {
+          "id": "ST11-004~ja",
+          "language": "ja",
+          "set": "ST11",
+          "rarity": "SR",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/ST11-004.png",
+          "cardSet": "Side ウタ【ST-11】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "ST11-004_p1~ja",
+          "language": "ja",
+          "set": "P",
+          "rarity": "SR",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/ST11-004_p1.png",
+          "cardSet": "『ONE PIECE FILM RED』入場者プレゼント アンコールパック",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
+        },
+        {
+          "id": "ST11-004_p2~ja",
+          "language": "ja",
+          "set": "ST16",
+          "rarity": "SR",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/ST11-004_p2.png",
+          "cardSet": "スタートデッキ 緑 ウタ【ST-16】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "ST11-005",
       "name": "I'm invincible",
+      "names": {
+        "en": "I'm invincible",
+        "ja": "私は最強"
+      },
       "category": "Event",
       "cost": 3,
       "colors": [
@@ -393,6 +530,45 @@
             "match": "image-only-candidate",
             "distance": 1
           }
+        },
+        {
+          "id": "ST11-005~ja",
+          "language": "ja",
+          "set": "ST11",
+          "rarity": "C",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/ST11-005.png",
+          "cardSet": "Side ウタ【ST-11】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
+        },
+        {
+          "id": "ST11-005_p1~ja",
+          "language": "ja",
+          "set": "P",
+          "rarity": "C",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/ST11-005_p1.png",
+          "cardSet": "『ONE PIECE FILM RED』入場者プレゼント アンコールパック",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
+        },
+        {
+          "id": "ST11-005_p2~ja",
+          "language": "ja",
+          "set": "ST16",
+          "rarity": "C",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/ST11-005_p2.png",
+          "cardSet": "スタートデッキ 緑 ウタ【ST-16】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     }

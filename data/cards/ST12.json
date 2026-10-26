@@ -3,6 +3,10 @@
     {
       "number": "ST12-001",
       "name": "Roronoa Zoro & Sanji",
+      "names": {
+        "en": "Roronoa Zoro & Sanji",
+        "ja": "ロロノア・ゾロ＆サンジ"
+      },
       "category": "Leader",
       "power": 5000,
       "life": 4,
@@ -40,12 +44,29 @@
             "distance": 4
           },
           "artist": "S-KINOKO"
+        },
+        {
+          "id": "ST12-001~ja",
+          "language": "ja",
+          "set": "ST12",
+          "rarity": "L",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/ST12-001.png",
+          "cardSet": "ゾロ&サンジ【ST-12】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "ST12-002",
       "name": "Kuina",
+      "names": {
+        "en": "Kuina",
+        "ja": "くいな"
+      },
       "category": "Character",
       "cost": 3,
       "power": 2000,
@@ -82,12 +103,29 @@
             "distance": 4
           },
           "artist": "SOWSOW"
+        },
+        {
+          "id": "ST12-002~ja",
+          "language": "ja",
+          "set": "ST12",
+          "rarity": "C",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/ST12-002.png",
+          "cardSet": "ゾロ&サンジ【ST-12】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "ST12-003",
       "name": "Dracule Mihawk",
+      "names": {
+        "en": "Dracule Mihawk",
+        "ja": "ジュラキュール・ミホーク"
+      },
       "category": "Character",
       "cost": 3,
       "power": 4000,
@@ -238,12 +276,39 @@
               "category": "placement"
             }
           ]
+        },
+        {
+          "id": "ST12-003~ja",
+          "language": "ja",
+          "set": "ST12",
+          "rarity": "SR",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/ST12-003.png",
+          "cardSet": "ゾロ&サンジ【ST-12】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "ST12-003_p1~ja",
+          "language": "ja",
+          "set": "P",
+          "rarity": "SR",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/ST12-003_p1.png",
+          "cardSet": "Vジャンプ10月特大号 応募者全員サービス",
+          "source": "bandai"
         }
       ]
     },
     {
       "number": "ST12-004",
       "name": "Humandrill",
+      "names": {
+        "en": "Humandrill",
+        "ja": "ヒューマンドリル"
+      },
       "category": "Character",
       "cost": 3,
       "power": 5000,
@@ -281,12 +346,29 @@
             "distance": 5
           },
           "artist": "S-KINOKO"
+        },
+        {
+          "id": "ST12-004~ja",
+          "language": "ja",
+          "set": "ST12",
+          "rarity": "C",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/ST12-004.png",
+          "cardSet": "ゾロ&サンジ【ST-12】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "ST12-005",
       "name": "Perona",
+      "names": {
+        "en": "Perona",
+        "ja": "ペローナ"
+      },
       "category": "Character",
       "cost": 4,
       "power": 6000,
@@ -380,12 +462,55 @@
           ],
           "artOf": "ST12-005",
           "artist": "Hatori Kyoka"
+        },
+        {
+          "id": "ST12-005~ja",
+          "language": "ja",
+          "set": "ST12",
+          "rarity": "C",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/ST12-005.png",
+          "cardSet": "ゾロ&サンジ【ST-12】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
+        },
+        {
+          "id": "ST12-005_p1~ja",
+          "language": "ja",
+          "set": "PRB02",
+          "rarity": "C",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/ST12-005_p1.png",
+          "cardSet": "ONE PIECE CARD THE BEST vol.2【PRB-02】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "ST12-005_r1~ja",
+          "language": "ja",
+          "set": "PRB02",
+          "rarity": "C",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/ST12-005_r1.png",
+          "cardSet": "ONE PIECE CARD THE BEST vol.2【PRB-02】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "ST12-006",
       "name": "Yosaku & Johnny",
+      "names": {
+        "en": "Yosaku & Johnny",
+        "ja": "ヨサク＆ジョニー"
+      },
       "category": "Character",
       "cost": 2,
       "power": 3000,
@@ -422,12 +547,29 @@
             "distance": 3
           },
           "artist": "Akihiro MIYANO"
+        },
+        {
+          "id": "ST12-006~ja",
+          "language": "ja",
+          "set": "ST12",
+          "rarity": "C",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/ST12-006.png",
+          "cardSet": "ゾロ&サンジ【ST-12】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "ST12-007",
       "name": "Rika",
+      "names": {
+        "en": "Rika",
+        "ja": "リカ"
+      },
       "category": "Character",
       "cost": 2,
       "counter": 2000,
@@ -463,12 +605,29 @@
             "distance": 7
           },
           "artist": "SOWSOW"
+        },
+        {
+          "id": "ST12-007~ja",
+          "language": "ja",
+          "set": "ST12",
+          "rarity": "C",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/ST12-007.png",
+          "cardSet": "ゾロ&サンジ【ST-12】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "ST12-008",
       "name": "Roronoa Zoro",
+      "names": {
+        "en": "Roronoa Zoro",
+        "ja": "ロロノア・ゾロ"
+      },
       "category": "Character",
       "cost": 4,
       "power": 6000,
@@ -550,12 +709,29 @@
           "finishes": [
             "nonfoil"
           ]
+        },
+        {
+          "id": "ST12-008~ja",
+          "language": "ja",
+          "set": "ST12",
+          "rarity": "C",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/ST12-008.png",
+          "cardSet": "ゾロ&サンジ【ST-12】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "ST12-009",
       "name": "Elephant True Bluefin",
+      "names": {
+        "en": "Elephant True Bluefin",
+        "ja": "エレファント・ホンマグロ"
+      },
       "category": "Character",
       "cost": 1,
       "power": 3000,
@@ -592,12 +768,29 @@
             "distance": 3
           },
           "artist": "KISUKE"
+        },
+        {
+          "id": "ST12-009~ja",
+          "language": "ja",
+          "set": "ST12",
+          "rarity": "C",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/ST12-009.png",
+          "cardSet": "ゾロ&サンジ【ST-12】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "ST12-010",
       "name": "Emporio.Ivankov",
+      "names": {
+        "en": "Emporio.Ivankov",
+        "ja": "エンポリオ・イワンコフ"
+      },
       "category": "Character",
       "cost": 3,
       "power": 4000,
@@ -635,12 +828,29 @@
             "distance": 2
           },
           "artist": "Denim2"
+        },
+        {
+          "id": "ST12-010~ja",
+          "language": "ja",
+          "set": "ST12",
+          "rarity": "SR",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/ST12-010.png",
+          "cardSet": "ゾロ&サンジ【ST-12】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "ST12-011",
       "name": "Sanji",
+      "names": {
+        "en": "Sanji",
+        "ja": "サンジ"
+      },
       "category": "Character",
       "cost": 2,
       "power": 3000,
@@ -676,12 +886,29 @@
             "distance": 4
           },
           "artist": "Ryuda"
+        },
+        {
+          "id": "ST12-011~ja",
+          "language": "ja",
+          "set": "ST12",
+          "rarity": "C",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/ST12-011.png",
+          "cardSet": "ゾロ&サンジ【ST-12】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "ST12-012",
       "name": "Charlotte Pudding",
+      "names": {
+        "en": "Charlotte Pudding",
+        "ja": "シャーロット・プリン"
+      },
       "category": "Character",
       "cost": 2,
       "power": 2000,
@@ -744,12 +971,42 @@
             "sp"
           ],
           "artist": "Hashimoto Q"
+        },
+        {
+          "id": "ST12-012~ja",
+          "language": "ja",
+          "set": "ST12",
+          "rarity": "C",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/ST12-012.png",
+          "cardSet": "ゾロ&サンジ【ST-12】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
+        },
+        {
+          "id": "ST12-012_p1~ja",
+          "language": "ja",
+          "set": "OP10",
+          "rarity": "SP CARD",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/ST12-012_p1.png",
+          "cardSet": "ブースターパック 王族の血統【OP-10】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "ST12-013",
       "name": "Zeff",
+      "names": {
+        "en": "Zeff",
+        "ja": "ゼフ"
+      },
       "category": "Character",
       "cost": 5,
       "power": 5000,
@@ -786,12 +1043,29 @@
             "distance": 5
           },
           "artist": "Studio Vigor Co. Ltd"
+        },
+        {
+          "id": "ST12-013~ja",
+          "language": "ja",
+          "set": "ST12",
+          "rarity": "C",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/ST12-013.png",
+          "cardSet": "ゾロ&サンジ【ST-12】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "ST12-014",
       "name": "Duval",
+      "names": {
+        "en": "Duval",
+        "ja": "デュバル"
+      },
       "category": "Character",
       "cost": 2,
       "power": 1000,
@@ -896,12 +1170,65 @@
             "nonfoil"
           ],
           "artist": "COGA"
+        },
+        {
+          "id": "ST12-014~ja",
+          "language": "ja",
+          "set": "ST12",
+          "rarity": "C",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/ST12-014.png",
+          "cardSet": "ゾロ&サンジ【ST-12】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
+        },
+        {
+          "id": "ST12-014_p1~ja",
+          "language": "ja",
+          "set": "PRB01",
+          "rarity": "C",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/ST12-014_p1.png",
+          "cardSet": "ONE PIECE CARD THE BEST【PRB-01】",
+          "source": "bandai"
+        },
+        {
+          "id": "ST12-014_p2~ja",
+          "language": "ja",
+          "set": "PRB01",
+          "rarity": "C",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/ST12-014_p2.png",
+          "cardSet": "ONE PIECE CARD THE BEST【PRB-01】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "ST12-014_r1~ja",
+          "language": "ja",
+          "set": "PRB01",
+          "rarity": "C",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/ST12-014_r1.png",
+          "cardSet": "ONE PIECE CARD THE BEST【PRB-01】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "ST12-015",
       "name": "Patty & Carne",
+      "names": {
+        "en": "Patty & Carne",
+        "ja": "パティ＆カルネ"
+      },
       "category": "Character",
       "cost": 2,
       "power": 4000,
@@ -938,12 +1265,29 @@
             "distance": 3
           },
           "artist": "SENNSU"
+        },
+        {
+          "id": "ST12-015~ja",
+          "language": "ja",
+          "set": "ST12",
+          "rarity": "C",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/ST12-015.png",
+          "cardSet": "ゾロ&サンジ【ST-12】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "ST12-016",
       "name": "Lion Strike",
+      "names": {
+        "en": "Lion Strike",
+        "ja": "獅子歌歌"
+      },
       "category": "Event",
       "cost": 2,
       "colors": [
@@ -975,12 +1319,29 @@
             "distance": 8
           },
           "artist": "tatsuya"
+        },
+        {
+          "id": "ST12-016~ja",
+          "language": "ja",
+          "set": "ST12",
+          "rarity": "C",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/ST12-016.png",
+          "cardSet": "ゾロ&サンジ【ST-12】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "ST12-017",
       "name": "Plastic Surgery Shot",
+      "names": {
+        "en": "Plastic Surgery Shot",
+        "ja": "整形ショット"
+      },
       "category": "Event",
       "cost": 1,
       "colors": [
@@ -1068,6 +1429,45 @@
           ],
           "artOf": "ST12-017",
           "artist": "akagi"
+        },
+        {
+          "id": "ST12-017~ja",
+          "language": "ja",
+          "set": "ST12",
+          "rarity": "C",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/ST12-017.png",
+          "cardSet": "ゾロ&サンジ【ST-12】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
+        },
+        {
+          "id": "ST12-017_p1~ja",
+          "language": "ja",
+          "set": "PRB02",
+          "rarity": "C",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/ST12-017_p1.png",
+          "cardSet": "ONE PIECE CARD THE BEST vol.2【PRB-02】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "ST12-017_r1~ja",
+          "language": "ja",
+          "set": "PRB02",
+          "rarity": "C",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/ST12-017_r1.png",
+          "cardSet": "ONE PIECE CARD THE BEST vol.2【PRB-02】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     }

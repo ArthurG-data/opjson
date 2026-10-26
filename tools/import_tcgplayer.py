@@ -49,6 +49,7 @@ from dataclasses import dataclass
 from pathlib import Path
 
 import images
+import opjson
 import tcgcsv
 
 ROOT = Path(__file__).resolve().parents[1]
@@ -447,8 +448,9 @@ def assign_by_name(products: list[tcgcsv.Product], candidates: list[str], number
 def main() -> None:
     rules = json.loads(TAGS.read_text(encoding="utf-8"))["rules"]
     sets = json.loads(SETS.read_text(encoding="utf-8"))
-    set_ids = {s["id"] for s in sets}
+    set_ids = opjson.english_set_ids(sets)
     files = {f.stem: json.loads(f.read_text(encoding="utf-8")) for f in sorted(CARDS.glob("*.json"))}
+    japanese = opjson.set_aside_japanese(files)  # Bandai's Japanese printings are not sold on TCGplayer
     cards = {c["number"]: c for body in files.values() for c in body["cards"]}
     for c in cards.values():
         for p in c["printings"]:
@@ -739,6 +741,7 @@ def main() -> None:
         _label(printing, treatments, promos)
         card["printings"].append({k: v for k, v in printing.items() if v is not None})
 
+    opjson.restore_japanese(files, japanese)
     _write(files, sets, roles, groups)
     FINISH_RECORD.write_text(finish_record_text(finishes), encoding="utf-8")
     REVIEW.parent.mkdir(parents=True, exist_ok=True)
@@ -787,7 +790,8 @@ def _label(printing: dict, treatments: list[str], promos: list[tuple[str, str]])
 
 def _new_card(number: str, p: tcgcsv.Product, files: dict) -> dict:
     """A card Bandai's list does not have, from TCGplayer's facts. Only DON!! cards reach this today."""
-    card = {"number": number, "name": "DON!!" if number == DON else p.base_name_and_tags()[0],
+    name = "DON!!" if number == DON else p.base_name_and_tags()[0]
+    card = {"number": number, "name": name, "names": {"en": name},
             "category": "DON" if number == DON else (p.extended.get("CardType") or "").title(),
             "source": "tcgplayer", "printings": []}
     files.setdefault(number.split("-", 1)[0], {"cards": []})["cards"].append(card)

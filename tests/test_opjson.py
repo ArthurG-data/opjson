@@ -6,7 +6,7 @@ SETS = [{"id": "OP01", "type": "booster", "releases": [{"language": "en", "name"
                                                         "source": "https://example.com/op01"}]},
         {"id": "OP01-PRE", "type": "promo", "parent": "OP01", "source": "tcgplayer",
          "releases": [{"language": "en", "name": "Pre-Release", "source": "https://example.com/pre"}]}]
-CARDS = {"OP01": {"cards": [{"number": "OP01-120", "name": "Shanks", "category": "Character", "printings": [
+CARDS = {"OP01": {"cards": [{"number": "OP01-120", "name": "Shanks", "names": {"en": "Shanks"}, "category": "Character", "printings": [
     {"id": "OP01-120", "set": "OP01", "image": "https://example.com/a.png", "source": "bandai",
      "identifiers": {"tcgplayerProductIds": [454664]}},
     {"id": "OP01-120~tcg9", "set": "OP01-PRE", "image": "https://example.com/b.jpg", "source": "tcgplayer",

@@ -3,6 +3,10 @@
     {
       "number": "ST34-001",
       "name": "Charlotte Katakuri",
+      "names": {
+        "en": "Charlotte Katakuri",
+        "ja": "シャーロット・カタクリ"
+      },
       "category": "Character",
       "cost": 5,
       "power": 7000,
@@ -38,12 +42,29 @@
             "distance": 3
           },
           "artist": "Oden"
+        },
+        {
+          "id": "ST34-001~ja",
+          "language": "ja",
+          "set": "ST34",
+          "rarity": "SR",
+          "block": "5",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/ST34-001.png",
+          "cardSet": "スタートデッキ 紫 シャーロット・カタクリ【ST-34】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "ST34-002",
       "name": "Charlotte Cracker",
+      "names": {
+        "en": "Charlotte Cracker",
+        "ja": "シャーロット・クラッカー"
+      },
       "category": "Character",
       "cost": 4,
       "power": 5000,
@@ -80,12 +101,29 @@
             "distance": 4
           },
           "artist": "Misa Matoki"
+        },
+        {
+          "id": "ST34-002~ja",
+          "language": "ja",
+          "set": "ST34",
+          "rarity": "C",
+          "block": "5",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/ST34-002.png",
+          "cardSet": "スタートデッキ 紫 シャーロット・カタクリ【ST-34】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "ST34-003",
       "name": "Charlotte Brulee",
+      "names": {
+        "en": "Charlotte Brulee",
+        "ja": "シャーロット・ブリュレ"
+      },
       "category": "Character",
       "cost": 1,
       "power": 2000,
@@ -122,12 +160,29 @@
             "distance": 2
           },
           "artist": "Yuu Shimotsuki"
+        },
+        {
+          "id": "ST34-003~ja",
+          "language": "ja",
+          "set": "ST34",
+          "rarity": "C",
+          "block": "5",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/ST34-003.png",
+          "cardSet": "スタートデッキ 紫 シャーロット・カタクリ【ST-34】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "ST34-004",
       "name": "Charlotte Linlin",
+      "names": {
+        "en": "Charlotte Linlin",
+        "ja": "シャーロット・リンリン"
+      },
       "category": "Character",
       "cost": 10,
       "power": 12000,
@@ -164,12 +219,29 @@
             "distance": 4
           },
           "artist": "Hatori Kyoka"
+        },
+        {
+          "id": "ST34-004~ja",
+          "language": "ja",
+          "set": "ST34",
+          "rarity": "SR",
+          "block": "5",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/ST34-004.png",
+          "cardSet": "スタートデッキ 紫 シャーロット・カタクリ【ST-34】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "ST34-005",
       "name": "Baron Tamago & Pekoms",
+      "names": {
+        "en": "Baron Tamago & Pekoms",
+        "ja": "タマゴ男爵＆ペコムズ"
+      },
       "category": "Character",
       "cost": 3,
       "power": 4000,
@@ -207,6 +279,19 @@
             "distance": 6
           },
           "artist": "kankurou"
+        },
+        {
+          "id": "ST34-005~ja",
+          "language": "ja",
+          "set": "ST34",
+          "rarity": "C",
+          "block": "5",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/ST34-005.png",
+          "cardSet": "スタートデッキ 紫 シャーロット・カタクリ【ST-34】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     }

@@ -3,6 +3,10 @@
     {
       "number": "ST23-001",
       "name": "Uta",
+      "names": {
+        "en": "Uta",
+        "ja": "ウタ"
+      },
       "category": "Character",
       "cost": 6,
       "power": 4000,
@@ -39,12 +43,39 @@
             "distance": 4
           },
           "artist": "Koushi Rokushiro"
+        },
+        {
+          "id": "ST23-001~ja",
+          "language": "ja",
+          "set": "ST23",
+          "rarity": "SR",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/ST23-001.png",
+          "cardSet": "スタートデッキ 赤 シャンクス【ST-23】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "ST23-001_p1~ja",
+          "language": "ja",
+          "set": "P",
+          "rarity": "SR",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/ST23-001_p1.png",
+          "cardSet": "プロモーションパックEX Vol.4",
+          "source": "bandai"
         }
       ]
     },
     {
       "number": "ST23-002",
       "name": "Shanks",
+      "names": {
+        "en": "Shanks",
+        "ja": "シャンクス"
+      },
       "category": "Character",
       "cost": 9,
       "power": 10000,
@@ -81,12 +112,29 @@
             "distance": 4
           },
           "artist": "Morechand"
+        },
+        {
+          "id": "ST23-002~ja",
+          "language": "ja",
+          "set": "ST23",
+          "rarity": "SR",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/ST23-002.png",
+          "cardSet": "スタートデッキ 赤 シャンクス【ST-23】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "ST23-003",
       "name": "Benn.Beckman",
+      "names": {
+        "en": "Benn.Beckman",
+        "ja": "ベン・ベックマン"
+      },
       "category": "Character",
       "cost": 4,
       "power": 5000,
@@ -123,12 +171,29 @@
             "distance": 2
           },
           "artist": "eiji kaneda"
+        },
+        {
+          "id": "ST23-003~ja",
+          "language": "ja",
+          "set": "ST23",
+          "rarity": "C",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/ST23-003.png",
+          "cardSet": "スタートデッキ 赤 シャンクス【ST-23】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "ST23-004",
       "name": "Monkey.D.Luffy",
+      "names": {
+        "en": "Monkey.D.Luffy",
+        "ja": "モンキー・Ｄ・ルフィ"
+      },
       "category": "Character",
       "cost": 1,
       "power": 2000,
@@ -181,12 +246,42 @@
             "nonfoil"
           ],
           "artist": "HISASHI HUJIWARA"
+        },
+        {
+          "id": "ST23-004~ja",
+          "language": "ja",
+          "set": "ST23",
+          "rarity": "C",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/ST23-004.png",
+          "cardSet": "スタートデッキ 赤 シャンクス【ST-23】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
+        },
+        {
+          "id": "ST23-004_r1~ja",
+          "language": "ja",
+          "set": "ST31",
+          "rarity": "C",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/ST23-004_r1.png",
+          "cardSet": "スタートデッキ 赤 モンキー・D・ルフィ【ST-31】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "ST23-005",
       "name": "Yasopp",
+      "names": {
+        "en": "Yasopp",
+        "ja": "ヤソップ"
+      },
       "category": "Character",
       "cost": 1,
       "power": 1000,
@@ -223,6 +318,19 @@
             "distance": 4
           },
           "artist": "Yasushi Yamaguchi"
+        },
+        {
+          "id": "ST23-005~ja",
+          "language": "ja",
+          "set": "ST23",
+          "rarity": "C",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/ST23-005.png",
+          "cardSet": "スタートデッキ 赤 シャンクス【ST-23】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     }

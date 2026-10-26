@@ -3,6 +3,10 @@
     {
       "number": "ST17-001",
       "name": "Crocodile",
+      "names": {
+        "en": "Crocodile",
+        "ja": "クロコダイル"
+      },
       "category": "Character",
       "cost": 4,
       "power": 5000,
@@ -40,12 +44,29 @@
             "distance": 1
           },
           "artist": "Morechand"
+        },
+        {
+          "id": "ST17-001~ja",
+          "language": "ja",
+          "set": "ST17",
+          "rarity": "C",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/ST17-001.png",
+          "cardSet": "スタートデッキ 青 ドンキホーテ・ドフラミンゴ【ST-17】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "ST17-002",
       "name": "Trafalgar Law",
+      "names": {
+        "en": "Trafalgar Law",
+        "ja": "トラファルガー・ロー"
+      },
       "category": "Character",
       "cost": 4,
       "power": 5000,
@@ -136,12 +157,55 @@
           ],
           "artOf": "ST17-002",
           "artist": "Yuu Shimotsuki"
+        },
+        {
+          "id": "ST17-002~ja",
+          "language": "ja",
+          "set": "ST17",
+          "rarity": "SR",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/ST17-002.png",
+          "cardSet": "スタートデッキ 青 ドンキホーテ・ドフラミンゴ【ST-17】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "ST17-002_p1~ja",
+          "language": "ja",
+          "set": "PRB02",
+          "rarity": "SR",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/ST17-002_p1.png",
+          "cardSet": "ONE PIECE CARD THE BEST vol.2【PRB-02】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "ST17-002_r1~ja",
+          "language": "ja",
+          "set": "PRB02",
+          "rarity": "SR",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/ST17-002_r1.png",
+          "cardSet": "ONE PIECE CARD THE BEST vol.2【PRB-02】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "ST17-003",
       "name": "Buggy",
+      "names": {
+        "en": "Buggy",
+        "ja": "バギー"
+      },
       "category": "Character",
       "cost": 1,
       "power": 2000,
@@ -353,12 +417,75 @@
               "category": "program"
             }
           ]
+        },
+        {
+          "id": "ST17-003~ja",
+          "language": "ja",
+          "set": "ST17",
+          "rarity": "C",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/ST17-003.png",
+          "cardSet": "スタートデッキ 青 ドンキホーテ・ドフラミンゴ【ST-17】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
+        },
+        {
+          "id": "ST17-003_p1~ja",
+          "language": "ja",
+          "set": "P",
+          "rarity": "C",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/ST17-003_p1.png",
+          "cardSet": "最強ジャンプ5月号応募者全員サービス（2025年4月4日売）",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "ST17-003_p2~ja",
+          "language": "ja",
+          "set": "PRB02",
+          "rarity": "C",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/ST17-003_p2.png",
+          "cardSet": "ONE PIECE CARD THE BEST vol.2【PRB-02】",
+          "source": "bandai"
+        },
+        {
+          "id": "ST17-003_p3~ja",
+          "language": "ja",
+          "set": "OTHER",
+          "rarity": "C",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/ST17-003_p3.png",
+          "cardSet": "ONE PIECE カードゲーム China 2nd ANNIVERSARY SET",
+          "source": "bandai"
+        },
+        {
+          "id": "ST17-003_r1~ja",
+          "language": "ja",
+          "set": "PRB02",
+          "rarity": "C",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/ST17-003_r1.png",
+          "cardSet": "ONE PIECE CARD THE BEST vol.2【PRB-02】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "ST17-004",
       "name": "Boa Hancock",
+      "names": {
+        "en": "Boa Hancock",
+        "ja": "ボア・ハンコック"
+      },
       "category": "Character",
       "cost": 4,
       "power": 6000,
@@ -451,12 +578,49 @@
               "category": "retail"
             }
           ]
+        },
+        {
+          "id": "ST17-004~ja",
+          "language": "ja",
+          "set": "ST17",
+          "rarity": "SR",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/ST17-004.png",
+          "cardSet": "スタートデッキ 青 ドンキホーテ・ドフラミンゴ【ST-17】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "ST17-004_p1~ja",
+          "language": "ja",
+          "set": "OTHER",
+          "rarity": "SR",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/ST17-004_p1.png",
+          "cardSet": "プレミアムブースター ONE PIECE CARD THE BEST ストレージボックスセット",
+          "source": "bandai"
+        },
+        {
+          "id": "ST17-004_p2~ja",
+          "language": "ja",
+          "set": "OTHER",
+          "rarity": "SR",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/ST17-004_p2.png",
+          "cardSet": "プレミアムブースター ONE PIECE CARD THE BEST ストレージボックスセット",
+          "source": "bandai"
         }
       ]
     },
     {
       "number": "ST17-005",
       "name": "Marshall.D.Teach",
+      "names": {
+        "en": "Marshall.D.Teach",
+        "ja": "マーシャル・D・ティーチ"
+      },
       "category": "Character",
       "cost": 2,
       "power": 3000,
@@ -601,6 +765,58 @@
               "type": "judgegift",
               "category": "program"
             }
+          ]
+        },
+        {
+          "id": "ST17-005~ja",
+          "language": "ja",
+          "set": "ST17",
+          "rarity": "C",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/ST17-005.png",
+          "cardSet": "スタートデッキ 青 ドンキホーテ・ドフラミンゴ【ST-17】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
+        },
+        {
+          "id": "ST17-005_p1~ja",
+          "language": "ja",
+          "set": "PRB02",
+          "rarity": "C",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/ST17-005_p1.png",
+          "cardSet": "ONE PIECE CARD THE BEST vol.2【PRB-02】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "ST17-005_p2~ja",
+          "language": "ja",
+          "set": "OTHER",
+          "rarity": "C",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/ST17-005_p2.png",
+          "cardSet": "ONE PIECE カードゲーム China 2nd ANNIVERSARY SET",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "ST17-005_r1~ja",
+          "language": "ja",
+          "set": "PRB02",
+          "rarity": "C",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/ST17-005_r1.png",
+          "cardSet": "ONE PIECE CARD THE BEST vol.2【PRB-02】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
           ]
         }
       ]

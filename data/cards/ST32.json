@@ -3,6 +3,10 @@
     {
       "number": "ST32-001",
       "name": "Kin'emon",
+      "names": {
+        "en": "Kin'emon",
+        "ja": "錦えもん"
+      },
       "category": "Character",
       "cost": 1,
       "power": 2000,
@@ -40,12 +44,39 @@
             "distance": 4
           },
           "artist": "Yasushi Yamaguchi"
+        },
+        {
+          "id": "ST32-001~ja",
+          "language": "ja",
+          "set": "ST32",
+          "rarity": "C",
+          "block": "5",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/ST32-001.png",
+          "cardSet": "スタートデッキ 緑 ロロノア・ゾロ【ST-32】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
+        },
+        {
+          "id": "ST32-001_p1~ja",
+          "language": "ja",
+          "set": "P",
+          "rarity": "C",
+          "block": "5",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/ST32-001_p1.png",
+          "cardSet": "プロモーションパックEX vol.5",
+          "source": "bandai"
         }
       ]
     },
     {
       "number": "ST32-002",
       "name": "Kouzuki Oden",
+      "names": {
+        "en": "Kouzuki Oden",
+        "ja": "光月おでん"
+      },
       "category": "Character",
       "cost": 5,
       "power": 6000,
@@ -109,12 +140,42 @@
             "sp"
           ],
           "artist": "sakai/INO Ltd."
+        },
+        {
+          "id": "ST32-002~ja",
+          "language": "ja",
+          "set": "ST32",
+          "rarity": "SR",
+          "block": "5",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/ST32-002.png",
+          "cardSet": "スタートデッキ 緑 ロロノア・ゾロ【ST-32】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "ST32-002_p1~ja",
+          "language": "ja",
+          "set": "OP17",
+          "rarity": "SP CARD",
+          "block": "5",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/ST32-002_p1.png",
+          "cardSet": "ブースターパック 世界最強の戦士【OP-17】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "ST32-003",
       "name": "Dracule Mihawk",
+      "names": {
+        "en": "Dracule Mihawk",
+        "ja": "ジュラキュール・ミホーク"
+      },
       "category": "Character",
       "cost": 6,
       "power": 7000,
@@ -151,12 +212,39 @@
             "distance": 2
           },
           "artist": "kicori"
+        },
+        {
+          "id": "ST32-003~ja",
+          "language": "ja",
+          "set": "ST32",
+          "rarity": "SR",
+          "block": "5",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/ST32-003.png",
+          "cardSet": "スタートデッキ 緑 ロロノア・ゾロ【ST-32】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "ST32-003_p1~ja",
+          "language": "ja",
+          "set": "P",
+          "rarity": "SR",
+          "block": "5",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/ST32-003_p1.png",
+          "cardSet": "フラッグシップバトル2026 10月優勝記念品",
+          "source": "bandai"
         }
       ]
     },
     {
       "number": "ST32-004",
       "name": "Silvers Rayleigh",
+      "names": {
+        "en": "Silvers Rayleigh",
+        "ja": "シルバーズ・レイリー"
+      },
       "category": "Character",
       "cost": 4,
       "power": 5000,
@@ -193,12 +281,29 @@
             "distance": 8
           },
           "artist": "Nijihayashi"
+        },
+        {
+          "id": "ST32-004~ja",
+          "language": "ja",
+          "set": "ST32",
+          "rarity": "C",
+          "block": "5",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/ST32-004.png",
+          "cardSet": "スタートデッキ 緑 ロロノア・ゾロ【ST-32】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "ST32-005",
       "name": "Roronoa Zoro",
+      "names": {
+        "en": "Roronoa Zoro",
+        "ja": "ロロノア・ゾロ"
+      },
       "category": "Character",
       "cost": 1,
       "power": 2000,
@@ -236,6 +341,19 @@
             "distance": 3
           },
           "artist": "Koushi Rokushiro"
+        },
+        {
+          "id": "ST32-005~ja",
+          "language": "ja",
+          "set": "ST32",
+          "rarity": "C",
+          "block": "5",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/ST32-005.png",
+          "cardSet": "スタートデッキ 緑 ロロノア・ゾロ【ST-32】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     }

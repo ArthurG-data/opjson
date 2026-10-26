@@ -3,6 +3,10 @@
     {
       "number": "PRB01-001",
       "name": "Sanji",
+      "names": {
+        "en": "Sanji",
+        "ja": "サンジ"
+      },
       "category": "Leader",
       "power": 5000,
       "life": 5,
@@ -62,6 +66,32 @@
           },
           "treatments": [
             "alternate_art"
+          ]
+        },
+        {
+          "id": "PRB01-001~ja",
+          "language": "ja",
+          "set": "PRB01",
+          "rarity": "L",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/PRB01-001.png",
+          "cardSet": "ONE PIECE CARD THE BEST【PRB-01】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
+        },
+        {
+          "id": "PRB01-001_p1~ja",
+          "language": "ja",
+          "set": "PRB01",
+          "rarity": "L",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/PRB01-001_p1.png",
+          "cardSet": "ONE PIECE CARD THE BEST【PRB-01】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
           ]
         }
       ]

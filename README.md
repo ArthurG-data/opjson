@@ -1,13 +1,14 @@
 # opjson
 
-An open dataset of One Piece Card Game sets, cards, printings, sealed products and format legality, in English.
-Each printing carries Bandai's printing id and the TCGplayer product ids that sell it. Bandai's official card list
+An open dataset of One Piece Card Game sets, cards, printings, sealed products and format legality, in English
+and Japanese. Each printing carries Bandai's printing id and the TCGplayer product ids that sell it. Bandai's official card list
 gives every printing an id but no product links, and TCGplayer lists products with no printing ids. opjson ties
 the two together card by card. A TCGplayer product is matched to a printing by card number and by comparing the
 two sites' card images. Nothing is matched by name order, and a product the images cannot settle goes to a review
 file rather than into a guess.
 
-Release 0.2.4 holds 86 sets, 2,876 cards, 7,409 printings and 445 sealed products.
+Release 0.3.0 holds 90 sets, 2,886 cards, 12,486 printings and 445 sealed products. 63 sets have a Japanese
+release, 5,058 printings are Japanese, and 4 sets and 10 cards are only on Bandai's Japanese list.
 
 ## Using the data
 
@@ -21,14 +22,17 @@ https://github.com/ArthurG-data/opjson/releases/latest/download/AllProducts.json
 https://github.com/ArthurG-data/opjson/releases/latest/download/Legality.json
 ```
 
-Every file is `{"meta": {"version": "0.2.4", "date": "2026-10-24"}, "data": {...}}`. All five come from one
+Every file is `{"meta": {"version": "0.3.0", "date": "2026-10-26"}, "data": {...}}`. All five come from one
 build, so a reader that downloads them separately can check that the versions agree.
 
 | File | Keyed by | Holds |
 |---|---|---|
-| `AllSets.json` | set id (`OP01`, `OP02-PRE`) | type, Bandai series id, block, TCGplayer group ids, and per release the name, date, logo and key art |
-| `AllCards.json` | card number (`OP03-055`) | the facts every printing of the card shares |
-| `AllPrintings.json` | printing id (`OP03-055_p2`) | set, rarity, block, finishes, treatments, promo types, image link, artist, TCGplayer product ids |
+| `AllSets.json` | set id (`OP01`, `OP02-PRE`) | type, Bandai series id, block, TCGplayer group ids, and per release (`en`, `ja`) the name, date, logo and key art |
+| `AllCards.json` | card number (`OP03-055`) | the facts every printing of the card shares, and its name in each language |
+| `AllPrintings.json` | printing id (`OP03-055_p2`, `OP03-055_p2~ja`) | language, set, rarity, block, finishes, treatments, promo types, image link, artist, TCGplayer product ids |
+
+Both languages are in the same files. A reader that wants one language filters printings on `language` (absent
+means `en`) and sets on their `releases`.
 | `AllProducts.json` | product id (`romance-dawn-booster-box-wave-1-blue`) | category, set, TCGplayer product id, release date, contents and the sources that state them |
 | `Legality.json` | `formats`, `bans`, `blockDesignations` | the formats and their block windows, every ban and restriction, Bandai's per-card block exceptions |
 
@@ -38,6 +42,13 @@ build, so a reader that downloads them separately can check that the versions ag
   `P` for promos, `OTHER` for cards from other products). It also covers TCGplayer groups that are not a Bandai
   series: pre-release, release-event and anniversary stamp sets (`OP02-PRE`, `OP10-RE`, `OP05-ANN`) and promo
   lines (`OP-DD`, `OP-RP`, `LT01`, `SD01`, `OP-CS`). Each set has a `type` and, for a stamp set, a `parent`.
+
+  Each set has one release per language it is sold in. A set on Bandai's Japanese card list has a `ja` release
+  with its Japanese name, release date and series page. The Japanese list sells some sets the English one does
+  not, and these have only a `ja` release: OP-14, OP-15 and EB-04 are boosters of their own in Japan (`OP14`,
+  `OP15`, `EB04`), which the English list combines as `OP14-EB04` and `OP15-EB04`, and the Family Deck Set
+  (`FAMILY`) is sold only in Japan. `bandaiSeriesId` is the English list's series id; the Japanese one is in the
+  `ja` release's `source`.
 
   | type | AutoMana / MTG set type |
   |---|---|
@@ -90,7 +101,19 @@ The formats are `schema/sets.schema.json`, `schema/cards.schema.json` and `schem
 
 - **Printing ids.** Bandai's printings keep Bandai's id: `OP01-120` is the base, `OP01-120_p1` a parallel or
   alternate art, `OP01-120_r1` a reprint. Printings only TCGplayer sells, which covers stamps and most promos,
-  get an id minted from the card number and the product id (`OP03-055~tcg501666`).
+  get an id minted from the card number and the product id (`OP03-055~tcg501666`). A printing from Bandai's
+  Japanese card list has the Japanese list's id and `~ja` (`OP01-120_p1~ja`).
+- **Languages.** A printing's `language` is `en` or `ja`, and absent means `en`. A card's `names` holds its name
+  in each language it has printings in (`{"en": "Shanks", "ja": "シャンクス"}`), and `name` is the English name, or
+  the Japanese one for a card only Japan has. A Japanese printing has the same kinds of facts as an English one:
+  set, rarity, block, finishes, image and the card set Bandai's Japanese list gives (`cardSet`, in Japanese). It
+  takes the block and finishes of the English printing with the same Bandai id, set and rarity, which the card
+  images and TCGplayer's prices settle. Bandai numbers each language's `_pN` and `_rN` printings on its own, so
+  the same id can be another printing (`OP01-001_p1` is the OP-01 parallel in English and a 25th-anniversary
+  collection card in Japanese); a set or rarity that differs, like an id English lacks, leaves the Japanese
+  printing with the block the Japanese list gives, and finishes only by the rule in `tools/infer_finishes.py`. TCGplayer does not sell Japanese cards, so a Japanese
+  printing has no TCGplayer product id. A card only Japan has gives its types in English where the cards both
+  lists have show the English word, and in Japanese otherwise (`review/japanese.json` lists them).
 - **`artOf`** names the printing whose art a printing carries, when the images agree. A stamped pre-release copy
   points at its base printing, and a reprint that reuses an earlier printing's art points at that printing.
 - **`treatments`** are the art treatment: parallel, alternate_art, manga, sp, full_art, wanted_poster, reprint,
@@ -151,6 +174,15 @@ DON!! cards are one card, `DON`, with one printing per art.
   card list (`en.onepiece-cardgame.com/cardlist/`), one page every 2 seconds. `tools/import_bandai.py` writes the
   sets, the cards and Bandai's printings from that cache. Card facts are numbers, names, categories, costs, power,
   counters, life, colours, types, attributes and rarities. Effect and rules text are never copied (see `NOTICE`).
+- **Japanese cards, printings and sets.** `tools/crawl_bandai.py --language ja` caches every series page of
+  Bandai's Japanese card list (`www.onepiece-cardgame.com/cardlist/`) in `.cache/bandai/ja`, at the same pace.
+  `tools/import_bandai_ja.py` adds the `ja` releases, the Japanese names and the `~ja` printings, and takes each
+  set's release date from the 発売日 on the product page its cards link to. The Japanese list numbers every card
+  as the English one does. The import compares each number's category, cost, power, counter, life, colours and
+  attributes in the two lists and stops on a disagreement, unless `mappings/bandai_ja_corrections.json` settles
+  it from the card image. A disagreement on attributes alone goes to `review/japanese.json`, since it is one
+  list misreading the icon. Colours, attributes and the SP CARD rarity are read into the English words; names
+  and card sets stay in Japanese.
 - **Block icons.** Bandai's list sometimes gives a printing a different block from the one printed on it. Every
   OP-05 card prints block 2, while the list gives 1 for most of them. `tools/check_blocks.py` reads the icon on
   each card image, compares it with reference icons and takes the printed block where the icon reads clearly.
@@ -284,6 +316,7 @@ Each printing's `tcgplayer.match` names the evidence that settled it:
 | `review/reprint-art.json` | printings whose art is close to an earlier one but not close enough to link |
 | `review/logos.json`, `review/key_art.json` | logos and visuals that name no set, or several |
 | `review/artists.json` | printings whose artist credit, read from the card edge, gave readings that disagree |
+| `review/japanese.json` | cards whose two lists give different attributes, Japanese types with no English word yet, and Japanese printings given a finish by rule |
 
 `uv run python tools/coverage.py` reports where every TCGplayer product in category 68 ended up: on a Bandai
 printing, on a minted printing, on a sealed product, in review, or in a set Bandai has not published yet.
@@ -304,9 +337,11 @@ uv run python tools/import_logos.py                  # set logos, where Bandai's
 uv run python tools/import_sealed.py                 # sealed products, then the curated ones
 uv run --group dev python tools/import_key_art.py    # set key art (after import_logos and import_sealed)
 uv run python tools/import_limitless.py              # illustrators, and a check of the TCGplayer ids
+uv run python tools/crawl_bandai.py --language ja    # cache the Japanese card list (one page every 2 s)
+uv run python tools/import_bandai_ja.py              # Japanese releases, names and printings (after every English tool)
 uv run python tools/validate.py [--online [--images]]
 uv run python tools/legality.py [--online]           # ban list replayed and checked against Bandai's
-uv run python tools/build.py --version 0.2.4         # dist/AllSets, AllCards, AllPrintings, AllProducts, Legality
+uv run python tools/build.py --version 0.3.0         # dist/AllSets, AllCards, AllPrintings, AllProducts, Legality
 ```
 
 The pages and images the tools download are cached under `.cache/`, which is never committed. A rebuild reads the
@@ -315,8 +350,11 @@ cache and does not crawl again unless a tool is given `--refresh`. To take a new
 snapshot's finishes to it and never removes one.
 
 `validate.py` checks every file against its schema, every id and reference, and that no TCGplayer product sits
-on two printings. `--online` also asks TCGCSV whether every TCGplayer product id still exists in category 68.
-`--images` adds a HEAD request for every Bandai printing's image, about 5,000 of them, sent six at a time. A 5xx or
+on two printings. It also checks the languages: a `~ja` id has `language` `ja` and only it does, a printing's set
+has a release in the printing's language, a card has a name in each language it has printings in, and a Japanese
+printing has no TCGplayer product. `--online` also asks TCGCSV whether every TCGplayer product id still exists in category 68.
+`--images` adds a HEAD request for every Bandai printing's image, English and Japanese, about 10,000 of them, sent
+six at a time. A 5xx or
 a dropped connection is tried three times before it counts as a failure.
 
 ## Development
@@ -336,8 +374,8 @@ CI runs those checks on every pull request and push to `main`. A `v*` tag also r
 - **A sealed product TCGplayer does not sell.** Add it to `products` in `mappings/sealed_curated.json`, with the
   page that states it in `sources`, and run `tools/import_sealed.py`.
 - **Contents a page states for a TCGplayer product.** Add them to `contents` in the same file, with the page.
-- **A card Bandai's list gets wrong.** Add the fix to `mappings/bandai_corrections.json`, with the card image that
-  shows the right value.
+- **A card Bandai's list gets wrong.** Add the fix to `mappings/bandai_corrections.json` (the English list) or
+  `mappings/bandai_ja_corrections.json` (the Japanese list), with the card image that shows the right value.
 - **A ban or a new format window.** Add it to `legality/`, with the announcement it comes from, and run
   `tools/legality.py --online`.
 

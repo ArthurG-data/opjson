@@ -18,6 +18,56 @@ def _schema(name: str) -> Draft202012Validator:
     return Draft202012Validator(json.loads((SCHEMAS / name).read_text(encoding="utf-8")), format_checker=FormatChecker())
 
 
+def language(p: dict) -> str:
+    """A printing's language: "ja" for one from Bandai's Japanese card list, else "en"."""
+    return p.get("language", "en")
+
+
+def has_release(s: dict, lang: str) -> bool:
+    return any(r["language"] == lang for r in s["releases"])
+
+
+def english_set_ids(sets: list[dict]) -> set[str]:
+    """The sets with an English release: the only ones TCGplayer's groups are matched against."""
+    return {s["id"] for s in sets if has_release(s, "en")}
+
+
+def set_aside_japanese(files: dict[str, dict]) -> dict[str, list]:
+    """Take the Japanese printings, and the cards that have no other, out of files in place, so that a tool that
+    rebuilds the English printings never sees them. restore_japanese puts them back."""
+    aside: dict[str, list] = {}
+    for stem, body in files.items():
+        kept = []
+        for card in body["cards"]:
+            ja = [p for p in card["printings"] if language(p) == "ja"]
+            if ja:
+                card["printings"] = [p for p in card["printings"] if language(p) != "ja"]
+                aside.setdefault(stem, []).append((card if not card["printings"] else None, card["number"], ja))
+            if card["printings"]:
+                kept.append(card)
+        body["cards"] = kept
+    return aside
+
+
+def restore_japanese(files: dict[str, dict], aside: dict[str, list]) -> None:
+    """Put back what set_aside_japanese took. A Japanese-only card that has since gained English printings
+    (TCGplayer minted one) is merged into that card. Each file's cards stay in number order."""
+    for stem, entries in aside.items():
+        body = files.setdefault(stem, {"cards": []})
+        by_number = {c["number"]: c for c in body["cards"]}
+        for whole, number, ja in entries:
+            card = by_number.get(number)
+            if card is None:
+                card = whole
+                card["printings"] = []
+                body["cards"].append(card)
+                by_number[number] = card
+            elif whole is not None and "ja" in whole.get("names", {}):
+                card.setdefault("names", {"en": card["name"]})["ja"] = whole["names"]["ja"]
+            card["printings"] += ja
+        body["cards"].sort(key=lambda c: c["number"])
+
+
 def load_sets(path: Path = SETS) -> list[dict]:
     return json.loads(path.read_text(encoding="utf-8"))
 
@@ -46,6 +96,10 @@ def validate(sets: list[dict], files: dict[str, dict], sealed: dict[str, dict] |
         return errors  # the checks below assume the documents have the right shape
 
     set_ids = collections.Counter(s["id"] for s in sets)
+    releases = {s["id"]: {r["language"] for r in s["releases"]} for s in sets}
+    for s in sets:
+        langs = collections.Counter(r["language"] for r in s["releases"])
+        errors += [f"sets.json: set {s['id']} has {n} {lang} releases" for lang, n in langs.items() if n > 1]
     errors += [f"sets.json: set {s} is listed {n} times" for s, n in set_ids.items() if n > 1]
     parent_of = {s["id"]: s.get("parent") for s in sets}
     for s in sets:
@@ -73,6 +127,8 @@ def validate(sets: list[dict], files: dict[str, dict], sealed: dict[str, dict] |
         for card in body["cards"]:
             number = card["number"]
             numbers[number] += 1
+            if card["name"] != card["names"].get("en", card["names"].get("ja")):
+                errors.append(f"card {number}: name must be its English name, else its Japanese one")
             if number.split("-", 1)[0] != stem:
                 errors.append(f"cards/{stem}.json: card {number} belongs in cards/{number.split('-', 1)[0]}.json")
             for p in card["printings"]:
@@ -84,8 +140,17 @@ def validate(sets: list[dict], files: dict[str, dict], sealed: dict[str, dict] |
                     errors.append(f"printing {pid} is filed under card {number}")
                 if p["set"] not in set_ids:
                     errors.append(f"printing {pid}: set {p['set']} is not in sets.json")
-                if (p["source"] == "bandai") == ("~" in pid):
-                    errors.append(f"printing {pid}: a minted id (with ~) must have source tcgplayer, and only it")
+                if (p["source"] == "bandai") == ("~tcg" in pid):
+                    errors.append(f"printing {pid}: a minted id (with ~tcg) must have source tcgplayer, and only it")
+                lang = language(p)
+                if pid.endswith("~ja") != (lang == "ja"):
+                    errors.append(f"printing {pid}: a ~ja id must have language ja, and only it")
+                if lang not in card["names"]:
+                    errors.append(f"card {number}: has a {lang} printing ({pid}) but no {lang} name")
+                if p["set"] in releases and lang not in releases[p["set"]]:
+                    errors.append(f"printing {pid}: set {p['set']} has no {lang} release")
+                if lang == "ja" and p.get("identifiers", {}).get("tcgplayerProductIds"):
+                    errors.append(f"printing {pid}: a Japanese printing has no TCGplayer product")
                 for product_id in p.get("identifiers", {}).get("tcgplayerProductIds", []):
                     if product_id in product_owner:
                         errors.append(f"TCGplayer product {product_id} is on {product_owner[product_id]} and {pid}")

@@ -3,6 +3,10 @@
     {
       "number": "ST25-001",
       "name": "Alvida",
+      "names": {
+        "en": "Alvida",
+        "ja": "アルビダ"
+      },
       "category": "Character",
       "cost": 4,
       "power": 5000,
@@ -39,12 +43,29 @@
             "distance": 0
           },
           "artist": "Hagane Tsurugi"
+        },
+        {
+          "id": "ST25-001~ja",
+          "language": "ja",
+          "set": "ST25",
+          "rarity": "C",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/ST25-001.png",
+          "cardSet": "スタートデッキ 青 バギー【ST-25】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "ST25-002",
       "name": "Cabaji",
+      "names": {
+        "en": "Cabaji",
+        "ja": "カバジ"
+      },
       "category": "Character",
       "cost": 4,
       "power": 1000,
@@ -81,12 +102,29 @@
             "distance": 5
           },
           "artist": "kankurou"
+        },
+        {
+          "id": "ST25-002~ja",
+          "language": "ja",
+          "set": "ST25",
+          "rarity": "C",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/ST25-002.png",
+          "cardSet": "スタートデッキ 青 バギー【ST-25】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "ST25-003",
       "name": "Crocodile & Mihawk",
+      "names": {
+        "en": "Crocodile & Mihawk",
+        "ja": "クロコダイル＆ミホーク"
+      },
       "category": "Character",
       "cost": 8,
       "power": 7000,
@@ -124,12 +162,29 @@
             "distance": 2
           },
           "artist": "BISAI"
+        },
+        {
+          "id": "ST25-003~ja",
+          "language": "ja",
+          "set": "ST25",
+          "rarity": "SR",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/ST25-003.png",
+          "cardSet": "スタートデッキ 青 バギー【ST-25】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "ST25-004",
       "name": "Buggy",
+      "names": {
+        "en": "Buggy",
+        "ja": "バギー"
+      },
       "category": "Character",
       "cost": 4,
       "power": 1000,
@@ -167,12 +222,29 @@
             "distance": 5
           },
           "artist": "Hayaken-sarena"
+        },
+        {
+          "id": "ST25-004~ja",
+          "language": "ja",
+          "set": "ST25",
+          "rarity": "SR",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/ST25-004.png",
+          "cardSet": "スタートデッキ 青 バギー【ST-25】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "ST25-005",
       "name": "Mohji",
+      "names": {
+        "en": "Mohji",
+        "ja": "モージ"
+      },
       "category": "Character",
       "cost": 4,
       "power": 1000,
@@ -209,6 +281,19 @@
             "distance": 4
           },
           "artist": "kankurou"
+        },
+        {
+          "id": "ST25-005~ja",
+          "language": "ja",
+          "set": "ST25",
+          "rarity": "C",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/ST25-005.png",
+          "cardSet": "スタートデッキ 青 バギー【ST-25】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     }

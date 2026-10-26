@@ -3,6 +3,10 @@
     {
       "number": "EB04-001",
       "name": "Jewelry Bonney",
+      "names": {
+        "en": "Jewelry Bonney",
+        "ja": "ジュエリー・ボニー"
+      },
       "category": "Leader",
       "power": 5000,
       "life": 4,
@@ -66,12 +70,42 @@
             "alternate_art"
           ],
           "artist": "otton"
+        },
+        {
+          "id": "EB04-001~ja",
+          "language": "ja",
+          "set": "EB04",
+          "rarity": "L",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/EB04-001.png",
+          "cardSet": "エクストラブースター EGGHEAD CRISIS【EB-04】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
+        },
+        {
+          "id": "EB04-001_p1~ja",
+          "language": "ja",
+          "set": "EB04",
+          "rarity": "L",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/EB04-001_p1.png",
+          "cardSet": "エクストラブースター EGGHEAD CRISIS【EB-04】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "EB04-002",
       "name": "Jewelry Bonney",
+      "names": {
+        "en": "Jewelry Bonney",
+        "ja": "ジュエリー・ボニー"
+      },
       "category": "Character",
       "cost": 1,
       "power": 2000,
@@ -135,12 +169,42 @@
             "alternate_art"
           ],
           "artist": "Sunohara"
+        },
+        {
+          "id": "EB04-002~ja",
+          "language": "ja",
+          "set": "EB04",
+          "rarity": "R",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/EB04-002.png",
+          "cardSet": "エクストラブースター EGGHEAD CRISIS【EB-04】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "EB04-002_p1~ja",
+          "language": "ja",
+          "set": "EB04",
+          "rarity": "R",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/EB04-002_p1.png",
+          "cardSet": "エクストラブースター EGGHEAD CRISIS【EB-04】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "EB04-003",
       "name": "Smoker & Tashigi",
+      "names": {
+        "en": "Smoker & Tashigi",
+        "ja": "スモーカー＆たしぎ"
+      },
       "category": "Character",
       "cost": 8,
       "power": 8000,
@@ -204,12 +268,42 @@
             "sp"
           ],
           "artist": "Bashikou"
+        },
+        {
+          "id": "EB04-003~ja",
+          "language": "ja",
+          "set": "EB04",
+          "rarity": "R",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/EB04-003.png",
+          "cardSet": "エクストラブースター EGGHEAD CRISIS【EB-04】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "EB04-003_p1~ja",
+          "language": "ja",
+          "set": "EB04",
+          "rarity": "SP CARD",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/EB04-003_p1.png",
+          "cardSet": "エクストラブースター EGGHEAD CRISIS【EB-04】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "EB04-004",
       "name": "Zeff",
+      "names": {
+        "en": "Zeff",
+        "ja": "ゼフ"
+      },
       "category": "Character",
       "cost": 7,
       "power": 8000,
@@ -273,12 +367,29 @@
             }
           ],
           "artist": "Yasushi Yamaguchi"
+        },
+        {
+          "id": "EB04-004~ja",
+          "language": "ja",
+          "set": "EB04",
+          "rarity": "C",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/EB04-004.png",
+          "cardSet": "エクストラブースター EGGHEAD CRISIS【EB-04】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "EB04-005",
       "name": "Trafalgar Law",
+      "names": {
+        "en": "Trafalgar Law",
+        "ja": "トラファルガー・ロー"
+      },
       "category": "Character",
       "cost": 3,
       "power": 5000,
@@ -345,12 +456,29 @@
             }
           ],
           "artist": "kankurou"
+        },
+        {
+          "id": "EB04-005~ja",
+          "language": "ja",
+          "set": "EB04",
+          "rarity": "C",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/EB04-005.png",
+          "cardSet": "エクストラブースター EGGHEAD CRISIS【EB-04】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "EB04-006",
       "name": "Moda",
+      "names": {
+        "en": "Moda",
+        "ja": "モーダ"
+      },
       "category": "Character",
       "cost": 1,
       "counter": 2000,
@@ -414,12 +542,29 @@
             }
           ],
           "artist": "Nekobayashi"
+        },
+        {
+          "id": "EB04-006~ja",
+          "language": "ja",
+          "set": "EB04",
+          "rarity": "C",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/EB04-006.png",
+          "cardSet": "エクストラブースター EGGHEAD CRISIS【EB-04】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "EB04-007",
       "name": "Roronoa Zoro",
+      "names": {
+        "en": "Roronoa Zoro",
+        "ja": "ロロノア・ゾロ"
+      },
       "category": "Character",
       "cost": 7,
       "power": 9000,
@@ -508,12 +653,55 @@
             "sp"
           ],
           "artist": "Fo Ihara/INO Ltd."
+        },
+        {
+          "id": "EB04-007~ja",
+          "language": "ja",
+          "set": "EB04",
+          "rarity": "SR",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/EB04-007.png",
+          "cardSet": "エクストラブースター EGGHEAD CRISIS【EB-04】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "EB04-007_p1~ja",
+          "language": "ja",
+          "set": "EB04",
+          "rarity": "SR",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/EB04-007_p1.png",
+          "cardSet": "エクストラブースター EGGHEAD CRISIS【EB-04】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "EB04-007_p2~ja",
+          "language": "ja",
+          "set": "OP17",
+          "rarity": "SP CARD",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/EB04-007_p2.png",
+          "cardSet": "ブースターパック 世界最強の戦士【OP-17】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "EB04-008",
       "name": "Distorted Future",
+      "names": {
+        "en": "Distorted Future",
+        "ja": "歪んだ未来"
+      },
       "category": "Event",
       "cost": 1,
       "colors": [
@@ -545,12 +733,29 @@
             "match": "image-only-candidate",
             "distance": 5
           }
+        },
+        {
+          "id": "EB04-008~ja",
+          "language": "ja",
+          "set": "EB04",
+          "rarity": "R",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/EB04-008.png",
+          "cardSet": "エクストラブースター EGGHEAD CRISIS【EB-04】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "EB04-009",
       "name": "It's My Student's Farewell. I Want It to Be Proper.",
+      "names": {
+        "en": "It's My Student's Farewell. I Want It to Be Proper.",
+        "ja": "弟子の船出だ よしなに頼むよ…"
+      },
       "category": "Event",
       "colors": [
         "Red"
@@ -607,12 +812,29 @@
               "category": "event"
             }
           ]
+        },
+        {
+          "id": "EB04-009~ja",
+          "language": "ja",
+          "set": "EB04",
+          "rarity": "C",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/EB04-009.png",
+          "cardSet": "エクストラブースター EGGHEAD CRISIS【EB-04】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "EB04-010",
       "name": "Lulucia Kingdom",
+      "names": {
+        "en": "Lulucia Kingdom",
+        "ja": "ルルシア王国"
+      },
       "category": "Stage",
       "cost": 7,
       "colors": [
@@ -670,12 +892,29 @@
               "category": "event"
             }
           ]
+        },
+        {
+          "id": "EB04-010~ja",
+          "language": "ja",
+          "set": "EB04",
+          "rarity": "C",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/EB04-010.png",
+          "cardSet": "エクストラブースター EGGHEAD CRISIS【EB-04】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "EB04-011",
       "name": "Scaled Neptunian",
+      "names": {
+        "en": "Scaled Neptunian",
+        "ja": "ウロコ"
+      },
       "category": "Character",
       "cost": 7,
       "power": 8000,
@@ -740,12 +979,29 @@
             }
           ],
           "artist": "SHINRA AGENCY Co. Ltd."
+        },
+        {
+          "id": "EB04-011~ja",
+          "language": "ja",
+          "set": "EB04",
+          "rarity": "C",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/EB04-011.png",
+          "cardSet": "エクストラブースター EGGHEAD CRISIS【EB-04】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "EB04-012",
       "name": "Kikunojo",
+      "names": {
+        "en": "Kikunojo",
+        "ja": "菊之丞"
+      },
       "category": "Character",
       "cost": 7,
       "power": 8000,
@@ -808,12 +1064,42 @@
             "alternate_art"
           ],
           "artist": "Naruse Uroko"
+        },
+        {
+          "id": "EB04-012~ja",
+          "language": "ja",
+          "set": "EB04",
+          "rarity": "SR",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/EB04-012.png",
+          "cardSet": "エクストラブースター EGGHEAD CRISIS【EB-04】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "EB04-012_p1~ja",
+          "language": "ja",
+          "set": "EB04",
+          "rarity": "SR",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/EB04-012_p1.png",
+          "cardSet": "エクストラブースター EGGHEAD CRISIS【EB-04】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "EB04-013",
       "name": "Carrot",
+      "names": {
+        "en": "Carrot",
+        "ja": "キャロット"
+      },
       "category": "Character",
       "cost": 8,
       "power": 9000,
@@ -875,12 +1161,42 @@
             "alternate_art"
           ],
           "artist": "SHIE NANAHARA"
+        },
+        {
+          "id": "EB04-013~ja",
+          "language": "ja",
+          "set": "EB04",
+          "rarity": "SR",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/EB04-013.png",
+          "cardSet": "エクストラブースター EGGHEAD CRISIS【EB-04】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "EB04-013_p1~ja",
+          "language": "ja",
+          "set": "EB04",
+          "rarity": "SR",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/EB04-013_p1.png",
+          "cardSet": "エクストラブースター EGGHEAD CRISIS【EB-04】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "EB04-014",
       "name": "Kozuki Sukiyaki",
+      "names": {
+        "en": "Kozuki Sukiyaki",
+        "ja": "光月スキヤキ"
+      },
       "category": "Character",
       "cost": 3,
       "attributes": [
@@ -944,12 +1260,29 @@
             }
           ],
           "artist": "Studio Vigor Co. Ltd"
+        },
+        {
+          "id": "EB04-014~ja",
+          "language": "ja",
+          "set": "EB04",
+          "rarity": "C",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/EB04-014.png",
+          "cardSet": "エクストラブースター EGGHEAD CRISIS【EB-04】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "EB04-015",
       "name": "Jinbe",
+      "names": {
+        "en": "Jinbe",
+        "ja": "ジンベエ"
+      },
       "category": "Character",
       "cost": 7,
       "power": 8000,
@@ -987,12 +1320,29 @@
             "distance": 4
           },
           "artist": "Katsuo Tadano"
+        },
+        {
+          "id": "EB04-015~ja",
+          "language": "ja",
+          "set": "EB04",
+          "rarity": "R",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/EB04-015.png",
+          "cardSet": "エクストラブースター EGGHEAD CRISIS【EB-04】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "EB04-016",
       "name": "Bird Neptunian",
+      "names": {
+        "en": "Bird Neptunian",
+        "ja": "トリ"
+      },
       "category": "Character",
       "cost": 5,
       "power": 7000,
@@ -1056,12 +1406,29 @@
             }
           ],
           "artist": "SHINRA AGENCY Co. Ltd."
+        },
+        {
+          "id": "EB04-016~ja",
+          "language": "ja",
+          "set": "EB04",
+          "rarity": "C",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/EB04-016.png",
+          "cardSet": "エクストラブースター EGGHEAD CRISIS【EB-04】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "EB04-017",
       "name": "Mystoms",
+      "names": {
+        "en": "Mystoms",
+        "ja": "ナゾムズ"
+      },
       "category": "Character",
       "cost": 6,
       "power": 5000,
@@ -1127,12 +1494,29 @@
             }
           ],
           "artist": "SHINRA AGENCY Co. Ltd."
+        },
+        {
+          "id": "EB04-017~ja",
+          "language": "ja",
+          "set": "EB04",
+          "rarity": "C",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/EB04-017.png",
+          "cardSet": "エクストラブースター EGGHEAD CRISIS【EB-04】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "EB04-018",
       "name": "Megalo",
+      "names": {
+        "en": "Megalo",
+        "ja": "メガロ"
+      },
       "category": "Character",
       "cost": 4,
       "power": 4000,
@@ -1196,12 +1580,42 @@
             "alternate_art"
           ],
           "artist": "Ryuda"
+        },
+        {
+          "id": "EB04-018~ja",
+          "language": "ja",
+          "set": "EB04",
+          "rarity": "R",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/EB04-018.png",
+          "cardSet": "エクストラブースター EGGHEAD CRISIS【EB-04】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "EB04-018_p1~ja",
+          "language": "ja",
+          "set": "EB04",
+          "rarity": "R",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/EB04-018_p1.png",
+          "cardSet": "エクストラブースター EGGHEAD CRISIS【EB-04】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "EB04-019",
       "name": "Eleclaw",
+      "names": {
+        "en": "Eleclaw",
+        "ja": "エレ爪"
+      },
       "category": "Event",
       "cost": 1,
       "colors": [
@@ -1232,12 +1646,29 @@
             "match": "image-only-candidate",
             "distance": 5
           }
+        },
+        {
+          "id": "EB04-019~ja",
+          "language": "ja",
+          "set": "EB04",
+          "rarity": "R",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/EB04-019.png",
+          "cardSet": "エクストラブースター EGGHEAD CRISIS【EB-04】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "EB04-020",
       "name": "Shark Brick Fist",
+      "names": {
+        "en": "Shark Brick Fist",
+        "ja": "鮫瓦正拳"
+      },
       "category": "Event",
       "cost": 1,
       "colors": [
@@ -1297,12 +1728,29 @@
               "category": "event"
             }
           ]
+        },
+        {
+          "id": "EB04-020~ja",
+          "language": "ja",
+          "set": "EB04",
+          "rarity": "C",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/EB04-020.png",
+          "cardSet": "エクストラブースター EGGHEAD CRISIS【EB-04】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "EB04-021",
       "name": "Igaram",
+      "names": {
+        "en": "Igaram",
+        "ja": "イガラム"
+      },
       "category": "Character",
       "cost": 3,
       "power": 4000,
@@ -1367,12 +1815,29 @@
             }
           ],
           "artist": "Nekobayashi"
+        },
+        {
+          "id": "EB04-021~ja",
+          "language": "ja",
+          "set": "EB04",
+          "rarity": "C",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/EB04-021.png",
+          "cardSet": "エクストラブースター EGGHEAD CRISIS【EB-04】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "EB04-022",
       "name": "Issho",
+      "names": {
+        "en": "Issho",
+        "ja": "イッショウ"
+      },
       "category": "Character",
       "cost": 5,
       "power": 7000,
@@ -1491,12 +1956,42 @@
               "category": "placement"
             }
           ]
+        },
+        {
+          "id": "EB04-022~ja",
+          "language": "ja",
+          "set": "EB04",
+          "rarity": "R",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/EB04-022.png",
+          "cardSet": "エクストラブースター EGGHEAD CRISIS【EB-04】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "EB04-022_p1~ja",
+          "language": "ja",
+          "set": "EB04",
+          "rarity": "R",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/EB04-022_p1.png",
+          "cardSet": "エクストラブースター EGGHEAD CRISIS【EB-04】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "EB04-023",
       "name": "Chaka & Pell",
+      "names": {
+        "en": "Chaka & Pell",
+        "ja": "チャカ＆ペル"
+      },
       "category": "Character",
       "cost": 8,
       "power": 9000,
@@ -1584,12 +2079,39 @@
               "category": "placement"
             }
           ]
+        },
+        {
+          "id": "EB04-023~ja",
+          "language": "ja",
+          "set": "EB04",
+          "rarity": "R",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/EB04-023.png",
+          "cardSet": "エクストラブースター EGGHEAD CRISIS【EB-04】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "EB04-023_p1~ja",
+          "language": "ja",
+          "set": "P",
+          "rarity": "R",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/EB04-023_p1.png",
+          "cardSet": "スタンダードバトルパック Vol.15",
+          "source": "bandai"
         }
       ]
     },
     {
       "number": "EB04-024",
       "name": "Terracotta",
+      "names": {
+        "en": "Terracotta",
+        "ja": "テラコッタ"
+      },
       "category": "Character",
       "cost": 2,
       "counter": 2000,
@@ -1653,12 +2175,29 @@
             }
           ],
           "artist": "HISASHI HUJIWARA"
+        },
+        {
+          "id": "EB04-024~ja",
+          "language": "ja",
+          "set": "EB04",
+          "rarity": "C",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/EB04-024.png",
+          "cardSet": "エクストラブースター EGGHEAD CRISIS【EB-04】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "EB04-025",
       "name": "Nefeltari Vivi",
+      "names": {
+        "en": "Nefeltari Vivi",
+        "ja": "ネフェルタリ・ビビ"
+      },
       "category": "Character",
       "cost": 7,
       "power": 4000,
@@ -1721,12 +2260,42 @@
             "alternate_art"
           ],
           "artist": "Yosuke Adachi"
+        },
+        {
+          "id": "EB04-025~ja",
+          "language": "ja",
+          "set": "EB04",
+          "rarity": "SR",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/EB04-025.png",
+          "cardSet": "エクストラブースター EGGHEAD CRISIS【EB-04】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "EB04-025_p1~ja",
+          "language": "ja",
+          "set": "EB04",
+          "rarity": "SR",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/EB04-025_p1.png",
+          "cardSet": "エクストラブースター EGGHEAD CRISIS【EB-04】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "EB04-026",
       "name": "Bluegrass",
+      "names": {
+        "en": "Bluegrass",
+        "ja": "ブルーグラス"
+      },
       "category": "Character",
       "cost": 4,
       "power": 6000,
@@ -1805,12 +2374,42 @@
             }
           ],
           "artist": "kankurou"
+        },
+        {
+          "id": "EB04-026~ja",
+          "language": "ja",
+          "set": "EB04",
+          "rarity": "C",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/EB04-026.png",
+          "cardSet": "エクストラブースター EGGHEAD CRISIS【EB-04】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
+        },
+        {
+          "id": "EB04-026_r1~ja",
+          "language": "ja",
+          "set": "ST33",
+          "rarity": "C",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/EB04-026_r1.png",
+          "cardSet": "スタートデッキ 青 クザン【ST-33】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "EB04-027",
       "name": "Boa Hancock",
+      "names": {
+        "en": "Boa Hancock",
+        "ja": "ボア・ハンコック"
+      },
       "category": "Character",
       "cost": 5,
       "power": 7000,
@@ -1847,12 +2446,29 @@
             "distance": 2
           },
           "artist": "BISAI"
+        },
+        {
+          "id": "EB04-027~ja",
+          "language": "ja",
+          "set": "EB04",
+          "rarity": "R",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/EB04-027.png",
+          "cardSet": "エクストラブースター EGGHEAD CRISIS【EB-04】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "EB04-028",
       "name": "Ice Time",
+      "names": {
+        "en": "Ice Time",
+        "ja": "アイスタイム"
+      },
       "category": "Event",
       "cost": 5,
       "colors": [
@@ -1934,12 +2550,55 @@
             "match": "image-only-candidate",
             "distance": 11
           }
+        },
+        {
+          "id": "EB04-028~ja",
+          "language": "ja",
+          "set": "EB04",
+          "rarity": "R",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/EB04-028.png",
+          "cardSet": "エクストラブースター EGGHEAD CRISIS【EB-04】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "EB04-028_p1~ja",
+          "language": "ja",
+          "set": "OTHER",
+          "rarity": "R",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/EB04-028_p1.png",
+          "cardSet": "プレミアムカードコレクション - ベストセレクション vol.6 -",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "EB04-028_p2~ja",
+          "language": "ja",
+          "set": "ST33",
+          "rarity": "R",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/EB04-028_p2.png",
+          "cardSet": "スタートデッキ 青 クザン【ST-33】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "EB04-029",
       "name": "I Heard the Sound...of a Lady's Teardrops Falling",
+      "names": {
+        "en": "I Heard the Sound...of a Lady's Teardrops Falling",
+        "ja": "女の…涙の落ちる音がした"
+      },
       "category": "Event",
       "cost": 1,
       "colors": [
@@ -1998,12 +2657,26 @@
               "category": "event"
             }
           ]
+        },
+        {
+          "id": "EB04-029~ja",
+          "language": "ja",
+          "set": "EB04",
+          "rarity": "C",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/EB04-029.png",
+          "cardSet": "エクストラブースター EGGHEAD CRISIS【EB-04】",
+          "source": "bandai"
         }
       ]
     },
     {
       "number": "EB04-030",
       "name": "Kaido",
+      "names": {
+        "en": "Kaido",
+        "ja": "カイドウ"
+      },
       "category": "Character",
       "cost": 7,
       "power": 9000,
@@ -2070,12 +2743,29 @@
               "category": "retail"
             }
           ]
+        },
+        {
+          "id": "EB04-030~ja",
+          "language": "ja",
+          "set": "EB04",
+          "rarity": "R",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/EB04-030.png",
+          "cardSet": "エクストラブースター EGGHEAD CRISIS【EB-04】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "EB04-031",
       "name": "King",
+      "names": {
+        "en": "King",
+        "ja": "キング"
+      },
       "category": "Character",
       "cost": 6,
       "power": 7000,
@@ -2138,12 +2828,42 @@
             "alternate_art"
           ],
           "artist": "Akanegumo"
+        },
+        {
+          "id": "EB04-031~ja",
+          "language": "ja",
+          "set": "EB04",
+          "rarity": "R",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/EB04-031.png",
+          "cardSet": "エクストラブースター EGGHEAD CRISIS【EB-04】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "EB04-031_p1~ja",
+          "language": "ja",
+          "set": "EB04",
+          "rarity": "R",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/EB04-031_p1.png",
+          "cardSet": "エクストラブースター EGGHEAD CRISIS【EB-04】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "EB04-032",
       "name": "Queen",
+      "names": {
+        "en": "Queen",
+        "ja": "クイーン"
+      },
       "category": "Character",
       "cost": 1,
       "power": 1000,
@@ -2180,12 +2900,29 @@
             "distance": 7
           },
           "artist": "Katsuo Tadano"
+        },
+        {
+          "id": "EB04-032~ja",
+          "language": "ja",
+          "set": "EB04",
+          "rarity": "R",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/EB04-032.png",
+          "cardSet": "エクストラブースター EGGHEAD CRISIS【EB-04】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "EB04-033",
       "name": "Groggy Monsters",
+      "names": {
+        "en": "Groggy Monsters",
+        "ja": "グロッキーモンスターズ"
+      },
       "category": "Character",
       "cost": 5,
       "power": 6000,
@@ -2252,12 +2989,29 @@
             }
           ],
           "artist": "Studio Vigor Co. Ltd"
+        },
+        {
+          "id": "EB04-033~ja",
+          "language": "ja",
+          "set": "EB04",
+          "rarity": "C",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/EB04-033.png",
+          "cardSet": "エクストラブースター EGGHEAD CRISIS【EB-04】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "EB04-034",
       "name": "Charlotte Pudding",
+      "names": {
+        "en": "Charlotte Pudding",
+        "ja": "シャーロット・プリン"
+      },
       "category": "Character",
       "cost": 2,
       "power": 1000,
@@ -2322,12 +3076,29 @@
             }
           ],
           "artist": "Sunohara"
+        },
+        {
+          "id": "EB04-034~ja",
+          "language": "ja",
+          "set": "EB04",
+          "rarity": "C",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/EB04-034.png",
+          "cardSet": "エクストラブースター EGGHEAD CRISIS【EB-04】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "EB04-035",
       "name": "Hitokiri Kamazo",
+      "names": {
+        "en": "Hitokiri Kamazo",
+        "ja": "人斬り鎌ぞう"
+      },
       "category": "Character",
       "cost": 3,
       "power": 4000,
@@ -2394,12 +3165,29 @@
             }
           ],
           "artist": "Studio Vigor Co. Ltd"
+        },
+        {
+          "id": "EB04-035~ja",
+          "language": "ja",
+          "set": "EB04",
+          "rarity": "C",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/EB04-035.png",
+          "cardSet": "エクストラブースター EGGHEAD CRISIS【EB-04】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "EB04-036",
       "name": "Foxy",
+      "names": {
+        "en": "Foxy",
+        "ja": "フォクシー"
+      },
       "category": "Character",
       "cost": 8,
       "power": 9000,
@@ -2461,12 +3249,42 @@
             "alternate_art"
           ],
           "artist": "Matsumoto Akira"
+        },
+        {
+          "id": "EB04-036~ja",
+          "language": "ja",
+          "set": "EB04",
+          "rarity": "SR",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/EB04-036.png",
+          "cardSet": "エクストラブースター EGGHEAD CRISIS【EB-04】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "EB04-036_p1~ja",
+          "language": "ja",
+          "set": "EB04",
+          "rarity": "SR",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/EB04-036_p1.png",
+          "cardSet": "エクストラブースター EGGHEAD CRISIS【EB-04】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "EB04-037",
       "name": "Porche",
+      "names": {
+        "en": "Porche",
+        "ja": "ポルチェ"
+      },
       "category": "Character",
       "cost": 1,
       "power": 2000,
@@ -2531,12 +3349,29 @@
             }
           ],
           "artist": "SHINRA AGENCY Co. Ltd."
+        },
+        {
+          "id": "EB04-037~ja",
+          "language": "ja",
+          "set": "EB04",
+          "rarity": "C",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/EB04-037.png",
+          "cardSet": "エクストラブースター EGGHEAD CRISIS【EB-04】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "EB04-038",
       "name": "Rosinante & Law",
+      "names": {
+        "en": "Rosinante & Law",
+        "ja": "ロシナンテ＆ロー"
+      },
       "category": "Character",
       "cost": 6,
       "power": 8000,
@@ -2600,12 +3435,42 @@
             "alternate_art"
           ],
           "artist": "otton"
+        },
+        {
+          "id": "EB04-038~ja",
+          "language": "ja",
+          "set": "EB04",
+          "rarity": "SR",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/EB04-038.png",
+          "cardSet": "エクストラブースター EGGHEAD CRISIS【EB-04】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "EB04-038_p1~ja",
+          "language": "ja",
+          "set": "EB04",
+          "rarity": "SR",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/EB04-038_p1.png",
+          "cardSet": "エクストラブースター EGGHEAD CRISIS【EB-04】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "EB04-039",
       "name": "Eustass\"Captain\"Kid",
+      "names": {
+        "en": "Eustass\"Captain\"Kid",
+        "ja": "ユースタス・キッド"
+      },
       "category": "Character",
       "cost": 7,
       "power": 8000,
@@ -2668,12 +3533,42 @@
             "sp"
           ],
           "artist": "Bashikou"
+        },
+        {
+          "id": "EB04-039~ja",
+          "language": "ja",
+          "set": "EB04",
+          "rarity": "R",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/EB04-039.png",
+          "cardSet": "エクストラブースター EGGHEAD CRISIS【EB-04】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "EB04-039_p1~ja",
+          "language": "ja",
+          "set": "EB04",
+          "rarity": "SP CARD",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/EB04-039_p1.png",
+          "cardSet": "エクストラブースター EGGHEAD CRISIS【EB-04】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "EB04-040",
       "name": "Flame Dragon Torch",
+      "names": {
+        "en": "Flame Dragon Torch",
+        "ja": "火龍大炬"
+      },
       "category": "Event",
       "cost": 1,
       "colors": [
@@ -2705,12 +3600,29 @@
             "match": "image-only-candidate",
             "distance": 4
           }
+        },
+        {
+          "id": "EB04-040~ja",
+          "language": "ja",
+          "set": "EB04",
+          "rarity": "R",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/EB04-040.png",
+          "cardSet": "エクストラブースター EGGHEAD CRISIS【EB-04】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "EB04-041",
       "name": "Stealth Black",
+      "names": {
+        "en": "Stealth Black",
+        "ja": "ステルス・ブラック"
+      },
       "category": "Event",
       "cost": 3,
       "colors": [
@@ -2768,12 +3680,29 @@
               "category": "event"
             }
           ]
+        },
+        {
+          "id": "EB04-041~ja",
+          "language": "ja",
+          "set": "EB04",
+          "rarity": "C",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/EB04-041.png",
+          "cardSet": "エクストラブースター EGGHEAD CRISIS【EB-04】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "EB04-042",
       "name": "Alpha",
+      "names": {
+        "en": "Alpha",
+        "ja": "アルファ"
+      },
       "category": "Character",
       "cost": 1,
       "power": 2000,
@@ -2838,12 +3767,29 @@
             }
           ],
           "artist": "Koushi Rokushiro"
+        },
+        {
+          "id": "EB04-042~ja",
+          "language": "ja",
+          "set": "EB04",
+          "rarity": "C",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/EB04-042.png",
+          "cardSet": "エクストラブースター EGGHEAD CRISIS【EB-04】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "EB04-043",
       "name": "Kaku",
+      "names": {
+        "en": "Kaku",
+        "ja": "カク"
+      },
       "category": "Character",
       "cost": 3,
       "power": 4000,
@@ -2907,12 +3853,42 @@
             "alternate_art"
           ],
           "artist": "Morechand"
+        },
+        {
+          "id": "EB04-043~ja",
+          "language": "ja",
+          "set": "EB04",
+          "rarity": "R",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/EB04-043.png",
+          "cardSet": "エクストラブースター EGGHEAD CRISIS【EB-04】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "EB04-043_p1~ja",
+          "language": "ja",
+          "set": "EB04",
+          "rarity": "R",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/EB04-043_p1.png",
+          "cardSet": "エクストラブースター EGGHEAD CRISIS【EB-04】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "EB04-044",
       "name": "Koby",
+      "names": {
+        "en": "Koby",
+        "ja": "コビー"
+      },
       "category": "Character",
       "cost": 6,
       "power": 7000,
@@ -3001,12 +3977,55 @@
           "treatments": [
             "manga"
           ]
+        },
+        {
+          "id": "EB04-044~ja",
+          "language": "ja",
+          "set": "EB04",
+          "rarity": "SR",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/EB04-044.png",
+          "cardSet": "エクストラブースター EGGHEAD CRISIS【EB-04】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "EB04-044_p1~ja",
+          "language": "ja",
+          "set": "EB04",
+          "rarity": "SR",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/EB04-044_p1.png",
+          "cardSet": "エクストラブースター EGGHEAD CRISIS【EB-04】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "EB04-044_p2~ja",
+          "language": "ja",
+          "set": "EB04",
+          "rarity": "SR",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/EB04-044_p2.png",
+          "cardSet": "エクストラブースター EGGHEAD CRISIS【EB-04】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "EB04-045",
       "name": "Ginny",
+      "names": {
+        "en": "Ginny",
+        "ja": "ジニー"
+      },
       "category": "Character",
       "cost": 1,
       "power": 2000,
@@ -3071,12 +4090,29 @@
             }
           ],
           "artist": "Nekobayashi"
+        },
+        {
+          "id": "EB04-045~ja",
+          "language": "ja",
+          "set": "EB04",
+          "rarity": "C",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/EB04-045.png",
+          "cardSet": "エクストラブースター EGGHEAD CRISIS【EB-04】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "EB04-046",
       "name": "Doll",
+      "names": {
+        "en": "Doll",
+        "ja": "ドール"
+      },
       "category": "Character",
       "cost": 2,
       "power": 1000,
@@ -3142,12 +4178,29 @@
             }
           ],
           "artist": "Yasushi Yamaguchi"
+        },
+        {
+          "id": "EB04-046~ja",
+          "language": "ja",
+          "set": "EB04",
+          "rarity": "C",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/EB04-046.png",
+          "cardSet": "エクストラブースター EGGHEAD CRISIS【EB-04】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "EB04-047",
       "name": "Helmeppo",
+      "names": {
+        "en": "Helmeppo",
+        "ja": "ヘルメッポ"
+      },
       "category": "Character",
       "cost": 3,
       "power": 3000,
@@ -3185,12 +4238,29 @@
             "distance": 5
           },
           "artist": "HISASHI HUJIWARA"
+        },
+        {
+          "id": "EB04-047~ja",
+          "language": "ja",
+          "set": "EB04",
+          "rarity": "R",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/EB04-047.png",
+          "cardSet": "エクストラブースター EGGHEAD CRISIS【EB-04】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "EB04-048",
       "name": "Rob Lucci",
+      "names": {
+        "en": "Rob Lucci",
+        "ja": "ロブ・ルッチ"
+      },
       "category": "Character",
       "cost": 4,
       "power": 6000,
@@ -3253,12 +4323,42 @@
             "alternate_art"
           ],
           "artist": "DAI-XT."
+        },
+        {
+          "id": "EB04-048~ja",
+          "language": "ja",
+          "set": "EB04",
+          "rarity": "SR",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/EB04-048.png",
+          "cardSet": "エクストラブースター EGGHEAD CRISIS【EB-04】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "EB04-048_p1~ja",
+          "language": "ja",
+          "set": "EB04",
+          "rarity": "SR",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/EB04-048_p1.png",
+          "cardSet": "エクストラブースター EGGHEAD CRISIS【EB-04】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "EB04-049",
       "name": "Finger Pistol Yellow Lotus",
+      "names": {
+        "en": "Finger Pistol Yellow Lotus",
+        "ja": "指銃 黄蓮"
+      },
       "category": "Event",
       "cost": 4,
       "colors": [
@@ -3316,12 +4416,29 @@
               "category": "event"
             }
           ]
+        },
+        {
+          "id": "EB04-049~ja",
+          "language": "ja",
+          "set": "EB04",
+          "rarity": "C",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/EB04-049.png",
+          "cardSet": "エクストラブースター EGGHEAD CRISIS【EB-04】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "EB04-050",
       "name": "I'll Whip You Into Shape. ♡",
+      "names": {
+        "en": "I'll Whip You Into Shape. ♡",
+        "ja": "調教してあげる♡"
+      },
       "category": "Event",
       "cost": 1,
       "colors": [
@@ -3353,12 +4470,29 @@
             "match": "image-only-candidate",
             "distance": 7
           }
+        },
+        {
+          "id": "EB04-050~ja",
+          "language": "ja",
+          "set": "EB04",
+          "rarity": "R",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/EB04-050.png",
+          "cardSet": "エクストラブースター EGGHEAD CRISIS【EB-04】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "EB04-051",
       "name": "Emet",
+      "names": {
+        "en": "Emet",
+        "ja": "エメト"
+      },
       "category": "Character",
       "cost": 8,
       "power": 7000,
@@ -3422,12 +4556,29 @@
             }
           ],
           "artist": "Katsuo Tadano"
+        },
+        {
+          "id": "EB04-051~ja",
+          "language": "ja",
+          "set": "EB04",
+          "rarity": "C",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/EB04-051.png",
+          "cardSet": "エクストラブースター EGGHEAD CRISIS【EB-04】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "EB04-052",
       "name": "Sanji",
+      "names": {
+        "en": "Sanji",
+        "ja": "サンジ"
+      },
       "category": "Character",
       "cost": 4,
       "power": 4000,
@@ -3572,12 +4723,42 @@
               "category": "placement"
             }
           ]
+        },
+        {
+          "id": "EB04-052~ja",
+          "language": "ja",
+          "set": "EB04",
+          "rarity": "R",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/EB04-052.png",
+          "cardSet": "エクストラブースター EGGHEAD CRISIS【EB-04】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "EB04-052_p1~ja",
+          "language": "ja",
+          "set": "EB04",
+          "rarity": "R",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/EB04-052_p1.png",
+          "cardSet": "エクストラブースター EGGHEAD CRISIS【EB-04】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "EB04-053",
       "name": "Sentomaru",
+      "names": {
+        "en": "Sentomaru",
+        "ja": "戦桃丸"
+      },
       "category": "Character",
       "cost": 2,
       "power": 1000,
@@ -3643,12 +4824,26 @@
             }
           ],
           "artist": "nukadokomogera"
+        },
+        {
+          "id": "EB04-053~ja",
+          "language": "ja",
+          "set": "EB04",
+          "rarity": "C",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/EB04-053.png",
+          "cardSet": "エクストラブースター EGGHEAD CRISIS【EB-04】",
+          "source": "bandai"
         }
       ]
     },
     {
       "number": "EB04-054",
       "name": "Bartholomew Kuma",
+      "names": {
+        "en": "Bartholomew Kuma",
+        "ja": "バーソロミュー・くま"
+      },
       "category": "Character",
       "cost": 7,
       "power": 7000,
@@ -3712,12 +4907,42 @@
             "sp"
           ],
           "artist": "Katsuo Tadano"
+        },
+        {
+          "id": "EB04-054~ja",
+          "language": "ja",
+          "set": "EB04",
+          "rarity": "R",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/EB04-054.png",
+          "cardSet": "エクストラブースター EGGHEAD CRISIS【EB-04】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "EB04-054_p1~ja",
+          "language": "ja",
+          "set": "OP16",
+          "rarity": "SP CARD",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/EB04-054_p1.png",
+          "cardSet": "ブースターパック 決戦の刻【OP-16】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "EB04-055",
       "name": "Bartholomew Kuma",
+      "names": {
+        "en": "Bartholomew Kuma",
+        "ja": "バーソロミュー・くま"
+      },
       "category": "Character",
       "cost": 4,
       "power": 5000,
@@ -3783,12 +5008,29 @@
             }
           ],
           "artist": "Aidle Co. Ltd."
+        },
+        {
+          "id": "EB04-055~ja",
+          "language": "ja",
+          "set": "EB04",
+          "rarity": "C",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/EB04-055.png",
+          "cardSet": "エクストラブースター EGGHEAD CRISIS【EB-04】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "EB04-056",
       "name": "Pacifista",
+      "names": {
+        "en": "Pacifista",
+        "ja": "パシフィスタ"
+      },
       "category": "Character",
       "cost": 1,
       "power": 1000,
@@ -3855,12 +5097,29 @@
             }
           ],
           "artist": "Katsuo Tadano"
+        },
+        {
+          "id": "EB04-056~ja",
+          "language": "ja",
+          "set": "EB04",
+          "rarity": "C",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/EB04-056.png",
+          "cardSet": "エクストラブースター EGGHEAD CRISIS【EB-04】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "EB04-057",
       "name": "Vegapunk",
+      "names": {
+        "en": "Vegapunk",
+        "ja": "ベガパンク"
+      },
       "category": "Character",
       "cost": 2,
       "counter": 1000,
@@ -3925,12 +5184,29 @@
             }
           ],
           "artist": "Aidle Co. Ltd."
+        },
+        {
+          "id": "EB04-057~ja",
+          "language": "ja",
+          "set": "EB04",
+          "rarity": "C",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/EB04-057.png",
+          "cardSet": "エクストラブースター EGGHEAD CRISIS【EB-04】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "EB04-058",
       "name": "Borsalino",
+      "names": {
+        "en": "Borsalino",
+        "ja": "ボルサリーノ"
+      },
       "category": "Character",
       "cost": 5,
       "power": 6000,
@@ -3994,12 +5270,52 @@
             "alternate_art"
           ],
           "artist": "Matsumoto Akira"
+        },
+        {
+          "id": "EB04-058~ja",
+          "language": "ja",
+          "set": "EB04",
+          "rarity": "SR",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/EB04-058.png",
+          "cardSet": "エクストラブースター EGGHEAD CRISIS【EB-04】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "EB04-058_p1~ja",
+          "language": "ja",
+          "set": "EB04",
+          "rarity": "SR",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/EB04-058_p1.png",
+          "cardSet": "エクストラブースター EGGHEAD CRISIS【EB-04】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "EB04-058_p2~ja",
+          "language": "ja",
+          "set": "P",
+          "rarity": "SR",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/EB04-058_p2.png",
+          "cardSet": "プロモーションパックEX Vol.4",
+          "source": "bandai"
         }
       ]
     },
     {
       "number": "EB04-059",
       "name": "Black Rope Dragon Twister",
+      "names": {
+        "en": "Black Rope Dragon Twister",
+        "ja": "黒縄・大龍巻"
+      },
       "category": "Event",
       "cost": 6,
       "colors": [
@@ -4032,12 +5348,29 @@
             "match": "image-only-candidate",
             "distance": 2
           }
+        },
+        {
+          "id": "EB04-059~ja",
+          "language": "ja",
+          "set": "EB04",
+          "rarity": "R",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/EB04-059.png",
+          "cardSet": "エクストラブースター EGGHEAD CRISIS【EB-04】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "EB04-060",
       "name": "Gum-Gum Hawk Gatling",
+      "names": {
+        "en": "Gum-Gum Hawk Gatling",
+        "ja": "ゴムゴムの鷹銃乱打"
+      },
       "category": "Event",
       "cost": 2,
       "colors": [
@@ -4097,12 +5430,29 @@
               "category": "event"
             }
           ]
+        },
+        {
+          "id": "EB04-060~ja",
+          "language": "ja",
+          "set": "EB04",
+          "rarity": "C",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/EB04-060.png",
+          "cardSet": "エクストラブースター EGGHEAD CRISIS【EB-04】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "EB04-061",
       "name": "Monkey.D.Luffy",
+      "names": {
+        "en": "Monkey.D.Luffy",
+        "ja": "モンキー・D・ルフィ"
+      },
       "category": "Character",
       "cost": 10,
       "power": 12000,
@@ -4208,6 +5558,52 @@
             "match": "minted",
             "distance": null
           }
+        },
+        {
+          "id": "EB04-061~ja",
+          "language": "ja",
+          "set": "EB04",
+          "rarity": "SEC",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/EB04-061.png",
+          "cardSet": "エクストラブースター EGGHEAD CRISIS【EB-04】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "EB04-061_p1~ja",
+          "language": "ja",
+          "set": "EB04",
+          "rarity": "SEC",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/EB04-061_p1.png",
+          "cardSet": "エクストラブースター EGGHEAD CRISIS【EB-04】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "EB04-061_p2~ja",
+          "language": "ja",
+          "set": "P",
+          "rarity": "SEC",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/EB04-061_p2.png",
+          "cardSet": "フラッグシップバトル2026 4月優勝記念品",
+          "source": "bandai"
+        },
+        {
+          "id": "EB04-061_p3~ja",
+          "language": "ja",
+          "set": "OP17",
+          "rarity": "SEC",
+          "block": "X",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/EB04-061_p3.png",
+          "cardSet": "ブースターパック 世界最強の戦士【OP-17】",
+          "source": "bandai"
         }
       ]
     }

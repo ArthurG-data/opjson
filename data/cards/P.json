@@ -3,6 +3,10 @@
     {
       "number": "P-001",
       "name": "Monkey.D.Luffy",
+      "names": {
+        "en": "Monkey.D.Luffy",
+        "ja": "モンキー・D・ルフィ"
+      },
       "category": "Character",
       "cost": 6,
       "power": 7000,
@@ -425,12 +429,72 @@
               "category": "placement"
             }
           ]
+        },
+        {
+          "id": "P-001~ja",
+          "language": "ja",
+          "set": "P",
+          "rarity": "P",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/P-001.png",
+          "cardSet": "ONE PIECEカードゲーム プロモーションパック2022",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
+        },
+        {
+          "id": "P-001_p1~ja",
+          "language": "ja",
+          "set": "OTHER",
+          "rarity": "P",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/P-001_p1.png",
+          "cardSet": "プレミアムカードコレクション 25周年エディション",
+          "source": "bandai"
+        },
+        {
+          "id": "P-001_p2~ja",
+          "language": "ja",
+          "set": "P",
+          "rarity": "P",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/P-001_p2.png",
+          "cardSet": "チャンピオンシップセット2022",
+          "source": "bandai"
+        },
+        {
+          "id": "P-001_p4~ja",
+          "language": "ja",
+          "set": "P",
+          "rarity": "P",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/P-001_p4.png",
+          "cardSet": "セブンイレブンタイアップキャンペーン オリジナルカード",
+          "source": "bandai"
+        },
+        {
+          "id": "P-001_p5~ja",
+          "language": "ja",
+          "set": "P",
+          "rarity": "P",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/P-001_p5.png",
+          "cardSet": "プロモーションカードセット",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "P-002",
       "name": "I Smell Adventure!!!",
+      "names": {
+        "en": "I Smell Adventure!!!",
+        "ja": "冒険のにおいがするっ!!!"
+      },
       "category": "Event",
       "cost": 1,
       "colors": [
@@ -467,12 +531,29 @@
               "category": "retail"
             }
           ]
+        },
+        {
+          "id": "P-002~ja",
+          "language": "ja",
+          "set": "P",
+          "rarity": "P",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/P-002.png",
+          "cardSet": "ONE PIECEカードゲーム プロモーションパック2022",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "P-003",
       "name": "Eustass\"Captain\"Kid",
+      "names": {
+        "en": "Eustass\"Captain\"Kid",
+        "ja": "ユースタス・キッド"
+      },
       "category": "Character",
       "cost": 3,
       "power": 4000,
@@ -722,12 +803,52 @@
               "category": "placement"
             }
           ]
+        },
+        {
+          "id": "P-003~ja",
+          "language": "ja",
+          "set": "P",
+          "rarity": "P",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/P-003.png",
+          "cardSet": "ONE PIECEカードゲーム プロモーションパック2022",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
+        },
+        {
+          "id": "P-003_p1~ja",
+          "language": "ja",
+          "set": "P",
+          "rarity": "P",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/P-003_p1.png",
+          "cardSet": "チャンピオンシップセット2022",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "P-003_p3~ja",
+          "language": "ja",
+          "set": "P",
+          "rarity": "P",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/P-003_p3.png",
+          "cardSet": "セブンイレブンタイアップキャンペーン オリジナルカード",
+          "source": "bandai"
         }
       ]
     },
     {
       "number": "P-004",
       "name": "Crocodile",
+      "names": {
+        "en": "Crocodile",
+        "ja": "クロコダイル"
+      },
       "category": "Character",
       "cost": 4,
       "power": 5000,
@@ -770,12 +891,29 @@
               "category": "retail"
             }
           ]
+        },
+        {
+          "id": "P-004~ja",
+          "language": "ja",
+          "set": "P",
+          "rarity": "P",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/P-004.png",
+          "cardSet": "ONE PIECEカードゲーム プロモーションパック2022",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "P-005",
       "name": "Kaido",
+      "names": {
+        "en": "Kaido",
+        "ja": "カイドウ"
+      },
       "category": "Character",
       "cost": 7,
       "power": 8000,
@@ -817,12 +955,29 @@
               "category": "retail"
             }
           ]
+        },
+        {
+          "id": "P-005~ja",
+          "language": "ja",
+          "set": "P",
+          "rarity": "P",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/P-005.png",
+          "cardSet": "ONE PIECEカードゲーム プロモーションパック2022",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "P-006",
       "name": "Monkey.D.Luffy",
+      "names": {
+        "en": "Monkey.D.Luffy",
+        "ja": "モンキー・D・ルフィ"
+      },
       "category": "Character",
       "cost": 3,
       "power": 3000,
@@ -948,12 +1103,29 @@
               "category": "event"
             }
           ]
+        },
+        {
+          "id": "P-006~ja",
+          "language": "ja",
+          "set": "P",
+          "rarity": "P",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/P-006.png",
+          "cardSet": "Vジャンプ9月特大号付録（2022年7月21日売）",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "P-007",
       "name": "Monkey.D.Luffy",
+      "names": {
+        "en": "Monkey.D.Luffy",
+        "ja": "モンキー・D・ルフィ"
+      },
       "category": "Character",
       "cost": 4,
       "power": 5000,
@@ -1053,12 +1225,29 @@
               "category": "event"
             }
           ]
+        },
+        {
+          "id": "P-007~ja",
+          "language": "ja",
+          "set": "P",
+          "rarity": "P",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/P-007.png",
+          "cardSet": "最強ジャンプ9月号付録（2022年8月4日売）",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "P-008",
       "name": "Yamato",
+      "names": {
+        "en": "Yamato",
+        "ja": "ヤマト"
+      },
       "category": "Character",
       "cost": 3,
       "power": 5000,
@@ -1156,12 +1345,29 @@
               "category": "event"
             }
           ]
+        },
+        {
+          "id": "P-008~ja",
+          "language": "ja",
+          "set": "P",
+          "rarity": "P",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/P-008.png",
+          "cardSet": "最強ジャンプ9月号付録（2022年8月4日売）",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "P-009",
       "name": "Trafalgar Law",
+      "names": {
+        "en": "Trafalgar Law",
+        "ja": "トラファルガー・ロー"
+      },
       "category": "Character",
       "cost": 6,
       "power": 7000,
@@ -1260,12 +1466,29 @@
               "category": "event"
             }
           ]
+        },
+        {
+          "id": "P-009~ja",
+          "language": "ja",
+          "set": "P",
+          "rarity": "P",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/P-009.png",
+          "cardSet": "最強ジャンプ9月号付録（2022年8月4日売）",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "P-010",
       "name": "Kaido",
+      "names": {
+        "en": "Kaido",
+        "ja": "カイドウ"
+      },
       "category": "Character",
       "cost": 8,
       "power": 9000,
@@ -1364,12 +1587,29 @@
               "category": "event"
             }
           ]
+        },
+        {
+          "id": "P-010~ja",
+          "language": "ja",
+          "set": "P",
+          "rarity": "P",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/P-010.png",
+          "cardSet": "最強ジャンプ9月号付録（2022年8月4日売）",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "P-011",
       "name": "Uta",
+      "names": {
+        "en": "Uta",
+        "ja": "ウタ"
+      },
       "category": "Leader",
       "power": 5000,
       "life": 5,
@@ -1436,12 +1676,39 @@
               "category": "retail"
             }
           ]
+        },
+        {
+          "id": "P-011~ja",
+          "language": "ja",
+          "set": "P",
+          "rarity": "L",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/P-011.png",
+          "cardSet": "『ONE PIECE FILM RED』第2弾入場者プレゼント チュートリアルデッキ",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
+        },
+        {
+          "id": "P-011_p1~ja",
+          "language": "ja",
+          "set": "OTHER",
+          "rarity": "L",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/P-011_p1.png",
+          "cardSet": "プレミアムカードコレクション-ウタ-",
+          "source": "bandai"
         }
       ]
     },
     {
       "number": "P-012",
       "name": "Jellyfish Pirates",
+      "names": {
+        "en": "Jellyfish Pirates",
+        "ja": "クラゲ海賊団"
+      },
       "category": "Character",
       "cost": 3,
       "power": 5000,
@@ -1484,12 +1751,29 @@
               "category": "media"
             }
           ]
+        },
+        {
+          "id": "P-012~ja",
+          "language": "ja",
+          "set": "P",
+          "rarity": "P",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/P-012.png",
+          "cardSet": "『ONE PIECE FILM RED』第2弾入場者プレゼント チュートリアルデッキ",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "P-013",
       "name": "Gordon",
+      "names": {
+        "en": "Gordon",
+        "ja": "ゴードン"
+      },
       "category": "Character",
       "cost": 1,
       "power": 2000,
@@ -1530,12 +1814,29 @@
               "category": "media"
             }
           ]
+        },
+        {
+          "id": "P-013~ja",
+          "language": "ja",
+          "set": "P",
+          "rarity": "P",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/P-013.png",
+          "cardSet": "『ONE PIECE FILM RED』第2弾入場者プレゼント チュートリアルデッキ",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "P-014",
       "name": "Koby",
+      "names": {
+        "en": "Koby",
+        "ja": "コビー"
+      },
       "category": "Character",
       "cost": 3,
       "power": 3000,
@@ -1659,12 +1960,65 @@
           ],
           "artOf": "P-014",
           "artist": "Misa Matoki"
+        },
+        {
+          "id": "P-014~ja",
+          "language": "ja",
+          "set": "P",
+          "rarity": "P",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/P-014.png",
+          "cardSet": "『ONE PIECE FILM RED』第2弾入場者プレゼント チュートリアルデッキ",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
+        },
+        {
+          "id": "P-014_p1~ja",
+          "language": "ja",
+          "set": "PRB01",
+          "rarity": "P",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/P-014_p1.png",
+          "cardSet": "ONE PIECE CARD THE BEST【PRB-01】",
+          "source": "bandai"
+        },
+        {
+          "id": "P-014_p2~ja",
+          "language": "ja",
+          "set": "PRB01",
+          "rarity": "P",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/P-014_p2.png",
+          "cardSet": "ONE PIECE CARD THE BEST【PRB-01】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "P-014_r1~ja",
+          "language": "ja",
+          "set": "PRB01",
+          "rarity": "P",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/P-014_r1.png",
+          "cardSet": "ONE PIECE CARD THE BEST【PRB-01】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "P-015",
       "name": "Sunny-Kun",
+      "names": {
+        "en": "Sunny-Kun",
+        "ja": "サニーくん"
+      },
       "category": "Character",
       "cost": 1,
       "power": 3000,
@@ -1707,12 +2061,29 @@
               "category": "media"
             }
           ]
+        },
+        {
+          "id": "P-015~ja",
+          "language": "ja",
+          "set": "P",
+          "rarity": "P",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/P-015.png",
+          "cardSet": "『ONE PIECE FILM RED』第2弾入場者プレゼント チュートリアルデッキ",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "P-016",
       "name": "Shanks",
+      "names": {
+        "en": "Shanks",
+        "ja": "シャンクス"
+      },
       "category": "Character",
       "cost": 8,
       "power": 10000,
@@ -1788,12 +2159,49 @@
               "category": "retail"
             }
           ]
+        },
+        {
+          "id": "P-016~ja",
+          "language": "ja",
+          "set": "P",
+          "rarity": "P",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/P-016.png",
+          "cardSet": "『ONE PIECE FILM RED』第2弾入場者プレゼント チュートリアルデッキ",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
+        },
+        {
+          "id": "P-016_p1~ja",
+          "language": "ja",
+          "set": "P",
+          "rarity": "P",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/P-016_p1.png",
+          "cardSet": "『ONE PIECE FILM RED』入場者プレゼント フィナーレセット",
+          "source": "bandai"
+        },
+        {
+          "id": "P-016_p2~ja",
+          "language": "ja",
+          "set": "OTHER",
+          "rarity": "P",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/P-016_p2.png",
+          "cardSet": "プレミアムカードコレクション ‐ONE PIECE FILM RED ‐",
+          "source": "bandai"
         }
       ]
     },
     {
       "number": "P-017",
       "name": "Trafalgar Law",
+      "names": {
+        "en": "Trafalgar Law",
+        "ja": "トラファルガー・ロー"
+      },
       "category": "Character",
       "cost": 4,
       "power": 5000,
@@ -1922,12 +2330,52 @@
               "category": "event"
             }
           ]
+        },
+        {
+          "id": "P-017~ja",
+          "language": "ja",
+          "set": "P",
+          "rarity": "P",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/P-017.png",
+          "cardSet": "『ONE PIECE FILM RED』第2弾入場者プレゼント チュートリアルデッキ",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
+        },
+        {
+          "id": "P-017_p1~ja",
+          "language": "ja",
+          "set": "P",
+          "rarity": "P",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/P-017_p1.png",
+          "cardSet": "スタンダードバトルパックVol.7",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
+        },
+        {
+          "id": "P-017_p2~ja",
+          "language": "ja",
+          "set": "P",
+          "rarity": "P",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/P-017_p2.png",
+          "cardSet": "スタンダードバトル 2024年3月優勝記念品",
+          "source": "bandai"
         }
       ]
     },
     {
       "number": "P-018",
       "name": "Bartolomeo",
+      "names": {
+        "en": "Bartolomeo",
+        "ja": "バルトロメオ"
+      },
       "category": "Character",
       "cost": 2,
       "power": 3000,
@@ -1970,12 +2418,29 @@
               "category": "media"
             }
           ]
+        },
+        {
+          "id": "P-018~ja",
+          "language": "ja",
+          "set": "P",
+          "rarity": "P",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/P-018.png",
+          "cardSet": "『ONE PIECE FILM RED』第2弾入場者プレゼント チュートリアルデッキ",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "P-019",
       "name": "Bepo",
+      "names": {
+        "en": "Bepo",
+        "ja": "ベポ"
+      },
       "category": "Character",
       "cost": 3,
       "power": 2000,
@@ -2104,12 +2569,42 @@
               "category": "event"
             }
           ]
+        },
+        {
+          "id": "P-019~ja",
+          "language": "ja",
+          "set": "P",
+          "rarity": "P",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/P-019.png",
+          "cardSet": "『ONE PIECE FILM RED』第2弾入場者プレゼント チュートリアルデッキ",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
+        },
+        {
+          "id": "P-019_p1~ja",
+          "language": "ja",
+          "set": "P",
+          "rarity": "P",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/P-019_p1.png",
+          "cardSet": "スタンダードバトルパックVol.7",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "P-020",
       "name": "Helmeppo",
+      "names": {
+        "en": "Helmeppo",
+        "ja": "ヘルメッポ"
+      },
       "category": "Character",
       "cost": 1,
       "power": 2000,
@@ -2153,12 +2648,29 @@
             }
           ],
           "artist": "Koushi Rokushiro"
+        },
+        {
+          "id": "P-020~ja",
+          "language": "ja",
+          "set": "P",
+          "rarity": "P",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/P-020.png",
+          "cardSet": "『ONE PIECE FILM RED』第2弾入場者プレゼント チュートリアルデッキ",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "P-021",
       "name": "Benn.Beckman",
+      "names": {
+        "en": "Benn.Beckman",
+        "ja": "ベン・ベックマン"
+      },
       "category": "Character",
       "cost": 7,
       "power": 9000,
@@ -2202,12 +2714,29 @@
             }
           ],
           "artist": "DAI-XT."
+        },
+        {
+          "id": "P-021~ja",
+          "language": "ja",
+          "set": "P",
+          "rarity": "P",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/P-021.png",
+          "cardSet": "『ONE PIECE FILM RED』第2弾入場者プレゼント チュートリアルデッキ",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "P-022",
       "name": "Monkey.D.Luffy",
+      "names": {
+        "en": "Monkey.D.Luffy",
+        "ja": "モンキー・D・ルフィ"
+      },
       "category": "Character",
       "cost": 4,
       "power": 6000,
@@ -2303,12 +2832,49 @@
               "category": "media"
             }
           ]
+        },
+        {
+          "id": "P-022~ja",
+          "language": "ja",
+          "set": "P",
+          "rarity": "P",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/P-022.png",
+          "cardSet": "『ONE PIECE FILM RED』第2弾入場者プレゼント チュートリアルデッキ",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
+        },
+        {
+          "id": "P-022_p1~ja",
+          "language": "ja",
+          "set": "P",
+          "rarity": "P",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/P-022_p1.png",
+          "cardSet": "『ONE PIECE FILM RED』入場者プレゼント フィナーレセット",
+          "source": "bandai"
+        },
+        {
+          "id": "P-022_p2~ja",
+          "language": "ja",
+          "set": "OTHER",
+          "rarity": "P",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/P-022_p2.png",
+          "cardSet": "プレミアムカードコレクション ‐ONE PIECE FILM RED ‐",
+          "source": "bandai"
         }
       ]
     },
     {
       "number": "P-023",
       "name": "Yasopp",
+      "names": {
+        "en": "Yasopp",
+        "ja": "ヤソップ"
+      },
       "category": "Character",
       "cost": 6,
       "power": 8000,
@@ -2352,12 +2918,29 @@
             }
           ],
           "artist": "DAI-XT."
+        },
+        {
+          "id": "P-023~ja",
+          "language": "ja",
+          "set": "P",
+          "rarity": "P",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/P-023.png",
+          "cardSet": "『ONE PIECE FILM RED』第2弾入場者プレゼント チュートリアルデッキ",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "P-024",
       "name": "I'm Gonna Be King of the Pirates!!",
+      "names": {
+        "en": "I'm Gonna Be King of the Pirates!!",
+        "ja": "海賊王に!!!おれはなるっ!!!!"
+      },
       "category": "Event",
       "cost": 2,
       "colors": [
@@ -2389,12 +2972,29 @@
             "match": "image",
             "distance": 9
           }
+        },
+        {
+          "id": "P-024~ja",
+          "language": "ja",
+          "set": "P",
+          "rarity": "P",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/P-024.png",
+          "cardSet": "交流会 9月開催記念品",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "P-025",
       "name": "Smoker",
+      "names": {
+        "en": "Smoker",
+        "ja": "スモーカー"
+      },
       "category": "Character",
       "cost": 3,
       "power": 5000,
@@ -2466,12 +3066,29 @@
               "category": "event"
             }
           ]
+        },
+        {
+          "id": "P-025~ja",
+          "language": "ja",
+          "set": "P",
+          "rarity": "P",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/P-025.png",
+          "cardSet": "Vジャンプ12月特大号付録（2022年10月21日売）",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "P-026",
       "name": "Morgan",
+      "names": {
+        "en": "Morgan",
+        "ja": "モーガン"
+      },
       "category": "Character",
       "cost": 4,
       "power": 5000,
@@ -2514,12 +3131,29 @@
             }
           ],
           "artist": "Koushi Rokushiro"
+        },
+        {
+          "id": "P-026~ja",
+          "language": "ja",
+          "set": "P",
+          "rarity": "P",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/P-026.png",
+          "cardSet": "交流会12月開催記念品",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "P-027",
       "name": "General Franky",
+      "names": {
+        "en": "General Franky",
+        "ja": "フランキー将軍"
+      },
       "category": "Character",
       "cost": 2,
       "power": 4000,
@@ -2622,12 +3256,29 @@
               "category": "placement"
             }
           ]
+        },
+        {
+          "id": "P-027~ja",
+          "language": "ja",
+          "set": "P",
+          "rarity": "P",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/P-027.png",
+          "cardSet": "最強ジャンプ12月号付録（2022年11月2日売）",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "P-028",
       "name": "Portgas.D.Ace",
+      "names": {
+        "en": "Portgas.D.Ace",
+        "ja": "ポートガス・D・エース"
+      },
       "category": "Character",
       "cost": 5,
       "power": 6000,
@@ -2766,12 +3417,49 @@
               "category": "placement"
             }
           ]
+        },
+        {
+          "id": "P-028~ja",
+          "language": "ja",
+          "set": "P",
+          "rarity": "P",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/P-028.png",
+          "cardSet": "ONE PIECEカードゲーム プロモーションパック2022 Vol.2",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "P-028_p1~ja",
+          "language": "ja",
+          "set": "P",
+          "rarity": "P",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/P-028_p1.png",
+          "cardSet": "ワンピース・マガジン Vol.16付録（2023年3月2日売）",
+          "source": "bandai"
+        },
+        {
+          "id": "P-028_p2~ja",
+          "language": "ja",
+          "set": "P",
+          "rarity": "P",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/P-028_p2.png",
+          "cardSet": "プロモーションカードセット",
+          "source": "bandai"
         }
       ]
     },
     {
       "number": "P-029",
       "name": "Bartolomeo",
+      "names": {
+        "en": "Bartolomeo",
+        "ja": "バルトロメオ"
+      },
       "category": "Character",
       "cost": 2,
       "power": 3000,
@@ -2982,12 +3670,72 @@
               "category": "placement"
             }
           ]
+        },
+        {
+          "id": "P-029~ja",
+          "language": "ja",
+          "set": "P",
+          "rarity": "P",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/P-029.png",
+          "cardSet": "ONE PIECEカードゲーム プロモーションパック2022 Vol.2",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "P-029_p2~ja",
+          "language": "ja",
+          "set": "PRB01",
+          "rarity": "P",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/P-029_p2.png",
+          "cardSet": "ONE PIECE CARD THE BEST【PRB-01】",
+          "source": "bandai"
+        },
+        {
+          "id": "P-029_p3~ja",
+          "language": "ja",
+          "set": "PRB01",
+          "rarity": "P",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/P-029_p3.png",
+          "cardSet": "ONE PIECE CARD THE BEST【PRB-01】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "P-029_r1~ja",
+          "language": "ja",
+          "set": "PRB01",
+          "rarity": "P",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/P-029_r1.png",
+          "cardSet": "ONE PIECE CARD THE BEST【PRB-01】",
+          "source": "bandai"
+        },
+        {
+          "id": "P-029_r2~ja",
+          "language": "ja",
+          "set": "ST16",
+          "rarity": "P",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/P-029_r2.png",
+          "cardSet": "スタートデッキ 緑 ウタ【ST-16】",
+          "source": "bandai"
         }
       ]
     },
     {
       "number": "P-030",
       "name": "Jinbe",
+      "names": {
+        "en": "Jinbe",
+        "ja": "ジンベエ"
+      },
       "category": "Character",
       "cost": 4,
       "power": 5000,
@@ -3180,12 +3928,55 @@
               "category": "retail"
             }
           ]
+        },
+        {
+          "id": "P-030~ja",
+          "language": "ja",
+          "set": "P",
+          "rarity": "P",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/P-030.png",
+          "cardSet": "ONE PIECEカードゲーム プロモーションパック2022 Vol.2",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "P-030_p2~ja",
+          "language": "ja",
+          "set": "OTHER",
+          "rarity": "P",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/P-030_p2.png",
+          "cardSet": "ONE PIECE カードゲーム China 2nd ANNIVERSARY SET",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "P-030_r1~ja",
+          "language": "ja",
+          "set": "ST17",
+          "rarity": "P",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/P-030_r1.png",
+          "cardSet": "スタートデッキ 青 ドンキホーテ・ドフラミンゴ【ST-17】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "P-031",
       "name": "Uta",
+      "names": {
+        "en": "Uta",
+        "ja": "ウタ"
+      },
       "category": "Character",
       "cost": 5,
       "power": 6000,
@@ -3314,12 +4105,39 @@
               "category": "retail"
             }
           ]
+        },
+        {
+          "id": "P-031~ja",
+          "language": "ja",
+          "set": "P",
+          "rarity": "P",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/P-031.png",
+          "cardSet": "ONE PIECEカードゲーム プロモーションパック2022 Vol.2",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "P-031_p1~ja",
+          "language": "ja",
+          "set": "OTHER",
+          "rarity": "P",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/P-031_p1.png",
+          "cardSet": "プレミアムカードコレクション-ウタ-",
+          "source": "bandai"
         }
       ]
     },
     {
       "number": "P-032",
       "name": "Sengoku",
+      "names": {
+        "en": "Sengoku",
+        "ja": "センゴク"
+      },
       "category": "Character",
       "cost": 5,
       "power": 6000,
@@ -3422,12 +4240,29 @@
               "category": "placement"
             }
           ]
+        },
+        {
+          "id": "P-032~ja",
+          "language": "ja",
+          "set": "P",
+          "rarity": "P",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/P-032.png",
+          "cardSet": "ONE PIECEカードゲーム プロモーションパック2022 Vol.2",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "P-033",
       "name": "Monkey.D.Luffy",
+      "names": {
+        "en": "Monkey.D.Luffy",
+        "ja": "モンキー・D・ルフィ"
+      },
       "category": "Character",
       "cost": 4,
       "power": 5000,
@@ -3530,12 +4365,29 @@
               "category": "placement"
             }
           ]
+        },
+        {
+          "id": "P-033~ja",
+          "language": "ja",
+          "set": "P",
+          "rarity": "P",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/P-033.png",
+          "cardSet": "週刊少年ジャンプ付録（2023年1月7日売）",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "P-034",
       "name": "Sanji",
+      "names": {
+        "en": "Sanji",
+        "ja": "サンジ"
+      },
       "category": "Character",
       "cost": 3,
       "power": 4000,
@@ -3639,12 +4491,29 @@
               "category": "placement"
             }
           ]
+        },
+        {
+          "id": "P-034~ja",
+          "language": "ja",
+          "set": "P",
+          "rarity": "P",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/P-034.png",
+          "cardSet": "Vジャンプ3月特大号付録（2023年1月20日売）",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "P-035",
       "name": "Monkey.D.Luffy",
+      "names": {
+        "en": "Monkey.D.Luffy",
+        "ja": "モンキー・D・ルフィ"
+      },
       "category": "Character",
       "cost": 6,
       "power": 6000,
@@ -3686,12 +4555,29 @@
             }
           ],
           "artist": "Yosuke Adachi"
+        },
+        {
+          "id": "P-035~ja",
+          "language": "ja",
+          "set": "P",
+          "rarity": "P",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/P-035.png",
+          "cardSet": "交流会3月開催記念品",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "P-036",
       "name": "Monkey.D.Luffy",
+      "names": {
+        "en": "Monkey.D.Luffy",
+        "ja": "モンキー・D・ルフィ"
+      },
       "category": "Character",
       "cost": 3,
       "power": 4000,
@@ -3765,12 +4651,29 @@
               "category": "event"
             }
           ]
+        },
+        {
+          "id": "P-036~ja",
+          "language": "ja",
+          "set": "P",
+          "rarity": "P",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/P-036.png",
+          "cardSet": "最強ジャンプ3月号付録（2023年2月3日売）",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "P-037",
       "name": "Monkey.D.Luffy",
+      "names": {
+        "en": "Monkey.D.Luffy",
+        "ja": "モンキー・D・ルフィ"
+      },
       "category": "Character",
       "cost": 2,
       "power": 4000,
@@ -3863,12 +4766,29 @@
               "category": "anniversary"
             }
           ]
+        },
+        {
+          "id": "P-037~ja",
+          "language": "ja",
+          "set": "P",
+          "rarity": "P",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/P-037.png",
+          "cardSet": "最強ジャンプ6月号付録（2023年5月2日売）",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "P-038",
       "name": "Trafalgar Law",
+      "names": {
+        "en": "Trafalgar Law",
+        "ja": "トラファルガー・ロー"
+      },
       "category": "Character",
       "source": "tcgplayer",
       "printings": [
@@ -3958,12 +4878,26 @@
               "category": "placement"
             }
           ]
+        },
+        {
+          "id": "P-038~ja",
+          "language": "ja",
+          "set": "P",
+          "rarity": "P",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/P-038.png",
+          "cardSet": "Vジャンプ7月特大号付録（2023年5月19日売）",
+          "source": "bandai"
         }
       ]
     },
     {
       "number": "P-039",
       "name": "Bellamy",
+      "names": {
+        "en": "Bellamy",
+        "ja": "ベラミー"
+      },
       "category": "Character",
       "cost": 5,
       "power": 6000,
@@ -4005,12 +4939,29 @@
             }
           ],
           "artist": "tasaka"
+        },
+        {
+          "id": "P-039~ja",
+          "language": "ja",
+          "set": "P",
+          "rarity": "P",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/P-039.png",
+          "cardSet": "交流会6月開催記念品",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "P-040",
       "name": "Kaido",
+      "names": {
+        "en": "Kaido",
+        "ja": "カイドウ"
+      },
       "category": "Character",
       "source": "tcgplayer",
       "printings": [
@@ -4039,12 +4990,26 @@
               "category": "event"
             }
           ]
+        },
+        {
+          "id": "P-040~ja",
+          "language": "ja",
+          "set": "P",
+          "rarity": "P",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/P-040.png",
+          "cardSet": "「ONE PIECE CARD GAME 1st ANNIVERSARY COMPLETE GUIDE」限定特典カード",
+          "source": "bandai"
         }
       ]
     },
     {
       "number": "P-041",
       "name": "Monkey.D.Luffy",
+      "names": {
+        "en": "Monkey.D.Luffy",
+        "ja": "モンキー・D・ルフィ"
+      },
       "category": "Character",
       "cost": 10,
       "power": 12000,
@@ -4362,12 +5327,75 @@
               "category": "event"
             }
           ]
+        },
+        {
+          "id": "P-041~ja",
+          "language": "ja",
+          "set": "P",
+          "rarity": "P",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/P-041.png",
+          "cardSet": "ONE PIECE DAY’23来場者特典",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
+        },
+        {
+          "id": "P-041_p1~ja",
+          "language": "ja",
+          "set": "P",
+          "rarity": "P",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/P-041_p1.png",
+          "cardSet": "「ONE PIECE CARD GAME 1st ANNIVERSARY COMPLETE GUIDE」限定特典カード",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "P-041_p3~ja",
+          "language": "ja",
+          "set": "P",
+          "rarity": "P",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/P-041_p3.png",
+          "cardSet": "セブンイレブンタイアップキャンペーン オリジナルカード",
+          "source": "bandai"
+        },
+        {
+          "id": "P-041_p4~ja",
+          "language": "ja",
+          "set": "P",
+          "rarity": "P",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/P-041_p4.png",
+          "cardSet": "BANDAI CARD GAMES Fest23-24 World Tour　TOUR FINAL in JAPAN 来場記念品",
+          "source": "bandai"
+        },
+        {
+          "id": "P-041_r1~ja",
+          "language": "ja",
+          "set": "ST18",
+          "rarity": "P",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/P-041_r1.png",
+          "cardSet": "スタートデッキ 紫 モンキー・D・ルフィ【ST-18】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "P-042",
       "name": "Roronoa Zoro",
+      "names": {
+        "en": "Roronoa Zoro",
+        "ja": "ロロノア・ゾロ"
+      },
       "category": "Character",
       "cost": 4,
       "power": 5000,
@@ -4471,12 +5499,29 @@
               "category": "placement"
             }
           ]
+        },
+        {
+          "id": "P-042~ja",
+          "language": "ja",
+          "set": "P",
+          "rarity": "P",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/P-042.png",
+          "cardSet": "最強ジャンプ9月号付録（2023年8月4日売）",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "P-043",
       "name": "Monkey.D.Luffy",
+      "names": {
+        "en": "Monkey.D.Luffy",
+        "ja": "モンキー・D・ルフィ"
+      },
       "category": "Character",
       "cost": 7,
       "power": 7000,
@@ -4549,12 +5594,30 @@
               "category": "mark"
             }
           ]
+        },
+        {
+          "id": "P-043~ja",
+          "language": "ja",
+          "set": "P",
+          "rarity": "P",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/P-043.png",
+          "cardSet": "週刊少年ジャンプ付録（2023年8月7日売）",
+          "source": "bandai",
+          "finishes": [
+            "foil",
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "P-044",
       "name": "Sabo",
+      "names": {
+        "en": "Sabo",
+        "ja": "サボ"
+      },
       "category": "Character",
       "cost": 3,
       "power": 4000,
@@ -4711,12 +5774,49 @@
               "category": "placement"
             }
           ]
+        },
+        {
+          "id": "P-044~ja",
+          "language": "ja",
+          "set": "P",
+          "rarity": "P",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/P-044.png",
+          "cardSet": "Vジャンプ10月特大号付録（2023年8月21日売）",
+          "source": "bandai"
+        },
+        {
+          "id": "P-044_p1~ja",
+          "language": "ja",
+          "set": "PRB02",
+          "rarity": "P",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/P-044_p1.png",
+          "cardSet": "ONE PIECE CARD THE BEST vol.2【PRB-02】",
+          "source": "bandai"
+        },
+        {
+          "id": "P-044_r1~ja",
+          "language": "ja",
+          "set": "PRB02",
+          "rarity": "P",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/P-044_r1.png",
+          "cardSet": "ONE PIECE CARD THE BEST vol.2【PRB-02】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "P-045",
       "name": "Roronoa Zoro",
+      "names": {
+        "en": "Roronoa Zoro",
+        "ja": "ロロノア・ゾロ"
+      },
       "category": "Character",
       "cost": 6,
       "power": 7000,
@@ -4859,12 +5959,29 @@
             }
           ],
           "artist": "Anderson"
+        },
+        {
+          "id": "P-045~ja",
+          "language": "ja",
+          "set": "P",
+          "rarity": "P",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/P-045.png",
+          "cardSet": "交流会 2023年9月開催記念品",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "P-046",
       "name": "Yamato",
+      "names": {
+        "en": "Yamato",
+        "ja": "ヤマト"
+      },
       "category": "Character",
       "cost": 1,
       "power": 2000,
@@ -4967,12 +6084,29 @@
               "category": "placement"
             }
           ]
+        },
+        {
+          "id": "P-046~ja",
+          "language": "ja",
+          "set": "P",
+          "rarity": "P",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/P-046.png",
+          "cardSet": "ONE PIECE magazine Vol.17付録（2023年9月4日売）",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "P-047",
       "name": "Monkey.D.Luffy",
+      "names": {
+        "en": "Monkey.D.Luffy",
+        "ja": "モンキー・D・ルフィ"
+      },
       "category": "Leader",
       "power": 5000,
       "life": 5,
@@ -5046,12 +6180,42 @@
               "category": "retail"
             }
           ]
+        },
+        {
+          "id": "P-047~ja",
+          "language": "ja",
+          "set": "P",
+          "rarity": "P",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/P-047.png",
+          "cardSet": "ONE PIECEカードゲーム プロモーションパックVol.4",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
+        },
+        {
+          "id": "P-047_p1~ja",
+          "language": "ja",
+          "set": "OTHER",
+          "rarity": "P",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/P-047_p1.png",
+          "cardSet": "プレミアムカードコレクション-Live Action Edition-",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "P-048",
       "name": "Arlong",
+      "names": {
+        "en": "Arlong",
+        "ja": "アーロン"
+      },
       "category": "Character",
       "cost": 3,
       "power": 4000,
@@ -5134,12 +6298,39 @@
               "category": "retail"
             }
           ]
+        },
+        {
+          "id": "P-048~ja",
+          "language": "ja",
+          "set": "P",
+          "rarity": "P",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/P-048.png",
+          "cardSet": "ONE PIECEカードゲーム プロモーションパックVol.4",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
+        },
+        {
+          "id": "P-048_p1~ja",
+          "language": "ja",
+          "set": "OTHER",
+          "rarity": "P",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/P-048_p1.png",
+          "cardSet": "プレミアムカードコレクション-Live Action Edition-",
+          "source": "bandai"
         }
       ]
     },
     {
       "number": "P-049",
       "name": "Usopp",
+      "names": {
+        "en": "Usopp",
+        "ja": "ウソップ"
+      },
       "category": "Character",
       "cost": 2,
       "power": 3000,
@@ -5214,12 +6405,42 @@
               "category": "retail"
             }
           ]
+        },
+        {
+          "id": "P-049~ja",
+          "language": "ja",
+          "set": "P",
+          "rarity": "P",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/P-049.png",
+          "cardSet": "ONE PIECEカードゲーム プロモーションパックVol.4",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
+        },
+        {
+          "id": "P-049_p1~ja",
+          "language": "ja",
+          "set": "OTHER",
+          "rarity": "P",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/P-049_p1.png",
+          "cardSet": "プレミアムカードコレクション-Live Action Edition-",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "P-050",
       "name": "Sanji",
+      "names": {
+        "en": "Sanji",
+        "ja": "サンジ"
+      },
       "category": "Character",
       "cost": 3,
       "power": 2000,
@@ -5294,12 +6515,42 @@
               "category": "retail"
             }
           ]
+        },
+        {
+          "id": "P-050~ja",
+          "language": "ja",
+          "set": "P",
+          "rarity": "P",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/P-050.png",
+          "cardSet": "ONE PIECEカードゲーム プロモーションパックVol.4",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
+        },
+        {
+          "id": "P-050_p1~ja",
+          "language": "ja",
+          "set": "OTHER",
+          "rarity": "P",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/P-050_p1.png",
+          "cardSet": "プレミアムカードコレクション-Live Action Edition-",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "P-051",
       "name": "Shanks",
+      "names": {
+        "en": "Shanks",
+        "ja": "シャンクス"
+      },
       "category": "Character",
       "cost": 7,
       "power": 9000,
@@ -5373,12 +6624,42 @@
               "category": "retail"
             }
           ]
+        },
+        {
+          "id": "P-051~ja",
+          "language": "ja",
+          "set": "P",
+          "rarity": "P",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/P-051.png",
+          "cardSet": "ONE PIECEカードゲーム プロモーションパックVol.4",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
+        },
+        {
+          "id": "P-051_p1~ja",
+          "language": "ja",
+          "set": "OTHER",
+          "rarity": "P",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/P-051_p1.png",
+          "cardSet": "プレミアムカードコレクション-Live Action Edition-",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "P-052",
       "name": "Dracule Mihawk",
+      "names": {
+        "en": "Dracule Mihawk",
+        "ja": "ジュラキュール・ミホーク"
+      },
       "category": "Character",
       "cost": 6,
       "power": 7000,
@@ -5453,12 +6734,42 @@
               "category": "retail"
             }
           ]
+        },
+        {
+          "id": "P-052~ja",
+          "language": "ja",
+          "set": "P",
+          "rarity": "P",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/P-052.png",
+          "cardSet": "ONE PIECEカードゲーム プロモーションパックVol.4",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
+        },
+        {
+          "id": "P-052_p1~ja",
+          "language": "ja",
+          "set": "OTHER",
+          "rarity": "P",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/P-052_p1.png",
+          "cardSet": "プレミアムカードコレクション-Live Action Edition-",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "P-053",
       "name": "Nami",
+      "names": {
+        "en": "Nami",
+        "ja": "ナミ"
+      },
       "category": "Character",
       "cost": 1,
       "power": 1000,
@@ -5634,12 +6945,78 @@
           "finishes": [
             "nonfoil"
           ]
+        },
+        {
+          "id": "P-053~ja",
+          "language": "ja",
+          "set": "P",
+          "rarity": "P",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/P-053.png",
+          "cardSet": "ONE PIECEカードゲーム プロモーションパックVol.4",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
+        },
+        {
+          "id": "P-053_p1~ja",
+          "language": "ja",
+          "set": "OTHER",
+          "rarity": "P",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/P-053_p1.png",
+          "cardSet": "プレミアムカードコレクション-Live Action Edition-",
+          "source": "bandai"
+        },
+        {
+          "id": "P-053_p2~ja",
+          "language": "ja",
+          "set": "PRB01",
+          "rarity": "P",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/P-053_p2.png",
+          "cardSet": "ONE PIECE CARD THE BEST【PRB-01】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "P-053_p3~ja",
+          "language": "ja",
+          "set": "PRB01",
+          "rarity": "P",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/P-053_p3.png",
+          "cardSet": "ONE PIECE CARD THE BEST【PRB-01】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "P-053_r1~ja",
+          "language": "ja",
+          "set": "PRB01",
+          "rarity": "P",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/P-053_r1.png",
+          "cardSet": "ONE PIECE CARD THE BEST【PRB-01】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "P-054",
       "name": "Monkey.D.Garp",
+      "names": {
+        "en": "Monkey.D.Garp",
+        "ja": "モンキー・D・ガープ"
+      },
       "category": "Character",
       "cost": 6,
       "power": 7000,
@@ -5682,12 +7059,29 @@
             }
           ],
           "artist": "ASAKI KURODA"
+        },
+        {
+          "id": "P-054~ja",
+          "language": "ja",
+          "set": "P",
+          "rarity": "P",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/P-054.png",
+          "cardSet": "ONE PIECEカードゲーム プロモーションパックVol.4",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "P-055",
       "name": "Monkey.D.Luffy",
+      "names": {
+        "en": "Monkey.D.Luffy",
+        "ja": "モンキー・D・ルフィ"
+      },
       "category": "Character",
       "cost": 4,
       "power": 5000,
@@ -5869,12 +7263,78 @@
               "category": "retail"
             }
           ]
+        },
+        {
+          "id": "P-055~ja",
+          "language": "ja",
+          "set": "P",
+          "rarity": "P",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/P-055.png",
+          "cardSet": "ONE PIECEカードゲーム プロモーションパックVol.4",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
+        },
+        {
+          "id": "P-055_p1~ja",
+          "language": "ja",
+          "set": "OTHER",
+          "rarity": "P",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/P-055_p1.png",
+          "cardSet": "プレミアムカードコレクション-Live Action Edition-",
+          "source": "bandai"
+        },
+        {
+          "id": "P-055_p2~ja",
+          "language": "ja",
+          "set": "PRB01",
+          "rarity": "P",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/P-055_p2.png",
+          "cardSet": "ONE PIECE CARD THE BEST【PRB-01】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "P-055_p3~ja",
+          "language": "ja",
+          "set": "PRB01",
+          "rarity": "P",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/P-055_p3.png",
+          "cardSet": "ONE PIECE CARD THE BEST【PRB-01】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "P-055_r1~ja",
+          "language": "ja",
+          "set": "PRB01",
+          "rarity": "P",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/P-055_r1.png",
+          "cardSet": "ONE PIECE CARD THE BEST【PRB-01】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "P-056",
       "name": "Roronoa Zoro",
+      "names": {
+        "en": "Roronoa Zoro",
+        "ja": "ロロノア・ゾロ"
+      },
       "category": "Character",
       "cost": 4,
       "power": 6000,
@@ -5968,12 +7428,42 @@
           "finishes": [
             "nonfoil"
           ]
+        },
+        {
+          "id": "P-056~ja",
+          "language": "ja",
+          "set": "P",
+          "rarity": "P",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/P-056.png",
+          "cardSet": "ONE PIECEカードゲーム プロモーションパックVol.4",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
+        },
+        {
+          "id": "P-056_p1~ja",
+          "language": "ja",
+          "set": "OTHER",
+          "rarity": "P",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/P-056_p1.png",
+          "cardSet": "プレミアムカードコレクション-Live Action Edition-",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "P-057",
       "name": "Fleeting Lullaby",
+      "names": {
+        "en": "Fleeting Lullaby",
+        "ja": "ウタカタララバイ"
+      },
       "category": "Event",
       "cost": 3,
       "colors": [
@@ -6034,12 +7524,42 @@
             "match": "image-only-candidate",
             "distance": 1
           }
+        },
+        {
+          "id": "P-057~ja",
+          "language": "ja",
+          "set": "P",
+          "rarity": "P",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/P-057.png",
+          "cardSet": "『ONE PIECE FILM RED』入場者プレゼント アンコールパック",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
+        },
+        {
+          "id": "P-057_p1~ja",
+          "language": "ja",
+          "set": "ST16",
+          "rarity": "P",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/P-057_p1.png",
+          "cardSet": "スタートデッキ 緑 ウタ【ST-16】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "P-058",
       "name": "Where the Wind Blows",
+      "names": {
+        "en": "Where the Wind Blows",
+        "ja": "風のゆくえ"
+      },
       "category": "Event",
       "cost": 2,
       "colors": [
@@ -6099,12 +7619,42 @@
             "match": "image-only-candidate",
             "distance": 3
           }
+        },
+        {
+          "id": "P-058~ja",
+          "language": "ja",
+          "set": "P",
+          "rarity": "P",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/P-058.png",
+          "cardSet": "『ONE PIECE FILM RED』入場者プレゼント アンコールパック",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
+        },
+        {
+          "id": "P-058_p1~ja",
+          "language": "ja",
+          "set": "ST16",
+          "rarity": "P",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/P-058_p1.png",
+          "cardSet": "スタートデッキ 緑 ウタ【ST-16】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "P-059",
       "name": "The World's Continuation",
+      "names": {
+        "en": "The World's Continuation",
+        "ja": "世界のつづき"
+      },
       "category": "Event",
       "cost": 2,
       "colors": [
@@ -6165,12 +7715,42 @@
             "match": "image-only-candidate",
             "distance": 2
           }
+        },
+        {
+          "id": "P-059~ja",
+          "language": "ja",
+          "set": "P",
+          "rarity": "P",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/P-059.png",
+          "cardSet": "『ONE PIECE FILM RED』入場者プレゼント アンコールパック",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
+        },
+        {
+          "id": "P-059_p1~ja",
+          "language": "ja",
+          "set": "ST16",
+          "rarity": "P",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/P-059_p1.png",
+          "cardSet": "スタートデッキ 緑 ウタ【ST-16】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "P-060",
       "name": "Tot Musica",
+      "names": {
+        "en": "Tot Musica",
+        "ja": "Tot Musica"
+      },
       "category": "Event",
       "cost": 2,
       "colors": [
@@ -6231,12 +7811,42 @@
             "match": "image-only-candidate",
             "distance": 1
           }
+        },
+        {
+          "id": "P-060~ja",
+          "language": "ja",
+          "set": "P",
+          "rarity": "P",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/P-060.png",
+          "cardSet": "『ONE PIECE FILM RED』入場者プレゼント アンコールパック",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
+        },
+        {
+          "id": "P-060_p1~ja",
+          "language": "ja",
+          "set": "ST16",
+          "rarity": "P",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/P-060_p1.png",
+          "cardSet": "スタートデッキ 緑 ウタ【ST-16】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "P-061",
       "name": "Monkey.D.Luffy",
+      "names": {
+        "en": "Monkey.D.Luffy",
+        "ja": "モンキー・D・ルフィ"
+      },
       "category": "Character",
       "cost": 8,
       "power": 10000,
@@ -6332,12 +7942,42 @@
               "category": "placement"
             }
           ]
+        },
+        {
+          "id": "P-061~ja",
+          "language": "ja",
+          "set": "P",
+          "rarity": "P",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/P-061.png",
+          "cardSet": "『ONE PIECE FILM RED』入場者プレゼント アンコールパック",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
+        },
+        {
+          "id": "P-061_r1~ja",
+          "language": "ja",
+          "set": "ST16",
+          "rarity": "P",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/P-061_r1.png",
+          "cardSet": "スタートデッキ 緑 ウタ【ST-16】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "P-062",
       "name": "Hody & Hyouzou",
+      "names": {
+        "en": "Hody & Hyouzou",
+        "ja": "ホーディ＆ヒョウゾウ"
+      },
       "category": "Character",
       "cost": 4,
       "power": 6000,
@@ -6382,12 +8022,29 @@
             }
           ],
           "artist": "Misa Matoki"
+        },
+        {
+          "id": "P-062~ja",
+          "language": "ja",
+          "set": "P",
+          "rarity": "P",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/P-062.png",
+          "cardSet": "交流会 2023年12月開催記念品",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "P-063",
       "name": "Jinbe",
+      "names": {
+        "en": "Jinbe",
+        "ja": "ジンベエ"
+      },
       "category": "Character",
       "cost": 4,
       "power": 5000,
@@ -6570,12 +8227,62 @@
               "category": "placement"
             }
           ]
+        },
+        {
+          "id": "P-063~ja",
+          "language": "ja",
+          "set": "P",
+          "rarity": "P",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/P-063.png",
+          "cardSet": "Vジャンプ1月特大号付録（2023年11月21日売）",
+          "source": "bandai"
+        },
+        {
+          "id": "P-063_p1~ja",
+          "language": "ja",
+          "set": "PRB02",
+          "rarity": "P",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/P-063_p1.png",
+          "cardSet": "ONE PIECE CARD THE BEST vol.2【PRB-02】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "P-063_p2~ja",
+          "language": "ja",
+          "set": "PRB02",
+          "rarity": "P",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/P-063_p2.png",
+          "cardSet": "ONE PIECE CARD THE BEST vol.2【PRB-02】",
+          "source": "bandai"
+        },
+        {
+          "id": "P-063_r1~ja",
+          "language": "ja",
+          "set": "PRB02",
+          "rarity": "P",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/P-063_r1.png",
+          "cardSet": "ONE PIECE CARD THE BEST vol.2【PRB-02】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "P-064",
       "name": "Kouzuki Momonosuke",
+      "names": {
+        "en": "Kouzuki Momonosuke",
+        "ja": "光月モモの助"
+      },
       "category": "Character",
       "source": "tcgplayer",
       "printings": [
@@ -6668,12 +8375,26 @@
               "category": "placement"
             }
           ]
+        },
+        {
+          "id": "P-064~ja",
+          "language": "ja",
+          "set": "P",
+          "rarity": "P",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/P-064.png",
+          "cardSet": "最強ジャンプ1月号付録（2023年12月4日売）",
+          "source": "bandai"
         }
       ]
     },
     {
       "number": "P-065",
       "name": "Tony Tony.Chopper",
+      "names": {
+        "en": "Tony Tony.Chopper",
+        "ja": "トニートニー・チョッパー"
+      },
       "category": "Character",
       "cost": 3,
       "power": 4000,
@@ -6784,12 +8505,29 @@
               "category": "placement"
             }
           ]
+        },
+        {
+          "id": "P-065~ja",
+          "language": "ja",
+          "set": "P",
+          "rarity": "P",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/P-065.png",
+          "cardSet": "勉タメジャンプ2024 WINTER付録（2023年12月8日売）",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "P-066",
       "name": "Boa Hancock",
+      "names": {
+        "en": "Boa Hancock",
+        "ja": "ボア・ハンコック"
+      },
       "category": "Character",
       "source": "tcgplayer",
       "printings": [
@@ -6819,12 +8557,36 @@
               "category": "event"
             }
           ]
+        },
+        {
+          "id": "P-066~ja",
+          "language": "ja",
+          "set": "P",
+          "rarity": "P",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/P-066.png",
+          "cardSet": "最強ジャンプ4月号付録（2024年3月4日売）",
+          "source": "bandai"
+        },
+        {
+          "id": "P-066_p1~ja",
+          "language": "ja",
+          "set": "P",
+          "rarity": "P",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/P-066_p1.png",
+          "cardSet": "プロモーションパックEX Vol.2",
+          "source": "bandai"
         }
       ]
     },
     {
       "number": "P-067",
       "name": "Eustass\"Captain\"Kid",
+      "names": {
+        "en": "Eustass\"Captain\"Kid",
+        "ja": "ユースタス・キッド"
+      },
       "category": "Character",
       "source": "tcgplayer",
       "printings": [
@@ -6883,12 +8645,26 @@
               "category": "event"
             }
           ]
+        },
+        {
+          "id": "P-067~ja",
+          "language": "ja",
+          "set": "P",
+          "rarity": "P",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/P-067.png",
+          "cardSet": "Vジャンプ4月特大号付録（2024年2月21日売）",
+          "source": "bandai"
         }
       ]
     },
     {
       "number": "P-068",
       "name": "Sanji",
+      "names": {
+        "en": "Sanji",
+        "ja": "サンジ"
+      },
       "category": "Character",
       "cost": 3,
       "power": 4000,
@@ -6988,12 +8764,55 @@
           ],
           "artOf": "P-068",
           "artist": "Studio Vigor Co. Ltd"
+        },
+        {
+          "id": "P-068~ja",
+          "language": "ja",
+          "set": "P",
+          "rarity": "P",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/P-068.png",
+          "cardSet": "交流会 2024年3月開催記念品",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
+        },
+        {
+          "id": "P-068_p1~ja",
+          "language": "ja",
+          "set": "PRB02",
+          "rarity": "P",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/P-068_p1.png",
+          "cardSet": "ONE PIECE CARD THE BEST vol.2【PRB-02】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "P-068_r1~ja",
+          "language": "ja",
+          "set": "PRB02",
+          "rarity": "P",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/P-068_r1.png",
+          "cardSet": "ONE PIECE CARD THE BEST vol.2【PRB-02】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "P-069",
       "name": "Koala",
+      "names": {
+        "en": "Koala",
+        "ja": "コアラ"
+      },
       "category": "Character",
       "cost": 1,
       "power": 1000,
@@ -7253,12 +9072,65 @@
           "finishes": [
             "nonfoil"
           ]
+        },
+        {
+          "id": "P-069~ja",
+          "language": "ja",
+          "set": "P",
+          "rarity": "P",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/P-069.png",
+          "cardSet": "交流会 2024年5月開催記念品",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "P-069_p1~ja",
+          "language": "ja",
+          "set": "P",
+          "rarity": "P",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/P-069_p1.png",
+          "cardSet": "ONE PIECEカードゲーム プロモーションパックVol.7",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "P-069_p2~ja",
+          "language": "ja",
+          "set": "PRB02",
+          "rarity": "P",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/P-069_p2.png",
+          "cardSet": "ONE PIECE CARD THE BEST vol.2【PRB-02】",
+          "source": "bandai"
+        },
+        {
+          "id": "P-069_r1~ja",
+          "language": "ja",
+          "set": "PRB02",
+          "rarity": "P",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/P-069_r1.png",
+          "cardSet": "ONE PIECE CARD THE BEST vol.2【PRB-02】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "P-070",
       "name": "Carrot",
+      "names": {
+        "en": "Carrot",
+        "ja": "キャロット"
+      },
       "category": "Character",
       "cost": 2,
       "power": 2000,
@@ -7422,12 +9294,52 @@
           "treatments": [
             "reprint"
           ]
+        },
+        {
+          "id": "P-070~ja",
+          "language": "ja",
+          "set": "P",
+          "rarity": "P",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/P-070.png",
+          "cardSet": "Vジャンプ7月特大号付録（2024年5月21日売）",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "P-070_p1~ja",
+          "language": "ja",
+          "set": "PRB02",
+          "rarity": "P",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/P-070_p1.png",
+          "cardSet": "ONE PIECE CARD THE BEST vol.2【PRB-02】",
+          "source": "bandai"
+        },
+        {
+          "id": "P-070_r1~ja",
+          "language": "ja",
+          "set": "PRB02",
+          "rarity": "P",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/P-070_r1.png",
+          "cardSet": "ONE PIECE CARD THE BEST vol.2【PRB-02】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "P-071",
       "name": "Marco",
+      "names": {
+        "en": "Marco",
+        "ja": "マルコ"
+      },
       "category": "Character",
       "cost": 4,
       "power": 6000,
@@ -7498,12 +9410,29 @@
               "category": "event"
             }
           ]
+        },
+        {
+          "id": "P-071~ja",
+          "language": "ja",
+          "set": "P",
+          "rarity": "P",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/P-071.png",
+          "cardSet": "最強ジャンプ8月号付録（2024年7月4日売）",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "P-072",
       "name": "Ryuma",
+      "names": {
+        "en": "Ryuma",
+        "ja": "リューマ"
+      },
       "category": "Character",
       "cost": 4,
       "power": 6000,
@@ -7548,12 +9477,36 @@
               "category": "mark"
             }
           ]
+        },
+        {
+          "id": "P-072~ja",
+          "language": "ja",
+          "set": "P",
+          "rarity": "P",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/P-072.png",
+          "cardSet": "『MONSTERS 一百三情飛龍侍極』セットBOX特典",
+          "source": "bandai"
+        },
+        {
+          "id": "P-072_p1~ja",
+          "language": "ja",
+          "set": "OTHER",
+          "rarity": "P",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/P-072_p1.png",
+          "cardSet": "プレミアムカードコレクション-ベストセレクションvol.3-",
+          "source": "bandai"
         }
       ]
     },
     {
       "number": "P-073",
       "name": "Sabo",
+      "names": {
+        "en": "Sabo",
+        "ja": "サボ"
+      },
       "category": "Character",
       "cost": 5,
       "power": 5000,
@@ -7651,12 +9604,56 @@
               "category": "retail"
             }
           ]
+        },
+        {
+          "id": "P-073~ja",
+          "language": "ja",
+          "set": "P",
+          "rarity": "P",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/P-073.png",
+          "cardSet": "最強ジャンプ5月号応募者全員サービス（2024年4月4日売）",
+          "source": "bandai"
+        },
+        {
+          "id": "P-073_p1~ja",
+          "language": "ja",
+          "set": "OTHER",
+          "rarity": "P",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/P-073_p1.png",
+          "cardSet": "プレミアムカードコレクション-ベストセレクションvol.3-",
+          "source": "bandai"
+        },
+        {
+          "id": "P-073_p2~ja",
+          "language": "ja",
+          "set": "PRB02",
+          "rarity": "P",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/P-073_p2.png",
+          "cardSet": "ONE PIECE CARD THE BEST vol.2【PRB-02】",
+          "source": "bandai"
+        },
+        {
+          "id": "P-073_r1~ja",
+          "language": "ja",
+          "set": "PRB02",
+          "rarity": "P",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/P-073_r1.png",
+          "cardSet": "ONE PIECE CARD THE BEST vol.2【PRB-02】",
+          "source": "bandai"
         }
       ]
     },
     {
       "number": "P-074",
       "name": "Portgas.D.Ace",
+      "names": {
+        "en": "Portgas.D.Ace",
+        "ja": "ポートガス・D・エース"
+      },
       "category": "Character",
       "cost": 3,
       "power": 4000,
@@ -7746,12 +9743,59 @@
               "category": "retail"
             }
           ]
+        },
+        {
+          "id": "P-074~ja",
+          "language": "ja",
+          "set": "P",
+          "rarity": "P",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/P-074.png",
+          "cardSet": "最強ジャンプ5月号応募者全員サービス（2024年4月4日売）",
+          "source": "bandai"
+        },
+        {
+          "id": "P-074_p1~ja",
+          "language": "ja",
+          "set": "OTHER",
+          "rarity": "P",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/P-074_p1.png",
+          "cardSet": "プレミアムカードコレクション-ベストセレクションvol.3-",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "P-074_p2~ja",
+          "language": "ja",
+          "set": "PRB02",
+          "rarity": "P",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/P-074_p2.png",
+          "cardSet": "ONE PIECE CARD THE BEST vol.2【PRB-02】",
+          "source": "bandai"
+        },
+        {
+          "id": "P-074_r1~ja",
+          "language": "ja",
+          "set": "PRB02",
+          "rarity": "P",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/P-074_r1.png",
+          "cardSet": "ONE PIECE CARD THE BEST vol.2【PRB-02】",
+          "source": "bandai"
         }
       ]
     },
     {
       "number": "P-075",
       "name": "Monkey.D.Luffy",
+      "names": {
+        "en": "Monkey.D.Luffy",
+        "ja": "モンキー・D・ルフィ"
+      },
       "category": "Character",
       "cost": 7,
       "power": 7000,
@@ -7841,12 +9885,59 @@
               "category": "retail"
             }
           ]
+        },
+        {
+          "id": "P-075~ja",
+          "language": "ja",
+          "set": "P",
+          "rarity": "P",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/P-075.png",
+          "cardSet": "最強ジャンプ5月号応募者全員サービス（2024年4月4日売）",
+          "source": "bandai"
+        },
+        {
+          "id": "P-075_p1~ja",
+          "language": "ja",
+          "set": "OTHER",
+          "rarity": "P",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/P-075_p1.png",
+          "cardSet": "プレミアムカードコレクション-ベストセレクションvol.3-",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "P-075_p2~ja",
+          "language": "ja",
+          "set": "PRB02",
+          "rarity": "P",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/P-075_p2.png",
+          "cardSet": "ONE PIECE CARD THE BEST vol.2【PRB-02】",
+          "source": "bandai"
+        },
+        {
+          "id": "P-075_r1~ja",
+          "language": "ja",
+          "set": "PRB02",
+          "rarity": "P",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/P-075_r1.png",
+          "cardSet": "ONE PIECE CARD THE BEST vol.2【PRB-02】",
+          "source": "bandai"
         }
       ]
     },
     {
       "number": "P-076",
       "name": "Sakazuki",
+      "names": {
+        "en": "Sakazuki",
+        "ja": "サカズキ"
+      },
       "category": "Leader",
       "power": 5000,
       "life": 4,
@@ -7889,12 +9980,29 @@
             }
           ],
           "artist": "BISAI"
+        },
+        {
+          "id": "P-076~ja",
+          "language": "ja",
+          "set": "P",
+          "rarity": "P",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/P-076.png",
+          "cardSet": "交流会 2024年5月開催記念品",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "P-077",
       "name": "Ulti",
+      "names": {
+        "en": "Ulti",
+        "ja": "うるティ"
+      },
       "category": "Character",
       "cost": 6,
       "power": 6000,
@@ -7959,12 +10067,29 @@
           "source": "bandai",
           "artOf": "P-077",
           "artist": "Naruse Uroko"
+        },
+        {
+          "id": "P-077~ja",
+          "language": "ja",
+          "set": "P",
+          "rarity": "P",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/P-077.png",
+          "cardSet": "交流会 2024年7月開催記念品",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "P-078",
       "name": "Adio",
+      "names": {
+        "en": "Adio",
+        "ja": "アディオ"
+      },
       "category": "Character",
       "cost": 4,
       "power": 5000,
@@ -8116,12 +10241,62 @@
             "match": "image-other-set",
             "distance": 2
           }
+        },
+        {
+          "id": "P-078~ja",
+          "language": "ja",
+          "set": "P",
+          "rarity": "P",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/P-078.png",
+          "cardSet": "ONE PIECE ODYSSEYデラックスエディション",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
+        },
+        {
+          "id": "P-078_p1~ja",
+          "language": "ja",
+          "set": "P",
+          "rarity": "P",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/P-078_p1.png",
+          "cardSet": "交流会 2024年9月開催記念品",
+          "source": "bandai"
+        },
+        {
+          "id": "P-078_p2~ja",
+          "language": "ja",
+          "set": "PRB02",
+          "rarity": "P",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/P-078_p2.png",
+          "cardSet": "ONE PIECE CARD THE BEST vol.2【PRB-02】",
+          "source": "bandai"
+        },
+        {
+          "id": "P-078_r1~ja",
+          "language": "ja",
+          "set": "PRB02",
+          "rarity": "P",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/P-078_r1.png",
+          "cardSet": "ONE PIECE CARD THE BEST vol.2【PRB-02】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "P-079",
       "name": "Lim",
+      "names": {
+        "en": "Lim",
+        "ja": "リム"
+      },
       "category": "Character",
       "cost": 2,
       "counter": 1000,
@@ -8285,12 +10460,65 @@
             "match": "image-other-set",
             "distance": 5
           }
+        },
+        {
+          "id": "P-079~ja",
+          "language": "ja",
+          "set": "P",
+          "rarity": "P",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/P-079.png",
+          "cardSet": "ONE PIECE ODYSSEYデラックスエディション",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "P-079_p1~ja",
+          "language": "ja",
+          "set": "P",
+          "rarity": "P",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/P-079_p1.png",
+          "cardSet": "交流会 2024年9月開催記念品",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "P-079_p2~ja",
+          "language": "ja",
+          "set": "PRB02",
+          "rarity": "P",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/P-079_p2.png",
+          "cardSet": "ONE PIECE CARD THE BEST vol.2【PRB-02】",
+          "source": "bandai"
+        },
+        {
+          "id": "P-079_r1~ja",
+          "language": "ja",
+          "set": "PRB02",
+          "rarity": "P",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/P-079_r1.png",
+          "cardSet": "ONE PIECE CARD THE BEST vol.2【PRB-02】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "P-080",
       "name": "Monkey.D.Luffy - P-080",
+      "names": {
+        "en": "Monkey.D.Luffy - P-080",
+        "ja": "モンキー・D・ルフィ"
+      },
       "category": "Character",
       "source": "tcgplayer",
       "printings": [
@@ -8339,12 +10567,36 @@
           "finishes": [
             "nonfoil"
           ]
+        },
+        {
+          "id": "P-080~ja",
+          "language": "ja",
+          "set": "P",
+          "rarity": "P",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/P-080.png",
+          "cardSet": "BANDAI CARD GAMES Fest 24-25 World Tour 来場記念品",
+          "source": "bandai"
+        },
+        {
+          "id": "P-080_p1~ja",
+          "language": "ja",
+          "set": "P",
+          "rarity": "P",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/P-080_p1.png",
+          "cardSet": "モスバーガータイアップキャンペーン オリジナルカード",
+          "source": "bandai"
         }
       ]
     },
     {
       "number": "P-081",
       "name": "Dracule Mihawk",
+      "names": {
+        "en": "Dracule Mihawk",
+        "ja": "ジュラキュール・ミホーク"
+      },
       "category": "Character",
       "cost": 4,
       "power": 5000,
@@ -8472,12 +10724,55 @@
             "reprint"
           ],
           "artOf": "P-081_p2"
+        },
+        {
+          "id": "P-081_p1~ja",
+          "language": "ja",
+          "set": "P",
+          "rarity": "P",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/P-081_p1.png",
+          "cardSet": "Vジャンプ10月特大号付録（2024年8月21日売）",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "P-081_p2~ja",
+          "language": "ja",
+          "set": "PRB02",
+          "rarity": "P",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/P-081_p2.png",
+          "cardSet": "ONE PIECE CARD THE BEST vol.2【PRB-02】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "P-081_r1~ja",
+          "language": "ja",
+          "set": "PRB02",
+          "rarity": "P",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/P-081_r1.png",
+          "cardSet": "ONE PIECE CARD THE BEST vol.2【PRB-02】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "P-082",
       "name": "Crocodile",
+      "names": {
+        "en": "Crocodile",
+        "ja": "クロコダイル"
+      },
       "category": "Character",
       "cost": 5,
       "power": 7000,
@@ -8605,12 +10900,55 @@
             "reprint"
           ],
           "artOf": "P-082"
+        },
+        {
+          "id": "P-082_p1~ja",
+          "language": "ja",
+          "set": "P",
+          "rarity": "P",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/P-082_p1.png",
+          "cardSet": "最強ジャンプ10月号付録（2024年9月4日売）",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "P-082_p2~ja",
+          "language": "ja",
+          "set": "PRB02",
+          "rarity": "P",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/P-082_p2.png",
+          "cardSet": "ONE PIECE CARD THE BEST vol.2【PRB-02】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "P-082_r1~ja",
+          "language": "ja",
+          "set": "PRB02",
+          "rarity": "P",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/P-082_r1.png",
+          "cardSet": "ONE PIECE CARD THE BEST vol.2【PRB-02】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "P-083",
       "name": "Shanks",
+      "names": {
+        "en": "Shanks",
+        "ja": "シャンクス"
+      },
       "category": "Character",
       "cost": 6,
       "power": 7000,
@@ -8732,12 +11070,52 @@
           ],
           "artOf": "P-083_p3",
           "artist": "Yuto Suzuki"
+        },
+        {
+          "id": "P-083~ja",
+          "language": "ja",
+          "set": "P",
+          "rarity": "P",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/P-083.png",
+          "cardSet": "週刊少年ジャンプ付録（2024年10月7日売）",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "P-083_p1~ja",
+          "language": "ja",
+          "set": "PRB02",
+          "rarity": "P",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/P-083_p1.png",
+          "cardSet": "ONE PIECE CARD THE BEST vol.2【PRB-02】",
+          "source": "bandai"
+        },
+        {
+          "id": "P-083_r1~ja",
+          "language": "ja",
+          "set": "PRB02",
+          "rarity": "P",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/P-083_r1.png",
+          "cardSet": "ONE PIECE CARD THE BEST vol.2【PRB-02】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "P-084",
       "name": "Buggy",
+      "names": {
+        "en": "Buggy",
+        "ja": "バギー"
+      },
       "category": "Character",
       "cost": 7,
       "power": 8000,
@@ -8859,12 +11237,49 @@
               "category": "event"
             }
           ]
+        },
+        {
+          "id": "P-084~ja",
+          "language": "ja",
+          "set": "P",
+          "rarity": "P",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/P-084.png",
+          "cardSet": "週刊少年ジャンプ付録（2024年10月15日売）",
+          "source": "bandai"
+        },
+        {
+          "id": "P-084_p1~ja",
+          "language": "ja",
+          "set": "OP17",
+          "rarity": "SP CARD",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/P-084_p1.png",
+          "cardSet": "ブースターパック 世界最強の戦士【OP-17】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "P-084_r1~ja",
+          "language": "ja",
+          "set": "ST25",
+          "rarity": "P",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/P-084_r1.png",
+          "cardSet": "スタートデッキ 青 バギー【ST-25】",
+          "source": "bandai"
         }
       ]
     },
     {
       "number": "P-085",
       "name": "Jewelry Bonney",
+      "names": {
+        "en": "Jewelry Bonney",
+        "ja": "ジュエリー・ボニー"
+      },
       "category": "Character",
       "cost": 5,
       "power": 6000,
@@ -9167,12 +11582,65 @@
               "category": "foil-pattern"
             }
           ]
+        },
+        {
+          "id": "P-085~ja",
+          "language": "ja",
+          "set": "P",
+          "rarity": "P",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/P-085.png",
+          "cardSet": "交流会 2024年11月開催記念品",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "P-085_p1~ja",
+          "language": "ja",
+          "set": "PRB02",
+          "rarity": "P",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/P-085_p1.png",
+          "cardSet": "ONE PIECE CARD THE BEST vol.2【PRB-02】",
+          "source": "bandai"
+        },
+        {
+          "id": "P-085_r1~ja",
+          "language": "ja",
+          "set": "PRB02",
+          "rarity": "P",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/P-085_r1.png",
+          "cardSet": "ONE PIECE CARD THE BEST vol.2【PRB-02】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
+        },
+        {
+          "id": "P-085_r2~ja",
+          "language": "ja",
+          "set": "ST36",
+          "rarity": "P",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/P-085_r2.png",
+          "cardSet": "スタートデッキ 黄 ユースタス・キッド【ST-36】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "P-086",
       "name": "Trafalgar Law",
+      "names": {
+        "en": "Trafalgar Law",
+        "ja": "トラファルガー・ロー"
+      },
       "category": "Leader",
       "source": "tcgplayer",
       "printings": [
@@ -9201,12 +11669,58 @@
               "category": "event"
             }
           ]
+        },
+        {
+          "id": "P-086~ja",
+          "language": "ja",
+          "set": "P",
+          "rarity": "P",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/P-086.png",
+          "cardSet": "交流会 2024年9月開催記念品",
+          "source": "bandai"
+        }
+      ]
+    },
+    {
+      "number": "P-087",
+      "name": "ニコ・ロビン",
+      "names": {
+        "ja": "ニコ・ロビン"
+      },
+      "category": "Character",
+      "cost": 5,
+      "power": 7000,
+      "counter": 1000,
+      "colors": [
+        "Purple"
+      ],
+      "attributes": [
+        "Strike"
+      ],
+      "types": [
+        "Straw Hat Crew"
+      ],
+      "printings": [
+        {
+          "id": "P-087~ja",
+          "language": "ja",
+          "set": "P",
+          "rarity": "P",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/P-087.png",
+          "cardSet": "交流会 2025年1月開催記念品",
+          "source": "bandai"
         }
       ]
     },
     {
       "number": "P-088",
       "name": "Trafalgar Law",
+      "names": {
+        "en": "Trafalgar Law",
+        "ja": "トラファルガー・ロー"
+      },
       "category": "Character",
       "cost": 4,
       "power": 5000,
@@ -9390,12 +11904,65 @@
               "category": "event"
             }
           ]
+        },
+        {
+          "id": "P-088~ja",
+          "language": "ja",
+          "set": "P",
+          "rarity": "P",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/P-088.png",
+          "cardSet": "Vジャンプ1月特大号付録（2024年11月21日売）",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "P-088_p1~ja",
+          "language": "ja",
+          "set": "PRB02",
+          "rarity": "P",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/P-088_p1.png",
+          "cardSet": "ONE PIECE CARD THE BEST vol.2【PRB-02】",
+          "source": "bandai"
+        },
+        {
+          "id": "P-088_r1~ja",
+          "language": "ja",
+          "set": "PRB02",
+          "rarity": "P",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/P-088_r1.png",
+          "cardSet": "ONE PIECE CARD THE BEST vol.2【PRB-02】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
+        },
+        {
+          "id": "P-088_r2~ja",
+          "language": "ja",
+          "set": "ST36",
+          "rarity": "P",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/P-088_r2.png",
+          "cardSet": "スタートデッキ 黄 ユースタス・キッド【ST-36】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "P-089",
       "name": "Tony Tony.Chopper",
+      "names": {
+        "en": "Tony Tony.Chopper",
+        "ja": "トニートニー・チョッパー"
+      },
       "category": "Character",
       "cost": 5,
       "power": 7000,
@@ -9622,12 +12189,29 @@
               "category": "foil-pattern"
             }
           ]
+        },
+        {
+          "id": "P-089~ja",
+          "language": "ja",
+          "set": "P",
+          "rarity": "P",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/P-089.png",
+          "cardSet": "最強ジャンプ2月特大号付録（2025年1月4日売）",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "P-090",
       "name": "Charlotte Smoothie",
+      "names": {
+        "en": "Charlotte Smoothie",
+        "ja": "シャーロット・スムージー"
+      },
       "category": "Character",
       "cost": 7,
       "power": 7000,
@@ -9756,12 +12340,42 @@
               "category": "event"
             }
           ]
+        },
+        {
+          "id": "P-090~ja",
+          "language": "ja",
+          "set": "P",
+          "rarity": "P",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/P-090.png",
+          "cardSet": "交流会 2025年3月開催記念品",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "P-090_r1~ja",
+          "language": "ja",
+          "set": "ST34",
+          "rarity": "P",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/P-090_r1.png",
+          "cardSet": "スタートデッキ 紫 シャーロット・カタクリ【ST-34】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "P-091",
       "name": "Shirahoshi",
+      "names": {
+        "en": "Shirahoshi",
+        "ja": "しらほし"
+      },
       "category": "Character",
       "cost": 4,
       "counter": 1000,
@@ -9864,12 +12478,29 @@
               "category": "event"
             }
           ]
+        },
+        {
+          "id": "P-091~ja",
+          "language": "ja",
+          "set": "P",
+          "rarity": "P",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/P-091.png",
+          "cardSet": "Vジャンプ4月特大号付録（2025年2月20日売）",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "P-092",
       "name": "Koby",
+      "names": {
+        "en": "Koby",
+        "ja": "コビー"
+      },
       "category": "Character",
       "cost": 7,
       "power": 7000,
@@ -10037,12 +12668,29 @@
               "category": "event"
             }
           ]
+        },
+        {
+          "id": "P-092~ja",
+          "language": "ja",
+          "set": "P",
+          "rarity": "P",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/P-092.png",
+          "cardSet": "最強ジャンプ4月特大号付録（2025年3月4日売）",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "P-093",
       "name": "Trafalgar Law",
+      "names": {
+        "en": "Trafalgar Law",
+        "ja": "トラファルガー・ロー"
+      },
       "category": "Character",
       "cost": 4,
       "power": 6000,
@@ -10084,12 +12732,100 @@
             }
           ],
           "artist": "Bashikou"
+        },
+        {
+          "id": "P-093~ja",
+          "language": "ja",
+          "set": "P",
+          "rarity": "P",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/P-093.png",
+          "cardSet": "交流会 2025年5月開催記念品",
+          "source": "bandai"
+        },
+        {
+          "id": "P-093_p1~ja",
+          "language": "ja",
+          "set": "P",
+          "rarity": "P",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/P-093_p1.png",
+          "cardSet": "プロモーションパックEX vol.5",
+          "source": "bandai"
+        }
+      ]
+    },
+    {
+      "number": "P-094",
+      "name": "ロロノア・ゾロ",
+      "names": {
+        "ja": "ロロノア・ゾロ"
+      },
+      "category": "Character",
+      "cost": 4,
+      "power": 4000,
+      "counter": 2000,
+      "colors": [
+        "Green"
+      ],
+      "attributes": [
+        "Slash"
+      ],
+      "types": [
+        "Straw Hat Crew"
+      ],
+      "printings": [
+        {
+          "id": "P-094~ja",
+          "language": "ja",
+          "set": "P",
+          "rarity": "P",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/P-094.png",
+          "cardSet": "Vジャンプ7月特大号付録（2025年5月21日売）",
+          "source": "bandai"
+        }
+      ]
+    },
+    {
+      "number": "P-095",
+      "name": "サンジ",
+      "names": {
+        "ja": "サンジ"
+      },
+      "category": "Character",
+      "cost": 4,
+      "power": 4000,
+      "counter": 2000,
+      "colors": [
+        "Blue"
+      ],
+      "attributes": [
+        "Strike"
+      ],
+      "types": [
+        "Straw Hat Crew"
+      ],
+      "printings": [
+        {
+          "id": "P-095~ja",
+          "language": "ja",
+          "set": "P",
+          "rarity": "P",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/P-095.png",
+          "cardSet": "最強ジャンプ7月号付録（2025年6月4日売）",
+          "source": "bandai"
         }
       ]
     },
     {
       "number": "P-096",
       "name": "Girl",
+      "names": {
+        "en": "Girl",
+        "ja": "少女"
+      },
       "category": "Character",
       "cost": 2,
       "counter": 1000,
@@ -10162,12 +12898,29 @@
               "category": "event"
             }
           ]
+        },
+        {
+          "id": "P-096~ja",
+          "language": "ja",
+          "set": "P",
+          "rarity": "P",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/P-096.png",
+          "cardSet": "ONE PIECE magazine別冊 Focus on〝ONE PIECE FAN LETTER〟付録",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "P-097",
       "name": "Shanks",
+      "names": {
+        "en": "Shanks",
+        "ja": "シャンクス"
+      },
       "category": "Character",
       "cost": 10,
       "power": 12000,
@@ -10271,12 +13024,39 @@
               "category": "event"
             }
           ]
+        },
+        {
+          "id": "P-097~ja",
+          "language": "ja",
+          "set": "P",
+          "rarity": "P",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/P-097.png",
+          "cardSet": "交流会 2025年7月開催記念品",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "P-097_p1~ja",
+          "language": "ja",
+          "set": "P",
+          "rarity": "P",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/P-097_p1.png",
+          "cardSet": "プロモーションパックEX vol.5",
+          "source": "bandai"
         }
       ]
     },
     {
       "number": "P-098",
       "name": "Buggy",
+      "names": {
+        "en": "Buggy",
+        "ja": "バギー"
+      },
       "category": "Character",
       "cost": 10,
       "power": 12000,
@@ -10380,12 +13160,29 @@
               "category": "event"
             }
           ]
+        },
+        {
+          "id": "P-098~ja",
+          "language": "ja",
+          "set": "P",
+          "rarity": "P",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/P-098.png",
+          "cardSet": "交流会 2025年7月開催記念品",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "P-099",
       "name": "Monkey.D.Luffy",
+      "names": {
+        "en": "Monkey.D.Luffy",
+        "ja": "モンキー・D・ルフィ"
+      },
       "category": "Character",
       "cost": 10,
       "power": 12000,
@@ -10519,12 +13316,29 @@
               "category": "retail"
             }
           ]
+        },
+        {
+          "id": "P-099~ja",
+          "language": "ja",
+          "set": "P",
+          "rarity": "P",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/P-099.png",
+          "cardSet": "交流会 2025年7月開催記念品",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "P-100",
       "name": "Marshall.D.Teach",
+      "names": {
+        "en": "Marshall.D.Teach",
+        "ja": "マーシャル・D・ティーチ"
+      },
       "category": "Character",
       "cost": 10,
       "power": 12000,
@@ -10658,12 +13472,29 @@
               "category": "retail"
             }
           ]
+        },
+        {
+          "id": "P-100~ja",
+          "language": "ja",
+          "set": "P",
+          "rarity": "P",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/P-100.png",
+          "cardSet": "交流会 2025年7月開催記念品",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "P-101",
       "name": "Tony Tony.Chopper",
+      "names": {
+        "en": "Tony Tony.Chopper",
+        "ja": "トニートニー・チョッパー"
+      },
       "category": "Character",
       "cost": 4,
       "power": 5000,
@@ -10819,12 +13650,55 @@
               "category": "event"
             }
           ]
+        },
+        {
+          "id": "P-101~ja",
+          "language": "ja",
+          "set": "P",
+          "rarity": "P",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/P-101.png",
+          "cardSet": "「プロモーションカードセット2025」ゲットキャンペーン",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
+        },
+        {
+          "id": "P-101_p1~ja",
+          "language": "ja",
+          "set": "P",
+          "rarity": "P",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/P-101_p1.png",
+          "cardSet": "スタンダードバトルパック Vol.14",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
+        },
+        {
+          "id": "P-101_r1~ja",
+          "language": "ja",
+          "set": "ST31",
+          "rarity": "P",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/P-101_r1.png",
+          "cardSet": "スタートデッキ 赤 モンキー・D・ルフィ【ST-31】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "P-102",
       "name": "Nami",
+      "names": {
+        "en": "Nami",
+        "ja": "ナミ"
+      },
       "category": "Character",
       "cost": 4,
       "power": 4000,
@@ -10956,12 +13830,42 @@
               "category": "event"
             }
           ]
+        },
+        {
+          "id": "P-102~ja",
+          "language": "ja",
+          "set": "P",
+          "rarity": "P",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/P-102.png",
+          "cardSet": "「プロモーションカードセット2025」ゲットキャンペーン",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
+        },
+        {
+          "id": "P-102_p1~ja",
+          "language": "ja",
+          "set": "P",
+          "rarity": "P",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/P-102_p1.png",
+          "cardSet": "スタンダードバトルパック Vol.14",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "P-103",
       "name": "Portgas.D.Ace",
+      "names": {
+        "en": "Portgas.D.Ace",
+        "ja": "ポートガス・D・エース"
+      },
       "category": "Character",
       "cost": 4,
       "power": 6000,
@@ -11091,12 +13995,42 @@
               "category": "event"
             }
           ]
+        },
+        {
+          "id": "P-103~ja",
+          "language": "ja",
+          "set": "P",
+          "rarity": "P",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/P-103.png",
+          "cardSet": "「プロモーションカードセット2025」ゲットキャンペーン",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
+        },
+        {
+          "id": "P-103_p1~ja",
+          "language": "ja",
+          "set": "P",
+          "rarity": "P",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/P-103_p1.png",
+          "cardSet": "スタンダードバトルパック Vol.14",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "P-104",
       "name": "Shanks",
+      "names": {
+        "en": "Shanks",
+        "ja": "シャンクス"
+      },
       "category": "Character",
       "cost": 8,
       "power": 10000,
@@ -11228,12 +14162,42 @@
               "category": "event"
             }
           ]
+        },
+        {
+          "id": "P-104~ja",
+          "language": "ja",
+          "set": "P",
+          "rarity": "P",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/P-104.png",
+          "cardSet": "「プロモーションカードセット2025」ゲットキャンペーン",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
+        },
+        {
+          "id": "P-104_p1~ja",
+          "language": "ja",
+          "set": "P",
+          "rarity": "P",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/P-104_p1.png",
+          "cardSet": "スタンダードバトルパック Vol.14",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "P-105",
       "name": "Sabo",
+      "names": {
+        "en": "Sabo",
+        "ja": "サボ"
+      },
       "category": "Character",
       "cost": 4,
       "power": 6000,
@@ -11411,12 +14375,62 @@
               "category": "event"
             }
           ]
+        },
+        {
+          "id": "P-105~ja",
+          "language": "ja",
+          "set": "P",
+          "rarity": "P",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/P-105.png",
+          "cardSet": "「プロモーションカードセット2025」ゲットキャンペーン",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
+        },
+        {
+          "id": "P-105_p1~ja",
+          "language": "ja",
+          "set": "P",
+          "rarity": "P",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/P-105_p1.png",
+          "cardSet": "スタンダードバトルパック Vol.14",
+          "source": "bandai"
+        },
+        {
+          "id": "P-105_p2~ja",
+          "language": "ja",
+          "set": "OP15",
+          "rarity": "SP CARD",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/P-105_p2.png",
+          "cardSet": "ブースターパック 神の島の冒険【OP-15】",
+          "source": "bandai"
+        },
+        {
+          "id": "P-105_r1~ja",
+          "language": "ja",
+          "set": "ST35",
+          "rarity": "P",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/P-105_r1.png",
+          "cardSet": "スタートデッキ 赤黒 サボ【ST-35】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "P-106",
       "name": "Monkey.D.Luffy",
+      "names": {
+        "en": "Monkey.D.Luffy",
+        "ja": "モンキー・D・ルフィ"
+      },
       "category": "Character",
       "cost": 5,
       "power": 6000,
@@ -11547,12 +14561,55 @@
               "category": "event"
             }
           ]
+        },
+        {
+          "id": "P-106~ja",
+          "language": "ja",
+          "set": "P",
+          "rarity": "P",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/P-106.png",
+          "cardSet": "「プロモーションカードセット2025」ゲットキャンペーン",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
+        },
+        {
+          "id": "P-106_p1~ja",
+          "language": "ja",
+          "set": "P",
+          "rarity": "P",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/P-106_p1.png",
+          "cardSet": "スタンダードバトルパック Vol.14",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
+        },
+        {
+          "id": "P-106_p2~ja",
+          "language": "ja",
+          "set": "P",
+          "rarity": "P",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/P-106_p2.png",
+          "cardSet": "スタンダードバトルパック Vol.14",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "P-107",
       "name": "Gol.D.Roger",
+      "names": {
+        "en": "Gol.D.Roger",
+        "ja": "ゴール・Ｄ・ロジャー"
+      },
       "category": "Character",
       "cost": 8,
       "power": 10000,
@@ -11621,12 +14678,42 @@
             "sp"
           ],
           "artist": "Fo Ihara/INO Ltd."
+        },
+        {
+          "id": "P-107~ja",
+          "language": "ja",
+          "set": "P",
+          "rarity": "P",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/P-107.png",
+          "cardSet": "交流会 2025年9月開催記念品",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
+        },
+        {
+          "id": "P-107_p1~ja",
+          "language": "ja",
+          "set": "OP17",
+          "rarity": "SP CARD",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/P-107_p1.png",
+          "cardSet": "ブースターパック 世界最強の戦士【OP-17】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "P-108",
       "name": "Monkey.D.Luffy",
+      "names": {
+        "en": "Monkey.D.Luffy",
+        "ja": "モンキー・D・ルフィ"
+      },
       "category": "Character",
       "source": "tcgplayer",
       "printings": [
@@ -11655,12 +14742,58 @@
               "category": "event"
             }
           ]
+        },
+        {
+          "id": "P-108~ja",
+          "language": "ja",
+          "set": "P",
+          "rarity": "P",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/P-108.png",
+          "cardSet": "Vジャンプ10月特大号付録（2025年8月21日売）",
+          "source": "bandai"
+        }
+      ]
+    },
+    {
+      "number": "P-109",
+      "name": "ポートガス・D・エース",
+      "names": {
+        "ja": "ポートガス・D・エース"
+      },
+      "category": "Character",
+      "cost": 5,
+      "power": 6000,
+      "counter": 1000,
+      "colors": [
+        "Blue"
+      ],
+      "attributes": [
+        "Special"
+      ],
+      "types": [
+        "Whitebeard Pirates"
+      ],
+      "printings": [
+        {
+          "id": "P-109~ja",
+          "language": "ja",
+          "set": "P",
+          "rarity": "P",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/P-109.png",
+          "cardSet": "最強ジャンプ10月号付録（2025年9月4日売）",
+          "source": "bandai"
         }
       ]
     },
     {
       "number": "P-110",
       "name": "Monkey.D.Luffy",
+      "names": {
+        "en": "Monkey.D.Luffy",
+        "ja": "モンキー・D・ルフィ"
+      },
       "category": "Character",
       "cost": 7,
       "power": 9000,
@@ -11736,12 +14869,26 @@
               "category": "placement"
             }
           ]
+        },
+        {
+          "id": "P-110~ja",
+          "language": "ja",
+          "set": "OTHER",
+          "rarity": "P",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/P-110.png",
+          "cardSet": "プレミアムカードコレクション-ONE PIECE DAY’25-",
+          "source": "bandai"
         }
       ]
     },
     {
       "number": "P-111",
       "name": "Nico Robin",
+      "names": {
+        "en": "Nico Robin",
+        "ja": "ニコ・ロビン"
+      },
       "category": "Character",
       "cost": 3,
       "power": 4000,
@@ -11813,12 +14960,29 @@
             }
           ],
           "artist": "BISAI"
+        },
+        {
+          "id": "P-111~ja",
+          "language": "ja",
+          "set": "P",
+          "rarity": "P",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/P-111.png",
+          "cardSet": "交流会 2025年11月開催記念品",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "P-112",
       "name": "Nami",
+      "names": {
+        "en": "Nami",
+        "ja": "ナミ"
+      },
       "category": "Character",
       "cost": 5,
       "power": 6000,
@@ -11890,12 +15054,29 @@
             }
           ],
           "artist": "BISAI"
+        },
+        {
+          "id": "P-112~ja",
+          "language": "ja",
+          "set": "P",
+          "rarity": "P",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/P-112.png",
+          "cardSet": "交流会 2025年11月開催記念品",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "P-113",
       "name": "Jewelry Bonney",
+      "names": {
+        "en": "Jewelry Bonney",
+        "ja": "ジュエリー・ボニー"
+      },
       "category": "Character",
       "cost": 4,
       "power": 4000,
@@ -11967,12 +15148,29 @@
             }
           ],
           "artist": "BISAI"
+        },
+        {
+          "id": "P-113~ja",
+          "language": "ja",
+          "set": "P",
+          "rarity": "P",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/P-113.png",
+          "cardSet": "交流会 2025年11月開催記念品",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "P-114",
       "name": "Roronoa Zoro",
+      "names": {
+        "en": "Roronoa Zoro",
+        "ja": "ロロノア・ゾロ"
+      },
       "category": "Character",
       "source": "tcgplayer",
       "printings": [
@@ -11995,12 +15193,26 @@
           "finishes": [
             "nonfoil"
           ]
+        },
+        {
+          "id": "P-114~ja",
+          "language": "ja",
+          "set": "P",
+          "rarity": "P",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/P-114.png",
+          "cardSet": "交流会 2025年11月開催記念品",
+          "source": "bandai"
         }
       ]
     },
     {
       "number": "P-115",
       "name": "Boa Hancock",
+      "names": {
+        "en": "Boa Hancock",
+        "ja": "ボア・ハンコック"
+      },
       "category": "Character",
       "cost": 6,
       "power": 7000,
@@ -12075,12 +15287,29 @@
               "category": "event"
             }
           ]
+        },
+        {
+          "id": "P-115~ja",
+          "language": "ja",
+          "set": "P",
+          "rarity": "P",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/P-115.png",
+          "cardSet": "Vジャンプ2026年1月特大号（2025年11月20日売）",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "P-116",
       "name": "Nico Robin",
+      "names": {
+        "en": "Nico Robin",
+        "ja": "ニコ・ロビン"
+      },
       "category": "Character",
       "source": "tcgplayer",
       "printings": [
@@ -12109,12 +15338,26 @@
               "category": "event"
             }
           ]
+        },
+        {
+          "id": "P-116~ja",
+          "language": "ja",
+          "set": "P",
+          "rarity": "P",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/P-116.png",
+          "cardSet": "最強ジャンプ1月号付録（2025年12月4日売）",
+          "source": "bandai"
         }
       ]
     },
     {
       "number": "P-117",
       "name": "Nami",
+      "names": {
+        "en": "Nami",
+        "ja": "ナミ"
+      },
       "category": "Leader",
       "power": 5000,
       "life": 5,
@@ -12150,12 +15393,29 @@
             "distance": 8
           },
           "artist": "Koushi Rokushiro"
+        },
+        {
+          "id": "P-117~ja",
+          "language": "ja",
+          "set": "P",
+          "rarity": "P",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/P-117.png",
+          "cardSet": "交流会(小学生以下限定含む)",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "P-118",
       "name": "Lilith",
+      "names": {
+        "en": "Lilith",
+        "ja": "リリス"
+      },
       "category": "Character",
       "source": "tcgplayer",
       "printings": [
@@ -12184,12 +15444,26 @@
               "category": "event"
             }
           ]
+        },
+        {
+          "id": "P-118~ja",
+          "language": "ja",
+          "set": "P",
+          "rarity": "P",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/P-118.png",
+          "cardSet": "交流会 2026年1月開催記念品",
+          "source": "bandai"
         }
       ]
     },
     {
       "number": "P-119",
       "name": "Portgas.D.Ace",
+      "names": {
+        "en": "Portgas.D.Ace",
+        "ja": "ポートガス・D・エース"
+      },
       "category": "Character",
       "cost": 4,
       "power": 6000,
@@ -12232,12 +15506,94 @@
             }
           ],
           "artist": "GIDORA"
+        },
+        {
+          "id": "P-119~ja",
+          "language": "ja",
+          "set": "P",
+          "rarity": "P",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/P-119.png",
+          "cardSet": "交流会 2026年3月開催記念品",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
+        }
+      ]
+    },
+    {
+      "number": "P-120",
+      "name": "サンジ",
+      "names": {
+        "ja": "サンジ"
+      },
+      "category": "Character",
+      "cost": 6,
+      "power": 6000,
+      "counter": 2000,
+      "colors": [
+        "Yellow"
+      ],
+      "attributes": [
+        "Strike"
+      ],
+      "types": [
+        "Sky Island",
+        "Straw Hat Crew"
+      ],
+      "printings": [
+        {
+          "id": "P-120~ja",
+          "language": "ja",
+          "set": "P",
+          "rarity": "P",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/P-120.png",
+          "cardSet": "Vジャンプ4月特大号付録（2026年2月20日売）",
+          "source": "bandai"
+        }
+      ]
+    },
+    {
+      "number": "P-121",
+      "name": "ブルック",
+      "names": {
+        "ja": "ブルック"
+      },
+      "category": "Character",
+      "cost": 4,
+      "power": 5000,
+      "counter": 1000,
+      "colors": [
+        "Black"
+      ],
+      "attributes": [
+        "Slash"
+      ],
+      "types": [
+        "Straw Hat Crew"
+      ],
+      "printings": [
+        {
+          "id": "P-121~ja",
+          "language": "ja",
+          "set": "P",
+          "rarity": "R",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/P-121.png",
+          "cardSet": "最強ジャンプ4月号付録（2026年3月4日売）",
+          "source": "bandai"
         }
       ]
     },
     {
       "number": "P-135",
       "name": "Monkey.D.Luffy",
+      "names": {
+        "en": "Monkey.D.Luffy",
+        "ja": "モンキー・D・ルフィ"
+      },
       "category": "Character",
       "cost": 5,
       "power": 5000,
@@ -12313,12 +15669,29 @@
             }
           ],
           "artist": "Bashikou"
+        },
+        {
+          "id": "P-135~ja",
+          "language": "ja",
+          "set": "P",
+          "rarity": "P",
+          "block": "5",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/P-135.png",
+          "cardSet": "交流会 2026年5月開催記念品",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "P-136",
       "name": "Usopp - P-136",
+      "names": {
+        "en": "Usopp - P-136",
+        "ja": "ウソップ"
+      },
       "category": "Character",
       "source": "tcgplayer",
       "printings": [
@@ -12348,12 +15721,26 @@
               "category": "retail"
             }
           ]
+        },
+        {
+          "id": "P-136~ja",
+          "language": "ja",
+          "set": "OTHER",
+          "rarity": "P",
+          "block": "5",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/P-136.png",
+          "cardSet": "プレミアムカードコレクション-Live Action Edition vol.2 麦わらの一味-",
+          "source": "bandai"
         }
       ]
     },
     {
       "number": "P-137",
       "name": "Sanji - P-137",
+      "names": {
+        "en": "Sanji - P-137",
+        "ja": "サンジ"
+      },
       "category": "Character",
       "source": "tcgplayer",
       "printings": [
@@ -12383,12 +15770,26 @@
               "category": "retail"
             }
           ]
+        },
+        {
+          "id": "P-137~ja",
+          "language": "ja",
+          "set": "OTHER",
+          "rarity": "P",
+          "block": "5",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/P-137.png",
+          "cardSet": "プレミアムカードコレクション-Live Action Edition vol.2 麦わらの一味-",
+          "source": "bandai"
         }
       ]
     },
     {
       "number": "P-138",
       "name": "Tony Tony.Chopper - P-138",
+      "names": {
+        "en": "Tony Tony.Chopper - P-138",
+        "ja": "トニートニー・チョッパー"
+      },
       "category": "Character",
       "source": "tcgplayer",
       "printings": [
@@ -12418,12 +15819,26 @@
               "category": "retail"
             }
           ]
+        },
+        {
+          "id": "P-138~ja",
+          "language": "ja",
+          "set": "OTHER",
+          "rarity": "P",
+          "block": "5",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/P-138.png",
+          "cardSet": "プレミアムカードコレクション-Live Action Edition vol.2 麦わらの一味-",
+          "source": "bandai"
         }
       ]
     },
     {
       "number": "P-139",
       "name": "Nami - P-139",
+      "names": {
+        "en": "Nami - P-139",
+        "ja": "ナミ"
+      },
       "category": "Character",
       "source": "tcgplayer",
       "printings": [
@@ -12453,12 +15868,26 @@
               "category": "retail"
             }
           ]
+        },
+        {
+          "id": "P-139~ja",
+          "language": "ja",
+          "set": "OTHER",
+          "rarity": "P",
+          "block": "5",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/P-139.png",
+          "cardSet": "プレミアムカードコレクション-Live Action Edition vol.2 麦わらの一味-",
+          "source": "bandai"
         }
       ]
     },
     {
       "number": "P-140",
       "name": "Monkey.D.Luffy - P-140",
+      "names": {
+        "en": "Monkey.D.Luffy - P-140",
+        "ja": "モンキー・D・ルフィ"
+      },
       "category": "Character",
       "source": "tcgplayer",
       "printings": [
@@ -12488,12 +15917,26 @@
               "category": "retail"
             }
           ]
+        },
+        {
+          "id": "P-140~ja",
+          "language": "ja",
+          "set": "OTHER",
+          "rarity": "P",
+          "block": "5",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/P-140.png",
+          "cardSet": "プレミアムカードコレクション-Live Action Edition vol.2 麦わらの一味-",
+          "source": "bandai"
         }
       ]
     },
     {
       "number": "P-141",
       "name": "Roronoa Zoro - P-141",
+      "names": {
+        "en": "Roronoa Zoro - P-141",
+        "ja": "ロロノア・ゾロ"
+      },
       "category": "Character",
       "source": "tcgplayer",
       "printings": [
@@ -12523,12 +15966,26 @@
               "category": "retail"
             }
           ]
+        },
+        {
+          "id": "P-141~ja",
+          "language": "ja",
+          "set": "OTHER",
+          "rarity": "P",
+          "block": "5",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/P-141.png",
+          "cardSet": "プレミアムカードコレクション-Live Action Edition vol.2 麦わらの一味-",
+          "source": "bandai"
         }
       ]
     },
     {
       "number": "P-142",
       "name": "Merry Go - P-142",
+      "names": {
+        "en": "Merry Go - P-142",
+        "ja": "ゴーイング・メリー号"
+      },
       "category": "Stage",
       "source": "tcgplayer",
       "printings": [
@@ -12558,12 +16015,26 @@
               "category": "retail"
             }
           ]
+        },
+        {
+          "id": "P-142~ja",
+          "language": "ja",
+          "set": "OTHER",
+          "rarity": "P",
+          "block": "5",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/P-142.png",
+          "cardSet": "プレミアムカードコレクション-Live Action Edition vol.2 麦わらの一味-",
+          "source": "bandai"
         }
       ]
     },
     {
       "number": "P-143",
       "name": "Crocodile - P-143",
+      "names": {
+        "en": "Crocodile - P-143",
+        "ja": "クロコダイル"
+      },
       "category": "Character",
       "source": "tcgplayer",
       "printings": [
@@ -12593,12 +16064,26 @@
               "category": "retail"
             }
           ]
+        },
+        {
+          "id": "P-143~ja",
+          "language": "ja",
+          "set": "OTHER",
+          "rarity": "P",
+          "block": "5",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/P-143.png",
+          "cardSet": "プレミアムカードコレクション-Live Action Edition vol.2 バロックワークス-",
+          "source": "bandai"
         }
       ]
     },
     {
       "number": "P-144",
       "name": "Ms. All Sunday - P-144",
+      "names": {
+        "en": "Ms. All Sunday - P-144",
+        "ja": "ミス・オールサンデー"
+      },
       "category": "Character",
       "source": "tcgplayer",
       "printings": [
@@ -12628,12 +16113,26 @@
               "category": "retail"
             }
           ]
+        },
+        {
+          "id": "P-144~ja",
+          "language": "ja",
+          "set": "OTHER",
+          "rarity": "P",
+          "block": "5",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/P-144.png",
+          "cardSet": "プレミアムカードコレクション-Live Action Edition vol.2 バロックワークス-",
+          "source": "bandai"
         }
       ]
     },
     {
       "number": "P-145",
       "name": "Ms. Wednesday - P-145",
+      "names": {
+        "en": "Ms. Wednesday - P-145",
+        "ja": "ミス・ウェンズデー"
+      },
       "category": "Character",
       "source": "tcgplayer",
       "printings": [
@@ -12663,12 +16162,26 @@
               "category": "retail"
             }
           ]
+        },
+        {
+          "id": "P-145~ja",
+          "language": "ja",
+          "set": "OTHER",
+          "rarity": "P",
+          "block": "5",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/P-145.png",
+          "cardSet": "プレミアムカードコレクション-Live Action Edition vol.2 バロックワークス-",
+          "source": "bandai"
         }
       ]
     },
     {
       "number": "P-146",
       "name": "Miss.Goldenweek (Marianne) - P-146",
+      "names": {
+        "en": "Miss.Goldenweek (Marianne) - P-146",
+        "ja": "ミス・ゴールデンウィーク(マリアンヌ)"
+      },
       "category": "Character",
       "source": "tcgplayer",
       "printings": [
@@ -12698,12 +16211,26 @@
               "category": "retail"
             }
           ]
+        },
+        {
+          "id": "P-146~ja",
+          "language": "ja",
+          "set": "OTHER",
+          "rarity": "P",
+          "block": "5",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/P-146.png",
+          "cardSet": "プレミアムカードコレクション-Live Action Edition vol.2 バロックワークス-",
+          "source": "bandai"
         }
       ]
     },
     {
       "number": "P-147",
       "name": "Miss.Valentine (Mikita) - P-147",
+      "names": {
+        "en": "Miss.Valentine (Mikita) - P-147",
+        "ja": "ミス・バレンタイン(ミキータ)"
+      },
       "category": "Character",
       "source": "tcgplayer",
       "printings": [
@@ -12733,12 +16260,26 @@
               "category": "retail"
             }
           ]
+        },
+        {
+          "id": "P-147~ja",
+          "language": "ja",
+          "set": "OTHER",
+          "rarity": "P",
+          "block": "5",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/P-147.png",
+          "cardSet": "プレミアムカードコレクション-Live Action Edition vol.2 バロックワークス-",
+          "source": "bandai"
         }
       ]
     },
     {
       "number": "P-148",
       "name": "Mr.3 (Galdino) - P-148",
+      "names": {
+        "en": "Mr.3 (Galdino) - P-148",
+        "ja": "Mr.３(ギャルディーノ)"
+      },
       "category": "Character",
       "source": "tcgplayer",
       "printings": [
@@ -12768,12 +16309,26 @@
               "category": "retail"
             }
           ]
+        },
+        {
+          "id": "P-148~ja",
+          "language": "ja",
+          "set": "OTHER",
+          "rarity": "P",
+          "block": "5",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/P-148.png",
+          "cardSet": "プレミアムカードコレクション-Live Action Edition vol.2 バロックワークス-",
+          "source": "bandai"
         }
       ]
     },
     {
       "number": "P-149",
       "name": "Mr.5 (Gem) - P-149",
+      "names": {
+        "en": "Mr.5 (Gem) - P-149",
+        "ja": "Mr.５(ジェム)"
+      },
       "category": "Character",
       "source": "tcgplayer",
       "printings": [
@@ -12803,12 +16358,91 @@
               "category": "retail"
             }
           ]
+        },
+        {
+          "id": "P-149~ja",
+          "language": "ja",
+          "set": "OTHER",
+          "rarity": "P",
+          "block": "5",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/P-149.png",
+          "cardSet": "プレミアムカードコレクション-Live Action Edition vol.2 バロックワークス-",
+          "source": "bandai"
+        }
+      ]
+    },
+    {
+      "number": "P-150",
+      "name": "クザン",
+      "names": {
+        "ja": "クザン"
+      },
+      "category": "Character",
+      "cost": 5,
+      "power": 6000,
+      "counter": 1000,
+      "colors": [
+        "Yellow"
+      ],
+      "attributes": [
+        "Special"
+      ],
+      "types": [
+        "Blackbeard Pirates",
+        "Former Navy"
+      ],
+      "printings": [
+        {
+          "id": "P-150~ja",
+          "language": "ja",
+          "set": "P",
+          "rarity": "P",
+          "block": "5",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/P-150.png",
+          "cardSet": "Vジャンプ7月特大号付録（2026年5月21日売）",
+          "source": "bandai"
+        }
+      ]
+    },
+    {
+      "number": "P-151",
+      "name": "スモーカー",
+      "names": {
+        "ja": "スモーカー"
+      },
+      "category": "Character",
+      "cost": 5,
+      "power": 6000,
+      "counter": 1000,
+      "colors": [
+        "Purple"
+      ],
+      "attributes": [
+        "Special"
+      ],
+      "types": [
+        "Navy"
+      ],
+      "printings": [
+        {
+          "id": "P-151~ja",
+          "language": "ja",
+          "set": "P",
+          "rarity": "P",
+          "block": "5",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/P-151.png",
+          "cardSet": "最強ジャンプ7月号付録（2026年6月4日売）",
+          "source": "bandai"
         }
       ]
     },
     {
       "number": "P-152",
       "name": "Edward.Newgate",
+      "names": {
+        "en": "Edward.Newgate",
+        "ja": "エドワード・ニューゲート"
+      },
       "category": "Character",
       "cost": 10,
       "power": 12000,
@@ -12851,12 +16485,36 @@
             }
           ],
           "artist": "Miyoshi/INO Ltd."
+        },
+        {
+          "id": "P-152~ja",
+          "language": "ja",
+          "set": "P",
+          "rarity": "P",
+          "block": "5",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/P-152.png",
+          "cardSet": "最強ジャンプ5月号​ 応募者全員大サービス（2026年4月3日売）",
+          "source": "bandai"
+        },
+        {
+          "id": "P-152_p1~ja",
+          "language": "ja",
+          "set": "OTHER",
+          "rarity": "P",
+          "block": "5",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/P-152_p1.png",
+          "cardSet": "プレミアムカードコレクション-メラメラの実争奪戦Edition-",
+          "source": "bandai"
         }
       ]
     },
     {
       "number": "P-153",
       "name": "Portgas.D.Ace",
+      "names": {
+        "en": "Portgas.D.Ace",
+        "ja": "ポートガス・D・エース"
+      },
       "category": "Character",
       "cost": 6,
       "power": 8000,
@@ -12898,12 +16556,36 @@
             }
           ],
           "artist": "yukiya/INO Ltd."
+        },
+        {
+          "id": "P-153~ja",
+          "language": "ja",
+          "set": "P",
+          "rarity": "P",
+          "block": "5",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/P-153.png",
+          "cardSet": "最強ジャンプ5月号​ 応募者全員大サービス（2026年4月3日売）",
+          "source": "bandai"
+        },
+        {
+          "id": "P-153_p1~ja",
+          "language": "ja",
+          "set": "OTHER",
+          "rarity": "P",
+          "block": "5",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/P-153_p1.png",
+          "cardSet": "プレミアムカードコレクション-メラメラの実争奪戦Edition-",
+          "source": "bandai"
         }
       ]
     },
     {
       "number": "P-154",
       "name": "Monkey.D.Luffy",
+      "names": {
+        "en": "Monkey.D.Luffy",
+        "ja": "モンキー・D・ルフィ"
+      },
       "category": "Character",
       "cost": 6,
       "power": 8000,
@@ -12945,12 +16627,36 @@
             }
           ],
           "artist": "Miyoshi/INO Ltd."
+        },
+        {
+          "id": "P-154~ja",
+          "language": "ja",
+          "set": "P",
+          "rarity": "P",
+          "block": "5",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/P-154.png",
+          "cardSet": "最強ジャンプ5月号​ 応募者全員大サービス（2026年4月3日売）",
+          "source": "bandai"
+        },
+        {
+          "id": "P-154_p1~ja",
+          "language": "ja",
+          "set": "OTHER",
+          "rarity": "P",
+          "block": "5",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/P-154_p1.png",
+          "cardSet": "プレミアムカードコレクション-メラメラの実争奪戦Edition-",
+          "source": "bandai"
         }
       ]
     },
     {
       "number": "P-155",
       "name": "Trafalgar Law",
+      "names": {
+        "en": "Trafalgar Law",
+        "ja": "トラファルガー・ロー"
+      },
       "category": "Character",
       "cost": 4,
       "power": 5000,
@@ -12994,12 +16700,29 @@
             }
           ],
           "artist": "kudo sakiko"
+        },
+        {
+          "id": "P-155~ja",
+          "language": "ja",
+          "set": "P",
+          "rarity": "P",
+          "block": "5",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/P-155.png",
+          "cardSet": "交流会 2026年7月開催記念品",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "P-157",
       "name": "Monkey.D.Luffy",
+      "names": {
+        "en": "Monkey.D.Luffy",
+        "ja": "モンキー・D・ルフィ"
+      },
       "category": "Character",
       "cost": 7,
       "power": 6000,
@@ -13051,6 +16774,92 @@
               "category": "event"
             }
           ]
+        },
+        {
+          "id": "P-157~ja",
+          "language": "ja",
+          "set": "P",
+          "rarity": "P",
+          "block": "5",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/P-157.png",
+          "cardSet": "交流会 2026年9月開催記念品",
+          "source": "bandai"
+        }
+      ]
+    },
+    {
+      "number": "P-159",
+      "name": "モンキー・D・ルフィ",
+      "names": {
+        "ja": "モンキー・D・ルフィ"
+      },
+      "category": "Character",
+      "cost": 4,
+      "power": 5000,
+      "counter": 2000,
+      "colors": [
+        "Red"
+      ],
+      "attributes": [
+        "Strike"
+      ],
+      "types": [
+        "Elbaph",
+        "The Four Emperors",
+        "Straw Hat Crew"
+      ],
+      "printings": [
+        {
+          "id": "P-159~ja",
+          "language": "ja",
+          "set": "P",
+          "rarity": "P",
+          "block": "5",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/P-159.png",
+          "cardSet": "週刊少年ジャンプ33号付録（2026年7月13日売）",
+          "source": "bandai"
+        },
+        {
+          "id": "P-159_p1~ja",
+          "language": "ja",
+          "set": "P",
+          "rarity": "P",
+          "block": "5",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/P-159_p1.png",
+          "cardSet": "週刊少年ジャンプ33号付録応募者全員サービス（2026年7月13日売）",
+          "source": "bandai"
+        }
+      ]
+    },
+    {
+      "number": "P-160",
+      "name": "ネフェルタリ・ビビ",
+      "names": {
+        "ja": "ネフェルタリ・ビビ"
+      },
+      "category": "Character",
+      "cost": 3,
+      "power": 4000,
+      "counter": 1000,
+      "colors": [
+        "Yellow"
+      ],
+      "attributes": [
+        "Wisdom"
+      ],
+      "types": [
+        "Alabasta"
+      ],
+      "printings": [
+        {
+          "id": "P-160~ja",
+          "language": "ja",
+          "set": "P",
+          "rarity": "P",
+          "block": "5",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/P-160.png",
+          "cardSet": "交流会 2026年11月開催記念品",
+          "source": "bandai"
         }
       ]
     }

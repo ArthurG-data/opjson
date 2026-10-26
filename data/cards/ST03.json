@@ -3,6 +3,10 @@
     {
       "number": "ST03-001",
       "name": "Crocodile",
+      "names": {
+        "en": "Crocodile",
+        "ja": "クロコダイル"
+      },
       "category": "Leader",
       "power": 5000,
       "life": 5,
@@ -111,12 +115,29 @@
             "foil",
             "nonfoil"
           ]
+        },
+        {
+          "id": "ST03-001~ja",
+          "language": "ja",
+          "set": "ST03",
+          "rarity": "L",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/ST03-001.png",
+          "cardSet": "王下七武海【ST-03】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "ST03-002",
       "name": "Edward Weevil",
+      "names": {
+        "en": "Edward Weevil",
+        "ja": "エドワード・ウィーブル"
+      },
       "category": "Character",
       "cost": 3,
       "power": 5000,
@@ -192,12 +213,42 @@
               "category": "event"
             }
           ]
+        },
+        {
+          "id": "ST03-002~ja",
+          "language": "ja",
+          "set": "ST03",
+          "rarity": "C",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/ST03-002.png",
+          "cardSet": "王下七武海【ST-03】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
+        },
+        {
+          "id": "ST03-002_r1~ja",
+          "language": "ja",
+          "set": "ST17",
+          "rarity": "C",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/ST03-002_r1.png",
+          "cardSet": "スタートデッキ 青 ドンキホーテ・ドフラミンゴ【ST-17】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "ST03-003",
       "name": "Crocodile",
+      "names": {
+        "en": "Crocodile",
+        "ja": "クロコダイル"
+      },
       "category": "Character",
       "cost": 5,
       "power": 6000,
@@ -366,12 +417,39 @@
             "foil",
             "nonfoil"
           ]
+        },
+        {
+          "id": "ST03-003~ja",
+          "language": "ja",
+          "set": "ST03",
+          "rarity": "SR",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/ST03-003.png",
+          "cardSet": "王下七武海【ST-03】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "ST03-003_p2~ja",
+          "language": "ja",
+          "set": "P",
+          "rarity": "SR",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/ST03-003_p2.png",
+          "cardSet": "スタンダードバトルパックVol.5",
+          "source": "bandai"
         }
       ]
     },
     {
       "number": "ST03-004",
       "name": "Gecko Moria",
+      "names": {
+        "en": "Gecko Moria",
+        "ja": "ゲッコー・モリア"
+      },
       "category": "Character",
       "cost": 4,
       "power": 5000,
@@ -561,12 +639,72 @@
               "category": "retail"
             }
           ]
+        },
+        {
+          "id": "ST03-004~ja",
+          "language": "ja",
+          "set": "ST03",
+          "rarity": "C",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/ST03-004.png",
+          "cardSet": "王下七武海【ST-03】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
+        },
+        {
+          "id": "ST03-004_p1~ja",
+          "language": "ja",
+          "set": "P",
+          "rarity": "C",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/ST03-004_p1.png",
+          "cardSet": "ONE PIECEカードゲーム プロモーションパックVol.5",
+          "source": "bandai"
+        },
+        {
+          "id": "ST03-004_p2~ja",
+          "language": "ja",
+          "set": "OP08",
+          "rarity": "SP CARD",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/ST03-004_p2.png",
+          "cardSet": "ブースターパック 二つの伝説【OP-08】",
+          "source": "bandai"
+        },
+        {
+          "id": "ST03-004_p4~ja",
+          "language": "ja",
+          "set": "OTHER",
+          "rarity": "C",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/ST03-004_p4.png",
+          "cardSet": "ONE PIECE カードゲーム China 2nd ANNIVERSARY SET",
+          "source": "bandai"
+        },
+        {
+          "id": "ST03-004_r1~ja",
+          "language": "ja",
+          "set": "ST17",
+          "rarity": "C",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/ST03-004_r1.png",
+          "cardSet": "スタートデッキ 青 ドンキホーテ・ドフラミンゴ【ST-17】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "ST03-005",
       "name": "Dracule Mihawk",
+      "names": {
+        "en": "Dracule Mihawk",
+        "ja": "ジュラキュール・ミホーク"
+      },
       "category": "Character",
       "cost": 4,
       "power": 5000,
@@ -794,12 +932,98 @@
               "category": "event"
             }
           ]
+        },
+        {
+          "id": "ST03-005~ja",
+          "language": "ja",
+          "set": "ST03",
+          "rarity": "C",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/ST03-005.png",
+          "cardSet": "王下七武海【ST-03】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
+        },
+        {
+          "id": "ST03-005_p1~ja",
+          "language": "ja",
+          "set": "P",
+          "rarity": "C",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/ST03-005_p1.png",
+          "cardSet": "スタンダードバトルパック Vol.3",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
+        },
+        {
+          "id": "ST03-005_p2~ja",
+          "language": "ja",
+          "set": "P",
+          "rarity": "C",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/ST03-005_p2.png",
+          "cardSet": "スタンダードバトル3月優勝記念品",
+          "source": "bandai"
+        },
+        {
+          "id": "ST03-005_p4~ja",
+          "language": "ja",
+          "set": "PRB01",
+          "rarity": "C",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/ST03-005_p4.png",
+          "cardSet": "ONE PIECE CARD THE BEST【PRB-01】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "ST03-005_p5~ja",
+          "language": "ja",
+          "set": "PRB01",
+          "rarity": "C",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/ST03-005_p5.png",
+          "cardSet": "ONE PIECE CARD THE BEST【PRB-01】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "ST03-005_r1~ja",
+          "language": "ja",
+          "set": "PRB01",
+          "rarity": "C",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/ST03-005_r1.png",
+          "cardSet": "ONE PIECE CARD THE BEST【PRB-01】",
+          "source": "bandai"
+        },
+        {
+          "id": "ST03-005_r2~ja",
+          "language": "ja",
+          "set": "ST17",
+          "rarity": "C",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/ST03-005_r2.png",
+          "cardSet": "スタートデッキ 青 ドンキホーテ・ドフラミンゴ【ST-17】",
+          "source": "bandai"
         }
       ]
     },
     {
       "number": "ST03-006",
       "name": "Jinbe",
+      "names": {
+        "en": "Jinbe",
+        "ja": "ジンベエ"
+      },
       "category": "Character",
       "cost": 2,
       "power": 4000,
@@ -864,12 +1088,29 @@
               "category": "event"
             }
           ]
+        },
+        {
+          "id": "ST03-006~ja",
+          "language": "ja",
+          "set": "ST03",
+          "rarity": "C",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/ST03-006.png",
+          "cardSet": "王下七武海【ST-03】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "ST03-007",
       "name": "Sentomaru",
+      "names": {
+        "en": "Sentomaru",
+        "ja": "戦桃丸"
+      },
       "category": "Character",
       "cost": 3,
       "power": 4000,
@@ -1075,12 +1316,42 @@
           "finishes": [
             "nonfoil"
           ]
+        },
+        {
+          "id": "ST03-007~ja",
+          "language": "ja",
+          "set": "ST03",
+          "rarity": "C",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/ST03-007.png",
+          "cardSet": "王下七武海【ST-03】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
+        },
+        {
+          "id": "ST03-007_p1~ja",
+          "language": "ja",
+          "set": "P",
+          "rarity": "C",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/ST03-007_p1.png",
+          "cardSet": "スタンダードバトルパック2022 Vol.2",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "ST03-008",
       "name": "Trafalgar Law",
+      "names": {
+        "en": "Trafalgar Law",
+        "ja": "トラファルガー・ロー"
+      },
       "category": "Character",
       "cost": 1,
       "power": 1000,
@@ -1606,12 +1877,115 @@
               "category": "placement"
             }
           ]
+        },
+        {
+          "id": "ST03-008~ja",
+          "language": "ja",
+          "set": "ST03",
+          "rarity": "C",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/ST03-008.png",
+          "cardSet": "王下七武海【ST-03】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
+        },
+        {
+          "id": "ST03-008_p1~ja",
+          "language": "ja",
+          "set": "P",
+          "rarity": "C",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/ST03-008_p1.png",
+          "cardSet": "チャンピオンシップセット2022",
+          "source": "bandai"
+        },
+        {
+          "id": "ST03-008_p3~ja",
+          "language": "ja",
+          "set": "P",
+          "rarity": "C",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/ST03-008_p3.png",
+          "cardSet": "セブンイレブンタイアップキャンペーン オリジナルカード",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "ST03-008_p4~ja",
+          "language": "ja",
+          "set": "P",
+          "rarity": "C",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/ST03-008_p4.png",
+          "cardSet": "プロモーションカードセット",
+          "source": "bandai"
+        },
+        {
+          "id": "ST03-008_p5~ja",
+          "language": "ja",
+          "set": "P",
+          "rarity": "C",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/ST03-008_p5.png",
+          "cardSet": "プロモーションパックEX Vol.1",
+          "source": "bandai"
+        },
+        {
+          "id": "ST03-008_p7~ja",
+          "language": "ja",
+          "set": "PRB01",
+          "rarity": "C",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/ST03-008_p7.png",
+          "cardSet": "ONE PIECE CARD THE BEST【PRB-01】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "ST03-008_p8~ja",
+          "language": "ja",
+          "set": "PRB01",
+          "rarity": "C",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/ST03-008_p8.png",
+          "cardSet": "ONE PIECE CARD THE BEST【PRB-01】",
+          "source": "bandai"
+        },
+        {
+          "id": "ST03-008_r1~ja",
+          "language": "ja",
+          "set": "PRB01",
+          "rarity": "C",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/ST03-008_r1.png",
+          "cardSet": "ONE PIECE CARD THE BEST【PRB-01】",
+          "source": "bandai"
+        },
+        {
+          "id": "ST03-008_r2~ja",
+          "language": "ja",
+          "set": "ST17",
+          "rarity": "C",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/ST03-008_r2.png",
+          "cardSet": "スタートデッキ 青 ドンキホーテ・ドフラミンゴ【ST-17】",
+          "source": "bandai"
         }
       ]
     },
     {
       "number": "ST03-009",
       "name": "Donquixote Doflamingo",
+      "names": {
+        "en": "Donquixote Doflamingo",
+        "ja": "ドンキホーテ・ドフラミンゴ"
+      },
       "category": "Character",
       "cost": 7,
       "power": 7000,
@@ -1720,12 +2094,42 @@
             "foil",
             "nonfoil"
           ]
+        },
+        {
+          "id": "ST03-009~ja",
+          "language": "ja",
+          "set": "ST03",
+          "rarity": "SR",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/ST03-009.png",
+          "cardSet": "王下七武海【ST-03】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "ST03-009_p1~ja",
+          "language": "ja",
+          "set": "OP03",
+          "rarity": "SP CARD",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/ST03-009_p1.png",
+          "cardSet": "強大な敵【OP-03】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "ST03-010",
       "name": "Bartholomew Kuma",
+      "names": {
+        "en": "Bartholomew Kuma",
+        "ja": "バーソロミュー・くま"
+      },
       "category": "Character",
       "cost": 2,
       "power": 3000,
@@ -1788,12 +2192,29 @@
               "category": "event"
             }
           ]
+        },
+        {
+          "id": "ST03-010~ja",
+          "language": "ja",
+          "set": "ST03",
+          "rarity": "C",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/ST03-010.png",
+          "cardSet": "王下七武海【ST-03】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "ST03-011",
       "name": "Buggy",
+      "names": {
+        "en": "Buggy",
+        "ja": "バギー"
+      },
       "category": "Character",
       "cost": 1,
       "power": 3000,
@@ -1857,12 +2278,29 @@
               "category": "event"
             }
           ]
+        },
+        {
+          "id": "ST03-011~ja",
+          "language": "ja",
+          "set": "ST03",
+          "rarity": "C",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/ST03-011.png",
+          "cardSet": "王下七武海【ST-03】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "ST03-012",
       "name": "Pacifista",
+      "names": {
+        "en": "Pacifista",
+        "ja": "パシフィスタ"
+      },
       "category": "Character",
       "cost": 4,
       "power": 6000,
@@ -1955,12 +2393,39 @@
               "category": "event"
             }
           ]
+        },
+        {
+          "id": "ST03-012~ja",
+          "language": "ja",
+          "set": "ST03",
+          "rarity": "C",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/ST03-012.png",
+          "cardSet": "王下七武海【ST-03】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
+        },
+        {
+          "id": "ST03-012_p2~ja",
+          "language": "ja",
+          "set": "OTHER",
+          "rarity": "C",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/ST03-012_p2.png",
+          "cardSet": "プレミアムカードコレクション - ベストセレクションvol.1 -",
+          "source": "bandai"
         }
       ]
     },
     {
       "number": "ST03-013",
       "name": "Boa Hancock",
+      "names": {
+        "en": "Boa Hancock",
+        "ja": "ボア・ハンコック"
+      },
       "category": "Character",
       "cost": 3,
       "power": 1000,
@@ -2143,12 +2608,91 @@
               "category": "retail"
             }
           ]
+        },
+        {
+          "id": "ST03-013~ja",
+          "language": "ja",
+          "set": "ST03",
+          "rarity": "C",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/ST03-013.png",
+          "cardSet": "王下七武海【ST-03】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
+        },
+        {
+          "id": "ST03-013_p1~ja",
+          "language": "ja",
+          "set": "OTHER",
+          "rarity": "C",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/ST03-013_p1.png",
+          "cardSet": "プレミアムカードコレクション - ベストセレクションvol.2 -",
+          "source": "bandai"
+        },
+        {
+          "id": "ST03-013_p2~ja",
+          "language": "ja",
+          "set": "PRB01",
+          "rarity": "C",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/ST03-013_p2.png",
+          "cardSet": "ONE PIECE CARD THE BEST【PRB-01】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "ST03-013_p3~ja",
+          "language": "ja",
+          "set": "PRB01",
+          "rarity": "C",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/ST03-013_p3.png",
+          "cardSet": "ONE PIECE CARD THE BEST【PRB-01】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "ST03-013_p4~ja",
+          "language": "ja",
+          "set": "PRB01",
+          "rarity": "C",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/ST03-013_p4.png",
+          "cardSet": "ONE PIECE CARD THE BEST【PRB-01】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "ST03-013_r1~ja",
+          "language": "ja",
+          "set": "PRB01",
+          "rarity": "C",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/ST03-013_r1.png",
+          "cardSet": "ONE PIECE CARD THE BEST【PRB-01】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "ST03-014",
       "name": "Marshall.D.Teach",
+      "names": {
+        "en": "Marshall.D.Teach",
+        "ja": "マーシャル・D・ティーチ"
+      },
       "category": "Character",
       "cost": 4,
       "power": 4000,
@@ -2436,12 +2980,42 @@
           "finishes": [
             "nonfoil"
           ]
+        },
+        {
+          "id": "ST03-014~ja",
+          "language": "ja",
+          "set": "ST03",
+          "rarity": "C",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/ST03-014.png",
+          "cardSet": "王下七武海【ST-03】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
+        },
+        {
+          "id": "ST03-014_p1~ja",
+          "language": "ja",
+          "set": "P",
+          "rarity": "C",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/ST03-014_p1.png",
+          "cardSet": "ONE PIECEカードゲーム プロモーションパックVol.3",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "ST03-015",
       "name": "Sables",
+      "names": {
+        "en": "Sables",
+        "ja": "砂嵐"
+      },
       "category": "Event",
       "cost": 4,
       "colors": [
@@ -2521,12 +3095,29 @@
           "finishes": [
             "nonfoil"
           ]
+        },
+        {
+          "id": "ST03-015~ja",
+          "language": "ja",
+          "set": "ST03",
+          "rarity": "C",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/ST03-015.png",
+          "cardSet": "王下七武海【ST-03】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "ST03-016",
       "name": "Thrust Pad Cannon",
+      "names": {
+        "en": "Thrust Pad Cannon",
+        "ja": "つっぱり圧力砲"
+      },
       "category": "Event",
       "cost": 2,
       "colors": [
@@ -2606,12 +3197,29 @@
           "finishes": [
             "nonfoil"
           ]
+        },
+        {
+          "id": "ST03-016~ja",
+          "language": "ja",
+          "set": "ST03",
+          "rarity": "C",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/ST03-016.png",
+          "cardSet": "王下七武海【ST-03】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "ST03-017",
       "name": "Love-Love Mellow",
+      "names": {
+        "en": "Love-Love Mellow",
+        "ja": "メロメロ甘風"
+      },
       "category": "Event",
       "cost": 2,
       "colors": [
@@ -2720,6 +3328,29 @@
           "finishes": [
             "nonfoil"
           ]
+        },
+        {
+          "id": "ST03-017~ja",
+          "language": "ja",
+          "set": "ST03",
+          "rarity": "C",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/ST03-017.png",
+          "cardSet": "王下七武海【ST-03】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
+        },
+        {
+          "id": "ST03-017_p2~ja",
+          "language": "ja",
+          "set": "OTHER",
+          "rarity": "C",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/ST03-017_p2.png",
+          "cardSet": "プレミアムカードコレクション - ベストセレクションvol.1 -",
+          "source": "bandai"
         }
       ]
     }

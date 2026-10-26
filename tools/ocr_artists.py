@@ -109,7 +109,8 @@ def main() -> None:
     args = ap.parse_args()
     cache = json.loads(OCR_CACHE.read_text()) if OCR_CACHE.exists() else {}
     files = opjson.load_cards()
-    bandai = [p for body in files.values() for c in body["cards"] for p in c["printings"] if p["source"] == "bandai"]
+    bandai = [p for body in files.values() for c in body["cards"] for p in c["printings"]
+              if p["source"] == "bandai" and opjson.language(p) == "en"]
     engine = RapidOCR()
     fresh = 0
     for p in bandai:

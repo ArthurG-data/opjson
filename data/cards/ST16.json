@@ -3,6 +3,10 @@
     {
       "number": "ST16-001",
       "name": "Uta",
+      "names": {
+        "en": "Uta",
+        "ja": "ウタ"
+      },
       "category": "Character",
       "cost": 4,
       "power": 6000,
@@ -38,12 +42,49 @@
             "distance": 0
           },
           "artist": "Yosuke Adachi"
+        },
+        {
+          "id": "ST16-001~ja",
+          "language": "ja",
+          "set": "ST16",
+          "rarity": "SR",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/ST16-001.png",
+          "cardSet": "スタートデッキ 緑 ウタ【ST-16】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "ST16-001_p1~ja",
+          "language": "ja",
+          "set": "OTHER",
+          "rarity": "SR",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/ST16-001_p1.png",
+          "cardSet": "プレミアムブースター ONE PIECE CARD THE BEST ストレージボックスセット",
+          "source": "bandai"
+        },
+        {
+          "id": "ST16-001_p2~ja",
+          "language": "ja",
+          "set": "OTHER",
+          "rarity": "SR",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/ST16-001_p2.png",
+          "cardSet": "プレミアムブースター ONE PIECE CARD THE BEST ストレージボックスセット",
+          "source": "bandai"
         }
       ]
     },
     {
       "number": "ST16-002",
       "name": "Gordon",
+      "names": {
+        "en": "Gordon",
+        "ja": "ゴードン"
+      },
       "category": "Character",
       "cost": 2,
       "counter": 1000,
@@ -79,12 +120,29 @@
             "distance": 2
           },
           "artist": "kankurou"
+        },
+        {
+          "id": "ST16-002~ja",
+          "language": "ja",
+          "set": "ST16",
+          "rarity": "C",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/ST16-002.png",
+          "cardSet": "スタートデッキ 緑 ウタ【ST-16】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "ST16-003",
       "name": "Charlotte Katakuri",
+      "names": {
+        "en": "Charlotte Katakuri",
+        "ja": "シャーロット・カタクリ"
+      },
       "category": "Character",
       "cost": 3,
       "power": 4000,
@@ -178,12 +236,55 @@
           ],
           "artOf": "ST16-003",
           "artist": "eiji kaneda"
+        },
+        {
+          "id": "ST16-003~ja",
+          "language": "ja",
+          "set": "ST16",
+          "rarity": "C",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/ST16-003.png",
+          "cardSet": "スタートデッキ 緑 ウタ【ST-16】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
+        },
+        {
+          "id": "ST16-003_p1~ja",
+          "language": "ja",
+          "set": "PRB02",
+          "rarity": "C",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/ST16-003_p1.png",
+          "cardSet": "ONE PIECE CARD THE BEST vol.2【PRB-02】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "ST16-003_r1~ja",
+          "language": "ja",
+          "set": "PRB02",
+          "rarity": "C",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/ST16-003_r1.png",
+          "cardSet": "ONE PIECE CARD THE BEST vol.2【PRB-02】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "ST16-004",
       "name": "Shanks",
+      "names": {
+        "en": "Shanks",
+        "ja": "シャンクス"
+      },
       "category": "Character",
       "cost": 9,
       "power": 11000,
@@ -300,12 +401,68 @@
           ],
           "artOf": "ST16-004",
           "artist": "Nijihayashi"
+        },
+        {
+          "id": "ST16-004~ja",
+          "language": "ja",
+          "set": "ST16",
+          "rarity": "SR",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/ST16-004.png",
+          "cardSet": "スタートデッキ 緑 ウタ【ST-16】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "ST16-004_p1~ja",
+          "language": "ja",
+          "set": "OP11",
+          "rarity": "SP CARD",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/ST16-004_p1.png",
+          "cardSet": "ブースターパック 神速の拳【OP-11】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "ST16-004_p2~ja",
+          "language": "ja",
+          "set": "PRB02",
+          "rarity": "SR",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/ST16-004_p2.png",
+          "cardSet": "ONE PIECE CARD THE BEST vol.2【PRB-02】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "ST16-004_r1~ja",
+          "language": "ja",
+          "set": "PRB02",
+          "rarity": "SR",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/ST16-004_r1.png",
+          "cardSet": "ONE PIECE CARD THE BEST vol.2【PRB-02】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "ST16-005",
       "name": "Monkey.D.Luffy",
+      "names": {
+        "en": "Monkey.D.Luffy",
+        "ja": "モンキー・D・ルフィ"
+      },
       "category": "Character",
       "cost": 2,
       "power": 3000,
@@ -482,6 +639,45 @@
               "type": "retail_product",
               "category": "retail"
             }
+          ]
+        },
+        {
+          "id": "ST16-005~ja",
+          "language": "ja",
+          "set": "ST16",
+          "rarity": "C",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/ST16-005.png",
+          "cardSet": "スタートデッキ 緑 ウタ【ST-16】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
+        },
+        {
+          "id": "ST16-005_p1~ja",
+          "language": "ja",
+          "set": "PRB02",
+          "rarity": "C",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/ST16-005_p1.png",
+          "cardSet": "ONE PIECE CARD THE BEST vol.2【PRB-02】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "ST16-005_r1~ja",
+          "language": "ja",
+          "set": "PRB02",
+          "rarity": "C",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/ST16-005_r1.png",
+          "cardSet": "ONE PIECE CARD THE BEST vol.2【PRB-02】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
           ]
         }
       ]

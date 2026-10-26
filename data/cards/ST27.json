@@ -3,6 +3,10 @@
     {
       "number": "ST27-001",
       "name": "Avalo Pizarro",
+      "names": {
+        "en": "Avalo Pizarro",
+        "ja": "アバロ・ピサロ"
+      },
       "category": "Character",
       "cost": 1,
       "power": 1000,
@@ -39,12 +43,29 @@
             "distance": 2
           },
           "artist": "kankurou"
+        },
+        {
+          "id": "ST27-001~ja",
+          "language": "ja",
+          "set": "ST27",
+          "rarity": "C",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/ST27-001.png",
+          "cardSet": "スタートデッキ 黒 マーシャル・Ｄ・ティーチ【ST-27】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "ST27-002",
       "name": "Catarina Devon",
+      "names": {
+        "en": "Catarina Devon",
+        "ja": "カタリーナ・デボン"
+      },
       "category": "Character",
       "cost": 1,
       "power": 1000,
@@ -81,12 +102,29 @@
             "distance": 4
           },
           "artist": "HISASHI HUJIWARA"
+        },
+        {
+          "id": "ST27-002~ja",
+          "language": "ja",
+          "set": "ST27",
+          "rarity": "C",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/ST27-002.png",
+          "cardSet": "スタートデッキ 黒 マーシャル・Ｄ・ティーチ【ST-27】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "ST27-003",
       "name": "Kuzan",
+      "names": {
+        "en": "Kuzan",
+        "ja": "クザン"
+      },
       "category": "Character",
       "cost": 6,
       "power": 6000,
@@ -124,12 +162,29 @@
             "distance": 3
           },
           "artist": "Koushi Rokushiro"
+        },
+        {
+          "id": "ST27-003~ja",
+          "language": "ja",
+          "set": "ST27",
+          "rarity": "SR",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/ST27-003.png",
+          "cardSet": "スタートデッキ 黒 マーシャル・Ｄ・ティーチ【ST-27】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "ST27-004",
       "name": "Sanjuan.Wolf",
+      "names": {
+        "en": "Sanjuan.Wolf",
+        "ja": "サンファン・ウルフ"
+      },
       "category": "Character",
       "cost": 4,
       "power": 6000,
@@ -167,12 +222,29 @@
             "distance": 3
           },
           "artist": "kankurou"
+        },
+        {
+          "id": "ST27-004~ja",
+          "language": "ja",
+          "set": "ST27",
+          "rarity": "C",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/ST27-004.png",
+          "cardSet": "スタートデッキ 黒 マーシャル・Ｄ・ティーチ【ST-27】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "ST27-005",
       "name": "Marshall.D.Teach",
+      "names": {
+        "en": "Marshall.D.Teach",
+        "ja": "マーシャル・Ｄ・ティーチ"
+      },
       "category": "Character",
       "cost": 7,
       "power": 8000,
@@ -235,6 +307,32 @@
             "sp"
           ],
           "artist": "Bashikou"
+        },
+        {
+          "id": "ST27-005~ja",
+          "language": "ja",
+          "set": "ST27",
+          "rarity": "SR",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/ST27-005.png",
+          "cardSet": "スタートデッキ 黒 マーシャル・Ｄ・ティーチ【ST-27】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "ST27-005_p1~ja",
+          "language": "ja",
+          "set": "OP17",
+          "rarity": "SP CARD",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/ST27-005_p1.png",
+          "cardSet": "ブースターパック 世界最強の戦士【OP-17】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     }

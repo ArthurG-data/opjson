@@ -3,6 +3,10 @@
     {
       "number": "OP15-001",
       "name": "Krieg",
+      "names": {
+        "en": "Krieg",
+        "ja": "クリーク"
+      },
       "category": "Leader",
       "power": 5000,
       "life": 4,
@@ -66,12 +70,42 @@
             "alternate_art"
           ],
           "artist": "tatsuya"
+        },
+        {
+          "id": "OP15-001~ja",
+          "language": "ja",
+          "set": "OP15",
+          "rarity": "L",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP15-001.png",
+          "cardSet": "ブースターパック 神の島の冒険【OP-15】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
+        },
+        {
+          "id": "OP15-001_p1~ja",
+          "language": "ja",
+          "set": "OP15",
+          "rarity": "L",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP15-001_p1.png",
+          "cardSet": "ブースターパック 神の島の冒険【OP-15】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "OP15-002",
       "name": "Lucy",
+      "names": {
+        "en": "Lucy",
+        "ja": "ルーシー"
+      },
       "category": "Leader",
       "power": 5000,
       "life": 4,
@@ -155,12 +189,52 @@
           "finishes": [
             "foil"
           ]
+        },
+        {
+          "id": "OP15-002~ja",
+          "language": "ja",
+          "set": "OP15",
+          "rarity": "L",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP15-002.png",
+          "cardSet": "ブースターパック 神の島の冒険【OP-15】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
+        },
+        {
+          "id": "OP15-002_p1~ja",
+          "language": "ja",
+          "set": "OP15",
+          "rarity": "L",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP15-002_p1.png",
+          "cardSet": "ブースターパック 神の島の冒険【OP-15】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP15-002_p2~ja",
+          "language": "ja",
+          "set": "P",
+          "rarity": "L",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP15-002_p2.png",
+          "cardSet": "メラメラの実争奪戦 上位記念品",
+          "source": "bandai"
         }
       ]
     },
     {
       "number": "OP15-003",
       "name": "Alvida",
+      "names": {
+        "en": "Alvida",
+        "ja": "アルビダ"
+      },
       "category": "Character",
       "cost": 5,
       "power": 6000,
@@ -224,12 +298,42 @@
             "alternate_art"
           ],
           "artist": "Koushi Rokushiro"
+        },
+        {
+          "id": "OP15-003~ja",
+          "language": "ja",
+          "set": "OP15",
+          "rarity": "R",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP15-003.png",
+          "cardSet": "ブースターパック 神の島の冒険【OP-15】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP15-003_p1~ja",
+          "language": "ja",
+          "set": "OP15",
+          "rarity": "R",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP15-003_p1.png",
+          "cardSet": "ブースターパック 神の島の冒険【OP-15】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "OP15-004",
       "name": "Sea Cat",
+      "names": {
+        "en": "Sea Cat",
+        "ja": "海ネコ"
+      },
       "category": "Character",
       "cost": 1,
       "counter": 1000,
@@ -294,12 +398,29 @@
             }
           ],
           "artist": "Yasushi Yamaguchi"
+        },
+        {
+          "id": "OP15-004~ja",
+          "language": "ja",
+          "set": "OP15",
+          "rarity": "C",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP15-004.png",
+          "cardSet": "ブースターパック 神の島の冒険【OP-15】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP15-005",
       "name": "Cabaji",
+      "names": {
+        "en": "Cabaji",
+        "ja": "カバジ"
+      },
       "category": "Character",
       "cost": 2,
       "power": 3000,
@@ -365,12 +486,29 @@
             }
           ],
           "artist": "kankurou"
+        },
+        {
+          "id": "OP15-005~ja",
+          "language": "ja",
+          "set": "OP15",
+          "rarity": "C",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP15-005.png",
+          "cardSet": "ブースターパック 神の島の冒険【OP-15】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP15-006",
       "name": "Cavendish",
+      "names": {
+        "en": "Cavendish",
+        "ja": "キャベンディッシュ"
+      },
       "category": "Character",
       "cost": 4,
       "power": 4000,
@@ -436,12 +574,29 @@
             }
           ],
           "artist": "Koushi Rokushiro"
+        },
+        {
+          "id": "OP15-006~ja",
+          "language": "ja",
+          "set": "OP15",
+          "rarity": "UC",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP15-006.png",
+          "cardSet": "ブースターパック 神の島の冒険【OP-15】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP15-007",
       "name": "Gin",
+      "names": {
+        "en": "Gin",
+        "ja": "ギン"
+      },
       "category": "Character",
       "cost": 6,
       "power": 7000,
@@ -505,12 +660,42 @@
             "alternate_art"
           ],
           "artist": "eiji kaneda"
+        },
+        {
+          "id": "OP15-007~ja",
+          "language": "ja",
+          "set": "OP15",
+          "rarity": "SR",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP15-007.png",
+          "cardSet": "ブースターパック 神の島の冒険【OP-15】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP15-007_p1~ja",
+          "language": "ja",
+          "set": "OP15",
+          "rarity": "SR",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP15-007_p1.png",
+          "cardSet": "ブースターパック 神の島の冒険【OP-15】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "OP15-008",
       "name": "Krieg",
+      "names": {
+        "en": "Krieg",
+        "ja": "クリーク"
+      },
       "category": "Character",
       "cost": 8,
       "power": 9000,
@@ -573,12 +758,42 @@
             "alternate_art"
           ],
           "artist": "DAI-XT."
+        },
+        {
+          "id": "OP15-008~ja",
+          "language": "ja",
+          "set": "OP15",
+          "rarity": "SR",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP15-008.png",
+          "cardSet": "ブースターパック 神の島の冒険【OP-15】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP15-008_p1~ja",
+          "language": "ja",
+          "set": "OP15",
+          "rarity": "SR",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP15-008_p1.png",
+          "cardSet": "ブースターパック 神の島の冒険【OP-15】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "OP15-009",
       "name": "Koby",
+      "names": {
+        "en": "Koby",
+        "ja": "コビー"
+      },
       "category": "Character",
       "cost": 1,
       "power": 2000,
@@ -644,12 +859,29 @@
             }
           ],
           "artist": "Nekobayashi"
+        },
+        {
+          "id": "OP15-009~ja",
+          "language": "ja",
+          "set": "OP15",
+          "rarity": "UC",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP15-009.png",
+          "cardSet": "ブースターパック 神の島の冒険【OP-15】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP15-010",
       "name": "Nezumi",
+      "names": {
+        "en": "Nezumi",
+        "ja": "ネズミ"
+      },
       "category": "Character",
       "cost": 2,
       "power": 2000,
@@ -715,12 +947,29 @@
             }
           ],
           "artist": "HISASHI HUJIWARA"
+        },
+        {
+          "id": "OP15-010~ja",
+          "language": "ja",
+          "set": "OP15",
+          "rarity": "C",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP15-010.png",
+          "cardSet": "ブースターパック 神の島の冒険【OP-15】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP15-011",
       "name": "Pearl",
+      "names": {
+        "en": "Pearl",
+        "ja": "パール"
+      },
       "category": "Character",
       "cost": 4,
       "power": 4000,
@@ -758,12 +1007,29 @@
             "distance": 6
           },
           "artist": "Kento Amemiya"
+        },
+        {
+          "id": "OP15-011~ja",
+          "language": "ja",
+          "set": "OP15",
+          "rarity": "R",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP15-011.png",
+          "cardSet": "ブースターパック 神の島の冒険【OP-15】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "OP15-012",
       "name": "Buggy",
+      "names": {
+        "en": "Buggy",
+        "ja": "バギー"
+      },
       "category": "Character",
       "cost": 3,
       "power": 4000,
@@ -829,12 +1095,29 @@
             }
           ],
           "artist": "Paji"
+        },
+        {
+          "id": "OP15-012~ja",
+          "language": "ja",
+          "set": "OP15",
+          "rarity": "C",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP15-012.png",
+          "cardSet": "ブースターパック 神の島の冒険【OP-15】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP15-013",
       "name": "Pincers",
+      "names": {
+        "en": "Pincers",
+        "ja": "ハサミ"
+      },
       "category": "Character",
       "cost": 4,
       "power": 2000,
@@ -900,12 +1183,29 @@
             }
           ],
           "artist": "Yasushi Yamaguchi"
+        },
+        {
+          "id": "OP15-013~ja",
+          "language": "ja",
+          "set": "OP15",
+          "rarity": "C",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP15-013.png",
+          "cardSet": "ブースターパック 神の島の冒険【OP-15】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP15-014",
       "name": "Bartolomeo",
+      "names": {
+        "en": "Bartolomeo",
+        "ja": "バルトロメオ"
+      },
       "category": "Character",
       "cost": 4,
       "power": 6000,
@@ -968,12 +1268,29 @@
               "category": "retail"
             }
           ]
+        },
+        {
+          "id": "OP15-014~ja",
+          "language": "ja",
+          "set": "OP15",
+          "rarity": "R",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP15-014.png",
+          "cardSet": "ブースターパック 神の島の冒険【OP-15】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "OP15-015",
       "name": "Higuma",
+      "names": {
+        "en": "Higuma",
+        "ja": "ヒグマ"
+      },
       "category": "Character",
       "cost": 1,
       "power": 1000,
@@ -1039,12 +1356,29 @@
             }
           ],
           "artist": "eiji kaneda"
+        },
+        {
+          "id": "OP15-015~ja",
+          "language": "ja",
+          "set": "OP15",
+          "rarity": "C",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP15-015.png",
+          "cardSet": "ブースターパック 神の島の冒険【OP-15】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP15-016",
       "name": "Fullbody",
+      "names": {
+        "en": "Fullbody",
+        "ja": "フルボディ"
+      },
       "category": "Character",
       "cost": 5,
       "power": 6000,
@@ -1109,12 +1443,29 @@
             }
           ],
           "artist": "Morechand"
+        },
+        {
+          "id": "OP15-016~ja",
+          "language": "ja",
+          "set": "OP15",
+          "rarity": "UC",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP15-016.png",
+          "cardSet": "ブースターパック 神の島の冒険【OP-15】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP15-017",
       "name": "Morgan",
+      "names": {
+        "en": "Morgan",
+        "ja": "モーガン"
+      },
       "category": "Character",
       "cost": 5,
       "power": 6000,
@@ -1180,12 +1531,29 @@
             }
           ],
           "artist": "touge369"
+        },
+        {
+          "id": "OP15-017~ja",
+          "language": "ja",
+          "set": "OP15",
+          "rarity": "C",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP15-017.png",
+          "cardSet": "ブースターパック 神の島の冒険【OP-15】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP15-018",
       "name": "Mohji",
+      "names": {
+        "en": "Mohji",
+        "ja": "モージ"
+      },
       "category": "Character",
       "cost": 2,
       "power": 3000,
@@ -1251,12 +1619,29 @@
             }
           ],
           "artist": "Misa Matoki"
+        },
+        {
+          "id": "OP15-018~ja",
+          "language": "ja",
+          "set": "OP15",
+          "rarity": "C",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP15-018.png",
+          "cardSet": "ブースターパック 神の島の冒険【OP-15】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP15-019",
       "name": "Barrier Bulls",
+      "names": {
+        "en": "Barrier Bulls",
+        "ja": "バリア突進牛"
+      },
       "category": "Event",
       "cost": 3,
       "colors": [
@@ -1315,12 +1700,29 @@
               "category": "event"
             }
           ]
+        },
+        {
+          "id": "OP15-019~ja",
+          "language": "ja",
+          "set": "OP15",
+          "rarity": "UC",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP15-019.png",
+          "cardSet": "ブースターパック 神の島の冒険【OP-15】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP15-020",
       "name": "Fire Fist",
+      "names": {
+        "en": "Fire Fist",
+        "ja": "火拳"
+      },
       "category": "Event",
       "cost": 7,
       "colors": [
@@ -1352,12 +1754,29 @@
             "match": "image-only-candidate",
             "distance": 3
           }
+        },
+        {
+          "id": "OP15-020~ja",
+          "language": "ja",
+          "set": "OP15",
+          "rarity": "R",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP15-020.png",
+          "cardSet": "ブースターパック 神の島の冒険【OP-15】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "OP15-021",
       "name": "Just Watch Me, Ace!!!",
+      "names": {
+        "en": "Just Watch Me, Ace!!!",
+        "ja": "見てろよ!エース!!!"
+      },
       "category": "Event",
       "cost": 4,
       "colors": [
@@ -1416,12 +1835,29 @@
               "category": "event"
             }
           ]
+        },
+        {
+          "id": "OP15-021~ja",
+          "language": "ja",
+          "set": "OP15",
+          "rarity": "UC",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP15-021.png",
+          "cardSet": "ブースターパック 神の島の冒険【OP-15】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP15-022",
       "name": "Brook",
+      "names": {
+        "en": "Brook",
+        "ja": "ブルック"
+      },
       "category": "Leader",
       "power": 5000,
       "life": 4,
@@ -1484,12 +1920,42 @@
             "alternate_art"
           ],
           "artist": "Bashikou"
+        },
+        {
+          "id": "OP15-022~ja",
+          "language": "ja",
+          "set": "OP15",
+          "rarity": "L",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP15-022.png",
+          "cardSet": "ブースターパック 神の島の冒険【OP-15】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
+        },
+        {
+          "id": "OP15-022_p1~ja",
+          "language": "ja",
+          "set": "OP15",
+          "rarity": "L",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP15-022_p1.png",
+          "cardSet": "ブースターパック 神の島の冒険【OP-15】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "OP15-023",
       "name": "Arlong",
+      "names": {
+        "en": "Arlong",
+        "ja": "アーロン"
+      },
       "category": "Character",
       "cost": 4,
       "power": 5000,
@@ -1554,12 +2020,29 @@
               "category": "retail"
             }
           ]
+        },
+        {
+          "id": "OP15-023~ja",
+          "language": "ja",
+          "set": "OP15",
+          "rarity": "R",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP15-023.png",
+          "cardSet": "ブースターパック 神の島の冒険【OP-15】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "OP15-024",
       "name": "Usopp",
+      "names": {
+        "en": "Usopp",
+        "ja": "ウソップ"
+      },
       "category": "Character",
       "cost": 4,
       "power": 5000,
@@ -1596,12 +2079,29 @@
             "distance": 6
           },
           "artist": "NIJIMAARC"
+        },
+        {
+          "id": "OP15-024~ja",
+          "language": "ja",
+          "set": "OP15",
+          "rarity": "R",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP15-024.png",
+          "cardSet": "ブースターパック 神の島の冒険【OP-15】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "OP15-025",
       "name": "Kuro",
+      "names": {
+        "en": "Kuro",
+        "ja": "クロ"
+      },
       "category": "Character",
       "cost": 7,
       "power": 7000,
@@ -1665,12 +2165,42 @@
             "alternate_art"
           ],
           "artist": "SENNSU"
+        },
+        {
+          "id": "OP15-025~ja",
+          "language": "ja",
+          "set": "OP15",
+          "rarity": "R",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP15-025.png",
+          "cardSet": "ブースターパック 神の島の冒険【OP-15】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP15-025_p1~ja",
+          "language": "ja",
+          "set": "OP15",
+          "rarity": "R",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP15-025_p1.png",
+          "cardSet": "ブースターパック 神の島の冒険【OP-15】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "OP15-026",
       "name": "Jango",
+      "names": {
+        "en": "Jango",
+        "ja": "ジャンゴ"
+      },
       "category": "Character",
       "cost": 1,
       "power": 2000,
@@ -1736,12 +2266,29 @@
             }
           ],
           "artist": "Moopic"
+        },
+        {
+          "id": "OP15-026~ja",
+          "language": "ja",
+          "set": "OP15",
+          "rarity": "UC",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP15-026.png",
+          "cardSet": "ブースターパック 神の島の冒険【OP-15】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP15-027",
       "name": "Dracule Mihawk",
+      "names": {
+        "en": "Dracule Mihawk",
+        "ja": "ジュラキュール・ミホーク"
+      },
       "category": "Character",
       "cost": 4,
       "power": 5000,
@@ -1807,12 +2354,29 @@
             }
           ],
           "artist": "Studio Vigor Co. Ltd"
+        },
+        {
+          "id": "OP15-027~ja",
+          "language": "ja",
+          "set": "OP15",
+          "rarity": "C",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP15-027.png",
+          "cardSet": "ブースターパック 神の島の冒険【OP-15】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP15-028",
       "name": "Meowban Brothers",
+      "names": {
+        "en": "Meowban Brothers",
+        "ja": "ニャーバン兄弟"
+      },
       "category": "Character",
       "cost": 1,
       "power": 2000,
@@ -1878,12 +2442,29 @@
             }
           ],
           "artist": "Tanaka Kenichi"
+        },
+        {
+          "id": "OP15-028~ja",
+          "language": "ja",
+          "set": "OP15",
+          "rarity": "UC",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP15-028.png",
+          "cardSet": "ブースターパック 神の島の冒険【OP-15】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP15-029",
       "name": "Bartholomew Kuma",
+      "names": {
+        "en": "Bartholomew Kuma",
+        "ja": "バーソロミュー・くま"
+      },
       "category": "Character",
       "cost": 4,
       "power": 5000,
@@ -1949,12 +2530,29 @@
             }
           ],
           "artist": "tasaka"
+        },
+        {
+          "id": "OP15-029~ja",
+          "language": "ja",
+          "set": "OP15",
+          "rarity": "C",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP15-029.png",
+          "cardSet": "ブースターパック 神の島の冒険【OP-15】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP15-030",
       "name": "Hyouzou",
+      "names": {
+        "en": "Hyouzou",
+        "ja": "ヒョウゾウ"
+      },
       "category": "Character",
       "cost": 5,
       "power": 6000,
@@ -2020,12 +2618,29 @@
             }
           ],
           "artist": "Aidle Co. Ltd."
+        },
+        {
+          "id": "OP15-030~ja",
+          "language": "ja",
+          "set": "OP15",
+          "rarity": "UC",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP15-030.png",
+          "cardSet": "ブースターパック 神の島の冒険【OP-15】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP15-031",
       "name": "Purinpurin",
+      "names": {
+        "en": "Purinpurin",
+        "ja": "プリンプリン"
+      },
       "category": "Character",
       "cost": 2,
       "power": 2000,
@@ -2091,12 +2706,29 @@
             }
           ],
           "artist": "S-KINOKO"
+        },
+        {
+          "id": "OP15-031~ja",
+          "language": "ja",
+          "set": "OP15",
+          "rarity": "C",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP15-031.png",
+          "cardSet": "ブースターパック 神の島の冒険【OP-15】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP15-032",
       "name": "Brook",
+      "names": {
+        "en": "Brook",
+        "ja": "ブルック"
+      },
       "category": "Character",
       "cost": 6,
       "power": 6000,
@@ -2159,12 +2791,42 @@
             "alternate_art"
           ],
           "artist": "Hashimoto Q"
+        },
+        {
+          "id": "OP15-032~ja",
+          "language": "ja",
+          "set": "OP15",
+          "rarity": "SR",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP15-032.png",
+          "cardSet": "ブースターパック 神の島の冒険【OP-15】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP15-032_p1~ja",
+          "language": "ja",
+          "set": "OP15",
+          "rarity": "SR",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP15-032_p1.png",
+          "cardSet": "ブースターパック 神の島の冒険【OP-15】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "OP15-033",
       "name": "Hody Jones",
+      "names": {
+        "en": "Hody Jones",
+        "ja": "ホーディ・ジョーンズ"
+      },
       "category": "Character",
       "cost": 4,
       "power": 5000,
@@ -2231,12 +2893,29 @@
             }
           ],
           "artist": "ASAKI KURODA"
+        },
+        {
+          "id": "OP15-033~ja",
+          "language": "ja",
+          "set": "OP15",
+          "rarity": "C",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP15-033.png",
+          "cardSet": "ブースターパック 神の島の冒険【OP-15】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP15-034",
       "name": "Yorki",
+      "names": {
+        "en": "Yorki",
+        "ja": "ヨーキ"
+      },
       "category": "Character",
       "cost": 1,
       "counter": 2000,
@@ -2300,12 +2979,29 @@
             }
           ],
           "artist": "COGA"
+        },
+        {
+          "id": "OP15-034~ja",
+          "language": "ja",
+          "set": "OP15",
+          "rarity": "C",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP15-034.png",
+          "cardSet": "ブースターパック 神の島の冒険【OP-15】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP15-035",
       "name": "Laboon",
+      "names": {
+        "en": "Laboon",
+        "ja": "ラブーン"
+      },
       "category": "Character",
       "cost": 1,
       "power": 2000,
@@ -2370,12 +3066,29 @@
             }
           ],
           "artist": "COGA"
+        },
+        {
+          "id": "OP15-035~ja",
+          "language": "ja",
+          "set": "OP15",
+          "rarity": "UC",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP15-035.png",
+          "cardSet": "ブースターパック 神の島の冒険【OP-15】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP15-036",
       "name": "Ryuma",
+      "names": {
+        "en": "Ryuma",
+        "ja": "リューマ"
+      },
       "category": "Character",
       "cost": 6,
       "power": 8000,
@@ -2454,12 +3167,42 @@
             }
           ],
           "artist": "ASAKI KURODA"
+        },
+        {
+          "id": "OP15-036~ja",
+          "language": "ja",
+          "set": "OP15",
+          "rarity": "C",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP15-036.png",
+          "cardSet": "ブースターパック 神の島の冒険【OP-15】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
+        },
+        {
+          "id": "OP15-036_r1~ja",
+          "language": "ja",
+          "set": "ST32",
+          "rarity": "C",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP15-036_r1.png",
+          "cardSet": "スタートデッキ 緑 ロロノア・ゾロ【ST-32】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP15-037",
       "name": "The Outcome Will Tell Us Who's Strong and Who's Weak",
+      "names": {
+        "en": "The Outcome Will Tell Us Who's Strong and Who's Weak",
+        "ja": "強ェ弱ェは結果が決めるのさ"
+      },
       "category": "Event",
       "cost": 1,
       "colors": [
@@ -2518,12 +3261,29 @@
               "category": "event"
             }
           ]
+        },
+        {
+          "id": "OP15-037~ja",
+          "language": "ja",
+          "set": "OP15",
+          "rarity": "UC",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP15-037.png",
+          "cardSet": "ブースターパック 神の島の冒険【OP-15】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP15-038",
       "name": "It's an Order! Do Not Defy Me!!!",
+      "names": {
+        "en": "It's an Order! Do Not Defy Me!!!",
+        "ja": "命令してるんだ 誰もおれに逆らうな!!!"
+      },
       "category": "Event",
       "cost": 1,
       "colors": [
@@ -2555,12 +3315,29 @@
             "match": "image-only-candidate",
             "distance": 5
           }
+        },
+        {
+          "id": "OP15-038~ja",
+          "language": "ja",
+          "set": "OP15",
+          "rarity": "R",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP15-038.png",
+          "cardSet": "ブースターパック 神の島の冒険【OP-15】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "OP15-039",
       "name": "Rebecca",
+      "names": {
+        "en": "Rebecca",
+        "ja": "レベッカ"
+      },
       "category": "Leader",
       "power": 5000,
       "life": 5,
@@ -2639,12 +3416,52 @@
             "match": "minted",
             "distance": null
           }
+        },
+        {
+          "id": "OP15-039~ja",
+          "language": "ja",
+          "set": "OP15",
+          "rarity": "L",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP15-039.png",
+          "cardSet": "ブースターパック 神の島の冒険【OP-15】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
+        },
+        {
+          "id": "OP15-039_p1~ja",
+          "language": "ja",
+          "set": "OP15",
+          "rarity": "L",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP15-039_p1.png",
+          "cardSet": "ブースターパック 神の島の冒険【OP-15】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP15-039_p2~ja",
+          "language": "ja",
+          "set": "P",
+          "rarity": "L",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP15-039_p2.png",
+          "cardSet": "メラメラの実争奪戦 上位記念品",
+          "source": "bandai"
         }
       ]
     },
     {
       "number": "OP15-040",
       "name": "Viola",
+      "names": {
+        "en": "Viola",
+        "ja": "ヴィオラ"
+      },
       "category": "Character",
       "cost": 1,
       "power": 2000,
@@ -2682,12 +3499,29 @@
             "distance": 3
           },
           "artist": "Hagane Tsurugi"
+        },
+        {
+          "id": "OP15-040~ja",
+          "language": "ja",
+          "set": "OP15",
+          "rarity": "R",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP15-040.png",
+          "cardSet": "ブースターパック 神の島の冒険【OP-15】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "OP15-041",
       "name": "Orlumbus",
+      "names": {
+        "en": "Orlumbus",
+        "ja": "オオロンブス"
+      },
       "category": "Character",
       "cost": 3,
       "power": 4000,
@@ -2753,12 +3587,29 @@
             }
           ],
           "artist": "Tadaichi Nakama"
+        },
+        {
+          "id": "OP15-041~ja",
+          "language": "ja",
+          "set": "OP15",
+          "rarity": "UC",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP15-041.png",
+          "cardSet": "ブースターパック 神の島の冒険【OP-15】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP15-042",
       "name": "Kyros",
+      "names": {
+        "en": "Kyros",
+        "ja": "キュロス"
+      },
       "category": "Character",
       "cost": 3,
       "power": 5000,
@@ -2820,12 +3671,29 @@
               "category": "retail"
             }
           ]
+        },
+        {
+          "id": "OP15-042~ja",
+          "language": "ja",
+          "set": "OP15",
+          "rarity": "R",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP15-042.png",
+          "cardSet": "ブースターパック 神の島の冒険【OP-15】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "OP15-043",
       "name": "Kelly Funk",
+      "names": {
+        "en": "Kelly Funk",
+        "ja": "ケリー・ファンク"
+      },
       "category": "Character",
       "cost": 3,
       "power": 3000,
@@ -2891,12 +3759,29 @@
             }
           ],
           "artist": "kankurou"
+        },
+        {
+          "id": "OP15-043~ja",
+          "language": "ja",
+          "set": "OP15",
+          "rarity": "C",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP15-043.png",
+          "cardSet": "ブースターパック 神の島の冒険【OP-15】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP15-044",
       "name": "Koala",
+      "names": {
+        "en": "Koala",
+        "ja": "コアラ"
+      },
       "category": "Character",
       "cost": 3,
       "power": 2000,
@@ -2962,12 +3847,29 @@
             }
           ],
           "artist": "BISAI"
+        },
+        {
+          "id": "OP15-044~ja",
+          "language": "ja",
+          "set": "OP15",
+          "rarity": "C",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP15-044.png",
+          "cardSet": "ブースターパック 神の島の冒険【OP-15】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP15-045",
       "name": "Sai",
+      "names": {
+        "en": "Sai",
+        "ja": "サイ"
+      },
       "category": "Character",
       "cost": 5,
       "power": 6000,
@@ -3033,12 +3935,29 @@
             }
           ],
           "artist": "touge369"
+        },
+        {
+          "id": "OP15-045~ja",
+          "language": "ja",
+          "set": "OP15",
+          "rarity": "UC",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP15-045.png",
+          "cardSet": "ブースターパック 神の島の冒険【OP-15】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP15-046",
       "name": "Sabo",
+      "names": {
+        "en": "Sabo",
+        "ja": "サボ"
+      },
       "category": "Character",
       "cost": 7,
       "power": 9000,
@@ -3101,12 +4020,42 @@
             "alternate_art"
           ],
           "artist": "Morechand"
+        },
+        {
+          "id": "OP15-046~ja",
+          "language": "ja",
+          "set": "OP15",
+          "rarity": "SR",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP15-046.png",
+          "cardSet": "ブースターパック 神の島の冒険【OP-15】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP15-046_p1~ja",
+          "language": "ja",
+          "set": "OP15",
+          "rarity": "SR",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP15-046_p1.png",
+          "cardSet": "ブースターパック 神の島の冒険【OP-15】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "OP15-047",
       "name": "Sanji",
+      "names": {
+        "en": "Sanji",
+        "ja": "サンジ"
+      },
       "category": "Character",
       "cost": 3,
       "power": 4000,
@@ -3196,12 +4145,42 @@
               "category": "event"
             }
           ]
+        },
+        {
+          "id": "OP15-047~ja",
+          "language": "ja",
+          "set": "OP15",
+          "rarity": "R",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP15-047.png",
+          "cardSet": "ブースターパック 神の島の冒険【OP-15】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP15-047_p1~ja",
+          "language": "ja",
+          "set": "OP15",
+          "rarity": "R",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP15-047_p1.png",
+          "cardSet": "ブースターパック 神の島の冒険【OP-15】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "OP15-048",
       "name": "Chinjao",
+      "names": {
+        "en": "Chinjao",
+        "ja": "チンジャオ"
+      },
       "category": "Character",
       "cost": 4,
       "power": 5000,
@@ -3267,12 +4246,29 @@
             }
           ],
           "artist": "HISASHI HUJIWARA"
+        },
+        {
+          "id": "OP15-048~ja",
+          "language": "ja",
+          "set": "OP15",
+          "rarity": "C",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP15-048.png",
+          "cardSet": "ブースターパック 神の島の冒険【OP-15】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP15-049",
       "name": "Hajrudin",
+      "names": {
+        "en": "Hajrudin",
+        "ja": "ハイルディン"
+      },
       "category": "Character",
       "cost": 5,
       "power": 6000,
@@ -3339,12 +4335,29 @@
             }
           ],
           "artist": "touge369"
+        },
+        {
+          "id": "OP15-049~ja",
+          "language": "ja",
+          "set": "OP15",
+          "rarity": "UC",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP15-049.png",
+          "cardSet": "ブースターパック 神の島の冒険【OP-15】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP15-050",
       "name": "Bobby Funk",
+      "names": {
+        "en": "Bobby Funk",
+        "ja": "ボビー・ファンク"
+      },
       "category": "Character",
       "cost": 3,
       "power": 3000,
@@ -3410,12 +4423,29 @@
             }
           ],
           "artist": "kankurou"
+        },
+        {
+          "id": "OP15-050~ja",
+          "language": "ja",
+          "set": "OP15",
+          "rarity": "C",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP15-050.png",
+          "cardSet": "ブースターパック 神の島の冒険【OP-15】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP15-051",
       "name": "Monkey.D.Luffy",
+      "names": {
+        "en": "Monkey.D.Luffy",
+        "ja": "モンキー・Ｄ・ルフィ"
+      },
       "category": "Character",
       "cost": 3,
       "power": 4000,
@@ -3481,12 +4511,29 @@
             }
           ],
           "artist": "Koushi Rokushiro"
+        },
+        {
+          "id": "OP15-051~ja",
+          "language": "ja",
+          "set": "OP15",
+          "rarity": "UC",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP15-051.png",
+          "cardSet": "ブースターパック 神の島の冒険【OP-15】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP15-052",
       "name": "Leo",
+      "names": {
+        "en": "Leo",
+        "ja": "レオ"
+      },
       "category": "Character",
       "cost": 1,
       "power": 2000,
@@ -3552,12 +4599,29 @@
             }
           ],
           "artist": "kito"
+        },
+        {
+          "id": "OP15-052~ja",
+          "language": "ja",
+          "set": "OP15",
+          "rarity": "UC",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP15-052.png",
+          "cardSet": "ブースターパック 神の島の冒険【OP-15】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP15-053",
       "name": "Rebecca",
+      "names": {
+        "en": "Rebecca",
+        "ja": "レベッカ"
+      },
       "category": "Character",
       "cost": 1,
       "counter": 1000,
@@ -3619,12 +4683,42 @@
             "alternate_art"
           ],
           "artist": "Yosuke Adachi"
+        },
+        {
+          "id": "OP15-053~ja",
+          "language": "ja",
+          "set": "OP15",
+          "rarity": "SR",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP15-053.png",
+          "cardSet": "ブースターパック 神の島の冒険【OP-15】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP15-053_p1~ja",
+          "language": "ja",
+          "set": "OP15",
+          "rarity": "SR",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP15-053_p1.png",
+          "cardSet": "ブースターパック 神の島の冒険【OP-15】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "OP15-054",
       "name": "And No One Else Can Have It! It's Our Memento of Him",
+      "names": {
+        "en": "And No One Else Can Have It! It's Our Memento of Him",
+        "ja": "誰にも渡さねェよ!“あいつ”の形見だ"
+      },
       "category": "Event",
       "cost": 4,
       "colors": [
@@ -3683,12 +4777,29 @@
               "category": "event"
             }
           ]
+        },
+        {
+          "id": "OP15-054~ja",
+          "language": "ja",
+          "set": "OP15",
+          "rarity": "C",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP15-054.png",
+          "cardSet": "ブースターパック 神の島の冒険【OP-15】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP15-055",
       "name": "Go Ahead and Use 'Em, Mr. Luffy!!!",
+      "names": {
+        "en": "Go Ahead and Use 'Em, Mr. Luffy!!!",
+        "ja": "使ってけれ‼ルフィ先輩ィ!!!"
+      },
       "category": "Event",
       "cost": 3,
       "colors": [
@@ -3720,12 +4831,29 @@
             "match": "image-only-candidate",
             "distance": 5
           }
+        },
+        {
+          "id": "OP15-055~ja",
+          "language": "ja",
+          "set": "OP15",
+          "rarity": "R",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP15-055.png",
+          "cardSet": "ブースターパック 神の島の冒険【OP-15】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "OP15-056",
       "name": "Would You Let Me Eat the Flame-Flame Fruit?",
+      "names": {
+        "en": "Would You Let Me Eat the Flame-Flame Fruit?",
+        "ja": "“メラメラの実”はおれが食っていいか？"
+      },
       "category": "Event",
       "cost": 7,
       "colors": [
@@ -3784,12 +4912,29 @@
               "category": "event"
             }
           ]
+        },
+        {
+          "id": "OP15-056~ja",
+          "language": "ja",
+          "set": "OP15",
+          "rarity": "C",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP15-056.png",
+          "cardSet": "ブースターパック 神の島の冒険【OP-15】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP15-057",
       "name": "Dressrosa Kingdom",
+      "names": {
+        "en": "Dressrosa Kingdom",
+        "ja": "ドレスローザ王国"
+      },
       "category": "Stage",
       "cost": 1,
       "colors": [
@@ -3847,12 +4992,29 @@
               "category": "event"
             }
           ]
+        },
+        {
+          "id": "OP15-057~ja",
+          "language": "ja",
+          "set": "OP15",
+          "rarity": "C",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP15-057.png",
+          "cardSet": "ブースターパック 神の島の冒険【OP-15】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP15-058",
       "name": "Enel",
+      "names": {
+        "en": "Enel",
+        "ja": "エネル"
+      },
       "category": "Leader",
       "power": 5000,
       "life": 5,
@@ -3914,12 +5076,42 @@
             "alternate_art"
           ],
           "artist": "Anderson"
+        },
+        {
+          "id": "OP15-058~ja",
+          "language": "ja",
+          "set": "OP15",
+          "rarity": "L",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP15-058.png",
+          "cardSet": "ブースターパック 神の島の冒険【OP-15】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
+        },
+        {
+          "id": "OP15-058_p1~ja",
+          "language": "ja",
+          "set": "OP15",
+          "rarity": "L",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP15-058_p1.png",
+          "cardSet": "ブースターパック 神の島の冒険【OP-15】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "OP15-059",
       "name": "Amazon",
+      "names": {
+        "en": "Amazon",
+        "ja": "アマゾン"
+      },
       "category": "Character",
       "cost": 3,
       "counter": 1000,
@@ -3983,12 +5175,29 @@
             }
           ],
           "artist": "Suzume Muraichi"
+        },
+        {
+          "id": "OP15-059~ja",
+          "language": "ja",
+          "set": "OP15",
+          "rarity": "C",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP15-059.png",
+          "cardSet": "ブースターパック 神の島の冒険【OP-15】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP15-060",
       "name": "Enel",
+      "names": {
+        "en": "Enel",
+        "ja": "エネル"
+      },
       "category": "Character",
       "cost": 6,
       "power": 8000,
@@ -4076,12 +5285,52 @@
               "category": "championship"
             }
           ]
+        },
+        {
+          "id": "OP15-060~ja",
+          "language": "ja",
+          "set": "OP15",
+          "rarity": "SR",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP15-060.png",
+          "cardSet": "ブースターパック 神の島の冒険【OP-15】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP15-060_p1~ja",
+          "language": "ja",
+          "set": "OP15",
+          "rarity": "SR",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP15-060_p1.png",
+          "cardSet": "ブースターパック 神の島の冒険【OP-15】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP15-060_p2~ja",
+          "language": "ja",
+          "set": "P",
+          "rarity": "SR",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP15-060_p2.png",
+          "cardSet": "フラッグシップバトル2026 4月上位記念品",
+          "source": "bandai"
         }
       ]
     },
     {
       "number": "OP15-061",
       "name": "Ohm",
+      "names": {
+        "en": "Ohm",
+        "ja": "オーム"
+      },
       "category": "Character",
       "cost": 1,
       "power": 2000,
@@ -4145,12 +5394,42 @@
             "alternate_art"
           ],
           "artist": "akagi"
+        },
+        {
+          "id": "OP15-061~ja",
+          "language": "ja",
+          "set": "OP15",
+          "rarity": "R",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP15-061.png",
+          "cardSet": "ブースターパック 神の島の冒険【OP-15】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP15-061_p1~ja",
+          "language": "ja",
+          "set": "OP15",
+          "rarity": "R",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP15-061_p1.png",
+          "cardSet": "ブースターパック 神の島の冒険【OP-15】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "OP15-062",
       "name": "Captain Seamars",
+      "names": {
+        "en": "Captain Seamars",
+        "ja": "キャプテン・シーマーズ"
+      },
       "category": "Character",
       "cost": 5,
       "power": 6000,
@@ -4216,12 +5495,29 @@
             }
           ],
           "artist": "Akihiro MIYANO"
+        },
+        {
+          "id": "OP15-062~ja",
+          "language": "ja",
+          "set": "OP15",
+          "rarity": "UC",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP15-062.png",
+          "cardSet": "ブースターパック 神の島の冒険【OP-15】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP15-063",
       "name": "Gedatsu",
+      "names": {
+        "en": "Gedatsu",
+        "ja": "ゲダツ"
+      },
       "category": "Character",
       "cost": 1,
       "power": 2000,
@@ -4259,12 +5555,29 @@
             "distance": 3
           },
           "artist": "Aidle Co. Ltd."
+        },
+        {
+          "id": "OP15-063~ja",
+          "language": "ja",
+          "set": "OP15",
+          "rarity": "R",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP15-063.png",
+          "cardSet": "ブースターパック 神の島の冒険【OP-15】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "OP15-064",
       "name": "Kotori",
+      "names": {
+        "en": "Kotori",
+        "ja": "コトリ"
+      },
       "category": "Character",
       "cost": 1,
       "power": 2000,
@@ -4329,12 +5642,29 @@
             }
           ],
           "artist": "Studio Vigor Co. Ltd"
+        },
+        {
+          "id": "OP15-064~ja",
+          "language": "ja",
+          "set": "OP15",
+          "rarity": "C",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP15-064.png",
+          "cardSet": "ブースターパック 神の島の冒険【OP-15】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP15-065",
       "name": "Goro",
+      "names": {
+        "en": "Goro",
+        "ja": "ゴロー"
+      },
       "category": "Character",
       "cost": 3,
       "counter": 2000,
@@ -4399,12 +5729,29 @@
             }
           ],
           "artist": "S-KINOKO"
+        },
+        {
+          "id": "OP15-065~ja",
+          "language": "ja",
+          "set": "OP15",
+          "rarity": "C",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP15-065.png",
+          "cardSet": "ブースターパック 神の島の冒険【OP-15】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP15-066",
       "name": "Satori",
+      "names": {
+        "en": "Satori",
+        "ja": "サトリ"
+      },
       "category": "Character",
       "cost": 1,
       "power": 2000,
@@ -4494,12 +5841,29 @@
               "category": "placement"
             }
           ]
+        },
+        {
+          "id": "OP15-066~ja",
+          "language": "ja",
+          "set": "OP15",
+          "rarity": "R",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP15-066.png",
+          "cardSet": "ブースターパック 神の島の冒険【OP-15】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "OP15-067",
       "name": "Shura",
+      "names": {
+        "en": "Shura",
+        "ja": "シュラ"
+      },
       "category": "Character",
       "cost": 1,
       "power": 2000,
@@ -4537,12 +5901,29 @@
             "distance": 7
           },
           "artist": "Aidle Co. Ltd."
+        },
+        {
+          "id": "OP15-067~ja",
+          "language": "ja",
+          "set": "OP15",
+          "rarity": "R",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP15-067.png",
+          "cardSet": "ブースターパック 神の島の冒険【OP-15】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "OP15-068",
       "name": "Heavenly Warriors",
+      "names": {
+        "en": "Heavenly Warriors",
+        "ja": "神兵"
+      },
       "category": "Character",
       "cost": 1,
       "power": 1000,
@@ -4607,12 +5988,39 @@
             }
           ],
           "artist": "SHINRA AGENCY Co. Ltd."
+        },
+        {
+          "id": "OP15-068~ja",
+          "language": "ja",
+          "set": "OP15",
+          "rarity": "C",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP15-068.png",
+          "cardSet": "ブースターパック 神の島の冒険【OP-15】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
+        },
+        {
+          "id": "OP15-068_p1~ja",
+          "language": "ja",
+          "set": "P",
+          "rarity": "C",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP15-068_p1.png",
+          "cardSet": "スタンダードバトルパックVol.17",
+          "source": "bandai"
         }
       ]
     },
     {
       "number": "OP15-069",
       "name": "Nola",
+      "names": {
+        "en": "Nola",
+        "ja": "ノラ"
+      },
       "category": "Character",
       "cost": 1,
       "power": 2000,
@@ -4678,12 +6086,29 @@
             }
           ],
           "artist": "KISUKE"
+        },
+        {
+          "id": "OP15-069~ja",
+          "language": "ja",
+          "set": "OP15",
+          "rarity": "UC",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP15-069.png",
+          "cardSet": "ブースターパック 神の島の冒険【OP-15】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP15-070",
       "name": "Fuza",
+      "names": {
+        "en": "Fuza",
+        "ja": "フザ"
+      },
       "category": "Character",
       "cost": 3,
       "power": 4000,
@@ -4749,12 +6174,29 @@
             }
           ],
           "artist": "Nakamaru"
+        },
+        {
+          "id": "OP15-070~ja",
+          "language": "ja",
+          "set": "OP15",
+          "rarity": "C",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP15-070.png",
+          "cardSet": "ブースターパック 神の島の冒険【OP-15】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP15-071",
       "name": "Holly",
+      "names": {
+        "en": "Holly",
+        "ja": "ホーリー"
+      },
       "category": "Character",
       "cost": 3,
       "power": 4000,
@@ -4820,12 +6262,29 @@
             }
           ],
           "artist": "Moopic"
+        },
+        {
+          "id": "OP15-071~ja",
+          "language": "ja",
+          "set": "OP15",
+          "rarity": "C",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP15-071.png",
+          "cardSet": "ブースターパック 神の島の冒険【OP-15】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP15-072",
       "name": "Hotori",
+      "names": {
+        "en": "Hotori",
+        "ja": "ホトリ"
+      },
       "category": "Character",
       "cost": 1,
       "power": 2000,
@@ -4890,12 +6349,29 @@
             }
           ],
           "artist": "Studio Vigor Co. Ltd"
+        },
+        {
+          "id": "OP15-072~ja",
+          "language": "ja",
+          "set": "OP15",
+          "rarity": "C",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP15-072.png",
+          "cardSet": "ブースターパック 神の島の冒険【OP-15】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP15-073",
       "name": "Yama",
+      "names": {
+        "en": "Yama",
+        "ja": "ヤマ"
+      },
       "category": "Character",
       "cost": 3,
       "power": 4000,
@@ -4960,12 +6436,29 @@
             }
           ],
           "artist": "Suzume Muraichi"
+        },
+        {
+          "id": "OP15-073~ja",
+          "language": "ja",
+          "set": "OP15",
+          "rarity": "C",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP15-073.png",
+          "cardSet": "ブースターパック 神の島の冒険【OP-15】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP15-074",
       "name": "Varie",
+      "names": {
+        "en": "Varie",
+        "ja": "放電"
+      },
       "category": "Event",
       "colors": [
         "Purple"
@@ -5022,12 +6515,39 @@
               "category": "event"
             }
           ]
+        },
+        {
+          "id": "OP15-074~ja",
+          "language": "ja",
+          "set": "OP15",
+          "rarity": "UC",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP15-074.png",
+          "cardSet": "ブースターパック 神の島の冒険【OP-15】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
+        },
+        {
+          "id": "OP15-074_p1~ja",
+          "language": "ja",
+          "set": "P",
+          "rarity": "UC",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP15-074_p1.png",
+          "cardSet": "プロモーションパックEX vol.5",
+          "source": "bandai"
         }
       ]
     },
     {
       "number": "OP15-075",
       "name": "El Thor",
+      "names": {
+        "en": "El Thor",
+        "ja": "神の裁き"
+      },
       "category": "Event",
       "colors": [
         "Purple"
@@ -5113,12 +6633,42 @@
               "category": "event"
             }
           ]
+        },
+        {
+          "id": "OP15-075~ja",
+          "language": "ja",
+          "set": "OP15",
+          "rarity": "UC",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP15-075.png",
+          "cardSet": "ブースターパック 神の島の冒険【OP-15】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
+        },
+        {
+          "id": "OP15-075_p1~ja",
+          "language": "ja",
+          "set": "OTHER",
+          "rarity": "UC",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP15-075_p1.png",
+          "cardSet": "プレミアムカードコレクション - ベストセレクション vol.6 -",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "OP15-076",
       "name": "Lightning Beast Kiten",
+      "names": {
+        "en": "Lightning Beast Kiten",
+        "ja": "雷獣"
+      },
       "category": "Event",
       "colors": [
         "Purple"
@@ -5201,12 +6751,29 @@
               "category": "event"
             }
           ]
+        },
+        {
+          "id": "OP15-076~ja",
+          "language": "ja",
+          "set": "OP15",
+          "rarity": "UC",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP15-076.png",
+          "cardSet": "ブースターパック 神の島の冒険【OP-15】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP15-077",
       "name": "Lightning Dragon",
+      "names": {
+        "en": "Lightning Dragon",
+        "ja": "雷龍"
+      },
       "category": "Event",
       "colors": [
         "Purple"
@@ -5261,12 +6828,42 @@
           "treatments": [
             "alternate_art"
           ]
+        },
+        {
+          "id": "OP15-077~ja",
+          "language": "ja",
+          "set": "OP15",
+          "rarity": "R",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP15-077.png",
+          "cardSet": "ブースターパック 神の島の冒険【OP-15】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP15-077_p1~ja",
+          "language": "ja",
+          "set": "OP15",
+          "rarity": "R",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP15-077_p1.png",
+          "cardSet": "ブースターパック 神の島の冒険【OP-15】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "OP15-078",
       "name": "Mamaragan",
+      "names": {
+        "en": "Mamaragan",
+        "ja": "万雷"
+      },
       "category": "Event",
       "colors": [
         "Purple"
@@ -5322,12 +6919,42 @@
             "alternate_art"
           ],
           "artist": "Hachi Takashi"
+        },
+        {
+          "id": "OP15-078~ja",
+          "language": "ja",
+          "set": "OP15",
+          "rarity": "SR",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP15-078.png",
+          "cardSet": "ブースターパック 神の島の冒険【OP-15】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP15-078_p1~ja",
+          "language": "ja",
+          "set": "OP15",
+          "rarity": "SR",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP15-078_p1.png",
+          "cardSet": "ブースターパック 神の島の冒険【OP-15】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "OP15-079",
       "name": "Absalom",
+      "names": {
+        "en": "Absalom",
+        "ja": "アブサロム"
+      },
       "category": "Character",
       "cost": 4,
       "power": 5000,
@@ -5392,12 +7019,29 @@
             }
           ],
           "artist": "Tanaka Kenichi"
+        },
+        {
+          "id": "OP15-079~ja",
+          "language": "ja",
+          "set": "OP15",
+          "rarity": "C",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP15-079.png",
+          "cardSet": "ブースターパック 神の島の冒険【OP-15】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP15-080",
       "name": "Oars",
+      "names": {
+        "en": "Oars",
+        "ja": "オーズ"
+      },
       "category": "Character",
       "cost": 4,
       "counter": 1000,
@@ -5434,12 +7078,29 @@
             "distance": 6
           },
           "artist": "nukadokomogera"
+        },
+        {
+          "id": "OP15-080~ja",
+          "language": "ja",
+          "set": "OP15",
+          "rarity": "R",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP15-080.png",
+          "cardSet": "ブースターパック 神の島の冒険【OP-15】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "OP15-081",
       "name": "Sanji",
+      "names": {
+        "en": "Sanji",
+        "ja": "サンジ"
+      },
       "category": "Character",
       "cost": 1,
       "power": 2000,
@@ -5504,12 +7165,29 @@
             }
           ],
           "artist": "Naruse Uroko"
+        },
+        {
+          "id": "OP15-081~ja",
+          "language": "ja",
+          "set": "OP15",
+          "rarity": "UC",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP15-081.png",
+          "cardSet": "ブースターパック 神の島の冒険【OP-15】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP15-082",
       "name": "Charlotte Lola",
+      "names": {
+        "en": "Charlotte Lola",
+        "ja": "シャーロット・ローラ"
+      },
       "category": "Character",
       "cost": 4,
       "power": 5000,
@@ -5574,12 +7252,29 @@
             }
           ],
           "artist": "Hatori Kyoka"
+        },
+        {
+          "id": "OP15-082~ja",
+          "language": "ja",
+          "set": "OP15",
+          "rarity": "C",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP15-082.png",
+          "cardSet": "ブースターパック 神の島の冒険【OP-15】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP15-083",
       "name": "Spoil",
+      "names": {
+        "en": "Spoil",
+        "ja": "スポイル"
+      },
       "category": "Character",
       "cost": 1,
       "counter": 2000,
@@ -5643,12 +7338,29 @@
             }
           ],
           "artist": "Katsuo Tadano"
+        },
+        {
+          "id": "OP15-083~ja",
+          "language": "ja",
+          "set": "OP15",
+          "rarity": "C",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP15-083.png",
+          "cardSet": "ブースターパック 神の島の冒険【OP-15】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP15-084",
       "name": "Dr. Hogback",
+      "names": {
+        "en": "Dr. Hogback",
+        "ja": "ドクトル・ホグバック"
+      },
       "category": "Character",
       "cost": 1,
       "power": 2000,
@@ -5713,12 +7425,29 @@
             }
           ],
           "artist": "tasaka"
+        },
+        {
+          "id": "OP15-084~ja",
+          "language": "ja",
+          "set": "OP15",
+          "rarity": "C",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP15-084.png",
+          "cardSet": "ブースターパック 神の島の冒険【OP-15】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP15-085",
       "name": "Tony Tony.Chopper",
+      "names": {
+        "en": "Tony Tony.Chopper",
+        "ja": "トニートニー・チョッパー"
+      },
       "category": "Character",
       "cost": 2,
       "power": 2000,
@@ -5756,12 +7485,29 @@
             "distance": 4
           },
           "artist": "sacanahen"
+        },
+        {
+          "id": "OP15-085~ja",
+          "language": "ja",
+          "set": "OP15",
+          "rarity": "R",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP15-085.png",
+          "cardSet": "ブースターパック 神の島の冒険【OP-15】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "OP15-086",
       "name": "Nami",
+      "names": {
+        "en": "Nami",
+        "ja": "ナミ"
+      },
       "category": "Character",
       "cost": 8,
       "power": 6000,
@@ -5823,12 +7569,42 @@
             "alternate_art"
           ],
           "artist": "NAKAuMA"
+        },
+        {
+          "id": "OP15-086~ja",
+          "language": "ja",
+          "set": "OP15",
+          "rarity": "SR",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP15-086.png",
+          "cardSet": "ブースターパック 神の島の冒険【OP-15】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP15-086_p1~ja",
+          "language": "ja",
+          "set": "OP15",
+          "rarity": "SR",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP15-086_p1.png",
+          "cardSet": "ブースターパック 神の島の冒険【OP-15】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "OP15-087",
       "name": "Nico Robin",
+      "names": {
+        "en": "Nico Robin",
+        "ja": "ニコ・ロビン"
+      },
       "category": "Character",
       "cost": 5,
       "power": 7000,
@@ -5892,12 +7668,29 @@
             }
           ],
           "artist": "kicori"
+        },
+        {
+          "id": "OP15-087~ja",
+          "language": "ja",
+          "set": "OP15",
+          "rarity": "C",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP15-087.png",
+          "cardSet": "ブースターパック 神の島の冒険【OP-15】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP15-088",
       "name": "Pirates Docking Six",
+      "names": {
+        "en": "Pirates Docking Six",
+        "ja": "パイレーツドッキング6"
+      },
       "category": "Character",
       "cost": 5,
       "power": 7000,
@@ -5933,12 +7726,29 @@
             "distance": 6
           },
           "artist": "phima"
+        },
+        {
+          "id": "OP15-088~ja",
+          "language": "ja",
+          "set": "OP15",
+          "rarity": "R",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP15-088.png",
+          "cardSet": "ブースターパック 神の島の冒険【OP-15】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "OP15-089",
       "name": "Franky",
+      "names": {
+        "en": "Franky",
+        "ja": "フランキー"
+      },
       "category": "Character",
       "cost": 5,
       "power": 6000,
@@ -6003,12 +7813,29 @@
             }
           ],
           "artist": "SHINRA AGENCY Co. Ltd."
+        },
+        {
+          "id": "OP15-089~ja",
+          "language": "ja",
+          "set": "OP15",
+          "rarity": "UC",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP15-089.png",
+          "cardSet": "ブースターパック 神の島の冒険【OP-15】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP15-090",
       "name": "Perona",
+      "names": {
+        "en": "Perona",
+        "ja": "ペローナ"
+      },
       "category": "Character",
       "cost": 1,
       "power": 2000,
@@ -6073,12 +7900,29 @@
             }
           ],
           "artist": "kusunoki harui"
+        },
+        {
+          "id": "OP15-090~ja",
+          "language": "ja",
+          "set": "OP15",
+          "rarity": "UC",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP15-090.png",
+          "cardSet": "ブースターパック 神の島の冒険【OP-15】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP15-091",
       "name": "Margarita",
+      "names": {
+        "en": "Margarita",
+        "ja": "マルガリータ"
+      },
       "category": "Character",
       "cost": 1,
       "counter": 2000,
@@ -6142,12 +7986,29 @@
             }
           ],
           "artist": "Sunohara"
+        },
+        {
+          "id": "OP15-091~ja",
+          "language": "ja",
+          "set": "OP15",
+          "rarity": "C",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP15-091.png",
+          "cardSet": "ブースターパック 神の島の冒険【OP-15】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP15-092",
       "name": "Monkey.D.Luffy",
+      "names": {
+        "en": "Monkey.D.Luffy",
+        "ja": "モンキー・Ｄ・ルフィ"
+      },
       "category": "Character",
       "cost": 7,
       "power": 7000,
@@ -6236,12 +8097,42 @@
               "category": "championship"
             }
           ]
+        },
+        {
+          "id": "OP15-092~ja",
+          "language": "ja",
+          "set": "OP15",
+          "rarity": "R",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP15-092.png",
+          "cardSet": "ブースターパック 神の島の冒険【OP-15】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP15-092_p1~ja",
+          "language": "ja",
+          "set": "OP15",
+          "rarity": "R",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP15-092_p1.png",
+          "cardSet": "ブースターパック 神の島の冒険【OP-15】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "OP15-093",
       "name": "The Risky Brothers",
+      "names": {
+        "en": "The Risky Brothers",
+        "ja": "リスキー兄弟"
+      },
       "category": "Character",
       "cost": 1,
       "power": 2000,
@@ -6306,12 +8197,29 @@
             }
           ],
           "artist": "SHINRA AGENCY Co. Ltd."
+        },
+        {
+          "id": "OP15-093~ja",
+          "language": "ja",
+          "set": "OP15",
+          "rarity": "C",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP15-093.png",
+          "cardSet": "ブースターパック 神の島の冒険【OP-15】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP15-094",
       "name": "Roronoa Zoro",
+      "names": {
+        "en": "Roronoa Zoro",
+        "ja": "ロロノア・ゾロ"
+      },
       "category": "Character",
       "cost": 2,
       "power": 1000,
@@ -6402,12 +8310,29 @@
             }
           ],
           "artist": "Studio Vigor Co. Ltd"
+        },
+        {
+          "id": "OP15-094~ja",
+          "language": "ja",
+          "set": "OP15",
+          "rarity": "UC",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP15-094.png",
+          "cardSet": "ブースターパック 神の島の冒険【OP-15】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP15-095",
       "name": "Gum-Gum Storm",
+      "names": {
+        "en": "Gum-Gum Storm",
+        "ja": "ゴムゴムの暴風雨"
+      },
       "category": "Event",
       "cost": 1,
       "colors": [
@@ -6465,12 +8390,29 @@
               "category": "event"
             }
           ]
+        },
+        {
+          "id": "OP15-095~ja",
+          "language": "ja",
+          "set": "OP15",
+          "rarity": "UC",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP15-095.png",
+          "cardSet": "ブースターパック 神の島の冒険【OP-15】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP15-096",
       "name": "Swallow Bond en Avant",
+      "names": {
+        "en": "Swallow Bond en Avant",
+        "ja": "飛燕ボンナバン"
+      },
       "category": "Event",
       "colors": [
         "Black"
@@ -6500,12 +8442,29 @@
             "match": "image-only-candidate",
             "distance": 6
           }
+        },
+        {
+          "id": "OP15-096~ja",
+          "language": "ja",
+          "set": "OP15",
+          "rarity": "R",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP15-096.png",
+          "cardSet": "ブースターパック 神の島の冒険【OP-15】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "OP15-097",
       "name": "I Find It Embarrassing as a Human Being",
+      "names": {
+        "en": "I Find It Embarrassing as a Human Being",
+        "ja": "人として恥ずかしいわ"
+      },
       "category": "Event",
       "cost": 1,
       "colors": [
@@ -6563,12 +8522,29 @@
               "category": "event"
             }
           ]
+        },
+        {
+          "id": "OP15-097~ja",
+          "language": "ja",
+          "set": "OP15",
+          "rarity": "C",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP15-097.png",
+          "cardSet": "ブースターパック 神の島の冒険【OP-15】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP15-098",
       "name": "Monkey.D.Luffy",
+      "names": {
+        "en": "Monkey.D.Luffy",
+        "ja": "モンキー・Ｄ・ルフィ"
+      },
       "category": "Leader",
       "power": 5000,
       "life": 5,
@@ -6654,12 +8630,42 @@
             "distance": 12
           },
           "artist": "yukiya/INO Ltd."
+        },
+        {
+          "id": "OP15-098~ja",
+          "language": "ja",
+          "set": "OP15",
+          "rarity": "L",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP15-098.png",
+          "cardSet": "ブースターパック 神の島の冒険【OP-15】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
+        },
+        {
+          "id": "OP15-098_p1~ja",
+          "language": "ja",
+          "set": "OP15",
+          "rarity": "L",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP15-098_p1.png",
+          "cardSet": "ブースターパック 神の島の冒険【OP-15】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "OP15-099",
       "name": "Urouge",
+      "names": {
+        "en": "Urouge",
+        "ja": "ウルージ"
+      },
       "category": "Character",
       "cost": 6,
       "power": 7000,
@@ -6726,12 +8732,29 @@
             }
           ],
           "artist": "kankurou"
+        },
+        {
+          "id": "OP15-099~ja",
+          "language": "ja",
+          "set": "OP15",
+          "rarity": "UC",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP15-099.png",
+          "cardSet": "ブースターパック 神の島の冒険【OP-15】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP15-100",
       "name": "Kamakiri",
+      "names": {
+        "en": "Kamakiri",
+        "ja": "カマキリ"
+      },
       "category": "Character",
       "cost": 5,
       "power": 6000,
@@ -6797,12 +8820,29 @@
             }
           ],
           "artist": "Koushi Rokushiro"
+        },
+        {
+          "id": "OP15-100~ja",
+          "language": "ja",
+          "set": "OP15",
+          "rarity": "C",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP15-100.png",
+          "cardSet": "ブースターパック 神の島の冒険【OP-15】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP15-101",
       "name": "Kalgara",
+      "names": {
+        "en": "Kalgara",
+        "ja": "カルガラ"
+      },
       "category": "Character",
       "cost": 3,
       "power": 5000,
@@ -6868,12 +8908,29 @@
             }
           ],
           "artist": "Morechand"
+        },
+        {
+          "id": "OP15-101~ja",
+          "language": "ja",
+          "set": "OP15",
+          "rarity": "UC",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP15-101.png",
+          "cardSet": "ブースターパック 神の島の冒険【OP-15】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP15-102",
       "name": "Gan.Fall",
+      "names": {
+        "en": "Gan.Fall",
+        "ja": "ガン・フォール"
+      },
       "category": "Character",
       "cost": 4,
       "power": 4000,
@@ -6930,12 +8987,29 @@
           "finishes": [
             "nonfoil"
           ]
+        },
+        {
+          "id": "OP15-102~ja",
+          "language": "ja",
+          "set": "OP15",
+          "rarity": "R",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP15-102.png",
+          "cardSet": "ブースターパック 神の島の冒険【OP-15】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "OP15-103",
       "name": "Genbo",
+      "names": {
+        "en": "Genbo",
+        "ja": "ゲンボウ"
+      },
       "category": "Character",
       "cost": 3,
       "power": 4000,
@@ -7021,12 +9095,29 @@
           "finishes": [
             "nonfoil"
           ]
+        },
+        {
+          "id": "OP15-103~ja",
+          "language": "ja",
+          "set": "OP15",
+          "rarity": "C",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP15-103.png",
+          "cardSet": "ブースターパック 神の島の冒険【OP-15】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP15-104",
       "name": "Conis",
+      "names": {
+        "en": "Conis",
+        "ja": "コニス"
+      },
       "category": "Character",
       "cost": 1,
       "counter": 2000,
@@ -7090,12 +9181,29 @@
             }
           ],
           "artist": "Nekobayashi"
+        },
+        {
+          "id": "OP15-104~ja",
+          "language": "ja",
+          "set": "OP15",
+          "rarity": "C",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP15-104.png",
+          "cardSet": "ブースターパック 神の島の冒険【OP-15】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP15-105",
       "name": "Jewelry Bonney",
+      "names": {
+        "en": "Jewelry Bonney",
+        "ja": "ジュエリー・ボニー"
+      },
       "category": "Character",
       "cost": 1,
       "power": 2000,
@@ -7161,12 +9269,29 @@
             }
           ],
           "artist": "sho"
+        },
+        {
+          "id": "OP15-105~ja",
+          "language": "ja",
+          "set": "OP15",
+          "rarity": "UC",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP15-105.png",
+          "cardSet": "ブースターパック 神の島の冒険【OP-15】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP15-106",
       "name": "Octoballoon",
+      "names": {
+        "en": "Octoballoon",
+        "ja": "タコバルーン"
+      },
       "category": "Character",
       "cost": 2,
       "counter": 1000,
@@ -7231,12 +9356,29 @@
             }
           ],
           "artist": "Nakamaru"
+        },
+        {
+          "id": "OP15-106~ja",
+          "language": "ja",
+          "set": "OP15",
+          "rarity": "C",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP15-106.png",
+          "cardSet": "ブースターパック 神の島の冒険【OP-15】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP15-107",
       "name": "Tony Tony.Chopper",
+      "names": {
+        "en": "Tony Tony.Chopper",
+        "ja": "トニートニー・チョッパー"
+      },
       "category": "Character",
       "cost": 4,
       "power": 6000,
@@ -7323,12 +9465,29 @@
           "finishes": [
             "nonfoil"
           ]
+        },
+        {
+          "id": "OP15-107~ja",
+          "language": "ja",
+          "set": "OP15",
+          "rarity": "UC",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP15-107.png",
+          "cardSet": "ブースターパック 神の島の冒険【OP-15】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP15-108",
       "name": "Nami",
+      "names": {
+        "en": "Nami",
+        "ja": "ナミ"
+      },
       "category": "Character",
       "cost": 1,
       "power": 2000,
@@ -7471,12 +9630,42 @@
           "finishes": [
             "nonfoil"
           ]
+        },
+        {
+          "id": "OP15-108~ja",
+          "language": "ja",
+          "set": "OP15",
+          "rarity": "R",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP15-108.png",
+          "cardSet": "ブースターパック 神の島の冒険【OP-15】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP15-108_p1~ja",
+          "language": "ja",
+          "set": "OTHER",
+          "rarity": "R",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP15-108_p1.png",
+          "cardSet": "プレミアムカードコレクション - ベストセレクション vol.6 -",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "OP15-109",
       "name": "Nico Robin",
+      "names": {
+        "en": "Nico Robin",
+        "ja": "ニコ・ロビン"
+      },
       "category": "Character",
       "cost": 7,
       "power": 7000,
@@ -7590,12 +9779,42 @@
           "finishes": [
             "nonfoil"
           ]
+        },
+        {
+          "id": "OP15-109~ja",
+          "language": "ja",
+          "set": "OP15",
+          "rarity": "R",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP15-109.png",
+          "cardSet": "ブースターパック 神の島の冒険【OP-15】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP15-109_p1~ja",
+          "language": "ja",
+          "set": "OP15",
+          "rarity": "R",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP15-109_p1.png",
+          "cardSet": "ブースターパック 神の島の冒険【OP-15】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "OP15-110",
       "name": "Braham",
+      "names": {
+        "en": "Braham",
+        "ja": "ブラハム"
+      },
       "category": "Character",
       "cost": 3,
       "power": 4000,
@@ -7661,12 +9880,29 @@
             }
           ],
           "artist": "Yasushi Yamaguchi"
+        },
+        {
+          "id": "OP15-110~ja",
+          "language": "ja",
+          "set": "OP15",
+          "rarity": "C",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP15-110.png",
+          "cardSet": "ブースターパック 神の島の冒険【OP-15】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP15-111",
       "name": "Mont Blanc Noland",
+      "names": {
+        "en": "Mont Blanc Noland",
+        "ja": "モンブラン・ノーランド"
+      },
       "category": "Character",
       "cost": 4,
       "power": 5000,
@@ -7732,12 +9968,29 @@
             }
           ],
           "artist": "kankurou"
+        },
+        {
+          "id": "OP15-111~ja",
+          "language": "ja",
+          "set": "OP15",
+          "rarity": "C",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP15-111.png",
+          "cardSet": "ブースターパック 神の島の冒険【OP-15】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP15-112",
       "name": "Raki",
+      "names": {
+        "en": "Raki",
+        "ja": "ラキ"
+      },
       "category": "Character",
       "cost": 4,
       "power": 4000,
@@ -7803,12 +10056,29 @@
             }
           ],
           "artist": "Misa Matoki"
+        },
+        {
+          "id": "OP15-112~ja",
+          "language": "ja",
+          "set": "OP15",
+          "rarity": "C",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP15-112.png",
+          "cardSet": "ブースターパック 神の島の冒険【OP-15】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP15-113",
       "name": "Roronoa Zoro",
+      "names": {
+        "en": "Roronoa Zoro",
+        "ja": "ロロノア・ゾロ"
+      },
       "category": "Character",
       "cost": 4,
       "power": 6000,
@@ -7917,12 +10187,52 @@
               "category": "championship"
             }
           ]
+        },
+        {
+          "id": "OP15-113~ja",
+          "language": "ja",
+          "set": "OP15",
+          "rarity": "SR",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP15-113.png",
+          "cardSet": "ブースターパック 神の島の冒険【OP-15】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP15-113_p1~ja",
+          "language": "ja",
+          "set": "OP15",
+          "rarity": "SR",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP15-113_p1.png",
+          "cardSet": "ブースターパック 神の島の冒険【OP-15】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP15-113_p2~ja",
+          "language": "ja",
+          "set": "P",
+          "rarity": "SR",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP15-113_p2.png",
+          "cardSet": "フラッグシップバトル2026 7月ベスト8記念品",
+          "source": "bandai"
         }
       ]
     },
     {
       "number": "OP15-114",
       "name": "Wyper",
+      "names": {
+        "en": "Wyper",
+        "ja": "ワイパー"
+      },
       "category": "Character",
       "cost": 5,
       "power": 6000,
@@ -8006,12 +10316,42 @@
           "finishes": [
             "nonfoil"
           ]
+        },
+        {
+          "id": "OP15-114~ja",
+          "language": "ja",
+          "set": "OP15",
+          "rarity": "SR",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP15-114.png",
+          "cardSet": "ブースターパック 神の島の冒険【OP-15】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP15-114_p1~ja",
+          "language": "ja",
+          "set": "OP15",
+          "rarity": "SR",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP15-114_p1.png",
+          "cardSet": "ブースターパック 神の島の冒険【OP-15】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "OP15-115",
       "name": "Impact Dial",
+      "names": {
+        "en": "Impact Dial",
+        "ja": "衝撃貝"
+      },
       "category": "Event",
       "cost": 2,
       "colors": [
@@ -8070,12 +10410,29 @@
               "category": "event"
             }
           ]
+        },
+        {
+          "id": "OP15-115~ja",
+          "language": "ja",
+          "set": "OP15",
+          "rarity": "C",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP15-115.png",
+          "cardSet": "ブースターパック 神の島の冒険【OP-15】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP15-116",
       "name": "Gum-Gum Golden Rifle",
+      "names": {
+        "en": "Gum-Gum Golden Rifle",
+        "ja": "ゴムゴムの黄金回転弾"
+      },
       "category": "Event",
       "cost": 1,
       "colors": [
@@ -8152,12 +10509,42 @@
           "finishes": [
             "nonfoil"
           ]
+        },
+        {
+          "id": "OP15-116~ja",
+          "language": "ja",
+          "set": "OP15",
+          "rarity": "R",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP15-116.png",
+          "cardSet": "ブースターパック 神の島の冒険【OP-15】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP15-116_p1~ja",
+          "language": "ja",
+          "set": "OP15",
+          "rarity": "R",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP15-116_p1.png",
+          "cardSet": "ブースターパック 神の島の冒険【OP-15】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "OP15-117",
       "name": "Heso!!",
+      "names": {
+        "en": "Heso!!",
+        "ja": "へそ!!"
+      },
       "category": "Event",
       "cost": 1,
       "colors": [
@@ -8215,12 +10602,29 @@
               "category": "event"
             }
           ]
+        },
+        {
+          "id": "OP15-117~ja",
+          "language": "ja",
+          "set": "OP15",
+          "rarity": "UC",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP15-117.png",
+          "cardSet": "ブースターパック 神の島の冒険【OP-15】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP15-118",
       "name": "Enel",
+      "names": {
+        "en": "Enel",
+        "ja": "エネル"
+      },
       "category": "Character",
       "cost": 6,
       "power": 8000,
@@ -8307,12 +10711,55 @@
           "treatments": [
             "manga"
           ]
+        },
+        {
+          "id": "OP15-118~ja",
+          "language": "ja",
+          "set": "OP15",
+          "rarity": "SEC",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP15-118.png",
+          "cardSet": "ブースターパック 神の島の冒険【OP-15】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP15-118_p1~ja",
+          "language": "ja",
+          "set": "OP15",
+          "rarity": "SEC",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP15-118_p1.png",
+          "cardSet": "ブースターパック 神の島の冒険【OP-15】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP15-118_p2~ja",
+          "language": "ja",
+          "set": "OP15",
+          "rarity": "SEC",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP15-118_p2.png",
+          "cardSet": "ブースターパック 神の島の冒険【OP-15】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "OP15-119",
       "name": "Monkey.D.Luffy",
+      "names": {
+        "en": "Monkey.D.Luffy",
+        "ja": "モンキー・Ｄ・ルフィ"
+      },
       "category": "Character",
       "cost": 5,
       "power": 7000,
@@ -8392,6 +10839,32 @@
             "match": "minted",
             "distance": null
           }
+        },
+        {
+          "id": "OP15-119~ja",
+          "language": "ja",
+          "set": "OP15",
+          "rarity": "SEC",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP15-119.png",
+          "cardSet": "ブースターパック 神の島の冒険【OP-15】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP15-119_p1~ja",
+          "language": "ja",
+          "set": "OP15",
+          "rarity": "SEC",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP15-119_p1.png",
+          "cardSet": "ブースターパック 神の島の冒険【OP-15】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     }

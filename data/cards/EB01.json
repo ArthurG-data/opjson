@@ -3,6 +3,10 @@
     {
       "number": "EB01-001",
       "name": "Kouzuki Oden",
+      "names": {
+        "en": "Kouzuki Oden",
+        "ja": "光月おでん"
+      },
       "category": "Leader",
       "power": 5000,
       "life": 4,
@@ -87,12 +91,52 @@
           "treatments": [
             "sp"
           ]
+        },
+        {
+          "id": "EB01-001~ja",
+          "language": "ja",
+          "set": "EB01",
+          "rarity": "L",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/EB01-001.png",
+          "cardSet": "メモリアルコレクション【EB-01】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
+        },
+        {
+          "id": "EB01-001_p1~ja",
+          "language": "ja",
+          "set": "EB01",
+          "rarity": "L",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/EB01-001_p1.png",
+          "cardSet": "メモリアルコレクション【EB-01】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "EB01-001_p2~ja",
+          "language": "ja",
+          "set": "EB02",
+          "rarity": "L",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/EB01-001_p2.png",
+          "cardSet": "エクストラブースター Anime 25th collection【EB-02】",
+          "source": "bandai"
         }
       ]
     },
     {
       "number": "EB01-002",
       "name": "Izo",
+      "names": {
+        "en": "Izo",
+        "ja": "イゾウ"
+      },
       "category": "Character",
       "cost": 5,
       "power": 7000,
@@ -129,12 +173,29 @@
             "distance": 4
           },
           "artist": "Kaito Shibano"
+        },
+        {
+          "id": "EB01-002~ja",
+          "language": "ja",
+          "set": "EB01",
+          "rarity": "R",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/EB01-002.png",
+          "cardSet": "メモリアルコレクション【EB-01】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "EB01-003",
       "name": "Kid & Killer",
+      "names": {
+        "en": "Kid & Killer",
+        "ja": "キッド&キラー"
+      },
       "category": "Character",
       "cost": 4,
       "power": 5000,
@@ -458,12 +519,65 @@
           "finishes": [
             "nonfoil"
           ]
+        },
+        {
+          "id": "EB01-003~ja",
+          "language": "ja",
+          "set": "EB01",
+          "rarity": "R",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/EB01-003.png",
+          "cardSet": "メモリアルコレクション【EB-01】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "EB01-003_p1~ja",
+          "language": "ja",
+          "set": "EB01",
+          "rarity": "R",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/EB01-003_p1.png",
+          "cardSet": "メモリアルコレクション【EB-01】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "EB01-003_p2~ja",
+          "language": "ja",
+          "set": "P",
+          "rarity": "R",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/EB01-003_p2.png",
+          "cardSet": "Vジャンプ10月特大号応募者全員サービス（2024年8月21日売）",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "EB01-003_p3~ja",
+          "language": "ja",
+          "set": "OP14",
+          "rarity": "SP CARD",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/EB01-003_p3.png",
+          "cardSet": "ブースターパック 蒼海の七傑【OP-14】",
+          "source": "bandai"
         }
       ]
     },
     {
       "number": "EB01-004",
       "name": "Koza",
+      "names": {
+        "en": "Koza",
+        "ja": "コーザ"
+      },
       "category": "Character",
       "cost": 2,
       "power": 3000,
@@ -500,12 +614,29 @@
             "distance": 3
           },
           "artist": "Nekobayashi"
+        },
+        {
+          "id": "EB01-004~ja",
+          "language": "ja",
+          "set": "EB01",
+          "rarity": "C",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/EB01-004.png",
+          "cardSet": "メモリアルコレクション【EB-01】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "EB01-005",
       "name": "Doma",
+      "names": {
+        "en": "Doma",
+        "ja": "ドーマ"
+      },
       "category": "Character",
       "cost": 1,
       "power": 3000,
@@ -542,12 +673,29 @@
             "distance": 4
           },
           "artist": "Morechand"
+        },
+        {
+          "id": "EB01-005~ja",
+          "language": "ja",
+          "set": "EB01",
+          "rarity": "C",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/EB01-005.png",
+          "cardSet": "メモリアルコレクション【EB-01】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "EB01-006",
       "name": "Tony Tony.Chopper",
+      "names": {
+        "en": "Tony Tony.Chopper",
+        "ja": "トニートニー・チョッパー"
+      },
       "category": "Character",
       "cost": 3,
       "power": 4000,
@@ -692,12 +840,88 @@
             "manga"
           ],
           "artOf": "EB01-006_p2"
+        },
+        {
+          "id": "EB01-006~ja",
+          "language": "ja",
+          "set": "EB01",
+          "rarity": "SR",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/EB01-006.png",
+          "cardSet": "メモリアルコレクション【EB-01】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "EB01-006_p1~ja",
+          "language": "ja",
+          "set": "EB01",
+          "rarity": "SR",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/EB01-006_p1.png",
+          "cardSet": "メモリアルコレクション【EB-01】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "EB01-006_p2~ja",
+          "language": "ja",
+          "set": "EB01",
+          "rarity": "SR",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/EB01-006_p2.png",
+          "cardSet": "メモリアルコレクション【EB-01】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "EB01-006_p4~ja",
+          "language": "ja",
+          "set": "P",
+          "rarity": "SR",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/EB01-006_p4.png",
+          "cardSet": "始めようキャンペーン プロモーションパック",
+          "source": "bandai"
+        },
+        {
+          "id": "EB01-006_p5~ja",
+          "language": "ja",
+          "set": "P",
+          "rarity": "SR",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/EB01-006_p5.png",
+          "cardSet": "始めようキャンペーン プロモーションパック",
+          "source": "bandai"
+        },
+        {
+          "id": "EB01-006_r1~ja",
+          "language": "ja",
+          "set": "PRB01",
+          "rarity": "SR",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/EB01-006_r1.png",
+          "cardSet": "ONE PIECE CARD THE BEST【PRB-01】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "EB01-007",
       "name": "Yamato",
+      "names": {
+        "en": "Yamato",
+        "ja": "ヤマト"
+      },
       "category": "Character",
       "cost": 5,
       "power": 5000,
@@ -770,12 +994,39 @@
               "category": "retail"
             }
           ]
+        },
+        {
+          "id": "EB01-007~ja",
+          "language": "ja",
+          "set": "EB01",
+          "rarity": "C",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/EB01-007.png",
+          "cardSet": "メモリアルコレクション【EB-01】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
+        },
+        {
+          "id": "EB01-007_p1~ja",
+          "language": "ja",
+          "set": "OTHER",
+          "rarity": "C",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/EB01-007_p1.png",
+          "cardSet": "プレミアムカードコレクション - ベストセレクション vol.4 -",
+          "source": "bandai"
         }
       ]
     },
     {
       "number": "EB01-008",
       "name": "LittleOars Jr.",
+      "names": {
+        "en": "LittleOars Jr.",
+        "ja": "リトルオーズJr."
+      },
       "category": "Character",
       "cost": 6,
       "power": 7000,
@@ -813,12 +1064,29 @@
             "distance": 1
           },
           "artist": "Yasushi Yamaguchi"
+        },
+        {
+          "id": "EB01-008~ja",
+          "language": "ja",
+          "set": "EB01",
+          "rarity": "R",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/EB01-008.png",
+          "cardSet": "メモリアルコレクション【EB-01】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "EB01-009",
       "name": "Just Shut Up and Come with Us!!!!",
+      "names": {
+        "en": "Just Shut Up and Come with Us!!!!",
+        "ja": "うるせェ!!!いこう!!!!"
+      },
       "category": "Event",
       "cost": 1,
       "colors": [
@@ -904,12 +1172,55 @@
             "reprint"
           ],
           "artOf": "EB01-009"
+        },
+        {
+          "id": "EB01-009~ja",
+          "language": "ja",
+          "set": "EB01",
+          "rarity": "C",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/EB01-009.png",
+          "cardSet": "メモリアルコレクション【EB-01】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
+        },
+        {
+          "id": "EB01-009_p1~ja",
+          "language": "ja",
+          "set": "PRB02",
+          "rarity": "C",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/EB01-009_p1.png",
+          "cardSet": "ONE PIECE CARD THE BEST vol.2【PRB-02】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "EB01-009_r1~ja",
+          "language": "ja",
+          "set": "PRB02",
+          "rarity": "C",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/EB01-009_r1.png",
+          "cardSet": "ONE PIECE CARD THE BEST vol.2【PRB-02】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "EB01-010",
       "name": "There's No Way You Could Defeat Me!!",
+      "names": {
+        "en": "There's No Way You Could Defeat Me!!",
+        "ja": "お前がおれに!!!勝てるわけねェだろうが!!!!"
+      },
       "category": "Event",
       "cost": 3,
       "colors": [
@@ -941,12 +1252,29 @@
             "match": "image-only-candidate",
             "distance": 2
           }
+        },
+        {
+          "id": "EB01-010~ja",
+          "language": "ja",
+          "set": "EB01",
+          "rarity": "R",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/EB01-010.png",
+          "cardSet": "メモリアルコレクション【EB-01】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "EB01-011",
       "name": "Mini-Merry",
+      "names": {
+        "en": "Mini-Merry",
+        "ja": "ミニメリー2号"
+      },
       "category": "Stage",
       "cost": 1,
       "colors": [
@@ -977,12 +1305,29 @@
             "match": "image-only-candidate",
             "distance": 0
           }
+        },
+        {
+          "id": "EB01-011~ja",
+          "language": "ja",
+          "set": "EB01",
+          "rarity": "C",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/EB01-011.png",
+          "cardSet": "メモリアルコレクション【EB-01】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "EB01-012",
       "name": "Cavendish",
+      "names": {
+        "en": "Cavendish",
+        "ja": "キャベンディッシュ"
+      },
       "category": "Character",
       "cost": 5,
       "power": 6000,
@@ -1121,12 +1466,65 @@
           "finishes": [
             "nonfoil"
           ]
+        },
+        {
+          "id": "EB01-012~ja",
+          "language": "ja",
+          "set": "EB01",
+          "rarity": "SR",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/EB01-012.png",
+          "cardSet": "メモリアルコレクション【EB-01】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "EB01-012_p1~ja",
+          "language": "ja",
+          "set": "EB01",
+          "rarity": "SR",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/EB01-012_p1.png",
+          "cardSet": "メモリアルコレクション【EB-01】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "EB01-012_p2~ja",
+          "language": "ja",
+          "set": "P",
+          "rarity": "SR",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/EB01-012_p2.png",
+          "cardSet": "フラッグシップバトル2024 4月ベスト8記念品",
+          "source": "bandai"
+        },
+        {
+          "id": "EB01-012_r1~ja",
+          "language": "ja",
+          "set": "PRB02",
+          "rarity": "SR",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/EB01-012_r1.png",
+          "cardSet": "ONE PIECE CARD THE BEST vol.2【PRB-02】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "EB01-013",
       "name": "Kouzuki Hiyori",
+      "names": {
+        "en": "Kouzuki Hiyori",
+        "ja": "光月日和"
+      },
       "category": "Character",
       "cost": 4,
       "counter": 1000,
@@ -1189,12 +1587,42 @@
             "alternate_art"
           ],
           "artist": "Sunohara"
+        },
+        {
+          "id": "EB01-013~ja",
+          "language": "ja",
+          "set": "EB01",
+          "rarity": "R",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/EB01-013.png",
+          "cardSet": "メモリアルコレクション【EB-01】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "EB01-013_p1~ja",
+          "language": "ja",
+          "set": "EB01",
+          "rarity": "R",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/EB01-013_p1.png",
+          "cardSet": "メモリアルコレクション【EB-01】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "EB01-014",
       "name": "Sanji",
+      "names": {
+        "en": "Sanji",
+        "ja": "サンジ"
+      },
       "category": "Character",
       "cost": 4,
       "power": 5000,
@@ -1317,12 +1745,42 @@
               "category": "event"
             }
           ]
+        },
+        {
+          "id": "EB01-014~ja",
+          "language": "ja",
+          "set": "EB01",
+          "rarity": "R",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/EB01-014.png",
+          "cardSet": "メモリアルコレクション【EB-01】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "EB01-014_p1~ja",
+          "language": "ja",
+          "set": "P",
+          "rarity": "R",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/EB01-014_p1.png",
+          "cardSet": "スタンダードバトルパックVol.9",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "EB01-015",
       "name": "Scratchmen Apoo",
+      "names": {
+        "en": "Scratchmen Apoo",
+        "ja": "スクラッチメン・アプー"
+      },
       "category": "Character",
       "cost": 1,
       "power": 1000,
@@ -1529,12 +1987,72 @@
           ],
           "artOf": "EB01-015",
           "artist": "UGUME"
+        },
+        {
+          "id": "EB01-015~ja",
+          "language": "ja",
+          "set": "EB01",
+          "rarity": "R",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/EB01-015.png",
+          "cardSet": "メモリアルコレクション【EB-01】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "EB01-015_p1~ja",
+          "language": "ja",
+          "set": "P",
+          "rarity": "R",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/EB01-015_p1.png",
+          "cardSet": "スタンダードバトルパックVol.10",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
+        },
+        {
+          "id": "EB01-015_p2~ja",
+          "language": "ja",
+          "set": "PRB02",
+          "rarity": "R",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/EB01-015_p2.png",
+          "cardSet": "ONE PIECE CARD THE BEST vol.2【PRB-02】",
+          "source": "bandai"
+        },
+        {
+          "id": "EB01-015_r1~ja",
+          "language": "ja",
+          "set": "ST24",
+          "rarity": "R",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/EB01-015_r1.png",
+          "cardSet": "スタートデッキ 緑 ジュエリー・ボニー【ST-24】",
+          "source": "bandai"
+        },
+        {
+          "id": "EB01-015_r2~ja",
+          "language": "ja",
+          "set": "PRB02",
+          "rarity": "R",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/EB01-015_r2.png",
+          "cardSet": "ONE PIECE CARD THE BEST vol.2【PRB-02】",
+          "source": "bandai"
         }
       ]
     },
     {
       "number": "EB01-016",
       "name": "Bingoh",
+      "names": {
+        "en": "Bingoh",
+        "ja": "びん豪"
+      },
       "category": "Character",
       "cost": 1,
       "counter": 1000,
@@ -1570,12 +2088,29 @@
             "distance": 1
           },
           "artist": "ASAKI KURODA"
+        },
+        {
+          "id": "EB01-016~ja",
+          "language": "ja",
+          "set": "EB01",
+          "rarity": "C",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/EB01-016.png",
+          "cardSet": "メモリアルコレクション【EB-01】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "EB01-017",
       "name": "Blueno",
+      "names": {
+        "en": "Blueno",
+        "ja": "ブルーノ"
+      },
       "category": "Character",
       "cost": 2,
       "power": 2000,
@@ -1613,12 +2148,29 @@
             "distance": 3
           },
           "artist": "COGA"
+        },
+        {
+          "id": "EB01-017~ja",
+          "language": "ja",
+          "set": "EB01",
+          "rarity": "C",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/EB01-017.png",
+          "cardSet": "メモリアルコレクション【EB-01】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "EB01-018",
       "name": "Mountain God",
+      "names": {
+        "en": "Mountain God",
+        "ja": "山さん"
+      },
       "category": "Character",
       "cost": 5,
       "power": 7000,
@@ -1712,12 +2264,55 @@
           ],
           "artOf": "EB01-018",
           "artist": "nukadokomogera"
+        },
+        {
+          "id": "EB01-018~ja",
+          "language": "ja",
+          "set": "EB01",
+          "rarity": "C",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/EB01-018.png",
+          "cardSet": "メモリアルコレクション【EB-01】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
+        },
+        {
+          "id": "EB01-018_p1~ja",
+          "language": "ja",
+          "set": "PRB02",
+          "rarity": "C",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/EB01-018_p1.png",
+          "cardSet": "ONE PIECE CARD THE BEST vol.2【PRB-02】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "EB01-018_r1~ja",
+          "language": "ja",
+          "set": "PRB02",
+          "rarity": "C",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/EB01-018_r1.png",
+          "cardSet": "ONE PIECE CARD THE BEST vol.2【PRB-02】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "EB01-019",
       "name": "Off-White",
+      "names": {
+        "en": "Off-White",
+        "ja": "盾白糸"
+      },
       "category": "Event",
       "cost": 2,
       "colors": [
@@ -1749,12 +2344,29 @@
             "match": "image-only-candidate",
             "distance": 4
           }
+        },
+        {
+          "id": "EB01-019~ja",
+          "language": "ja",
+          "set": "EB01",
+          "rarity": "R",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/EB01-019.png",
+          "cardSet": "メモリアルコレクション【EB-01】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "EB01-020",
       "name": "Chambres",
+      "names": {
+        "en": "Chambres",
+        "ja": "シャンブルズ"
+      },
       "category": "Event",
       "cost": 1,
       "colors": [
@@ -1786,12 +2398,29 @@
             "match": "image-only-candidate",
             "distance": 3
           }
+        },
+        {
+          "id": "EB01-020~ja",
+          "language": "ja",
+          "set": "EB01",
+          "rarity": "C",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/EB01-020.png",
+          "cardSet": "メモリアルコレクション【EB-01】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "EB01-021",
       "name": "Hannyabal",
+      "names": {
+        "en": "Hannyabal",
+        "ja": "ハンニャバル"
+      },
       "category": "Leader",
       "power": 5000,
       "life": 4,
@@ -1878,12 +2507,55 @@
           "treatments": [
             "sp"
           ]
+        },
+        {
+          "id": "EB01-021~ja",
+          "language": "ja",
+          "set": "EB01",
+          "rarity": "L",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/EB01-021.png",
+          "cardSet": "メモリアルコレクション【EB-01】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
+        },
+        {
+          "id": "EB01-021_p1~ja",
+          "language": "ja",
+          "set": "EB01",
+          "rarity": "L",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/EB01-021_p1.png",
+          "cardSet": "メモリアルコレクション【EB-01】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "EB01-021_p2~ja",
+          "language": "ja",
+          "set": "EB02",
+          "rarity": "L",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/EB01-021_p2.png",
+          "cardSet": "エクストラブースター Anime 25th collection【EB-02】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "EB01-022",
       "name": "Inazuma",
+      "names": {
+        "en": "Inazuma",
+        "ja": "イナズマ"
+      },
       "category": "Character",
       "cost": 6,
       "power": 7000,
@@ -1947,12 +2619,42 @@
             "alternate_art"
           ],
           "artist": "Koushi Rokushiro"
+        },
+        {
+          "id": "EB01-022~ja",
+          "language": "ja",
+          "set": "EB01",
+          "rarity": "SR",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/EB01-022.png",
+          "cardSet": "メモリアルコレクション【EB-01】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "EB01-022_p1~ja",
+          "language": "ja",
+          "set": "EB01",
+          "rarity": "SR",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/EB01-022_p1.png",
+          "cardSet": "メモリアルコレクション【EB-01】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "EB01-023",
       "name": "Edward Weevil",
+      "names": {
+        "en": "Edward Weevil",
+        "ja": "エドワード・ウィーブル"
+      },
       "category": "Character",
       "cost": 4,
       "power": 6000,
@@ -2069,12 +2771,49 @@
               "category": "program"
             }
           ]
+        },
+        {
+          "id": "EB01-023~ja",
+          "language": "ja",
+          "set": "EB01",
+          "rarity": "R",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/EB01-023.png",
+          "cardSet": "メモリアルコレクション【EB-01】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "EB01-023_p1~ja",
+          "language": "ja",
+          "set": "OTHER",
+          "rarity": "R",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/EB01-023_p1.png",
+          "cardSet": "ONE PIECE カードゲーム China 2nd ANNIVERSARY SET",
+          "source": "bandai"
+        },
+        {
+          "id": "EB01-023_p2~ja",
+          "language": "ja",
+          "set": "EB04",
+          "rarity": "SP CARD",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/EB01-023_p2.png",
+          "cardSet": "エクストラブースター EGGHEAD CRISIS【EB-04】",
+          "source": "bandai"
         }
       ]
     },
     {
       "number": "EB01-024",
       "name": "Hamlet",
+      "names": {
+        "en": "Hamlet",
+        "ja": "ハムレット"
+      },
       "category": "Character",
       "cost": 3,
       "power": 4000,
@@ -2112,12 +2851,29 @@
             "distance": 1
           },
           "artist": "Misa Matoki"
+        },
+        {
+          "id": "EB01-024~ja",
+          "language": "ja",
+          "set": "EB01",
+          "rarity": "C",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/EB01-024.png",
+          "cardSet": "メモリアルコレクション【EB-01】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "EB01-025",
       "name": "Fourtricks",
+      "names": {
+        "en": "Fourtricks",
+        "ja": "フォートリックス"
+      },
       "category": "Character",
       "cost": 3,
       "power": 5000,
@@ -2155,12 +2911,29 @@
             "distance": 0
           },
           "artist": "Misa Matoki"
+        },
+        {
+          "id": "EB01-025~ja",
+          "language": "ja",
+          "set": "EB01",
+          "rarity": "C",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/EB01-025.png",
+          "cardSet": "メモリアルコレクション【EB-01】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "EB01-026",
       "name": "Prince Bellett",
+      "names": {
+        "en": "Prince Bellett",
+        "ja": "プリンス・ベレット"
+      },
       "category": "Character",
       "cost": 2,
       "power": 2000,
@@ -2197,12 +2970,29 @@
             "distance": 3
           },
           "artist": "Yasushi Yamaguchi"
+        },
+        {
+          "id": "EB01-026~ja",
+          "language": "ja",
+          "set": "EB01",
+          "rarity": "C",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/EB01-026.png",
+          "cardSet": "メモリアルコレクション【EB-01】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "EB01-027",
       "name": "Mr.1(Daz.Bonez)",
+      "names": {
+        "en": "Mr.1(Daz.Bonez)",
+        "ja": "Mr.1(ダズ・ボーネス)"
+      },
       "category": "Character",
       "cost": 5,
       "power": 6000,
@@ -2321,12 +3111,42 @@
               "category": "placement"
             }
           ]
+        },
+        {
+          "id": "EB01-027~ja",
+          "language": "ja",
+          "set": "EB01",
+          "rarity": "R",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/EB01-027.png",
+          "cardSet": "メモリアルコレクション【EB-01】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "EB01-027_p1~ja",
+          "language": "ja",
+          "set": "EB01",
+          "rarity": "R",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/EB01-027_p1.png",
+          "cardSet": "メモリアルコレクション【EB-01】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "EB01-028",
       "name": "Gum-Gum Champion Rifle",
+      "names": {
+        "en": "Gum-Gum Champion Rifle",
+        "ja": "ゴムゴムのチャンピオン回転弾"
+      },
       "category": "Event",
       "cost": 1,
       "colors": [
@@ -2358,12 +3178,29 @@
             "match": "image-only-candidate",
             "distance": 2
           }
+        },
+        {
+          "id": "EB01-028~ja",
+          "language": "ja",
+          "set": "EB01",
+          "rarity": "R",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/EB01-028.png",
+          "cardSet": "メモリアルコレクション【EB-01】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "EB01-029",
       "name": "Sorry. I'm a Goner.",
+      "names": {
+        "en": "Sorry. I'm a Goner.",
+        "ja": "わりいおれ死んだ"
+      },
       "category": "Event",
       "cost": 1,
       "colors": [
@@ -2395,12 +3232,29 @@
             "match": "image-only-candidate",
             "distance": 4
           }
+        },
+        {
+          "id": "EB01-029~ja",
+          "language": "ja",
+          "set": "EB01",
+          "rarity": "C",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/EB01-029.png",
+          "cardSet": "メモリアルコレクション【EB-01】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "EB01-030",
       "name": "Loguetown",
+      "names": {
+        "en": "Loguetown",
+        "ja": "ローグタウン"
+      },
       "category": "Stage",
       "cost": 2,
       "colors": [
@@ -2431,12 +3285,29 @@
             "match": "image-only-candidate",
             "distance": 0
           }
+        },
+        {
+          "id": "EB01-030~ja",
+          "language": "ja",
+          "set": "EB01",
+          "rarity": "C",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/EB01-030.png",
+          "cardSet": "メモリアルコレクション【EB-01】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "EB01-031",
       "name": "Kalifa",
+      "names": {
+        "en": "Kalifa",
+        "ja": "カリファ"
+      },
       "category": "Character",
       "cost": 5,
       "power": 5000,
@@ -2500,12 +3371,42 @@
             "alternate_art"
           ],
           "artist": "Hatori Kyoka"
+        },
+        {
+          "id": "EB01-031~ja",
+          "language": "ja",
+          "set": "EB01",
+          "rarity": "R",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/EB01-031.png",
+          "cardSet": "メモリアルコレクション【EB-01】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "EB01-031_p1~ja",
+          "language": "ja",
+          "set": "EB01",
+          "rarity": "R",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/EB01-031_p1.png",
+          "cardSet": "メモリアルコレクション【EB-01】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "EB01-032",
       "name": "Army Wolves",
+      "names": {
+        "en": "Army Wolves",
+        "ja": "軍隊ウルフ"
+      },
       "category": "Character",
       "cost": 5,
       "power": 7000,
@@ -2543,12 +3444,29 @@
             "distance": 0
           },
           "artist": "tatsuya"
+        },
+        {
+          "id": "EB01-032~ja",
+          "language": "ja",
+          "set": "EB01",
+          "rarity": "C",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/EB01-032.png",
+          "cardSet": "メモリアルコレクション【EB-01】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "EB01-033",
       "name": "Blueno",
+      "names": {
+        "en": "Blueno",
+        "ja": "ブルーノ"
+      },
       "category": "Character",
       "cost": 4,
       "power": 5000,
@@ -2585,12 +3503,29 @@
             "distance": 2
           },
           "artist": "ASAKI KURODA"
+        },
+        {
+          "id": "EB01-033~ja",
+          "language": "ja",
+          "set": "EB01",
+          "rarity": "R",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/EB01-033.png",
+          "cardSet": "メモリアルコレクション【EB-01】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "EB01-034",
       "name": "Ms. Wednesday",
+      "names": {
+        "en": "Ms. Wednesday",
+        "ja": "ミス・ウェンズデー"
+      },
       "category": "Character",
       "cost": 3,
       "power": 4000,
@@ -2653,12 +3588,42 @@
             "alternate_art"
           ],
           "artist": "Yosuke Adachi"
+        },
+        {
+          "id": "EB01-034~ja",
+          "language": "ja",
+          "set": "EB01",
+          "rarity": "SR",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/EB01-034.png",
+          "cardSet": "メモリアルコレクション【EB-01】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "EB01-034_p1~ja",
+          "language": "ja",
+          "set": "EB01",
+          "rarity": "SR",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/EB01-034_p1.png",
+          "cardSet": "メモリアルコレクション【EB-01】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "EB01-035",
       "name": "Ms. Monday",
+      "names": {
+        "en": "Ms. Monday",
+        "ja": "ミス・マンデー"
+      },
       "category": "Character",
       "cost": 3,
       "power": 5000,
@@ -2694,12 +3659,29 @@
             "distance": 2
           },
           "artist": "Anderson"
+        },
+        {
+          "id": "EB01-035~ja",
+          "language": "ja",
+          "set": "EB01",
+          "rarity": "C",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/EB01-035.png",
+          "cardSet": "メモリアルコレクション【EB-01】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "EB01-036",
       "name": "Minochihuahua",
+      "names": {
+        "en": "Minochihuahua",
+        "ja": "ミノチワワ"
+      },
       "category": "Character",
       "cost": 4,
       "power": 5000,
@@ -2736,12 +3718,29 @@
             "distance": 2
           },
           "artist": "Studio Vigor Co. Ltd"
+        },
+        {
+          "id": "EB01-036~ja",
+          "language": "ja",
+          "set": "EB01",
+          "rarity": "C",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/EB01-036.png",
+          "cardSet": "メモリアルコレクション【EB-01】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "EB01-037",
       "name": "Mr. 9",
+      "names": {
+        "en": "Mr. 9",
+        "ja": "Mr.9"
+      },
       "category": "Character",
       "cost": 3,
       "power": 4000,
@@ -2778,12 +3777,29 @@
             "distance": 2
           },
           "artist": "tasaka"
+        },
+        {
+          "id": "EB01-037~ja",
+          "language": "ja",
+          "set": "EB01",
+          "rarity": "C",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/EB01-037.png",
+          "cardSet": "メモリアルコレクション【EB-01】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "EB01-038",
       "name": "Oh Come My Way",
+      "names": {
+        "en": "Oh Come My Way",
+        "ja": "オカマ道"
+      },
       "category": "Event",
       "cost": 1,
       "colors": [
@@ -2868,12 +3884,55 @@
             "reprint"
           ],
           "artOf": "EB01-038"
+        },
+        {
+          "id": "EB01-038~ja",
+          "language": "ja",
+          "set": "EB01",
+          "rarity": "C",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/EB01-038.png",
+          "cardSet": "メモリアルコレクション【EB-01】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
+        },
+        {
+          "id": "EB01-038_p1~ja",
+          "language": "ja",
+          "set": "PRB02",
+          "rarity": "C",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/EB01-038_p1.png",
+          "cardSet": "ONE PIECE CARD THE BEST vol.2【PRB-02】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "EB01-038_r1~ja",
+          "language": "ja",
+          "set": "PRB02",
+          "rarity": "C",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/EB01-038_r1.png",
+          "cardSet": "ONE PIECE CARD THE BEST vol.2【PRB-02】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "EB01-039",
       "name": "Conquerer of Three Worlds Ragnaraku",
+      "names": {
+        "en": "Conquerer of Three Worlds Ragnaraku",
+        "ja": "降三世 引奈落"
+      },
       "category": "Event",
       "cost": 5,
       "colors": [
@@ -2905,12 +3964,29 @@
             "match": "image-only-candidate",
             "distance": 1
           }
+        },
+        {
+          "id": "EB01-039~ja",
+          "language": "ja",
+          "set": "EB01",
+          "rarity": "R",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/EB01-039.png",
+          "cardSet": "メモリアルコレクション【EB-01】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "EB01-040",
       "name": "Kyros",
+      "names": {
+        "en": "Kyros",
+        "ja": "キュロス"
+      },
       "category": "Leader",
       "power": 5000,
       "life": 4,
@@ -2997,12 +4073,55 @@
           "treatments": [
             "sp"
           ]
+        },
+        {
+          "id": "EB01-040~ja",
+          "language": "ja",
+          "set": "EB01",
+          "rarity": "L",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/EB01-040.png",
+          "cardSet": "メモリアルコレクション【EB-01】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
+        },
+        {
+          "id": "EB01-040_p1~ja",
+          "language": "ja",
+          "set": "EB01",
+          "rarity": "L",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/EB01-040_p1.png",
+          "cardSet": "メモリアルコレクション【EB-01】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "EB01-040_p2~ja",
+          "language": "ja",
+          "set": "EB02",
+          "rarity": "L",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/EB01-040_p2.png",
+          "cardSet": "エクストラブースター Anime 25th collection【EB-02】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "EB01-041",
       "name": "Crocus",
+      "names": {
+        "en": "Crocus",
+        "ja": "クロッカス"
+      },
       "category": "Character",
       "cost": 6,
       "power": 8000,
@@ -3039,12 +4158,29 @@
             "distance": 2
           },
           "artist": "Nekobayashi"
+        },
+        {
+          "id": "EB01-041~ja",
+          "language": "ja",
+          "set": "EB01",
+          "rarity": "C",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/EB01-041.png",
+          "cardSet": "メモリアルコレクション【EB-01】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "EB01-042",
       "name": "Scarlet",
+      "names": {
+        "en": "Scarlet",
+        "ja": "スカーレット"
+      },
       "category": "Character",
       "cost": 2,
       "counter": 1000,
@@ -3080,12 +4216,29 @@
             "distance": 1
           },
           "artist": "Hagane Tsurugi"
+        },
+        {
+          "id": "EB01-042~ja",
+          "language": "ja",
+          "set": "EB01",
+          "rarity": "R",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/EB01-042.png",
+          "cardSet": "メモリアルコレクション【EB-01】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "EB01-043",
       "name": "Spandine",
+      "names": {
+        "en": "Spandine",
+        "ja": "スパンダイン"
+      },
       "category": "Character",
       "cost": 3,
       "power": 2000,
@@ -3210,12 +4363,49 @@
           "source": "bandai",
           "artOf": "EB01-043_p1",
           "artist": "BISAI"
+        },
+        {
+          "id": "EB01-043~ja",
+          "language": "ja",
+          "set": "EB01",
+          "rarity": "R",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/EB01-043.png",
+          "cardSet": "メモリアルコレクション【EB-01】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "EB01-043_p1~ja",
+          "language": "ja",
+          "set": "OTHER",
+          "rarity": "R",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/EB01-043_p1.png",
+          "cardSet": "プレミアムブースター ONE PIECE CARD THE BEST ストレージボックスセット",
+          "source": "bandai"
+        },
+        {
+          "id": "EB01-043_p2~ja",
+          "language": "ja",
+          "set": "OTHER",
+          "rarity": "R",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/EB01-043_p2.png",
+          "cardSet": "プレミアムブースター ONE PIECE CARD THE BEST ストレージボックスセット",
+          "source": "bandai"
         }
       ]
     },
     {
       "number": "EB01-044",
       "name": "Funkfreed",
+      "names": {
+        "en": "Funkfreed",
+        "ja": "ファンクフリード"
+      },
       "category": "Character",
       "cost": 1,
       "power": 1000,
@@ -3252,12 +4442,29 @@
             "distance": 1
           },
           "artist": "kankurou"
+        },
+        {
+          "id": "EB01-044~ja",
+          "language": "ja",
+          "set": "EB01",
+          "rarity": "C",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/EB01-044.png",
+          "cardSet": "メモリアルコレクション【EB-01】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "EB01-045",
       "name": "Brook",
+      "names": {
+        "en": "Brook",
+        "ja": "ブルック"
+      },
       "category": "Character",
       "cost": 3,
       "power": 4000,
@@ -3294,12 +4501,29 @@
             "distance": 3
           },
           "artist": "HISASHI HUJIWARA"
+        },
+        {
+          "id": "EB01-045~ja",
+          "language": "ja",
+          "set": "EB01",
+          "rarity": "C",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/EB01-045.png",
+          "cardSet": "メモリアルコレクション【EB-01】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "EB01-046",
       "name": "Brook",
+      "names": {
+        "en": "Brook",
+        "ja": "ブルック"
+      },
       "category": "Character",
       "cost": 3,
       "power": 4000,
@@ -3389,12 +4613,75 @@
           ],
           "artOf": "EB01-046",
           "artist": "BISAI"
+        },
+        {
+          "id": "EB01-046~ja",
+          "language": "ja",
+          "set": "EB01",
+          "rarity": "SR",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/EB01-046.png",
+          "cardSet": "メモリアルコレクション【EB-01】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "EB01-046_p1~ja",
+          "language": "ja",
+          "set": "EB01",
+          "rarity": "SR",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/EB01-046_p1.png",
+          "cardSet": "メモリアルコレクション【EB-01】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "EB01-046_p2~ja",
+          "language": "ja",
+          "set": "P",
+          "rarity": "SR",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/EB01-046_p2.png",
+          "cardSet": "始めようキャンペーン プロモーションパック",
+          "source": "bandai"
+        },
+        {
+          "id": "EB01-046_p3~ja",
+          "language": "ja",
+          "set": "P",
+          "rarity": "SR",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/EB01-046_p3.png",
+          "cardSet": "始めようキャンペーン プロモーションパック",
+          "source": "bandai"
+        },
+        {
+          "id": "EB01-046_r1~ja",
+          "language": "ja",
+          "set": "PRB02",
+          "rarity": "SR",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/EB01-046_r1.png",
+          "cardSet": "ONE PIECE CARD THE BEST vol.2【PRB-02】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "EB01-047",
       "name": "Laboon",
+      "names": {
+        "en": "Laboon",
+        "ja": "ラブーン"
+      },
       "category": "Character",
       "cost": 2,
       "power": 4000,
@@ -3430,12 +4717,29 @@
             "distance": 4
           },
           "artist": "shosuke"
+        },
+        {
+          "id": "EB01-047~ja",
+          "language": "ja",
+          "set": "EB01",
+          "rarity": "C",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/EB01-047.png",
+          "cardSet": "メモリアルコレクション【EB-01】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "EB01-048",
       "name": "Laboon",
+      "names": {
+        "en": "Laboon",
+        "ja": "ラブーン"
+      },
       "category": "Character",
       "cost": 4,
       "power": 5000,
@@ -3554,12 +4858,55 @@
           ],
           "artOf": "EB01-048",
           "artist": "S-KINOKO"
+        },
+        {
+          "id": "EB01-048~ja",
+          "language": "ja",
+          "set": "EB01",
+          "rarity": "SR",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/EB01-048.png",
+          "cardSet": "メモリアルコレクション【EB-01】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "EB01-048_p1~ja",
+          "language": "ja",
+          "set": "EB01",
+          "rarity": "SR",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/EB01-048_p1.png",
+          "cardSet": "メモリアルコレクション【EB-01】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "EB01-048_r1~ja",
+          "language": "ja",
+          "set": "PRB02",
+          "rarity": "SR",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/EB01-048_r1.png",
+          "cardSet": "ONE PIECE CARD THE BEST vol.2【PRB-02】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "EB01-049",
       "name": "T-Bone",
+      "names": {
+        "en": "T-Bone",
+        "ja": "Tボーン"
+      },
       "category": "Character",
       "cost": 5,
       "power": 5000,
@@ -3649,12 +4996,42 @@
               "category": "program"
             }
           ]
+        },
+        {
+          "id": "EB01-049~ja",
+          "language": "ja",
+          "set": "EB01",
+          "rarity": "R",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/EB01-049.png",
+          "cardSet": "メモリアルコレクション【EB-01】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "EB01-049_p1~ja",
+          "language": "ja",
+          "set": "EB01",
+          "rarity": "R",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/EB01-049_p1.png",
+          "cardSet": "メモリアルコレクション【EB-01】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "EB01-050",
       "name": "...I Want to Live!!",
+      "names": {
+        "en": "...I Want to Live!!",
+        "ja": "生ぎたいっ!!!!"
+      },
       "category": "Event",
       "cost": 3,
       "colors": [
@@ -3685,12 +5062,29 @@
             "match": "image-only-candidate",
             "distance": 1
           }
+        },
+        {
+          "id": "EB01-050~ja",
+          "language": "ja",
+          "set": "EB01",
+          "rarity": "C",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/EB01-050.png",
+          "cardSet": "メモリアルコレクション【EB-01】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "EB01-051",
       "name": "Finger Pistol",
+      "names": {
+        "en": "Finger Pistol",
+        "ja": "指銃"
+      },
       "category": "Event",
       "cost": 4,
       "colors": [
@@ -3773,12 +5167,55 @@
             "reprint"
           ],
           "artOf": "EB01-051"
+        },
+        {
+          "id": "EB01-051~ja",
+          "language": "ja",
+          "set": "EB01",
+          "rarity": "R",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/EB01-051.png",
+          "cardSet": "メモリアルコレクション【EB-01】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "EB01-051_p1~ja",
+          "language": "ja",
+          "set": "PRB02",
+          "rarity": "R",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/EB01-051_p1.png",
+          "cardSet": "ONE PIECE CARD THE BEST vol.2【PRB-02】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "EB01-051_r1~ja",
+          "language": "ja",
+          "set": "PRB02",
+          "rarity": "R",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/EB01-051_r1.png",
+          "cardSet": "ONE PIECE CARD THE BEST vol.2【PRB-02】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "EB01-052",
       "name": "Viola",
+      "names": {
+        "en": "Viola",
+        "ja": "ヴィオラ"
+      },
       "category": "Character",
       "cost": 2,
       "counter": 1000,
@@ -3840,12 +5277,42 @@
             "alternate_art"
           ],
           "artist": "NIJIMAARC"
+        },
+        {
+          "id": "EB01-052~ja",
+          "language": "ja",
+          "set": "EB01",
+          "rarity": "SR",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/EB01-052.png",
+          "cardSet": "メモリアルコレクション【EB-01】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "EB01-052_p1~ja",
+          "language": "ja",
+          "set": "EB01",
+          "rarity": "SR",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/EB01-052_p1.png",
+          "cardSet": "メモリアルコレクション【EB-01】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "EB01-053",
       "name": "Gastino",
+      "names": {
+        "en": "Gastino",
+        "ja": "ガスティーノ"
+      },
       "category": "Character",
       "cost": 3,
       "power": 5000,
@@ -3881,12 +5348,29 @@
             "distance": 2
           },
           "artist": "Ryuda"
+        },
+        {
+          "id": "EB01-053~ja",
+          "language": "ja",
+          "set": "EB01",
+          "rarity": "C",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/EB01-053.png",
+          "cardSet": "メモリアルコレクション【EB-01】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "EB01-054",
       "name": "Gan.Fall",
+      "names": {
+        "en": "Gan.Fall",
+        "ja": "ガン・フォール"
+      },
       "category": "Character",
       "cost": 3,
       "power": 4000,
@@ -3923,12 +5407,29 @@
             "distance": 1
           },
           "artist": "UGUME"
+        },
+        {
+          "id": "EB01-054~ja",
+          "language": "ja",
+          "set": "EB01",
+          "rarity": "R",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/EB01-054.png",
+          "cardSet": "メモリアルコレクション【EB-01】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "EB01-055",
       "name": "Charlotte Compote",
+      "names": {
+        "en": "Charlotte Compote",
+        "ja": "シャーロット・コンポート"
+      },
       "category": "Character",
       "cost": 7,
       "power": 9000,
@@ -3965,12 +5466,29 @@
             "distance": 1
           },
           "artist": "Akihiro MIYANO"
+        },
+        {
+          "id": "EB01-055~ja",
+          "language": "ja",
+          "set": "EB01",
+          "rarity": "C",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/EB01-055.png",
+          "cardSet": "メモリアルコレクション【EB-01】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "EB01-056",
       "name": "Charlotte Flampe",
+      "names": {
+        "en": "Charlotte Flampe",
+        "ja": "シャーロット・フランぺ"
+      },
       "category": "Character",
       "cost": 1,
       "power": 1000,
@@ -4059,12 +5577,55 @@
             "sp"
           ],
           "artist": "otton"
+        },
+        {
+          "id": "EB01-056~ja",
+          "language": "ja",
+          "set": "EB01",
+          "rarity": "R",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/EB01-056.png",
+          "cardSet": "メモリアルコレクション【EB-01】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "EB01-056_p1~ja",
+          "language": "ja",
+          "set": "EB01",
+          "rarity": "R",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/EB01-056_p1.png",
+          "cardSet": "メモリアルコレクション【EB-01】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "EB01-056_p2~ja",
+          "language": "ja",
+          "set": "OP10",
+          "rarity": "SP CARD",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/EB01-056_p2.png",
+          "cardSet": "ブースターパック 王族の血統【OP-10】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "EB01-057",
       "name": "Shirahoshi",
+      "names": {
+        "en": "Shirahoshi",
+        "ja": "しらほし"
+      },
       "category": "Character",
       "cost": 2,
       "counter": 1000,
@@ -4179,12 +5740,68 @@
           ],
           "artOf": "EB01-057",
           "artist": "Bashikou"
+        },
+        {
+          "id": "EB01-057~ja",
+          "language": "ja",
+          "set": "EB01",
+          "rarity": "SR",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/EB01-057.png",
+          "cardSet": "メモリアルコレクション【EB-01】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "EB01-057_p1~ja",
+          "language": "ja",
+          "set": "EB01",
+          "rarity": "SR",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/EB01-057_p1.png",
+          "cardSet": "メモリアルコレクション【EB-01】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "EB01-057_p2~ja",
+          "language": "ja",
+          "set": "OP11",
+          "rarity": "SP CARD",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/EB01-057_p2.png",
+          "cardSet": "ブースターパック 神速の拳【OP-11】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "EB01-057_r1~ja",
+          "language": "ja",
+          "set": "PRB02",
+          "rarity": "SR",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/EB01-057_r1.png",
+          "cardSet": "ONE PIECE CARD THE BEST vol.2【PRB-02】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "EB01-058",
       "name": "Mont Blanc Cricket",
+      "names": {
+        "en": "Mont Blanc Cricket",
+        "ja": "モンブラン・クリケット"
+      },
       "category": "Character",
       "cost": 2,
       "power": 3000,
@@ -4221,12 +5838,29 @@
             "distance": 7
           },
           "artist": "Aidle Co. Ltd."
+        },
+        {
+          "id": "EB01-058~ja",
+          "language": "ja",
+          "set": "EB01",
+          "rarity": "C",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/EB01-058.png",
+          "cardSet": "メモリアルコレクション【EB-01】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "EB01-059",
       "name": "Kingdom Come",
+      "names": {
+        "en": "Kingdom Come",
+        "ja": "雷迎"
+      },
       "category": "Event",
       "cost": 6,
       "colors": [
@@ -4257,12 +5891,29 @@
             "match": "image-only-candidate",
             "distance": 2
           }
+        },
+        {
+          "id": "EB01-059~ja",
+          "language": "ja",
+          "set": "EB01",
+          "rarity": "R",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/EB01-059.png",
+          "cardSet": "メモリアルコレクション【EB-01】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "EB01-060",
       "name": "Did Someone Say...Kami?",
+      "names": {
+        "en": "Did Someone Say...Kami?",
+        "ja": "我が神なり"
+      },
       "category": "Event",
       "cost": 4,
       "colors": [
@@ -4347,12 +5998,55 @@
             "reprint"
           ],
           "artOf": "EB01-060"
+        },
+        {
+          "id": "EB01-060~ja",
+          "language": "ja",
+          "set": "EB01",
+          "rarity": "C",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/EB01-060.png",
+          "cardSet": "メモリアルコレクション【EB-01】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
+        },
+        {
+          "id": "EB01-060_p1~ja",
+          "language": "ja",
+          "set": "PRB02",
+          "rarity": "C",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/EB01-060_p1.png",
+          "cardSet": "ONE PIECE CARD THE BEST vol.2【PRB-02】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "EB01-060_r1~ja",
+          "language": "ja",
+          "set": "PRB02",
+          "rarity": "C",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/EB01-060_r1.png",
+          "cardSet": "ONE PIECE CARD THE BEST vol.2【PRB-02】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "EB01-061",
       "name": "Mr.2.Bon.Kurei(Bentham)",
+      "names": {
+        "en": "Mr.2.Bon.Kurei(Bentham)",
+        "ja": "Mr.2・ボン・クレー(ベンサム)"
+      },
       "category": "Character",
       "cost": 4,
       "power": 1000,
@@ -4442,6 +6136,45 @@
           ],
           "artOf": "EB01-061",
           "artist": "tunbolt"
+        },
+        {
+          "id": "EB01-061~ja",
+          "language": "ja",
+          "set": "EB01",
+          "rarity": "SEC",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/EB01-061.png",
+          "cardSet": "メモリアルコレクション【EB-01】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "EB01-061_p1~ja",
+          "language": "ja",
+          "set": "EB01",
+          "rarity": "SEC",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/EB01-061_p1.png",
+          "cardSet": "メモリアルコレクション【EB-01】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "EB01-061_r1~ja",
+          "language": "ja",
+          "set": "PRB02",
+          "rarity": "SEC",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/EB01-061_r1.png",
+          "cardSet": "ONE PIECE CARD THE BEST vol.2【PRB-02】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     }

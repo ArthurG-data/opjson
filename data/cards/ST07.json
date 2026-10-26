@@ -3,6 +3,10 @@
     {
       "number": "ST07-001",
       "name": "Charlotte Linlin",
+      "names": {
+        "en": "Charlotte Linlin",
+        "ja": "シャーロット・リンリン"
+      },
       "category": "Leader",
       "power": 5000,
       "life": 5,
@@ -38,12 +42,29 @@
             "match": "image-only-candidate",
             "distance": 3
           }
+        },
+        {
+          "id": "ST07-001~ja",
+          "language": "ja",
+          "set": "ST07",
+          "rarity": "L",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/ST07-001.png",
+          "cardSet": "ビッグ・マム海賊団【ST-07】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "ST07-002",
       "name": "Charlotte Anana",
+      "names": {
+        "en": "Charlotte Anana",
+        "ja": "シャーロット・アナナ"
+      },
       "category": "Character",
       "cost": 1,
       "power": 3000,
@@ -80,12 +101,29 @@
             "distance": 3
           },
           "artist": "Misa Matoki"
+        },
+        {
+          "id": "ST07-002~ja",
+          "language": "ja",
+          "set": "ST07",
+          "rarity": "C",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/ST07-002.png",
+          "cardSet": "ビッグ・マム海賊団【ST-07】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "ST07-003",
       "name": "Charlotte Katakuri",
+      "names": {
+        "en": "Charlotte Katakuri",
+        "ja": "シャーロット・カタクリ"
+      },
       "category": "Character",
       "cost": 4,
       "power": 6000,
@@ -120,12 +158,29 @@
             "match": "image-only-candidate",
             "distance": 1
           }
+        },
+        {
+          "id": "ST07-003~ja",
+          "language": "ja",
+          "set": "ST07",
+          "rarity": "SR",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/ST07-003.png",
+          "cardSet": "ビッグ・マム海賊団【ST-07】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "ST07-004",
       "name": "Charlotte Snack",
+      "names": {
+        "en": "Charlotte Snack",
+        "ja": "シャーロット・スナック"
+      },
       "category": "Character",
       "cost": 5,
       "power": 6000,
@@ -161,12 +216,29 @@
             "distance": 3
           },
           "artist": "kankurou"
+        },
+        {
+          "id": "ST07-004~ja",
+          "language": "ja",
+          "set": "ST07",
+          "rarity": "C",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/ST07-004.png",
+          "cardSet": "ビッグ・マム海賊団【ST-07】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "ST07-005",
       "name": "Charlotte Daifuku",
+      "names": {
+        "en": "Charlotte Daifuku",
+        "ja": "シャーロット・ダイフク"
+      },
       "category": "Character",
       "cost": 4,
       "power": 5000,
@@ -227,12 +299,42 @@
           },
           "artOf": "ST07-005",
           "artist": "kankurou"
+        },
+        {
+          "id": "ST07-005~ja",
+          "language": "ja",
+          "set": "ST07",
+          "rarity": "C",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/ST07-005.png",
+          "cardSet": "ビッグ・マム海賊団【ST-07】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
+        },
+        {
+          "id": "ST07-005_r1~ja",
+          "language": "ja",
+          "set": "ST20",
+          "rarity": "C",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/ST07-005_r1.png",
+          "cardSet": "スタートデッキ 黄 シャーロット・カタクリ【ST-20】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "ST07-006",
       "name": "Charlotte Flampe",
+      "names": {
+        "en": "Charlotte Flampe",
+        "ja": "シャーロット・フランぺ"
+      },
       "category": "Character",
       "cost": 2,
       "power": 4000,
@@ -269,12 +371,29 @@
             "distance": 2
           },
           "artist": "Misa Matoki"
+        },
+        {
+          "id": "ST07-006~ja",
+          "language": "ja",
+          "set": "ST07",
+          "rarity": "C",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/ST07-006.png",
+          "cardSet": "ビッグ・マム海賊団【ST-07】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "ST07-007",
       "name": "Charlotte Brulee",
+      "names": {
+        "en": "Charlotte Brulee",
+        "ja": "シャーロット・ブリュレ"
+      },
       "category": "Character",
       "cost": 3,
       "power": 1000,
@@ -407,12 +526,78 @@
               "category": "event"
             }
           ]
+        },
+        {
+          "id": "ST07-007~ja",
+          "language": "ja",
+          "set": "ST07",
+          "rarity": "C",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/ST07-007.png",
+          "cardSet": "ビッグ・マム海賊団【ST-07】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
+        },
+        {
+          "id": "ST07-007_p1~ja",
+          "language": "ja",
+          "set": "P",
+          "rarity": "C",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/ST07-007_p1.png",
+          "cardSet": "ONE PIECEカードゲーム プロモーションパックVol.5",
+          "source": "bandai"
+        },
+        {
+          "id": "ST07-007_p2~ja",
+          "language": "ja",
+          "set": "PRB01",
+          "rarity": "C",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/ST07-007_p2.png",
+          "cardSet": "ONE PIECE CARD THE BEST【PRB-01】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "ST07-007_p3~ja",
+          "language": "ja",
+          "set": "PRB01",
+          "rarity": "C",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/ST07-007_p3.png",
+          "cardSet": "ONE PIECE CARD THE BEST【PRB-01】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "ST07-007_r1~ja",
+          "language": "ja",
+          "set": "PRB01",
+          "rarity": "C",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/ST07-007_r1.png",
+          "cardSet": "ONE PIECE CARD THE BEST【PRB-01】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "ST07-008",
       "name": "Charlotte Pudding",
+      "names": {
+        "en": "Charlotte Pudding",
+        "ja": "シャーロット・プリン"
+      },
       "category": "Character",
       "cost": 2,
       "power": 3000,
@@ -625,12 +810,52 @@
               "category": "placement"
             }
           ]
+        },
+        {
+          "id": "ST07-008~ja",
+          "language": "ja",
+          "set": "ST07",
+          "rarity": "C",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/ST07-008.png",
+          "cardSet": "ビッグ・マム海賊団【ST-07】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
+        },
+        {
+          "id": "ST07-008_p1~ja",
+          "language": "ja",
+          "set": "P",
+          "rarity": "C",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/ST07-008_p1.png",
+          "cardSet": "ONE PIECEカードゲーム プロモーションパックVol.3",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "ST07-008_p3~ja",
+          "language": "ja",
+          "set": "P",
+          "rarity": "C",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/ST07-008_p3.png",
+          "cardSet": "ジャンプGIGA 2023 SPRING 応募者全員サービス",
+          "source": "bandai"
         }
       ]
     },
     {
       "number": "ST07-009",
       "name": "Charlotte Mont-d'or",
+      "names": {
+        "en": "Charlotte Mont-d'or",
+        "ja": "シャーロット・モンドール"
+      },
       "category": "Character",
       "cost": 3,
       "power": 4000,
@@ -667,12 +892,29 @@
             "distance": 2
           },
           "artist": "BISAI"
+        },
+        {
+          "id": "ST07-009~ja",
+          "language": "ja",
+          "set": "ST07",
+          "rarity": "C",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/ST07-009.png",
+          "cardSet": "ビッグ・マム海賊団【ST-07】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "ST07-010",
       "name": "Charlotte Linlin",
+      "names": {
+        "en": "Charlotte Linlin",
+        "ja": "シャーロット・リンリン"
+      },
       "category": "Character",
       "cost": 7,
       "power": 8000,
@@ -735,12 +977,39 @@
               "category": "championship"
             }
           ]
+        },
+        {
+          "id": "ST07-010~ja",
+          "language": "ja",
+          "set": "ST07",
+          "rarity": "SR",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/ST07-010.png",
+          "cardSet": "ビッグ・マム海賊団【ST-07】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "ST07-010_p2~ja",
+          "language": "ja",
+          "set": "P",
+          "rarity": "SR",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/ST07-010_p2.png",
+          "cardSet": "フラッグシップバトル2023 10月ベスト8記念品",
+          "source": "bandai"
         }
       ]
     },
     {
       "number": "ST07-011",
       "name": "Zeus",
+      "names": {
+        "en": "Zeus",
+        "ja": "ゼウス"
+      },
       "category": "Character",
       "cost": 3,
       "power": 3000,
@@ -778,12 +1047,29 @@
             "distance": 6
           },
           "artist": "HISASHI HUJIWARA"
+        },
+        {
+          "id": "ST07-011~ja",
+          "language": "ja",
+          "set": "ST07",
+          "rarity": "C",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/ST07-011.png",
+          "cardSet": "ビッグ・マム海賊団【ST-07】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "ST07-012",
       "name": "Baron Tamago",
+      "names": {
+        "en": "Baron Tamago",
+        "ja": "タマゴ男爵"
+      },
       "category": "Character",
       "cost": 4,
       "power": 6000,
@@ -819,12 +1105,29 @@
             "match": "image-only-candidate",
             "distance": 1
           }
+        },
+        {
+          "id": "ST07-012~ja",
+          "language": "ja",
+          "set": "ST07",
+          "rarity": "C",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/ST07-012.png",
+          "cardSet": "ビッグ・マム海賊団【ST-07】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "ST07-013",
       "name": "Prometheus",
+      "names": {
+        "en": "Prometheus",
+        "ja": "プロメテウス"
+      },
       "category": "Character",
       "cost": 3,
       "power": 3000,
@@ -862,12 +1165,29 @@
             "distance": 5
           },
           "artist": "HISASHI HUJIWARA"
+        },
+        {
+          "id": "ST07-013~ja",
+          "language": "ja",
+          "set": "ST07",
+          "rarity": "C",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/ST07-013.png",
+          "cardSet": "ビッグ・マム海賊団【ST-07】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "ST07-014",
       "name": "Pekoms",
+      "names": {
+        "en": "Pekoms",
+        "ja": "ぺコムズ"
+      },
       "category": "Character",
       "cost": 3,
       "power": 5000,
@@ -917,12 +1237,42 @@
           "finishes": [
             "nonfoil"
           ]
+        },
+        {
+          "id": "ST07-014~ja",
+          "language": "ja",
+          "set": "ST07",
+          "rarity": "C",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/ST07-014.png",
+          "cardSet": "ビッグ・マム海賊団【ST-07】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
+        },
+        {
+          "id": "ST07-014_r1~ja",
+          "language": "ja",
+          "set": "ST20",
+          "rarity": "C",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/ST07-014_r1.png",
+          "cardSet": "スタートデッキ 黄 シャーロット・カタクリ【ST-20】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "ST07-015",
       "name": "Soul Pocus",
+      "names": {
+        "en": "Soul Pocus",
+        "ja": "ソウル・ポーカス"
+      },
       "category": "Event",
       "cost": 5,
       "colors": [
@@ -954,12 +1304,29 @@
             "match": "image-only-candidate",
             "distance": 3
           }
+        },
+        {
+          "id": "ST07-015~ja",
+          "language": "ja",
+          "set": "ST07",
+          "rarity": "C",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/ST07-015.png",
+          "cardSet": "ビッグ・マム海賊団【ST-07】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "ST07-016",
       "name": "Power Mochi",
+      "names": {
+        "en": "Power Mochi",
+        "ja": "力餅"
+      },
       "category": "Event",
       "cost": 1,
       "colors": [
@@ -990,12 +1357,29 @@
             "match": "image-only-candidate",
             "distance": 4
           }
+        },
+        {
+          "id": "ST07-016~ja",
+          "language": "ja",
+          "set": "ST07",
+          "rarity": "C",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/ST07-016.png",
+          "cardSet": "ビッグ・マム海賊団【ST-07】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "ST07-017",
       "name": "Queen Mama Chanter",
+      "names": {
+        "en": "Queen Mama Chanter",
+        "ja": "クイーン・ママ・シャンテ号"
+      },
       "category": "Stage",
       "cost": 2,
       "colors": [
@@ -1027,6 +1411,19 @@
             "match": "image-only-candidate",
             "distance": 2
           }
+        },
+        {
+          "id": "ST07-017~ja",
+          "language": "ja",
+          "set": "ST07",
+          "rarity": "C",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/ST07-017.png",
+          "cardSet": "ビッグ・マム海賊団【ST-07】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     }

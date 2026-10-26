@@ -3,6 +3,10 @@
     {
       "number": "EB03-001",
       "name": "Nefeltari Vivi",
+      "names": {
+        "en": "Nefeltari Vivi",
+        "ja": "ネフェルタリ・ビビ"
+      },
       "category": "Leader",
       "power": 5000,
       "life": 4,
@@ -65,12 +69,42 @@
             "alternate_art"
           ],
           "artist": "otton"
+        },
+        {
+          "id": "EB03-001~ja",
+          "language": "ja",
+          "set": "EB03",
+          "rarity": "L",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/EB03-001.png",
+          "cardSet": "エクストラブースター ONE PIECE Heroines Edition【EB-03】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
+        },
+        {
+          "id": "EB03-001_p1~ja",
+          "language": "ja",
+          "set": "EB03",
+          "rarity": "L",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/EB03-001_p1.png",
+          "cardSet": "エクストラブースター ONE PIECE Heroines Edition【EB-03】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "EB03-002",
       "name": "Ain",
+      "names": {
+        "en": "Ain",
+        "ja": "アイン"
+      },
       "category": "Character",
       "cost": 5,
       "power": 6000,
@@ -108,12 +142,29 @@
             "distance": 6
           },
           "artist": "kicori"
+        },
+        {
+          "id": "EB03-002~ja",
+          "language": "ja",
+          "set": "EB03",
+          "rarity": "C",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/EB03-002.png",
+          "cardSet": "エクストラブースター ONE PIECE Heroines Edition【EB-03】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "EB03-003",
       "name": "Uta",
+      "names": {
+        "en": "Uta",
+        "ja": "ウタ"
+      },
       "category": "Character",
       "cost": 5,
       "power": 7000,
@@ -201,12 +252,55 @@
             "sp"
           ],
           "artist": "Hashimoto Q"
+        },
+        {
+          "id": "EB03-003~ja",
+          "language": "ja",
+          "set": "EB03",
+          "rarity": "SR",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/EB03-003.png",
+          "cardSet": "エクストラブースター ONE PIECE Heroines Edition【EB-03】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "EB03-003_p1~ja",
+          "language": "ja",
+          "set": "EB03",
+          "rarity": "SR",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/EB03-003_p1.png",
+          "cardSet": "エクストラブースター ONE PIECE Heroines Edition【EB-03】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "EB03-003_p2~ja",
+          "language": "ja",
+          "set": "EB03",
+          "rarity": "SP CARD",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/EB03-003_p2.png",
+          "cardSet": "エクストラブースター ONE PIECE Heroines Edition【EB-03】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "EB03-004",
       "name": "Carina",
+      "names": {
+        "en": "Carina",
+        "ja": "カリーナ"
+      },
       "category": "Character",
       "cost": 3,
       "power": 2000,
@@ -244,12 +338,29 @@
             "distance": 7
           },
           "artist": "Ryuda"
+        },
+        {
+          "id": "EB03-004~ja",
+          "language": "ja",
+          "set": "EB03",
+          "rarity": "C",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/EB03-004.png",
+          "cardSet": "エクストラブースター ONE PIECE Heroines Edition【EB-03】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "EB03-005",
       "name": "Sugar",
+      "names": {
+        "en": "Sugar",
+        "ja": "シュガー"
+      },
       "category": "Character",
       "cost": 3,
       "counter": 1000,
@@ -285,12 +396,29 @@
             "distance": 4
           },
           "artist": "sacanahen"
+        },
+        {
+          "id": "EB03-005~ja",
+          "language": "ja",
+          "set": "EB03",
+          "rarity": "R",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/EB03-005.png",
+          "cardSet": "エクストラブースター ONE PIECE Heroines Edition【EB-03】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "EB03-006",
       "name": "Nami",
+      "names": {
+        "en": "Nami",
+        "ja": "ナミ"
+      },
       "category": "Character",
       "cost": 5,
       "power": 7000,
@@ -327,12 +455,39 @@
             "distance": 8
           },
           "artist": "Haru Miyajima"
+        },
+        {
+          "id": "EB03-006~ja",
+          "language": "ja",
+          "set": "EB03",
+          "rarity": "R",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/EB03-006.png",
+          "cardSet": "エクストラブースター ONE PIECE Heroines Edition【EB-03】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "EB03-006_p1~ja",
+          "language": "ja",
+          "set": "P",
+          "rarity": "R",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/EB03-006_p1.png",
+          "cardSet": "プロモーションパックEX Vol.4",
+          "source": "bandai"
         }
       ]
     },
     {
       "number": "EB03-007",
       "name": "Baccarat",
+      "names": {
+        "en": "Baccarat",
+        "ja": "バカラ"
+      },
       "category": "Character",
       "cost": 4,
       "power": 5000,
@@ -370,12 +525,29 @@
             "distance": 4
           },
           "artist": "Sunohara"
+        },
+        {
+          "id": "EB03-007~ja",
+          "language": "ja",
+          "set": "EB03",
+          "rarity": "C",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/EB03-007.png",
+          "cardSet": "エクストラブースター ONE PIECE Heroines Edition【EB-03】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "EB03-008",
       "name": "Hibari",
+      "names": {
+        "en": "Hibari",
+        "ja": "ひばり"
+      },
       "category": "Character",
       "cost": 3,
       "power": 5000,
@@ -438,12 +610,42 @@
             "alternate_art"
           ],
           "artist": "NAKAuMA"
+        },
+        {
+          "id": "EB03-008~ja",
+          "language": "ja",
+          "set": "EB03",
+          "rarity": "R",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/EB03-008.png",
+          "cardSet": "エクストラブースター ONE PIECE Heroines Edition【EB-03】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "EB03-008_p1~ja",
+          "language": "ja",
+          "set": "EB03",
+          "rarity": "R",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/EB03-008_p1.png",
+          "cardSet": "エクストラブースター ONE PIECE Heroines Edition【EB-03】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "EB03-009",
       "name": "Makino",
+      "names": {
+        "en": "Makino",
+        "ja": "マキノ"
+      },
       "category": "Character",
       "cost": 1,
       "counter": 2000,
@@ -479,12 +681,29 @@
             "distance": 5
           },
           "artist": "Sunohara"
+        },
+        {
+          "id": "EB03-009~ja",
+          "language": "ja",
+          "set": "EB03",
+          "rarity": "C",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/EB03-009.png",
+          "cardSet": "エクストラブースター ONE PIECE Heroines Edition【EB-03】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "EB03-010",
       "name": "Monet",
+      "names": {
+        "en": "Monet",
+        "ja": "モネ"
+      },
       "category": "Character",
       "cost": 5,
       "power": 6000,
@@ -522,12 +741,29 @@
             "distance": 2
           },
           "artist": "SHINRA AGENCY Co. Ltd."
+        },
+        {
+          "id": "EB03-010~ja",
+          "language": "ja",
+          "set": "EB03",
+          "rarity": "R",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/EB03-010.png",
+          "cardSet": "エクストラブースター ONE PIECE Heroines Edition【EB-03】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "EB03-011",
       "name": "But If We Ever See Each Other Again... Will You Call Me Your Shipmate?!!",
+      "names": {
+        "en": "But If We Ever See Each Other Again... Will You Call Me Your Shipmate?!!",
+        "ja": "いつかまた会えたら!!!もう一度 仲間と呼んでくれますか!!!?"
+      },
       "category": "Event",
       "cost": 1,
       "colors": [
@@ -558,12 +794,29 @@
             "match": "image-only-candidate",
             "distance": 4
           }
+        },
+        {
+          "id": "EB03-011~ja",
+          "language": "ja",
+          "set": "EB03",
+          "rarity": "C",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/EB03-011.png",
+          "cardSet": "エクストラブースター ONE PIECE Heroines Edition【EB-03】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "EB03-012",
       "name": "Otama",
+      "names": {
+        "en": "Otama",
+        "ja": "お玉"
+      },
       "category": "Character",
       "cost": 2,
       "counter": 2000,
@@ -599,12 +852,29 @@
             "distance": 8
           },
           "artist": "SHINRA AGENCY Co. Ltd."
+        },
+        {
+          "id": "EB03-012~ja",
+          "language": "ja",
+          "set": "EB03",
+          "rarity": "R",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/EB03-012.png",
+          "cardSet": "エクストラブースター ONE PIECE Heroines Edition【EB-03】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "EB03-013",
       "name": "Carrot",
+      "names": {
+        "en": "Carrot",
+        "ja": "キャロット"
+      },
       "category": "Character",
       "cost": 6,
       "power": 7000,
@@ -667,12 +937,42 @@
             "alternate_art"
           ],
           "artist": "Ryuda"
+        },
+        {
+          "id": "EB03-013~ja",
+          "language": "ja",
+          "set": "EB03",
+          "rarity": "R",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/EB03-013.png",
+          "cardSet": "エクストラブースター ONE PIECE Heroines Edition【EB-03】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "EB03-013_p1~ja",
+          "language": "ja",
+          "set": "EB03",
+          "rarity": "R",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/EB03-013_p1.png",
+          "cardSet": "エクストラブースター ONE PIECE Heroines Edition【EB-03】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "EB03-014",
       "name": "Kuina",
+      "names": {
+        "en": "Kuina",
+        "ja": "くいな"
+      },
       "category": "Character",
       "cost": 2,
       "counter": 1000,
@@ -709,12 +1009,29 @@
             "distance": 6
           },
           "artist": "SHINRA AGENCY Co. Ltd."
+        },
+        {
+          "id": "EB03-014~ja",
+          "language": "ja",
+          "set": "EB03",
+          "rarity": "C",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/EB03-014.png",
+          "cardSet": "エクストラブースター ONE PIECE Heroines Edition【EB-03】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "EB03-015",
       "name": "Camie",
+      "names": {
+        "en": "Camie",
+        "ja": "ケイミー"
+      },
       "category": "Character",
       "cost": 2,
       "counter": 1000,
@@ -751,12 +1068,29 @@
             "distance": 8
           },
           "artist": "Haru Miyajima"
+        },
+        {
+          "id": "EB03-015~ja",
+          "language": "ja",
+          "set": "EB03",
+          "rarity": "C",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/EB03-015.png",
+          "cardSet": "エクストラブースター ONE PIECE Heroines Edition【EB-03】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "EB03-016",
       "name": "Kouzuki Hiyori",
+      "names": {
+        "en": "Kouzuki Hiyori",
+        "ja": "光月日和"
+      },
       "category": "Character",
       "cost": 1,
       "attributes": [
@@ -792,12 +1126,29 @@
             "distance": 5
           },
           "artist": "Denim2"
+        },
+        {
+          "id": "EB03-016~ja",
+          "language": "ja",
+          "set": "EB03",
+          "rarity": "C",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/EB03-016.png",
+          "cardSet": "エクストラブースター ONE PIECE Heroines Edition【EB-03】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "EB03-017",
       "name": "Jewelry Bonney",
+      "names": {
+        "en": "Jewelry Bonney",
+        "ja": "ジュエリー・ボニー"
+      },
       "category": "Character",
       "cost": 5,
       "power": 6000,
@@ -835,12 +1186,29 @@
             "distance": 2
           },
           "artist": "Samei Ikusa"
+        },
+        {
+          "id": "EB03-017~ja",
+          "language": "ja",
+          "set": "EB03",
+          "rarity": "R",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/EB03-017.png",
+          "cardSet": "エクストラブースター ONE PIECE Heroines Edition【EB-03】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "EB03-018",
       "name": "Tashigi",
+      "names": {
+        "en": "Tashigi",
+        "ja": "たしぎ"
+      },
       "category": "Character",
       "cost": 4,
       "power": 6000,
@@ -928,12 +1296,55 @@
             "sp"
           ],
           "artist": "Denim2"
+        },
+        {
+          "id": "EB03-018~ja",
+          "language": "ja",
+          "set": "EB03",
+          "rarity": "SR",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/EB03-018.png",
+          "cardSet": "エクストラブースター ONE PIECE Heroines Edition【EB-03】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "EB03-018_p1~ja",
+          "language": "ja",
+          "set": "EB03",
+          "rarity": "SR",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/EB03-018_p1.png",
+          "cardSet": "エクストラブースター ONE PIECE Heroines Edition【EB-03】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "EB03-018_p2~ja",
+          "language": "ja",
+          "set": "EB03",
+          "rarity": "SP CARD",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/EB03-018_p2.png",
+          "cardSet": "エクストラブースター ONE PIECE Heroines Edition【EB-03】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "EB03-019",
       "name": "Wanda",
+      "names": {
+        "en": "Wanda",
+        "ja": "ワンダ"
+      },
       "category": "Character",
       "cost": 6,
       "power": 7000,
@@ -970,12 +1381,29 @@
             "distance": 4
           },
           "artist": "COGA"
+        },
+        {
+          "id": "EB03-019~ja",
+          "language": "ja",
+          "set": "EB03",
+          "rarity": "C",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/EB03-019.png",
+          "cardSet": "エクストラブースター ONE PIECE Heroines Edition【EB-03】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "EB03-020",
       "name": "There You Are, Sore Loser!",
+      "names": {
+        "en": "There You Are, Sore Loser!",
+        "ja": "出た!負け惜しみ～"
+      },
       "category": "Event",
       "cost": 1,
       "colors": [
@@ -1006,12 +1434,29 @@
             "match": "image-only-candidate",
             "distance": 7
           }
+        },
+        {
+          "id": "EB03-020~ja",
+          "language": "ja",
+          "set": "EB03",
+          "rarity": "C",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/EB03-020.png",
+          "cardSet": "エクストラブースター ONE PIECE Heroines Edition【EB-03】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "EB03-021",
       "name": "Alvida",
+      "names": {
+        "en": "Alvida",
+        "ja": "アルビダ"
+      },
       "category": "Character",
       "cost": 4,
       "power": 2000,
@@ -1048,12 +1493,29 @@
             "distance": 4
           },
           "artist": "Hatori Kyoka"
+        },
+        {
+          "id": "EB03-021~ja",
+          "language": "ja",
+          "set": "EB03",
+          "rarity": "C",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/EB03-021.png",
+          "cardSet": "エクストラブースター ONE PIECE Heroines Edition【EB-03】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "EB03-022",
       "name": "Isuka",
+      "names": {
+        "en": "Isuka",
+        "ja": "イスカ"
+      },
       "category": "Character",
       "cost": 6,
       "power": 6000,
@@ -1090,12 +1552,29 @@
             "distance": 4
           },
           "artist": "kicori"
+        },
+        {
+          "id": "EB03-022~ja",
+          "language": "ja",
+          "set": "EB03",
+          "rarity": "R",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/EB03-022.png",
+          "cardSet": "エクストラブースター ONE PIECE Heroines Edition【EB-03】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "EB03-023",
       "name": "Kaya",
+      "names": {
+        "en": "Kaya",
+        "ja": "カヤ"
+      },
       "category": "Character",
       "cost": 2,
       "counter": 2000,
@@ -1131,12 +1610,29 @@
             "distance": 2
           },
           "artist": "Bashikou"
+        },
+        {
+          "id": "EB03-023~ja",
+          "language": "ja",
+          "set": "EB03",
+          "rarity": "C",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/EB03-023.png",
+          "cardSet": "エクストラブースター ONE PIECE Heroines Edition【EB-03】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "EB03-024",
       "name": "Nefeltari Vivi",
+      "names": {
+        "en": "Nefeltari Vivi",
+        "ja": "ネフェルタリ・ビビ"
+      },
       "category": "Character",
       "cost": 5,
       "power": 4000,
@@ -1225,12 +1721,55 @@
             "sp"
           ],
           "artist": "Haru Miyajima"
+        },
+        {
+          "id": "EB03-024~ja",
+          "language": "ja",
+          "set": "EB03",
+          "rarity": "SR",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/EB03-024.png",
+          "cardSet": "エクストラブースター ONE PIECE Heroines Edition【EB-03】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "EB03-024_p1~ja",
+          "language": "ja",
+          "set": "EB03",
+          "rarity": "SR",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/EB03-024_p1.png",
+          "cardSet": "エクストラブースター ONE PIECE Heroines Edition【EB-03】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "EB03-024_p2~ja",
+          "language": "ja",
+          "set": "EB03",
+          "rarity": "SP CARD",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/EB03-024_p2.png",
+          "cardSet": "エクストラブースター ONE PIECE Heroines Edition【EB-03】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "EB03-025",
       "name": "Hina",
+      "names": {
+        "en": "Hina",
+        "ja": "ヒナ"
+      },
       "category": "Character",
       "cost": 5,
       "power": 6000,
@@ -1293,12 +1832,42 @@
             "alternate_art"
           ],
           "artist": "Hatori Kyoka"
+        },
+        {
+          "id": "EB03-025~ja",
+          "language": "ja",
+          "set": "EB03",
+          "rarity": "R",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/EB03-025.png",
+          "cardSet": "エクストラブースター ONE PIECE Heroines Edition【EB-03】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "EB03-025_p1~ja",
+          "language": "ja",
+          "set": "EB03",
+          "rarity": "R",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/EB03-025_p1.png",
+          "cardSet": "エクストラブースター ONE PIECE Heroines Edition【EB-03】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "EB03-026",
       "name": "Boa Hancock",
+      "names": {
+        "en": "Boa Hancock",
+        "ja": "ボア・ハンコック"
+      },
       "category": "Character",
       "cost": 6,
       "power": 8000,
@@ -1387,12 +1956,55 @@
             "sp"
           ],
           "artist": "Sunohara"
+        },
+        {
+          "id": "EB03-026~ja",
+          "language": "ja",
+          "set": "EB03",
+          "rarity": "SR",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/EB03-026.png",
+          "cardSet": "エクストラブースター ONE PIECE Heroines Edition【EB-03】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "EB03-026_p1~ja",
+          "language": "ja",
+          "set": "EB03",
+          "rarity": "SR",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/EB03-026_p1.png",
+          "cardSet": "エクストラブースター ONE PIECE Heroines Edition【EB-03】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "EB03-026_p2~ja",
+          "language": "ja",
+          "set": "EB03",
+          "rarity": "SP CARD",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/EB03-026_p2.png",
+          "cardSet": "エクストラブースター ONE PIECE Heroines Edition【EB-03】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "EB03-027",
       "name": "Marguerite",
+      "names": {
+        "en": "Marguerite",
+        "ja": "マーガレット"
+      },
       "category": "Character",
       "cost": 6,
       "power": 7000,
@@ -1429,12 +2041,39 @@
             "distance": 5
           },
           "artist": "SHINRA AGENCY Co. Ltd."
+        },
+        {
+          "id": "EB03-027~ja",
+          "language": "ja",
+          "set": "EB03",
+          "rarity": "R",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/EB03-027.png",
+          "cardSet": "エクストラブースター ONE PIECE Heroines Edition【EB-03】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "EB03-027_p1~ja",
+          "language": "ja",
+          "set": "P",
+          "rarity": "R",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/EB03-027_p1.png",
+          "cardSet": "プロモーションパックEX Vol.4",
+          "source": "bandai"
         }
       ]
     },
     {
       "number": "EB03-028",
       "name": "Yu",
+      "names": {
+        "en": "Yu",
+        "ja": "ユウ"
+      },
       "category": "Character",
       "cost": 2,
       "counter": 1000,
@@ -1470,12 +2109,29 @@
             "distance": 6
           },
           "artist": "COGA"
+        },
+        {
+          "id": "EB03-028~ja",
+          "language": "ja",
+          "set": "EB03",
+          "rarity": "C",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/EB03-028.png",
+          "cardSet": "エクストラブースター ONE PIECE Heroines Edition【EB-03】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "EB03-029",
       "name": "Insolent Fool!! Stand Down!!",
+      "names": {
+        "en": "Insolent Fool!! Stand Down!!",
+        "ja": "不届き者‼控えよ‼"
+      },
       "category": "Event",
       "cost": 1,
       "colors": [
@@ -1507,12 +2163,29 @@
             "match": "image-only-candidate",
             "distance": 7
           }
+        },
+        {
+          "id": "EB03-029~ja",
+          "language": "ja",
+          "set": "EB03",
+          "rarity": "C",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/EB03-029.png",
+          "cardSet": "エクストラブースター ONE PIECE Heroines Edition【EB-03】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "EB03-030",
       "name": "Viola",
+      "names": {
+        "en": "Viola",
+        "ja": "ヴィオラ"
+      },
       "category": "Character",
       "cost": 5,
       "power": 6000,
@@ -1549,12 +2222,29 @@
             "distance": 2
           },
           "artist": "Yasushi Yamaguchi"
+        },
+        {
+          "id": "EB03-030~ja",
+          "language": "ja",
+          "set": "EB03",
+          "rarity": "C",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/EB03-030.png",
+          "cardSet": "エクストラブースター ONE PIECE Heroines Edition【EB-03】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "EB03-031",
       "name": "Vinsmoke Reiju",
+      "names": {
+        "en": "Vinsmoke Reiju",
+        "ja": "ヴィンスモーク・レイジュ"
+      },
       "category": "Character",
       "cost": 5,
       "power": 5000,
@@ -1644,12 +2334,55 @@
             "sp"
           ],
           "artist": "Sunohara"
+        },
+        {
+          "id": "EB03-031~ja",
+          "language": "ja",
+          "set": "EB03",
+          "rarity": "SR",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/EB03-031.png",
+          "cardSet": "エクストラブースター ONE PIECE Heroines Edition【EB-03】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "EB03-031_p1~ja",
+          "language": "ja",
+          "set": "EB03",
+          "rarity": "SR",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/EB03-031_p1.png",
+          "cardSet": "エクストラブースター ONE PIECE Heroines Edition【EB-03】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "EB03-031_p2~ja",
+          "language": "ja",
+          "set": "EB03",
+          "rarity": "SP CARD",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/EB03-031_p2.png",
+          "cardSet": "エクストラブースター ONE PIECE Heroines Edition【EB-03】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "EB03-032",
       "name": "Charlotte Flampe",
+      "names": {
+        "en": "Charlotte Flampe",
+        "ja": "シャーロット・フランペ"
+      },
       "category": "Character",
       "cost": 1,
       "power": 2000,
@@ -1700,12 +2433,42 @@
             "nonfoil"
           ],
           "artist": "Koushi Rokushiro"
+        },
+        {
+          "id": "EB03-032~ja",
+          "language": "ja",
+          "set": "EB03",
+          "rarity": "C",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/EB03-032.png",
+          "cardSet": "エクストラブースター ONE PIECE Heroines Edition【EB-03】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
+        },
+        {
+          "id": "EB03-032_r1~ja",
+          "language": "ja",
+          "set": "ST34",
+          "rarity": "C",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/EB03-032_r1.png",
+          "cardSet": "スタートデッキ 紫 シャーロット・カタクリ【ST-34】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "EB03-033",
       "name": "Charlotte Brulee",
+      "names": {
+        "en": "Charlotte Brulee",
+        "ja": "シャーロット・ブリュレ"
+      },
       "category": "Character",
       "cost": 5,
       "power": 6000,
@@ -1742,12 +2505,29 @@
             "distance": 6
           },
           "artist": "kankurou"
+        },
+        {
+          "id": "EB03-033~ja",
+          "language": "ja",
+          "set": "EB03",
+          "rarity": "C",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/EB03-033.png",
+          "cardSet": "エクストラブースター ONE PIECE Heroines Edition【EB-03】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "EB03-034",
       "name": "Charlotte Linlin",
+      "names": {
+        "en": "Charlotte Linlin",
+        "ja": "シャーロット・リンリン"
+      },
       "category": "Character",
       "cost": 7,
       "power": 7000,
@@ -1810,12 +2590,42 @@
             "alternate_art"
           ],
           "artist": "Hokuyuu"
+        },
+        {
+          "id": "EB03-034~ja",
+          "language": "ja",
+          "set": "EB03",
+          "rarity": "R",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/EB03-034.png",
+          "cardSet": "エクストラブースター ONE PIECE Heroines Edition【EB-03】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "EB03-034_p1~ja",
+          "language": "ja",
+          "set": "EB03",
+          "rarity": "R",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/EB03-034_p1.png",
+          "cardSet": "エクストラブースター ONE PIECE Heroines Edition【EB-03】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "EB03-035",
       "name": "Charlotte Pudding",
+      "names": {
+        "en": "Charlotte Pudding",
+        "ja": "シャーロット・プリン"
+      },
       "category": "Character",
       "cost": 4,
       "power": 4000,
@@ -1874,12 +2684,42 @@
             "match": "image-only-candidate",
             "distance": 2
           }
+        },
+        {
+          "id": "EB03-035~ja",
+          "language": "ja",
+          "set": "EB03",
+          "rarity": "R",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/EB03-035.png",
+          "cardSet": "エクストラブースター ONE PIECE Heroines Edition【EB-03】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "EB03-035_r1~ja",
+          "language": "ja",
+          "set": "ST34",
+          "rarity": "R",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/EB03-035_r1.png",
+          "cardSet": "スタートデッキ 紫 シャーロット・カタクリ【ST-34】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "EB03-036",
       "name": "Baby 5",
+      "names": {
+        "en": "Baby 5",
+        "ja": "ベビー５"
+      },
       "category": "Character",
       "cost": 4,
       "power": 2000,
@@ -1916,12 +2756,29 @@
             "distance": 2
           },
           "artist": "touge369"
+        },
+        {
+          "id": "EB03-036~ja",
+          "language": "ja",
+          "set": "EB03",
+          "rarity": "C",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/EB03-036.png",
+          "cardSet": "エクストラブースター ONE PIECE Heroines Edition【EB-03】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "EB03-037",
       "name": "Lim",
+      "names": {
+        "en": "Lim",
+        "ja": "リム"
+      },
       "category": "Character",
       "cost": 4,
       "power": 5000,
@@ -1958,12 +2815,29 @@
             "distance": 2
           },
           "artist": "Misa Matoki"
+        },
+        {
+          "id": "EB03-037~ja",
+          "language": "ja",
+          "set": "EB03",
+          "rarity": "R",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/EB03-037.png",
+          "cardSet": "エクストラブースター ONE PIECE Heroines Edition【EB-03】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "EB03-038",
       "name": "Thanks for the Treat. ♡",
+      "names": {
+        "en": "Thanks for the Treat. ♡",
+        "ja": "ごち♡"
+      },
       "category": "Event",
       "cost": 1,
       "colors": [
@@ -1995,12 +2869,29 @@
             "match": "image-only-candidate",
             "distance": 6
           }
+        },
+        {
+          "id": "EB03-038~ja",
+          "language": "ja",
+          "set": "EB03",
+          "rarity": "C",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/EB03-038.png",
+          "cardSet": "エクストラブースター ONE PIECE Heroines Edition【EB-03】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "EB03-039",
       "name": "Ulti",
+      "names": {
+        "en": "Ulti",
+        "ja": "うるティ"
+      },
       "category": "Character",
       "cost": 6,
       "power": 7000,
@@ -2037,12 +2928,29 @@
             "distance": 3
           },
           "artist": "Yuu Shimotsuki"
+        },
+        {
+          "id": "EB03-039~ja",
+          "language": "ja",
+          "set": "EB03",
+          "rarity": "R",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/EB03-039.png",
+          "cardSet": "エクストラブースター ONE PIECE Heroines Edition【EB-03】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "EB03-040",
       "name": "Kalifa",
+      "names": {
+        "en": "Kalifa",
+        "ja": "カリファ"
+      },
       "category": "Character",
       "cost": 5,
       "power": 6000,
@@ -2079,12 +2987,29 @@
             "distance": 3
           },
           "artist": "Morechand"
+        },
+        {
+          "id": "EB03-040~ja",
+          "language": "ja",
+          "set": "EB03",
+          "rarity": "C",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/EB03-040.png",
+          "cardSet": "エクストラブースター ONE PIECE Heroines Edition【EB-03】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "EB03-041",
       "name": "Kujyaku",
+      "names": {
+        "en": "Kujyaku",
+        "ja": "孔雀"
+      },
       "category": "Character",
       "cost": 4,
       "power": 6000,
@@ -2147,12 +3072,42 @@
             "alternate_art"
           ],
           "artist": "Morechand"
+        },
+        {
+          "id": "EB03-041~ja",
+          "language": "ja",
+          "set": "EB03",
+          "rarity": "R",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/EB03-041.png",
+          "cardSet": "エクストラブースター ONE PIECE Heroines Edition【EB-03】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "EB03-041_p1~ja",
+          "language": "ja",
+          "set": "EB03",
+          "rarity": "R",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/EB03-041_p1.png",
+          "cardSet": "エクストラブースター ONE PIECE Heroines Edition【EB-03】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "EB03-042",
       "name": "Koala",
+      "names": {
+        "en": "Koala",
+        "ja": "コアラ"
+      },
       "category": "Character",
       "cost": 4,
       "power": 5000,
@@ -2242,12 +3197,55 @@
             "sp"
           ],
           "artist": "sacanahen"
+        },
+        {
+          "id": "EB03-042~ja",
+          "language": "ja",
+          "set": "EB03",
+          "rarity": "SR",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/EB03-042.png",
+          "cardSet": "エクストラブースター ONE PIECE Heroines Edition【EB-03】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "EB03-042_p1~ja",
+          "language": "ja",
+          "set": "EB03",
+          "rarity": "SR",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/EB03-042_p1.png",
+          "cardSet": "エクストラブースター ONE PIECE Heroines Edition【EB-03】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "EB03-042_p2~ja",
+          "language": "ja",
+          "set": "EB03",
+          "rarity": "SP CARD",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/EB03-042_p2.png",
+          "cardSet": "エクストラブースター ONE PIECE Heroines Edition【EB-03】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "EB03-043",
       "name": "Stussy",
+      "names": {
+        "en": "Stussy",
+        "ja": "ステューシー"
+      },
       "category": "Character",
       "cost": 7,
       "power": 7000,
@@ -2283,12 +3281,29 @@
             "distance": 5
           },
           "artist": "Nijihayashi"
+        },
+        {
+          "id": "EB03-043~ja",
+          "language": "ja",
+          "set": "EB03",
+          "rarity": "R",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/EB03-043.png",
+          "cardSet": "エクストラブースター ONE PIECE Heroines Edition【EB-03】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "EB03-044",
       "name": "Black Maria",
+      "names": {
+        "en": "Black Maria",
+        "ja": "ブラックマリア"
+      },
       "category": "Character",
       "cost": 3,
       "power": 4000,
@@ -2325,12 +3340,29 @@
             "distance": 9
           },
           "artist": "HISASHI HUJIWARA"
+        },
+        {
+          "id": "EB03-044~ja",
+          "language": "ja",
+          "set": "EB03",
+          "rarity": "C",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/EB03-044.png",
+          "cardSet": "エクストラブースター ONE PIECE Heroines Edition【EB-03】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "EB03-045",
       "name": "Perona",
+      "names": {
+        "en": "Perona",
+        "ja": "ペローナ"
+      },
       "category": "Character",
       "cost": 4,
       "power": 6000,
@@ -2419,12 +3451,55 @@
             "sp"
           ],
           "artist": "Bashikou"
+        },
+        {
+          "id": "EB03-045~ja",
+          "language": "ja",
+          "set": "EB03",
+          "rarity": "SR",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/EB03-045.png",
+          "cardSet": "エクストラブースター ONE PIECE Heroines Edition【EB-03】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "EB03-045_p1~ja",
+          "language": "ja",
+          "set": "EB03",
+          "rarity": "SR",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/EB03-045_p1.png",
+          "cardSet": "エクストラブースター ONE PIECE Heroines Edition【EB-03】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "EB03-045_p2~ja",
+          "language": "ja",
+          "set": "EB03",
+          "rarity": "SP CARD",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/EB03-045_p2.png",
+          "cardSet": "エクストラブースター ONE PIECE Heroines Edition【EB-03】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "EB03-046",
       "name": "Miss Doublefinger(Zala)",
+      "names": {
+        "en": "Miss Doublefinger(Zala)",
+        "ja": "ミス・ダブルフィンガー(ザラ)"
+      },
       "category": "Character",
       "cost": 4,
       "power": 5000,
@@ -2461,12 +3536,29 @@
             "distance": 3
           },
           "artist": "Koushi Rokushiro"
+        },
+        {
+          "id": "EB03-046~ja",
+          "language": "ja",
+          "set": "EB03",
+          "rarity": "C",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/EB03-046.png",
+          "cardSet": "エクストラブースター ONE PIECE Heroines Edition【EB-03】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "EB03-047",
       "name": "Miss.Valentine(Mikita)",
+      "names": {
+        "en": "Miss.Valentine(Mikita)",
+        "ja": "ミス・バレンタイン(ミキータ)"
+      },
       "category": "Character",
       "cost": 2,
       "power": 2000,
@@ -2503,12 +3595,29 @@
             "distance": 5
           },
           "artist": "Misa Matoki"
+        },
+        {
+          "id": "EB03-047~ja",
+          "language": "ja",
+          "set": "EB03",
+          "rarity": "C",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/EB03-047.png",
+          "cardSet": "エクストラブースター ONE PIECE Heroines Edition【EB-03】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "EB03-048",
       "name": "Rebecca",
+      "names": {
+        "en": "Rebecca",
+        "ja": "レベッカ"
+      },
       "category": "Character",
       "cost": 2,
       "counter": 1000,
@@ -2544,12 +3653,29 @@
             "distance": 5
           },
           "artist": "DAI-XT."
+        },
+        {
+          "id": "EB03-048~ja",
+          "language": "ja",
+          "set": "EB03",
+          "rarity": "R",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/EB03-048.png",
+          "cardSet": "エクストラブースター ONE PIECE Heroines Edition【EB-03】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "EB03-049",
       "name": "I Knew You People Were Behind This.",
+      "names": {
+        "en": "I Knew You People Were Behind This.",
+        "ja": "やっぱりお前らかこの大騒ぎ"
+      },
       "category": "Event",
       "cost": 1,
       "colors": [
@@ -2580,12 +3706,29 @@
             "match": "image-only-candidate",
             "distance": 6
           }
+        },
+        {
+          "id": "EB03-049~ja",
+          "language": "ja",
+          "set": "EB03",
+          "rarity": "C",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/EB03-049.png",
+          "cardSet": "エクストラブースター ONE PIECE Heroines Edition【EB-03】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "EB03-050",
       "name": "Conis",
+      "names": {
+        "en": "Conis",
+        "ja": "コニス"
+      },
       "category": "Character",
       "cost": 2,
       "counter": 1000,
@@ -2621,12 +3764,29 @@
             "distance": 6
           },
           "artist": "HISASHI HUJIWARA"
+        },
+        {
+          "id": "EB03-050~ja",
+          "language": "ja",
+          "set": "EB03",
+          "rarity": "C",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/EB03-050.png",
+          "cardSet": "エクストラブースター ONE PIECE Heroines Edition【EB-03】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "EB03-051",
       "name": "Charlotte Smoothie",
+      "names": {
+        "en": "Charlotte Smoothie",
+        "ja": "シャーロット・スムージー"
+      },
       "category": "Character",
       "cost": 3,
       "power": 3000,
@@ -2663,12 +3823,29 @@
             "distance": 5
           },
           "artist": "HISASHI HUJIWARA"
+        },
+        {
+          "id": "EB03-051~ja",
+          "language": "ja",
+          "set": "EB03",
+          "rarity": "C",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/EB03-051.png",
+          "cardSet": "エクストラブースター ONE PIECE Heroines Edition【EB-03】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "EB03-052",
       "name": "Shirahoshi",
+      "names": {
+        "en": "Shirahoshi",
+        "ja": "しらほし"
+      },
       "category": "Character",
       "cost": 3,
       "counter": 1000,
@@ -2705,12 +3882,29 @@
             "distance": 9
           },
           "artist": "Kaito Shibano"
+        },
+        {
+          "id": "EB03-052~ja",
+          "language": "ja",
+          "set": "EB03",
+          "rarity": "R",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/EB03-052.png",
+          "cardSet": "エクストラブースター ONE PIECE Heroines Edition【EB-03】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "EB03-053",
       "name": "Nami",
+      "names": {
+        "en": "Nami",
+        "ja": "ナミ"
+      },
       "category": "Character",
       "cost": 5,
       "power": 6000,
@@ -2799,12 +3993,55 @@
             "sp"
           ],
           "artist": "Naruse Uroko"
+        },
+        {
+          "id": "EB03-053~ja",
+          "language": "ja",
+          "set": "EB03",
+          "rarity": "SR",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/EB03-053.png",
+          "cardSet": "エクストラブースター ONE PIECE Heroines Edition【EB-03】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "EB03-053_p1~ja",
+          "language": "ja",
+          "set": "EB03",
+          "rarity": "SR",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/EB03-053_p1.png",
+          "cardSet": "エクストラブースター ONE PIECE Heroines Edition【EB-03】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "EB03-053_p2~ja",
+          "language": "ja",
+          "set": "EB03",
+          "rarity": "SP CARD",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/EB03-053_p2.png",
+          "cardSet": "エクストラブースター ONE PIECE Heroines Edition【EB-03】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "EB03-054",
       "name": "Nico Robin",
+      "names": {
+        "en": "Nico Robin",
+        "ja": "ニコ・ロビン"
+      },
       "category": "Character",
       "cost": 3,
       "power": 5000,
@@ -2866,12 +4103,29 @@
               "category": "event"
             }
           ]
+        },
+        {
+          "id": "EB03-054~ja",
+          "language": "ja",
+          "set": "EB03",
+          "rarity": "C",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/EB03-054.png",
+          "cardSet": "エクストラブースター ONE PIECE Heroines Edition【EB-03】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "EB03-055",
       "name": "Nico Robin",
+      "names": {
+        "en": "Nico Robin",
+        "ja": "ニコ・ロビン"
+      },
       "category": "Character",
       "cost": 7,
       "power": 8000,
@@ -2959,12 +4213,55 @@
             "sp"
           ],
           "artist": "Hashimoto Q"
+        },
+        {
+          "id": "EB03-055~ja",
+          "language": "ja",
+          "set": "EB03",
+          "rarity": "SR",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/EB03-055.png",
+          "cardSet": "エクストラブースター ONE PIECE Heroines Edition【EB-03】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "EB03-055_p1~ja",
+          "language": "ja",
+          "set": "EB03",
+          "rarity": "SR",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/EB03-055_p1.png",
+          "cardSet": "エクストラブースター ONE PIECE Heroines Edition【EB-03】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "EB03-055_p2~ja",
+          "language": "ja",
+          "set": "EB03",
+          "rarity": "SP CARD",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/EB03-055_p2.png",
+          "cardSet": "エクストラブースター ONE PIECE Heroines Edition【EB-03】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "EB03-056",
       "name": "Belo Betty",
+      "names": {
+        "en": "Belo Betty",
+        "ja": "ベロ・ベティ"
+      },
       "category": "Character",
       "cost": 4,
       "power": 3000,
@@ -3001,12 +4298,29 @@
             "distance": 2
           },
           "artist": "touge369"
+        },
+        {
+          "id": "EB03-056~ja",
+          "language": "ja",
+          "set": "EB03",
+          "rarity": "C",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/EB03-056.png",
+          "cardSet": "エクストラブースター ONE PIECE Heroines Edition【EB-03】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "EB03-057",
       "name": "Yamato",
+      "names": {
+        "en": "Yamato",
+        "ja": "ヤマト"
+      },
       "category": "Character",
       "cost": 5,
       "power": 6000,
@@ -3069,12 +4383,42 @@
             "alternate_art"
           ],
           "artist": "Shishizaru"
+        },
+        {
+          "id": "EB03-057~ja",
+          "language": "ja",
+          "set": "EB03",
+          "rarity": "R",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/EB03-057.png",
+          "cardSet": "エクストラブースター ONE PIECE Heroines Edition【EB-03】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "EB03-057_p1~ja",
+          "language": "ja",
+          "set": "EB03",
+          "rarity": "R",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/EB03-057_p1.png",
+          "cardSet": "エクストラブースター ONE PIECE Heroines Edition【EB-03】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "EB03-058",
       "name": "Lilith",
+      "names": {
+        "en": "Lilith",
+        "ja": "リリス"
+      },
       "category": "Character",
       "cost": 5,
       "power": 6000,
@@ -3112,12 +4456,29 @@
             "distance": 2
           },
           "artist": "Hagane Tsurugi"
+        },
+        {
+          "id": "EB03-058~ja",
+          "language": "ja",
+          "set": "EB03",
+          "rarity": "R",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/EB03-058.png",
+          "cardSet": "エクストラブースター ONE PIECE Heroines Edition【EB-03】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "EB03-059",
       "name": "S-Snake",
+      "names": {
+        "en": "S-Snake",
+        "ja": "S-スネーク"
+      },
       "category": "Character",
       "cost": 6,
       "power": 7000,
@@ -3155,12 +4516,29 @@
             "distance": 2
           },
           "artist": "Misa Matoki"
+        },
+        {
+          "id": "EB03-059~ja",
+          "language": "ja",
+          "set": "EB03",
+          "rarity": "R",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/EB03-059.png",
+          "cardSet": "エクストラブースター ONE PIECE Heroines Edition【EB-03】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "EB03-060",
       "name": "Will You Be My Servant?",
+      "names": {
+        "en": "Will You Be My Servant?",
+        "ja": "私のしもべになる？"
+      },
       "category": "Event",
       "cost": 1,
       "colors": [
@@ -3191,12 +4569,29 @@
             "match": "image-only-candidate",
             "distance": 3
           }
+        },
+        {
+          "id": "EB03-060~ja",
+          "language": "ja",
+          "set": "EB03",
+          "rarity": "C",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/EB03-060.png",
+          "cardSet": "エクストラブースター ONE PIECE Heroines Edition【EB-03】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "EB03-061",
       "name": "Uta",
+      "names": {
+        "en": "Uta",
+        "ja": "ウタ"
+      },
       "category": "Character",
       "cost": 7,
       "power": 8000,
@@ -3283,12 +4678,55 @@
           "treatments": [
             "manga"
           ]
+        },
+        {
+          "id": "EB03-061~ja",
+          "language": "ja",
+          "set": "EB03",
+          "rarity": "SEC",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/EB03-061.png",
+          "cardSet": "エクストラブースター ONE PIECE Heroines Edition【EB-03】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "EB03-061_p1~ja",
+          "language": "ja",
+          "set": "EB03",
+          "rarity": "SEC",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/EB03-061_p1.png",
+          "cardSet": "エクストラブースター ONE PIECE Heroines Edition【EB-03】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "EB03-061_p2~ja",
+          "language": "ja",
+          "set": "EB03",
+          "rarity": "SEC",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/EB03-061_p2.png",
+          "cardSet": "エクストラブースター ONE PIECE Heroines Edition【EB-03】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "EB03-062",
       "name": "Trafalgar Law",
+      "names": {
+        "en": "Trafalgar Law",
+        "ja": "トラファルガー・ロー"
+      },
       "category": "Character",
       "cost": 8,
       "power": 6000,
@@ -3351,6 +4789,32 @@
             "alternate_art"
           ],
           "artist": "Akanegumo"
+        },
+        {
+          "id": "EB03-062~ja",
+          "language": "ja",
+          "set": "EB03",
+          "rarity": "SEC",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/EB03-062.png",
+          "cardSet": "エクストラブースター ONE PIECE Heroines Edition【EB-03】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "EB03-062_p1~ja",
+          "language": "ja",
+          "set": "EB03",
+          "rarity": "SEC",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/EB03-062_p1.png",
+          "cardSet": "エクストラブースター ONE PIECE Heroines Edition【EB-03】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     }

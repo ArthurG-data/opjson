@@ -3,6 +3,10 @@
     {
       "number": "ST19-001",
       "name": "Smoker",
+      "names": {
+        "en": "Smoker",
+        "ja": "スモーカー"
+      },
       "category": "Character",
       "cost": 6,
       "power": 8000,
@@ -38,12 +42,29 @@
             "distance": 1
           },
           "artist": "Morechand"
+        },
+        {
+          "id": "ST19-001~ja",
+          "language": "ja",
+          "set": "ST19",
+          "rarity": "C",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/ST19-001.png",
+          "cardSet": "スタートデッキ 黒 スモーカー【ST-19】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "ST19-002",
       "name": "Sengoku",
+      "names": {
+        "en": "Sengoku",
+        "ja": "センゴク"
+      },
       "category": "Character",
       "cost": 1,
       "power": 1000,
@@ -194,12 +215,65 @@
           ],
           "artOf": "ST19-002",
           "artist": "kankurou"
+        },
+        {
+          "id": "ST19-002~ja",
+          "language": "ja",
+          "set": "ST19",
+          "rarity": "C",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/ST19-002.png",
+          "cardSet": "スタートデッキ 黒 スモーカー【ST-19】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
+        },
+        {
+          "id": "ST19-002_p1~ja",
+          "language": "ja",
+          "set": "P",
+          "rarity": "C",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/ST19-002_p1.png",
+          "cardSet": "スタンダードバトルパックVol.11",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
+        },
+        {
+          "id": "ST19-002_p2~ja",
+          "language": "ja",
+          "set": "PRB02",
+          "rarity": "C",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/ST19-002_p2.png",
+          "cardSet": "ONE PIECE CARD THE BEST vol.2【PRB-02】",
+          "source": "bandai"
+        },
+        {
+          "id": "ST19-002_r1~ja",
+          "language": "ja",
+          "set": "PRB02",
+          "rarity": "C",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/ST19-002_r1.png",
+          "cardSet": "ONE PIECE CARD THE BEST vol.2【PRB-02】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "ST19-003",
       "name": "Tashigi",
+      "names": {
+        "en": "Tashigi",
+        "ja": "たしぎ"
+      },
       "category": "Character",
       "cost": 5,
       "power": 6000,
@@ -236,12 +310,29 @@
             "distance": 2
           },
           "artist": "Romayasu"
+        },
+        {
+          "id": "ST19-003~ja",
+          "language": "ja",
+          "set": "ST19",
+          "rarity": "SR",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/ST19-003.png",
+          "cardSet": "スタートデッキ 黒 スモーカー【ST-19】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "ST19-004",
       "name": "Hina",
+      "names": {
+        "en": "Hina",
+        "ja": "ヒナ"
+      },
       "category": "Character",
       "cost": 4,
       "power": 6000,
@@ -277,12 +368,29 @@
             "distance": 4
           },
           "artist": "Yamada Rokkaku."
+        },
+        {
+          "id": "ST19-004~ja",
+          "language": "ja",
+          "set": "ST19",
+          "rarity": "SR",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/ST19-004.png",
+          "cardSet": "スタートデッキ 黒 スモーカー【ST-19】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "ST19-005",
       "name": "Monkey.D.Garp",
+      "names": {
+        "en": "Monkey.D.Garp",
+        "ja": "モンキー・D・ガープ"
+      },
       "category": "Character",
       "cost": 3,
       "power": 4000,
@@ -319,6 +427,19 @@
             "distance": 1
           },
           "artist": "kankurou"
+        },
+        {
+          "id": "ST19-005~ja",
+          "language": "ja",
+          "set": "ST19",
+          "rarity": "C",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/ST19-005.png",
+          "cardSet": "スタートデッキ 黒 スモーカー【ST-19】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     }

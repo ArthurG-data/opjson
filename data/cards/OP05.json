@@ -3,6 +3,10 @@
     {
       "number": "OP05-001",
       "name": "Sabo",
+      "names": {
+        "en": "Sabo",
+        "ja": "サボ"
+      },
       "category": "Leader",
       "power": 5000,
       "life": 4,
@@ -88,12 +92,55 @@
           "treatments": [
             "sp"
           ]
+        },
+        {
+          "id": "OP05-001~ja",
+          "language": "ja",
+          "set": "OP05",
+          "rarity": "L",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP05-001.png",
+          "cardSet": "新時代の主役【OP-05】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
+        },
+        {
+          "id": "OP05-001_p1~ja",
+          "language": "ja",
+          "set": "OP05",
+          "rarity": "L",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP05-001_p1.png",
+          "cardSet": "新時代の主役【OP-05】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP05-001_p2~ja",
+          "language": "ja",
+          "set": "EB02",
+          "rarity": "L",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP05-001_p2.png",
+          "cardSet": "エクストラブースター Anime 25th collection【EB-02】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "OP05-002",
       "name": "Belo Betty",
+      "names": {
+        "en": "Belo Betty",
+        "ja": "ベロ・ベティ"
+      },
       "category": "Leader",
       "power": 5000,
       "life": 4,
@@ -179,12 +226,55 @@
           "treatments": [
             "sp"
           ]
+        },
+        {
+          "id": "OP05-002~ja",
+          "language": "ja",
+          "set": "OP05",
+          "rarity": "L",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP05-002.png",
+          "cardSet": "新時代の主役【OP-05】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
+        },
+        {
+          "id": "OP05-002_p1~ja",
+          "language": "ja",
+          "set": "OP05",
+          "rarity": "L",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP05-002_p1.png",
+          "cardSet": "新時代の主役【OP-05】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP05-002_p2~ja",
+          "language": "ja",
+          "set": "EB02",
+          "rarity": "L",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP05-002_p2.png",
+          "cardSet": "エクストラブースター Anime 25th collection【EB-02】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "OP05-003",
       "name": "Inazuma",
+      "names": {
+        "en": "Inazuma",
+        "ja": "イナズマ"
+      },
       "category": "Character",
       "cost": 3,
       "power": 4000,
@@ -249,12 +339,29 @@
             }
           ],
           "artist": "Ryuda"
+        },
+        {
+          "id": "OP05-003~ja",
+          "language": "ja",
+          "set": "OP05",
+          "rarity": "UC",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP05-003.png",
+          "cardSet": "新時代の主役【OP-05】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP05-004",
       "name": "Emporio.Ivankov",
+      "names": {
+        "en": "Emporio.Ivankov",
+        "ja": "エンポリオ・イワンコフ"
+      },
       "category": "Character",
       "cost": 4,
       "power": 5000,
@@ -437,12 +544,62 @@
               "category": "retail"
             }
           ]
+        },
+        {
+          "id": "OP05-004~ja",
+          "language": "ja",
+          "set": "OP05",
+          "rarity": "UC",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP05-004.png",
+          "cardSet": "新時代の主役【OP-05】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
+        },
+        {
+          "id": "OP05-004_p1~ja",
+          "language": "ja",
+          "set": "OTHER",
+          "rarity": "UC",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP05-004_p1.png",
+          "cardSet": "プレミアムカードコレクション-ベストセレクションvol.3-",
+          "source": "bandai"
+        },
+        {
+          "id": "OP05-004_p2~ja",
+          "language": "ja",
+          "set": "PRB02",
+          "rarity": "UC",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP05-004_p2.png",
+          "cardSet": "ONE PIECE CARD THE BEST vol.2【PRB-02】",
+          "source": "bandai"
+        },
+        {
+          "id": "OP05-004_r1~ja",
+          "language": "ja",
+          "set": "PRB02",
+          "rarity": "UC",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP05-004_r1.png",
+          "cardSet": "ONE PIECE CARD THE BEST vol.2【PRB-02】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP05-005",
       "name": "Karasu",
+      "names": {
+        "en": "Karasu",
+        "ja": "カラス"
+      },
       "category": "Character",
       "cost": 4,
       "power": 5000,
@@ -505,12 +662,39 @@
               "category": "retail"
             }
           ]
+        },
+        {
+          "id": "OP05-005~ja",
+          "language": "ja",
+          "set": "OP05",
+          "rarity": "R",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP05-005.png",
+          "cardSet": "新時代の主役【OP-05】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP05-005_p1~ja",
+          "language": "ja",
+          "set": "OTHER",
+          "rarity": "R",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP05-005_p1.png",
+          "cardSet": "プレミアムカードコレクション - ベストセレクションvol.2 -",
+          "source": "bandai"
         }
       ]
     },
     {
       "number": "OP05-006",
       "name": "Koala",
+      "names": {
+        "en": "Koala",
+        "ja": "コアラ"
+      },
       "category": "Character",
       "cost": 2,
       "power": 3000,
@@ -648,12 +832,75 @@
           ],
           "artOf": "OP05-006",
           "artist": "aosora"
+        },
+        {
+          "id": "OP05-006~ja",
+          "language": "ja",
+          "set": "OP05",
+          "rarity": "SR",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP05-006.png",
+          "cardSet": "新時代の主役【OP-05】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP05-006_p1~ja",
+          "language": "ja",
+          "set": "OP05",
+          "rarity": "SR",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP05-006_p1.png",
+          "cardSet": "新時代の主役【OP-05】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP05-006_p2~ja",
+          "language": "ja",
+          "set": "PRB01",
+          "rarity": "SR",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP05-006_p2.png",
+          "cardSet": "ONE PIECE CARD THE BEST【PRB-01】",
+          "source": "bandai"
+        },
+        {
+          "id": "OP05-006_p3~ja",
+          "language": "ja",
+          "set": "P",
+          "rarity": "SR",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP05-006_p3.png",
+          "cardSet": "8パックバトル 2025年10月",
+          "source": "bandai"
+        },
+        {
+          "id": "OP05-006_r1~ja",
+          "language": "ja",
+          "set": "PRB01",
+          "rarity": "SR",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP05-006_r1.png",
+          "cardSet": "ONE PIECE CARD THE BEST【PRB-01】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "OP05-007",
       "name": "Sabo",
+      "names": {
+        "en": "Sabo",
+        "ja": "サボ"
+      },
       "category": "Character",
       "cost": 6,
       "power": 7000,
@@ -796,12 +1043,65 @@
           ],
           "artOf": "OP05-007",
           "artist": "tasaka"
+        },
+        {
+          "id": "OP05-007~ja",
+          "language": "ja",
+          "set": "OP05",
+          "rarity": "SR",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP05-007.png",
+          "cardSet": "新時代の主役【OP-05】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP05-007_p1~ja",
+          "language": "ja",
+          "set": "OP05",
+          "rarity": "SR",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP05-007_p1.png",
+          "cardSet": "新時代の主役【OP-05】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP05-007_p2~ja",
+          "language": "ja",
+          "set": "PRB01",
+          "rarity": "SR",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP05-007_p2.png",
+          "cardSet": "ONE PIECE CARD THE BEST【PRB-01】",
+          "source": "bandai"
+        },
+        {
+          "id": "OP05-007_r1~ja",
+          "language": "ja",
+          "set": "PRB01",
+          "rarity": "SR",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP05-007_r1.png",
+          "cardSet": "ONE PIECE CARD THE BEST【PRB-01】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "OP05-008",
       "name": "Chaka",
+      "names": {
+        "en": "Chaka",
+        "ja": "チャカ"
+      },
       "category": "Character",
       "cost": 5,
       "power": 6000,
@@ -892,12 +1192,29 @@
               "category": "program"
             }
           ]
+        },
+        {
+          "id": "OP05-008~ja",
+          "language": "ja",
+          "set": "OP05",
+          "rarity": "UC",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP05-008.png",
+          "cardSet": "新時代の主役【OP-05】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP05-009",
       "name": "Toh-Toh",
+      "names": {
+        "en": "Toh-Toh",
+        "ja": "トト"
+      },
       "category": "Character",
       "cost": 1,
       "counter": 2000,
@@ -961,12 +1278,29 @@
             }
           ],
           "artist": "Moopic"
+        },
+        {
+          "id": "OP05-009~ja",
+          "language": "ja",
+          "set": "OP05",
+          "rarity": "C",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP05-009.png",
+          "cardSet": "新時代の主役【OP-05】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP05-010",
       "name": "Nico Robin",
+      "names": {
+        "en": "Nico Robin",
+        "ja": "ニコ・ロビン"
+      },
       "category": "Character",
       "cost": 1,
       "power": 2000,
@@ -1139,12 +1473,65 @@
               "category": "program"
             }
           ]
+        },
+        {
+          "id": "OP05-010~ja",
+          "language": "ja",
+          "set": "OP05",
+          "rarity": "UC",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP05-010.png",
+          "cardSet": "新時代の主役【OP-05】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
+        },
+        {
+          "id": "OP05-010_p1~ja",
+          "language": "ja",
+          "set": "PRB01",
+          "rarity": "UC",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP05-010_p1.png",
+          "cardSet": "ONE PIECE CARD THE BEST【PRB-01】",
+          "source": "bandai"
+        },
+        {
+          "id": "OP05-010_p2~ja",
+          "language": "ja",
+          "set": "PRB01",
+          "rarity": "UC",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP05-010_p2.png",
+          "cardSet": "ONE PIECE CARD THE BEST【PRB-01】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP05-010_r1~ja",
+          "language": "ja",
+          "set": "PRB01",
+          "rarity": "UC",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP05-010_r1.png",
+          "cardSet": "ONE PIECE CARD THE BEST【PRB-01】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP05-011",
       "name": "Bartholomew Kuma",
+      "names": {
+        "en": "Bartholomew Kuma",
+        "ja": "バーソロミュー・くま"
+      },
       "category": "Character",
       "cost": 2,
       "power": 2000,
@@ -1239,12 +1626,42 @@
             }
           ],
           "artist": "Ryuda"
+        },
+        {
+          "id": "OP05-011~ja",
+          "language": "ja",
+          "set": "OP05",
+          "rarity": "C",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP05-011.png",
+          "cardSet": "新時代の主役【OP-05】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
+        },
+        {
+          "id": "OP05-011_p1~ja",
+          "language": "ja",
+          "set": "OTHER",
+          "rarity": "C",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP05-011_p1.png",
+          "cardSet": "ONE PIECE カードゲーム China 2nd ANNIVERSARY SET",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "OP05-012",
       "name": "Hack",
+      "names": {
+        "en": "Hack",
+        "ja": "ハック"
+      },
       "category": "Character",
       "cost": 3,
       "power": 5000,
@@ -1310,12 +1727,29 @@
             }
           ],
           "artist": "Anderson"
+        },
+        {
+          "id": "OP05-012~ja",
+          "language": "ja",
+          "set": "OP05",
+          "rarity": "C",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP05-012.png",
+          "cardSet": "新時代の主役【OP-05】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP05-013",
       "name": "Bunny Joe",
+      "names": {
+        "en": "Bunny Joe",
+        "ja": "バニー・ジョー"
+      },
       "category": "Character",
       "cost": 2,
       "power": 2000,
@@ -1380,12 +1814,29 @@
             }
           ],
           "artist": "COGA"
+        },
+        {
+          "id": "OP05-013~ja",
+          "language": "ja",
+          "set": "OP05",
+          "rarity": "C",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP05-013.png",
+          "cardSet": "新時代の主役【OP-05】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP05-014",
       "name": "Pell",
+      "names": {
+        "en": "Pell",
+        "ja": "ペル"
+      },
       "category": "Character",
       "cost": 3,
       "power": 4000,
@@ -1476,12 +1927,29 @@
               "category": "program"
             }
           ]
+        },
+        {
+          "id": "OP05-014~ja",
+          "language": "ja",
+          "set": "OP05",
+          "rarity": "C",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP05-014.png",
+          "cardSet": "新時代の主役【OP-05】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP05-015",
       "name": "Belo Betty",
+      "names": {
+        "en": "Belo Betty",
+        "ja": "ベロ・ベティ"
+      },
       "category": "Character",
       "cost": 1,
       "power": 2000,
@@ -1678,12 +2146,91 @@
               "category": "program"
             }
           ]
+        },
+        {
+          "id": "OP05-015~ja",
+          "language": "ja",
+          "set": "OP05",
+          "rarity": "R",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP05-015.png",
+          "cardSet": "新時代の主役【OP-05】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP05-015_p1~ja",
+          "language": "ja",
+          "set": "OP05",
+          "rarity": "R",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP05-015_p1.png",
+          "cardSet": "新時代の主役【OP-05】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP05-015_p2~ja",
+          "language": "ja",
+          "set": "PRB01",
+          "rarity": "R",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP05-015_p2.png",
+          "cardSet": "ONE PIECE CARD THE BEST【PRB-01】",
+          "source": "bandai"
+        },
+        {
+          "id": "OP05-015_p3~ja",
+          "language": "ja",
+          "set": "PRB01",
+          "rarity": "R",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP05-015_p3.png",
+          "cardSet": "ONE PIECE CARD THE BEST【PRB-01】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP05-015_p4~ja",
+          "language": "ja",
+          "set": "PRB01",
+          "rarity": "R",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP05-015_p4.png",
+          "cardSet": "ONE PIECE CARD THE BEST【PRB-01】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP05-015_r1~ja",
+          "language": "ja",
+          "set": "PRB01",
+          "rarity": "R",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP05-015_r1.png",
+          "cardSet": "ONE PIECE CARD THE BEST【PRB-01】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "OP05-016",
       "name": "Morley",
+      "names": {
+        "en": "Morley",
+        "ja": "モーリー"
+      },
       "category": "Character",
       "cost": 3,
       "power": 5000,
@@ -1720,12 +2267,29 @@
             "distance": 3
           },
           "artist": "ASAKI KURODA"
+        },
+        {
+          "id": "OP05-016~ja",
+          "language": "ja",
+          "set": "OP05",
+          "rarity": "R",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP05-016.png",
+          "cardSet": "新時代の主役【OP-05】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "OP05-017",
       "name": "Lindbergh",
+      "names": {
+        "en": "Lindbergh",
+        "ja": "リンドバーグ"
+      },
       "category": "Character",
       "cost": 4,
       "power": 5000,
@@ -1763,12 +2327,29 @@
             "distance": 3
           },
           "artist": "Akihiro MIYANO"
+        },
+        {
+          "id": "OP05-017~ja",
+          "language": "ja",
+          "set": "OP05",
+          "rarity": "R",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP05-017.png",
+          "cardSet": "新時代の主役【OP-05】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "OP05-018",
       "name": "Emporio Energy Hormone",
+      "names": {
+        "en": "Emporio Energy Hormone",
+        "ja": "エンポリオ・テンションホルモン"
+      },
       "category": "Event",
       "cost": 3,
       "colors": [
@@ -1826,12 +2407,29 @@
               "category": "anniversary"
             }
           ]
+        },
+        {
+          "id": "OP05-018~ja",
+          "language": "ja",
+          "set": "OP05",
+          "rarity": "C",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP05-018.png",
+          "cardSet": "新時代の主役【OP-05】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP05-019",
       "name": "Fire Fist",
+      "names": {
+        "en": "Fire Fist",
+        "ja": "火拳"
+      },
       "category": "Event",
       "cost": 2,
       "colors": [
@@ -1888,12 +2486,39 @@
               "category": "retail"
             }
           ]
+        },
+        {
+          "id": "OP05-019~ja",
+          "language": "ja",
+          "set": "OP05",
+          "rarity": "R",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP05-019.png",
+          "cardSet": "新時代の主役【OP-05】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP05-019_p1~ja",
+          "language": "ja",
+          "set": "OTHER",
+          "rarity": "R",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP05-019_p1.png",
+          "cardSet": "プレミアムカードコレクション - ベストセレクションvol.2 -",
+          "source": "bandai"
         }
       ]
     },
     {
       "number": "OP05-020",
       "name": "Four Thousand-Brick Fist",
+      "names": {
+        "en": "Four Thousand-Brick Fist",
+        "ja": "四千枚瓦正拳"
+      },
       "category": "Event",
       "cost": 2,
       "colors": [
@@ -1952,12 +2577,29 @@
               "category": "anniversary"
             }
           ]
+        },
+        {
+          "id": "OP05-020~ja",
+          "language": "ja",
+          "set": "OP05",
+          "rarity": "UC",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP05-020.png",
+          "cardSet": "新時代の主役【OP-05】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP05-021",
       "name": "Revolutionary Army HQ",
+      "names": {
+        "en": "Revolutionary Army HQ",
+        "ja": "革命軍総本部"
+      },
       "category": "Stage",
       "cost": 1,
       "colors": [
@@ -2069,12 +2711,52 @@
               "category": "anniversary"
             }
           ]
+        },
+        {
+          "id": "OP05-021~ja",
+          "language": "ja",
+          "set": "OP05",
+          "rarity": "UC",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP05-021.png",
+          "cardSet": "新時代の主役【OP-05】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
+        },
+        {
+          "id": "OP05-021_p2~ja",
+          "language": "ja",
+          "set": "PRB02",
+          "rarity": "UC",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP05-021_p2.png",
+          "cardSet": "ONE PIECE CARD THE BEST vol.2【PRB-02】",
+          "source": "bandai"
+        },
+        {
+          "id": "OP05-021_r1~ja",
+          "language": "ja",
+          "set": "PRB02",
+          "rarity": "UC",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP05-021_r1.png",
+          "cardSet": "ONE PIECE CARD THE BEST vol.2【PRB-02】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP05-022",
       "name": "Donquixote Rosinante",
+      "names": {
+        "en": "Donquixote Rosinante",
+        "ja": "ドンキホーテ・ロシナンテ"
+      },
       "category": "Leader",
       "power": 5000,
       "life": 4,
@@ -2161,12 +2843,55 @@
           "treatments": [
             "sp"
           ]
+        },
+        {
+          "id": "OP05-022~ja",
+          "language": "ja",
+          "set": "OP05",
+          "rarity": "L",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP05-022.png",
+          "cardSet": "新時代の主役【OP-05】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
+        },
+        {
+          "id": "OP05-022_p1~ja",
+          "language": "ja",
+          "set": "OP05",
+          "rarity": "L",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP05-022_p1.png",
+          "cardSet": "新時代の主役【OP-05】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP05-022_p2~ja",
+          "language": "ja",
+          "set": "EB02",
+          "rarity": "L",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP05-022_p2.png",
+          "cardSet": "エクストラブースター Anime 25th collection【EB-02】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "OP05-023",
       "name": "Vergo",
+      "names": {
+        "en": "Vergo",
+        "ja": "ヴェルゴ"
+      },
       "category": "Character",
       "cost": 3,
       "power": 4000,
@@ -2204,12 +2929,29 @@
             "distance": 4
           },
           "artist": "Daiki Ihara"
+        },
+        {
+          "id": "OP05-023~ja",
+          "language": "ja",
+          "set": "OP05",
+          "rarity": "R",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP05-023.png",
+          "cardSet": "新時代の主役【OP-05】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "OP05-024",
       "name": "Kuween",
+      "names": {
+        "en": "Kuween",
+        "ja": "キュイーン"
+      },
       "category": "Character",
       "cost": 2,
       "power": 2000,
@@ -2274,12 +3016,29 @@
             }
           ],
           "artist": "HISASHI HUJIWARA"
+        },
+        {
+          "id": "OP05-024~ja",
+          "language": "ja",
+          "set": "OP05",
+          "rarity": "C",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP05-024.png",
+          "cardSet": "新時代の主役【OP-05】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP05-025",
       "name": "Gladius",
+      "names": {
+        "en": "Gladius",
+        "ja": "グラディウス"
+      },
       "category": "Character",
       "cost": 5,
       "power": 6000,
@@ -2344,12 +3103,29 @@
             }
           ],
           "artist": "Morechand"
+        },
+        {
+          "id": "OP05-025~ja",
+          "language": "ja",
+          "set": "OP05",
+          "rarity": "C",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP05-025.png",
+          "cardSet": "新時代の主役【OP-05】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP05-026",
       "name": "Sarquiss",
+      "names": {
+        "en": "Sarquiss",
+        "ja": "サーキース"
+      },
       "category": "Character",
       "cost": 4,
       "power": 4000,
@@ -2414,12 +3190,29 @@
             }
           ],
           "artist": "Koushi Rokushiro"
+        },
+        {
+          "id": "OP05-026~ja",
+          "language": "ja",
+          "set": "OP05",
+          "rarity": "C",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP05-026.png",
+          "cardSet": "新時代の主役【OP-05】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP05-027",
       "name": "Trafalgar Law",
+      "names": {
+        "en": "Trafalgar Law",
+        "ja": "トラファルガー・ロー"
+      },
       "category": "Character",
       "cost": 1,
       "power": 2000,
@@ -2482,12 +3275,29 @@
               "category": "anniversary"
             }
           ]
+        },
+        {
+          "id": "OP05-027~ja",
+          "language": "ja",
+          "set": "OP05",
+          "rarity": "UC",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP05-027.png",
+          "cardSet": "新時代の主役【OP-05】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP05-028",
       "name": "Donquixote Doflamingo",
+      "names": {
+        "en": "Donquixote Doflamingo",
+        "ja": "ドンキホーテ・ドフラミンゴ"
+      },
       "category": "Character",
       "cost": 1,
       "power": 2000,
@@ -2550,12 +3360,29 @@
               "category": "anniversary"
             }
           ]
+        },
+        {
+          "id": "OP05-028~ja",
+          "language": "ja",
+          "set": "OP05",
+          "rarity": "C",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP05-028.png",
+          "cardSet": "新時代の主役【OP-05】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP05-029",
       "name": "Donquixote Doflamingo",
+      "names": {
+        "en": "Donquixote Doflamingo",
+        "ja": "ドンキホーテ・ドフラミンゴ"
+      },
       "category": "Character",
       "cost": 7,
       "power": 8000,
@@ -2619,12 +3446,29 @@
             }
           ],
           "artist": "Nijihayashi"
+        },
+        {
+          "id": "OP05-029~ja",
+          "language": "ja",
+          "set": "OP05",
+          "rarity": "UC",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP05-029.png",
+          "cardSet": "新時代の主役【OP-05】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP05-030",
       "name": "Donquixote Rosinante",
+      "names": {
+        "en": "Donquixote Rosinante",
+        "ja": "ドンキホーテ・ロシナンテ"
+      },
       "category": "Character",
       "cost": 2,
       "power": 1000,
@@ -2781,12 +3625,62 @@
               "category": "retail"
             }
           ]
+        },
+        {
+          "id": "OP05-030~ja",
+          "language": "ja",
+          "set": "OP05",
+          "rarity": "R",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP05-030.png",
+          "cardSet": "新時代の主役【OP-05】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP05-030_p1~ja",
+          "language": "ja",
+          "set": "OTHER",
+          "rarity": "R",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP05-030_p1.png",
+          "cardSet": "2nd ANNIVERSARY SET",
+          "source": "bandai"
+        },
+        {
+          "id": "OP05-030_p2~ja",
+          "language": "ja",
+          "set": "PRB02",
+          "rarity": "R",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP05-030_p2.png",
+          "cardSet": "ONE PIECE CARD THE BEST vol.2【PRB-02】",
+          "source": "bandai"
+        },
+        {
+          "id": "OP05-030_r1~ja",
+          "language": "ja",
+          "set": "PRB02",
+          "rarity": "R",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP05-030_r1.png",
+          "cardSet": "ONE PIECE CARD THE BEST vol.2【PRB-02】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "OP05-031",
       "name": "Buffalo",
+      "names": {
+        "en": "Buffalo",
+        "ja": "バッファロー"
+      },
       "category": "Character",
       "cost": 3,
       "power": 4000,
@@ -2851,12 +3745,29 @@
             }
           ],
           "artist": "kankurou"
+        },
+        {
+          "id": "OP05-031~ja",
+          "language": "ja",
+          "set": "OP05",
+          "rarity": "C",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP05-031.png",
+          "cardSet": "新時代の主役【OP-05】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP05-032",
       "name": "Pica",
+      "names": {
+        "en": "Pica",
+        "ja": "ピーカ"
+      },
       "category": "Character",
       "cost": 4,
       "power": 6000,
@@ -2918,12 +3829,42 @@
             "alternate_art"
           ],
           "artist": "DAI-XT."
+        },
+        {
+          "id": "OP05-032~ja",
+          "language": "ja",
+          "set": "OP05",
+          "rarity": "SR",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP05-032.png",
+          "cardSet": "新時代の主役【OP-05】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP05-032_p1~ja",
+          "language": "ja",
+          "set": "OP05",
+          "rarity": "SR",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP05-032_p1.png",
+          "cardSet": "新時代の主役【OP-05】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "OP05-033",
       "name": "Baby 5",
+      "names": {
+        "en": "Baby 5",
+        "ja": "ベビー５"
+      },
       "category": "Character",
       "cost": 1,
       "power": 1000,
@@ -2986,12 +3927,29 @@
               "category": "anniversary"
             }
           ]
+        },
+        {
+          "id": "OP05-033~ja",
+          "language": "ja",
+          "set": "OP05",
+          "rarity": "C",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP05-033.png",
+          "cardSet": "新時代の主役【OP-05】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP05-034",
       "name": "Baby 5",
+      "names": {
+        "en": "Baby 5",
+        "ja": "ベビー５"
+      },
       "category": "Character",
       "cost": 1,
       "power": 1000,
@@ -3162,12 +4120,91 @@
           ],
           "artOf": "OP05-034",
           "artist": "Koushi Rokushiro"
+        },
+        {
+          "id": "OP05-034~ja",
+          "language": "ja",
+          "set": "OP05",
+          "rarity": "R",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP05-034.png",
+          "cardSet": "新時代の主役【OP-05】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP05-034_p1~ja",
+          "language": "ja",
+          "set": "OP05",
+          "rarity": "R",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP05-034_p1.png",
+          "cardSet": "新時代の主役【OP-05】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP05-034_p2~ja",
+          "language": "ja",
+          "set": "PRB01",
+          "rarity": "R",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP05-034_p2.png",
+          "cardSet": "ONE PIECE CARD THE BEST【PRB-01】",
+          "source": "bandai"
+        },
+        {
+          "id": "OP05-034_p3~ja",
+          "language": "ja",
+          "set": "PRB01",
+          "rarity": "R",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP05-034_p3.png",
+          "cardSet": "ONE PIECE CARD THE BEST【PRB-01】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP05-034_p4~ja",
+          "language": "ja",
+          "set": "PRB01",
+          "rarity": "R",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP05-034_p4.png",
+          "cardSet": "ONE PIECE CARD THE BEST【PRB-01】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP05-034_r1~ja",
+          "language": "ja",
+          "set": "PRB01",
+          "rarity": "R",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP05-034_r1.png",
+          "cardSet": "ONE PIECE CARD THE BEST【PRB-01】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "OP05-035",
       "name": "Bellamy",
+      "names": {
+        "en": "Bellamy",
+        "ja": "ベラミー"
+      },
       "category": "Character",
       "cost": 3,
       "power": 5000,
@@ -3232,12 +4269,29 @@
             }
           ],
           "artist": "BISAI"
+        },
+        {
+          "id": "OP05-035~ja",
+          "language": "ja",
+          "set": "OP05",
+          "rarity": "C",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP05-035.png",
+          "cardSet": "新時代の主役【OP-05】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP05-036",
       "name": "Monet",
+      "names": {
+        "en": "Monet",
+        "ja": "モネ"
+      },
       "category": "Character",
       "cost": 3,
       "power": 1000,
@@ -3451,12 +4505,68 @@
               "category": "placement"
             }
           ]
+        },
+        {
+          "id": "OP05-036~ja",
+          "language": "ja",
+          "set": "OP05",
+          "rarity": "UC",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP05-036.png",
+          "cardSet": "新時代の主役【OP-05】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
+        },
+        {
+          "id": "OP05-036_p1~ja",
+          "language": "ja",
+          "set": "P",
+          "rarity": "UC",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP05-036_p1.png",
+          "cardSet": "ONE PIECEカードゲーム プロモーションパックVol.6",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP05-036_p2~ja",
+          "language": "ja",
+          "set": "PRB02",
+          "rarity": "UC",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP05-036_p2.png",
+          "cardSet": "ONE PIECE CARD THE BEST vol.2【PRB-02】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP05-036_r1~ja",
+          "language": "ja",
+          "set": "PRB02",
+          "rarity": "UC",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP05-036_r1.png",
+          "cardSet": "ONE PIECE CARD THE BEST vol.2【PRB-02】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP05-037",
       "name": "Because the Side of Justice Will Be Whichever Side Wins!!",
+      "names": {
+        "en": "Because the Side of Justice Will Be Whichever Side Wins!!",
+        "ja": "勝者だけが正義だ!!!!"
+      },
       "category": "Event",
       "colors": [
         "Green"
@@ -3600,12 +4710,68 @@
               "category": "event"
             }
           ]
+        },
+        {
+          "id": "OP05-037~ja",
+          "language": "ja",
+          "set": "OP05",
+          "rarity": "R",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP05-037.png",
+          "cardSet": "新時代の主役【OP-05】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP05-037_p1~ja",
+          "language": "ja",
+          "set": "P",
+          "rarity": "R",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP05-037_p1.png",
+          "cardSet": "スタンダードバトルパックVol.12",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
+        },
+        {
+          "id": "OP05-037_p2~ja",
+          "language": "ja",
+          "set": "P",
+          "rarity": "R",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP05-037_p2.png",
+          "cardSet": "スタンダードバトル 2025年6月優勝記念品",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP05-037_r1~ja",
+          "language": "ja",
+          "set": "PRB02",
+          "rarity": "R",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP05-037_r1.png",
+          "cardSet": "ONE PIECE CARD THE BEST vol.2【PRB-02】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "OP05-038",
       "name": "Charlestone",
+      "names": {
+        "en": "Charlestone",
+        "ja": "舞踏石"
+      },
       "category": "Event",
       "cost": 2,
       "colors": [
@@ -3663,12 +4829,29 @@
               "category": "anniversary"
             }
           ]
+        },
+        {
+          "id": "OP05-038~ja",
+          "language": "ja",
+          "set": "OP05",
+          "rarity": "C",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP05-038.png",
+          "cardSet": "新時代の主役【OP-05】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP05-039",
       "name": "Stick-Stickem Meteora",
+      "names": {
+        "en": "Stick-Stickem Meteora",
+        "ja": "ベタベットン流星"
+      },
       "category": "Event",
       "cost": 2,
       "colors": [
@@ -3726,12 +4909,29 @@
               "category": "anniversary"
             }
           ]
+        },
+        {
+          "id": "OP05-039~ja",
+          "language": "ja",
+          "set": "OP05",
+          "rarity": "UC",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP05-039.png",
+          "cardSet": "新時代の主役【OP-05】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP05-040",
       "name": "Birdcage",
+      "names": {
+        "en": "Birdcage",
+        "ja": "鳥カゴ"
+      },
       "category": "Stage",
       "cost": 5,
       "colors": [
@@ -3789,12 +4989,29 @@
               "category": "anniversary"
             }
           ]
+        },
+        {
+          "id": "OP05-040~ja",
+          "language": "ja",
+          "set": "OP05",
+          "rarity": "C",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP05-040.png",
+          "cardSet": "新時代の主役【OP-05】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP05-041",
       "name": "Sakazuki",
+      "names": {
+        "en": "Sakazuki",
+        "ja": "サカズキ"
+      },
       "category": "Leader",
       "power": 5000,
       "life": 4,
@@ -3855,12 +5072,42 @@
           "treatments": [
             "alternate_art"
           ]
+        },
+        {
+          "id": "OP05-041~ja",
+          "language": "ja",
+          "set": "OP05",
+          "rarity": "L",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP05-041.png",
+          "cardSet": "新時代の主役【OP-05】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
+        },
+        {
+          "id": "OP05-041_p1~ja",
+          "language": "ja",
+          "set": "OP05",
+          "rarity": "L",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP05-041_p1.png",
+          "cardSet": "新時代の主役【OP-05】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "OP05-042",
       "name": "Issho",
+      "names": {
+        "en": "Issho",
+        "ja": "イッショウ"
+      },
       "category": "Character",
       "cost": 6,
       "power": 6000,
@@ -3923,12 +5170,29 @@
               "category": "retail"
             }
           ]
+        },
+        {
+          "id": "OP05-042~ja",
+          "language": "ja",
+          "set": "OP05",
+          "rarity": "R",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP05-042.png",
+          "cardSet": "新時代の主役【OP-05】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "OP05-043",
       "name": "Ulti",
+      "names": {
+        "en": "Ulti",
+        "ja": "うるティ"
+      },
       "category": "Character",
       "cost": 4,
       "power": 5000,
@@ -4043,12 +5307,65 @@
           ],
           "artOf": "OP05-043",
           "artist": "Hokuyuu"
+        },
+        {
+          "id": "OP05-043~ja",
+          "language": "ja",
+          "set": "OP05",
+          "rarity": "SR",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP05-043.png",
+          "cardSet": "新時代の主役【OP-05】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP05-043_p1~ja",
+          "language": "ja",
+          "set": "OP05",
+          "rarity": "SR",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP05-043_p1.png",
+          "cardSet": "新時代の主役【OP-05】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP05-043_p2~ja",
+          "language": "ja",
+          "set": "PRB01",
+          "rarity": "SR",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP05-043_p2.png",
+          "cardSet": "ONE PIECE CARD THE BEST【PRB-01】",
+          "source": "bandai"
+        },
+        {
+          "id": "OP05-043_r1~ja",
+          "language": "ja",
+          "set": "PRB01",
+          "rarity": "SR",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP05-043_r1.png",
+          "cardSet": "ONE PIECE CARD THE BEST【PRB-01】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "OP05-044",
       "name": "John Giant",
+      "names": {
+        "en": "John Giant",
+        "ja": "ジョン・ジャイアント"
+      },
       "category": "Character",
       "cost": 8,
       "power": 10000,
@@ -4114,12 +5431,29 @@
             }
           ],
           "artist": "Nakamaru"
+        },
+        {
+          "id": "OP05-044~ja",
+          "language": "ja",
+          "set": "OP05",
+          "rarity": "C",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP05-044.png",
+          "cardSet": "新時代の主役【OP-05】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP05-045",
       "name": "Stainless",
+      "names": {
+        "en": "Stainless",
+        "ja": "ステンレス"
+      },
       "category": "Character",
       "cost": 4,
       "power": 5000,
@@ -4184,12 +5518,29 @@
             }
           ],
           "artist": "HISASHI HUJIWARA"
+        },
+        {
+          "id": "OP05-045~ja",
+          "language": "ja",
+          "set": "OP05",
+          "rarity": "C",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP05-045.png",
+          "cardSet": "新時代の主役【OP-05】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP05-046",
       "name": "Dalmatian",
+      "names": {
+        "en": "Dalmatian",
+        "ja": "ダルメシアン"
+      },
       "category": "Character",
       "cost": 4,
       "power": 5000,
@@ -4254,12 +5605,29 @@
             }
           ],
           "artist": "kankurou"
+        },
+        {
+          "id": "OP05-046~ja",
+          "language": "ja",
+          "set": "OP05",
+          "rarity": "C",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP05-046.png",
+          "cardSet": "新時代の主役【OP-05】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP05-047",
       "name": "Basil Hawkins",
+      "names": {
+        "en": "Basil Hawkins",
+        "ja": "バジル・ホーキンス"
+      },
       "category": "Character",
       "cost": 4,
       "power": 5000,
@@ -4325,12 +5693,29 @@
             }
           ],
           "artist": "eiji kaneda"
+        },
+        {
+          "id": "OP05-047~ja",
+          "language": "ja",
+          "set": "OP05",
+          "rarity": "C",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP05-047.png",
+          "cardSet": "新時代の主役【OP-05】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP05-048",
       "name": "Bastille",
+      "names": {
+        "en": "Bastille",
+        "ja": "バスティーユ"
+      },
       "category": "Character",
       "cost": 5,
       "power": 6000,
@@ -4392,12 +5777,29 @@
             }
           ],
           "artist": "Nekobayashi"
+        },
+        {
+          "id": "OP05-048~ja",
+          "language": "ja",
+          "set": "OP05",
+          "rarity": "UC",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP05-048.png",
+          "cardSet": "新時代の主役【OP-05】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP05-049",
       "name": "Haccha",
+      "names": {
+        "en": "Haccha",
+        "ja": "八茶"
+      },
       "category": "Character",
       "cost": 6,
       "power": 7000,
@@ -4462,12 +5864,29 @@
             }
           ],
           "artist": "touge369"
+        },
+        {
+          "id": "OP05-049~ja",
+          "language": "ja",
+          "set": "OP05",
+          "rarity": "UC",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP05-049.png",
+          "cardSet": "新時代の主役【OP-05】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP05-050",
       "name": "Hina",
+      "names": {
+        "en": "Hina",
+        "ja": "ヒナ"
+      },
       "category": "Character",
       "cost": 3,
       "power": 4000,
@@ -4504,12 +5923,29 @@
             "distance": 2
           },
           "artist": "Tadahiro Miura"
+        },
+        {
+          "id": "OP05-050~ja",
+          "language": "ja",
+          "set": "OP05",
+          "rarity": "R",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP05-050.png",
+          "cardSet": "新時代の主役【OP-05】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "OP05-051",
       "name": "Borsalino",
+      "names": {
+        "en": "Borsalino",
+        "ja": "ボルサリーノ"
+      },
       "category": "Character",
       "cost": 7,
       "power": 8000,
@@ -4597,12 +6033,55 @@
             "sp"
           ],
           "artist": "Ryuda"
+        },
+        {
+          "id": "OP05-051~ja",
+          "language": "ja",
+          "set": "OP05",
+          "rarity": "SR",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP05-051.png",
+          "cardSet": "新時代の主役【OP-05】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP05-051_p1~ja",
+          "language": "ja",
+          "set": "OP05",
+          "rarity": "SR",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP05-051_p1.png",
+          "cardSet": "新時代の主役【OP-05】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP05-051_p2~ja",
+          "language": "ja",
+          "set": "OP06",
+          "rarity": "SP CARD",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP05-051_p2.png",
+          "cardSet": "双璧の覇者【OP-06】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "OP05-052",
       "name": "Maynard",
+      "names": {
+        "en": "Maynard",
+        "ja": "メイナード"
+      },
       "category": "Character",
       "cost": 2,
       "power": 2000,
@@ -4724,12 +6203,55 @@
             }
           ],
           "artist": "HISASHI HUJIWARA"
+        },
+        {
+          "id": "OP05-052~ja",
+          "language": "ja",
+          "set": "OP05",
+          "rarity": "C",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP05-052.png",
+          "cardSet": "新時代の主役【OP-05】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
+        },
+        {
+          "id": "OP05-052_p1~ja",
+          "language": "ja",
+          "set": "PRB02",
+          "rarity": "C",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP05-052_p1.png",
+          "cardSet": "ONE PIECE CARD THE BEST vol.2【PRB-02】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP05-052_r1~ja",
+          "language": "ja",
+          "set": "PRB02",
+          "rarity": "C",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP05-052_r1.png",
+          "cardSet": "ONE PIECE CARD THE BEST vol.2【PRB-02】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP05-053",
       "name": "Mozambia",
+      "names": {
+        "en": "Mozambia",
+        "ja": "モザンビア"
+      },
       "category": "Character",
       "cost": 1,
       "power": 2000,
@@ -4794,12 +6316,29 @@
             }
           ],
           "artist": "kankurou"
+        },
+        {
+          "id": "OP05-053~ja",
+          "language": "ja",
+          "set": "OP05",
+          "rarity": "C",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP05-053.png",
+          "cardSet": "新時代の主役【OP-05】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP05-054",
       "name": "Monkey.D.Garp",
+      "names": {
+        "en": "Monkey.D.Garp",
+        "ja": "モンキー・D・ガープ"
+      },
       "category": "Character",
       "cost": 3,
       "power": 3000,
@@ -4864,12 +6403,29 @@
             }
           ],
           "artist": "Nakamaru"
+        },
+        {
+          "id": "OP05-054~ja",
+          "language": "ja",
+          "set": "OP05",
+          "rarity": "UC",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP05-054.png",
+          "cardSet": "新時代の主役【OP-05】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP05-055",
       "name": "X.Drake",
+      "names": {
+        "en": "X.Drake",
+        "ja": "X・ドレーク"
+      },
       "category": "Character",
       "cost": 5,
       "power": 6000,
@@ -4934,12 +6490,42 @@
             "alternate_art"
           ],
           "artist": "Hokuyuu"
+        },
+        {
+          "id": "OP05-055~ja",
+          "language": "ja",
+          "set": "OP05",
+          "rarity": "R",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP05-055.png",
+          "cardSet": "新時代の主役【OP-05】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP05-055_p1~ja",
+          "language": "ja",
+          "set": "OP05",
+          "rarity": "R",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP05-055_p1.png",
+          "cardSet": "新時代の主役【OP-05】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "OP05-056",
       "name": "X.Barrels",
+      "names": {
+        "en": "X.Barrels",
+        "ja": "X・バレルズ"
+      },
       "category": "Character",
       "cost": 2,
       "power": 2000,
@@ -5004,12 +6590,29 @@
             }
           ],
           "artist": "Hokuyuu"
+        },
+        {
+          "id": "OP05-056~ja",
+          "language": "ja",
+          "set": "OP05",
+          "rarity": "C",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP05-056.png",
+          "cardSet": "新時代の主役【OP-05】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP05-057",
       "name": "Hound Blaze",
+      "names": {
+        "en": "Hound Blaze",
+        "ja": "犬噛紅蓮"
+      },
       "category": "Event",
       "cost": 2,
       "colors": [
@@ -5133,12 +6736,75 @@
           "cardSet": "-ONE PIECE CARD THE BEST- [PRB-01]",
           "source": "bandai",
           "artOf": "OP05-057"
+        },
+        {
+          "id": "OP05-057~ja",
+          "language": "ja",
+          "set": "OP05",
+          "rarity": "R",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP05-057.png",
+          "cardSet": "新時代の主役【OP-05】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP05-057_p1~ja",
+          "language": "ja",
+          "set": "PRB01",
+          "rarity": "R",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP05-057_p1.png",
+          "cardSet": "ONE PIECE CARD THE BEST【PRB-01】",
+          "source": "bandai"
+        },
+        {
+          "id": "OP05-057_p2~ja",
+          "language": "ja",
+          "set": "PRB01",
+          "rarity": "R",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP05-057_p2.png",
+          "cardSet": "ONE PIECE CARD THE BEST【PRB-01】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP05-057_p3~ja",
+          "language": "ja",
+          "set": "PRB01",
+          "rarity": "R",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP05-057_p3.png",
+          "cardSet": "ONE PIECE CARD THE BEST【PRB-01】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP05-057_r1~ja",
+          "language": "ja",
+          "set": "PRB01",
+          "rarity": "R",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP05-057_r1.png",
+          "cardSet": "ONE PIECE CARD THE BEST【PRB-01】",
+          "source": "bandai"
         }
       ]
     },
     {
       "number": "OP05-058",
       "name": "It's a Waste of Human Life!!",
+      "names": {
+        "en": "It's a Waste of Human Life!!",
+        "ja": "命がも゛ったいだいっ!!!!"
+      },
       "category": "Event",
       "cost": 8,
       "colors": [
@@ -5196,12 +6862,29 @@
               "category": "anniversary"
             }
           ]
+        },
+        {
+          "id": "OP05-058~ja",
+          "language": "ja",
+          "set": "OP05",
+          "rarity": "C",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP05-058.png",
+          "cardSet": "新時代の主役【OP-05】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP05-059",
       "name": "Let Us Begin the World of Violence!!!",
+      "names": {
+        "en": "Let Us Begin the World of Violence!!!",
+        "ja": "始めよう”暴力の世界”!!!"
+      },
       "category": "Event",
       "cost": 5,
       "colors": [
@@ -5260,12 +6943,29 @@
               "category": "anniversary"
             }
           ]
+        },
+        {
+          "id": "OP05-059~ja",
+          "language": "ja",
+          "set": "OP05",
+          "rarity": "UC",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP05-059.png",
+          "cardSet": "新時代の主役【OP-05】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP05-060",
       "name": "Monkey.D.Luffy",
+      "names": {
+        "en": "Monkey.D.Luffy",
+        "ja": "モンキー・D・ルフィ"
+      },
       "category": "Leader",
       "power": 5000,
       "life": 5,
@@ -5429,12 +7129,81 @@
               "category": "retail"
             }
           ]
+        },
+        {
+          "id": "OP05-060~ja",
+          "language": "ja",
+          "set": "OP05",
+          "rarity": "L",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP05-060.png",
+          "cardSet": "新時代の主役【OP-05】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
+        },
+        {
+          "id": "OP05-060_p1~ja",
+          "language": "ja",
+          "set": "OP05",
+          "rarity": "L",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP05-060_p1.png",
+          "cardSet": "新時代の主役【OP-05】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP05-060_p2~ja",
+          "language": "ja",
+          "set": "P",
+          "rarity": "L",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP05-060_p2.png",
+          "cardSet": "ONE PIECEカードゲーム SOUND LOADER Volume.1 特典カード",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP05-060_p3~ja",
+          "language": "ja",
+          "set": "ST18",
+          "rarity": "L",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP05-060_p3.png",
+          "cardSet": "スタートデッキ 紫 モンキー・D・ルフィ【ST-18】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP05-060_p4~ja",
+          "language": "ja",
+          "set": "EB02",
+          "rarity": "L",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP05-060_p4.png",
+          "cardSet": "エクストラブースター Anime 25th collection【EB-02】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "OP05-061",
       "name": "Uso-Hachi",
+      "names": {
+        "en": "Uso-Hachi",
+        "ja": "ウソ八"
+      },
       "category": "Character",
       "cost": 3,
       "power": 4000,
@@ -5520,12 +7289,42 @@
             }
           ],
           "artist": "Anderson"
+        },
+        {
+          "id": "OP05-061~ja",
+          "language": "ja",
+          "set": "OP05",
+          "rarity": "UC",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP05-061.png",
+          "cardSet": "新時代の主役【OP-05】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
+        },
+        {
+          "id": "OP05-061_r1~ja",
+          "language": "ja",
+          "set": "ST18",
+          "rarity": "UC",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP05-061_r1.png",
+          "cardSet": "スタートデッキ 紫 モンキー・D・ルフィ【ST-18】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP05-062",
       "name": "O-Nami",
+      "names": {
+        "en": "O-Nami",
+        "ja": "おナミ"
+      },
       "category": "Character",
       "cost": 1,
       "power": 1000,
@@ -5646,12 +7445,29 @@
               "category": "retail"
             }
           ]
+        },
+        {
+          "id": "OP05-062~ja",
+          "language": "ja",
+          "set": "OP05",
+          "rarity": "UC",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP05-062.png",
+          "cardSet": "新時代の主役【OP-05】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP05-063",
       "name": "O-Robi",
+      "names": {
+        "en": "O-Robi",
+        "ja": "おロビ"
+      },
       "category": "Character",
       "cost": 4,
       "power": 5000,
@@ -5740,12 +7556,42 @@
             }
           ],
           "artist": "Sunohara"
+        },
+        {
+          "id": "OP05-063~ja",
+          "language": "ja",
+          "set": "OP05",
+          "rarity": "C",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP05-063.png",
+          "cardSet": "新時代の主役【OP-05】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
+        },
+        {
+          "id": "OP05-063_r1~ja",
+          "language": "ja",
+          "set": "ST18",
+          "rarity": "C",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP05-063_r1.png",
+          "cardSet": "スタートデッキ 紫 モンキー・D・ルフィ【ST-18】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP05-064",
       "name": "Killer",
+      "names": {
+        "en": "Killer",
+        "ja": "キラー"
+      },
       "category": "Character",
       "cost": 1,
       "power": 2000,
@@ -5782,12 +7628,29 @@
             "distance": 2
           },
           "artist": "tatsuya"
+        },
+        {
+          "id": "OP05-064~ja",
+          "language": "ja",
+          "set": "OP05",
+          "rarity": "R",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP05-064.png",
+          "cardSet": "新時代の主役【OP-05】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "OP05-065",
       "name": "San-Gorou",
+      "names": {
+        "en": "San-Gorou",
+        "ja": "サン五郎"
+      },
       "category": "Character",
       "cost": 6,
       "power": 8000,
@@ -5879,12 +7742,42 @@
             }
           ],
           "artist": "tatsuya"
+        },
+        {
+          "id": "OP05-065~ja",
+          "language": "ja",
+          "set": "OP05",
+          "rarity": "C",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP05-065.png",
+          "cardSet": "新時代の主役【OP-05】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
+        },
+        {
+          "id": "OP05-065_r1~ja",
+          "language": "ja",
+          "set": "ST26",
+          "rarity": "C",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP05-065_r1.png",
+          "cardSet": "スタートデッキ 紫黒 モンキー・D・ルフィ【ST-26】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP05-066",
       "name": "Jinbe",
+      "names": {
+        "en": "Jinbe",
+        "ja": "ジンベエ"
+      },
       "category": "Character",
       "cost": 5,
       "power": 6000,
@@ -6001,12 +7894,55 @@
             }
           ],
           "artist": "nukadokomogera"
+        },
+        {
+          "id": "OP05-066~ja",
+          "language": "ja",
+          "set": "OP05",
+          "rarity": "C",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP05-066.png",
+          "cardSet": "新時代の主役【OP-05】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
+        },
+        {
+          "id": "OP05-066_r1~ja",
+          "language": "ja",
+          "set": "ST18",
+          "rarity": "C",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP05-066_r1.png",
+          "cardSet": "スタートデッキ 紫 モンキー・D・ルフィ【ST-18】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
+        },
+        {
+          "id": "OP05-066_r2~ja",
+          "language": "ja",
+          "set": "ST26",
+          "rarity": "C",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP05-066_r2.png",
+          "cardSet": "スタートデッキ 紫黒 モンキー・D・ルフィ【ST-26】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP05-067",
       "name": "Zoro-Juurou",
+      "names": {
+        "en": "Zoro-Juurou",
+        "ja": "ゾロ十郎"
+      },
       "category": "Character",
       "cost": 3,
       "power": 4000,
@@ -6192,12 +8128,81 @@
               "category": "program"
             }
           ]
+        },
+        {
+          "id": "OP05-067~ja",
+          "language": "ja",
+          "set": "OP05",
+          "rarity": "R",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP05-067.png",
+          "cardSet": "新時代の主役【OP-05】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP05-067_p1~ja",
+          "language": "ja",
+          "set": "OP05",
+          "rarity": "R",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP05-067_p1.png",
+          "cardSet": "新時代の主役【OP-05】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP05-067_p2~ja",
+          "language": "ja",
+          "set": "P",
+          "rarity": "R",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP05-067_p2.png",
+          "cardSet": "「ONE PIECE CARD GAME 2nd ANNIVERSARY COMPLETE GUIDE」限定特典カード",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP05-067_p4~ja",
+          "language": "ja",
+          "set": "OP09",
+          "rarity": "SP CARD",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP05-067_p4.png",
+          "cardSet": "ブースターパック 新たなる皇帝【OP-09】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP05-067_r1~ja",
+          "language": "ja",
+          "set": "ST18",
+          "rarity": "R",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP05-067_r1.png",
+          "cardSet": "スタートデッキ 紫 モンキー・D・ルフィ【ST-18】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP05-068",
       "name": "Chopa-Emon",
+      "names": {
+        "en": "Chopa-Emon",
+        "ja": "チョパえもん"
+      },
       "category": "Character",
       "cost": 2,
       "power": 3000,
@@ -6287,12 +8292,42 @@
             }
           ],
           "artist": "Suzume Muraichi"
+        },
+        {
+          "id": "OP05-068~ja",
+          "language": "ja",
+          "set": "OP05",
+          "rarity": "C",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP05-068.png",
+          "cardSet": "新時代の主役【OP-05】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
+        },
+        {
+          "id": "OP05-068_r1~ja",
+          "language": "ja",
+          "set": "ST18",
+          "rarity": "C",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP05-068_r1.png",
+          "cardSet": "スタートデッキ 紫 モンキー・D・ルフィ【ST-18】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP05-069",
       "name": "Trafalgar Law",
+      "names": {
+        "en": "Trafalgar Law",
+        "ja": "トラファルガー・ロー"
+      },
       "category": "Character",
       "cost": 3,
       "power": 5000,
@@ -6406,12 +8441,68 @@
             "manga"
           ],
           "artOf": "OP05-069_p2"
+        },
+        {
+          "id": "OP05-069~ja",
+          "language": "ja",
+          "set": "OP05",
+          "rarity": "SR",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP05-069.png",
+          "cardSet": "新時代の主役【OP-05】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP05-069_p1~ja",
+          "language": "ja",
+          "set": "OP05",
+          "rarity": "SR",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP05-069_p1.png",
+          "cardSet": "新時代の主役【OP-05】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP05-069_p2~ja",
+          "language": "ja",
+          "set": "OP05",
+          "rarity": "SR",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP05-069_p2.png",
+          "cardSet": "新時代の主役【OP-05】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP05-069_r1~ja",
+          "language": "ja",
+          "set": "PRB01",
+          "rarity": "SR",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP05-069_r1.png",
+          "cardSet": "ONE PIECE CARD THE BEST【PRB-01】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "OP05-070",
       "name": "Fra-Nosuke",
+      "names": {
+        "en": "Fra-Nosuke",
+        "ja": "フラの介"
+      },
       "category": "Character",
       "cost": 5,
       "power": 4000,
@@ -6553,12 +8644,55 @@
               "category": "retail"
             }
           ]
+        },
+        {
+          "id": "OP05-070~ja",
+          "language": "ja",
+          "set": "OP05",
+          "rarity": "UC",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP05-070.png",
+          "cardSet": "新時代の主役【OP-05】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
+        },
+        {
+          "id": "OP05-070_r1~ja",
+          "language": "ja",
+          "set": "ST18",
+          "rarity": "UC",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP05-070_r1.png",
+          "cardSet": "スタートデッキ 紫 モンキー・D・ルフィ【ST-18】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
+        },
+        {
+          "id": "OP05-070_r2~ja",
+          "language": "ja",
+          "set": "ST26",
+          "rarity": "UC",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP05-070_r2.png",
+          "cardSet": "スタートデッキ 紫黒 モンキー・D・ルフィ【ST-26】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP05-071",
       "name": "Bepo",
+      "names": {
+        "en": "Bepo",
+        "ja": "ベポ"
+      },
       "category": "Character",
       "cost": 3,
       "power": 5000,
@@ -6595,12 +8729,29 @@
             "distance": 4
           },
           "artist": "UGUME"
+        },
+        {
+          "id": "OP05-071~ja",
+          "language": "ja",
+          "set": "OP05",
+          "rarity": "R",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP05-071.png",
+          "cardSet": "新時代の主役【OP-05】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "OP05-072",
       "name": "Hone-Kichi",
+      "names": {
+        "en": "Hone-Kichi",
+        "ja": "ホネ吉"
+      },
       "category": "Character",
       "cost": 4,
       "power": 6000,
@@ -6688,12 +8839,42 @@
             }
           ],
           "artist": "Ryuda"
+        },
+        {
+          "id": "OP05-072~ja",
+          "language": "ja",
+          "set": "OP05",
+          "rarity": "C",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP05-072.png",
+          "cardSet": "新時代の主役【OP-05】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
+        },
+        {
+          "id": "OP05-072_r1~ja",
+          "language": "ja",
+          "set": "ST18",
+          "rarity": "C",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP05-072_r1.png",
+          "cardSet": "スタートデッキ 紫 モンキー・D・ルフィ【ST-18】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP05-073",
       "name": "Miss Doublefinger(Zala)",
+      "names": {
+        "en": "Miss Doublefinger(Zala)",
+        "ja": "ミス・ダブルフィンガー(ザラ)"
+      },
       "category": "Character",
       "cost": 4,
       "power": 4000,
@@ -6866,12 +9047,65 @@
               "category": "program"
             }
           ]
+        },
+        {
+          "id": "OP05-073~ja",
+          "language": "ja",
+          "set": "OP05",
+          "rarity": "UC",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP05-073.png",
+          "cardSet": "新時代の主役【OP-05】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
+        },
+        {
+          "id": "OP05-073_p1~ja",
+          "language": "ja",
+          "set": "PRB01",
+          "rarity": "UC",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP05-073_p1.png",
+          "cardSet": "ONE PIECE CARD THE BEST【PRB-01】",
+          "source": "bandai"
+        },
+        {
+          "id": "OP05-073_p2~ja",
+          "language": "ja",
+          "set": "PRB01",
+          "rarity": "UC",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP05-073_p2.png",
+          "cardSet": "ONE PIECE CARD THE BEST【PRB-01】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP05-073_r1~ja",
+          "language": "ja",
+          "set": "PRB01",
+          "rarity": "UC",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP05-073_r1.png",
+          "cardSet": "ONE PIECE CARD THE BEST【PRB-01】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP05-074",
       "name": "Eustass\"Captain\"Kid",
+      "names": {
+        "en": "Eustass\"Captain\"Kid",
+        "ja": "ユースタス・キッド"
+      },
       "category": "Character",
       "cost": 5,
       "power": 6000,
@@ -7064,12 +9298,104 @@
             "manga"
           ],
           "artOf": "OP05-074_p2"
+        },
+        {
+          "id": "OP05-074~ja",
+          "language": "ja",
+          "set": "OP05",
+          "rarity": "SR",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP05-074.png",
+          "cardSet": "新時代の主役【OP-05】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP05-074_p1~ja",
+          "language": "ja",
+          "set": "OP05",
+          "rarity": "SR",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP05-074_p1.png",
+          "cardSet": "新時代の主役【OP-05】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP05-074_p2~ja",
+          "language": "ja",
+          "set": "OP05",
+          "rarity": "SR",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP05-074_p2.png",
+          "cardSet": "新時代の主役【OP-05】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP05-074_p3~ja",
+          "language": "ja",
+          "set": "OP07",
+          "rarity": "SP CARD",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP05-074_p3.png",
+          "cardSet": "500年後の未来【OP-07】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP05-074_p4~ja",
+          "language": "ja",
+          "set": "PRB01",
+          "rarity": "SR",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP05-074_p4.png",
+          "cardSet": "ONE PIECE CARD THE BEST【PRB-01】",
+          "source": "bandai"
+        },
+        {
+          "id": "OP05-074_r1~ja",
+          "language": "ja",
+          "set": "PRB01",
+          "rarity": "SR",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP05-074_r1.png",
+          "cardSet": "ONE PIECE CARD THE BEST【PRB-01】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP05-074_r2~ja",
+          "language": "ja",
+          "set": "PRB01",
+          "rarity": "SR",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP05-074_r2.png",
+          "cardSet": "ONE PIECE CARD THE BEST【PRB-01】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "OP05-075",
       "name": "Mr.1(Daz.Bonez)",
+      "names": {
+        "en": "Mr.1(Daz.Bonez)",
+        "ja": "Mr.1(ダズ・ボーネス)"
+      },
       "category": "Character",
       "cost": 1,
       "power": 1000,
@@ -7134,12 +9460,29 @@
             }
           ],
           "artist": "tasaka"
+        },
+        {
+          "id": "OP05-075~ja",
+          "language": "ja",
+          "set": "OP05",
+          "rarity": "C",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP05-075.png",
+          "cardSet": "新時代の主役【OP-05】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP05-076",
       "name": "When You're at Sea You Fight against Pirates!!",
+      "names": {
+        "en": "When You're at Sea You Fight against Pirates!!",
+        "ja": "海は海賊が相手だ!!!"
+      },
       "category": "Event",
       "cost": 1,
       "colors": [
@@ -7292,12 +9635,42 @@
               "category": "foil-pattern"
             }
           ]
+        },
+        {
+          "id": "OP05-076~ja",
+          "language": "ja",
+          "set": "OP05",
+          "rarity": "R",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP05-076.png",
+          "cardSet": "新時代の主役【OP-05】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP05-076_p1~ja",
+          "language": "ja",
+          "set": "ST18",
+          "rarity": "R",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP05-076_p1.png",
+          "cardSet": "スタートデッキ 紫 モンキー・D・ルフィ【ST-18】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP05-077",
       "name": "Gamma Knife",
+      "names": {
+        "en": "Gamma Knife",
+        "ja": "ガンマナイフ"
+      },
       "category": "Event",
       "cost": 2,
       "colors": [
@@ -7409,12 +9782,55 @@
               "category": "anniversary"
             }
           ]
+        },
+        {
+          "id": "OP05-077~ja",
+          "language": "ja",
+          "set": "OP05",
+          "rarity": "C",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP05-077.png",
+          "cardSet": "新時代の主役【OP-05】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
+        },
+        {
+          "id": "OP05-077_p1~ja",
+          "language": "ja",
+          "set": "PRB02",
+          "rarity": "C",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP05-077_p1.png",
+          "cardSet": "ONE PIECE CARD THE BEST vol.2【PRB-02】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP05-077_r1~ja",
+          "language": "ja",
+          "set": "PRB02",
+          "rarity": "C",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP05-077_r1.png",
+          "cardSet": "ONE PIECE CARD THE BEST vol.2【PRB-02】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP05-078",
       "name": "Punk Rotten",
+      "names": {
+        "en": "Punk Rotten",
+        "ja": "磁気魔人"
+      },
       "category": "Event",
       "cost": 2,
       "colors": [
@@ -7472,12 +9888,29 @@
               "category": "anniversary"
             }
           ]
+        },
+        {
+          "id": "OP05-078~ja",
+          "language": "ja",
+          "set": "OP05",
+          "rarity": "UC",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP05-078.png",
+          "cardSet": "新時代の主役【OP-05】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP05-079",
       "name": "Viola",
+      "names": {
+        "en": "Viola",
+        "ja": "ヴィオラ"
+      },
       "category": "Character",
       "cost": 2,
       "power": 3000,
@@ -7542,12 +9975,29 @@
             }
           ],
           "artist": "Bashikou"
+        },
+        {
+          "id": "OP05-079~ja",
+          "language": "ja",
+          "set": "OP05",
+          "rarity": "UC",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP05-079.png",
+          "cardSet": "新時代の主役【OP-05】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP05-080",
       "name": "Elizabello II",
+      "names": {
+        "en": "Elizabello II",
+        "ja": "エリザベローⅡ世"
+      },
       "category": "Character",
       "cost": 4,
       "power": 5000,
@@ -7613,12 +10063,29 @@
             }
           ],
           "artist": "tasaka"
+        },
+        {
+          "id": "OP05-080~ja",
+          "language": "ja",
+          "set": "OP05",
+          "rarity": "UC",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP05-080.png",
+          "cardSet": "新時代の主役【OP-05】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP05-081",
       "name": "One-Legged Toy Soldier",
+      "names": {
+        "en": "One-Legged Toy Soldier",
+        "ja": "片足の兵隊"
+      },
       "category": "Character",
       "cost": 2,
       "counter": 2000,
@@ -7789,12 +10256,78 @@
             }
           ],
           "artist": "Moopic"
+        },
+        {
+          "id": "OP05-081~ja",
+          "language": "ja",
+          "set": "OP05",
+          "rarity": "UC",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP05-081.png",
+          "cardSet": "新時代の主役【OP-05】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
+        },
+        {
+          "id": "OP05-081_p1~ja",
+          "language": "ja",
+          "set": "PRB01",
+          "rarity": "UC",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP05-081_p1.png",
+          "cardSet": "ONE PIECE CARD THE BEST【PRB-01】",
+          "source": "bandai"
+        },
+        {
+          "id": "OP05-081_p2~ja",
+          "language": "ja",
+          "set": "PRB01",
+          "rarity": "UC",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP05-081_p2.png",
+          "cardSet": "ONE PIECE CARD THE BEST【PRB-01】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP05-081_p3~ja",
+          "language": "ja",
+          "set": "PRB01",
+          "rarity": "UC",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP05-081_p3.png",
+          "cardSet": "ONE PIECE CARD THE BEST【PRB-01】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP05-081_r1~ja",
+          "language": "ja",
+          "set": "PRB01",
+          "rarity": "UC",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP05-081_r1.png",
+          "cardSet": "ONE PIECE CARD THE BEST【PRB-01】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP05-082",
       "name": "Shirahoshi",
+      "names": {
+        "en": "Shirahoshi",
+        "ja": "しらほし"
+      },
       "category": "Character",
       "cost": 1,
       "counter": 2000,
@@ -7938,12 +10471,78 @@
           ],
           "artOf": "OP05-082",
           "artist": "Hatori Kyoka"
+        },
+        {
+          "id": "OP05-082~ja",
+          "language": "ja",
+          "set": "OP05",
+          "rarity": "R",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP05-082.png",
+          "cardSet": "新時代の主役【OP-05】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP05-082_p1~ja",
+          "language": "ja",
+          "set": "PRB01",
+          "rarity": "R",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP05-082_p1.png",
+          "cardSet": "ONE PIECE CARD THE BEST【PRB-01】",
+          "source": "bandai"
+        },
+        {
+          "id": "OP05-082_p2~ja",
+          "language": "ja",
+          "set": "PRB01",
+          "rarity": "R",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP05-082_p2.png",
+          "cardSet": "ONE PIECE CARD THE BEST【PRB-01】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP05-082_p3~ja",
+          "language": "ja",
+          "set": "PRB01",
+          "rarity": "R",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP05-082_p3.png",
+          "cardSet": "ONE PIECE CARD THE BEST【PRB-01】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP05-082_r1~ja",
+          "language": "ja",
+          "set": "PRB01",
+          "rarity": "R",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP05-082_r1.png",
+          "cardSet": "ONE PIECE CARD THE BEST【PRB-01】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "OP05-083",
       "name": "Sterry",
+      "names": {
+        "en": "Sterry",
+        "ja": "ステリー"
+      },
       "category": "Character",
       "cost": 2,
       "power": 4000,
@@ -8008,12 +10607,29 @@
             }
           ],
           "artist": "Akihiro MIYANO"
+        },
+        {
+          "id": "OP05-083~ja",
+          "language": "ja",
+          "set": "OP05",
+          "rarity": "C",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP05-083.png",
+          "cardSet": "新時代の主役【OP-05】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP05-084",
       "name": "Saint Charlos",
+      "names": {
+        "en": "Saint Charlos",
+        "ja": "チャルロス聖"
+      },
       "category": "Character",
       "cost": 3,
       "counter": 1000,
@@ -8077,12 +10693,29 @@
             }
           ],
           "artist": "Studio Vigor Co. Ltd"
+        },
+        {
+          "id": "OP05-084~ja",
+          "language": "ja",
+          "set": "OP05",
+          "rarity": "C",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP05-084.png",
+          "cardSet": "新時代の主役【OP-05】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP05-085",
       "name": "Nefeltari Cobra",
+      "names": {
+        "en": "Nefeltari Cobra",
+        "ja": "ネフェルタリ・コブラ"
+      },
       "category": "Character",
       "cost": 2,
       "power": 1000,
@@ -8147,12 +10780,29 @@
             }
           ],
           "artist": "KISUKE"
+        },
+        {
+          "id": "OP05-085~ja",
+          "language": "ja",
+          "set": "OP05",
+          "rarity": "UC",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP05-085.png",
+          "cardSet": "新時代の主役【OP-05】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP05-086",
       "name": "Nefeltari Vivi",
+      "names": {
+        "en": "Nefeltari Vivi",
+        "ja": "ネフェルタリ・ビビ"
+      },
       "category": "Character",
       "cost": 1,
       "power": 1000,
@@ -8244,12 +10894,42 @@
               "category": "retail"
             }
           ]
+        },
+        {
+          "id": "OP05-086~ja",
+          "language": "ja",
+          "set": "OP05",
+          "rarity": "R",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP05-086.png",
+          "cardSet": "新時代の主役【OP-05】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP05-086_p1~ja",
+          "language": "ja",
+          "set": "P",
+          "rarity": "R",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP05-086_p1.png",
+          "cardSet": "チャンピオンシップ2024 WAVE2 3on3 Autumn ベスト8記念品",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "OP05-087",
       "name": "Hakuba",
+      "names": {
+        "en": "Hakuba",
+        "ja": "ハクバ"
+      },
       "category": "Character",
       "cost": 5,
       "power": 6000,
@@ -8315,12 +10995,29 @@
             }
           ],
           "artist": "otton"
+        },
+        {
+          "id": "OP05-087~ja",
+          "language": "ja",
+          "set": "OP05",
+          "rarity": "C",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP05-087.png",
+          "cardSet": "新時代の主役【OP-05】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP05-088",
       "name": "Mansherry",
+      "names": {
+        "en": "Mansherry",
+        "ja": "マンシェリー"
+      },
       "category": "Character",
       "cost": 1,
       "counter": 1000,
@@ -8409,12 +11106,42 @@
               "category": "program"
             }
           ]
+        },
+        {
+          "id": "OP05-088~ja",
+          "language": "ja",
+          "set": "OP05",
+          "rarity": "R",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP05-088.png",
+          "cardSet": "新時代の主役【OP-05】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP05-088_p1~ja",
+          "language": "ja",
+          "set": "OP05",
+          "rarity": "R",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP05-088_p1.png",
+          "cardSet": "新時代の主役【OP-05】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "OP05-089",
       "name": "Saint Mjosgard",
+      "names": {
+        "en": "Saint Mjosgard",
+        "ja": "ミョスガルド聖"
+      },
       "category": "Character",
       "cost": 5,
       "power": 1000,
@@ -8479,12 +11206,29 @@
             }
           ],
           "artist": "Studio Vigor Co. Ltd"
+        },
+        {
+          "id": "OP05-089~ja",
+          "language": "ja",
+          "set": "OP05",
+          "rarity": "C",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP05-089.png",
+          "cardSet": "新時代の主役【OP-05】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP05-090",
       "name": "Riku Doldo III",
+      "names": {
+        "en": "Riku Doldo III",
+        "ja": "リク・ドルド3世"
+      },
       "category": "Character",
       "cost": 4,
       "power": 5000,
@@ -8549,12 +11293,29 @@
             }
           ],
           "artist": "Studio Vigor Co. Ltd"
+        },
+        {
+          "id": "OP05-090~ja",
+          "language": "ja",
+          "set": "OP05",
+          "rarity": "C",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP05-090.png",
+          "cardSet": "新時代の主役【OP-05】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP05-091",
       "name": "Rebecca",
+      "names": {
+        "en": "Rebecca",
+        "ja": "レベッカ"
+      },
       "category": "Character",
       "cost": 4,
       "counter": 1000,
@@ -8724,12 +11485,94 @@
           ],
           "artOf": "OP05-091",
           "artist": "POKImari"
+        },
+        {
+          "id": "OP05-091~ja",
+          "language": "ja",
+          "set": "OP05",
+          "rarity": "SR",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP05-091.png",
+          "cardSet": "新時代の主役【OP-05】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP05-091_p1~ja",
+          "language": "ja",
+          "set": "OP05",
+          "rarity": "SR",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP05-091_p1.png",
+          "cardSet": "新時代の主役【OP-05】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP05-091_p2~ja",
+          "language": "ja",
+          "set": "OP06",
+          "rarity": "SP CARD",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP05-091_p2.png",
+          "cardSet": "双璧の覇者【OP-06】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP05-091_p3~ja",
+          "language": "ja",
+          "set": "P",
+          "rarity": "SR",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP05-091_p3.png",
+          "cardSet": "チャンピオンシップ2024 WAVE2 決勝大会 ベスト32記念品",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP05-091_p4~ja",
+          "language": "ja",
+          "set": "PRB02",
+          "rarity": "SP CARD",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP05-091_p4.png",
+          "cardSet": "ONE PIECE CARD THE BEST vol.2【PRB-02】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP05-091_r1~ja",
+          "language": "ja",
+          "set": "PRB02",
+          "rarity": "SR",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP05-091_r1.png",
+          "cardSet": "ONE PIECE CARD THE BEST vol.2【PRB-02】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "OP05-092",
       "name": "Saint Rosward",
+      "names": {
+        "en": "Saint Rosward",
+        "ja": "ロズワード聖"
+      },
       "category": "Character",
       "cost": 5,
       "counter": 1000,
@@ -8793,12 +11636,29 @@
             }
           ],
           "artist": "Studio Vigor Co. Ltd"
+        },
+        {
+          "id": "OP05-092~ja",
+          "language": "ja",
+          "set": "OP05",
+          "rarity": "C",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP05-092.png",
+          "cardSet": "新時代の主役【OP-05】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP05-093",
       "name": "Rob Lucci",
+      "names": {
+        "en": "Rob Lucci",
+        "ja": "ロブ・ルッチ"
+      },
       "category": "Character",
       "cost": 4,
       "power": 6000,
@@ -8912,12 +11772,75 @@
               "category": "retail"
             }
           ]
+        },
+        {
+          "id": "OP05-093~ja",
+          "language": "ja",
+          "set": "OP05",
+          "rarity": "SR",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP05-093.png",
+          "cardSet": "新時代の主役【OP-05】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP05-093_p1~ja",
+          "language": "ja",
+          "set": "OP05",
+          "rarity": "SR",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP05-093_p1.png",
+          "cardSet": "新時代の主役【OP-05】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP05-093_p2~ja",
+          "language": "ja",
+          "set": "OP09",
+          "rarity": "SP CARD",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP05-093_p2.png",
+          "cardSet": "ブースターパック 新たなる皇帝【OP-09】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP05-093_p3~ja",
+          "language": "ja",
+          "set": "OTHER",
+          "rarity": "SR",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP05-093_p3.png",
+          "cardSet": "プレミアムブースター ONE PIECE CARD THE BEST ストレージボックスセット",
+          "source": "bandai"
+        },
+        {
+          "id": "OP05-093_p4~ja",
+          "language": "ja",
+          "set": "OTHER",
+          "rarity": "SR",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP05-093_p4.png",
+          "cardSet": "プレミアムブースター ONE PIECE CARD THE BEST ストレージボックスセット",
+          "source": "bandai"
         }
       ]
     },
     {
       "number": "OP05-094",
       "name": "Haute Couture Patch★Work",
+      "names": {
+        "en": "Haute Couture Patch★Work",
+        "ja": "高級仕立パッチ★ワーク"
+      },
       "category": "Event",
       "cost": 1,
       "colors": [
@@ -8949,12 +11872,29 @@
             "match": "image-only-candidate",
             "distance": 1
           }
+        },
+        {
+          "id": "OP05-094~ja",
+          "language": "ja",
+          "set": "OP05",
+          "rarity": "R",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP05-094.png",
+          "cardSet": "新時代の主役【OP-05】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "OP05-095",
       "name": "Dragon Claw",
+      "names": {
+        "en": "Dragon Claw",
+        "ja": "竜の鉤爪"
+      },
       "category": "Event",
       "cost": 2,
       "colors": [
@@ -9013,12 +11953,29 @@
               "category": "anniversary"
             }
           ]
+        },
+        {
+          "id": "OP05-095~ja",
+          "language": "ja",
+          "set": "OP05",
+          "rarity": "C",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP05-095.png",
+          "cardSet": "新時代の主役【OP-05】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP05-096",
       "name": "I Bid 500 Million!!",
+      "names": {
+        "en": "I Bid 500 Million!!",
+        "ja": "5億で買うえ～～!!!"
+      },
       "category": "Event",
       "cost": 3,
       "colors": [
@@ -9076,12 +12033,29 @@
               "category": "anniversary"
             }
           ]
+        },
+        {
+          "id": "OP05-096~ja",
+          "language": "ja",
+          "set": "OP05",
+          "rarity": "UC",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP05-096.png",
+          "cardSet": "新時代の主役【OP-05】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP05-097",
       "name": "Mary Geoise",
+      "names": {
+        "en": "Mary Geoise",
+        "ja": "聖地マリージョア"
+      },
       "category": "Stage",
       "cost": 1,
       "colors": [
@@ -9245,12 +12219,68 @@
               "category": "program"
             }
           ]
+        },
+        {
+          "id": "OP05-097~ja",
+          "language": "ja",
+          "set": "OP05",
+          "rarity": "C",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP05-097.png",
+          "cardSet": "新時代の主役【OP-05】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
+        },
+        {
+          "id": "OP05-097_p1~ja",
+          "language": "ja",
+          "set": "PRB02",
+          "rarity": "C",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP05-097_p1.png",
+          "cardSet": "ONE PIECE CARD THE BEST vol.2【PRB-02】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP05-097_p2~ja",
+          "language": "ja",
+          "set": "PRB02",
+          "rarity": "C",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP05-097_p2.png",
+          "cardSet": "ONE PIECE CARD THE BEST vol.2【PRB-02】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP05-097_r1~ja",
+          "language": "ja",
+          "set": "PRB02",
+          "rarity": "C",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP05-097_r1.png",
+          "cardSet": "ONE PIECE CARD THE BEST vol.2【PRB-02】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP05-098",
       "name": "Enel",
+      "names": {
+        "en": "Enel",
+        "ja": "エネル"
+      },
       "category": "Leader",
       "power": 5000,
       "life": 4,
@@ -9362,12 +12392,72 @@
               "category": "retail"
             }
           ]
+        },
+        {
+          "id": "OP05-098~ja",
+          "language": "ja",
+          "set": "OP05",
+          "rarity": "L",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP05-098.png",
+          "cardSet": "新時代の主役【OP-05】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
+        },
+        {
+          "id": "OP05-098_p1~ja",
+          "language": "ja",
+          "set": "OP05",
+          "rarity": "L",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP05-098_p1.png",
+          "cardSet": "新時代の主役【OP-05】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP05-098_p2~ja",
+          "language": "ja",
+          "set": "P",
+          "rarity": "L",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP05-098_p2.png",
+          "cardSet": "ONE PIECEカードゲーム SOUND LOADER Volume.2 特典カード",
+          "source": "bandai"
+        },
+        {
+          "id": "OP05-098_p3~ja",
+          "language": "ja",
+          "set": "EB02",
+          "rarity": "L",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP05-098_p3.png",
+          "cardSet": "エクストラブースター Anime 25th collection【EB-02】",
+          "source": "bandai"
+        },
+        {
+          "id": "OP05-098_p4~ja",
+          "language": "ja",
+          "set": "OTHER",
+          "rarity": "L",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP05-098_p4.png",
+          "cardSet": "ONE PIECEカードゲーム BASE SHOPリミテッドカードコレクションvol.1",
+          "source": "bandai"
         }
       ]
     },
     {
       "number": "OP05-099",
       "name": "Amazon",
+      "names": {
+        "en": "Amazon",
+        "ja": "アマゾン"
+      },
       "category": "Character",
       "cost": 3,
       "counter": 1000,
@@ -9431,12 +12521,29 @@
             }
           ],
           "artist": "HISASHI HUJIWARA"
+        },
+        {
+          "id": "OP05-099~ja",
+          "language": "ja",
+          "set": "OP05",
+          "rarity": "UC",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP05-099.png",
+          "cardSet": "新時代の主役【OP-05】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP05-100",
       "name": "Enel",
+      "names": {
+        "en": "Enel",
+        "ja": "エネル"
+      },
       "category": "Character",
       "cost": 7,
       "power": 7000,
@@ -9524,12 +12631,55 @@
             "sp"
           ],
           "artist": "S-KINOKO"
+        },
+        {
+          "id": "OP05-100~ja",
+          "language": "ja",
+          "set": "OP05",
+          "rarity": "SR",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP05-100.png",
+          "cardSet": "新時代の主役【OP-05】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP05-100_p1~ja",
+          "language": "ja",
+          "set": "OP05",
+          "rarity": "SR",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP05-100_p1.png",
+          "cardSet": "新時代の主役【OP-05】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP05-100_p2~ja",
+          "language": "ja",
+          "set": "OP05",
+          "rarity": "SP CARD",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP05-100_p2.png",
+          "cardSet": "新時代の主役【OP-05】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "OP05-101",
       "name": "Ohm",
+      "names": {
+        "en": "Ohm",
+        "ja": "オーム"
+      },
       "category": "Character",
       "cost": 4,
       "power": 5000,
@@ -9593,12 +12743,29 @@
               "category": "program"
             }
           ]
+        },
+        {
+          "id": "OP05-101~ja",
+          "language": "ja",
+          "set": "OP05",
+          "rarity": "R",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP05-101.png",
+          "cardSet": "新時代の主役【OP-05】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "OP05-102",
       "name": "Gedatsu",
+      "names": {
+        "en": "Gedatsu",
+        "ja": "ゲダツ"
+      },
       "category": "Character",
       "cost": 5,
       "power": 6000,
@@ -9832,12 +12999,65 @@
               "category": "placement"
             }
           ]
+        },
+        {
+          "id": "OP05-102~ja",
+          "language": "ja",
+          "set": "OP05",
+          "rarity": "R",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP05-102.png",
+          "cardSet": "新時代の主役【OP-05】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP05-102_p1~ja",
+          "language": "ja",
+          "set": "OP05",
+          "rarity": "R",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP05-102_p1.png",
+          "cardSet": "新時代の主役【OP-05】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP05-102_p2~ja",
+          "language": "ja",
+          "set": "P",
+          "rarity": "R",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP05-102_p2.png",
+          "cardSet": "プロモーションパックEX Vol.2",
+          "source": "bandai"
+        },
+        {
+          "id": "OP05-102_r1~ja",
+          "language": "ja",
+          "set": "PRB02",
+          "rarity": "R",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP05-102_r1.png",
+          "cardSet": "ONE PIECE CARD THE BEST vol.2【PRB-02】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "OP05-103",
       "name": "Kotori",
+      "names": {
+        "en": "Kotori",
+        "ja": "コトリ"
+      },
       "category": "Character",
       "cost": 3,
       "power": 3000,
@@ -9902,12 +13122,29 @@
             }
           ],
           "artist": "Misa Matoki"
+        },
+        {
+          "id": "OP05-103~ja",
+          "language": "ja",
+          "set": "OP05",
+          "rarity": "UC",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP05-103.png",
+          "cardSet": "新時代の主役【OP-05】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP05-104",
       "name": "Conis",
+      "names": {
+        "en": "Conis",
+        "ja": "コニス"
+      },
       "category": "Character",
       "cost": 1,
       "counter": 2000,
@@ -9971,12 +13208,29 @@
             }
           ],
           "artist": "Koushi Rokushiro"
+        },
+        {
+          "id": "OP05-104~ja",
+          "language": "ja",
+          "set": "OP05",
+          "rarity": "UC",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP05-104.png",
+          "cardSet": "新時代の主役【OP-05】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP05-105",
       "name": "Satori",
+      "names": {
+        "en": "Satori",
+        "ja": "サトリ"
+      },
       "category": "Character",
       "cost": 5,
       "power": 5000,
@@ -10148,12 +13402,78 @@
               "category": "retail"
             }
           ]
+        },
+        {
+          "id": "OP05-105~ja",
+          "language": "ja",
+          "set": "OP05",
+          "rarity": "R",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP05-105.png",
+          "cardSet": "新時代の主役【OP-05】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP05-105_p1~ja",
+          "language": "ja",
+          "set": "PRB01",
+          "rarity": "R",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP05-105_p1.png",
+          "cardSet": "ONE PIECE CARD THE BEST【PRB-01】",
+          "source": "bandai"
+        },
+        {
+          "id": "OP05-105_p2~ja",
+          "language": "ja",
+          "set": "PRB01",
+          "rarity": "R",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP05-105_p2.png",
+          "cardSet": "ONE PIECE CARD THE BEST【PRB-01】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP05-105_p3~ja",
+          "language": "ja",
+          "set": "PRB01",
+          "rarity": "R",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP05-105_p3.png",
+          "cardSet": "ONE PIECE CARD THE BEST【PRB-01】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP05-105_r1~ja",
+          "language": "ja",
+          "set": "PRB01",
+          "rarity": "R",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP05-105_r1.png",
+          "cardSet": "ONE PIECE CARD THE BEST【PRB-01】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "OP05-106",
       "name": "Shura",
+      "names": {
+        "en": "Shura",
+        "ja": "シュラ"
+      },
       "category": "Character",
       "cost": 2,
       "power": 2000,
@@ -10296,12 +13616,42 @@
           "finishes": [
             "nonfoil"
           ]
+        },
+        {
+          "id": "OP05-106~ja",
+          "language": "ja",
+          "set": "OP05",
+          "rarity": "R",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP05-106.png",
+          "cardSet": "新時代の主役【OP-05】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP05-106_p1~ja",
+          "language": "ja",
+          "set": "P",
+          "rarity": "R",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP05-106_p1.png",
+          "cardSet": "スタンダードバトルパックVol.7",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP05-107",
       "name": "Lieutenant Spacey",
+      "names": {
+        "en": "Lieutenant Spacey",
+        "ja": "スペーシー中尉"
+      },
       "category": "Character",
       "cost": 3,
       "power": 4000,
@@ -10366,12 +13716,29 @@
             }
           ],
           "artist": "kito"
+        },
+        {
+          "id": "OP05-107~ja",
+          "language": "ja",
+          "set": "OP05",
+          "rarity": "C",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP05-107.png",
+          "cardSet": "新時代の主役【OP-05】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP05-108",
       "name": "Nola",
+      "names": {
+        "en": "Nola",
+        "ja": "ノラ"
+      },
       "category": "Character",
       "cost": 5,
       "power": 7000,
@@ -10457,12 +13824,29 @@
           "finishes": [
             "nonfoil"
           ]
+        },
+        {
+          "id": "OP05-108~ja",
+          "language": "ja",
+          "set": "OP05",
+          "rarity": "C",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP05-108.png",
+          "cardSet": "新時代の主役【OP-05】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP05-109",
       "name": "Pagaya",
+      "names": {
+        "en": "Pagaya",
+        "ja": "パガヤ"
+      },
       "category": "Character",
       "cost": 1,
       "power": 1000,
@@ -10527,12 +13911,29 @@
             }
           ],
           "artist": "Nekobayashi"
+        },
+        {
+          "id": "OP05-109~ja",
+          "language": "ja",
+          "set": "OP05",
+          "rarity": "C",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP05-109.png",
+          "cardSet": "新時代の主役【OP-05】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP05-110",
       "name": "Holly",
+      "names": {
+        "en": "Holly",
+        "ja": "ホーリー"
+      },
       "category": "Character",
       "cost": 3,
       "power": 5000,
@@ -10598,12 +13999,29 @@
             }
           ],
           "artist": "kankurou"
+        },
+        {
+          "id": "OP05-110~ja",
+          "language": "ja",
+          "set": "OP05",
+          "rarity": "C",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP05-110.png",
+          "cardSet": "新時代の主役【OP-05】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP05-111",
       "name": "Hotori",
+      "names": {
+        "en": "Hotori",
+        "ja": "ホトリ"
+      },
       "category": "Character",
       "cost": 3,
       "power": 3000,
@@ -10668,12 +14086,29 @@
             }
           ],
           "artist": "Misa Matoki"
+        },
+        {
+          "id": "OP05-111~ja",
+          "language": "ja",
+          "set": "OP05",
+          "rarity": "UC",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP05-111.png",
+          "cardSet": "新時代の主役【OP-05】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP05-112",
       "name": "Captain McKinley",
+      "names": {
+        "en": "Captain McKinley",
+        "ja": "マッキンリー隊長"
+      },
       "category": "Character",
       "cost": 3,
       "power": 3000,
@@ -10738,12 +14173,29 @@
             }
           ],
           "artist": "touge369"
+        },
+        {
+          "id": "OP05-112~ja",
+          "language": "ja",
+          "set": "OP05",
+          "rarity": "C",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP05-112.png",
+          "cardSet": "新時代の主役【OP-05】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP05-113",
       "name": "Yama",
+      "names": {
+        "en": "Yama",
+        "ja": "ヤマ"
+      },
       "category": "Character",
       "cost": 2,
       "power": 2000,
@@ -10828,12 +14280,29 @@
           "finishes": [
             "nonfoil"
           ]
+        },
+        {
+          "id": "OP05-113~ja",
+          "language": "ja",
+          "set": "OP05",
+          "rarity": "C",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP05-113.png",
+          "cardSet": "新時代の主役【OP-05】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP05-114",
       "name": "El Thor",
+      "names": {
+        "en": "El Thor",
+        "ja": "神の裁き"
+      },
       "category": "Event",
       "cost": 1,
       "colors": [
@@ -10987,12 +14456,78 @@
               "category": "retail"
             }
           ]
+        },
+        {
+          "id": "OP05-114~ja",
+          "language": "ja",
+          "set": "OP05",
+          "rarity": "UC",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP05-114.png",
+          "cardSet": "新時代の主役【OP-05】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
+        },
+        {
+          "id": "OP05-114_p1~ja",
+          "language": "ja",
+          "set": "OTHER",
+          "rarity": "UC",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP05-114_p1.png",
+          "cardSet": "プレミアムカードコレクション - ベストセレクションvol.2 -",
+          "source": "bandai"
+        },
+        {
+          "id": "OP05-114_p2~ja",
+          "language": "ja",
+          "set": "PRB01",
+          "rarity": "UC",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP05-114_p2.png",
+          "cardSet": "ONE PIECE CARD THE BEST【PRB-01】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP05-114_p3~ja",
+          "language": "ja",
+          "set": "PRB01",
+          "rarity": "UC",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP05-114_p3.png",
+          "cardSet": "ONE PIECE CARD THE BEST【PRB-01】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP05-114_r1~ja",
+          "language": "ja",
+          "set": "PRB01",
+          "rarity": "UC",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP05-114_r1.png",
+          "cardSet": "ONE PIECE CARD THE BEST【PRB-01】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP05-115",
       "name": "Two-Hundred Million Volts Amaru",
+      "names": {
+        "en": "Two-Hundred Million Volts Amaru",
+        "ja": "2億V雷神"
+      },
       "category": "Event",
       "cost": 2,
       "colors": [
@@ -11116,12 +14651,75 @@
           "cardSet": "-ONE PIECE CARD THE BEST- [PRB-01]",
           "source": "bandai",
           "artOf": "OP05-115"
+        },
+        {
+          "id": "OP05-115~ja",
+          "language": "ja",
+          "set": "OP05",
+          "rarity": "R",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP05-115.png",
+          "cardSet": "新時代の主役【OP-05】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP05-115_p1~ja",
+          "language": "ja",
+          "set": "PRB01",
+          "rarity": "R",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP05-115_p1.png",
+          "cardSet": "ONE PIECE CARD THE BEST【PRB-01】",
+          "source": "bandai"
+        },
+        {
+          "id": "OP05-115_p2~ja",
+          "language": "ja",
+          "set": "PRB01",
+          "rarity": "R",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP05-115_p2.png",
+          "cardSet": "ONE PIECE CARD THE BEST【PRB-01】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP05-115_p3~ja",
+          "language": "ja",
+          "set": "PRB01",
+          "rarity": "R",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP05-115_p3.png",
+          "cardSet": "ONE PIECE CARD THE BEST【PRB-01】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP05-115_r1~ja",
+          "language": "ja",
+          "set": "PRB01",
+          "rarity": "R",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP05-115_r1.png",
+          "cardSet": "ONE PIECE CARD THE BEST【PRB-01】",
+          "source": "bandai"
         }
       ]
     },
     {
       "number": "OP05-116",
       "name": "Hino Bird Zap",
+      "names": {
+        "en": "Hino Bird Zap",
+        "ja": "3000万V雷鳥"
+      },
       "category": "Event",
       "cost": 2,
       "colors": [
@@ -11199,12 +14797,29 @@
           "finishes": [
             "nonfoil"
           ]
+        },
+        {
+          "id": "OP05-116~ja",
+          "language": "ja",
+          "set": "OP05",
+          "rarity": "C",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP05-116.png",
+          "cardSet": "新時代の主役【OP-05】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP05-117",
       "name": "Upper Yard",
+      "names": {
+        "en": "Upper Yard",
+        "ja": "アッパーヤード"
+      },
       "category": "Stage",
       "cost": 1,
       "colors": [
@@ -11378,12 +14993,78 @@
           "finishes": [
             "nonfoil"
           ]
+        },
+        {
+          "id": "OP05-117~ja",
+          "language": "ja",
+          "set": "OP05",
+          "rarity": "UC",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP05-117.png",
+          "cardSet": "新時代の主役【OP-05】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
+        },
+        {
+          "id": "OP05-117_p1~ja",
+          "language": "ja",
+          "set": "PRB01",
+          "rarity": "UC",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP05-117_p1.png",
+          "cardSet": "ONE PIECE CARD THE BEST【PRB-01】",
+          "source": "bandai"
+        },
+        {
+          "id": "OP05-117_p2~ja",
+          "language": "ja",
+          "set": "PRB01",
+          "rarity": "UC",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP05-117_p2.png",
+          "cardSet": "ONE PIECE CARD THE BEST【PRB-01】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP05-117_p3~ja",
+          "language": "ja",
+          "set": "PRB01",
+          "rarity": "UC",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP05-117_p3.png",
+          "cardSet": "ONE PIECE CARD THE BEST【PRB-01】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP05-117_r1~ja",
+          "language": "ja",
+          "set": "PRB01",
+          "rarity": "UC",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP05-117_r1.png",
+          "cardSet": "ONE PIECE CARD THE BEST【PRB-01】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP05-118",
       "name": "Kaido",
+      "names": {
+        "en": "Kaido",
+        "ja": "カイドウ"
+      },
       "category": "Character",
       "cost": 10,
       "power": 12000,
@@ -11498,12 +15179,65 @@
           ],
           "artOf": "OP05-118",
           "artist": "SENNSU"
+        },
+        {
+          "id": "OP05-118~ja",
+          "language": "ja",
+          "set": "OP05",
+          "rarity": "SEC",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP05-118.png",
+          "cardSet": "新時代の主役【OP-05】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP05-118_p1~ja",
+          "language": "ja",
+          "set": "OP05",
+          "rarity": "SEC",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP05-118_p1.png",
+          "cardSet": "新時代の主役【OP-05】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP05-118_p2~ja",
+          "language": "ja",
+          "set": "PRB01",
+          "rarity": "SEC",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP05-118_p2.png",
+          "cardSet": "ONE PIECE CARD THE BEST【PRB-01】",
+          "source": "bandai"
+        },
+        {
+          "id": "OP05-118_r1~ja",
+          "language": "ja",
+          "set": "PRB01",
+          "rarity": "SEC",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP05-118_r1.png",
+          "cardSet": "ONE PIECE CARD THE BEST【PRB-01】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "OP05-119",
       "name": "Monkey.D.Luffy",
+      "names": {
+        "en": "Monkey.D.Luffy",
+        "ja": "モンキー・D・ルフィ"
+      },
       "category": "Character",
       "cost": 10,
       "power": 12000,
@@ -11775,6 +15509,124 @@
               "type": "retail_product",
               "category": "retail"
             }
+          ]
+        },
+        {
+          "id": "OP05-119~ja",
+          "language": "ja",
+          "set": "OP05",
+          "rarity": "SEC",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP05-119.png",
+          "cardSet": "新時代の主役【OP-05】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP05-119_p1~ja",
+          "language": "ja",
+          "set": "OP05",
+          "rarity": "SEC",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP05-119_p1.png",
+          "cardSet": "新時代の主役【OP-05】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP05-119_p2~ja",
+          "language": "ja",
+          "set": "OP05",
+          "rarity": "SEC",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP05-119_p2.png",
+          "cardSet": "新時代の主役【OP-05】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP05-119_p3~ja",
+          "language": "ja",
+          "set": "PRB01",
+          "rarity": "SEC",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP05-119_p3.png",
+          "cardSet": "ONE PIECE CARD THE BEST【PRB-01】",
+          "source": "bandai"
+        },
+        {
+          "id": "OP05-119_p5~ja",
+          "language": "ja",
+          "set": "OP09",
+          "rarity": "SP CARD",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP05-119_p5.png",
+          "cardSet": "ブースターパック 新たなる皇帝【OP-09】",
+          "source": "bandai"
+        },
+        {
+          "id": "OP05-119_p6~ja",
+          "language": "ja",
+          "set": "OP11",
+          "rarity": "SP CARD",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP05-119_p6.png",
+          "cardSet": "ブースターパック 神速の拳【OP-11】",
+          "source": "bandai"
+        },
+        {
+          "id": "OP05-119_p7~ja",
+          "language": "ja",
+          "set": "OP11",
+          "rarity": "SP CARD",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP05-119_p7.png",
+          "cardSet": "ブースターパック 神速の拳【OP-11】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP05-119_p8~ja",
+          "language": "ja",
+          "set": "OTHER",
+          "rarity": "SEC",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP05-119_p8.png",
+          "cardSet": "ONE PIECE カードゲーム English 2nd ANNIVERSARY SET",
+          "source": "bandai"
+        },
+        {
+          "id": "OP05-119_r1~ja",
+          "language": "ja",
+          "set": "PRB01",
+          "rarity": "SEC",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP05-119_r1.png",
+          "cardSet": "ONE PIECE CARD THE BEST【PRB-01】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP05-119_r2~ja",
+          "language": "ja",
+          "set": "PRB01",
+          "rarity": "SEC",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP05-119_r2.png",
+          "cardSet": "ONE PIECE CARD THE BEST【PRB-01】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
           ]
         }
       ]

@@ -3,6 +3,10 @@
     {
       "number": "OP02-001",
       "name": "Edward.Newgate",
+      "names": {
+        "en": "Edward.Newgate",
+        "ja": "エドワード・ニューゲート"
+      },
       "category": "Leader",
       "power": 6000,
       "life": 6,
@@ -112,12 +116,62 @@
               "category": "retail"
             }
           ]
+        },
+        {
+          "id": "OP02-001~ja",
+          "language": "ja",
+          "set": "OP02",
+          "rarity": "L",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP02-001.png",
+          "cardSet": "頂上決戦【OP-02】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
+        },
+        {
+          "id": "OP02-001_p1~ja",
+          "language": "ja",
+          "set": "OP02",
+          "rarity": "L",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP02-001_p1.png",
+          "cardSet": "頂上決戦【OP-02】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP02-001_p3~ja",
+          "language": "ja",
+          "set": "OTHER",
+          "rarity": "L",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP02-001_p3.png",
+          "cardSet": "チャンピオンシップセット2023(旧四皇)",
+          "source": "bandai"
+        },
+        {
+          "id": "OP02-001_p4~ja",
+          "language": "ja",
+          "set": "ST15",
+          "rarity": "L",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP02-001_p4.png",
+          "cardSet": "スタートデッキ 赤 エドワード・ニューゲート【ST-15】",
+          "source": "bandai"
         }
       ]
     },
     {
       "number": "OP02-002",
       "name": "Monkey.D.Garp",
+      "names": {
+        "en": "Monkey.D.Garp",
+        "ja": "モンキー・D・ガープ"
+      },
       "category": "Leader",
       "power": 5000,
       "life": 4,
@@ -178,12 +232,42 @@
           "treatments": [
             "alternate_art"
           ]
+        },
+        {
+          "id": "OP02-002~ja",
+          "language": "ja",
+          "set": "OP02",
+          "rarity": "L",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP02-002.png",
+          "cardSet": "頂上決戦【OP-02】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
+        },
+        {
+          "id": "OP02-002_p1~ja",
+          "language": "ja",
+          "set": "OP02",
+          "rarity": "L",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP02-002_p1.png",
+          "cardSet": "頂上決戦【OP-02】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "OP02-003",
       "name": "Atmos",
+      "names": {
+        "en": "Atmos",
+        "ja": "アトモス"
+      },
       "category": "Character",
       "cost": 4,
       "power": 6000,
@@ -248,12 +332,29 @@
             }
           ],
           "artist": "Nekobayashi"
+        },
+        {
+          "id": "OP02-003~ja",
+          "language": "ja",
+          "set": "OP02",
+          "rarity": "C",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP02-003.png",
+          "cardSet": "頂上決戦【OP-02】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP02-004",
       "name": "Edward.Newgate",
+      "names": {
+        "en": "Edward.Newgate",
+        "ja": "エドワード・ニューゲート"
+      },
       "category": "Character",
       "cost": 9,
       "power": 10000,
@@ -417,12 +518,91 @@
               "category": "championship"
             }
           ]
+        },
+        {
+          "id": "OP02-004~ja",
+          "language": "ja",
+          "set": "OP02",
+          "rarity": "SR",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP02-004.png",
+          "cardSet": "頂上決戦【OP-02】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP02-004_p1~ja",
+          "language": "ja",
+          "set": "OP02",
+          "rarity": "SR",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP02-004_p1.png",
+          "cardSet": "頂上決戦【OP-02】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP02-004_p2~ja",
+          "language": "ja",
+          "set": "OP04",
+          "rarity": "SP CARD",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP02-004_p2.png",
+          "cardSet": "謀略の王国【OP-04】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP02-004_p3~ja",
+          "language": "ja",
+          "set": "P",
+          "rarity": "SR",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP02-004_p3.png",
+          "cardSet": "プロモーションパックEX Vol.1",
+          "source": "bandai"
+        },
+        {
+          "id": "OP02-004_p4~ja",
+          "language": "ja",
+          "set": "PRB01",
+          "rarity": "SR",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP02-004_p4.png",
+          "cardSet": "ONE PIECE CARD THE BEST【PRB-01】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP02-004_r1~ja",
+          "language": "ja",
+          "set": "PRB01",
+          "rarity": "SR",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP02-004_r1.png",
+          "cardSet": "ONE PIECE CARD THE BEST【PRB-01】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "OP02-005",
       "name": "Curly.Dadan",
+      "names": {
+        "en": "Curly.Dadan",
+        "ja": "カーリー・ダダン"
+      },
       "category": "Character",
       "cost": 2,
       "power": 3000,
@@ -572,12 +752,75 @@
             }
           ],
           "artist": "Misa Tsutsui"
+        },
+        {
+          "id": "OP02-005~ja",
+          "language": "ja",
+          "set": "OP02",
+          "rarity": "UC",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP02-005.png",
+          "cardSet": "頂上決戦【OP-02】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
+        },
+        {
+          "id": "OP02-005_p2~ja",
+          "language": "ja",
+          "set": "OTHER",
+          "rarity": "UC",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP02-005_p2.png",
+          "cardSet": "プレミアムカードコレクション - ベストセレクションvol.1 -",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP02-005_p3~ja",
+          "language": "ja",
+          "set": "PRB02",
+          "rarity": "UC",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP02-005_p3.png",
+          "cardSet": "ONE PIECE CARD THE BEST vol.2【PRB-02】",
+          "source": "bandai"
+        },
+        {
+          "id": "OP02-005_p4~ja",
+          "language": "ja",
+          "set": "P",
+          "rarity": "UC",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP02-005_p4.png",
+          "cardSet": "プロモーションカードセット2026",
+          "source": "bandai"
+        },
+        {
+          "id": "OP02-005_r1~ja",
+          "language": "ja",
+          "set": "PRB02",
+          "rarity": "UC",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP02-005_r1.png",
+          "cardSet": "ONE PIECE CARD THE BEST vol.2【PRB-02】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP02-006",
       "name": "Kingdew",
+      "names": {
+        "en": "Kingdew",
+        "ja": "キングデュー"
+      },
       "category": "Character",
       "cost": 5,
       "power": 7000,
@@ -642,12 +885,29 @@
             }
           ],
           "artist": "HISASHI HUJIWARA"
+        },
+        {
+          "id": "OP02-006~ja",
+          "language": "ja",
+          "set": "OP02",
+          "rarity": "C",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP02-006.png",
+          "cardSet": "頂上決戦【OP-02】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP02-007",
       "name": "Thatch",
+      "names": {
+        "en": "Thatch",
+        "ja": "サッチ"
+      },
       "category": "Character",
       "cost": 6,
       "power": 8000,
@@ -712,12 +972,29 @@
             }
           ],
           "artist": "kankurou"
+        },
+        {
+          "id": "OP02-007~ja",
+          "language": "ja",
+          "set": "OP02",
+          "rarity": "C",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP02-007.png",
+          "cardSet": "頂上決戦【OP-02】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP02-008",
       "name": "Jozu",
+      "names": {
+        "en": "Jozu",
+        "ja": "ジョズ"
+      },
       "category": "Character",
       "cost": 4,
       "power": 4000,
@@ -860,12 +1137,52 @@
               "category": "championship"
             }
           ]
+        },
+        {
+          "id": "OP02-008~ja",
+          "language": "ja",
+          "set": "OP02",
+          "rarity": "R",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP02-008.png",
+          "cardSet": "頂上決戦【OP-02】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP02-008_p1~ja",
+          "language": "ja",
+          "set": "P",
+          "rarity": "R",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP02-008_p1.png",
+          "cardSet": "プロモーションパックEX Vol.1",
+          "source": "bandai"
+        },
+        {
+          "id": "OP02-008_r1~ja",
+          "language": "ja",
+          "set": "ST15",
+          "rarity": "R",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP02-008_r1.png",
+          "cardSet": "スタートデッキ 赤 エドワード・ニューゲート【ST-15】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP02-009",
       "name": "Squard",
+      "names": {
+        "en": "Squard",
+        "ja": "スクアード"
+      },
       "category": "Character",
       "cost": 3,
       "power": 5000,
@@ -958,12 +1275,42 @@
             }
           ],
           "artist": "Hayaken-sarena"
+        },
+        {
+          "id": "OP02-009~ja",
+          "language": "ja",
+          "set": "OP02",
+          "rarity": "UC",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP02-009.png",
+          "cardSet": "頂上決戦【OP-02】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
+        },
+        {
+          "id": "OP02-009_p1~ja",
+          "language": "ja",
+          "set": "OP02",
+          "rarity": "UC",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP02-009_p1.png",
+          "cardSet": "頂上決戦【OP-02】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "OP02-010",
       "name": "Dogura",
+      "names": {
+        "en": "Dogura",
+        "ja": "ドグラ"
+      },
       "category": "Character",
       "cost": 1,
       "power": 2000,
@@ -1028,12 +1375,29 @@
             }
           ],
           "artist": "Nekobayashi"
+        },
+        {
+          "id": "OP02-010~ja",
+          "language": "ja",
+          "set": "OP02",
+          "rarity": "C",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP02-010.png",
+          "cardSet": "頂上決戦【OP-02】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP02-011",
       "name": "Vista",
+      "names": {
+        "en": "Vista",
+        "ja": "ビスタ"
+      },
       "category": "Character",
       "cost": 3,
       "power": 3000,
@@ -1070,12 +1434,29 @@
             "distance": 5
           },
           "artist": "BISAI"
+        },
+        {
+          "id": "OP02-011~ja",
+          "language": "ja",
+          "set": "OP02",
+          "rarity": "R",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP02-011.png",
+          "cardSet": "頂上決戦【OP-02】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "OP02-012",
       "name": "Blenheim",
+      "names": {
+        "en": "Blenheim",
+        "ja": "ブレンハイム"
+      },
       "category": "Character",
       "cost": 2,
       "power": 3000,
@@ -1139,12 +1520,29 @@
             }
           ],
           "artist": "Misa Tsutsui"
+        },
+        {
+          "id": "OP02-012~ja",
+          "language": "ja",
+          "set": "OP02",
+          "rarity": "C",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP02-012.png",
+          "cardSet": "頂上決戦【OP-02】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP02-013",
       "name": "Portgas.D.Ace",
+      "names": {
+        "en": "Portgas.D.Ace",
+        "ja": "ポートガス・D・エース"
+      },
       "category": "Character",
       "cost": 7,
       "power": 7000,
@@ -1322,12 +1720,91 @@
               "category": "retail"
             }
           ]
+        },
+        {
+          "id": "OP02-013~ja",
+          "language": "ja",
+          "set": "OP02",
+          "rarity": "SR",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP02-013.png",
+          "cardSet": "頂上決戦【OP-02】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP02-013_p1~ja",
+          "language": "ja",
+          "set": "OP02",
+          "rarity": "SR",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP02-013_p1.png",
+          "cardSet": "頂上決戦【OP-02】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP02-013_p2~ja",
+          "language": "ja",
+          "set": "OP02",
+          "rarity": "SR",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP02-013_p2.png",
+          "cardSet": "頂上決戦【OP-02】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP02-013_p3~ja",
+          "language": "ja",
+          "set": "OP08",
+          "rarity": "SP CARD",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP02-013_p3.png",
+          "cardSet": "ブースターパック 二つの伝説【OP-08】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP02-013_p5~ja",
+          "language": "ja",
+          "set": "OTHER",
+          "rarity": "SR",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP02-013_p5.png",
+          "cardSet": "2nd ANNIVERSARY SET",
+          "source": "bandai"
+        },
+        {
+          "id": "OP02-013_r1~ja",
+          "language": "ja",
+          "set": "PRB01",
+          "rarity": "SR",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP02-013_r1.png",
+          "cardSet": "ONE PIECE CARD THE BEST【PRB-01】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "OP02-014",
       "name": "Whitey Bay",
+      "names": {
+        "en": "Whitey Bay",
+        "ja": "ホワイティベイ"
+      },
       "category": "Character",
       "cost": 1,
       "power": 2000,
@@ -1392,12 +1869,29 @@
             }
           ],
           "artist": "Hashimoto Q"
+        },
+        {
+          "id": "OP02-014~ja",
+          "language": "ja",
+          "set": "OP02",
+          "rarity": "UC",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP02-014.png",
+          "cardSet": "頂上決戦【OP-02】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP02-015",
       "name": "Makino",
+      "names": {
+        "en": "Makino",
+        "ja": "マキノ"
+      },
       "category": "Character",
       "cost": 1,
       "counter": 2000,
@@ -1578,12 +2072,72 @@
           "finishes": [
             "nonfoil"
           ]
+        },
+        {
+          "id": "OP02-015~ja",
+          "language": "ja",
+          "set": "OP02",
+          "rarity": "UC",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP02-015.png",
+          "cardSet": "頂上決戦【OP-02】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
+        },
+        {
+          "id": "OP02-015_p1~ja",
+          "language": "ja",
+          "set": "PRB01",
+          "rarity": "UC",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP02-015_p1.png",
+          "cardSet": "ONE PIECE CARD THE BEST【PRB-01】",
+          "source": "bandai"
+        },
+        {
+          "id": "OP02-015_p2~ja",
+          "language": "ja",
+          "set": "PRB01",
+          "rarity": "UC",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP02-015_p2.png",
+          "cardSet": "ONE PIECE CARD THE BEST【PRB-01】",
+          "source": "bandai"
+        },
+        {
+          "id": "OP02-015_p3~ja",
+          "language": "ja",
+          "set": "OTHER",
+          "rarity": "UC",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP02-015_p3.png",
+          "cardSet": "1st ANNIVERSARY SET",
+          "source": "bandai"
+        },
+        {
+          "id": "OP02-015_r1~ja",
+          "language": "ja",
+          "set": "PRB01",
+          "rarity": "UC",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP02-015_r1.png",
+          "cardSet": "ONE PIECE CARD THE BEST【PRB-01】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP02-016",
       "name": "Magura",
+      "names": {
+        "en": "Magura",
+        "ja": "マグラ"
+      },
       "category": "Character",
       "cost": 1,
       "power": 2000,
@@ -1648,12 +2202,29 @@
             }
           ],
           "artist": "Nekobayashi"
+        },
+        {
+          "id": "OP02-016~ja",
+          "language": "ja",
+          "set": "OP02",
+          "rarity": "C",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP02-016.png",
+          "cardSet": "頂上決戦【OP-02】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP02-017",
       "name": "Masked Deuce",
+      "names": {
+        "en": "Masked Deuce",
+        "ja": "マスクド・デュース"
+      },
       "category": "Character",
       "cost": 2,
       "power": 3000,
@@ -1714,12 +2285,42 @@
           "treatments": [
             "alternate_art"
           ]
+        },
+        {
+          "id": "OP02-017~ja",
+          "language": "ja",
+          "set": "OP02",
+          "rarity": "R",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP02-017.png",
+          "cardSet": "頂上決戦【OP-02】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP02-017_p1~ja",
+          "language": "ja",
+          "set": "OP02",
+          "rarity": "R",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP02-017_p1.png",
+          "cardSet": "頂上決戦【OP-02】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "OP02-018",
       "name": "Marco",
+      "names": {
+        "en": "Marco",
+        "ja": "マルコ"
+      },
       "category": "Character",
       "cost": 4,
       "power": 5000,
@@ -1965,12 +2566,104 @@
               "category": "championship"
             }
           ]
+        },
+        {
+          "id": "OP02-018~ja",
+          "language": "ja",
+          "set": "OP02",
+          "rarity": "R",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP02-018.png",
+          "cardSet": "頂上決戦【OP-02】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP02-018_p1~ja",
+          "language": "ja",
+          "set": "OP02",
+          "rarity": "R",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP02-018_p1.png",
+          "cardSet": "頂上決戦【OP-02】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP02-018_p3~ja",
+          "language": "ja",
+          "set": "PRB01",
+          "rarity": "R",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP02-018_p3.png",
+          "cardSet": "ONE PIECE CARD THE BEST【PRB-01】",
+          "source": "bandai"
+        },
+        {
+          "id": "OP02-018_p4~ja",
+          "language": "ja",
+          "set": "PRB01",
+          "rarity": "R",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP02-018_p4.png",
+          "cardSet": "ONE PIECE CARD THE BEST【PRB-01】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP02-018_p5~ja",
+          "language": "ja",
+          "set": "PRB01",
+          "rarity": "R",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP02-018_p5.png",
+          "cardSet": "ONE PIECE CARD THE BEST【PRB-01】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP02-018_r1~ja",
+          "language": "ja",
+          "set": "ST15",
+          "rarity": "R",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP02-018_r1.png",
+          "cardSet": "スタートデッキ 赤 エドワード・ニューゲート【ST-15】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
+        },
+        {
+          "id": "OP02-018_r2~ja",
+          "language": "ja",
+          "set": "PRB01",
+          "rarity": "R",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP02-018_r2.png",
+          "cardSet": "ONE PIECE CARD THE BEST【PRB-01】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "OP02-019",
       "name": "Rakuyo",
+      "names": {
+        "en": "Rakuyo",
+        "ja": "ラクヨウ"
+      },
       "category": "Character",
       "cost": 3,
       "power": 4000,
@@ -2059,12 +2752,42 @@
             }
           ],
           "artist": "BISAI"
+        },
+        {
+          "id": "OP02-019~ja",
+          "language": "ja",
+          "set": "OP02",
+          "rarity": "UC",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP02-019.png",
+          "cardSet": "頂上決戦【OP-02】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
+        },
+        {
+          "id": "OP02-019_r1~ja",
+          "language": "ja",
+          "set": "ST15",
+          "rarity": "UC",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP02-019_r1.png",
+          "cardSet": "スタートデッキ 赤 エドワード・ニューゲート【ST-15】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP02-020",
       "name": "LittleOars Jr.",
+      "names": {
+        "en": "LittleOars Jr.",
+        "ja": "リトルオーズJr."
+      },
       "category": "Character",
       "cost": 7,
       "power": 9000,
@@ -2130,12 +2853,29 @@
             }
           ],
           "artist": "Nekobayashi"
+        },
+        {
+          "id": "OP02-020~ja",
+          "language": "ja",
+          "set": "OP02",
+          "rarity": "C",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP02-020.png",
+          "cardSet": "頂上決戦【OP-02】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP02-021",
       "name": "Seaquake",
+      "names": {
+        "en": "Seaquake",
+        "ja": "海震"
+      },
       "category": "Event",
       "cost": 1,
       "colors": [
@@ -2167,12 +2907,29 @@
             "match": "image-only-candidate",
             "distance": 4
           }
+        },
+        {
+          "id": "OP02-021~ja",
+          "language": "ja",
+          "set": "OP02",
+          "rarity": "R",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP02-021.png",
+          "cardSet": "頂上決戦【OP-02】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "OP02-022",
       "name": "Whitebeard Pirates",
+      "names": {
+        "en": "Whitebeard Pirates",
+        "ja": "白ひげ海賊団"
+      },
       "category": "Event",
       "cost": 1,
       "colors": [
@@ -2292,12 +3049,29 @@
               "category": "event"
             }
           ]
+        },
+        {
+          "id": "OP02-022~ja",
+          "language": "ja",
+          "set": "OP02",
+          "rarity": "UC",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP02-022.png",
+          "cardSet": "頂上決戦【OP-02】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP02-023",
       "name": "You May Be a Fool...but I Still Love You",
+      "names": {
+        "en": "You May Be a Fool...but I Still Love You",
+        "ja": "バカな息子をそれでも愛そう…"
+      },
       "category": "Event",
       "cost": 1,
       "colors": [
@@ -2369,12 +3143,42 @@
               "category": "event"
             }
           ]
+        },
+        {
+          "id": "OP02-023~ja",
+          "language": "ja",
+          "set": "OP02",
+          "rarity": "C",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP02-023.png",
+          "cardSet": "頂上決戦【OP-02】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
+        },
+        {
+          "id": "OP02-023_r1~ja",
+          "language": "ja",
+          "set": "ST15",
+          "rarity": "C",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP02-023_r1.png",
+          "cardSet": "スタートデッキ 赤 エドワード・ニューゲート【ST-15】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP02-024",
       "name": "Moby Dick",
+      "names": {
+        "en": "Moby Dick",
+        "ja": "モビー・ディック号"
+      },
       "category": "Stage",
       "cost": 2,
       "colors": [
@@ -2432,12 +3236,29 @@
               "category": "event"
             }
           ]
+        },
+        {
+          "id": "OP02-024~ja",
+          "language": "ja",
+          "set": "OP02",
+          "rarity": "C",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP02-024.png",
+          "cardSet": "頂上決戦【OP-02】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP02-025",
       "name": "Kin'emon",
+      "names": {
+        "en": "Kin'emon",
+        "ja": "錦えもん"
+      },
       "category": "Leader",
       "power": 5000,
       "life": 5,
@@ -2498,12 +3319,42 @@
           "treatments": [
             "alternate_art"
           ]
+        },
+        {
+          "id": "OP02-025~ja",
+          "language": "ja",
+          "set": "OP02",
+          "rarity": "L",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP02-025.png",
+          "cardSet": "頂上決戦【OP-02】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
+        },
+        {
+          "id": "OP02-025_p1~ja",
+          "language": "ja",
+          "set": "OP02",
+          "rarity": "L",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP02-025_p1.png",
+          "cardSet": "頂上決戦【OP-02】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "OP02-026",
       "name": "Sanji",
+      "names": {
+        "en": "Sanji",
+        "ja": "サンジ"
+      },
       "category": "Leader",
       "power": 5000,
       "life": 4,
@@ -2564,12 +3415,42 @@
           "treatments": [
             "alternate_art"
           ]
+        },
+        {
+          "id": "OP02-026~ja",
+          "language": "ja",
+          "set": "OP02",
+          "rarity": "L",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP02-026.png",
+          "cardSet": "頂上決戦【OP-02】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
+        },
+        {
+          "id": "OP02-026_p1~ja",
+          "language": "ja",
+          "set": "OP02",
+          "rarity": "L",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP02-026_p1.png",
+          "cardSet": "頂上決戦【OP-02】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "OP02-027",
       "name": "Inuarashi",
+      "names": {
+        "en": "Inuarashi",
+        "ja": "イヌアラシ"
+      },
       "category": "Character",
       "cost": 3,
       "power": 4000,
@@ -2636,12 +3517,29 @@
             }
           ],
           "artist": "kankurou"
+        },
+        {
+          "id": "OP02-027~ja",
+          "language": "ja",
+          "set": "OP02",
+          "rarity": "UC",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP02-027.png",
+          "cardSet": "頂上決戦【OP-02】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP02-028",
       "name": "Usopp",
+      "names": {
+        "en": "Usopp",
+        "ja": "ウソップ"
+      },
       "category": "Character",
       "cost": 3,
       "power": 5000,
@@ -2715,12 +3613,39 @@
               "category": "event"
             }
           ]
+        },
+        {
+          "id": "OP02-028~ja",
+          "language": "ja",
+          "set": "OP02",
+          "rarity": "C",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP02-028.png",
+          "cardSet": "頂上決戦【OP-02】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
+        },
+        {
+          "id": "OP02-028_p2~ja",
+          "language": "ja",
+          "set": "ST11",
+          "rarity": "C",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP02-028_p2.png",
+          "cardSet": "Side ウタ【ST-11】",
+          "source": "bandai"
         }
       ]
     },
     {
       "number": "OP02-029",
       "name": "Carrot",
+      "names": {
+        "en": "Carrot",
+        "ja": "キャロット"
+      },
       "category": "Character",
       "cost": 5,
       "power": 5000,
@@ -2757,12 +3682,39 @@
             "distance": 7
           },
           "artist": "Suzume Muraichi"
+        },
+        {
+          "id": "OP02-029~ja",
+          "language": "ja",
+          "set": "OP02",
+          "rarity": "R",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP02-029.png",
+          "cardSet": "頂上決戦【OP-02】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP02-029_p2~ja",
+          "language": "ja",
+          "set": "P",
+          "rarity": "R",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP02-029_p2.png",
+          "cardSet": "ジャンプGIGA 2023 SPRING 応募者全員サービス",
+          "source": "bandai"
         }
       ]
     },
     {
       "number": "OP02-030",
       "name": "Kouzuki Oden",
+      "names": {
+        "en": "Kouzuki Oden",
+        "ja": "光月おでん"
+      },
       "category": "Character",
       "cost": 8,
       "power": 8000,
@@ -2825,12 +3777,42 @@
             "alternate_art"
           ],
           "artist": "TAPIOCA"
+        },
+        {
+          "id": "OP02-030~ja",
+          "language": "ja",
+          "set": "OP02",
+          "rarity": "SR",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP02-030.png",
+          "cardSet": "頂上決戦【OP-02】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP02-030_p1~ja",
+          "language": "ja",
+          "set": "OP02",
+          "rarity": "SR",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP02-030_p1.png",
+          "cardSet": "頂上決戦【OP-02】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "OP02-031",
       "name": "Kouzuki Toki",
+      "names": {
+        "en": "Kouzuki Toki",
+        "ja": "光月トキ"
+      },
       "category": "Character",
       "cost": 1,
       "counter": 1000,
@@ -2924,12 +3906,42 @@
             }
           ],
           "artist": "SHIE NANAHARA"
+        },
+        {
+          "id": "OP02-031~ja",
+          "language": "ja",
+          "set": "OP02",
+          "rarity": "UC",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP02-031.png",
+          "cardSet": "頂上決戦【OP-02】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
+        },
+        {
+          "id": "OP02-031_p1~ja",
+          "language": "ja",
+          "set": "OP02",
+          "rarity": "UC",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP02-031_p1.png",
+          "cardSet": "頂上決戦【OP-02】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "OP02-032",
       "name": "Shishilian",
+      "names": {
+        "en": "Shishilian",
+        "ja": "シシリアン"
+      },
       "category": "Character",
       "cost": 2,
       "power": 3000,
@@ -2994,12 +4006,29 @@
             }
           ],
           "artist": "Hatori Kyoka"
+        },
+        {
+          "id": "OP02-032~ja",
+          "language": "ja",
+          "set": "OP02",
+          "rarity": "UC",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP02-032.png",
+          "cardSet": "頂上決戦【OP-02】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP02-033",
       "name": "Jinbe",
+      "names": {
+        "en": "Jinbe",
+        "ja": "ジンベエ"
+      },
       "category": "Character",
       "cost": 2,
       "power": 4000,
@@ -3074,12 +4103,39 @@
               "category": "event"
             }
           ]
+        },
+        {
+          "id": "OP02-033~ja",
+          "language": "ja",
+          "set": "OP02",
+          "rarity": "C",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP02-033.png",
+          "cardSet": "頂上決戦【OP-02】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
+        },
+        {
+          "id": "OP02-033_p2~ja",
+          "language": "ja",
+          "set": "ST11",
+          "rarity": "C",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP02-033_p2.png",
+          "cardSet": "Side ウタ【ST-11】",
+          "source": "bandai"
         }
       ]
     },
     {
       "number": "OP02-034",
       "name": "Tony Tony.Chopper",
+      "names": {
+        "en": "Tony Tony.Chopper",
+        "ja": "トニートニー・チョッパー"
+      },
       "category": "Character",
       "cost": 2,
       "power": 2000,
@@ -3247,12 +4303,49 @@
               "category": "event"
             }
           ]
+        },
+        {
+          "id": "OP02-034~ja",
+          "language": "ja",
+          "set": "OP02",
+          "rarity": "UC",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP02-034.png",
+          "cardSet": "頂上決戦【OP-02】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
+        },
+        {
+          "id": "OP02-034_p2~ja",
+          "language": "ja",
+          "set": "ST11",
+          "rarity": "UC",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP02-034_p2.png",
+          "cardSet": "Side ウタ【ST-11】",
+          "source": "bandai"
+        },
+        {
+          "id": "OP02-034_p3~ja",
+          "language": "ja",
+          "set": "P",
+          "rarity": "UC",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP02-034_p3.png",
+          "cardSet": "ONE PIECEカードゲーム プロモーションパックVol.5",
+          "source": "bandai"
         }
       ]
     },
     {
       "number": "OP02-035",
       "name": "Trafalgar Law",
+      "names": {
+        "en": "Trafalgar Law",
+        "ja": "トラファルガー・ロー"
+      },
       "category": "Character",
       "cost": 2,
       "power": 3000,
@@ -3504,12 +4597,52 @@
               "category": "event"
             }
           ]
+        },
+        {
+          "id": "OP02-035~ja",
+          "language": "ja",
+          "set": "OP02",
+          "rarity": "C",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP02-035.png",
+          "cardSet": "頂上決戦【OP-02】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
+        },
+        {
+          "id": "OP02-035_p1~ja",
+          "language": "ja",
+          "set": "P",
+          "rarity": "C",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP02-035_p1.png",
+          "cardSet": "ONE PIECEカードゲーム プロモーションパックVol.3",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP02-035_p3~ja",
+          "language": "ja",
+          "set": "ST11",
+          "rarity": "C",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP02-035_p3.png",
+          "cardSet": "Side ウタ【ST-11】",
+          "source": "bandai"
         }
       ]
     },
     {
       "number": "OP02-036",
       "name": "Nami",
+      "names": {
+        "en": "Nami",
+        "ja": "ナミ"
+      },
       "category": "Character",
       "cost": 3,
       "power": 5000,
@@ -3599,12 +4732,52 @@
             }
           ],
           "artist": "otton"
+        },
+        {
+          "id": "OP02-036~ja",
+          "language": "ja",
+          "set": "OP02",
+          "rarity": "SR",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP02-036.png",
+          "cardSet": "頂上決戦【OP-02】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP02-036_p1~ja",
+          "language": "ja",
+          "set": "OP02",
+          "rarity": "SR",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP02-036_p1.png",
+          "cardSet": "頂上決戦【OP-02】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP02-036_p3~ja",
+          "language": "ja",
+          "set": "OTHER",
+          "rarity": "SR",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP02-036_p3.png",
+          "cardSet": "プレミアムカードコレクション - ベストセレクションvol.1 -",
+          "source": "bandai"
         }
       ]
     },
     {
       "number": "OP02-037",
       "name": "Nico Robin",
+      "names": {
+        "en": "Nico Robin",
+        "ja": "ニコ・ロビン"
+      },
       "category": "Character",
       "cost": 3,
       "power": 4000,
@@ -3678,12 +4851,39 @@
               "category": "event"
             }
           ]
+        },
+        {
+          "id": "OP02-037~ja",
+          "language": "ja",
+          "set": "OP02",
+          "rarity": "UC",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP02-037.png",
+          "cardSet": "頂上決戦【OP-02】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
+        },
+        {
+          "id": "OP02-037_p2~ja",
+          "language": "ja",
+          "set": "ST11",
+          "rarity": "UC",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP02-037_p2.png",
+          "cardSet": "Side ウタ【ST-11】",
+          "source": "bandai"
         }
       ]
     },
     {
       "number": "OP02-038",
       "name": "Nekomamushi",
+      "names": {
+        "en": "Nekomamushi",
+        "ja": "ネコマムシ"
+      },
       "category": "Character",
       "cost": 3,
       "power": 4000,
@@ -3749,12 +4949,29 @@
             }
           ],
           "artist": "Hayaken-sarena"
+        },
+        {
+          "id": "OP02-038~ja",
+          "language": "ja",
+          "set": "OP02",
+          "rarity": "C",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP02-038.png",
+          "cardSet": "頂上決戦【OP-02】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP02-039",
       "name": "Franky",
+      "names": {
+        "en": "Franky",
+        "ja": "フランキー"
+      },
       "category": "Character",
       "cost": 5,
       "power": 7000,
@@ -3828,12 +5045,39 @@
               "category": "event"
             }
           ]
+        },
+        {
+          "id": "OP02-039~ja",
+          "language": "ja",
+          "set": "OP02",
+          "rarity": "C",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP02-039.png",
+          "cardSet": "頂上決戦【OP-02】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
+        },
+        {
+          "id": "OP02-039_p2~ja",
+          "language": "ja",
+          "set": "ST11",
+          "rarity": "C",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP02-039_p2.png",
+          "cardSet": "Side ウタ【ST-11】",
+          "source": "bandai"
         }
       ]
     },
     {
       "number": "OP02-040",
       "name": "Brook",
+      "names": {
+        "en": "Brook",
+        "ja": "ブルック"
+      },
       "category": "Character",
       "cost": 4,
       "power": 5000,
@@ -3907,12 +5151,40 @@
               "category": "program"
             }
           ]
+        },
+        {
+          "id": "OP02-040~ja",
+          "language": "ja",
+          "set": "OP02",
+          "rarity": "R",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP02-040.png",
+          "cardSet": "頂上決戦【OP-02】",
+          "source": "bandai",
+          "finishes": [
+            "foil",
+            "nonfoil"
+          ]
+        },
+        {
+          "id": "OP02-040_p2~ja",
+          "language": "ja",
+          "set": "ST11",
+          "rarity": "R",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP02-040_p2.png",
+          "cardSet": "Side ウタ【ST-11】",
+          "source": "bandai"
         }
       ]
     },
     {
       "number": "OP02-041",
       "name": "Monkey.D.Luffy",
+      "names": {
+        "en": "Monkey.D.Luffy",
+        "ja": "モンキー・Ｄ・ルフィ"
+      },
       "category": "Character",
       "cost": 7,
       "power": 7000,
@@ -3986,12 +5258,53 @@
           "cardSet": "-Uta-[ST-11]",
           "source": "bandai",
           "artOf": "OP02-041"
+        },
+        {
+          "id": "OP02-041~ja",
+          "language": "ja",
+          "set": "OP02",
+          "rarity": "R",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP02-041.png",
+          "cardSet": "頂上決戦【OP-02】",
+          "source": "bandai",
+          "finishes": [
+            "foil",
+            "nonfoil"
+          ]
+        },
+        {
+          "id": "OP02-041_p1~ja",
+          "language": "ja",
+          "set": "OP02",
+          "rarity": "R",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP02-041_p1.png",
+          "cardSet": "頂上決戦【OP-02】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP02-041_p3~ja",
+          "language": "ja",
+          "set": "ST11",
+          "rarity": "R",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP02-041_p3.png",
+          "cardSet": "Side ウタ【ST-11】",
+          "source": "bandai"
         }
       ]
     },
     {
       "number": "OP02-042",
       "name": "Yamato",
+      "names": {
+        "en": "Yamato",
+        "ja": "ヤマト"
+      },
       "category": "Character",
       "cost": 4,
       "power": 6000,
@@ -4053,12 +5366,29 @@
               "category": "program"
             }
           ]
+        },
+        {
+          "id": "OP02-042~ja",
+          "language": "ja",
+          "set": "OP02",
+          "rarity": "R",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP02-042.png",
+          "cardSet": "頂上決戦【OP-02】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "OP02-043",
       "name": "Roronoa Zoro",
+      "names": {
+        "en": "Roronoa Zoro",
+        "ja": "ロロノア・ゾロ"
+      },
       "category": "Character",
       "cost": 4,
       "power": 6000,
@@ -4133,12 +5463,39 @@
               "category": "event"
             }
           ]
+        },
+        {
+          "id": "OP02-043~ja",
+          "language": "ja",
+          "set": "OP02",
+          "rarity": "C",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP02-043.png",
+          "cardSet": "頂上決戦【OP-02】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
+        },
+        {
+          "id": "OP02-043_p2~ja",
+          "language": "ja",
+          "set": "ST11",
+          "rarity": "C",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP02-043_p2.png",
+          "cardSet": "Side ウタ【ST-11】",
+          "source": "bandai"
         }
       ]
     },
     {
       "number": "OP02-044",
       "name": "Wanda",
+      "names": {
+        "en": "Wanda",
+        "ja": "ワンダ"
+      },
       "category": "Character",
       "cost": 2,
       "power": 3000,
@@ -4203,12 +5560,29 @@
             }
           ],
           "artist": "Suzume Muraichi"
+        },
+        {
+          "id": "OP02-044~ja",
+          "language": "ja",
+          "set": "OP02",
+          "rarity": "C",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP02-044.png",
+          "cardSet": "頂上決戦【OP-02】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP02-045",
       "name": "Three Sword Style Oni Giri",
+      "names": {
+        "en": "Three Sword Style Oni Giri",
+        "ja": "三刀流　鬼斬り"
+      },
       "category": "Event",
       "cost": 3,
       "colors": [
@@ -4278,12 +5652,39 @@
               "category": "event"
             }
           ]
+        },
+        {
+          "id": "OP02-045~ja",
+          "language": "ja",
+          "set": "OP02",
+          "rarity": "C",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP02-045.png",
+          "cardSet": "頂上決戦【OP-02】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
+        },
+        {
+          "id": "OP02-045_p2~ja",
+          "language": "ja",
+          "set": "ST11",
+          "rarity": "C",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP02-045_p2.png",
+          "cardSet": "Side ウタ【ST-11】",
+          "source": "bandai"
         }
       ]
     },
     {
       "number": "OP02-046",
       "name": "Diable Jambe Venaison Shoot",
+      "names": {
+        "en": "Diable Jambe Venaison Shoot",
+        "ja": "悪魔風脚　野獣肉シュート"
+      },
       "category": "Event",
       "cost": 2,
       "colors": [
@@ -4342,12 +5743,29 @@
               "category": "event"
             }
           ]
+        },
+        {
+          "id": "OP02-046~ja",
+          "language": "ja",
+          "set": "OP02",
+          "rarity": "UC",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP02-046.png",
+          "cardSet": "頂上決戦【OP-02】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP02-047",
       "name": "Paradise Totsuka",
+      "names": {
+        "en": "Paradise Totsuka",
+        "ja": "桃源十拳"
+      },
       "category": "Event",
       "cost": 1,
       "colors": [
@@ -4379,12 +5797,29 @@
             "match": "image-only-candidate",
             "distance": 6
           }
+        },
+        {
+          "id": "OP02-047~ja",
+          "language": "ja",
+          "set": "OP02",
+          "rarity": "R",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP02-047.png",
+          "cardSet": "頂上決戦【OP-02】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "OP02-048",
       "name": "Land of Wano",
+      "names": {
+        "en": "Land of Wano",
+        "ja": "ワノ国"
+      },
       "category": "Stage",
       "cost": 1,
       "colors": [
@@ -4442,12 +5877,29 @@
               "category": "event"
             }
           ]
+        },
+        {
+          "id": "OP02-048~ja",
+          "language": "ja",
+          "set": "OP02",
+          "rarity": "C",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP02-048.png",
+          "cardSet": "頂上決戦【OP-02】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP02-049",
       "name": "Emporio.Ivankov",
+      "names": {
+        "en": "Emporio.Ivankov",
+        "ja": "エンポリオ・イワンコフ"
+      },
       "category": "Leader",
       "power": 5000,
       "life": 5,
@@ -4508,12 +5960,42 @@
           "treatments": [
             "alternate_art"
           ]
+        },
+        {
+          "id": "OP02-049~ja",
+          "language": "ja",
+          "set": "OP02",
+          "rarity": "L",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP02-049.png",
+          "cardSet": "頂上決戦【OP-02】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
+        },
+        {
+          "id": "OP02-049_p1~ja",
+          "language": "ja",
+          "set": "OP02",
+          "rarity": "L",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP02-049_p1.png",
+          "cardSet": "頂上決戦【OP-02】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "OP02-050",
       "name": "Inazuma",
+      "names": {
+        "en": "Inazuma",
+        "ja": "イナズマ"
+      },
       "category": "Character",
       "cost": 4,
       "power": 5000,
@@ -4551,12 +6033,29 @@
             "distance": 3
           },
           "artist": "Suzume Muraichi"
+        },
+        {
+          "id": "OP02-050~ja",
+          "language": "ja",
+          "set": "OP02",
+          "rarity": "R",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP02-050.png",
+          "cardSet": "頂上決戦【OP-02】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "OP02-051",
       "name": "Emporio.Ivankov",
+      "names": {
+        "en": "Emporio.Ivankov",
+        "ja": "エンポリオ・イワンコフ"
+      },
       "category": "Character",
       "cost": 7,
       "power": 7000,
@@ -4619,12 +6118,42 @@
             "alternate_art"
           ],
           "artist": "EBIMO"
+        },
+        {
+          "id": "OP02-051~ja",
+          "language": "ja",
+          "set": "OP02",
+          "rarity": "SR",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP02-051.png",
+          "cardSet": "頂上決戦【OP-02】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP02-051_p1~ja",
+          "language": "ja",
+          "set": "OP02",
+          "rarity": "SR",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP02-051_p1.png",
+          "cardSet": "頂上決戦【OP-02】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "OP02-052",
       "name": "Cabaji",
+      "names": {
+        "en": "Cabaji",
+        "ja": "カバジ"
+      },
       "category": "Character",
       "cost": 2,
       "power": 3000,
@@ -4689,12 +6218,29 @@
             }
           ],
           "artist": "Studio Vigor Co. Ltd"
+        },
+        {
+          "id": "OP02-052~ja",
+          "language": "ja",
+          "set": "OP02",
+          "rarity": "C",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP02-052.png",
+          "cardSet": "頂上決戦【OP-02】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP02-053",
       "name": "Crocodile",
+      "names": {
+        "en": "Crocodile",
+        "ja": "クロコダイル"
+      },
       "category": "Character",
       "cost": 5,
       "power": 7000,
@@ -4934,12 +6480,29 @@
               "category": "event"
             }
           ]
+        },
+        {
+          "id": "OP02-053~ja",
+          "language": "ja",
+          "set": "OP02",
+          "rarity": "C",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP02-053.png",
+          "cardSet": "頂上決戦【OP-02】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP02-054",
       "name": "Gecko Moria",
+      "names": {
+        "en": "Gecko Moria",
+        "ja": "ゲッコー・モリア"
+      },
       "category": "Character",
       "cost": 4,
       "power": 6000,
@@ -5029,12 +6592,42 @@
             }
           ],
           "artist": "nukadokomogera"
+        },
+        {
+          "id": "OP02-054~ja",
+          "language": "ja",
+          "set": "OP02",
+          "rarity": "C",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP02-054.png",
+          "cardSet": "頂上決戦【OP-02】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
+        },
+        {
+          "id": "OP02-054_r1~ja",
+          "language": "ja",
+          "set": "ST17",
+          "rarity": "C",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP02-054_r1.png",
+          "cardSet": "スタートデッキ 青 ドンキホーテ・ドフラミンゴ【ST-17】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP02-055",
       "name": "Dracule Mihawk",
+      "names": {
+        "en": "Dracule Mihawk",
+        "ja": "ジュラキュール・ミホーク"
+      },
       "category": "Character",
       "cost": 6,
       "power": 8000,
@@ -5099,12 +6692,29 @@
             }
           ],
           "artist": "BISAI"
+        },
+        {
+          "id": "OP02-055~ja",
+          "language": "ja",
+          "set": "OP02",
+          "rarity": "C",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP02-055.png",
+          "cardSet": "頂上決戦【OP-02】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP02-056",
       "name": "Donquixote Doflamingo",
+      "names": {
+        "en": "Donquixote Doflamingo",
+        "ja": "ドンキホーテ・ドフラミンゴ"
+      },
       "category": "Character",
       "cost": 1,
       "power": 2000,
@@ -5169,12 +6779,29 @@
             }
           ],
           "artist": "Mitsuaki Matsumoto"
+        },
+        {
+          "id": "OP02-056~ja",
+          "language": "ja",
+          "set": "OP02",
+          "rarity": "UC",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP02-056.png",
+          "cardSet": "頂上決戦【OP-02】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP02-057",
       "name": "Bartholomew Kuma",
+      "names": {
+        "en": "Bartholomew Kuma",
+        "ja": "バーソロミュー・くま"
+      },
       "category": "Character",
       "cost": 3,
       "power": 3000,
@@ -5264,12 +6891,42 @@
             }
           ],
           "artist": "Misa Tsutsui"
+        },
+        {
+          "id": "OP02-057~ja",
+          "language": "ja",
+          "set": "OP02",
+          "rarity": "UC",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP02-057.png",
+          "cardSet": "頂上決戦【OP-02】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
+        },
+        {
+          "id": "OP02-057_r1~ja",
+          "language": "ja",
+          "set": "ST17",
+          "rarity": "UC",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP02-057_r1.png",
+          "cardSet": "スタートデッキ 青 ドンキホーテ・ドフラミンゴ【ST-17】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP02-058",
       "name": "Buggy",
+      "names": {
+        "en": "Buggy",
+        "ja": "バギー"
+      },
       "category": "Character",
       "cost": 1,
       "power": 2000,
@@ -5333,12 +6990,42 @@
             "alternate_art"
           ],
           "artist": "Ryuda"
+        },
+        {
+          "id": "OP02-058~ja",
+          "language": "ja",
+          "set": "OP02",
+          "rarity": "R",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP02-058.png",
+          "cardSet": "頂上決戦【OP-02】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP02-058_p1~ja",
+          "language": "ja",
+          "set": "OP02",
+          "rarity": "R",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP02-058_p1.png",
+          "cardSet": "頂上決戦【OP-02】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "OP02-059",
       "name": "Boa Hancock",
+      "names": {
+        "en": "Boa Hancock",
+        "ja": "ボア・ハンコック"
+      },
       "category": "Character",
       "cost": 4,
       "power": 5000,
@@ -5495,12 +7182,52 @@
               "category": "retail"
             }
           ]
+        },
+        {
+          "id": "OP02-059~ja",
+          "language": "ja",
+          "set": "OP02",
+          "rarity": "UC",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP02-059.png",
+          "cardSet": "頂上決戦【OP-02】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
+        },
+        {
+          "id": "OP02-059_p1~ja",
+          "language": "ja",
+          "set": "OP02",
+          "rarity": "UC",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP02-059_p1.png",
+          "cardSet": "頂上決戦【OP-02】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP02-059_p2~ja",
+          "language": "ja",
+          "set": "P",
+          "rarity": "UC",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP02-059_p2.png",
+          "cardSet": "プロモーションカードセット",
+          "source": "bandai"
         }
       ]
     },
     {
       "number": "OP02-060",
       "name": "Mohji",
+      "names": {
+        "en": "Mohji",
+        "ja": "モージ"
+      },
       "category": "Character",
       "cost": 1,
       "power": 3000,
@@ -5565,12 +7292,29 @@
             }
           ],
           "artist": "Anderson"
+        },
+        {
+          "id": "OP02-060~ja",
+          "language": "ja",
+          "set": "OP02",
+          "rarity": "C",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP02-060.png",
+          "cardSet": "頂上決戦【OP-02】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP02-061",
       "name": "Morley",
+      "names": {
+        "en": "Morley",
+        "ja": "モーリー"
+      },
       "category": "Character",
       "cost": 4,
       "power": 5000,
@@ -5636,12 +7380,29 @@
             }
           ],
           "artist": "kankurou"
+        },
+        {
+          "id": "OP02-061~ja",
+          "language": "ja",
+          "set": "OP02",
+          "rarity": "UC",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP02-061.png",
+          "cardSet": "頂上決戦【OP-02】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP02-062",
       "name": "Monkey.D.Luffy",
+      "names": {
+        "en": "Monkey.D.Luffy",
+        "ja": "モンキー・Ｄ・ルフィ"
+      },
       "category": "Character",
       "cost": 6,
       "power": 7000,
@@ -5704,12 +7465,42 @@
             "alternate_art"
           ],
           "artist": "AKIRA EGAWA"
+        },
+        {
+          "id": "OP02-062~ja",
+          "language": "ja",
+          "set": "OP02",
+          "rarity": "SR",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP02-062.png",
+          "cardSet": "頂上決戦【OP-02】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP02-062_p1~ja",
+          "language": "ja",
+          "set": "OP02",
+          "rarity": "SR",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP02-062_p1.png",
+          "cardSet": "頂上決戦【OP-02】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "OP02-063",
       "name": "Mr.1(Daz.Bonez)",
+      "names": {
+        "en": "Mr.1(Daz.Bonez)",
+        "ja": "Mr.1(ダズ・ボーネス)"
+      },
       "category": "Character",
       "cost": 1,
       "power": 1000,
@@ -5941,12 +7732,42 @@
               "category": "championship"
             }
           ]
+        },
+        {
+          "id": "OP02-063~ja",
+          "language": "ja",
+          "set": "OP02",
+          "rarity": "UC",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP02-063.png",
+          "cardSet": "頂上決戦【OP-02】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
+        },
+        {
+          "id": "OP02-063_p1~ja",
+          "language": "ja",
+          "set": "P",
+          "rarity": "UC",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP02-063_p1.png",
+          "cardSet": "ONE PIECEカードゲーム プロモーションパックVol.6",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "OP02-064",
       "name": "Mr.2.Bon.Kurei(Bentham)",
+      "names": {
+        "en": "Mr.2.Bon.Kurei(Bentham)",
+        "ja": "Mr.2・ボン・クレー(ベンサム)"
+      },
       "category": "Character",
       "cost": 5,
       "power": 5000,
@@ -5984,12 +7805,29 @@
             "distance": 5
           },
           "artist": "phima"
+        },
+        {
+          "id": "OP02-064~ja",
+          "language": "ja",
+          "set": "OP02",
+          "rarity": "R",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP02-064.png",
+          "cardSet": "頂上決戦【OP-02】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "OP02-065",
       "name": "Mr.3(Galdino)",
+      "names": {
+        "en": "Mr.3(Galdino)",
+        "ja": "Mr.3(ギャルディーノ)"
+      },
       "category": "Character",
       "cost": 4,
       "power": 5000,
@@ -6027,12 +7865,29 @@
             "distance": 4
           },
           "artist": "Anderson"
+        },
+        {
+          "id": "OP02-065~ja",
+          "language": "ja",
+          "set": "OP02",
+          "rarity": "R",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP02-065.png",
+          "cardSet": "頂上決戦【OP-02】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "OP02-066",
       "name": "Impel Down All Stars",
+      "names": {
+        "en": "Impel Down All Stars",
+        "ja": "インペルダウンオールスター"
+      },
       "category": "Event",
       "cost": 1,
       "colors": [
@@ -6090,12 +7945,29 @@
               "category": "event"
             }
           ]
+        },
+        {
+          "id": "OP02-066~ja",
+          "language": "ja",
+          "set": "OP02",
+          "rarity": "C",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP02-066.png",
+          "cardSet": "頂上決戦【OP-02】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP02-067",
       "name": "Arabesque Brick Fist",
+      "names": {
+        "en": "Arabesque Brick Fist",
+        "ja": "唐草瓦正拳"
+      },
       "category": "Event",
       "cost": 2,
       "colors": [
@@ -6154,12 +8026,29 @@
               "category": "event"
             }
           ]
+        },
+        {
+          "id": "OP02-067~ja",
+          "language": "ja",
+          "set": "OP02",
+          "rarity": "UC",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP02-067.png",
+          "cardSet": "頂上決戦【OP-02】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP02-068",
       "name": "Gum-Gum Rain",
+      "names": {
+        "en": "Gum-Gum Rain",
+        "ja": "ゴムゴムの雨"
+      },
       "category": "Event",
       "colors": [
         "Blue"
@@ -6242,12 +8131,65 @@
             "reprint"
           ],
           "artOf": "OP02-068"
+        },
+        {
+          "id": "OP02-068~ja",
+          "language": "ja",
+          "set": "OP02",
+          "rarity": "R",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP02-068.png",
+          "cardSet": "頂上決戦【OP-02】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP02-068_p1~ja",
+          "language": "ja",
+          "set": "PRB02",
+          "rarity": "R",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP02-068_p1.png",
+          "cardSet": "ONE PIECE CARD THE BEST vol.2【PRB-02】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP02-068_p2~ja",
+          "language": "ja",
+          "set": "P",
+          "rarity": "R",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP02-068_p2.png",
+          "cardSet": "プロモーションカードセット2026",
+          "source": "bandai"
+        },
+        {
+          "id": "OP02-068_r1~ja",
+          "language": "ja",
+          "set": "PRB02",
+          "rarity": "R",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP02-068_r1.png",
+          "cardSet": "ONE PIECE CARD THE BEST vol.2【PRB-02】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "OP02-069",
       "name": "DEATH WINK",
+      "names": {
+        "en": "DEATH WINK",
+        "ja": "DEATH WINK"
+      },
       "category": "Event",
       "cost": 3,
       "colors": [
@@ -6306,12 +8248,29 @@
               "category": "event"
             }
           ]
+        },
+        {
+          "id": "OP02-069~ja",
+          "language": "ja",
+          "set": "OP02",
+          "rarity": "C",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP02-069.png",
+          "cardSet": "頂上決戦【OP-02】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP02-070",
       "name": "New Kama Land",
+      "names": {
+        "en": "New Kama Land",
+        "ja": "ニューカマーランド"
+      },
       "category": "Stage",
       "cost": 1,
       "colors": [
@@ -6369,12 +8328,29 @@
               "category": "event"
             }
           ]
+        },
+        {
+          "id": "OP02-070~ja",
+          "language": "ja",
+          "set": "OP02",
+          "rarity": "C",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP02-070.png",
+          "cardSet": "頂上決戦【OP-02】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP02-071",
       "name": "Magellan",
+      "names": {
+        "en": "Magellan",
+        "ja": "マゼラン"
+      },
       "category": "Leader",
       "power": 5000,
       "life": 5,
@@ -6434,12 +8410,42 @@
           "treatments": [
             "alternate_art"
           ]
+        },
+        {
+          "id": "OP02-071~ja",
+          "language": "ja",
+          "set": "OP02",
+          "rarity": "L",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP02-071.png",
+          "cardSet": "頂上決戦【OP-02】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
+        },
+        {
+          "id": "OP02-071_p1~ja",
+          "language": "ja",
+          "set": "OP02",
+          "rarity": "L",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP02-071_p1.png",
+          "cardSet": "頂上決戦【OP-02】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "OP02-072",
       "name": "Zephyr",
+      "names": {
+        "en": "Zephyr",
+        "ja": "ゼット"
+      },
       "category": "Leader",
       "power": 5000,
       "life": 4,
@@ -6501,12 +8507,42 @@
           "treatments": [
             "alternate_art"
           ]
+        },
+        {
+          "id": "OP02-072~ja",
+          "language": "ja",
+          "set": "OP02",
+          "rarity": "L",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP02-072.png",
+          "cardSet": "頂上決戦【OP-02】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
+        },
+        {
+          "id": "OP02-072_p1~ja",
+          "language": "ja",
+          "set": "OP02",
+          "rarity": "L",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP02-072_p1.png",
+          "cardSet": "頂上決戦【OP-02】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "OP02-073",
       "name": "Little Sadi",
+      "names": {
+        "en": "Little Sadi",
+        "ja": "サディちゃん"
+      },
       "category": "Character",
       "cost": 3,
       "power": 3000,
@@ -6595,12 +8631,42 @@
               "category": "program"
             }
           ]
+        },
+        {
+          "id": "OP02-073~ja",
+          "language": "ja",
+          "set": "OP02",
+          "rarity": "R",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP02-073.png",
+          "cardSet": "頂上決戦【OP-02】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP02-073_p1~ja",
+          "language": "ja",
+          "set": "OP02",
+          "rarity": "R",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP02-073_p1.png",
+          "cardSet": "頂上決戦【OP-02】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "OP02-074",
       "name": "Saldeath",
+      "names": {
+        "en": "Saldeath",
+        "ja": "サルデス"
+      },
       "category": "Character",
       "cost": 1,
       "power": 2000,
@@ -6665,12 +8731,29 @@
             }
           ],
           "artist": "Suzume Muraichi"
+        },
+        {
+          "id": "OP02-074~ja",
+          "language": "ja",
+          "set": "OP02",
+          "rarity": "C",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP02-074.png",
+          "cardSet": "頂上決戦【OP-02】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP02-075",
       "name": "Shiki",
+      "names": {
+        "en": "Shiki",
+        "ja": "シキ"
+      },
       "category": "Character",
       "cost": 2,
       "power": 3000,
@@ -6708,12 +8791,29 @@
             "distance": 4
           },
           "artist": "Anderson"
+        },
+        {
+          "id": "OP02-075~ja",
+          "language": "ja",
+          "set": "OP02",
+          "rarity": "R",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP02-075.png",
+          "cardSet": "頂上決戦【OP-02】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "OP02-076",
       "name": "Shiryu",
+      "names": {
+        "en": "Shiryu",
+        "ja": "シリュウ"
+      },
       "category": "Character",
       "cost": 4,
       "power": 5000,
@@ -6750,12 +8850,29 @@
             "distance": 4
           },
           "artist": "shosuke"
+        },
+        {
+          "id": "OP02-076~ja",
+          "language": "ja",
+          "set": "OP02",
+          "rarity": "R",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP02-076.png",
+          "cardSet": "頂上決戦【OP-02】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "OP02-077",
       "name": "Solitaire",
+      "names": {
+        "en": "Solitaire",
+        "ja": "ソリティア"
+      },
       "category": "Character",
       "cost": 3,
       "power": 5000,
@@ -6821,12 +8938,29 @@
             }
           ],
           "artist": "NIJIMAARC"
+        },
+        {
+          "id": "OP02-077~ja",
+          "language": "ja",
+          "set": "OP02",
+          "rarity": "C",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP02-077.png",
+          "cardSet": "頂上決戦【OP-02】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP02-078",
       "name": "Daifugo",
+      "names": {
+        "en": "Daifugo",
+        "ja": "ダイフゴー"
+      },
       "category": "Character",
       "cost": 3,
       "power": 5000,
@@ -6891,12 +9025,29 @@
             }
           ],
           "artist": "Akihiro MIYANO"
+        },
+        {
+          "id": "OP02-078~ja",
+          "language": "ja",
+          "set": "OP02",
+          "rarity": "UC",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP02-078.png",
+          "cardSet": "頂上決戦【OP-02】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP02-079",
       "name": "Douglas Bullet",
+      "names": {
+        "en": "Douglas Bullet",
+        "ja": "ダグラス・バレット"
+      },
       "category": "Character",
       "cost": 5,
       "power": 6000,
@@ -6962,12 +9113,29 @@
             }
           ],
           "artist": "Nijihayashi"
+        },
+        {
+          "id": "OP02-079~ja",
+          "language": "ja",
+          "set": "OP02",
+          "rarity": "UC",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP02-079.png",
+          "cardSet": "頂上決戦【OP-02】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP02-080",
       "name": "Dobon",
+      "names": {
+        "en": "Dobon",
+        "ja": "ドボン"
+      },
       "category": "Character",
       "cost": 2,
       "power": 4000,
@@ -7033,12 +9201,29 @@
             }
           ],
           "artist": "shosuke"
+        },
+        {
+          "id": "OP02-080~ja",
+          "language": "ja",
+          "set": "OP02",
+          "rarity": "C",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP02-080.png",
+          "cardSet": "頂上決戦【OP-02】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP02-081",
       "name": "Domino",
+      "names": {
+        "en": "Domino",
+        "ja": "ドミノ"
+      },
       "category": "Character",
       "cost": 2,
       "power": 2000,
@@ -7103,12 +9288,29 @@
             }
           ],
           "artist": "UGUME"
+        },
+        {
+          "id": "OP02-081~ja",
+          "language": "ja",
+          "set": "OP02",
+          "rarity": "C",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP02-081.png",
+          "cardSet": "頂上決戦【OP-02】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP02-082",
       "name": "Byrnndi World",
+      "names": {
+        "en": "Byrnndi World",
+        "ja": "バーンディ・ワールド"
+      },
       "category": "Character",
       "cost": 8,
       "power": 8000,
@@ -7170,12 +9372,29 @@
               "category": "event"
             }
           ]
+        },
+        {
+          "id": "OP02-082~ja",
+          "language": "ja",
+          "set": "OP02",
+          "rarity": "UC",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP02-082.png",
+          "cardSet": "頂上決戦【OP-02】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP02-083",
       "name": "Hannyabal",
+      "names": {
+        "en": "Hannyabal",
+        "ja": "ハンニャバル"
+      },
       "category": "Character",
       "cost": 1,
       "power": 2000,
@@ -7212,12 +9431,29 @@
             "distance": 5
           },
           "artist": "Hayaken-sarena"
+        },
+        {
+          "id": "OP02-083~ja",
+          "language": "ja",
+          "set": "OP02",
+          "rarity": "R",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP02-083.png",
+          "cardSet": "頂上決戦【OP-02】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "OP02-084",
       "name": "Blugori",
+      "names": {
+        "en": "Blugori",
+        "ja": "ブルゴリ"
+      },
       "category": "Character",
       "cost": 1,
       "power": 3000,
@@ -7283,12 +9519,29 @@
             }
           ],
           "artist": "KISUKE"
+        },
+        {
+          "id": "OP02-084~ja",
+          "language": "ja",
+          "set": "OP02",
+          "rarity": "C",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP02-084.png",
+          "cardSet": "頂上決戦【OP-02】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP02-085",
       "name": "Magellan",
+      "names": {
+        "en": "Magellan",
+        "ja": "マゼラン"
+      },
       "category": "Character",
       "cost": 5,
       "power": 6000,
@@ -7375,12 +9628,55 @@
             "sp"
           ],
           "artist": "Anderson"
+        },
+        {
+          "id": "OP02-085~ja",
+          "language": "ja",
+          "set": "OP02",
+          "rarity": "SR",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP02-085.png",
+          "cardSet": "頂上決戦【OP-02】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP02-085_p1~ja",
+          "language": "ja",
+          "set": "OP02",
+          "rarity": "SR",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP02-085_p1.png",
+          "cardSet": "頂上決戦【OP-02】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP02-085_p2~ja",
+          "language": "ja",
+          "set": "OP04",
+          "rarity": "SP CARD",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP02-085_p2.png",
+          "cardSet": "謀略の王国【OP-04】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "OP02-086",
       "name": "Minokoala",
+      "names": {
+        "en": "Minokoala",
+        "ja": "ミノコアラ"
+      },
       "category": "Character",
       "cost": 4,
       "power": 5000,
@@ -7475,12 +9771,42 @@
             }
           ],
           "artist": "touge369"
+        },
+        {
+          "id": "OP02-086~ja",
+          "language": "ja",
+          "set": "OP02",
+          "rarity": "UC",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP02-086.png",
+          "cardSet": "頂上決戦【OP-02】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
+        },
+        {
+          "id": "OP02-086_p1~ja",
+          "language": "ja",
+          "set": "OP02",
+          "rarity": "UC",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP02-086_p1.png",
+          "cardSet": "頂上決戦【OP-02】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "OP02-087",
       "name": "Minotaur",
+      "names": {
+        "en": "Minotaur",
+        "ja": "ミノタウロス"
+      },
       "category": "Character",
       "cost": 4,
       "power": 5000,
@@ -7546,12 +9872,29 @@
             }
           ],
           "artist": "KISUKE"
+        },
+        {
+          "id": "OP02-087~ja",
+          "language": "ja",
+          "set": "OP02",
+          "rarity": "UC",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP02-087.png",
+          "cardSet": "頂上決戦【OP-02】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP02-088",
       "name": "Sphinx",
+      "names": {
+        "en": "Sphinx",
+        "ja": "SPHINX"
+      },
       "category": "Character",
       "cost": 4,
       "power": 6000,
@@ -7617,12 +9960,29 @@
             }
           ],
           "artist": "HISASHI HUJIWARA"
+        },
+        {
+          "id": "OP02-088~ja",
+          "language": "ja",
+          "set": "OP02",
+          "rarity": "C",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP02-088.png",
+          "cardSet": "頂上決戦【OP-02】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP02-089",
       "name": "Judgment of Hell",
+      "names": {
+        "en": "Judgment of Hell",
+        "ja": "地獄の審判"
+      },
       "category": "Event",
       "cost": 2,
       "colors": [
@@ -7746,12 +10106,75 @@
           "cardSet": "-ONE PIECE CARD THE BEST- [PRB-01]",
           "source": "bandai",
           "artOf": "OP02-089"
+        },
+        {
+          "id": "OP02-089~ja",
+          "language": "ja",
+          "set": "OP02",
+          "rarity": "R",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP02-089.png",
+          "cardSet": "頂上決戦【OP-02】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP02-089_p1~ja",
+          "language": "ja",
+          "set": "PRB01",
+          "rarity": "R",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP02-089_p1.png",
+          "cardSet": "ONE PIECE CARD THE BEST【PRB-01】",
+          "source": "bandai"
+        },
+        {
+          "id": "OP02-089_p2~ja",
+          "language": "ja",
+          "set": "PRB01",
+          "rarity": "R",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP02-089_p2.png",
+          "cardSet": "ONE PIECE CARD THE BEST【PRB-01】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP02-089_p3~ja",
+          "language": "ja",
+          "set": "PRB01",
+          "rarity": "R",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP02-089_p3.png",
+          "cardSet": "ONE PIECE CARD THE BEST【PRB-01】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP02-089_r1~ja",
+          "language": "ja",
+          "set": "PRB01",
+          "rarity": "R",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP02-089_r1.png",
+          "cardSet": "ONE PIECE CARD THE BEST【PRB-01】",
+          "source": "bandai"
         }
       ]
     },
     {
       "number": "OP02-090",
       "name": "Hydra",
+      "names": {
+        "en": "Hydra",
+        "ja": "毒竜"
+      },
       "category": "Event",
       "cost": 1,
       "colors": [
@@ -7809,12 +10232,29 @@
               "category": "event"
             }
           ]
+        },
+        {
+          "id": "OP02-090~ja",
+          "language": "ja",
+          "set": "OP02",
+          "rarity": "UC",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP02-090.png",
+          "cardSet": "頂上決戦【OP-02】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP02-091",
       "name": "Venom Road",
+      "names": {
+        "en": "Venom Road",
+        "ja": "毒の道"
+      },
       "category": "Event",
       "cost": 3,
       "colors": [
@@ -7872,12 +10312,29 @@
               "category": "event"
             }
           ]
+        },
+        {
+          "id": "OP02-091~ja",
+          "language": "ja",
+          "set": "OP02",
+          "rarity": "C",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP02-091.png",
+          "cardSet": "頂上決戦【OP-02】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP02-092",
       "name": "Impel Down",
+      "names": {
+        "en": "Impel Down",
+        "ja": "インペルダウン"
+      },
       "category": "Stage",
       "cost": 1,
       "colors": [
@@ -7935,12 +10392,29 @@
               "category": "event"
             }
           ]
+        },
+        {
+          "id": "OP02-092~ja",
+          "language": "ja",
+          "set": "OP02",
+          "rarity": "C",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP02-092.png",
+          "cardSet": "頂上決戦【OP-02】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP02-093",
       "name": "Smoker",
+      "names": {
+        "en": "Smoker",
+        "ja": "スモーカー"
+      },
       "category": "Leader",
       "power": 5000,
       "life": 5,
@@ -8023,12 +10497,55 @@
             "distance": 0
           },
           "artist": "BISAI"
+        },
+        {
+          "id": "OP02-093~ja",
+          "language": "ja",
+          "set": "OP02",
+          "rarity": "L",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP02-093.png",
+          "cardSet": "頂上決戦【OP-02】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
+        },
+        {
+          "id": "OP02-093_p1~ja",
+          "language": "ja",
+          "set": "OP02",
+          "rarity": "L",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP02-093_p1.png",
+          "cardSet": "頂上決戦【OP-02】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP02-093_p2~ja",
+          "language": "ja",
+          "set": "ST19",
+          "rarity": "L",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP02-093_p2.png",
+          "cardSet": "スタートデッキ 黒 スモーカー【ST-19】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "OP02-094",
       "name": "Isuka",
+      "names": {
+        "en": "Isuka",
+        "ja": "イスカ"
+      },
       "category": "Character",
       "cost": 3,
       "power": 4000,
@@ -8091,12 +10608,29 @@
               "category": "event"
             }
           ]
+        },
+        {
+          "id": "OP02-094~ja",
+          "language": "ja",
+          "set": "OP02",
+          "rarity": "UC",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP02-094.png",
+          "cardSet": "頂上決戦【OP-02】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP02-095",
       "name": "Onigumo",
+      "names": {
+        "en": "Onigumo",
+        "ja": "オニグモ"
+      },
       "category": "Character",
       "cost": 5,
       "power": 6000,
@@ -8161,12 +10695,29 @@
             }
           ],
           "artist": "nukadokomogera"
+        },
+        {
+          "id": "OP02-095~ja",
+          "language": "ja",
+          "set": "OP02",
+          "rarity": "UC",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP02-095.png",
+          "cardSet": "頂上決戦【OP-02】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP02-096",
       "name": "Kuzan",
+      "names": {
+        "en": "Kuzan",
+        "ja": "クザン"
+      },
       "category": "Character",
       "cost": 4,
       "power": 5000,
@@ -8307,12 +10858,75 @@
               "category": "championship"
             }
           ]
+        },
+        {
+          "id": "OP02-096~ja",
+          "language": "ja",
+          "set": "OP02",
+          "rarity": "SR",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP02-096.png",
+          "cardSet": "頂上決戦【OP-02】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP02-096_p1~ja",
+          "language": "ja",
+          "set": "OP02",
+          "rarity": "SR",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP02-096_p1.png",
+          "cardSet": "頂上決戦【OP-02】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP02-096_p3~ja",
+          "language": "ja",
+          "set": "P",
+          "rarity": "SR",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP02-096_p3.png",
+          "cardSet": "チャンピオンシップ2023 1次予選エリア大会 ベスト8記念品",
+          "source": "bandai"
+        },
+        {
+          "id": "OP02-096_p4~ja",
+          "language": "ja",
+          "set": "PRB01",
+          "rarity": "SR",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP02-096_p4.png",
+          "cardSet": "ONE PIECE CARD THE BEST【PRB-01】",
+          "source": "bandai"
+        },
+        {
+          "id": "OP02-096_r1~ja",
+          "language": "ja",
+          "set": "PRB01",
+          "rarity": "SR",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP02-096_r1.png",
+          "cardSet": "ONE PIECE CARD THE BEST【PRB-01】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "OP02-097",
       "name": "Komille",
+      "names": {
+        "en": "Komille",
+        "ja": "コーミル"
+      },
       "category": "Character",
       "cost": 1,
       "power": 3000,
@@ -8377,12 +10991,29 @@
             }
           ],
           "artist": "kankurou"
+        },
+        {
+          "id": "OP02-097~ja",
+          "language": "ja",
+          "set": "OP02",
+          "rarity": "C",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP02-097.png",
+          "cardSet": "頂上決戦【OP-02】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP02-098",
       "name": "Koby",
+      "names": {
+        "en": "Koby",
+        "ja": "コビー"
+      },
       "category": "Character",
       "cost": 3,
       "power": 4000,
@@ -8672,12 +11303,65 @@
               "category": "championship"
             }
           ]
+        },
+        {
+          "id": "OP02-098~ja",
+          "language": "ja",
+          "set": "OP02",
+          "rarity": "R",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP02-098.png",
+          "cardSet": "頂上決戦【OP-02】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP02-098_p1~ja",
+          "language": "ja",
+          "set": "P",
+          "rarity": "R",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP02-098_p1.png",
+          "cardSet": "ONE PIECEカードゲーム プロモーションパックVol.3",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP02-098_p3~ja",
+          "language": "ja",
+          "set": "P",
+          "rarity": "R",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP02-098_p3.png",
+          "cardSet": "フラッグシップバトル2023 7月ベスト8記念品",
+          "source": "bandai"
+        },
+        {
+          "id": "OP02-098_r1~ja",
+          "language": "ja",
+          "set": "ST19",
+          "rarity": "R",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP02-098_r1.png",
+          "cardSet": "スタートデッキ 黒 スモーカー【ST-19】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP02-099",
       "name": "Sakazuki",
+      "names": {
+        "en": "Sakazuki",
+        "ja": "サカズキ"
+      },
       "category": "Character",
       "cost": 6,
       "power": 7000,
@@ -8841,12 +11525,88 @@
               "category": "championship"
             }
           ]
+        },
+        {
+          "id": "OP02-099~ja",
+          "language": "ja",
+          "set": "OP02",
+          "rarity": "SR",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP02-099.png",
+          "cardSet": "頂上決戦【OP-02】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP02-099_p1~ja",
+          "language": "ja",
+          "set": "OP02",
+          "rarity": "SR",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP02-099_p1.png",
+          "cardSet": "頂上決戦【OP-02】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP02-099_p2~ja",
+          "language": "ja",
+          "set": "OP04",
+          "rarity": "SP CARD",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP02-099_p2.png",
+          "cardSet": "謀略の王国【OP-04】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP02-099_p4~ja",
+          "language": "ja",
+          "set": "P",
+          "rarity": "SR",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP02-099_p4.png",
+          "cardSet": "チャンピオンシップ2023 1次予選決勝大会 ベスト32記念品",
+          "source": "bandai"
+        },
+        {
+          "id": "OP02-099_p5~ja",
+          "language": "ja",
+          "set": "PRB01",
+          "rarity": "SR",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP02-099_p5.png",
+          "cardSet": "ONE PIECE CARD THE BEST【PRB-01】",
+          "source": "bandai"
+        },
+        {
+          "id": "OP02-099_r1~ja",
+          "language": "ja",
+          "set": "PRB01",
+          "rarity": "SR",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP02-099_r1.png",
+          "cardSet": "ONE PIECE CARD THE BEST【PRB-01】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "OP02-100",
       "name": "Jango",
+      "names": {
+        "en": "Jango",
+        "ja": "ジャンゴ"
+      },
       "category": "Character",
       "cost": 2,
       "power": 3000,
@@ -8911,12 +11671,29 @@
             }
           ],
           "artist": "jugemt"
+        },
+        {
+          "id": "OP02-100~ja",
+          "language": "ja",
+          "set": "OP02",
+          "rarity": "C",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP02-100.png",
+          "cardSet": "頂上決戦【OP-02】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP02-101",
       "name": "Strawberry",
+      "names": {
+        "en": "Strawberry",
+        "ja": "ストロベリー"
+      },
       "category": "Character",
       "cost": 4,
       "power": 5000,
@@ -8980,12 +11757,29 @@
             }
           ],
           "artist": "Nijihayashi"
+        },
+        {
+          "id": "OP02-101~ja",
+          "language": "ja",
+          "set": "OP02",
+          "rarity": "C",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP02-101.png",
+          "cardSet": "頂上決戦【OP-02】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP02-102",
       "name": "Smoker",
+      "names": {
+        "en": "Smoker",
+        "ja": "スモーカー"
+      },
       "category": "Character",
       "cost": 3,
       "power": 4000,
@@ -9022,12 +11816,29 @@
             "distance": 4
           },
           "artist": "HISASHI HUJIWARA"
+        },
+        {
+          "id": "OP02-102~ja",
+          "language": "ja",
+          "set": "OP02",
+          "rarity": "R",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP02-102.png",
+          "cardSet": "頂上決戦【OP-02】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "OP02-103",
       "name": "Sengoku",
+      "names": {
+        "en": "Sengoku",
+        "ja": "センゴク"
+      },
       "category": "Character",
       "cost": 2,
       "power": 3000,
@@ -9064,12 +11875,29 @@
             "distance": 3
           },
           "artist": "BISAI"
+        },
+        {
+          "id": "OP02-103~ja",
+          "language": "ja",
+          "set": "OP02",
+          "rarity": "R",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP02-103.png",
+          "cardSet": "頂上決戦【OP-02】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "OP02-104",
       "name": "Sentomaru",
+      "names": {
+        "en": "Sentomaru",
+        "ja": "戦桃丸"
+      },
       "category": "Character",
       "cost": 2,
       "power": 3000,
@@ -9134,12 +11962,29 @@
             }
           ],
           "artist": "jugemt"
+        },
+        {
+          "id": "OP02-104~ja",
+          "language": "ja",
+          "set": "OP02",
+          "rarity": "C",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP02-104.png",
+          "cardSet": "頂上決戦【OP-02】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP02-105",
       "name": "Tashigi",
+      "names": {
+        "en": "Tashigi",
+        "ja": "たしぎ"
+      },
       "category": "Character",
       "cost": 3,
       "power": 5000,
@@ -9232,12 +12077,52 @@
             }
           ],
           "artist": "Studio Vigor Co. Ltd"
+        },
+        {
+          "id": "OP02-105~ja",
+          "language": "ja",
+          "set": "OP02",
+          "rarity": "C",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP02-105.png",
+          "cardSet": "頂上決戦【OP-02】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
+        },
+        {
+          "id": "OP02-105_p1~ja",
+          "language": "ja",
+          "set": "OP02",
+          "rarity": "C",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP02-105_p1.png",
+          "cardSet": "頂上決戦【OP-02】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP02-105_p3~ja",
+          "language": "ja",
+          "set": "P",
+          "rarity": "C",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP02-105_p3.png",
+          "cardSet": "ジャンプGIGA 2023 SPRING 応募者全員サービス",
+          "source": "bandai"
         }
       ]
     },
     {
       "number": "OP02-106",
       "name": "Tsuru",
+      "names": {
+        "en": "Tsuru",
+        "ja": "つる"
+      },
       "category": "Character",
       "cost": 1,
       "counter": 2000,
@@ -9525,12 +12410,91 @@
               "category": "placement"
             }
           ]
+        },
+        {
+          "id": "OP02-106~ja",
+          "language": "ja",
+          "set": "OP02",
+          "rarity": "UC",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP02-106.png",
+          "cardSet": "頂上決戦【OP-02】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
+        },
+        {
+          "id": "OP02-106_p2~ja",
+          "language": "ja",
+          "set": "OTHER",
+          "rarity": "UC",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP02-106_p2.png",
+          "cardSet": "プレミアムカードコレクション - ベストセレクションvol.1 -",
+          "source": "bandai"
+        },
+        {
+          "id": "OP02-106_p4~ja",
+          "language": "ja",
+          "set": "PRB01",
+          "rarity": "UC",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP02-106_p4.png",
+          "cardSet": "ONE PIECE CARD THE BEST【PRB-01】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP02-106_p5~ja",
+          "language": "ja",
+          "set": "PRB01",
+          "rarity": "UC",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP02-106_p5.png",
+          "cardSet": "ONE PIECE CARD THE BEST【PRB-01】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP02-106_r1~ja",
+          "language": "ja",
+          "set": "ST19",
+          "rarity": "UC",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP02-106_r1.png",
+          "cardSet": "スタートデッキ 黒 スモーカー【ST-19】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
+        },
+        {
+          "id": "OP02-106_r2~ja",
+          "language": "ja",
+          "set": "PRB01",
+          "rarity": "UC",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP02-106_r2.png",
+          "cardSet": "ONE PIECE CARD THE BEST【PRB-01】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP02-107",
       "name": "Doberman",
+      "names": {
+        "en": "Doberman",
+        "ja": "ドーベルマン"
+      },
       "category": "Character",
       "cost": 2,
       "power": 4000,
@@ -9595,12 +12559,29 @@
             }
           ],
           "artist": "HISASHI HUJIWARA"
+        },
+        {
+          "id": "OP02-107~ja",
+          "language": "ja",
+          "set": "OP02",
+          "rarity": "C",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP02-107.png",
+          "cardSet": "頂上決戦【OP-02】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP02-108",
       "name": "Donquixote Rosinante",
+      "names": {
+        "en": "Donquixote Rosinante",
+        "ja": "ドンキホーテ・ロシナンテ"
+      },
       "category": "Character",
       "cost": 2,
       "power": 2000,
@@ -9775,12 +12756,65 @@
               "category": "program"
             }
           ]
+        },
+        {
+          "id": "OP02-108~ja",
+          "language": "ja",
+          "set": "OP02",
+          "rarity": "C",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP02-108.png",
+          "cardSet": "頂上決戦【OP-02】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
+        },
+        {
+          "id": "OP02-108_p1~ja",
+          "language": "ja",
+          "set": "OP02",
+          "rarity": "C",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP02-108_p1.png",
+          "cardSet": "頂上決戦【OP-02】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP02-108_p2~ja",
+          "language": "ja",
+          "set": "P",
+          "rarity": "C",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP02-108_p2.png",
+          "cardSet": "ONE PIECEカードゲーム プロモーションパックVol.5",
+          "source": "bandai"
+        },
+        {
+          "id": "OP02-108_r1~ja",
+          "language": "ja",
+          "set": "ST19",
+          "rarity": "C",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP02-108_r1.png",
+          "cardSet": "スタートデッキ 黒 スモーカー【ST-19】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP02-109",
       "name": "Jaguar.D.Saul",
+      "names": {
+        "en": "Jaguar.D.Saul",
+        "ja": "ハグワール・D・サウロ"
+      },
       "category": "Character",
       "cost": 4,
       "power": 6000,
@@ -9870,12 +12904,42 @@
             }
           ],
           "artist": "HISASHI HUJIWARA"
+        },
+        {
+          "id": "OP02-109~ja",
+          "language": "ja",
+          "set": "OP02",
+          "rarity": "C",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP02-109.png",
+          "cardSet": "頂上決戦【OP-02】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
+        },
+        {
+          "id": "OP02-109_r1~ja",
+          "language": "ja",
+          "set": "ST19",
+          "rarity": "C",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP02-109_r1.png",
+          "cardSet": "スタートデッキ 黒 スモーカー【ST-19】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP02-110",
       "name": "Hina",
+      "names": {
+        "en": "Hina",
+        "ja": "ヒナ"
+      },
       "category": "Character",
       "cost": 5,
       "power": 6000,
@@ -9912,12 +12976,29 @@
             "distance": 5
           },
           "artist": "Hashimoto Q"
+        },
+        {
+          "id": "OP02-110~ja",
+          "language": "ja",
+          "set": "OP02",
+          "rarity": "R",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP02-110.png",
+          "cardSet": "頂上決戦【OP-02】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "OP02-111",
       "name": "Fullbody",
+      "names": {
+        "en": "Fullbody",
+        "ja": "フルボディ"
+      },
       "category": "Character",
       "cost": 2,
       "power": 3000,
@@ -9982,12 +13063,29 @@
             }
           ],
           "artist": "Moopic"
+        },
+        {
+          "id": "OP02-111~ja",
+          "language": "ja",
+          "set": "OP02",
+          "rarity": "C",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP02-111.png",
+          "cardSet": "頂上決戦【OP-02】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP02-112",
       "name": "Bell-mère",
+      "names": {
+        "en": "Bell-mère",
+        "ja": "ベルメール"
+      },
       "category": "Character",
       "cost": 1,
       "power": 1000,
@@ -10052,12 +13150,29 @@
             }
           ],
           "artist": "UGUME"
+        },
+        {
+          "id": "OP02-112~ja",
+          "language": "ja",
+          "set": "OP02",
+          "rarity": "UC",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP02-112.png",
+          "cardSet": "頂上決戦【OP-02】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP02-113",
       "name": "Helmeppo",
+      "names": {
+        "en": "Helmeppo",
+        "ja": "ヘルメッポ"
+      },
       "category": "Character",
       "cost": 3,
       "power": 3000,
@@ -10146,12 +13261,42 @@
             }
           ],
           "artist": "Koushi Rokushiro"
+        },
+        {
+          "id": "OP02-113~ja",
+          "language": "ja",
+          "set": "OP02",
+          "rarity": "UC",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP02-113.png",
+          "cardSet": "頂上決戦【OP-02】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
+        },
+        {
+          "id": "OP02-113_r1~ja",
+          "language": "ja",
+          "set": "ST19",
+          "rarity": "UC",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP02-113_r1.png",
+          "cardSet": "スタートデッキ 黒 スモーカー【ST-19】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP02-114",
       "name": "Borsalino",
+      "names": {
+        "en": "Borsalino",
+        "ja": "ボルサリーノ"
+      },
       "category": "Character",
       "cost": 4,
       "power": 5000,
@@ -10293,12 +13438,75 @@
               "category": "championship"
             }
           ]
+        },
+        {
+          "id": "OP02-114~ja",
+          "language": "ja",
+          "set": "OP02",
+          "rarity": "SR",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP02-114.png",
+          "cardSet": "頂上決戦【OP-02】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP02-114_p1~ja",
+          "language": "ja",
+          "set": "OP02",
+          "rarity": "SR",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP02-114_p1.png",
+          "cardSet": "頂上決戦【OP-02】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP02-114_p3~ja",
+          "language": "ja",
+          "set": "P",
+          "rarity": "SR",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP02-114_p3.png",
+          "cardSet": "チャンピオンシップ2023 1次予選エリア大会 ベスト16記念品",
+          "source": "bandai"
+        },
+        {
+          "id": "OP02-114_p4~ja",
+          "language": "ja",
+          "set": "PRB01",
+          "rarity": "SR",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP02-114_p4.png",
+          "cardSet": "ONE PIECE CARD THE BEST【PRB-01】",
+          "source": "bandai"
+        },
+        {
+          "id": "OP02-114_r1~ja",
+          "language": "ja",
+          "set": "PRB01",
+          "rarity": "SR",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP02-114_r1.png",
+          "cardSet": "ONE PIECE CARD THE BEST【PRB-01】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "OP02-115",
       "name": "Monkey.D.Garp",
+      "names": {
+        "en": "Monkey.D.Garp",
+        "ja": "モンキー・D・ガープ"
+      },
       "category": "Character",
       "cost": 2,
       "power": 3000,
@@ -10361,12 +13569,42 @@
             "alternate_art"
           ],
           "artist": "Makitoshi"
+        },
+        {
+          "id": "OP02-115~ja",
+          "language": "ja",
+          "set": "OP02",
+          "rarity": "R",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP02-115.png",
+          "cardSet": "頂上決戦【OP-02】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP02-115_p1~ja",
+          "language": "ja",
+          "set": "OP02",
+          "rarity": "R",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP02-115_p1.png",
+          "cardSet": "頂上決戦【OP-02】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "OP02-116",
       "name": "Yamakaji",
+      "names": {
+        "en": "Yamakaji",
+        "ja": "ヤマカジ"
+      },
       "category": "Character",
       "cost": 3,
       "power": 5000,
@@ -10455,12 +13693,42 @@
             }
           ],
           "artist": "touge369"
+        },
+        {
+          "id": "OP02-116~ja",
+          "language": "ja",
+          "set": "OP02",
+          "rarity": "C",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP02-116.png",
+          "cardSet": "頂上決戦【OP-02】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
+        },
+        {
+          "id": "OP02-116_r1~ja",
+          "language": "ja",
+          "set": "ST19",
+          "rarity": "C",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP02-116_r1.png",
+          "cardSet": "スタートデッキ 黒 スモーカー【ST-19】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP02-117",
       "name": "Ice Age",
+      "names": {
+        "en": "Ice Age",
+        "ja": "氷河時代"
+      },
       "category": "Event",
       "cost": 1,
       "colors": [
@@ -10628,12 +13896,88 @@
               "category": "event"
             }
           ]
+        },
+        {
+          "id": "OP02-117~ja",
+          "language": "ja",
+          "set": "OP02",
+          "rarity": "UC",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP02-117.png",
+          "cardSet": "頂上決戦【OP-02】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
+        },
+        {
+          "id": "OP02-117_p2~ja",
+          "language": "ja",
+          "set": "OTHER",
+          "rarity": "UC",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP02-117_p2.png",
+          "cardSet": "プレミアムカードコレクション - ベストセレクションvol.1 -",
+          "source": "bandai"
+        },
+        {
+          "id": "OP02-117_p4~ja",
+          "language": "ja",
+          "set": "PRB01",
+          "rarity": "UC",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP02-117_p4.png",
+          "cardSet": "ONE PIECE CARD THE BEST【PRB-01】",
+          "source": "bandai"
+        },
+        {
+          "id": "OP02-117_p5~ja",
+          "language": "ja",
+          "set": "PRB01",
+          "rarity": "UC",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP02-117_p5.png",
+          "cardSet": "ONE PIECE CARD THE BEST【PRB-01】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP02-117_r1~ja",
+          "language": "ja",
+          "set": "ST19",
+          "rarity": "UC",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP02-117_r1.png",
+          "cardSet": "スタートデッキ 黒 スモーカー【ST-19】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
+        },
+        {
+          "id": "OP02-117_r2~ja",
+          "language": "ja",
+          "set": "PRB01",
+          "rarity": "UC",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP02-117_r2.png",
+          "cardSet": "ONE PIECE CARD THE BEST【PRB-01】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP02-118",
       "name": "Yasakani Sacred Jewel",
+      "names": {
+        "en": "Yasakani Sacred Jewel",
+        "ja": "八尺瓊勾玉"
+      },
       "category": "Event",
       "cost": 1,
       "colors": [
@@ -10691,12 +14035,29 @@
               "category": "event"
             }
           ]
+        },
+        {
+          "id": "OP02-118~ja",
+          "language": "ja",
+          "set": "OP02",
+          "rarity": "C",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP02-118.png",
+          "cardSet": "頂上決戦【OP-02】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP02-119",
       "name": "Meteor Volcano",
+      "names": {
+        "en": "Meteor Volcano",
+        "ja": "流星火山"
+      },
       "category": "Event",
       "cost": 2,
       "colors": [
@@ -10727,12 +14088,29 @@
             "match": "image-only-candidate",
             "distance": 4
           }
+        },
+        {
+          "id": "OP02-119~ja",
+          "language": "ja",
+          "set": "OP02",
+          "rarity": "R",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP02-119.png",
+          "cardSet": "頂上決戦【OP-02】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "OP02-120",
       "name": "Uta",
+      "names": {
+        "en": "Uta",
+        "ja": "ウタ"
+      },
       "category": "Character",
       "cost": 8,
       "power": 8000,
@@ -10845,12 +14223,65 @@
               "category": "retail"
             }
           ]
+        },
+        {
+          "id": "OP02-120~ja",
+          "language": "ja",
+          "set": "OP02",
+          "rarity": "SEC",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP02-120.png",
+          "cardSet": "頂上決戦【OP-02】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP02-120_p1~ja",
+          "language": "ja",
+          "set": "OP02",
+          "rarity": "SEC",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP02-120_p1.png",
+          "cardSet": "頂上決戦【OP-02】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP02-120_p2~ja",
+          "language": "ja",
+          "set": "OP05",
+          "rarity": "SP CARD",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP02-120_p2.png",
+          "cardSet": "新時代の主役【OP-05】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP02-120_p3~ja",
+          "language": "ja",
+          "set": "OTHER",
+          "rarity": "SEC",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP02-120_p3.png",
+          "cardSet": "プレミアムカードコレクション-ウタ-",
+          "source": "bandai"
         }
       ]
     },
     {
       "number": "OP02-121",
       "name": "Kuzan",
+      "names": {
+        "en": "Kuzan",
+        "ja": "クザン"
+      },
       "category": "Character",
       "cost": 10,
       "power": 10000,
@@ -10961,6 +14392,55 @@
           },
           "treatments": [
             "reprint"
+          ]
+        },
+        {
+          "id": "OP02-121~ja",
+          "language": "ja",
+          "set": "OP02",
+          "rarity": "SEC",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP02-121.png",
+          "cardSet": "頂上決戦【OP-02】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP02-121_p1~ja",
+          "language": "ja",
+          "set": "OP02",
+          "rarity": "SEC",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP02-121_p1.png",
+          "cardSet": "頂上決戦【OP-02】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP02-121_p2~ja",
+          "language": "ja",
+          "set": "PRB01",
+          "rarity": "SEC",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP02-121_p2.png",
+          "cardSet": "ONE PIECE CARD THE BEST【PRB-01】",
+          "source": "bandai"
+        },
+        {
+          "id": "OP02-121_r1~ja",
+          "language": "ja",
+          "set": "PRB01",
+          "rarity": "SEC",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP02-121_r1.png",
+          "cardSet": "ONE PIECE CARD THE BEST【PRB-01】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
           ]
         }
       ]

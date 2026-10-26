@@ -25,7 +25,8 @@ REVIEW = ROOT / "review" / "limitless-crosscheck.json"
 def main() -> None:
     client = limitless.Client(CACHE)
     files = opjson.load_cards()
-    printings = {p["id"]: p for body in files.values() for c in body["cards"] for p in c["printings"]}
+    printings = {p["id"]: p for body in files.values() for c in body["cards"] for p in c["printings"]
+                 if opjson.language(p) == "en"}
 
     # Pass 1: TCGplayer ids per Bandai printing, from every Limitless set.
     lim_tcg: dict[str, set[int]] = collections.defaultdict(set)

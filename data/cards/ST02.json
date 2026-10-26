@@ -3,6 +3,10 @@
     {
       "number": "ST02-001",
       "name": "Eustass\"Captain\"Kid",
+      "names": {
+        "en": "Eustass\"Captain\"Kid",
+        "ja": "ユースタス・キッド"
+      },
       "category": "Leader",
       "power": 5000,
       "life": 5,
@@ -90,12 +94,39 @@
               "category": "retail"
             }
           ]
+        },
+        {
+          "id": "ST02-001~ja",
+          "language": "ja",
+          "set": "ST02",
+          "rarity": "L",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/ST02-001.png",
+          "cardSet": "最悪の世代【ST-02】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "ST02-001_p1~ja",
+          "language": "ja",
+          "set": "FAMILY",
+          "rarity": "L",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/ST02-001_p1.png",
+          "cardSet": "ファミリーデッキセット",
+          "source": "bandai"
         }
       ]
     },
     {
       "number": "ST02-002",
       "name": "Vito",
+      "names": {
+        "en": "Vito",
+        "ja": "ヴィト"
+      },
       "category": "Character",
       "cost": 3,
       "power": 5000,
@@ -158,12 +189,39 @@
               "category": "event"
             }
           ]
+        },
+        {
+          "id": "ST02-002~ja",
+          "language": "ja",
+          "set": "ST02",
+          "rarity": "C",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/ST02-002.png",
+          "cardSet": "最悪の世代【ST-02】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
+        },
+        {
+          "id": "ST02-002_r1~ja",
+          "language": "ja",
+          "set": "FAMILY",
+          "rarity": "C",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/ST02-002_r1.png",
+          "cardSet": "ファミリーデッキセット",
+          "source": "bandai"
         }
       ]
     },
     {
       "number": "ST02-003",
       "name": "Urouge",
+      "names": {
+        "en": "Urouge",
+        "ja": "ウルージ"
+      },
       "category": "Character",
       "cost": 2,
       "power": 3000,
@@ -227,12 +285,39 @@
               "category": "event"
             }
           ]
+        },
+        {
+          "id": "ST02-003~ja",
+          "language": "ja",
+          "set": "ST02",
+          "rarity": "C",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/ST02-003.png",
+          "cardSet": "最悪の世代【ST-02】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
+        },
+        {
+          "id": "ST02-003_r1~ja",
+          "language": "ja",
+          "set": "FAMILY",
+          "rarity": "C",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/ST02-003_r1.png",
+          "cardSet": "ファミリーデッキセット",
+          "source": "bandai"
         }
       ]
     },
     {
       "number": "ST02-004",
       "name": "Capone\"Gang\"Bege",
+      "names": {
+        "en": "Capone\"Gang\"Bege",
+        "ja": "カポネ・ベッジ"
+      },
       "category": "Character",
       "cost": 1,
       "power": 1000,
@@ -414,12 +499,95 @@
               "category": "retail"
             }
           ]
+        },
+        {
+          "id": "ST02-004~ja",
+          "language": "ja",
+          "set": "ST02",
+          "rarity": "C",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/ST02-004.png",
+          "cardSet": "最悪の世代【ST-02】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
+        },
+        {
+          "id": "ST02-004_p2~ja",
+          "language": "ja",
+          "set": "OTHER",
+          "rarity": "C",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/ST02-004_p2.png",
+          "cardSet": "プレミアムカードコレクション - ベストセレクションvol.2 -",
+          "source": "bandai"
+        },
+        {
+          "id": "ST02-004_p3~ja",
+          "language": "ja",
+          "set": "PRB01",
+          "rarity": "C",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/ST02-004_p3.png",
+          "cardSet": "ONE PIECE CARD THE BEST【PRB-01】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "ST02-004_p4~ja",
+          "language": "ja",
+          "set": "PRB01",
+          "rarity": "C",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/ST02-004_p4.png",
+          "cardSet": "ONE PIECE CARD THE BEST【PRB-01】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "ST02-004_p5~ja",
+          "language": "ja",
+          "set": "PRB01",
+          "rarity": "C",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/ST02-004_p5.png",
+          "cardSet": "ONE PIECE CARD THE BEST【PRB-01】",
+          "source": "bandai"
+        },
+        {
+          "id": "ST02-004_r1~ja",
+          "language": "ja",
+          "set": "FAMILY",
+          "rarity": "C",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/ST02-004_r1.png",
+          "cardSet": "ファミリーデッキセット",
+          "source": "bandai"
+        },
+        {
+          "id": "ST02-004_r2~ja",
+          "language": "ja",
+          "set": "PRB01",
+          "rarity": "C",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/ST02-004_r2.png",
+          "cardSet": "ONE PIECE CARD THE BEST【PRB-01】",
+          "source": "bandai"
         }
       ]
     },
     {
       "number": "ST02-005",
       "name": "Killer",
+      "names": {
+        "en": "Killer",
+        "ja": "キラー"
+      },
       "category": "Character",
       "cost": 3,
       "power": 3000,
@@ -504,12 +672,39 @@
           "finishes": [
             "nonfoil"
           ]
+        },
+        {
+          "id": "ST02-005~ja",
+          "language": "ja",
+          "set": "ST02",
+          "rarity": "C",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/ST02-005.png",
+          "cardSet": "最悪の世代【ST-02】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
+        },
+        {
+          "id": "ST02-005_r1~ja",
+          "language": "ja",
+          "set": "FAMILY",
+          "rarity": "C",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/ST02-005_r1.png",
+          "cardSet": "ファミリーデッキセット",
+          "source": "bandai"
         }
       ]
     },
     {
       "number": "ST02-006",
       "name": "Koby",
+      "names": {
+        "en": "Koby",
+        "ja": "コビー"
+      },
       "category": "Character",
       "cost": 4,
       "power": 6000,
@@ -572,12 +767,39 @@
               "category": "event"
             }
           ]
+        },
+        {
+          "id": "ST02-006~ja",
+          "language": "ja",
+          "set": "ST02",
+          "rarity": "C",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/ST02-006.png",
+          "cardSet": "最悪の世代【ST-02】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
+        },
+        {
+          "id": "ST02-006_r1~ja",
+          "language": "ja",
+          "set": "FAMILY",
+          "rarity": "C",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/ST02-006_r1.png",
+          "cardSet": "ファミリーデッキセット",
+          "source": "bandai"
         }
       ]
     },
     {
       "number": "ST02-007",
       "name": "Jewelry Bonney",
+      "names": {
+        "en": "Jewelry Bonney",
+        "ja": "ジュエリー・ボニー"
+      },
       "category": "Character",
       "cost": 1,
       "power": 1000,
@@ -833,12 +1055,92 @@
           "finishes": [
             "nonfoil"
           ]
+        },
+        {
+          "id": "ST02-007~ja",
+          "language": "ja",
+          "set": "ST02",
+          "rarity": "C",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/ST02-007.png",
+          "cardSet": "最悪の世代【ST-02】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
+        },
+        {
+          "id": "ST02-007_p1~ja",
+          "language": "ja",
+          "set": "P",
+          "rarity": "C",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/ST02-007_p1.png",
+          "cardSet": "スタンダードバトルパック2022 Vol.2",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
+        },
+        {
+          "id": "ST02-007_p3~ja",
+          "language": "ja",
+          "set": "OP08",
+          "rarity": "SP CARD",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/ST02-007_p3.png",
+          "cardSet": "ブースターパック 二つの伝説【OP-08】",
+          "source": "bandai"
+        },
+        {
+          "id": "ST02-007_p4~ja",
+          "language": "ja",
+          "set": "PRB02",
+          "rarity": "C",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/ST02-007_p4.png",
+          "cardSet": "ONE PIECE CARD THE BEST vol.2【PRB-02】",
+          "source": "bandai"
+        },
+        {
+          "id": "ST02-007_p5~ja",
+          "language": "ja",
+          "set": "P",
+          "rarity": "C",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/ST02-007_p5.png",
+          "cardSet": "プロモーションカードセット2026",
+          "source": "bandai"
+        },
+        {
+          "id": "ST02-007_r1~ja",
+          "language": "ja",
+          "set": "FAMILY",
+          "rarity": "C",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/ST02-007_r1.png",
+          "cardSet": "ファミリーデッキセット",
+          "source": "bandai"
+        },
+        {
+          "id": "ST02-007_r2~ja",
+          "language": "ja",
+          "set": "PRB02",
+          "rarity": "C",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/ST02-007_r2.png",
+          "cardSet": "ONE PIECE CARD THE BEST vol.2【PRB-02】",
+          "source": "bandai"
         }
       ]
     },
     {
       "number": "ST02-008",
       "name": "Scratchmen Apoo",
+      "names": {
+        "en": "Scratchmen Apoo",
+        "ja": "スクラッチメン・アプー"
+      },
       "category": "Character",
       "cost": 2,
       "power": 3000,
@@ -1099,12 +1401,49 @@
           "finishes": [
             "nonfoil"
           ]
+        },
+        {
+          "id": "ST02-008~ja",
+          "language": "ja",
+          "set": "ST02",
+          "rarity": "C",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/ST02-008.png",
+          "cardSet": "最悪の世代【ST-02】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
+        },
+        {
+          "id": "ST02-008_p2~ja",
+          "language": "ja",
+          "set": "P",
+          "rarity": "C",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/ST02-008_p2.png",
+          "cardSet": "スタンダードバトルパックVol.4",
+          "source": "bandai"
+        },
+        {
+          "id": "ST02-008_r1~ja",
+          "language": "ja",
+          "set": "FAMILY",
+          "rarity": "C",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/ST02-008_r1.png",
+          "cardSet": "ファミリーデッキセット",
+          "source": "bandai"
         }
       ]
     },
     {
       "number": "ST02-009",
       "name": "Trafalgar Law",
+      "names": {
+        "en": "Trafalgar Law",
+        "ja": "トラファルガー・ロー"
+      },
       "category": "Character",
       "cost": 5,
       "power": 6000,
@@ -1190,12 +1529,39 @@
             "foil",
             "nonfoil"
           ]
+        },
+        {
+          "id": "ST02-009~ja",
+          "language": "ja",
+          "set": "ST02",
+          "rarity": "SR",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/ST02-009.png",
+          "cardSet": "最悪の世代【ST-02】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "ST02-009_r1~ja",
+          "language": "ja",
+          "set": "FAMILY",
+          "rarity": "SR",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/ST02-009_r1.png",
+          "cardSet": "ファミリーデッキセット",
+          "source": "bandai"
         }
       ]
     },
     {
       "number": "ST02-010",
       "name": "Basil Hawkins",
+      "names": {
+        "en": "Basil Hawkins",
+        "ja": "バジル・ホーキンス"
+      },
       "category": "Character",
       "cost": 5,
       "power": 6000,
@@ -1342,12 +1708,49 @@
               "category": "placement"
             }
           ]
+        },
+        {
+          "id": "ST02-010~ja",
+          "language": "ja",
+          "set": "ST02",
+          "rarity": "C",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/ST02-010.png",
+          "cardSet": "最悪の世代【ST-02】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
+        },
+        {
+          "id": "ST02-010_p2~ja",
+          "language": "ja",
+          "set": "P",
+          "rarity": "C",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/ST02-010_p2.png",
+          "cardSet": "プロモーションパックEX Vol.1",
+          "source": "bandai"
+        },
+        {
+          "id": "ST02-010_r1~ja",
+          "language": "ja",
+          "set": "FAMILY",
+          "rarity": "C",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/ST02-010_r1.png",
+          "cardSet": "ファミリーデッキセット",
+          "source": "bandai"
         }
       ]
     },
     {
       "number": "ST02-011",
       "name": "Heat",
+      "names": {
+        "en": "Heat",
+        "ja": "ヒート"
+      },
       "category": "Character",
       "cost": 2,
       "power": 4000,
@@ -1410,12 +1813,39 @@
               "category": "event"
             }
           ]
+        },
+        {
+          "id": "ST02-011~ja",
+          "language": "ja",
+          "set": "ST02",
+          "rarity": "C",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/ST02-011.png",
+          "cardSet": "最悪の世代【ST-02】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
+        },
+        {
+          "id": "ST02-011_r1~ja",
+          "language": "ja",
+          "set": "FAMILY",
+          "rarity": "C",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/ST02-011_r1.png",
+          "cardSet": "ファミリーデッキセット",
+          "source": "bandai"
         }
       ]
     },
     {
       "number": "ST02-012",
       "name": "Bepo",
+      "names": {
+        "en": "Bepo",
+        "ja": "ベポ"
+      },
       "category": "Character",
       "cost": 1,
       "power": 3000,
@@ -1479,12 +1909,39 @@
               "category": "event"
             }
           ]
+        },
+        {
+          "id": "ST02-012~ja",
+          "language": "ja",
+          "set": "ST02",
+          "rarity": "C",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/ST02-012.png",
+          "cardSet": "最悪の世代【ST-02】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
+        },
+        {
+          "id": "ST02-012_r1~ja",
+          "language": "ja",
+          "set": "FAMILY",
+          "rarity": "C",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/ST02-012_r1.png",
+          "cardSet": "ファミリーデッキセット",
+          "source": "bandai"
         }
       ]
     },
     {
       "number": "ST02-013",
       "name": "Eustass\"Captain\"Kid",
+      "names": {
+        "en": "Eustass\"Captain\"Kid",
+        "ja": "ユースタス・キッド"
+      },
       "category": "Character",
       "cost": 7,
       "power": 7000,
@@ -1631,12 +2088,49 @@
               "category": "event"
             }
           ]
+        },
+        {
+          "id": "ST02-013~ja",
+          "language": "ja",
+          "set": "ST02",
+          "rarity": "SR",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/ST02-013.png",
+          "cardSet": "最悪の世代【ST-02】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "ST02-013_p3~ja",
+          "language": "ja",
+          "set": "P",
+          "rarity": "SR",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/ST02-013_p3.png",
+          "cardSet": "スタンダードバトルパックVol.5",
+          "source": "bandai"
+        },
+        {
+          "id": "ST02-013_r1~ja",
+          "language": "ja",
+          "set": "FAMILY",
+          "rarity": "SR",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/ST02-013_r1.png",
+          "cardSet": "ファミリーデッキセット",
+          "source": "bandai"
         }
       ]
     },
     {
       "number": "ST02-014",
       "name": "X.Drake",
+      "names": {
+        "en": "X.Drake",
+        "ja": "X・ドレーク"
+      },
       "category": "Character",
       "cost": 4,
       "power": 5000,
@@ -1727,12 +2221,39 @@
               "category": "program"
             }
           ]
+        },
+        {
+          "id": "ST02-014~ja",
+          "language": "ja",
+          "set": "ST02",
+          "rarity": "C",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/ST02-014.png",
+          "cardSet": "最悪の世代【ST-02】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
+        },
+        {
+          "id": "ST02-014_r1~ja",
+          "language": "ja",
+          "set": "FAMILY",
+          "rarity": "C",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/ST02-014_r1.png",
+          "cardSet": "ファミリーデッキセット",
+          "source": "bandai"
         }
       ]
     },
     {
       "number": "ST02-015",
       "name": "Scalpel",
+      "names": {
+        "en": "Scalpel",
+        "ja": "メス"
+      },
       "category": "Event",
       "cost": 1,
       "colors": [
@@ -1812,12 +2333,39 @@
           "finishes": [
             "nonfoil"
           ]
+        },
+        {
+          "id": "ST02-015~ja",
+          "language": "ja",
+          "set": "ST02",
+          "rarity": "C",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/ST02-015.png",
+          "cardSet": "最悪の世代【ST-02】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
+        },
+        {
+          "id": "ST02-015_r1~ja",
+          "language": "ja",
+          "set": "FAMILY",
+          "rarity": "C",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/ST02-015_r1.png",
+          "cardSet": "ファミリーデッキセット",
+          "source": "bandai"
         }
       ]
     },
     {
       "number": "ST02-016",
       "name": "Repel",
+      "names": {
+        "en": "Repel",
+        "ja": "反発"
+      },
       "category": "Event",
       "cost": 2,
       "colors": [
@@ -1897,12 +2445,39 @@
           "finishes": [
             "nonfoil"
           ]
+        },
+        {
+          "id": "ST02-016~ja",
+          "language": "ja",
+          "set": "ST02",
+          "rarity": "C",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/ST02-016.png",
+          "cardSet": "最悪の世代【ST-02】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
+        },
+        {
+          "id": "ST02-016_r1~ja",
+          "language": "ja",
+          "set": "FAMILY",
+          "rarity": "C",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/ST02-016_r1.png",
+          "cardSet": "ファミリーデッキセット",
+          "source": "bandai"
         }
       ]
     },
     {
       "number": "ST02-017",
       "name": "Straw Sword",
+      "names": {
+        "en": "Straw Sword",
+        "ja": "藁備手刀"
+      },
       "category": "Event",
       "cost": 2,
       "colors": [
@@ -1982,6 +2557,29 @@
           "finishes": [
             "nonfoil"
           ]
+        },
+        {
+          "id": "ST02-017~ja",
+          "language": "ja",
+          "set": "ST02",
+          "rarity": "C",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/ST02-017.png",
+          "cardSet": "最悪の世代【ST-02】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
+        },
+        {
+          "id": "ST02-017_r1~ja",
+          "language": "ja",
+          "set": "FAMILY",
+          "rarity": "C",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/ST02-017_r1.png",
+          "cardSet": "ファミリーデッキセット",
+          "source": "bandai"
         }
       ]
     }

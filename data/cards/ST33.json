@@ -3,6 +3,10 @@
     {
       "number": "ST33-001",
       "name": "Koby",
+      "names": {
+        "en": "Koby",
+        "ja": "コビー"
+      },
       "category": "Character",
       "cost": 2,
       "power": 1000,
@@ -39,12 +43,29 @@
             "distance": 10
           },
           "artist": "kankurou"
+        },
+        {
+          "id": "ST33-001~ja",
+          "language": "ja",
+          "set": "ST33",
+          "rarity": "C",
+          "block": "5",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/ST33-001.png",
+          "cardSet": "スタートデッキ 青 クザン【ST-33】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "ST33-002",
       "name": "Sakazuki",
+      "names": {
+        "en": "Sakazuki",
+        "ja": "サカズキ"
+      },
       "category": "Character",
       "cost": 4,
       "power": 5000,
@@ -81,12 +102,29 @@
             "distance": 5
           },
           "artist": "eiji kaneda"
+        },
+        {
+          "id": "ST33-002~ja",
+          "language": "ja",
+          "set": "ST33",
+          "rarity": "C",
+          "block": "5",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/ST33-002.png",
+          "cardSet": "スタートデッキ 青 クザン【ST-33】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "ST33-003",
       "name": "Smoker",
+      "names": {
+        "en": "Smoker",
+        "ja": "スモーカー"
+      },
       "category": "Character",
       "cost": 2,
       "power": 3000,
@@ -123,12 +161,29 @@
             "distance": 6
           },
           "artist": "Katsuo Tadano"
+        },
+        {
+          "id": "ST33-003~ja",
+          "language": "ja",
+          "set": "ST33",
+          "rarity": "C",
+          "block": "5",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/ST33-003.png",
+          "cardSet": "スタートデッキ 青 クザン【ST-33】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "ST33-004",
       "name": "Borsalino",
+      "names": {
+        "en": "Borsalino",
+        "ja": "ボルサリーノ"
+      },
       "category": "Character",
       "cost": 6,
       "power": 6000,
@@ -165,12 +220,29 @@
             "distance": 2
           },
           "artist": "BISAI"
+        },
+        {
+          "id": "ST33-004~ja",
+          "language": "ja",
+          "set": "ST33",
+          "rarity": "SR",
+          "block": "5",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/ST33-004.png",
+          "cardSet": "スタートデッキ 青 クザン【ST-33】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "ST33-005",
       "name": "Monkey.D.Garp",
+      "names": {
+        "en": "Monkey.D.Garp",
+        "ja": "モンキー・Ｄ・ガープ"
+      },
       "category": "Character",
       "cost": 6,
       "power": 6000,
@@ -207,6 +279,19 @@
             "distance": 3
           },
           "artist": "Studio Vigor Co. Ltd"
+        },
+        {
+          "id": "ST33-005~ja",
+          "language": "ja",
+          "set": "ST33",
+          "rarity": "SR",
+          "block": "5",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/ST33-005.png",
+          "cardSet": "スタートデッキ 青 クザン【ST-33】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     }

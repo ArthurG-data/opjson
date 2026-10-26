@@ -3,6 +3,10 @@
     {
       "number": "ST13-001",
       "name": "Sabo",
+      "names": {
+        "en": "Sabo",
+        "ja": "サボ"
+      },
       "category": "Leader",
       "power": 5000,
       "life": 4,
@@ -118,12 +122,42 @@
               "category": "anniversary"
             }
           ]
+        },
+        {
+          "id": "ST13-001~ja",
+          "language": "ja",
+          "set": "ST13",
+          "rarity": "L",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/ST13-001.png",
+          "cardSet": "3兄弟の絆【ST-13】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "ST13-001_p1~ja",
+          "language": "ja",
+          "set": "ST13",
+          "rarity": "L",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/ST13-001_p1.png",
+          "cardSet": "3兄弟の絆【ST-13】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "ST13-002",
       "name": "Portgas.D.Ace",
+      "names": {
+        "en": "Portgas.D.Ace",
+        "ja": "ポートガス・D・エース"
+      },
       "category": "Leader",
       "power": 5000,
       "life": 4,
@@ -238,12 +272,42 @@
               "category": "anniversary"
             }
           ]
+        },
+        {
+          "id": "ST13-002~ja",
+          "language": "ja",
+          "set": "ST13",
+          "rarity": "L",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/ST13-002.png",
+          "cardSet": "3兄弟の絆【ST-13】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "ST13-002_p1~ja",
+          "language": "ja",
+          "set": "ST13",
+          "rarity": "L",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/ST13-002_p1.png",
+          "cardSet": "3兄弟の絆【ST-13】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "ST13-003",
       "name": "Monkey.D.Luffy",
+      "names": {
+        "en": "Monkey.D.Luffy",
+        "ja": "モンキー・D・ルフィ"
+      },
       "category": "Leader",
       "power": 5000,
       "life": 4,
@@ -388,12 +452,42 @@
               "category": "anniversary"
             }
           ]
+        },
+        {
+          "id": "ST13-003~ja",
+          "language": "ja",
+          "set": "ST13",
+          "rarity": "L",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/ST13-003.png",
+          "cardSet": "3兄弟の絆【ST-13】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "ST13-003_p1~ja",
+          "language": "ja",
+          "set": "ST13",
+          "rarity": "L",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/ST13-003_p1.png",
+          "cardSet": "3兄弟の絆【ST-13】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "ST13-004",
       "name": "Edward.Newgate",
+      "names": {
+        "en": "Edward.Newgate",
+        "ja": "エドワード・ニューゲート"
+      },
       "category": "Character",
       "cost": 6,
       "power": 7000,
@@ -512,12 +606,68 @@
           "treatments": [
             "reprint"
           ]
+        },
+        {
+          "id": "ST13-004~ja",
+          "language": "ja",
+          "set": "ST13",
+          "rarity": "C",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/ST13-004.png",
+          "cardSet": "3兄弟の絆【ST-13】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "ST13-004_p1~ja",
+          "language": "ja",
+          "set": "ST13",
+          "rarity": "C",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/ST13-004_p1.png",
+          "cardSet": "3兄弟の絆【ST-13】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "ST13-004_p2~ja",
+          "language": "ja",
+          "set": "PRB02",
+          "rarity": "C",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/ST13-004_p2.png",
+          "cardSet": "ONE PIECE CARD THE BEST vol.2【PRB-02】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "ST13-004_r1~ja",
+          "language": "ja",
+          "set": "PRB02",
+          "rarity": "C",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/ST13-004_r1.png",
+          "cardSet": "ONE PIECE CARD THE BEST vol.2【PRB-02】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "ST13-005",
       "name": "Emporio.Ivankov",
+      "names": {
+        "en": "Emporio.Ivankov",
+        "ja": "エンポリオ・イワンコフ"
+      },
       "category": "Character",
       "cost": 3,
       "power": 4000,
@@ -580,12 +730,42 @@
             "parallel"
           ],
           "artist": "tasaka"
+        },
+        {
+          "id": "ST13-005~ja",
+          "language": "ja",
+          "set": "ST13",
+          "rarity": "R",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/ST13-005.png",
+          "cardSet": "3兄弟の絆【ST-13】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "ST13-005_p1~ja",
+          "language": "ja",
+          "set": "ST13",
+          "rarity": "R",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/ST13-005_p1.png",
+          "cardSet": "3兄弟の絆【ST-13】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "ST13-006",
       "name": "Curly.Dadan",
+      "names": {
+        "en": "Curly.Dadan",
+        "ja": "カーリー・ダダン"
+      },
       "category": "Character",
       "cost": 5,
       "power": 4000,
@@ -648,12 +828,42 @@
             "parallel"
           ],
           "artist": "Studio Vigor Co. Ltd"
+        },
+        {
+          "id": "ST13-006~ja",
+          "language": "ja",
+          "set": "ST13",
+          "rarity": "C",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/ST13-006.png",
+          "cardSet": "3兄弟の絆【ST-13】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "ST13-006_p1~ja",
+          "language": "ja",
+          "set": "ST13",
+          "rarity": "C",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/ST13-006_p1.png",
+          "cardSet": "3兄弟の絆【ST-13】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "ST13-007",
       "name": "Sabo",
+      "names": {
+        "en": "Sabo",
+        "ja": "サボ"
+      },
       "category": "Character",
       "cost": 2,
       "power": 2000,
@@ -773,12 +983,68 @@
           ],
           "artOf": "ST13-007",
           "artist": "Suzume Muraichi"
+        },
+        {
+          "id": "ST13-007~ja",
+          "language": "ja",
+          "set": "ST13",
+          "rarity": "C",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/ST13-007.png",
+          "cardSet": "3兄弟の絆【ST-13】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "ST13-007_p1~ja",
+          "language": "ja",
+          "set": "ST13",
+          "rarity": "C",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/ST13-007_p1.png",
+          "cardSet": "3兄弟の絆【ST-13】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "ST13-007_p2~ja",
+          "language": "ja",
+          "set": "PRB02",
+          "rarity": "C",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/ST13-007_p2.png",
+          "cardSet": "ONE PIECE CARD THE BEST vol.2【PRB-02】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "ST13-007_r1~ja",
+          "language": "ja",
+          "set": "PRB02",
+          "rarity": "C",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/ST13-007_r1.png",
+          "cardSet": "ONE PIECE CARD THE BEST vol.2【PRB-02】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "ST13-008",
       "name": "Sabo",
+      "names": {
+        "en": "Sabo",
+        "ja": "サボ"
+      },
       "category": "Character",
       "cost": 5,
       "power": 6000,
@@ -842,12 +1108,42 @@
             "parallel"
           ],
           "artist": "otton"
+        },
+        {
+          "id": "ST13-008~ja",
+          "language": "ja",
+          "set": "ST13",
+          "rarity": "SR",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/ST13-008.png",
+          "cardSet": "3兄弟の絆【ST-13】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "ST13-008_p1~ja",
+          "language": "ja",
+          "set": "ST13",
+          "rarity": "SR",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/ST13-008_p1.png",
+          "cardSet": "3兄弟の絆【ST-13】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "ST13-009",
       "name": "Shanks",
+      "names": {
+        "en": "Shanks",
+        "ja": "シャンクス"
+      },
       "category": "Character",
       "cost": 7,
       "power": 7000,
@@ -910,12 +1206,42 @@
             "parallel"
           ],
           "artist": "phima"
+        },
+        {
+          "id": "ST13-009~ja",
+          "language": "ja",
+          "set": "ST13",
+          "rarity": "C",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/ST13-009.png",
+          "cardSet": "3兄弟の絆【ST-13】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "ST13-009_p1~ja",
+          "language": "ja",
+          "set": "ST13",
+          "rarity": "C",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/ST13-009_p1.png",
+          "cardSet": "3兄弟の絆【ST-13】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "ST13-010",
       "name": "Portgas.D.Ace",
+      "names": {
+        "en": "Portgas.D.Ace",
+        "ja": "ポートガス・D・エース"
+      },
       "category": "Character",
       "cost": 2,
       "power": 2000,
@@ -1033,12 +1359,68 @@
           "treatments": [
             "reprint"
           ]
+        },
+        {
+          "id": "ST13-010~ja",
+          "language": "ja",
+          "set": "ST13",
+          "rarity": "C",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/ST13-010.png",
+          "cardSet": "3兄弟の絆【ST-13】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "ST13-010_p1~ja",
+          "language": "ja",
+          "set": "ST13",
+          "rarity": "C",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/ST13-010_p1.png",
+          "cardSet": "3兄弟の絆【ST-13】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "ST13-010_p2~ja",
+          "language": "ja",
+          "set": "PRB02",
+          "rarity": "C",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/ST13-010_p2.png",
+          "cardSet": "ONE PIECE CARD THE BEST vol.2【PRB-02】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "ST13-010_r1~ja",
+          "language": "ja",
+          "set": "PRB02",
+          "rarity": "C",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/ST13-010_r1.png",
+          "cardSet": "ONE PIECE CARD THE BEST vol.2【PRB-02】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "ST13-011",
       "name": "Portgas.D.Ace",
+      "names": {
+        "en": "Portgas.D.Ace",
+        "ja": "ポートガス・D・エース"
+      },
       "category": "Character",
       "cost": 5,
       "power": 7000,
@@ -1126,12 +1508,55 @@
             "sp"
           ],
           "artist": "otton"
+        },
+        {
+          "id": "ST13-011~ja",
+          "language": "ja",
+          "set": "ST13",
+          "rarity": "SR",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/ST13-011.png",
+          "cardSet": "3兄弟の絆【ST-13】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "ST13-011_p1~ja",
+          "language": "ja",
+          "set": "ST13",
+          "rarity": "SR",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/ST13-011_p1.png",
+          "cardSet": "3兄弟の絆【ST-13】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "ST13-011_p2~ja",
+          "language": "ja",
+          "set": "OP12",
+          "rarity": "SP CARD",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/ST13-011_p2.png",
+          "cardSet": "師弟の絆【OP-12】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "ST13-012",
       "name": "Makino",
+      "names": {
+        "en": "Makino",
+        "ja": "マキノ"
+      },
       "category": "Character",
       "cost": 1,
       "counter": 2000,
@@ -1248,12 +1673,55 @@
               "category": "program"
             }
           ]
+        },
+        {
+          "id": "ST13-012~ja",
+          "language": "ja",
+          "set": "ST13",
+          "rarity": "C",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/ST13-012.png",
+          "cardSet": "3兄弟の絆【ST-13】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "ST13-012_p1~ja",
+          "language": "ja",
+          "set": "ST13",
+          "rarity": "C",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/ST13-012_p1.png",
+          "cardSet": "3兄弟の絆【ST-13】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "ST13-012_p2~ja",
+          "language": "ja",
+          "set": "OTHER",
+          "rarity": "C",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/ST13-012_p2.png",
+          "cardSet": "プレミアムカードコレクション-ベストセレクションvol.3-",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "ST13-013",
       "name": "Monkey.D.Garp",
+      "names": {
+        "en": "Monkey.D.Garp",
+        "ja": "モンキー・D・ガープ"
+      },
       "category": "Character",
       "cost": 1,
       "power": 2000,
@@ -1316,12 +1784,42 @@
             "parallel"
           ],
           "artist": "TAPIOCA"
+        },
+        {
+          "id": "ST13-013~ja",
+          "language": "ja",
+          "set": "ST13",
+          "rarity": "SR",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/ST13-013.png",
+          "cardSet": "3兄弟の絆【ST-13】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "ST13-013_p1~ja",
+          "language": "ja",
+          "set": "ST13",
+          "rarity": "SR",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/ST13-013_p1.png",
+          "cardSet": "3兄弟の絆【ST-13】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "ST13-014",
       "name": "Monkey.D.Luffy",
+      "names": {
+        "en": "Monkey.D.Luffy",
+        "ja": "モンキー・D・ルフィ"
+      },
       "category": "Character",
       "cost": 2,
       "power": 2000,
@@ -1441,12 +1939,68 @@
           ],
           "artOf": "ST13-014",
           "artist": "Suzume Muraichi"
+        },
+        {
+          "id": "ST13-014~ja",
+          "language": "ja",
+          "set": "ST13",
+          "rarity": "C",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/ST13-014.png",
+          "cardSet": "3兄弟の絆【ST-13】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "ST13-014_p1~ja",
+          "language": "ja",
+          "set": "ST13",
+          "rarity": "C",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/ST13-014_p1.png",
+          "cardSet": "3兄弟の絆【ST-13】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "ST13-014_p2~ja",
+          "language": "ja",
+          "set": "PRB02",
+          "rarity": "C",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/ST13-014_p2.png",
+          "cardSet": "ONE PIECE CARD THE BEST vol.2【PRB-02】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "ST13-014_r1~ja",
+          "language": "ja",
+          "set": "PRB02",
+          "rarity": "C",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/ST13-014_r1.png",
+          "cardSet": "ONE PIECE CARD THE BEST vol.2【PRB-02】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "ST13-015",
       "name": "Monkey.D.Luffy",
+      "names": {
+        "en": "Monkey.D.Luffy",
+        "ja": "モンキー・D・ルフィ"
+      },
       "category": "Character",
       "cost": 5,
       "power": 6000,
@@ -1550,12 +2104,52 @@
               "category": "retail"
             }
           ]
+        },
+        {
+          "id": "ST13-015~ja",
+          "language": "ja",
+          "set": "ST13",
+          "rarity": "SR",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/ST13-015.png",
+          "cardSet": "3兄弟の絆【ST-13】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "ST13-015_p1~ja",
+          "language": "ja",
+          "set": "ST13",
+          "rarity": "SR",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/ST13-015_p1.png",
+          "cardSet": "3兄弟の絆【ST-13】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "ST13-015_p2~ja",
+          "language": "ja",
+          "set": "OTHER",
+          "rarity": "SR",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/ST13-015_p2.png",
+          "cardSet": "2nd ANNIVERSARY SET",
+          "source": "bandai"
         }
       ]
     },
     {
       "number": "ST13-016",
       "name": "Yamato",
+      "names": {
+        "en": "Yamato",
+        "ja": "ヤマト"
+      },
       "category": "Character",
       "cost": 5,
       "power": 4000,
@@ -1699,12 +2293,55 @@
               "category": "retail"
             }
           ]
+        },
+        {
+          "id": "ST13-016~ja",
+          "language": "ja",
+          "set": "ST13",
+          "rarity": "C",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/ST13-016.png",
+          "cardSet": "3兄弟の絆【ST-13】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "ST13-016_p1~ja",
+          "language": "ja",
+          "set": "ST13",
+          "rarity": "C",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/ST13-016_p1.png",
+          "cardSet": "3兄弟の絆【ST-13】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "ST13-016_r1~ja",
+          "language": "ja",
+          "set": "ST28",
+          "rarity": "C",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/ST13-016_r1.png",
+          "cardSet": "スタートデッキ 緑黄 ヤマト【ST-28】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "ST13-017",
       "name": "Flame Dragon King",
+      "names": {
+        "en": "Flame Dragon King",
+        "ja": "「火炎」竜王"
+      },
       "category": "Event",
       "cost": 2,
       "colors": [
@@ -1736,12 +2373,29 @@
             "match": "image-only-candidate",
             "distance": 4
           }
+        },
+        {
+          "id": "ST13-017~ja",
+          "language": "ja",
+          "set": "ST13",
+          "rarity": "C",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/ST13-017.png",
+          "cardSet": "3兄弟の絆【ST-13】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "ST13-018",
       "name": "Gum-Gum Jet Spear",
+      "names": {
+        "en": "Gum-Gum Jet Spear",
+        "ja": "ゴムゴムのJET槍"
+      },
       "category": "Event",
       "cost": 1,
       "colors": [
@@ -1773,12 +2427,29 @@
             "match": "image-only-candidate",
             "distance": 1
           }
+        },
+        {
+          "id": "ST13-018~ja",
+          "language": "ja",
+          "set": "ST13",
+          "rarity": "C",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/ST13-018.png",
+          "cardSet": "3兄弟の絆【ST-13】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "ST13-019",
       "name": "The Three Brothers' Bond",
+      "names": {
+        "en": "The Three Brothers' Bond",
+        "ja": "3兄弟の絆"
+      },
       "category": "Event",
       "cost": 1,
       "colors": [
@@ -1862,6 +2533,45 @@
           },
           "treatments": [
             "reprint"
+          ]
+        },
+        {
+          "id": "ST13-019~ja",
+          "language": "ja",
+          "set": "ST13",
+          "rarity": "C",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/ST13-019.png",
+          "cardSet": "3兄弟の絆【ST-13】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "ST13-019_p1~ja",
+          "language": "ja",
+          "set": "PRB02",
+          "rarity": "C",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/ST13-019_p1.png",
+          "cardSet": "ONE PIECE CARD THE BEST vol.2【PRB-02】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "ST13-019_r1~ja",
+          "language": "ja",
+          "set": "PRB02",
+          "rarity": "C",
+          "block": "2",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/ST13-019_r1.png",
+          "cardSet": "ONE PIECE CARD THE BEST vol.2【PRB-02】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
           ]
         }
       ]

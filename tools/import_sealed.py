@@ -79,11 +79,11 @@ def slug(name: str) -> str:
 
 def main() -> None:
     sets = opjson.load_sets()
-    set_ids = {s["id"] for s in sets}
+    set_ids = opjson.english_set_ids(sets)
     flat = opjson.flatten(sets, opjson.load_cards())
     printings_in_set = collections.defaultdict(list)
     for pid, p in flat["printings"].items():
-        if p["source"] == "bandai":
+        if p["source"] == "bandai" and opjson.language(p) == "en":
             printings_in_set[p["set"]].append(pid)
     groups = tcgcsv.groups(CACHE)
     roles = group_roles(groups, set_ids)

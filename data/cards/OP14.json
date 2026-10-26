@@ -3,6 +3,10 @@
     {
       "number": "OP14-001",
       "name": "Trafalgar Law",
+      "names": {
+        "en": "Trafalgar Law",
+        "ja": "トラファルガー・ロー"
+      },
       "category": "Leader",
       "power": 5000,
       "life": 5,
@@ -66,12 +70,42 @@
             "alternate_art"
           ],
           "artist": "otton"
+        },
+        {
+          "id": "OP14-001~ja",
+          "language": "ja",
+          "set": "OP14",
+          "rarity": "L",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP14-001.png",
+          "cardSet": "ブースターパック 蒼海の七傑【OP-14】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
+        },
+        {
+          "id": "OP14-001_p1~ja",
+          "language": "ja",
+          "set": "OP14",
+          "rarity": "L",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP14-001_p1.png",
+          "cardSet": "ブースターパック 蒼海の七傑【OP-14】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "OP14-002",
       "name": "Urouge",
+      "names": {
+        "en": "Urouge",
+        "ja": "ウルージ"
+      },
       "category": "Character",
       "cost": 3,
       "power": 2000,
@@ -137,12 +171,29 @@
             }
           ],
           "artist": "Yasushi Yamaguchi"
+        },
+        {
+          "id": "OP14-002~ja",
+          "language": "ja",
+          "set": "OP14",
+          "rarity": "UC",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP14-002.png",
+          "cardSet": "ブースターパック 蒼海の七傑【OP-14】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP14-003",
       "name": "Capone\"Gang\"Bege",
+      "names": {
+        "en": "Capone\"Gang\"Bege",
+        "ja": "カポネ・ベッジ"
+      },
       "category": "Character",
       "cost": 1,
       "power": 2000,
@@ -208,12 +259,29 @@
             }
           ],
           "artist": "touge369"
+        },
+        {
+          "id": "OP14-003~ja",
+          "language": "ja",
+          "set": "OP14",
+          "rarity": "C",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP14-003.png",
+          "cardSet": "ブースターパック 蒼海の七傑【OP-14】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP14-004",
       "name": "Cavendish",
+      "names": {
+        "en": "Cavendish",
+        "ja": "キャベンディッシュ"
+      },
       "category": "Character",
       "cost": 2,
       "power": 2000,
@@ -280,12 +348,39 @@
             }
           ],
           "artist": "BISAI"
+        },
+        {
+          "id": "OP14-004~ja",
+          "language": "ja",
+          "set": "OP14",
+          "rarity": "UC",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP14-004.png",
+          "cardSet": "ブースターパック 蒼海の七傑【OP-14】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
+        },
+        {
+          "id": "OP14-004_p1~ja",
+          "language": "ja",
+          "set": "P",
+          "rarity": "UC",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP14-004_p1.png",
+          "cardSet": "プロモーションパックEX vol.5",
+          "source": "bandai"
         }
       ]
     },
     {
       "number": "OP14-005",
       "name": "Killer",
+      "names": {
+        "en": "Killer",
+        "ja": "キラー"
+      },
       "category": "Character",
       "cost": 1,
       "power": 1000,
@@ -380,12 +475,29 @@
             }
           ],
           "artist": "DAI-XT."
+        },
+        {
+          "id": "OP14-005~ja",
+          "language": "ja",
+          "set": "OP14",
+          "rarity": "C",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP14-005.png",
+          "cardSet": "ブースターパック 蒼海の七傑【OP-14】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP14-006",
       "name": "Shachi & Penguin",
+      "names": {
+        "en": "Shachi & Penguin",
+        "ja": "シャチ＆ペンギン"
+      },
       "category": "Character",
       "cost": 2,
       "power": 2000,
@@ -450,12 +562,29 @@
             }
           ],
           "artist": "Morechand"
+        },
+        {
+          "id": "OP14-006~ja",
+          "language": "ja",
+          "set": "OP14",
+          "rarity": "C",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP14-006.png",
+          "cardSet": "ブースターパック 蒼海の七傑【OP-14】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP14-007",
       "name": "Jewelry Bonney",
+      "names": {
+        "en": "Jewelry Bonney",
+        "ja": "ジュエリー・ボニー"
+      },
       "category": "Character",
       "cost": 6,
       "power": 7000,
@@ -521,12 +650,29 @@
             }
           ],
           "artist": "Yuu Shimotsuki"
+        },
+        {
+          "id": "OP14-007~ja",
+          "language": "ja",
+          "set": "OP14",
+          "rarity": "C",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP14-007.png",
+          "cardSet": "ブースターパック 蒼海の七傑【OP-14】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP14-008",
       "name": "Scratchmen Apoo",
+      "names": {
+        "en": "Scratchmen Apoo",
+        "ja": "スクラッチメン・アプー"
+      },
       "category": "Character",
       "cost": 3,
       "power": 5000,
@@ -592,12 +738,29 @@
             }
           ],
           "artist": "kankurou"
+        },
+        {
+          "id": "OP14-008~ja",
+          "language": "ja",
+          "set": "OP14",
+          "rarity": "C",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP14-008.png",
+          "cardSet": "ブースターパック 蒼海の七傑【OP-14】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP14-009",
       "name": "Trafalgar Law",
+      "names": {
+        "en": "Trafalgar Law",
+        "ja": "トラファルガー・ロー"
+      },
       "category": "Character",
       "cost": 9,
       "power": 10000,
@@ -661,12 +824,42 @@
             "alternate_art"
           ],
           "artist": "Bashikou"
+        },
+        {
+          "id": "OP14-009~ja",
+          "language": "ja",
+          "set": "OP14",
+          "rarity": "SR",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP14-009.png",
+          "cardSet": "ブースターパック 蒼海の七傑【OP-14】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP14-009_p1~ja",
+          "language": "ja",
+          "set": "OP14",
+          "rarity": "SR",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP14-009_p1.png",
+          "cardSet": "ブースターパック 蒼海の七傑【OP-14】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "OP14-010",
       "name": "Basil Hawkins",
+      "names": {
+        "en": "Basil Hawkins",
+        "ja": "バジル・ホーキンス"
+      },
       "category": "Character",
       "cost": 1,
       "power": 2000,
@@ -732,12 +925,29 @@
             }
           ],
           "artist": "HISASHI HUJIWARA"
+        },
+        {
+          "id": "OP14-010~ja",
+          "language": "ja",
+          "set": "OP14",
+          "rarity": "UC",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP14-010.png",
+          "cardSet": "ブースターパック 蒼海の七傑【OP-14】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP14-011",
       "name": "Bartolomeo",
+      "names": {
+        "en": "Bartolomeo",
+        "ja": "バルトロメオ"
+      },
       "category": "Character",
       "cost": 2,
       "power": 2000,
@@ -804,12 +1014,29 @@
             }
           ],
           "artist": "Yasushi Yamaguchi"
+        },
+        {
+          "id": "OP14-011~ja",
+          "language": "ja",
+          "set": "OP14",
+          "rarity": "UC",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP14-011.png",
+          "cardSet": "ブースターパック 蒼海の七傑【OP-14】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP14-012",
       "name": "Bepo",
+      "names": {
+        "en": "Bepo",
+        "ja": "ベポ"
+      },
       "category": "Character",
       "cost": 2,
       "power": 2000,
@@ -875,12 +1102,29 @@
             }
           ],
           "artist": "shosuke"
+        },
+        {
+          "id": "OP14-012~ja",
+          "language": "ja",
+          "set": "OP14",
+          "rarity": "C",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP14-012.png",
+          "cardSet": "ブースターパック 蒼海の七傑【OP-14】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP14-013",
       "name": "Monkey.D.Luffy",
+      "names": {
+        "en": "Monkey.D.Luffy",
+        "ja": "モンキー・Ｄ・ルフィ"
+      },
       "category": "Character",
       "cost": 1,
       "counter": 1000,
@@ -943,12 +1187,42 @@
             "alternate_art"
           ],
           "artist": "Nijihayashi"
+        },
+        {
+          "id": "OP14-013~ja",
+          "language": "ja",
+          "set": "OP14",
+          "rarity": "SR",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP14-013.png",
+          "cardSet": "ブースターパック 蒼海の七傑【OP-14】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP14-013_p1~ja",
+          "language": "ja",
+          "set": "OP14",
+          "rarity": "SR",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP14-013_p1.png",
+          "cardSet": "ブースターパック 蒼海の七傑【OP-14】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "OP14-014",
       "name": "Eustass\"Captain\"Kid",
+      "names": {
+        "en": "Eustass\"Captain\"Kid",
+        "ja": "ユースタス・キッド"
+      },
       "category": "Character",
       "cost": 4,
       "power": 5000,
@@ -1073,12 +1347,42 @@
             }
           ],
           "artist": "DAI-XT."
+        },
+        {
+          "id": "OP14-014~ja",
+          "language": "ja",
+          "set": "OP14",
+          "rarity": "R",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP14-014.png",
+          "cardSet": "ブースターパック 蒼海の七傑【OP-14】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP14-014_p1~ja",
+          "language": "ja",
+          "set": "OTHER",
+          "rarity": "R",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP14-014_p1.png",
+          "cardSet": "プレミアムカードコレクション - ベストセレクション vol.6 -",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "OP14-015",
       "name": "Roronoa Zoro",
+      "names": {
+        "en": "Roronoa Zoro",
+        "ja": "ロロノア・ゾロ"
+      },
       "category": "Character",
       "cost": 7,
       "power": 8000,
@@ -1163,12 +1467,55 @@
             "match": "image-only-candidate",
             "distance": 3
           }
+        },
+        {
+          "id": "OP14-015~ja",
+          "language": "ja",
+          "set": "OP14",
+          "rarity": "R",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP14-015.png",
+          "cardSet": "ブースターパック 蒼海の七傑【OP-14】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP14-015_p1~ja",
+          "language": "ja",
+          "set": "OP14",
+          "rarity": "R",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP14-015_p1.png",
+          "cardSet": "ブースターパック 蒼海の七傑【OP-14】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP14-015_r1~ja",
+          "language": "ja",
+          "set": "ST31",
+          "rarity": "R",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP14-015_r1.png",
+          "cardSet": "スタートデッキ 赤 モンキー・D・ルフィ【ST-31】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP14-016",
       "name": "X.Drake",
+      "names": {
+        "en": "X.Drake",
+        "ja": "Ｘ・ドレーク"
+      },
       "category": "Character",
       "cost": 5,
       "power": 7000,
@@ -1206,12 +1553,29 @@
             "distance": 4
           },
           "artist": "Yosuke Adachi"
+        },
+        {
+          "id": "OP14-016~ja",
+          "language": "ja",
+          "set": "OP14",
+          "rarity": "R",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP14-016.png",
+          "cardSet": "ブースターパック 蒼海の七傑【OP-14】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "OP14-017",
       "name": "Chambres",
+      "names": {
+        "en": "Chambres",
+        "ja": "シャンブルズ"
+      },
       "category": "Event",
       "cost": 3,
       "colors": [
@@ -1271,12 +1635,29 @@
               "category": "event"
             }
           ]
+        },
+        {
+          "id": "OP14-017~ja",
+          "language": "ja",
+          "set": "OP14",
+          "rarity": "C",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP14-017.png",
+          "cardSet": "ブースターパック 蒼海の七傑【OP-14】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP14-018",
       "name": "Time for the Counterattack",
+      "names": {
+        "en": "Time for the Counterattack",
+        "ja": "反撃に出るぞ"
+      },
       "category": "Event",
       "cost": 1,
       "colors": [
@@ -1309,12 +1690,29 @@
             "match": "image-only-candidate",
             "distance": 7
           }
+        },
+        {
+          "id": "OP14-018~ja",
+          "language": "ja",
+          "set": "OP14",
+          "rarity": "R",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP14-018.png",
+          "cardSet": "ブースターパック 蒼海の七傑【OP-14】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "OP14-019",
       "name": "I Have a Plan to Take Down One of the Four Emperors!!",
+      "names": {
+        "en": "I Have a Plan to Take Down One of the Four Emperors!!",
+        "ja": "「四皇」を一人…!!!引きずり降ろす“策”がある"
+      },
       "category": "Event",
       "cost": 1,
       "colors": [
@@ -1374,12 +1772,29 @@
               "category": "event"
             }
           ]
+        },
+        {
+          "id": "OP14-019~ja",
+          "language": "ja",
+          "set": "OP14",
+          "rarity": "UC",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP14-019.png",
+          "cardSet": "ブースターパック 蒼海の七傑【OP-14】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP14-020",
       "name": "Dracule Mihawk",
+      "names": {
+        "en": "Dracule Mihawk",
+        "ja": "ジュラキュール・ミホーク"
+      },
       "category": "Leader",
       "power": 5000,
       "life": 5,
@@ -1467,12 +1882,42 @@
               "category": "media"
             }
           ]
+        },
+        {
+          "id": "OP14-020~ja",
+          "language": "ja",
+          "set": "OP14",
+          "rarity": "L",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP14-020.png",
+          "cardSet": "ブースターパック 蒼海の七傑【OP-14】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
+        },
+        {
+          "id": "OP14-020_p1~ja",
+          "language": "ja",
+          "set": "OP14",
+          "rarity": "L",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP14-020_p1.png",
+          "cardSet": "ブースターパック 蒼海の七傑【OP-14】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "OP14-021",
       "name": "Issho",
+      "names": {
+        "en": "Issho",
+        "ja": "イッショウ"
+      },
       "category": "Character",
       "cost": 6,
       "power": 7000,
@@ -1538,12 +1983,29 @@
             }
           ],
           "artist": "Hachi Takashi"
+        },
+        {
+          "id": "OP14-021~ja",
+          "language": "ja",
+          "set": "OP14",
+          "rarity": "C",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP14-021.png",
+          "cardSet": "ブースターパック 蒼海の七傑【OP-14】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP14-022",
       "name": "Usopp",
+      "names": {
+        "en": "Usopp",
+        "ja": "ウソップ"
+      },
       "category": "Character",
       "cost": 4,
       "power": 5000,
@@ -1609,12 +2071,29 @@
             }
           ],
           "artist": "Studio Vigor Co. Ltd"
+        },
+        {
+          "id": "OP14-022~ja",
+          "language": "ja",
+          "set": "OP14",
+          "rarity": "UC",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP14-022.png",
+          "cardSet": "ブースターパック 蒼海の七傑【OP-14】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP14-023",
       "name": "Kikunojo",
+      "names": {
+        "en": "Kikunojo",
+        "ja": "菊之丞"
+      },
       "category": "Character",
       "cost": 1,
       "power": 2000,
@@ -1704,12 +2183,39 @@
               "category": "placement"
             }
           ]
+        },
+        {
+          "id": "OP14-023~ja",
+          "language": "ja",
+          "set": "OP14",
+          "rarity": "R",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP14-023.png",
+          "cardSet": "ブースターパック 蒼海の七傑【OP-14】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP14-023_p1~ja",
+          "language": "ja",
+          "set": "P",
+          "rarity": "R",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP14-023_p1.png",
+          "cardSet": "スタンダードバトルパック Vol.15",
+          "source": "bandai"
         }
       ]
     },
     {
       "number": "OP14-024",
       "name": "Kin'emon",
+      "names": {
+        "en": "Kin'emon",
+        "ja": "錦えもん"
+      },
       "category": "Character",
       "cost": 4,
       "power": 5000,
@@ -1775,12 +2281,29 @@
             }
           ],
           "artist": "Hatori Kyoka"
+        },
+        {
+          "id": "OP14-024~ja",
+          "language": "ja",
+          "set": "OP14",
+          "rarity": "C",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP14-024.png",
+          "cardSet": "ブースターパック 蒼海の七傑【OP-14】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP14-025",
       "name": "Kuro",
+      "names": {
+        "en": "Kuro",
+        "ja": "クロ"
+      },
       "category": "Character",
       "cost": 7,
       "power": 8000,
@@ -1845,12 +2368,29 @@
             }
           ],
           "artist": "Daisuke Enoshima"
+        },
+        {
+          "id": "OP14-025~ja",
+          "language": "ja",
+          "set": "OP14",
+          "rarity": "C",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP14-025.png",
+          "cardSet": "ブースターパック 蒼海の七傑【OP-14】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP14-026",
       "name": "Kouzuki Oden",
+      "names": {
+        "en": "Kouzuki Oden",
+        "ja": "光月おでん"
+      },
       "category": "Character",
       "cost": 4,
       "power": 5000,
@@ -2003,12 +2543,39 @@
               "category": "placement"
             }
           ]
+        },
+        {
+          "id": "OP14-026~ja",
+          "language": "ja",
+          "set": "OP14",
+          "rarity": "UC",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP14-026.png",
+          "cardSet": "ブースターパック 蒼海の七傑【OP-14】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
+        },
+        {
+          "id": "OP14-026_p1~ja",
+          "language": "ja",
+          "set": "P",
+          "rarity": "UC",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP14-026_p1.png",
+          "cardSet": "プロモーションパックVol.9",
+          "source": "bandai"
         }
       ]
     },
     {
       "number": "OP14-027",
       "name": "Shanks",
+      "names": {
+        "en": "Shanks",
+        "ja": "シャンクス"
+      },
       "category": "Character",
       "cost": 7,
       "power": 9000,
@@ -2102,12 +2669,42 @@
               "category": "retail"
             }
           ]
+        },
+        {
+          "id": "OP14-027~ja",
+          "language": "ja",
+          "set": "OP14",
+          "rarity": "R",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP14-027.png",
+          "cardSet": "ブースターパック 蒼海の七傑【OP-14】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP14-027_p1~ja",
+          "language": "ja",
+          "set": "OP14",
+          "rarity": "R",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP14-027_p1.png",
+          "cardSet": "ブースターパック 蒼海の七傑【OP-14】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "OP14-028",
       "name": "Johnny",
+      "names": {
+        "en": "Johnny",
+        "ja": "ジョニー"
+      },
       "category": "Character",
       "cost": 2,
       "power": 2000,
@@ -2172,12 +2769,29 @@
             }
           ],
           "artist": "S-KINOKO"
+        },
+        {
+          "id": "OP14-028~ja",
+          "language": "ja",
+          "set": "OP14",
+          "rarity": "C",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP14-028.png",
+          "cardSet": "ブースターパック 蒼海の七傑【OP-14】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP14-029",
       "name": "Tashigi",
+      "names": {
+        "en": "Tashigi",
+        "ja": "たしぎ"
+      },
       "category": "Character",
       "cost": 5,
       "power": 6000,
@@ -2269,12 +2883,42 @@
             }
           ],
           "artist": "Hashimoto Q"
+        },
+        {
+          "id": "OP14-029~ja",
+          "language": "ja",
+          "set": "OP14",
+          "rarity": "R",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP14-029.png",
+          "cardSet": "ブースターパック 蒼海の七傑【OP-14】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP14-029_p1~ja",
+          "language": "ja",
+          "set": "OP16",
+          "rarity": "SP CARD",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP14-029_p1.png",
+          "cardSet": "ブースターパック 決戦の刻【OP-16】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "OP14-030",
       "name": "Chaka & Pell",
+      "names": {
+        "en": "Chaka & Pell",
+        "ja": "チャカ＆ペル"
+      },
       "category": "Character",
       "cost": 6,
       "power": 7000,
@@ -2339,12 +2983,29 @@
             }
           ],
           "artist": "tasaka"
+        },
+        {
+          "id": "OP14-030~ja",
+          "language": "ja",
+          "set": "OP14",
+          "rarity": "C",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP14-030.png",
+          "cardSet": "ブースターパック 蒼海の七傑【OP-14】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP14-031",
       "name": "Nami",
+      "names": {
+        "en": "Nami",
+        "ja": "ナミ"
+      },
       "category": "Character",
       "cost": 4,
       "power": 2000,
@@ -2434,12 +3095,42 @@
               "category": "championship"
             }
           ]
+        },
+        {
+          "id": "OP14-031~ja",
+          "language": "ja",
+          "set": "OP14",
+          "rarity": "SR",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP14-031.png",
+          "cardSet": "ブースターパック 蒼海の七傑【OP-14】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP14-031_p1~ja",
+          "language": "ja",
+          "set": "OP14",
+          "rarity": "SR",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP14-031_p1.png",
+          "cardSet": "ブースターパック 蒼海の七傑【OP-14】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "OP14-032",
       "name": "Humandrill",
+      "names": {
+        "en": "Humandrill",
+        "ja": "ヒューマンドリル"
+      },
       "category": "Character",
       "cost": 3,
       "power": 4000,
@@ -2505,12 +3196,29 @@
             }
           ],
           "artist": "Aidle Co. Ltd."
+        },
+        {
+          "id": "OP14-032~ja",
+          "language": "ja",
+          "set": "OP14",
+          "rarity": "UC",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP14-032.png",
+          "cardSet": "ブースターパック 蒼海の七傑【OP-14】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP14-033",
       "name": "Perona",
+      "names": {
+        "en": "Perona",
+        "ja": "ペローナ"
+      },
       "category": "Character",
       "cost": 5,
       "power": 6000,
@@ -2655,12 +3363,55 @@
               "category": "event"
             }
           ]
+        },
+        {
+          "id": "OP14-033~ja",
+          "language": "ja",
+          "set": "OP14",
+          "rarity": "SR",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP14-033.png",
+          "cardSet": "ブースターパック 蒼海の七傑【OP-14】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP14-033_p1~ja",
+          "language": "ja",
+          "set": "OP14",
+          "rarity": "SR",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP14-033_p1.png",
+          "cardSet": "ブースターパック 蒼海の七傑【OP-14】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP14-033_p2~ja",
+          "language": "ja",
+          "set": "P",
+          "rarity": "SR",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP14-033_p2.png",
+          "cardSet": "エクストラグランドバトル2026 4月上位記念品",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "OP14-034",
       "name": "Monkey.D.Luffy",
+      "names": {
+        "en": "Monkey.D.Luffy",
+        "ja": "モンキー・Ｄ・ルフィ"
+      },
       "category": "Character",
       "cost": 3,
       "power": 3000,
@@ -2699,12 +3450,29 @@
             "distance": 8
           },
           "artist": "Bashikou"
+        },
+        {
+          "id": "OP14-034~ja",
+          "language": "ja",
+          "set": "OP14",
+          "rarity": "R",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP14-034.png",
+          "cardSet": "ブースターパック 蒼海の七傑【OP-14】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "OP14-035",
       "name": "Yosaku",
+      "names": {
+        "en": "Yosaku",
+        "ja": "ヨサク"
+      },
       "category": "Character",
       "cost": 2,
       "power": 2000,
@@ -2769,12 +3537,29 @@
             }
           ],
           "artist": "ASAKI KURODA"
+        },
+        {
+          "id": "OP14-035~ja",
+          "language": "ja",
+          "set": "OP14",
+          "rarity": "C",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP14-035.png",
+          "cardSet": "ブースターパック 蒼海の七傑【OP-14】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP14-036",
       "name": "Strive to Surpass me, Roronoa Zoro!!!",
+      "names": {
+        "en": "Strive to Surpass me, Roronoa Zoro!!!",
+        "ja": "このおれを越えてみよロロノア!!!"
+      },
       "category": "Event",
       "cost": 1,
       "colors": [
@@ -2833,12 +3618,29 @@
               "category": "event"
             }
           ]
+        },
+        {
+          "id": "OP14-036~ja",
+          "language": "ja",
+          "set": "OP14",
+          "rarity": "C",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP14-036.png",
+          "cardSet": "ブースターパック 蒼海の七傑【OP-14】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP14-037",
       "name": "For Fun",
+      "names": {
+        "en": "For Fun",
+        "ja": "ヒマつぶし"
+      },
       "category": "Event",
       "cost": 1,
       "colors": [
@@ -2899,12 +3701,42 @@
             }
           ],
           "artist": "Sunohara"
+        },
+        {
+          "id": "OP14-037~ja",
+          "language": "ja",
+          "set": "OP14",
+          "rarity": "R",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP14-037.png",
+          "cardSet": "ブースターパック 蒼海の七傑【OP-14】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP14-037_p1~ja",
+          "language": "ja",
+          "set": "OTHER",
+          "rarity": "R",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP14-037_p1.png",
+          "cardSet": "プレミアムカードコレクション - ベストセレクション vol.6 -",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "OP14-038",
       "name": "I Never Bother to Remember the Faces of Trash",
+      "names": {
+        "en": "I Never Bother to Remember the Faces of Trash",
+        "ja": "虫ケラの顔など いちいち覚えちゃいない!!!"
+      },
       "category": "Event",
       "cost": 1,
       "colors": [
@@ -2962,12 +3794,29 @@
               "category": "event"
             }
           ]
+        },
+        {
+          "id": "OP14-038~ja",
+          "language": "ja",
+          "set": "OP14",
+          "rarity": "UC",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP14-038.png",
+          "cardSet": "ブースターパック 蒼海の七傑【OP-14】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP14-039",
       "name": "Coffin Boat",
+      "names": {
+        "en": "Coffin Boat",
+        "ja": "棺船"
+      },
       "category": "Stage",
       "cost": 1,
       "colors": [
@@ -3026,12 +3875,29 @@
               "category": "event"
             }
           ]
+        },
+        {
+          "id": "OP14-039~ja",
+          "language": "ja",
+          "set": "OP14",
+          "rarity": "UC",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP14-039.png",
+          "cardSet": "ブースターパック 蒼海の七傑【OP-14】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP14-040",
       "name": "Jinbe",
+      "names": {
+        "en": "Jinbe",
+        "ja": "ジンベエ"
+      },
       "category": "Leader",
       "power": 5000,
       "life": 5,
@@ -3095,12 +3961,42 @@
             "alternate_art"
           ],
           "artist": "Bashikou"
+        },
+        {
+          "id": "OP14-040~ja",
+          "language": "ja",
+          "set": "OP14",
+          "rarity": "L",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP14-040.png",
+          "cardSet": "ブースターパック 蒼海の七傑【OP-14】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
+        },
+        {
+          "id": "OP14-040_p1~ja",
+          "language": "ja",
+          "set": "OP14",
+          "rarity": "L",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP14-040_p1.png",
+          "cardSet": "ブースターパック 蒼海の七傑【OP-14】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "OP14-041",
       "name": "Boa Hancock",
+      "names": {
+        "en": "Boa Hancock",
+        "ja": "ボア・ハンコック"
+      },
       "category": "Leader",
       "power": 5000,
       "life": 4,
@@ -3164,12 +4060,42 @@
             "alternate_art"
           ],
           "artist": "nuisuke"
+        },
+        {
+          "id": "OP14-041~ja",
+          "language": "ja",
+          "set": "OP14",
+          "rarity": "L",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP14-041.png",
+          "cardSet": "ブースターパック 蒼海の七傑【OP-14】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
+        },
+        {
+          "id": "OP14-041_p1~ja",
+          "language": "ja",
+          "set": "OP14",
+          "rarity": "L",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP14-041_p1.png",
+          "cardSet": "ブースターパック 蒼海の七傑【OP-14】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "OP14-042",
       "name": "Arlong",
+      "names": {
+        "en": "Arlong",
+        "ja": "アーロン"
+      },
       "category": "Character",
       "cost": 1,
       "power": 3000,
@@ -3232,12 +4158,42 @@
             "alternate_art"
           ],
           "artist": "Anderson"
+        },
+        {
+          "id": "OP14-042~ja",
+          "language": "ja",
+          "set": "OP14",
+          "rarity": "R",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP14-042.png",
+          "cardSet": "ブースターパック 蒼海の七傑【OP-14】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP14-042_p1~ja",
+          "language": "ja",
+          "set": "OP14",
+          "rarity": "R",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP14-042_p1.png",
+          "cardSet": "ブースターパック 蒼海の七傑【OP-14】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "OP14-043",
       "name": "Aladine",
+      "names": {
+        "en": "Aladine",
+        "ja": "アラディン"
+      },
       "category": "Character",
       "cost": 4,
       "power": 5000,
@@ -3304,12 +4260,29 @@
             }
           ],
           "artist": "SHINRA AGENCY Co. Ltd."
+        },
+        {
+          "id": "OP14-043~ja",
+          "language": "ja",
+          "set": "OP14",
+          "rarity": "R",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP14-043.png",
+          "cardSet": "ブースターパック 蒼海の七傑【OP-14】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "OP14-044",
       "name": "Edward.Newgate",
+      "names": {
+        "en": "Edward.Newgate",
+        "ja": "エドワード・ニューゲート"
+      },
       "category": "Character",
       "cost": 8,
       "power": 8000,
@@ -3375,12 +4348,29 @@
             }
           ],
           "artist": "NIJIMAARC"
+        },
+        {
+          "id": "OP14-044~ja",
+          "language": "ja",
+          "set": "OP14",
+          "rarity": "C",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP14-044.png",
+          "cardSet": "ブースターパック 蒼海の七傑【OP-14】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP14-045",
       "name": "Kuroobi",
+      "names": {
+        "en": "Kuroobi",
+        "ja": "クロオビ"
+      },
       "category": "Character",
       "cost": 3,
       "power": 3000,
@@ -3446,12 +4436,29 @@
             }
           ],
           "artist": "Tanaka Kenichi"
+        },
+        {
+          "id": "OP14-045~ja",
+          "language": "ja",
+          "set": "OP14",
+          "rarity": "UC",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP14-045.png",
+          "cardSet": "ブースターパック 蒼海の七傑【OP-14】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP14-046",
       "name": "Koala",
+      "names": {
+        "en": "Koala",
+        "ja": "コアラ"
+      },
       "category": "Character",
       "cost": 2,
       "counter": 2000,
@@ -3515,12 +4522,29 @@
             }
           ],
           "artist": "sacanahen"
+        },
+        {
+          "id": "OP14-046~ja",
+          "language": "ja",
+          "set": "OP14",
+          "rarity": "UC",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP14-046.png",
+          "cardSet": "ブースターパック 蒼海の七傑【OP-14】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP14-047",
       "name": "Shirahoshi",
+      "names": {
+        "en": "Shirahoshi",
+        "ja": "しらほし"
+      },
       "category": "Character",
       "cost": 4,
       "counter": 1000,
@@ -3557,12 +4581,29 @@
             "distance": 8
           },
           "artist": "kusunoki harui"
+        },
+        {
+          "id": "OP14-047~ja",
+          "language": "ja",
+          "set": "OP14",
+          "rarity": "R",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP14-047.png",
+          "cardSet": "ブースターパック 蒼海の七傑【OP-14】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "OP14-048",
       "name": "Shiryu",
+      "names": {
+        "en": "Shiryu",
+        "ja": "シリュウ"
+      },
       "category": "Character",
       "cost": 8,
       "power": 10000,
@@ -3626,12 +4667,29 @@
             }
           ],
           "artist": "Studio Vigor Co. Ltd"
+        },
+        {
+          "id": "OP14-048~ja",
+          "language": "ja",
+          "set": "OP14",
+          "rarity": "C",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP14-048.png",
+          "cardSet": "ブースターパック 蒼海の七傑【OP-14】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP14-049",
       "name": "Jinbe",
+      "names": {
+        "en": "Jinbe",
+        "ja": "ジンベエ"
+      },
       "category": "Character",
       "cost": 8,
       "power": 10000,
@@ -3695,12 +4753,42 @@
             "alternate_art"
           ],
           "artist": "nukadokomogera"
+        },
+        {
+          "id": "OP14-049~ja",
+          "language": "ja",
+          "set": "OP14",
+          "rarity": "SR",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP14-049.png",
+          "cardSet": "ブースターパック 蒼海の七傑【OP-14】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP14-049_p1~ja",
+          "language": "ja",
+          "set": "OP14",
+          "rarity": "SR",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP14-049_p1.png",
+          "cardSet": "ブースターパック 蒼海の七傑【OP-14】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "OP14-050",
       "name": "Chew",
+      "names": {
+        "en": "Chew",
+        "ja": "チュウ"
+      },
       "category": "Character",
       "cost": 1,
       "power": 3000,
@@ -3765,12 +4853,29 @@
             }
           ],
           "artist": "Tadaichi Nakama"
+        },
+        {
+          "id": "OP14-050~ja",
+          "language": "ja",
+          "set": "OP14",
+          "rarity": "UC",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP14-050.png",
+          "cardSet": "ブースターパック 蒼海の七傑【OP-14】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP14-051",
       "name": "Hatchan",
+      "names": {
+        "en": "Hatchan",
+        "ja": "はっちゃん"
+      },
       "category": "Character",
       "cost": 1,
       "power": 3000,
@@ -3835,12 +4940,29 @@
             }
           ],
           "artist": "COGA"
+        },
+        {
+          "id": "OP14-051~ja",
+          "language": "ja",
+          "set": "OP14",
+          "rarity": "C",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP14-051.png",
+          "cardSet": "ブースターパック 蒼海の七傑【OP-14】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP14-052",
       "name": "Hannyabal",
+      "names": {
+        "en": "Hannyabal",
+        "ja": "ハンニャバル"
+      },
       "category": "Character",
       "cost": 5,
       "power": 6000,
@@ -3905,12 +5027,29 @@
             }
           ],
           "artist": "COGA"
+        },
+        {
+          "id": "OP14-052~ja",
+          "language": "ja",
+          "set": "OP14",
+          "rarity": "C",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP14-052.png",
+          "cardSet": "ブースターパック 蒼海の七傑【OP-14】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP14-053",
       "name": "Vista",
+      "names": {
+        "en": "Vista",
+        "ja": "ビスタ"
+      },
       "category": "Character",
       "cost": 3,
       "power": 4000,
@@ -3975,12 +5114,29 @@
             }
           ],
           "artist": "tasaka"
+        },
+        {
+          "id": "OP14-053~ja",
+          "language": "ja",
+          "set": "OP14",
+          "rarity": "C",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP14-053.png",
+          "cardSet": "ブースターパック 蒼海の七傑【OP-14】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP14-054",
       "name": "Fisher Tiger",
+      "names": {
+        "en": "Fisher Tiger",
+        "ja": "フィッシャー・タイガー"
+      },
       "category": "Character",
       "cost": 6,
       "power": 7000,
@@ -4046,12 +5202,29 @@
             }
           ],
           "artist": "Aidle Co. Ltd."
+        },
+        {
+          "id": "OP14-054~ja",
+          "language": "ja",
+          "set": "OP14",
+          "rarity": "UC",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP14-054.png",
+          "cardSet": "ブースターパック 蒼海の七傑【OP-14】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP14-055",
       "name": "The Macro Gang",
+      "names": {
+        "en": "The Macro Gang",
+        "ja": "マクロ一味"
+      },
       "category": "Character",
       "cost": 5,
       "power": 6000,
@@ -4117,12 +5290,29 @@
             }
           ],
           "artist": "SHINRA AGENCY Co. Ltd."
+        },
+        {
+          "id": "OP14-055~ja",
+          "language": "ja",
+          "set": "OP14",
+          "rarity": "C",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP14-055.png",
+          "cardSet": "ブースターパック 蒼海の七傑【OP-14】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP14-056",
       "name": "Wadatsumi",
+      "names": {
+        "en": "Wadatsumi",
+        "ja": "ワダツミ"
+      },
       "category": "Character",
       "cost": 3,
       "power": 5000,
@@ -4188,12 +5378,29 @@
             }
           ],
           "artist": "Suzume Muraichi"
+        },
+        {
+          "id": "OP14-056~ja",
+          "language": "ja",
+          "set": "OP14",
+          "rarity": "C",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP14-056.png",
+          "cardSet": "ブースターパック 蒼海の七傑【OP-14】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP14-057",
       "name": "Don't Worry!! I'm Here!!",
+      "names": {
+        "en": "Don't Worry!! I'm Here!!",
+        "ja": "安心せい!!わしがおる!!!"
+      },
       "category": "Event",
       "cost": 2,
       "colors": [
@@ -4253,12 +5460,29 @@
               "category": "event"
             }
           ]
+        },
+        {
+          "id": "OP14-057~ja",
+          "language": "ja",
+          "set": "OP14",
+          "rarity": "C",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP14-057.png",
+          "cardSet": "ブースターパック 蒼海の七傑【OP-14】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP14-058",
       "name": "Ocean Current Shoulder Throw",
+      "names": {
+        "en": "Ocean Current Shoulder Throw",
+        "ja": "海流一本背負い"
+      },
       "category": "Event",
       "cost": 2,
       "colors": [
@@ -4291,12 +5515,29 @@
             "match": "image-only-candidate",
             "distance": 4
           }
+        },
+        {
+          "id": "OP14-058~ja",
+          "language": "ja",
+          "set": "OP14",
+          "rarity": "R",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP14-058.png",
+          "cardSet": "ブースターパック 蒼海の七傑【OP-14】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "OP14-059",
       "name": "Please Take Me with You!! I Can Be of Great Help to You!!",
+      "names": {
+        "en": "Please Take Me with You!! I Can Be of Great Help to You!!",
+        "ja": "わしも連れて行ってくれ!!!必ず役に立つ!!!"
+      },
       "category": "Event",
       "cost": 1,
       "colors": [
@@ -4356,12 +5597,29 @@
               "category": "event"
             }
           ]
+        },
+        {
+          "id": "OP14-059~ja",
+          "language": "ja",
+          "set": "OP14",
+          "rarity": "UC",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP14-059.png",
+          "cardSet": "ブースターパック 蒼海の七傑【OP-14】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP14-060",
       "name": "Donquixote Doflamingo",
+      "names": {
+        "en": "Donquixote Doflamingo",
+        "ja": "ドンキホーテ・ドフラミンゴ"
+      },
       "category": "Leader",
       "power": 5000,
       "life": 5,
@@ -4444,12 +5702,52 @@
           "finishes": [
             "foil"
           ]
+        },
+        {
+          "id": "OP14-060~ja",
+          "language": "ja",
+          "set": "OP14",
+          "rarity": "L",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP14-060.png",
+          "cardSet": "ブースターパック 蒼海の七傑【OP-14】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
+        },
+        {
+          "id": "OP14-060_p1~ja",
+          "language": "ja",
+          "set": "OP14",
+          "rarity": "L",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP14-060_p1.png",
+          "cardSet": "ブースターパック 蒼海の七傑【OP-14】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP14-060_p2~ja",
+          "language": "ja",
+          "set": "P",
+          "rarity": "L",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP14-060_p2.png",
+          "cardSet": "メラメラの実争奪戦 上位記念品",
+          "source": "bandai"
         }
       ]
     },
     {
       "number": "OP14-061",
       "name": "Vergo",
+      "names": {
+        "en": "Vergo",
+        "ja": "ヴェルゴ"
+      },
       "category": "Character",
       "cost": 5,
       "power": 7000,
@@ -4513,12 +5811,42 @@
             "alternate_art"
           ],
           "artist": "Hokuyuu"
+        },
+        {
+          "id": "OP14-061~ja",
+          "language": "ja",
+          "set": "OP14",
+          "rarity": "R",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP14-061.png",
+          "cardSet": "ブースターパック 蒼海の七傑【OP-14】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP14-061_p1~ja",
+          "language": "ja",
+          "set": "OP14",
+          "rarity": "R",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP14-061_p1.png",
+          "cardSet": "ブースターパック 蒼海の七傑【OP-14】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "OP14-062",
       "name": "Gladius",
+      "names": {
+        "en": "Gladius",
+        "ja": "グラディウス"
+      },
       "category": "Character",
       "cost": 3,
       "power": 4000,
@@ -4583,12 +5911,29 @@
             }
           ],
           "artist": "Nekobayashi"
+        },
+        {
+          "id": "OP14-062~ja",
+          "language": "ja",
+          "set": "OP14",
+          "rarity": "C",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP14-062.png",
+          "cardSet": "ブースターパック 蒼海の七傑【OP-14】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP14-063",
       "name": "Sugar",
+      "names": {
+        "en": "Sugar",
+        "ja": "シュガー"
+      },
       "category": "Character",
       "cost": 4,
       "power": 1000,
@@ -4625,12 +5970,29 @@
             "distance": 5
           },
           "artist": "kito"
+        },
+        {
+          "id": "OP14-063~ja",
+          "language": "ja",
+          "set": "OP14",
+          "rarity": "R",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP14-063.png",
+          "cardSet": "ブースターパック 蒼海の七傑【OP-14】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "OP14-064",
       "name": "Giolla",
+      "names": {
+        "en": "Giolla",
+        "ja": "ジョーラ"
+      },
       "category": "Character",
       "cost": 3,
       "power": 1000,
@@ -4695,12 +6057,29 @@
             }
           ],
           "artist": "kankurou"
+        },
+        {
+          "id": "OP14-064~ja",
+          "language": "ja",
+          "set": "OP14",
+          "rarity": "C",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP14-064.png",
+          "cardSet": "ブースターパック 蒼海の七傑【OP-14】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP14-065",
       "name": "Senor Pink",
+      "names": {
+        "en": "Senor Pink",
+        "ja": "セニョール・ピンク"
+      },
       "category": "Character",
       "cost": 4,
       "power": 5000,
@@ -4765,12 +6144,29 @@
             }
           ],
           "artist": "HISASHI HUJIWARA"
+        },
+        {
+          "id": "OP14-065~ja",
+          "language": "ja",
+          "set": "OP14",
+          "rarity": "C",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP14-065.png",
+          "cardSet": "ブースターパック 蒼海の七傑【OP-14】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP14-066",
       "name": "Diamante",
+      "names": {
+        "en": "Diamante",
+        "ja": "ディアマンテ"
+      },
       "category": "Character",
       "cost": 6,
       "power": 8000,
@@ -4835,12 +6231,29 @@
             }
           ],
           "artist": "Tadaichi Nakama"
+        },
+        {
+          "id": "OP14-066~ja",
+          "language": "ja",
+          "set": "OP14",
+          "rarity": "C",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP14-066.png",
+          "cardSet": "ブースターパック 蒼海の七傑【OP-14】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP14-067",
       "name": "Dellinger",
+      "names": {
+        "en": "Dellinger",
+        "ja": "デリンジャー"
+      },
       "category": "Character",
       "cost": 1,
       "power": 2000,
@@ -4905,12 +6318,29 @@
             }
           ],
           "artist": "Koushi Rokushiro"
+        },
+        {
+          "id": "OP14-067~ja",
+          "language": "ja",
+          "set": "OP14",
+          "rarity": "UC",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP14-067.png",
+          "cardSet": "ブースターパック 蒼海の七傑【OP-14】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP14-068",
       "name": "Trebol",
+      "names": {
+        "en": "Trebol",
+        "ja": "トレーボル"
+      },
       "category": "Character",
       "cost": 5,
       "power": 5000,
@@ -4975,12 +6405,29 @@
             }
           ],
           "artist": "Nekobayashi"
+        },
+        {
+          "id": "OP14-068~ja",
+          "language": "ja",
+          "set": "OP14",
+          "rarity": "UC",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP14-068.png",
+          "cardSet": "ブースターパック 蒼海の七傑【OP-14】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP14-069",
       "name": "Donquixote Doflamingo",
+      "names": {
+        "en": "Donquixote Doflamingo",
+        "ja": "ドンキホーテ・ドフラミンゴ"
+      },
       "category": "Character",
       "cost": 10,
       "power": 10000,
@@ -5097,12 +6544,42 @@
               "category": "placement"
             }
           ]
+        },
+        {
+          "id": "OP14-069~ja",
+          "language": "ja",
+          "set": "OP14",
+          "rarity": "SR",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP14-069.png",
+          "cardSet": "ブースターパック 蒼海の七傑【OP-14】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP14-069_p1~ja",
+          "language": "ja",
+          "set": "OP14",
+          "rarity": "SR",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP14-069_p1.png",
+          "cardSet": "ブースターパック 蒼海の七傑【OP-14】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "OP14-070",
       "name": "Buffalo",
+      "names": {
+        "en": "Buffalo",
+        "ja": "バッファロー"
+      },
       "category": "Character",
       "cost": 2,
       "power": 1000,
@@ -5167,12 +6644,29 @@
             }
           ],
           "artist": "HISASHI HUJIWARA"
+        },
+        {
+          "id": "OP14-070~ja",
+          "language": "ja",
+          "set": "OP14",
+          "rarity": "C",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP14-070.png",
+          "cardSet": "ブースターパック 蒼海の七傑【OP-14】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP14-071",
       "name": "Pica",
+      "names": {
+        "en": "Pica",
+        "ja": "ピーカ"
+      },
       "category": "Character",
       "cost": 5,
       "power": 6000,
@@ -5237,12 +6731,29 @@
             }
           ],
           "artist": "Yasushi Yamaguchi"
+        },
+        {
+          "id": "OP14-071~ja",
+          "language": "ja",
+          "set": "OP14",
+          "rarity": "UC",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP14-071.png",
+          "cardSet": "ブースターパック 蒼海の七傑【OP-14】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP14-072",
       "name": "Baby 5",
+      "names": {
+        "en": "Baby 5",
+        "ja": "ベビー５"
+      },
       "category": "Character",
       "cost": 4,
       "power": 1000,
@@ -5307,12 +6818,29 @@
             }
           ],
           "artist": "Misa Matoki"
+        },
+        {
+          "id": "OP14-072~ja",
+          "language": "ja",
+          "set": "OP14",
+          "rarity": "UC",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP14-072.png",
+          "cardSet": "ブースターパック 蒼海の七傑【OP-14】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP14-073",
       "name": "Machvise",
+      "names": {
+        "en": "Machvise",
+        "ja": "マッハバイス"
+      },
       "category": "Character",
       "cost": 6,
       "power": 7000,
@@ -5377,12 +6905,29 @@
             }
           ],
           "artist": "kankurou"
+        },
+        {
+          "id": "OP14-073~ja",
+          "language": "ja",
+          "set": "OP14",
+          "rarity": "C",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP14-073.png",
+          "cardSet": "ブースターパック 蒼海の七傑【OP-14】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP14-074",
       "name": "Monet",
+      "names": {
+        "en": "Monet",
+        "ja": "モネ"
+      },
       "category": "Character",
       "cost": 5,
       "power": 6000,
@@ -5449,12 +6994,29 @@
             }
           ],
           "artist": "kou takase"
+        },
+        {
+          "id": "OP14-074~ja",
+          "language": "ja",
+          "set": "OP14",
+          "rarity": "R",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP14-074.png",
+          "cardSet": "ブースターパック 蒼海の七傑【OP-14】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "OP14-075",
       "name": "Lao.G",
+      "names": {
+        "en": "Lao.G",
+        "ja": "ラオG"
+      },
       "category": "Character",
       "cost": 3,
       "power": 4000,
@@ -5519,12 +7081,29 @@
             }
           ],
           "artist": "Hayaken-sarena"
+        },
+        {
+          "id": "OP14-075~ja",
+          "language": "ja",
+          "set": "OP14",
+          "rarity": "C",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP14-075.png",
+          "cardSet": "ブースターパック 蒼海の七傑【OP-14】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP14-076",
       "name": "Ever White",
+      "names": {
+        "en": "Ever White",
+        "ja": "海原白波"
+      },
       "category": "Event",
       "cost": 1,
       "colors": [
@@ -5556,12 +7135,29 @@
             "match": "image-only-candidate",
             "distance": 6
           }
+        },
+        {
+          "id": "OP14-076~ja",
+          "language": "ja",
+          "set": "OP14",
+          "rarity": "R",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP14-076.png",
+          "cardSet": "ブースターパック 蒼海の七傑【OP-14】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "OP14-077",
       "name": "Penta-Chromatic String",
+      "names": {
+        "en": "Penta-Chromatic String",
+        "ja": "五色糸"
+      },
       "category": "Event",
       "cost": 2,
       "colors": [
@@ -5620,12 +7216,29 @@
               "category": "event"
             }
           ]
+        },
+        {
+          "id": "OP14-077~ja",
+          "language": "ja",
+          "set": "OP14",
+          "rarity": "UC",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP14-077.png",
+          "cardSet": "ブースターパック 蒼海の七傑【OP-14】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP14-078",
       "name": "Bullet String",
+      "names": {
+        "en": "Bullet String",
+        "ja": "弾糸"
+      },
       "category": "Event",
       "cost": 2,
       "colors": [
@@ -5684,12 +7297,29 @@
               "category": "event"
             }
           ]
+        },
+        {
+          "id": "OP14-078~ja",
+          "language": "ja",
+          "set": "OP14",
+          "rarity": "C",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP14-078.png",
+          "cardSet": "ブースターパック 蒼海の七傑【OP-14】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP14-079",
       "name": "Crocodile",
+      "names": {
+        "en": "Crocodile",
+        "ja": "クロコダイル"
+      },
       "category": "Leader",
       "power": 5000,
       "life": 5,
@@ -5752,12 +7382,42 @@
             "alternate_art"
           ],
           "artist": "tatsuya"
+        },
+        {
+          "id": "OP14-079~ja",
+          "language": "ja",
+          "set": "OP14",
+          "rarity": "L",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP14-079.png",
+          "cardSet": "ブースターパック 蒼海の七傑【OP-14】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
+        },
+        {
+          "id": "OP14-079_p1~ja",
+          "language": "ja",
+          "set": "OP14",
+          "rarity": "L",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP14-079_p1.png",
+          "cardSet": "ブースターパック 蒼海の七傑【OP-14】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "OP14-080",
       "name": "Gecko Moria",
+      "names": {
+        "en": "Gecko Moria",
+        "ja": "ゲッコー・モリア"
+      },
       "category": "Leader",
       "power": 5000,
       "life": 4,
@@ -5821,12 +7481,42 @@
             "alternate_art"
           ],
           "artist": "SENNSU"
+        },
+        {
+          "id": "OP14-080~ja",
+          "language": "ja",
+          "set": "OP14",
+          "rarity": "L",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP14-080.png",
+          "cardSet": "ブースターパック 蒼海の七傑【OP-14】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
+        },
+        {
+          "id": "OP14-080_p1~ja",
+          "language": "ja",
+          "set": "OP14",
+          "rarity": "L",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP14-080_p1.png",
+          "cardSet": "ブースターパック 蒼海の七傑【OP-14】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "OP14-081",
       "name": "Spider Mice",
+      "names": {
+        "en": "Spider Mice",
+        "ja": "スパイダーマウス"
+      },
       "category": "Character",
       "cost": 1,
       "power": 1000,
@@ -5891,12 +7581,29 @@
             }
           ],
           "artist": "KISUKE"
+        },
+        {
+          "id": "OP14-081~ja",
+          "language": "ja",
+          "set": "OP14",
+          "rarity": "C",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP14-081.png",
+          "cardSet": "ブースターパック 蒼海の七傑【OP-14】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP14-082",
       "name": "Oinkchuck",
+      "names": {
+        "en": "Oinkchuck",
+        "ja": "ブヒチャック"
+      },
       "category": "Character",
       "cost": 2,
       "power": 3000,
@@ -5961,12 +7668,29 @@
             }
           ],
           "artist": "SHINRA AGENCY Co. Ltd."
+        },
+        {
+          "id": "OP14-082~ja",
+          "language": "ja",
+          "set": "OP14",
+          "rarity": "C",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP14-082.png",
+          "cardSet": "ブースターパック 蒼海の七傑【OP-14】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP14-083",
       "name": "Ms. Wednesday",
+      "names": {
+        "en": "Ms. Wednesday",
+        "ja": "ミス・ウェンズデー"
+      },
       "category": "Character",
       "cost": 1,
       "power": 1000,
@@ -6031,12 +7755,39 @@
             }
           ],
           "artist": "kicori"
+        },
+        {
+          "id": "OP14-083~ja",
+          "language": "ja",
+          "set": "OP14",
+          "rarity": "UC",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP14-083.png",
+          "cardSet": "ブースターパック 蒼海の七傑【OP-14】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
+        },
+        {
+          "id": "OP14-083_p1~ja",
+          "language": "ja",
+          "set": "P",
+          "rarity": "UC",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP14-083_p1.png",
+          "cardSet": "プロモーションパックEX Vol.4",
+          "source": "bandai"
         }
       ]
     },
     {
       "number": "OP14-084",
       "name": "Ms. All Sunday",
+      "names": {
+        "en": "Ms. All Sunday",
+        "ja": "ミス・オールサンデー"
+      },
       "category": "Character",
       "cost": 7,
       "power": 8000,
@@ -6124,12 +7875,55 @@
             "sp"
           ],
           "artist": "Sunohara"
+        },
+        {
+          "id": "OP14-084~ja",
+          "language": "ja",
+          "set": "OP14",
+          "rarity": "SR",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP14-084.png",
+          "cardSet": "ブースターパック 蒼海の七傑【OP-14】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP14-084_p1~ja",
+          "language": "ja",
+          "set": "OP14",
+          "rarity": "SR",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP14-084_p1.png",
+          "cardSet": "ブースターパック 蒼海の七傑【OP-14】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP14-084_p2~ja",
+          "language": "ja",
+          "set": "OP16",
+          "rarity": "SP CARD",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP14-084_p2.png",
+          "cardSet": "ブースターパック 決戦の刻【OP-16】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "OP14-085",
       "name": "Miss.Goldenweek(Marianne)",
+      "names": {
+        "en": "Miss.Goldenweek(Marianne)",
+        "ja": "ミス・ゴールデンウィーク(マリアンヌ)"
+      },
       "category": "Character",
       "cost": 1,
       "power": 2000,
@@ -6194,12 +7988,29 @@
             }
           ],
           "artist": "Akihiro MIYANO"
+        },
+        {
+          "id": "OP14-085~ja",
+          "language": "ja",
+          "set": "OP14",
+          "rarity": "UC",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP14-085.png",
+          "cardSet": "ブースターパック 蒼海の七傑【OP-14】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP14-086",
       "name": "Miss Doublefinger(Zala)",
+      "names": {
+        "en": "Miss Doublefinger(Zala)",
+        "ja": "ミス・ダブルフィンガー(ザラ)"
+      },
       "category": "Character",
       "cost": 5,
       "power": 6000,
@@ -6264,12 +8075,29 @@
             }
           ],
           "artist": "Hatori Kyoka"
+        },
+        {
+          "id": "OP14-086~ja",
+          "language": "ja",
+          "set": "OP14",
+          "rarity": "C",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP14-086.png",
+          "cardSet": "ブースターパック 蒼海の七傑【OP-14】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP14-087",
       "name": "Miss.Valentine(Mikita)",
+      "names": {
+        "en": "Miss.Valentine(Mikita)",
+        "ja": "ミス・バレンタイン(ミキータ)"
+      },
       "category": "Character",
       "cost": 1,
       "power": 2000,
@@ -6387,12 +8215,52 @@
               "category": "placement"
             }
           ]
+        },
+        {
+          "id": "OP14-087~ja",
+          "language": "ja",
+          "set": "OP14",
+          "rarity": "R",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP14-087.png",
+          "cardSet": "ブースターパック 蒼海の七傑【OP-14】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP14-087_p1~ja",
+          "language": "ja",
+          "set": "P",
+          "rarity": "R",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP14-087_p1.png",
+          "cardSet": "スタンダードバトルパック Vol.15",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP14-087_p2~ja",
+          "language": "ja",
+          "set": "P",
+          "rarity": "R",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP14-087_p2.png",
+          "cardSet": "スタンダードバトル 2026年3月優勝記念品",
+          "source": "bandai"
         }
       ]
     },
     {
       "number": "OP14-088",
       "name": "Miss.MerryChristmas(Drophy)",
+      "names": {
+        "en": "Miss.MerryChristmas(Drophy)",
+        "ja": "ミス・メリークリスマス(ドロフィー)"
+      },
       "category": "Character",
       "cost": 1,
       "power": 2000,
@@ -6457,12 +8325,29 @@
             }
           ],
           "artist": "Haru Miyajima"
+        },
+        {
+          "id": "OP14-088~ja",
+          "language": "ja",
+          "set": "OP14",
+          "rarity": "C",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP14-088.png",
+          "cardSet": "ブースターパック 蒼海の七傑【OP-14】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP14-089",
       "name": "Ryuma",
+      "names": {
+        "en": "Ryuma",
+        "ja": "リューマ"
+      },
       "category": "Character",
       "cost": 3,
       "power": 5000,
@@ -6527,12 +8412,29 @@
             }
           ],
           "artist": "Studio Vigor Co. Ltd"
+        },
+        {
+          "id": "OP14-089~ja",
+          "language": "ja",
+          "set": "OP14",
+          "rarity": "C",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP14-089.png",
+          "cardSet": "ブースターパック 蒼海の七傑【OP-14】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP14-090",
       "name": "Mr.1(Daz.Bonez)",
+      "names": {
+        "en": "Mr.1(Daz.Bonez)",
+        "ja": "Mr.1(ダズ・ボーネス)"
+      },
       "category": "Character",
       "cost": 5,
       "power": 6000,
@@ -6595,12 +8497,42 @@
             "alternate_art"
           ],
           "artist": "tatsuya"
+        },
+        {
+          "id": "OP14-090~ja",
+          "language": "ja",
+          "set": "OP14",
+          "rarity": "R",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP14-090.png",
+          "cardSet": "ブースターパック 蒼海の七傑【OP-14】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP14-090_p1~ja",
+          "language": "ja",
+          "set": "OP14",
+          "rarity": "R",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP14-090_p1.png",
+          "cardSet": "ブースターパック 蒼海の七傑【OP-14】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "OP14-091",
       "name": "Mr.2.Bon.Kurei(Bentham)",
+      "names": {
+        "en": "Mr.2.Bon.Kurei(Bentham)",
+        "ja": "Mr.2・ボン・クレー(ベンサム)"
+      },
       "category": "Character",
       "cost": 4,
       "power": 5000,
@@ -6663,12 +8595,42 @@
             "alternate_art"
           ],
           "artist": "otton"
+        },
+        {
+          "id": "OP14-091~ja",
+          "language": "ja",
+          "set": "OP14",
+          "rarity": "SR",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP14-091.png",
+          "cardSet": "ブースターパック 蒼海の七傑【OP-14】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP14-091_p1~ja",
+          "language": "ja",
+          "set": "OP14",
+          "rarity": "SR",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP14-091_p1.png",
+          "cardSet": "ブースターパック 蒼海の七傑【OP-14】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "OP14-092",
       "name": "Mr.3(Galdino)",
+      "names": {
+        "en": "Mr.3(Galdino)",
+        "ja": "Mr.3(ギャルディーノ)"
+      },
       "category": "Character",
       "cost": 4,
       "power": 6000,
@@ -6704,12 +8666,29 @@
             "distance": 3
           },
           "artist": "KISUKE"
+        },
+        {
+          "id": "OP14-092~ja",
+          "language": "ja",
+          "set": "OP14",
+          "rarity": "R",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP14-092.png",
+          "cardSet": "ブースターパック 蒼海の七傑【OP-14】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "OP14-093",
       "name": "Mr.4(Babe)",
+      "names": {
+        "en": "Mr.4(Babe)",
+        "ja": "Mr.4(ベーブ)"
+      },
       "category": "Character",
       "cost": 4,
       "power": 5000,
@@ -6774,12 +8753,29 @@
             }
           ],
           "artist": "S-KINOKO"
+        },
+        {
+          "id": "OP14-093~ja",
+          "language": "ja",
+          "set": "OP14",
+          "rarity": "C",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP14-093.png",
+          "cardSet": "ブースターパック 蒼海の七傑【OP-14】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP14-094",
       "name": "Mr.5(Gem)",
+      "names": {
+        "en": "Mr.5(Gem)",
+        "ja": "Mr.5(ジェム)"
+      },
       "category": "Character",
       "cost": 5,
       "power": 6000,
@@ -6844,12 +8840,29 @@
             }
           ],
           "artist": "Moopic"
+        },
+        {
+          "id": "OP14-094~ja",
+          "language": "ja",
+          "set": "OP14",
+          "rarity": "UC",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP14-094.png",
+          "cardSet": "ブースターパック 蒼海の七傑【OP-14】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP14-095",
       "name": "Mr.9",
+      "names": {
+        "en": "Mr.9",
+        "ja": "Mr.9"
+      },
       "category": "Character",
       "cost": 5,
       "power": 6000,
@@ -6914,12 +8927,29 @@
             }
           ],
           "artist": "ASAKI KURODA"
+        },
+        {
+          "id": "OP14-095~ja",
+          "language": "ja",
+          "set": "OP14",
+          "rarity": "C",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP14-095.png",
+          "cardSet": "ブースターパック 蒼海の七傑【OP-14】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP14-096",
       "name": "Ground Death",
+      "names": {
+        "en": "Ground Death",
+        "ja": "浸食輪廻"
+      },
       "category": "Event",
       "cost": 1,
       "colors": [
@@ -6976,12 +9006,42 @@
           "treatments": [
             "alternate_art"
           ]
+        },
+        {
+          "id": "OP14-096~ja",
+          "language": "ja",
+          "set": "OP14",
+          "rarity": "R",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP14-096.png",
+          "cardSet": "ブースターパック 蒼海の七傑【OP-14】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP14-096_p1~ja",
+          "language": "ja",
+          "set": "OP14",
+          "rarity": "R",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP14-096_p1.png",
+          "cardSet": "ブースターパック 蒼海の七傑【OP-14】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "OP14-097",
       "name": "Hurry Up and Make Me the Pirate King!",
+      "names": {
+        "en": "Hurry Up and Make Me the Pirate King!",
+        "ja": "早くおれを海賊王にならせろ!!!"
+      },
       "category": "Event",
       "cost": 1,
       "colors": [
@@ -7040,12 +9100,29 @@
               "category": "event"
             }
           ]
+        },
+        {
+          "id": "OP14-097~ja",
+          "language": "ja",
+          "set": "OP14",
+          "rarity": "UC",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP14-097.png",
+          "cardSet": "ブースターパック 蒼海の七傑【OP-14】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP14-098",
       "name": "Crescent Cutlass",
+      "names": {
+        "en": "Crescent Cutlass",
+        "ja": "三日月形砂丘"
+      },
       "category": "Event",
       "cost": 1,
       "colors": [
@@ -7104,12 +9181,29 @@
               "category": "event"
             }
           ]
+        },
+        {
+          "id": "OP14-098~ja",
+          "language": "ja",
+          "set": "OP14",
+          "rarity": "C",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP14-098.png",
+          "cardSet": "ブースターパック 蒼海の七傑【OP-14】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP14-099",
       "name": "Disappointed?",
+      "names": {
+        "en": "Disappointed?",
+        "ja": "不服か？"
+      },
       "category": "Event",
       "cost": 1,
       "colors": [
@@ -7197,12 +9291,42 @@
               "category": "event"
             }
           ]
+        },
+        {
+          "id": "OP14-099~ja",
+          "language": "ja",
+          "set": "OP14",
+          "rarity": "UC",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP14-099.png",
+          "cardSet": "ブースターパック 蒼海の七傑【OP-14】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
+        },
+        {
+          "id": "OP14-099_p1~ja",
+          "language": "ja",
+          "set": "OTHER",
+          "rarity": "UC",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP14-099_p1.png",
+          "cardSet": "プレミアムカードコレクション - ベストセレクション vol.6 -",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "OP14-100",
       "name": "Absalom",
+      "names": {
+        "en": "Absalom",
+        "ja": "アブサロム"
+      },
       "category": "Character",
       "cost": 3,
       "power": 5000,
@@ -7238,12 +9362,29 @@
             "distance": 4
           },
           "artist": "Morechand"
+        },
+        {
+          "id": "OP14-100~ja",
+          "language": "ja",
+          "set": "OP14",
+          "rarity": "R",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP14-100.png",
+          "cardSet": "ブースターパック 蒼海の七傑【OP-14】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "OP14-101",
       "name": "Oars",
+      "names": {
+        "en": "Oars",
+        "ja": "オーズ"
+      },
       "category": "Character",
       "cost": 8,
       "power": 10000,
@@ -7309,12 +9450,29 @@
             }
           ],
           "artist": "kankurou"
+        },
+        {
+          "id": "OP14-101~ja",
+          "language": "ja",
+          "set": "OP14",
+          "rarity": "C",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP14-101.png",
+          "cardSet": "ブースターパック 蒼海の七傑【OP-14】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP14-102",
       "name": "Kumacy",
+      "names": {
+        "en": "Kumacy",
+        "ja": "クマシー"
+      },
       "category": "Character",
       "cost": 1,
       "power": 2000,
@@ -7379,12 +9537,29 @@
             }
           ],
           "artist": "Yuu Shimotsuki"
+        },
+        {
+          "id": "OP14-102~ja",
+          "language": "ja",
+          "set": "OP14",
+          "rarity": "C",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP14-102.png",
+          "cardSet": "ブースターパック 蒼海の七傑【OP-14】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP14-103",
       "name": "Gloriosa (Grandma Nyon)",
+      "names": {
+        "en": "Gloriosa (Grandma Nyon)",
+        "ja": "グロリオーサ(ニョン婆)"
+      },
       "category": "Character",
       "cost": 2,
       "counter": 1000,
@@ -7448,12 +9623,29 @@
             }
           ],
           "artist": "HISASHI HUJIWARA"
+        },
+        {
+          "id": "OP14-103~ja",
+          "language": "ja",
+          "set": "OP14",
+          "rarity": "C",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP14-103.png",
+          "cardSet": "ブースターパック 蒼海の七傑【OP-14】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP14-104",
       "name": "Gecko Moria",
+      "names": {
+        "en": "Gecko Moria",
+        "ja": "ゲッコー・モリア"
+      },
       "category": "Character",
       "cost": 8,
       "power": 10000,
@@ -7516,12 +9708,42 @@
             "alternate_art"
           ],
           "artist": "Hokuyuu"
+        },
+        {
+          "id": "OP14-104~ja",
+          "language": "ja",
+          "set": "OP14",
+          "rarity": "SR",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP14-104.png",
+          "cardSet": "ブースターパック 蒼海の七傑【OP-14】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP14-104_p1~ja",
+          "language": "ja",
+          "set": "OP14",
+          "rarity": "SR",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP14-104_p1.png",
+          "cardSet": "ブースターパック 蒼海の七傑【OP-14】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "OP14-105",
       "name": "Gorgon Sisters",
+      "names": {
+        "en": "Gorgon Sisters",
+        "ja": "ゴルゴン三姉妹"
+      },
       "category": "Character",
       "cost": 6,
       "power": 5000,
@@ -7640,12 +9862,39 @@
               "category": "placement"
             }
           ]
+        },
+        {
+          "id": "OP14-105~ja",
+          "language": "ja",
+          "set": "OP14",
+          "rarity": "UC",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP14-105.png",
+          "cardSet": "ブースターパック 蒼海の七傑【OP-14】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
+        },
+        {
+          "id": "OP14-105_p1~ja",
+          "language": "ja",
+          "set": "P",
+          "rarity": "UC",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP14-105_p1.png",
+          "cardSet": "スタンダードバトルパック Vol.15",
+          "source": "bandai"
         }
       ]
     },
     {
       "number": "OP14-106",
       "name": "Salome",
+      "names": {
+        "en": "Salome",
+        "ja": "サロメ"
+      },
       "category": "Character",
       "cost": 3,
       "power": 1000,
@@ -7711,12 +9960,29 @@
             }
           ],
           "artist": "shosuke"
+        },
+        {
+          "id": "OP14-106~ja",
+          "language": "ja",
+          "set": "OP14",
+          "rarity": "C",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP14-106.png",
+          "cardSet": "ブースターパック 蒼海の七傑【OP-14】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP14-107",
       "name": "Shakuyaku",
+      "names": {
+        "en": "Shakuyaku",
+        "ja": "シャクヤク"
+      },
       "category": "Character",
       "cost": 6,
       "power": 5000,
@@ -7897,12 +10163,39 @@
               "category": "placement"
             }
           ]
+        },
+        {
+          "id": "OP14-107~ja",
+          "language": "ja",
+          "set": "OP14",
+          "rarity": "UC",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP14-107.png",
+          "cardSet": "ブースターパック 蒼海の七傑【OP-14】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
+        },
+        {
+          "id": "OP14-107_p1~ja",
+          "language": "ja",
+          "set": "P",
+          "rarity": "UC",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP14-107_p1.png",
+          "cardSet": "プロモーションパックVol.9",
+          "source": "bandai"
         }
       ]
     },
     {
       "number": "OP14-108",
       "name": "Silvers Rayleigh",
+      "names": {
+        "en": "Silvers Rayleigh",
+        "ja": "シルバーズ・レイリー"
+      },
       "category": "Character",
       "cost": 6,
       "power": 6000,
@@ -8023,12 +10316,39 @@
             "sp"
           ],
           "artist": "sakai/INO Ltd."
+        },
+        {
+          "id": "OP14-108~ja",
+          "language": "ja",
+          "set": "OP14",
+          "rarity": "R",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP14-108.png",
+          "cardSet": "ブースターパック 蒼海の七傑【OP-14】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP14-108_p1~ja",
+          "language": "ja",
+          "set": "OP17",
+          "rarity": "SP CARD",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP14-108_p1.png",
+          "cardSet": "ブースターパック 世界最強の戦士【OP-17】",
+          "source": "bandai"
         }
       ]
     },
     {
       "number": "OP14-109",
       "name": "Victoria Cindry",
+      "names": {
+        "en": "Victoria Cindry",
+        "ja": "ビクトリア・シンドリー"
+      },
       "category": "Character",
       "cost": 3,
       "power": 1000,
@@ -8093,12 +10413,29 @@
             }
           ],
           "artist": "Hagane Tsurugi"
+        },
+        {
+          "id": "OP14-109~ja",
+          "language": "ja",
+          "set": "OP14",
+          "rarity": "C",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP14-109.png",
+          "cardSet": "ブースターパック 蒼海の七傑【OP-14】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP14-110",
       "name": "Dr. Hogback",
+      "names": {
+        "en": "Dr. Hogback",
+        "ja": "ドクトル・ホグバック"
+      },
       "category": "Character",
       "cost": 4,
       "power": 5000,
@@ -8135,12 +10472,29 @@
             "distance": 3
           },
           "artist": "kankurou"
+        },
+        {
+          "id": "OP14-110~ja",
+          "language": "ja",
+          "set": "OP14",
+          "rarity": "R",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP14-110.png",
+          "cardSet": "ブースターパック 蒼海の七傑【OP-14】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "OP14-111",
       "name": "Perona",
+      "names": {
+        "en": "Perona",
+        "ja": "ペローナ"
+      },
       "category": "Character",
       "cost": 4,
       "power": 5000,
@@ -8203,12 +10557,42 @@
             "alternate_art"
           ],
           "artist": "Koushi Rokushiro"
+        },
+        {
+          "id": "OP14-111~ja",
+          "language": "ja",
+          "set": "OP14",
+          "rarity": "R",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP14-111.png",
+          "cardSet": "ブースターパック 蒼海の七傑【OP-14】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP14-111_p1~ja",
+          "language": "ja",
+          "set": "OP14",
+          "rarity": "R",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP14-111_p1.png",
+          "cardSet": "ブースターパック 蒼海の七傑【OP-14】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "OP14-112",
       "name": "Boa Hancock",
+      "names": {
+        "en": "Boa Hancock",
+        "ja": "ボア・ハンコック"
+      },
       "category": "Character",
       "cost": 9,
       "power": 10000,
@@ -8323,12 +10707,55 @@
               "category": "championship"
             }
           ]
+        },
+        {
+          "id": "OP14-112~ja",
+          "language": "ja",
+          "set": "OP14",
+          "rarity": "SR",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP14-112.png",
+          "cardSet": "ブースターパック 蒼海の七傑【OP-14】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP14-112_p1~ja",
+          "language": "ja",
+          "set": "OP14",
+          "rarity": "SR",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP14-112_p1.png",
+          "cardSet": "ブースターパック 蒼海の七傑【OP-14】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP14-112_p2~ja",
+          "language": "ja",
+          "set": "OP14",
+          "rarity": "SP CARD",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP14-112_p2.png",
+          "cardSet": "ブースターパック 蒼海の七傑【OP-14】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "OP14-113",
       "name": "Marguerite",
+      "names": {
+        "en": "Marguerite",
+        "ja": "マーガレット"
+      },
       "category": "Character",
       "cost": 3,
       "power": 5000,
@@ -8392,12 +10819,29 @@
             }
           ],
           "artist": "sho"
+        },
+        {
+          "id": "OP14-113~ja",
+          "language": "ja",
+          "set": "OP14",
+          "rarity": "UC",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP14-113.png",
+          "cardSet": "ブースターパック 蒼海の七傑【OP-14】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP14-114",
       "name": "Ran",
+      "names": {
+        "en": "Ran",
+        "ja": "ラン"
+      },
       "category": "Character",
       "cost": 4,
       "power": 5000,
@@ -8462,12 +10906,29 @@
             }
           ],
           "artist": "Nekobayashi"
+        },
+        {
+          "id": "OP14-114~ja",
+          "language": "ja",
+          "set": "OP14",
+          "rarity": "UC",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP14-114.png",
+          "cardSet": "ブースターパック 蒼海の七傑【OP-14】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP14-115",
       "name": "Rindo",
+      "names": {
+        "en": "Rindo",
+        "ja": "リンドウ"
+      },
       "category": "Character",
       "cost": 5,
       "power": 5000,
@@ -8532,12 +10993,29 @@
             }
           ],
           "artist": "eiji kaneda"
+        },
+        {
+          "id": "OP14-115~ja",
+          "language": "ja",
+          "set": "OP14",
+          "rarity": "C",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP14-115.png",
+          "cardSet": "ブースターパック 蒼海の七傑【OP-14】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP14-116",
       "name": "Salamander",
+      "names": {
+        "en": "Salamander",
+        "ja": "炎の蛇神"
+      },
       "category": "Event",
       "cost": 4,
       "colors": [
@@ -8595,12 +11073,29 @@
               "category": "event"
             }
           ]
+        },
+        {
+          "id": "OP14-116~ja",
+          "language": "ja",
+          "set": "OP14",
+          "rarity": "C",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP14-116.png",
+          "cardSet": "ブースターパック 蒼海の七傑【OP-14】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP14-117",
       "name": "Brick Bat",
+      "names": {
+        "en": "Brick Bat",
+        "ja": "欠片蝙蝠"
+      },
       "category": "Event",
       "cost": 1,
       "colors": [
@@ -8658,12 +11153,29 @@
               "category": "event"
             }
           ]
+        },
+        {
+          "id": "OP14-117~ja",
+          "language": "ja",
+          "set": "OP14",
+          "rarity": "UC",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP14-117.png",
+          "cardSet": "ブースターパック 蒼海の七傑【OP-14】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "OP14-118",
       "name": "You'll Frighten Me... ♡",
+      "names": {
+        "en": "You'll Frighten Me... ♡",
+        "ja": "わらわ　こわい…♡"
+      },
       "category": "Event",
       "cost": 1,
       "colors": [
@@ -8720,12 +11232,52 @@
           "treatments": [
             "alternate_art"
           ]
+        },
+        {
+          "id": "OP14-118~ja",
+          "language": "ja",
+          "set": "OP14",
+          "rarity": "R",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP14-118.png",
+          "cardSet": "ブースターパック 蒼海の七傑【OP-14】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP14-118_p1~ja",
+          "language": "ja",
+          "set": "OP14",
+          "rarity": "R",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP14-118_p1.png",
+          "cardSet": "ブースターパック 蒼海の七傑【OP-14】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP14-118_p2~ja",
+          "language": "ja",
+          "set": "P",
+          "rarity": "R",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP14-118_p2.png",
+          "cardSet": "プロモーションパックEX vol.5",
+          "source": "bandai"
         }
       ]
     },
     {
       "number": "OP14-119",
       "name": "Dracule Mihawk",
+      "names": {
+        "en": "Dracule Mihawk",
+        "ja": "ジュラキュール・ミホーク"
+      },
       "category": "Character",
       "cost": 9,
       "power": 10000,
@@ -8835,12 +11387,55 @@
               "category": "championship"
             }
           ]
+        },
+        {
+          "id": "OP14-119~ja",
+          "language": "ja",
+          "set": "OP14",
+          "rarity": "SEC",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP14-119.png",
+          "cardSet": "ブースターパック 蒼海の七傑【OP-14】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP14-119_p1~ja",
+          "language": "ja",
+          "set": "OP14",
+          "rarity": "SEC",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP14-119_p1.png",
+          "cardSet": "ブースターパック 蒼海の七傑【OP-14】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP14-119_p2~ja",
+          "language": "ja",
+          "set": "OP14",
+          "rarity": "SEC",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP14-119_p2.png",
+          "cardSet": "ブースターパック 蒼海の七傑【OP-14】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "OP14-120",
       "name": "Crocodile",
+      "names": {
+        "en": "Crocodile",
+        "ja": "クロコダイル"
+      },
       "category": "Character",
       "cost": 8,
       "power": 10000,
@@ -8928,6 +11523,32 @@
               "type": "championship",
               "category": "championship"
             }
+          ]
+        },
+        {
+          "id": "OP14-120~ja",
+          "language": "ja",
+          "set": "OP14",
+          "rarity": "SEC",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP14-120.png",
+          "cardSet": "ブースターパック 蒼海の七傑【OP-14】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "OP14-120_p1~ja",
+          "language": "ja",
+          "set": "OP14",
+          "rarity": "SEC",
+          "block": "4",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/OP14-120_p1.png",
+          "cardSet": "ブースターパック 蒼海の七傑【OP-14】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
           ]
         }
       ]

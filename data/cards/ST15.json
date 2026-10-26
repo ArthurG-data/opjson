@@ -3,6 +3,10 @@
     {
       "number": "ST15-001",
       "name": "Atmos",
+      "names": {
+        "en": "Atmos",
+        "ja": "アトモス"
+      },
       "category": "Character",
       "cost": 4,
       "power": 5000,
@@ -39,12 +43,29 @@
             "distance": 1
           },
           "artist": "HISASHI HUJIWARA"
+        },
+        {
+          "id": "ST15-001~ja",
+          "language": "ja",
+          "set": "ST15",
+          "rarity": "C",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/ST15-001.png",
+          "cardSet": "スタートデッキ 赤 エドワード・ニューゲート【ST-15】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "ST15-002",
       "name": "Edward.Newgate",
+      "names": {
+        "en": "Edward.Newgate",
+        "ja": "エドワード・ニューゲート"
+      },
       "category": "Character",
       "cost": 7,
       "power": 8000,
@@ -190,12 +211,68 @@
               "category": "retail"
             }
           ]
+        },
+        {
+          "id": "ST15-002~ja",
+          "language": "ja",
+          "set": "ST15",
+          "rarity": "SR",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/ST15-002.png",
+          "cardSet": "スタートデッキ 赤 エドワード・ニューゲート【ST-15】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "ST15-002_p1~ja",
+          "language": "ja",
+          "set": "OP10",
+          "rarity": "SP CARD",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/ST15-002_p1.png",
+          "cardSet": "ブースターパック 王族の血統【OP-10】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "ST15-002_p2~ja",
+          "language": "ja",
+          "set": "PRB02",
+          "rarity": "SR",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/ST15-002_p2.png",
+          "cardSet": "ONE PIECE CARD THE BEST vol.2【PRB-02】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "ST15-002_r1~ja",
+          "language": "ja",
+          "set": "PRB02",
+          "rarity": "SR",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/ST15-002_r1.png",
+          "cardSet": "ONE PIECE CARD THE BEST vol.2【PRB-02】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "ST15-003",
       "name": "Kingdew",
+      "names": {
+        "en": "Kingdew",
+        "ja": "キングデュー"
+      },
       "category": "Character",
       "cost": 3,
       "power": 4000,
@@ -252,12 +329,29 @@
           "finishes": [
             "nonfoil"
           ]
+        },
+        {
+          "id": "ST15-003~ja",
+          "language": "ja",
+          "set": "ST15",
+          "rarity": "C",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/ST15-003.png",
+          "cardSet": "スタートデッキ 赤 エドワード・ニューゲート【ST-15】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "ST15-004",
       "name": "Thatch",
+      "names": {
+        "en": "Thatch",
+        "ja": "サッチ"
+      },
       "category": "Character",
       "cost": 1,
       "power": 2000,
@@ -346,12 +440,29 @@
               "category": "placement"
             }
           ]
+        },
+        {
+          "id": "ST15-004~ja",
+          "language": "ja",
+          "set": "ST15",
+          "rarity": "C",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/ST15-004.png",
+          "cardSet": "スタートデッキ 赤 エドワード・ニューゲート【ST-15】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "ST15-005",
       "name": "Portgas.D.Ace",
+      "names": {
+        "en": "Portgas.D.Ace",
+        "ja": "ポートガス・D・エース"
+      },
       "category": "Character",
       "cost": 5,
       "power": 6000,
@@ -536,6 +647,39 @@
           "treatments": [
             "sp"
           ]
+        },
+        {
+          "id": "ST15-005~ja",
+          "language": "ja",
+          "set": "ST15",
+          "rarity": "SR",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/ST15-005.png",
+          "cardSet": "スタートデッキ 赤 エドワード・ニューゲート【ST-15】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "ST15-005_p1~ja",
+          "language": "ja",
+          "set": "OP16",
+          "rarity": "SP CARD",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/ST15-005_p1.png",
+          "cardSet": "ブースターパック 決戦の刻【OP-16】",
+          "source": "bandai"
+        },
+        {
+          "id": "ST15-005_p2~ja",
+          "language": "ja",
+          "set": "OTHER",
+          "rarity": "SR",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/ST15-005_p2.png",
+          "cardSet": "ONE PIECE カードゲーム 3rd ANNIVERSARY SET",
+          "source": "bandai"
         }
       ]
     }

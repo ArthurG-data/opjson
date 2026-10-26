@@ -3,6 +3,10 @@
     {
       "number": "ST21-001",
       "name": "Monkey.D.Luffy",
+      "names": {
+        "en": "Monkey.D.Luffy",
+        "ja": "モンキー・D・ルフィ"
+      },
       "category": "Leader",
       "power": 5000,
       "life": 5,
@@ -110,12 +114,68 @@
             "match": "image-only-candidate",
             "distance": 3
           }
+        },
+        {
+          "id": "ST21-001~ja",
+          "language": "ja",
+          "set": "ST21",
+          "rarity": "L",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/ST21-001.png",
+          "cardSet": "スタートデッキEX ギア5【ST-21】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "ST21-001_p1~ja",
+          "language": "ja",
+          "set": "ST21",
+          "rarity": "L",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/ST21-001_p1.png",
+          "cardSet": "スタートデッキEX ギア5【ST-21】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "ST21-001_p2~ja",
+          "language": "ja",
+          "set": "OTHER",
+          "rarity": "L",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/ST21-001_p2.png",
+          "cardSet": "ONE PIECEカードゲーム BASE SHOPリミテッドカードコレクションvol.1",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "ST21-001_r1~ja",
+          "language": "ja",
+          "set": "ST31",
+          "rarity": "L",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/ST21-001_r1.png",
+          "cardSet": "スタートデッキ 赤 モンキー・D・ルフィ【ST-31】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "ST21-002",
       "name": "Usopp",
+      "names": {
+        "en": "Usopp",
+        "ja": "ウソップ"
+      },
       "category": "Character",
       "cost": 2,
       "power": 3000,
@@ -178,12 +238,42 @@
             "parallel"
           ],
           "artist": "Nekobayashi"
+        },
+        {
+          "id": "ST21-002~ja",
+          "language": "ja",
+          "set": "ST21",
+          "rarity": "C",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/ST21-002.png",
+          "cardSet": "スタートデッキEX ギア5【ST-21】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "ST21-002_p1~ja",
+          "language": "ja",
+          "set": "ST21",
+          "rarity": "C",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/ST21-002_p1.png",
+          "cardSet": "スタートデッキEX ギア5【ST-21】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "ST21-003",
       "name": "Sanji",
+      "names": {
+        "en": "Sanji",
+        "ja": "サンジ"
+      },
       "category": "Character",
       "cost": 2,
       "power": 3000,
@@ -376,12 +466,81 @@
               "category": "retail"
             }
           ]
+        },
+        {
+          "id": "ST21-003~ja",
+          "language": "ja",
+          "set": "ST21",
+          "rarity": "C",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/ST21-003.png",
+          "cardSet": "スタートデッキEX ギア5【ST-21】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "ST21-003_p1~ja",
+          "language": "ja",
+          "set": "ST21",
+          "rarity": "C",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/ST21-003_p1.png",
+          "cardSet": "スタートデッキEX ギア5【ST-21】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "ST21-003_p2~ja",
+          "language": "ja",
+          "set": "PRB02",
+          "rarity": "C",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/ST21-003_p2.png",
+          "cardSet": "ONE PIECE CARD THE BEST vol.2【PRB-02】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "ST21-003_p3~ja",
+          "language": "ja",
+          "set": "OTHER",
+          "rarity": "C",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/ST21-003_p3.png",
+          "cardSet": "プレミアムカードコレクション - ベストセレクション vol.6 -",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "ST21-003_r1~ja",
+          "language": "ja",
+          "set": "PRB02",
+          "rarity": "C",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/ST21-003_r1.png",
+          "cardSet": "ONE PIECE CARD THE BEST vol.2【PRB-02】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "ST21-004",
       "name": "Jewelry Bonney",
+      "names": {
+        "en": "Jewelry Bonney",
+        "ja": "ジュエリー・ボニー"
+      },
       "category": "Character",
       "cost": 1,
       "power": 3000,
@@ -444,12 +603,42 @@
             "parallel"
           ],
           "artist": "Koushi Rokushiro"
+        },
+        {
+          "id": "ST21-004~ja",
+          "language": "ja",
+          "set": "ST21",
+          "rarity": "C",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/ST21-004.png",
+          "cardSet": "スタートデッキEX ギア5【ST-21】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "ST21-004_p1~ja",
+          "language": "ja",
+          "set": "ST21",
+          "rarity": "C",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/ST21-004_p1.png",
+          "cardSet": "スタートデッキEX ギア5【ST-21】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "ST21-005",
       "name": "Jinbe",
+      "names": {
+        "en": "Jinbe",
+        "ja": "ジンベエ"
+      },
       "category": "Character",
       "cost": 2,
       "power": 4000,
@@ -513,12 +702,42 @@
             "parallel"
           ],
           "artist": "Koushi Rokushiro"
+        },
+        {
+          "id": "ST21-005~ja",
+          "language": "ja",
+          "set": "ST21",
+          "rarity": "C",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/ST21-005.png",
+          "cardSet": "スタートデッキEX ギア5【ST-21】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "ST21-005_p1~ja",
+          "language": "ja",
+          "set": "ST21",
+          "rarity": "C",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/ST21-005_p1.png",
+          "cardSet": "スタートデッキEX ギア5【ST-21】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "ST21-006",
       "name": "Stussy",
+      "names": {
+        "en": "Stussy",
+        "ja": "ステューシー"
+      },
       "category": "Character",
       "cost": 3,
       "power": 5000,
@@ -581,12 +800,42 @@
             "parallel"
           ],
           "artist": "Morechand"
+        },
+        {
+          "id": "ST21-006~ja",
+          "language": "ja",
+          "set": "ST21",
+          "rarity": "C",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/ST21-006.png",
+          "cardSet": "スタートデッキEX ギア5【ST-21】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "ST21-006_p1~ja",
+          "language": "ja",
+          "set": "ST21",
+          "rarity": "C",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/ST21-006_p1.png",
+          "cardSet": "スタートデッキEX ギア5【ST-21】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "ST21-007",
       "name": "Sentomaru",
+      "names": {
+        "en": "Sentomaru",
+        "ja": "戦桃丸"
+      },
       "category": "Character",
       "cost": 2,
       "power": 2000,
@@ -650,12 +899,42 @@
             "parallel"
           ],
           "artist": "DAI-XT."
+        },
+        {
+          "id": "ST21-007~ja",
+          "language": "ja",
+          "set": "ST21",
+          "rarity": "C",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/ST21-007.png",
+          "cardSet": "スタートデッキEX ギア5【ST-21】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "ST21-007_p1~ja",
+          "language": "ja",
+          "set": "ST21",
+          "rarity": "C",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/ST21-007_p1.png",
+          "cardSet": "スタートデッキEX ギア5【ST-21】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "ST21-008",
       "name": "Tony Tony.Chopper",
+      "names": {
+        "en": "Tony Tony.Chopper",
+        "ja": "トニートニー・チョッパー"
+      },
       "category": "Character",
       "cost": 4,
       "power": 6000,
@@ -739,12 +1018,42 @@
           "finishes": [
             "nonfoil"
           ]
+        },
+        {
+          "id": "ST21-008~ja",
+          "language": "ja",
+          "set": "ST21",
+          "rarity": "C",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/ST21-008.png",
+          "cardSet": "スタートデッキEX ギア5【ST-21】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "ST21-008_p1~ja",
+          "language": "ja",
+          "set": "ST21",
+          "rarity": "C",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/ST21-008_p1.png",
+          "cardSet": "スタートデッキEX ギア5【ST-21】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "ST21-009",
       "name": "Nami",
+      "names": {
+        "en": "Nami",
+        "ja": "ナミ"
+      },
       "category": "Character",
       "cost": 3,
       "power": 1000,
@@ -807,12 +1116,42 @@
             "parallel"
           ],
           "artist": "BISAI"
+        },
+        {
+          "id": "ST21-009~ja",
+          "language": "ja",
+          "set": "ST21",
+          "rarity": "C",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/ST21-009.png",
+          "cardSet": "スタートデッキEX ギア5【ST-21】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "ST21-009_p1~ja",
+          "language": "ja",
+          "set": "ST21",
+          "rarity": "C",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/ST21-009_p1.png",
+          "cardSet": "スタートデッキEX ギア5【ST-21】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "ST21-010",
       "name": "Nico Robin",
+      "names": {
+        "en": "Nico Robin",
+        "ja": "ニコ・ロビン"
+      },
       "category": "Character",
       "cost": 3,
       "power": 4000,
@@ -895,12 +1234,42 @@
           "finishes": [
             "nonfoil"
           ]
+        },
+        {
+          "id": "ST21-010~ja",
+          "language": "ja",
+          "set": "ST21",
+          "rarity": "C",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/ST21-010.png",
+          "cardSet": "スタートデッキEX ギア5【ST-21】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "ST21-010_p1~ja",
+          "language": "ja",
+          "set": "ST21",
+          "rarity": "C",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/ST21-010_p1.png",
+          "cardSet": "スタートデッキEX ギア5【ST-21】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "ST21-011",
       "name": "Franky",
+      "names": {
+        "en": "Franky",
+        "ja": "フランキー"
+      },
       "category": "Character",
       "cost": 3,
       "power": 4000,
@@ -989,12 +1358,42 @@
               "category": "event"
             }
           ]
+        },
+        {
+          "id": "ST21-011~ja",
+          "language": "ja",
+          "set": "ST21",
+          "rarity": "C",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/ST21-011.png",
+          "cardSet": "スタートデッキEX ギア5【ST-21】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "ST21-011_p1~ja",
+          "language": "ja",
+          "set": "ST21",
+          "rarity": "C",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/ST21-011_p1.png",
+          "cardSet": "スタートデッキEX ギア5【ST-21】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "ST21-012",
       "name": "Brook",
+      "names": {
+        "en": "Brook",
+        "ja": "ブルック"
+      },
       "category": "Character",
       "cost": 3,
       "power": 4000,
@@ -1057,12 +1456,42 @@
             "parallel"
           ],
           "artist": "eiji kaneda"
+        },
+        {
+          "id": "ST21-012~ja",
+          "language": "ja",
+          "set": "ST21",
+          "rarity": "C",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/ST21-012.png",
+          "cardSet": "スタートデッキEX ギア5【ST-21】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "ST21-012_p1~ja",
+          "language": "ja",
+          "set": "ST21",
+          "rarity": "C",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/ST21-012_p1.png",
+          "cardSet": "スタートデッキEX ギア5【ST-21】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "ST21-013",
       "name": "Vegapunk",
+      "names": {
+        "en": "Vegapunk",
+        "ja": "ベガパンク"
+      },
       "category": "Character",
       "cost": 1,
       "power": 3000,
@@ -1126,12 +1555,42 @@
             "parallel"
           ],
           "artist": "kankurou"
+        },
+        {
+          "id": "ST21-013~ja",
+          "language": "ja",
+          "set": "ST21",
+          "rarity": "C",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/ST21-013.png",
+          "cardSet": "スタートデッキEX ギア5【ST-21】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "ST21-013_p1~ja",
+          "language": "ja",
+          "set": "ST21",
+          "rarity": "C",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/ST21-013_p1.png",
+          "cardSet": "スタートデッキEX ギア5【ST-21】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "ST21-014",
       "name": "Monkey.D.Luffy",
+      "names": {
+        "en": "Monkey.D.Luffy",
+        "ja": "モンキー・D・ルフィ"
+      },
       "category": "Character",
       "cost": 5,
       "power": 6000,
@@ -1244,12 +1703,52 @@
               "category": "retail"
             }
           ]
+        },
+        {
+          "id": "ST21-014~ja",
+          "language": "ja",
+          "set": "ST21",
+          "rarity": "SR",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/ST21-014.png",
+          "cardSet": "スタートデッキEX ギア5【ST-21】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "ST21-014_p1~ja",
+          "language": "ja",
+          "set": "ST21",
+          "rarity": "SR",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/ST21-014_p1.png",
+          "cardSet": "スタートデッキEX ギア5【ST-21】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "ST21-014_p2~ja",
+          "language": "ja",
+          "set": "P",
+          "rarity": "SR",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/ST21-014_p2.png",
+          "cardSet": "ONE PIECE magazine 特集 週刊少年ジャンプとONE PIECE 020​ 付録",
+          "source": "bandai"
         }
       ]
     },
     {
       "number": "ST21-015",
       "name": "Roronoa Zoro",
+      "names": {
+        "en": "Roronoa Zoro",
+        "ja": "ロロノア・ゾロ"
+      },
       "category": "Character",
       "cost": 4,
       "power": 5000,
@@ -1364,12 +1863,42 @@
           "finishes": [
             "nonfoil"
           ]
+        },
+        {
+          "id": "ST21-015~ja",
+          "language": "ja",
+          "set": "ST21",
+          "rarity": "SR",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/ST21-015.png",
+          "cardSet": "スタートデッキEX ギア5【ST-21】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "ST21-015_p1~ja",
+          "language": "ja",
+          "set": "ST21",
+          "rarity": "SR",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/ST21-015_p1.png",
+          "cardSet": "スタートデッキEX ギア5【ST-21】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "ST21-016",
       "name": "Gum-Gum Dawn Whip",
+      "names": {
+        "en": "Gum-Gum Dawn Whip",
+        "ja": "ゴムゴムの白い鞭"
+      },
       "category": "Event",
       "cost": 2,
       "colors": [
@@ -1401,12 +1930,29 @@
             "match": "image-only-candidate",
             "distance": 5
           }
+        },
+        {
+          "id": "ST21-016~ja",
+          "language": "ja",
+          "set": "ST21",
+          "rarity": "C",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/ST21-016.png",
+          "cardSet": "スタートデッキEX ギア5【ST-21】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "ST21-017",
       "name": "Gum-Gum Mole Pistol",
+      "names": {
+        "en": "Gum-Gum Mole Pistol",
+        "ja": "ゴムゴムのモグラ銃"
+      },
       "category": "Event",
       "cost": 4,
       "colors": [
@@ -1550,6 +2096,29 @@
               "category": "placement"
             }
           ]
+        },
+        {
+          "id": "ST21-017~ja",
+          "language": "ja",
+          "set": "ST21",
+          "rarity": "C",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/ST21-017.png",
+          "cardSet": "スタートデッキEX ギア5【ST-21】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "ST21-017_p1~ja",
+          "language": "ja",
+          "set": "OTHER",
+          "rarity": "C",
+          "block": "3",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/ST21-017_p1.png",
+          "cardSet": "プレミアムカードコレクション - ベストセレクション vol.5 -",
+          "source": "bandai"
         }
       ]
     }

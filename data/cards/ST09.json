@@ -3,6 +3,10 @@
     {
       "number": "ST09-001",
       "name": "Yamato",
+      "names": {
+        "en": "Yamato",
+        "ja": "ヤマト"
+      },
       "category": "Leader",
       "power": 5000,
       "life": 5,
@@ -38,12 +42,29 @@
             "distance": 6
           },
           "artist": "NIJIMAARC"
+        },
+        {
+          "id": "ST09-001~ja",
+          "language": "ja",
+          "set": "ST09",
+          "rarity": "L",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/ST09-001.png",
+          "cardSet": "Side ヤマト【ST-09】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "ST09-002",
       "name": "Uzuki Tempura",
+      "names": {
+        "en": "Uzuki Tempura",
+        "ja": "雨月天ぷら"
+      },
       "category": "Character",
       "cost": 4,
       "power": 5000,
@@ -80,12 +101,29 @@
             "distance": 8
           },
           "artist": "Studio Vigor Co. Ltd"
+        },
+        {
+          "id": "ST09-002~ja",
+          "language": "ja",
+          "set": "ST09",
+          "rarity": "C",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/ST09-002.png",
+          "cardSet": "Side ヤマト【ST-09】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "ST09-003",
       "name": "Ulti",
+      "names": {
+        "en": "Ulti",
+        "ja": "うるティ"
+      },
       "category": "Character",
       "cost": 4,
       "power": 6000,
@@ -122,12 +160,29 @@
             "distance": 12
           },
           "artist": "Sunohara"
+        },
+        {
+          "id": "ST09-003~ja",
+          "language": "ja",
+          "set": "ST09",
+          "rarity": "C",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/ST09-003.png",
+          "cardSet": "Side ヤマト【ST-09】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "ST09-004",
       "name": "Kaido",
+      "names": {
+        "en": "Kaido",
+        "ja": "カイドウ"
+      },
       "category": "Character",
       "cost": 4,
       "power": 5000,
@@ -165,12 +220,29 @@
             "distance": 8
           },
           "artist": "Ryuda"
+        },
+        {
+          "id": "ST09-004~ja",
+          "language": "ja",
+          "set": "ST09",
+          "rarity": "C",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/ST09-004.png",
+          "cardSet": "Side ヤマト【ST-09】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "ST09-005",
       "name": "Kouzuki Oden",
+      "names": {
+        "en": "Kouzuki Oden",
+        "ja": "光月おでん"
+      },
       "category": "Character",
       "cost": 7,
       "power": 7000,
@@ -207,12 +279,29 @@
             "distance": 3
           },
           "artist": "Makitoshi"
+        },
+        {
+          "id": "ST09-005~ja",
+          "language": "ja",
+          "set": "ST09",
+          "rarity": "SR",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/ST09-005.png",
+          "cardSet": "Side ヤマト【ST-09】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "ST09-006",
       "name": "Kouzuki Momonosuke",
+      "names": {
+        "en": "Kouzuki Momonosuke",
+        "ja": "光月モモの助"
+      },
       "category": "Character",
       "cost": 2,
       "power": 4000,
@@ -250,12 +339,29 @@
             "distance": 3
           },
           "artist": "KISUKE"
+        },
+        {
+          "id": "ST09-006~ja",
+          "language": "ja",
+          "set": "ST09",
+          "rarity": "C",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/ST09-006.png",
+          "cardSet": "Side ヤマト【ST-09】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "ST09-007",
       "name": "Shinobu",
+      "names": {
+        "en": "Shinobu",
+        "ja": "しのぶ"
+      },
       "category": "Character",
       "cost": 3,
       "power": 2000,
@@ -291,12 +397,29 @@
             "distance": 6
           },
           "artist": "Sunohara"
+        },
+        {
+          "id": "ST09-007~ja",
+          "language": "ja",
+          "set": "ST09",
+          "rarity": "C",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/ST09-007.png",
+          "cardSet": "Side ヤマト【ST-09】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "ST09-008",
       "name": "Shimotsuki Ushimaru",
+      "names": {
+        "en": "Shimotsuki Ushimaru",
+        "ja": "霜月牛マル"
+      },
       "category": "Character",
       "cost": 5,
       "power": 6000,
@@ -332,12 +455,29 @@
             "distance": 14
           },
           "artist": "Studio Vigor Co. Ltd"
+        },
+        {
+          "id": "ST09-008~ja",
+          "language": "ja",
+          "set": "ST09",
+          "rarity": "C",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/ST09-008.png",
+          "cardSet": "Side ヤマト【ST-09】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "ST09-009",
       "name": "Fugetsu Omusubi",
+      "names": {
+        "en": "Fugetsu Omusubi",
+        "ja": "風月おむすび"
+      },
       "category": "Character",
       "cost": 3,
       "power": 4000,
@@ -374,12 +514,29 @@
             "distance": 5
           },
           "artist": "Studio Vigor Co. Ltd"
+        },
+        {
+          "id": "ST09-009~ja",
+          "language": "ja",
+          "set": "ST09",
+          "rarity": "C",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/ST09-009.png",
+          "cardSet": "Side ヤマト【ST-09】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "ST09-010",
       "name": "Portgas.D.Ace",
+      "names": {
+        "en": "Portgas.D.Ace",
+        "ja": "ポートガス・D・エース"
+      },
       "category": "Character",
       "cost": 6,
       "power": 7000,
@@ -416,12 +573,29 @@
             "distance": 5
           },
           "artist": "Studio Vigor Co. Ltd"
+        },
+        {
+          "id": "ST09-010~ja",
+          "language": "ja",
+          "set": "ST09",
+          "rarity": "SR",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/ST09-010.png",
+          "cardSet": "Side ヤマト【ST-09】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "ST09-011",
       "name": "Monkey.D.Luffy",
+      "names": {
+        "en": "Monkey.D.Luffy",
+        "ja": "モンキー・D・ルフィ"
+      },
       "category": "Character",
       "cost": 3,
       "power": 5000,
@@ -459,12 +633,29 @@
             "distance": 5
           },
           "artist": "Misa Matoki"
+        },
+        {
+          "id": "ST09-011~ja",
+          "language": "ja",
+          "set": "ST09",
+          "rarity": "C",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/ST09-011.png",
+          "cardSet": "Side ヤマト【ST-09】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "ST09-012",
       "name": "Yamato",
+      "names": {
+        "en": "Yamato",
+        "ja": "ヤマト"
+      },
       "category": "Character",
       "cost": 3,
       "power": 3000,
@@ -529,12 +720,39 @@
               "category": "retail"
             }
           ]
+        },
+        {
+          "id": "ST09-012~ja",
+          "language": "ja",
+          "set": "ST09",
+          "rarity": "C",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/ST09-012.png",
+          "cardSet": "Side ヤマト【ST-09】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
+        },
+        {
+          "id": "ST09-012_p1~ja",
+          "language": "ja",
+          "set": "P",
+          "rarity": "C",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/ST09-012_p1.png",
+          "cardSet": "プロモーションカードセット",
+          "source": "bandai"
         }
       ]
     },
     {
       "number": "ST09-013",
       "name": "Yamato",
+      "names": {
+        "en": "Yamato",
+        "ja": "ヤマト"
+      },
       "category": "Character",
       "cost": 5,
       "power": 7000,
@@ -571,12 +789,29 @@
             "distance": 4
           },
           "artist": "Moopic"
+        },
+        {
+          "id": "ST09-013~ja",
+          "language": "ja",
+          "set": "ST09",
+          "rarity": "C",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/ST09-013.png",
+          "cardSet": "Side ヤマト【ST-09】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "ST09-014",
       "name": "Narikabura Arrow",
+      "names": {
+        "en": "Narikabura Arrow",
+        "ja": "鳴鏑"
+      },
       "category": "Event",
       "cost": 1,
       "colors": [
@@ -677,12 +912,65 @@
           "finishes": [
             "nonfoil"
           ]
+        },
+        {
+          "id": "ST09-014~ja",
+          "language": "ja",
+          "set": "ST09",
+          "rarity": "C",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/ST09-014.png",
+          "cardSet": "Side ヤマト【ST-09】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
+        },
+        {
+          "id": "ST09-014_p1~ja",
+          "language": "ja",
+          "set": "PRB01",
+          "rarity": "C",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/ST09-014_p1.png",
+          "cardSet": "ONE PIECE CARD THE BEST【PRB-01】",
+          "source": "bandai"
+        },
+        {
+          "id": "ST09-014_p2~ja",
+          "language": "ja",
+          "set": "PRB01",
+          "rarity": "C",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/ST09-014_p2.png",
+          "cardSet": "ONE PIECE CARD THE BEST【PRB-01】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "ST09-014_r1~ja",
+          "language": "ja",
+          "set": "PRB01",
+          "rarity": "C",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/ST09-014_r1.png",
+          "cardSet": "ONE PIECE CARD THE BEST【PRB-01】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "ST09-015",
       "name": "Thunder Bagua",
+      "names": {
+        "en": "Thunder Bagua",
+        "ja": "雷鳴八卦"
+      },
       "category": "Event",
       "cost": 2,
       "colors": [
@@ -713,6 +1001,19 @@
             "match": "image-only-candidate",
             "distance": 7
           }
+        },
+        {
+          "id": "ST09-015~ja",
+          "language": "ja",
+          "set": "ST09",
+          "rarity": "C",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/ST09-015.png",
+          "cardSet": "Side ヤマト【ST-09】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     }

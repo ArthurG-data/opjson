@@ -3,6 +3,10 @@
     {
       "number": "ST04-001",
       "name": "Kaido",
+      "names": {
+        "en": "Kaido",
+        "ja": "カイドウ"
+      },
       "category": "Leader",
       "power": 5000,
       "life": 5,
@@ -112,12 +116,29 @@
             "foil",
             "nonfoil"
           ]
+        },
+        {
+          "id": "ST04-001~ja",
+          "language": "ja",
+          "set": "ST04",
+          "rarity": "L",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/ST04-001.png",
+          "cardSet": "百獣海賊団【ST-04】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "ST04-002",
       "name": "Ulti",
+      "names": {
+        "en": "Ulti",
+        "ja": "うるティ"
+      },
       "category": "Character",
       "cost": 4,
       "power": 5000,
@@ -230,12 +251,42 @@
           "finishes": [
             "nonfoil"
           ]
+        },
+        {
+          "id": "ST04-002~ja",
+          "language": "ja",
+          "set": "ST04",
+          "rarity": "C",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/ST04-002.png",
+          "cardSet": "百獣海賊団【ST-04】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
+        },
+        {
+          "id": "ST04-002_p1~ja",
+          "language": "ja",
+          "set": "OTHER",
+          "rarity": "C",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/ST04-002_p1.png",
+          "cardSet": "プレミアムカードコレクション-ベストセレクションvol.3-",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "ST04-003",
       "name": "Kaido",
+      "names": {
+        "en": "Kaido",
+        "ja": "カイドウ"
+      },
       "category": "Character",
       "cost": 9,
       "power": 10000,
@@ -547,12 +598,86 @@
             "foil",
             "nonfoil"
           ]
+        },
+        {
+          "id": "ST04-003~ja",
+          "language": "ja",
+          "set": "ST04",
+          "rarity": "SR",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/ST04-003.png",
+          "cardSet": "百獣海賊団【ST-04】",
+          "source": "bandai",
+          "finishes": [
+            "foil",
+            "nonfoil"
+          ]
+        },
+        {
+          "id": "ST04-003_p1~ja",
+          "language": "ja",
+          "set": "OP03",
+          "rarity": "SP CARD",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/ST04-003_p1.png",
+          "cardSet": "強大な敵【OP-03】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "ST04-003_p3~ja",
+          "language": "ja",
+          "set": "P",
+          "rarity": "SR",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/ST04-003_p3.png",
+          "cardSet": "スタンダードバトルパックVol.5",
+          "source": "bandai"
+        },
+        {
+          "id": "ST04-003_p4~ja",
+          "language": "ja",
+          "set": "PRB01",
+          "rarity": "SR",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/ST04-003_p4.png",
+          "cardSet": "ONE PIECE CARD THE BEST【PRB-01】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "ST04-003_p5~ja",
+          "language": "ja",
+          "set": "P",
+          "rarity": "SR",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/ST04-003_p5.png",
+          "cardSet": "プロモーションパックEX Vol.2",
+          "source": "bandai"
+        },
+        {
+          "id": "ST04-003_r1~ja",
+          "language": "ja",
+          "set": "PRB01",
+          "rarity": "SR",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/ST04-003_r1.png",
+          "cardSet": "ONE PIECE CARD THE BEST【PRB-01】",
+          "source": "bandai"
         }
       ]
     },
     {
       "number": "ST04-004",
       "name": "King",
+      "names": {
+        "en": "King",
+        "ja": "キング"
+      },
       "category": "Character",
       "cost": 6,
       "power": 7000,
@@ -636,12 +761,29 @@
             "foil",
             "nonfoil"
           ]
+        },
+        {
+          "id": "ST04-004~ja",
+          "language": "ja",
+          "set": "ST04",
+          "rarity": "SR",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/ST04-004.png",
+          "cardSet": "百獣海賊団【ST-04】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "ST04-005",
       "name": "Queen",
+      "names": {
+        "en": "Queen",
+        "ja": "クイーン"
+      },
       "category": "Character",
       "cost": 5,
       "power": 6000,
@@ -849,12 +991,85 @@
               "category": "championship"
             }
           ]
+        },
+        {
+          "id": "ST04-005~ja",
+          "language": "ja",
+          "set": "ST04",
+          "rarity": "C",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/ST04-005.png",
+          "cardSet": "百獣海賊団【ST-04】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
+        },
+        {
+          "id": "ST04-005_p2~ja",
+          "language": "ja",
+          "set": "P",
+          "rarity": "C",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/ST04-005_p2.png",
+          "cardSet": "フラッグシップバトル2023 4月ベスト8記念品",
+          "source": "bandai"
+        },
+        {
+          "id": "ST04-005_p3~ja",
+          "language": "ja",
+          "set": "OP08",
+          "rarity": "SP CARD",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/ST04-005_p3.png",
+          "cardSet": "ブースターパック 二つの伝説【OP-08】",
+          "source": "bandai"
+        },
+        {
+          "id": "ST04-005_p4~ja",
+          "language": "ja",
+          "set": "PRB01",
+          "rarity": "C",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/ST04-005_p4.png",
+          "cardSet": "ONE PIECE CARD THE BEST【PRB-01】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "ST04-005_p5~ja",
+          "language": "ja",
+          "set": "PRB01",
+          "rarity": "C",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/ST04-005_p5.png",
+          "cardSet": "ONE PIECE CARD THE BEST【PRB-01】",
+          "source": "bandai"
+        },
+        {
+          "id": "ST04-005_r1~ja",
+          "language": "ja",
+          "set": "PRB01",
+          "rarity": "C",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/ST04-005_r1.png",
+          "cardSet": "ONE PIECE CARD THE BEST【PRB-01】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "ST04-006",
       "name": "Sasaki",
+      "names": {
+        "en": "Sasaki",
+        "ja": "ササキ"
+      },
       "category": "Character",
       "cost": 3,
       "power": 4000,
@@ -917,12 +1132,29 @@
               "category": "event"
             }
           ]
+        },
+        {
+          "id": "ST04-006~ja",
+          "language": "ja",
+          "set": "ST04",
+          "rarity": "C",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/ST04-006.png",
+          "cardSet": "百獣海賊団【ST-04】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "ST04-007",
       "name": "Sheepshead",
+      "names": {
+        "en": "Sheepshead",
+        "ja": "シープスヘッド"
+      },
       "category": "Character",
       "cost": 2,
       "power": 4000,
@@ -986,12 +1218,29 @@
               "category": "event"
             }
           ]
+        },
+        {
+          "id": "ST04-007~ja",
+          "language": "ja",
+          "set": "ST04",
+          "rarity": "C",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/ST04-007.png",
+          "cardSet": "百獣海賊団【ST-04】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "ST04-008",
       "name": "Jack",
+      "names": {
+        "en": "Jack",
+        "ja": "ジャック"
+      },
       "category": "Character",
       "cost": 3,
       "power": 4000,
@@ -1285,12 +1534,42 @@
           "finishes": [
             "nonfoil"
           ]
+        },
+        {
+          "id": "ST04-008~ja",
+          "language": "ja",
+          "set": "ST04",
+          "rarity": "C",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/ST04-008.png",
+          "cardSet": "百獣海賊団【ST-04】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
+        },
+        {
+          "id": "ST04-008_p1~ja",
+          "language": "ja",
+          "set": "P",
+          "rarity": "C",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/ST04-008_p1.png",
+          "cardSet": "ONE PIECEカードゲーム プロモーションパックVol.3",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
         }
       ]
     },
     {
       "number": "ST04-009",
       "name": "Ginrummy",
+      "names": {
+        "en": "Ginrummy",
+        "ja": "ジンラミー"
+      },
       "category": "Character",
       "cost": 1,
       "power": 3000,
@@ -1354,12 +1633,29 @@
               "category": "event"
             }
           ]
+        },
+        {
+          "id": "ST04-009~ja",
+          "language": "ja",
+          "set": "ST04",
+          "rarity": "C",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/ST04-009.png",
+          "cardSet": "百獣海賊団【ST-04】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "ST04-010",
       "name": "Who's.Who",
+      "names": {
+        "en": "Who's.Who",
+        "ja": "フーズ・フー"
+      },
       "category": "Character",
       "cost": 3,
       "power": 3000,
@@ -1531,12 +1827,42 @@
           "finishes": [
             "nonfoil"
           ]
+        },
+        {
+          "id": "ST04-010~ja",
+          "language": "ja",
+          "set": "ST04",
+          "rarity": "C",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/ST04-010.png",
+          "cardSet": "百獣海賊団【ST-04】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
+        },
+        {
+          "id": "ST04-010_p1~ja",
+          "language": "ja",
+          "set": "P",
+          "rarity": "C",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/ST04-010_p1.png",
+          "cardSet": "スタンダードバトルパック2022 Vol.2",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "ST04-011",
       "name": "Black Maria",
+      "names": {
+        "en": "Black Maria",
+        "ja": "ブラックマリア"
+      },
       "category": "Character",
       "cost": 2,
       "power": 2000,
@@ -1721,12 +2047,52 @@
               "category": "retail"
             }
           ]
+        },
+        {
+          "id": "ST04-011~ja",
+          "language": "ja",
+          "set": "ST04",
+          "rarity": "C",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/ST04-011.png",
+          "cardSet": "百獣海賊団【ST-04】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
+        },
+        {
+          "id": "ST04-011_p1~ja",
+          "language": "ja",
+          "set": "P",
+          "rarity": "C",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/ST04-011_p1.png",
+          "cardSet": "スタンダードバトルパック2022 Vol.1",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
+        },
+        {
+          "id": "ST04-011_p3~ja",
+          "language": "ja",
+          "set": "P",
+          "rarity": "C",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/ST04-011_p3.png",
+          "cardSet": "ジャンプGIGA 2023 SPRING 応募者全員サービス",
+          "source": "bandai"
         }
       ]
     },
     {
       "number": "ST04-012",
       "name": "Page One",
+      "names": {
+        "en": "Page One",
+        "ja": "ページワン"
+      },
       "category": "Character",
       "cost": 4,
       "power": 6000,
@@ -1789,12 +2155,29 @@
               "category": "event"
             }
           ]
+        },
+        {
+          "id": "ST04-012~ja",
+          "language": "ja",
+          "set": "ST04",
+          "rarity": "C",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/ST04-012.png",
+          "cardSet": "百獣海賊団【ST-04】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "ST04-013",
       "name": "X.Drake",
+      "names": {
+        "en": "X.Drake",
+        "ja": "X・ドレーク"
+      },
       "category": "Character",
       "cost": 3,
       "power": 5000,
@@ -1859,12 +2242,29 @@
               "category": "event"
             }
           ]
+        },
+        {
+          "id": "ST04-013~ja",
+          "language": "ja",
+          "set": "ST04",
+          "rarity": "C",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/ST04-013.png",
+          "cardSet": "百獣海賊団【ST-04】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "ST04-014",
       "name": "Lead Performer \"Disaster\"",
+      "names": {
+        "en": "Lead Performer \"Disaster\"",
+        "ja": "大看板”災害”"
+      },
       "category": "Event",
       "cost": 4,
       "colors": [
@@ -1943,12 +2343,29 @@
           "finishes": [
             "nonfoil"
           ]
+        },
+        {
+          "id": "ST04-014~ja",
+          "language": "ja",
+          "set": "ST04",
+          "rarity": "C",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/ST04-014.png",
+          "cardSet": "百獣海賊団【ST-04】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "ST04-015",
       "name": "Brachio Bomber",
+      "names": {
+        "en": "Brachio Bomber",
+        "ja": "無頼男爆弾"
+      },
       "category": "Event",
       "cost": 6,
       "colors": [
@@ -2027,12 +2444,29 @@
           "finishes": [
             "nonfoil"
           ]
+        },
+        {
+          "id": "ST04-015~ja",
+          "language": "ja",
+          "set": "ST04",
+          "rarity": "C",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/ST04-015.png",
+          "cardSet": "百獣海賊団【ST-04】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "ST04-016",
       "name": "Blast Breath",
+      "names": {
+        "en": "Blast Breath",
+        "ja": "熱息"
+      },
       "category": "Event",
       "cost": 1,
       "colors": [
@@ -2210,12 +2644,75 @@
           "finishes": [
             "nonfoil"
           ]
+        },
+        {
+          "id": "ST04-016~ja",
+          "language": "ja",
+          "set": "ST04",
+          "rarity": "C",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/ST04-016.png",
+          "cardSet": "百獣海賊団【ST-04】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
+        },
+        {
+          "id": "ST04-016_p2~ja",
+          "language": "ja",
+          "set": "OTHER",
+          "rarity": "C",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/ST04-016_p2.png",
+          "cardSet": "プレミアムカードコレクション - ベストセレクションvol.1 -",
+          "source": "bandai"
+        },
+        {
+          "id": "ST04-016_p3~ja",
+          "language": "ja",
+          "set": "PRB01",
+          "rarity": "C",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/ST04-016_p3.png",
+          "cardSet": "ONE PIECE CARD THE BEST【PRB-01】",
+          "source": "bandai",
+          "finishes": [
+            "foil"
+          ]
+        },
+        {
+          "id": "ST04-016_p4~ja",
+          "language": "ja",
+          "set": "PRB01",
+          "rarity": "C",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/ST04-016_p4.png",
+          "cardSet": "ONE PIECE CARD THE BEST【PRB-01】",
+          "source": "bandai"
+        },
+        {
+          "id": "ST04-016_r1~ja",
+          "language": "ja",
+          "set": "PRB01",
+          "rarity": "C",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/ST04-016_r1.png",
+          "cardSet": "ONE PIECE CARD THE BEST【PRB-01】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
         }
       ]
     },
     {
       "number": "ST04-017",
       "name": "Onigashima Island",
+      "names": {
+        "en": "Onigashima Island",
+        "ja": "鬼ヶ島"
+      },
       "category": "Stage",
       "cost": 3,
       "colors": [
@@ -2320,6 +2817,29 @@
           "finishes": [
             "nonfoil"
           ]
+        },
+        {
+          "id": "ST04-017~ja",
+          "language": "ja",
+          "set": "ST04",
+          "rarity": "C",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/ST04-017.png",
+          "cardSet": "百獣海賊団【ST-04】",
+          "source": "bandai",
+          "finishes": [
+            "nonfoil"
+          ]
+        },
+        {
+          "id": "ST04-017_p1~ja",
+          "language": "ja",
+          "set": "OTHER",
+          "rarity": "C",
+          "block": "1",
+          "image": "https://www.onepiece-cardgame.com/images/cardlist/card/ST04-017_p1.png",
+          "cardSet": "プレミアムカードコレクション - ベストセレクションvol.2 -",
+          "source": "bandai"
         }
       ]
     }

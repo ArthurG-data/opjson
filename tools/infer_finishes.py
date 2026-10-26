@@ -2,8 +2,9 @@
 
     uv run python tools/infer_finishes.py
 
-`finishes` come from TCGplayer's price subtypes (import_tcgplayer.py), so a printing TCGplayer does not sell or
-price has none. A rule here fills that gap only for a kind of printing whose priced copies all share one finish.
+`finishes` come from TCGplayer's price subtypes (import_tcgplayer.py, which keeps every one it has seen in
+data/tcgplayer_finishes.json), so a printing TCGplayer does not sell or has never priced has none. A rule here
+fills that gap only for a kind of printing whose priced copies all share one finish.
 Each run checks this first: if any priced printing of the kind disagrees, the tool stops and changes nothing.
 Run after import_tcgplayer.py, which clears every finish before it writes TCGplayer's again. A printing this tool
 fills is listed in review/inferred-finishes.json.

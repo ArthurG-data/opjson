@@ -97,7 +97,9 @@ The formats are `schema/sets.schema.json`, `schema/cards.schema.json` and `schem
   gold or serial.
 - **`promoTypes`** are the programs a printing comes from, each with a `category` (event, championship, retail,
   foil-pattern and so on).
-- **`finishes`** are nonfoil and/or foil, from TCGplayer's price subtypes. A printing TCGplayer does not price
+- **`finishes`** are nonfoil and/or foil, from TCGplayer's price subtypes. TCGplayer drops a subtype's price row
+  while it has no price, so `data/tcgplayer_finishes.json` records every finish TCGplayer has priced for each
+  product, and a finish stays once seen. A printing TCGplayer has never priced
   gets a finish only from a rule in `tools/infer_finishes.py`, which applies to a kind of printing only while
   every priced printing of that kind agrees. Today the one rule makes a Bandai reprint (`_rN`) of a Common or
   Uncommon with no art treatment nonfoil. `review/inferred-finishes.json` lists each printing a rule filled, and
@@ -308,7 +310,9 @@ uv run python tools/build.py --version 0.2.4         # dist/AllSets, AllCards, A
 ```
 
 The pages and images the tools download are cached under `.cache/`, which is never committed. A rebuild reads the
-cache and does not crawl again unless a tool is given `--refresh`.
+cache and does not crawl again unless a tool is given `--refresh`. To take a newer TCGCSV snapshot, move
+`.cache/tcgcsv` aside and rebuild. `data/tcgplayer_finishes.json` is committed: `import_tcgplayer.py` adds the
+snapshot's finishes to it and never removes one.
 
 `validate.py` checks every file against its schema, every id and reference, and that no TCGplayer product sits
 on two printings. `--online` also asks TCGCSV whether every TCGplayer product id still exists in category 68.

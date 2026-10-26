@@ -419,3 +419,19 @@ def test_a_tag_naming_one_bandai_card_set_settles_identical_art():
     assert it.card_set_pick(chopper, list(sets), sets.get) == "OP07-066_p1"
     plain = product(2, "Tony Tony.Chopper (Parallel)", "OP07-066")
     assert it.card_set_pick(plain, list(sets), sets.get) is None
+
+
+def test_a_finish_stays_once_tcgplayer_has_priced_it():
+    recorded = {"561172": ["foil"], "516901": ["nonfoil"]}
+    rows = [{"productId": 516901, "subTypeName": "Foil"}, {"productId": 725853, "subTypeName": "Normal"}]
+    found = it.product_finishes(recorded, rows)
+    assert found[561172] == {"foil"}  # no price row today: the recorded finish stays
+    assert found[516901] == {"nonfoil", "foil"}  # today's row adds to the record
+    assert found[725853] == {"nonfoil"}  # a product the record has not seen
+
+
+def test_the_finish_record_lists_one_product_per_line_and_reads_back():
+    finishes = {725853: {"nonfoil"}, 2: {"nonfoil", "foil"}, 3: set()}
+    text = it.finish_record_text(finishes)
+    assert text == '{\n  "2": ["foil", "nonfoil"],\n  "725853": ["nonfoil"]\n}\n'
+    assert it.product_finishes(json.loads(text), []) == {2: {"foil", "nonfoil"}, 725853: {"nonfoil"}}

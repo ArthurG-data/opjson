@@ -44,6 +44,7 @@ import collections
 import itertools
 import json
 import re
+from collections.abc import Iterable
 from dataclasses import dataclass
 from pathlib import Path
 
@@ -56,6 +57,8 @@ SETS = ROOT / "sets" / "sets.json"
 TAGS = ROOT / "mappings" / "tcgplayer_tags.json"
 REVIEW = ROOT / "review" / "tcgplayer-68.json"
 CACHE = ROOT / ".cache" / "tcgcsv"
+# Every finish TCGplayer has priced for each product, across runs. See product_finishes.
+FINISH_RECORD = ROOT / "data" / "tcgplayer_finishes.json"
 
 # Hash distances are out of 256 bits. Matching scans differ by under 10; different art by over 60.
 ACCEPT = 28
@@ -498,10 +501,8 @@ def main() -> None:
                                "reason": "TCGplayer's Number is not a card number"})
                 continue
             singles.append((g, p))
-    finishes: dict[int, set[str]] = collections.defaultdict(set)
-    for g in groups:
-        for row in tcgcsv.prices(g["groupId"], CACHE):
-            finishes[row["productId"]].add(FINISHES[row["subTypeName"]])
+    recorded = json.loads(FINISH_RECORD.read_text(encoding="utf-8")) if FINISH_RECORD.exists() else {}
+    finishes = product_finishes(recorded, (row for g in groups for row in tcgcsv.prices(g["groupId"], CACHE)))
 
     # Pass 1: products in a Bandai set's own group.
     clusters = collections.defaultdict(list)
@@ -739,6 +740,7 @@ def main() -> None:
         card["printings"].append({k: v for k, v in printing.items() if v is not None})
 
     _write(files, sets, roles, groups)
+    FINISH_RECORD.write_text(finish_record_text(finishes), encoding="utf-8")
     REVIEW.parent.mkdir(parents=True, exist_ok=True)
     REVIEW.write_text(json.dumps({"unmatched": review, "pending": pending}, indent=2, ensure_ascii=False) + "\n",
                       encoding="utf-8")
@@ -748,6 +750,26 @@ def main() -> None:
           f"pending {len(pending)}, moved {len(moves)}")
     for move in moves:
         print("moved:", move)
+
+
+def product_finishes(recorded: dict[str, list[str]], rows: Iterable[dict]) -> dict[int, set[str]]:
+    """Each product's finishes: those an earlier run recorded, plus one for each of today's price rows.
+
+    TCGplayer lists a price row for a finish only while that finish has a price. A row that leaves the feed means
+    no recent price, not that the card lacks the finish, so today's rows add finishes and never remove one.
+    """
+    finishes: dict[int, set[str]] = collections.defaultdict(set)
+    for product_id, found in recorded.items():
+        finishes[int(product_id)].update(found)
+    for row in rows:
+        finishes[row["productId"]].add(FINISHES[row["subTypeName"]])
+    return finishes
+
+
+def finish_record_text(finishes: dict[int, set[str]]) -> str:
+    """FINISH_RECORD's contents: one product per line, by product id, so a diff shows each product that changed."""
+    lines = [f'  "{pid}": {json.dumps(sorted(found))}' for pid, found in sorted(finishes.items()) if found]
+    return "{\n" + ",\n".join(lines) + "\n}\n"
 
 
 def _add_finishes(printing: dict, found: set[str]) -> None:

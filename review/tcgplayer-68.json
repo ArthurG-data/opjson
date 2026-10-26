@@ -908,7 +908,7 @@
     },
     {
       "productId": 723138,
-      "name": "Perona - OP14-033 (Alternate Art)",
+      "name": "Perona - OP14-033 (SP)",
       "set": "EB05",
       "number": "OP14-033",
       "reason": "no Bandai printing of this number in its set matches the image",
@@ -924,7 +924,7 @@
     },
     {
       "productId": 723146,
-      "name": "Gerd - OP17-081",
+      "name": "Gerd - OP17-081 (SP)",
       "set": "EB05",
       "number": "OP17-081",
       "reason": "no Bandai printing of this number in its set matches the image",
@@ -935,14 +935,6 @@
       "name": "Charlotte Pudding (OP17-109) (SP)",
       "set": "EB05",
       "number": "OP17-109",
-      "reason": "no Bandai printing of this number in its set matches the image",
-      "closest": []
-    },
-    {
-      "productId": 722714,
-      "name": "Mr.9 & Ms. Wednesday",
-      "set": "EB05",
-      "number": "OP18-055",
       "reason": "no Bandai printing of this number in its set matches the image",
       "closest": []
     },
@@ -1211,6 +1203,12 @@
       "number": "OP18-017"
     },
     {
+      "productId": 722714,
+      "name": "Mr.9 & Ms. Wednesday",
+      "set": "OP18",
+      "number": "OP18-055"
+    },
+    {
       "productId": 722777,
       "name": "Sodomu & Gomora",
       "set": "OP18",
@@ -1299,6 +1297,12 @@
       "name": "Funkfreed",
       "set": "OP18",
       "number": "OP18-108"
+    },
+    {
+      "productId": 725442,
+      "name": "Pell",
+      "set": "OP18",
+      "number": "OP18-013"
     }
   ]
 }

@@ -7,7 +7,9 @@ Contents are written only where a source states them:
 - a booster pack's `pool` is its set (the cards it can hold, with no odds);
 - a deck lists the printings Bandai's card list files under the deck's series, without counts, because
   the card list gives no quantities;
-- a display or case names the product it holds, without a count, because no source in reach gives one.
+- a dedicated TCGplayer deck set lists its English printings when the product names that exact deck set;
+- a booster box names its matching unsleeved pack; displays and cases name the product they hold,
+  without counts, because no source in reach gives them.
 So `contentsStatus` is `partial` or `unknown`, never `complete`, until a contents source is added.
 
 Products TCGplayer does not sell (the Tournament Kits Bandai supplies to stores) come from
@@ -85,6 +87,14 @@ def main() -> None:
     for pid, p in flat["printings"].items():
         if p["source"] == "bandai" and opjson.language(p) == "en":
             printings_in_set[p["set"]].append(pid)
+    # TCGplayer-only deck series have no Bandai printings. Use their own English cards only for
+    # the product that names that dedicated deck, never for a collection or an unrelated demo deck.
+    tcg_decks = {s["id"]: s for s in sets
+                 if s.get("source") == "tcgplayer" and s["type"] in ("starter_deck", "ultra_deck")}
+    tcg_deck_printings = collections.defaultdict(list)
+    for pid, p in flat["printings"].items():
+        if p["source"] == "tcgplayer" and opjson.language(p) == "en" and p["set"] in tcg_decks:
+            tcg_deck_printings[p["set"]].append(pid)
     groups = tcgcsv.groups(CACHE)
     roles = group_roles(groups, set_ids)
     by_set: dict[str, list[dict]] = collections.defaultdict(list)
@@ -110,6 +120,14 @@ def main() -> None:
             if category in ("starter_deck", "ultra_deck") and printings_in_set.get(role["set"]):
                 product["contents"]["cards"] = [{"printing": pid} for pid in sorted(printings_in_set[role["set"]])]
                 product["contentsStatus"] = "partial"
+            elif category in ("starter_deck", "ultra_deck") and tcg_deck_printings.get(role["set"]):
+                release = next((r for r in tcg_decks[role["set"]]["releases"]
+                                if r["language"] == "en" and r["name"].casefold() == p.name.casefold()), None)
+                if release:
+                    product["contents"]["cards"] = [
+                        {"printing": pid} for pid in sorted(tcg_deck_printings[role["set"]])]
+                    product["contentsStatus"] = "partial"
+                    product["sources"].append(release["source"])
             by_set[role["set"]].append(product)
     for products in by_set.values():
         products.sort(key=lambda x: x["id"])
@@ -132,11 +150,21 @@ def main() -> None:
 
 
 def _link_containers(by_set: dict[str, list[dict]]) -> None:
-    """A display or case names the product it holds when exactly one product in its set has the same name
+    """A booster box names an unsleeved pack only on an unambiguous name match within its set.
+    A display or case names the product it holds when exactly one product in its set has the same name
     without the container word. The count stays unstated (see the module docstring)."""
     for products in by_set.values():
         by_name = {p["name"].lower(): p for p in products}
         for p in products:
+            if p["category"] == "booster_box":
+                pack_name = re.sub(r"\bbox$", "Pack", p["name"], flags=re.I)
+                packs = [candidate for candidate in products
+                         if candidate["category"] == "booster_pack"
+                         and candidate["name"].casefold() == pack_name.casefold()]
+                if len(packs) == 1:
+                    p["contents"]["sealed"] = [{"product": packs[0]["id"]}]
+                    p["contentsStatus"] = "partial"
+                continue
             if p["category"] not in ("display", "case"):
                 continue
             inner = re.sub(r"\s*-?\s*(booster box case|box case|display case|display|case|booster case)$", "",

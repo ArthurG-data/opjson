@@ -1,6 +1,68 @@
 {
   "products": [
     {
+      "id": "st26-starter-deck-ja",
+      "set": "ST26",
+      "language": "ja",
+      "category": "starter_deck",
+      "name": "紫黒 モンキー・D・ルフィ",
+      "contentsStatus": "partial",
+      "contents": {
+        "cards": [
+          {
+            "printing": "OP05-065_r1~ja"
+          },
+          {
+            "printing": "OP05-066_r2~ja"
+          },
+          {
+            "printing": "OP05-070_r2~ja"
+          },
+          {
+            "printing": "OP09-061_p2~ja"
+          },
+          {
+            "printing": "OP09-063_r1~ja"
+          },
+          {
+            "printing": "OP09-070_r1~ja"
+          },
+          {
+            "printing": "OP09-076_r1~ja"
+          },
+          {
+            "printing": "OP09-077_r1~ja"
+          },
+          {
+            "printing": "OP09-078_p1~ja"
+          },
+          {
+            "printing": "ST14-010_r1~ja"
+          },
+          {
+            "printing": "ST26-001~ja"
+          },
+          {
+            "printing": "ST26-002~ja"
+          },
+          {
+            "printing": "ST26-003~ja"
+          },
+          {
+            "printing": "ST26-004~ja"
+          },
+          {
+            "printing": "ST26-005~ja"
+          }
+        ]
+      },
+      "sources": [
+        "https://www.onepiece-cardgame.com/products/decks/st26.php",
+        "https://www.onepiece-cardgame.com/cardlist/?series=550026"
+      ],
+      "releaseDate": "2025-06-28"
+    },
+    {
       "id": "starter-deck-26-purple-black-monkey-d-luffy",
       "set": "ST26",
       "category": "starter_deck",

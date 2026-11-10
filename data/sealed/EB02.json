@@ -1,6 +1,26 @@
 {
   "products": [
     {
+      "id": "eb02-booster-pack-ja",
+      "set": "EB02",
+      "language": "ja",
+      "category": "booster_pack",
+      "name": "Anime 25th collection",
+      "contentsStatus": "partial",
+      "contents": {
+        "pool": [
+          {
+            "set": "EB02"
+          }
+        ]
+      },
+      "sources": [
+        "https://www.onepiece-cardgame.com/products/boosters/eb02.php",
+        "https://www.onepiece-cardgame.com/cardlist/?series=550202"
+      ],
+      "releaseDate": "2025-01-25"
+    },
+    {
       "id": "extra-booster-anime-25th-collection-box",
       "set": "EB02",
       "category": "booster_box",

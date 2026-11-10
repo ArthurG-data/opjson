@@ -170,6 +170,8 @@ def validate(sets: list[dict], files: dict[str, dict], sealed: dict[str, dict] |
             errors.append(f"printing {pid}: artOf {art} itself shares another printing's art; name {art_of[art]}")
 
     products = collections.Counter(p["id"] for body in sealed.values() for p in body["products"])
+    printing_languages = {p["id"]: language(p) for body in files.values() for c in body["cards"] for p in c["printings"]}
+    product_languages = {p["id"]: language(p) for body in sealed.values() for p in body["products"]}
     errors += [f"sealed product id {i} is used {n} times" for i, n in products.items() if n > 1]
     for stem, body in sealed.items():
         for p in body["products"]:
@@ -178,6 +180,9 @@ def validate(sets: list[dict], files: dict[str, dict], sealed: dict[str, dict] |
                 errors.append(f"{where}: filed under {stem} but its set is {p['set']}")
             if p["set"] not in set_ids:
                 errors.append(f"{where}: set {p['set']} is not in sets.json")
+            lang = language(p)
+            if p["set"] in releases and lang not in releases[p["set"]]:
+                errors.append(f"{where}: set {p['set']} has no {lang} release")
             for product_id in p.get("identifiers", {}).get("tcgplayerProductIds", []):
                 if product_id in product_owner:
                     errors.append(f"TCGplayer product {product_id} is on {product_owner[product_id]} and {p['id']}")
@@ -186,12 +191,18 @@ def validate(sets: list[dict], files: dict[str, dict], sealed: dict[str, dict] |
             for item in contents.get("sealed", []):
                 if item["product"] not in products or item["product"] == p["id"]:
                     errors.append(f"{where}: holds {item['product']}, which is not another sealed product")
+                elif product_languages[item["product"]] != lang:
+                    errors.append(f"{where}: product {item['product']} has another language")
             for item in contents.get("cards", []):
                 if item["printing"] not in printing_ids:
                     errors.append(f"{where}: holds printing {item['printing']}, which does not exist")
+                elif printing_languages[item["printing"]] != lang:
+                    errors.append(f"{where}: printing {item['printing']} has another language")
             for item in contents.get("pool", []):
                 if item["set"] not in set_ids:
                     errors.append(f"{where}: pool set {item['set']} is not in sets.json")
+                elif lang not in releases[item["set"]]:
+                    errors.append(f"{where}: pool set {item['set']} has no {lang} release")
             if p["contentsStatus"] == "unknown" and any(contents.values()):
                 errors.append(f"{where}: lists contents but says contentsStatus unknown")
             if p["contentsStatus"] == "complete" and any("count" not in i for k in ("sealed", "cards")

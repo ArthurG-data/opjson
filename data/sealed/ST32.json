@@ -1,6 +1,68 @@
 {
   "products": [
     {
+      "id": "st32-starter-deck-ja",
+      "set": "ST32",
+      "language": "ja",
+      "category": "starter_deck",
+      "name": "緑 ロロノア・ゾロ",
+      "contentsStatus": "partial",
+      "contents": {
+        "cards": [
+          {
+            "printing": "OP10-036_r1~ja"
+          },
+          {
+            "printing": "OP12-020_p4~ja"
+          },
+          {
+            "printing": "OP12-023_r1~ja"
+          },
+          {
+            "printing": "OP12-026_r1~ja"
+          },
+          {
+            "printing": "OP12-027_r1~ja"
+          },
+          {
+            "printing": "OP12-028_r1~ja"
+          },
+          {
+            "printing": "OP12-031_r1~ja"
+          },
+          {
+            "printing": "OP12-039_p1~ja"
+          },
+          {
+            "printing": "OP15-036_r1~ja"
+          },
+          {
+            "printing": "ST24-005_r1~ja"
+          },
+          {
+            "printing": "ST32-001~ja"
+          },
+          {
+            "printing": "ST32-002~ja"
+          },
+          {
+            "printing": "ST32-003~ja"
+          },
+          {
+            "printing": "ST32-004~ja"
+          },
+          {
+            "printing": "ST32-005~ja"
+          }
+        ]
+      },
+      "sources": [
+        "https://www.onepiece-cardgame.com/products/st32.html",
+        "https://www.onepiece-cardgame.com/cardlist/?series=550032"
+      ],
+      "releaseDate": "2026-07-11"
+    },
+    {
       "id": "starter-deck-32-green-roronoa-zoro",
       "set": "ST32",
       "category": "starter_deck",

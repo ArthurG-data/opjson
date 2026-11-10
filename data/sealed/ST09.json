@@ -1,6 +1,68 @@
 {
   "products": [
     {
+      "id": "st09-starter-deck-ja",
+      "set": "ST09",
+      "language": "ja",
+      "category": "starter_deck",
+      "name": "Side ヤマト",
+      "contentsStatus": "partial",
+      "contents": {
+        "cards": [
+          {
+            "printing": "ST09-001~ja"
+          },
+          {
+            "printing": "ST09-002~ja"
+          },
+          {
+            "printing": "ST09-003~ja"
+          },
+          {
+            "printing": "ST09-004~ja"
+          },
+          {
+            "printing": "ST09-005~ja"
+          },
+          {
+            "printing": "ST09-006~ja"
+          },
+          {
+            "printing": "ST09-007~ja"
+          },
+          {
+            "printing": "ST09-008~ja"
+          },
+          {
+            "printing": "ST09-009~ja"
+          },
+          {
+            "printing": "ST09-010~ja"
+          },
+          {
+            "printing": "ST09-011~ja"
+          },
+          {
+            "printing": "ST09-012~ja"
+          },
+          {
+            "printing": "ST09-013~ja"
+          },
+          {
+            "printing": "ST09-014~ja"
+          },
+          {
+            "printing": "ST09-015~ja"
+          }
+        ]
+      },
+      "sources": [
+        "https://www.onepiece-cardgame.com/products/decks/st09.php",
+        "https://www.onepiece-cardgame.com/cardlist/?series=550009"
+      ],
+      "releaseDate": "2023-03-25"
+    },
+    {
       "id": "starter-deck-9-yamato",
       "set": "ST09",
       "category": "starter_deck",

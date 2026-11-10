@@ -1,6 +1,68 @@
 {
   "products": [
     {
+      "id": "st27-starter-deck-ja",
+      "set": "ST27",
+      "language": "ja",
+      "category": "starter_deck",
+      "name": "黒 マーシャル・D・ティーチ",
+      "contentsStatus": "partial",
+      "contents": {
+        "cards": [
+          {
+            "printing": "OP09-081_p2~ja"
+          },
+          {
+            "printing": "OP09-083_r1~ja"
+          },
+          {
+            "printing": "OP09-086_r1~ja"
+          },
+          {
+            "printing": "OP09-088_r1~ja"
+          },
+          {
+            "printing": "OP09-089_r1~ja"
+          },
+          {
+            "printing": "OP09-090_r1~ja"
+          },
+          {
+            "printing": "OP09-091_r1~ja"
+          },
+          {
+            "printing": "OP09-095_r1~ja"
+          },
+          {
+            "printing": "OP09-099_r1~ja"
+          },
+          {
+            "printing": "OP10-084_r1~ja"
+          },
+          {
+            "printing": "ST27-001~ja"
+          },
+          {
+            "printing": "ST27-002~ja"
+          },
+          {
+            "printing": "ST27-003~ja"
+          },
+          {
+            "printing": "ST27-004~ja"
+          },
+          {
+            "printing": "ST27-005~ja"
+          }
+        ]
+      },
+      "sources": [
+        "https://www.onepiece-cardgame.com/products/decks/st27.php",
+        "https://www.onepiece-cardgame.com/cardlist/?series=550027"
+      ],
+      "releaseDate": "2025-06-28"
+    },
+    {
       "id": "starter-deck-27-black-marshall-d-teach",
       "set": "ST27",
       "category": "starter_deck",

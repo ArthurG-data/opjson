@@ -1,6 +1,68 @@
 {
   "products": [
     {
+      "id": "st08-starter-deck-ja",
+      "set": "ST08",
+      "language": "ja",
+      "category": "starter_deck",
+      "name": "Side モンキー・D・ルフィ",
+      "contentsStatus": "partial",
+      "contents": {
+        "cards": [
+          {
+            "printing": "ST08-001~ja"
+          },
+          {
+            "printing": "ST08-002~ja"
+          },
+          {
+            "printing": "ST08-003~ja"
+          },
+          {
+            "printing": "ST08-004~ja"
+          },
+          {
+            "printing": "ST08-005~ja"
+          },
+          {
+            "printing": "ST08-006~ja"
+          },
+          {
+            "printing": "ST08-007~ja"
+          },
+          {
+            "printing": "ST08-008~ja"
+          },
+          {
+            "printing": "ST08-009~ja"
+          },
+          {
+            "printing": "ST08-010~ja"
+          },
+          {
+            "printing": "ST08-011~ja"
+          },
+          {
+            "printing": "ST08-012~ja"
+          },
+          {
+            "printing": "ST08-013~ja"
+          },
+          {
+            "printing": "ST08-014~ja"
+          },
+          {
+            "printing": "ST08-015~ja"
+          }
+        ]
+      },
+      "sources": [
+        "https://www.onepiece-cardgame.com/products/decks/st08.php",
+        "https://www.onepiece-cardgame.com/cardlist/?series=550008"
+      ],
+      "releaseDate": "2023-03-25"
+    },
+    {
       "id": "starter-deck-8-monkey-d-luffy",
       "set": "ST08",
       "category": "starter_deck",

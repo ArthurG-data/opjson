@@ -1,6 +1,68 @@
 {
   "products": [
     {
+      "id": "st11-starter-deck-ja",
+      "set": "ST11",
+      "language": "ja",
+      "category": "starter_deck",
+      "name": "Side ウタ",
+      "contentsStatus": "partial",
+      "contents": {
+        "cards": [
+          {
+            "printing": "OP02-028_p2~ja"
+          },
+          {
+            "printing": "OP02-033_p2~ja"
+          },
+          {
+            "printing": "OP02-034_p2~ja"
+          },
+          {
+            "printing": "OP02-035_p3~ja"
+          },
+          {
+            "printing": "OP02-037_p2~ja"
+          },
+          {
+            "printing": "OP02-039_p2~ja"
+          },
+          {
+            "printing": "OP02-040_p2~ja"
+          },
+          {
+            "printing": "OP02-041_p3~ja"
+          },
+          {
+            "printing": "OP02-043_p2~ja"
+          },
+          {
+            "printing": "OP02-045_p2~ja"
+          },
+          {
+            "printing": "ST11-001~ja"
+          },
+          {
+            "printing": "ST11-002~ja"
+          },
+          {
+            "printing": "ST11-003~ja"
+          },
+          {
+            "printing": "ST11-004~ja"
+          },
+          {
+            "printing": "ST11-005~ja"
+          }
+        ]
+      },
+      "sources": [
+        "https://www.onepiece-cardgame.com/products/decks/st11.php",
+        "https://www.onepiece-cardgame.com/cardlist/?series=550011"
+      ],
+      "releaseDate": "2023-10-07"
+    },
+    {
       "id": "starter-deck-11-uta",
       "set": "ST11",
       "category": "starter_deck",

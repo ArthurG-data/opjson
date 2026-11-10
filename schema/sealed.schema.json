@@ -16,6 +16,7 @@
         "properties": {
           "id": {"type": "string", "pattern": "^[a-z0-9]+(-[a-z0-9]+)*$"},
           "set": {"type": "string"},
+          "language": {"enum": ["en", "ja"], "description": "The product's language. Absent means en; contents use this language only."},
           "category": {"enum": ["booster_pack", "sleeved_booster_pack", "booster_box", "case", "display", "double_pack",
                                 "starter_deck", "ultra_deck", "premium_card_collection", "gift_collection", "tin",
                                 "illustration_box", "collection", "promo_pack", "tournament_kit", "other"]},

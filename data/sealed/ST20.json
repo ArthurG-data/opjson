@@ -1,6 +1,68 @@
 {
   "products": [
     {
+      "id": "st20-starter-deck-ja",
+      "set": "ST20",
+      "language": "ja",
+      "category": "starter_deck",
+      "name": "黄 シャーロット・カタクリ",
+      "contentsStatus": "partial",
+      "contents": {
+        "cards": [
+          {
+            "printing": "OP03-099_p2~ja"
+          },
+          {
+            "printing": "OP03-106_r1~ja"
+          },
+          {
+            "printing": "OP03-107_r1~ja"
+          },
+          {
+            "printing": "OP03-110_r2~ja"
+          },
+          {
+            "printing": "OP03-112_r1~ja"
+          },
+          {
+            "printing": "OP03-115_r1~ja"
+          },
+          {
+            "printing": "OP03-118_r1~ja"
+          },
+          {
+            "printing": "OP03-121_r2~ja"
+          },
+          {
+            "printing": "ST07-005_r1~ja"
+          },
+          {
+            "printing": "ST07-014_r1~ja"
+          },
+          {
+            "printing": "ST20-001~ja"
+          },
+          {
+            "printing": "ST20-002~ja"
+          },
+          {
+            "printing": "ST20-003~ja"
+          },
+          {
+            "printing": "ST20-004~ja"
+          },
+          {
+            "printing": "ST20-005~ja"
+          }
+        ]
+      },
+      "sources": [
+        "https://www.onepiece-cardgame.com/products/decks/st15-20.php",
+        "https://www.onepiece-cardgame.com/cardlist/?series=550020"
+      ],
+      "releaseDate": "2024-07-13"
+    },
+    {
       "id": "starter-deck-20-yellow-charlotte-katakuri",
       "set": "ST20",
       "category": "starter_deck",

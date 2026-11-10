@@ -1,6 +1,26 @@
 {
   "products": [
     {
+      "id": "op10-booster-pack-ja",
+      "set": "OP10",
+      "language": "ja",
+      "category": "booster_pack",
+      "name": "王族の血統",
+      "contentsStatus": "partial",
+      "contents": {
+        "pool": [
+          {
+            "set": "OP10"
+          }
+        ]
+      },
+      "sources": [
+        "https://www.onepiece-cardgame.com/products/boosters/op10.php",
+        "https://www.onepiece-cardgame.com/cardlist/?series=550110"
+      ],
+      "releaseDate": "2024-11-30"
+    },
+    {
       "id": "royal-blood-booster-box",
       "set": "OP10",
       "category": "booster_box",

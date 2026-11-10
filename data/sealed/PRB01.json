@@ -1,6 +1,26 @@
 {
   "products": [
     {
+      "id": "prb01-booster-pack-ja",
+      "set": "PRB01",
+      "language": "ja",
+      "category": "booster_pack",
+      "name": "ONE PIECE CARD THE BEST",
+      "contentsStatus": "partial",
+      "contents": {
+        "pool": [
+          {
+            "set": "PRB01"
+          }
+        ]
+      },
+      "sources": [
+        "https://www.onepiece-cardgame.com/products/boosters/prb01.php",
+        "https://www.onepiece-cardgame.com/cardlist/?series=550301"
+      ],
+      "releaseDate": "2024-07-27"
+    },
+    {
       "id": "premium-booster-booster-box",
       "set": "PRB01",
       "category": "booster_box",

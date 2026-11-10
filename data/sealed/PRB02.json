@@ -1,6 +1,26 @@
 {
   "products": [
     {
+      "id": "prb02-booster-pack-ja",
+      "set": "PRB02",
+      "language": "ja",
+      "category": "booster_pack",
+      "name": "ONE PIECE CARD THE BEST vol.2",
+      "contentsStatus": "partial",
+      "contents": {
+        "pool": [
+          {
+            "set": "PRB02"
+          }
+        ]
+      },
+      "sources": [
+        "https://www.onepiece-cardgame.com/products/boosters/prb02.php",
+        "https://www.onepiece-cardgame.com/cardlist/?series=550302"
+      ],
+      "releaseDate": "2025-07-26"
+    },
+    {
       "id": "premium-booster-vol-2-booster-box",
       "set": "PRB02",
       "category": "booster_box",

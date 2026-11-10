@@ -1,6 +1,26 @@
 {
   "products": [
     {
+      "id": "eb01-booster-pack-ja",
+      "set": "EB01",
+      "language": "ja",
+      "category": "booster_pack",
+      "name": "メモリアルコレクション",
+      "contentsStatus": "partial",
+      "contents": {
+        "pool": [
+          {
+            "set": "EB01"
+          }
+        ]
+      },
+      "sources": [
+        "https://www.onepiece-cardgame.com/products/boosters/eb01.php",
+        "https://www.onepiece-cardgame.com/cardlist/?series=550201"
+      ],
+      "releaseDate": "2024-01-27"
+    },
+    {
       "id": "memorial-collection-booster-box",
       "set": "EB01",
       "category": "booster_box",

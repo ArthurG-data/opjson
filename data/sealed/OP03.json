@@ -1,6 +1,26 @@
 {
   "products": [
     {
+      "id": "op03-booster-pack-ja",
+      "set": "OP03",
+      "language": "ja",
+      "category": "booster_pack",
+      "name": "強大な敵",
+      "contentsStatus": "partial",
+      "contents": {
+        "pool": [
+          {
+            "set": "OP03"
+          }
+        ]
+      },
+      "sources": [
+        "https://www.onepiece-cardgame.com/products/boosters/op03.php",
+        "https://www.onepiece-cardgame.com/cardlist/?series=550103"
+      ],
+      "releaseDate": "2023-02-11"
+    },
+    {
       "id": "pillars-of-strength-booster-box",
       "set": "OP03",
       "category": "booster_box",

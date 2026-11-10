@@ -1,6 +1,26 @@
 {
   "products": [
     {
+      "id": "eb05-booster-pack-ja",
+      "set": "EB05",
+      "language": "ja",
+      "category": "booster_pack",
+      "name": "ONE PIECE Heroines Edition vol.2",
+      "contentsStatus": "partial",
+      "contents": {
+        "pool": [
+          {
+            "set": "EB05"
+          }
+        ]
+      },
+      "sources": [
+        "https://www.onepiece-cardgame.com/products/eb05.html",
+        "https://www.onepiece-cardgame.com/cardlist/?series=550205"
+      ],
+      "releaseDate": "2026-10-31"
+    },
+    {
       "id": "extra-booster-one-piece-heroines-edition-vol-2-booster-box",
       "set": "EB05",
       "category": "booster_box",

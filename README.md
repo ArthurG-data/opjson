@@ -61,7 +61,15 @@ means `en`) and sets on their `releases`.
 
 - `data/cards/<prefix>.json` holds the cards by number prefix (`OP01-120` lives in `OP01.json`). A card holds
   the facts every printing shares, and its `printings` list every printing of it.
-- `data/sealed/<set>.json` holds the sealed products of a set.
+- `data/sealed/<set>.json` holds the sealed products of a set. A product's `language` is `en` or `ja`;
+  absent means `en`. Each product's cards, booster pool and child products use that language only.
+  Japanese packs and decks have independent ids (`op01-booster-pack-ja`, `st01-starter-deck-ja`) and no
+  borrowed English TCGplayer identifiers. `uv run python tools/import_sealed_ja.py`, after the Japanese
+  card import, builds them from the Japanese card list's own product links. It also records them in
+  `mappings/sealed_curated.json` so the English sealed import preserves them. Coverage stays partial:
+  deck copy counts and booster odds are not inferred. A deck series that lists multiple printings of
+  the same card under its product page (fixed deck plus possible bonus parallels) stays `unknown`;
+  its variants are not all claimed as guaranteed cards.
 - `legality/` holds `formats.json`, `bans.json` and `block_designations.json`. Each entry cites the Bandai page or
   announcement it comes from.
 - `mappings/` holds hand-kept inputs to the tools. `bandai_corrections.json` fixes the places where Bandai's card

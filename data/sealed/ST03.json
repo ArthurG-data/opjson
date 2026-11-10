@@ -1,6 +1,74 @@
 {
   "products": [
     {
+      "id": "st03-starter-deck-ja",
+      "set": "ST03",
+      "language": "ja",
+      "category": "starter_deck",
+      "name": "王下七武海",
+      "contentsStatus": "partial",
+      "contents": {
+        "cards": [
+          {
+            "printing": "ST03-001~ja"
+          },
+          {
+            "printing": "ST03-002~ja"
+          },
+          {
+            "printing": "ST03-003~ja"
+          },
+          {
+            "printing": "ST03-004~ja"
+          },
+          {
+            "printing": "ST03-005~ja"
+          },
+          {
+            "printing": "ST03-006~ja"
+          },
+          {
+            "printing": "ST03-007~ja"
+          },
+          {
+            "printing": "ST03-008~ja"
+          },
+          {
+            "printing": "ST03-009~ja"
+          },
+          {
+            "printing": "ST03-010~ja"
+          },
+          {
+            "printing": "ST03-011~ja"
+          },
+          {
+            "printing": "ST03-012~ja"
+          },
+          {
+            "printing": "ST03-013~ja"
+          },
+          {
+            "printing": "ST03-014~ja"
+          },
+          {
+            "printing": "ST03-015~ja"
+          },
+          {
+            "printing": "ST03-016~ja"
+          },
+          {
+            "printing": "ST03-017~ja"
+          }
+        ]
+      },
+      "sources": [
+        "https://www.onepiece-cardgame.com/products/decks/st01-04.php",
+        "https://www.onepiece-cardgame.com/cardlist/?series=550003"
+      ],
+      "releaseDate": "2022-07-08"
+    },
+    {
       "id": "starter-deck-3-the-seven-warlords-of-the-sea",
       "set": "ST03",
       "category": "starter_deck",

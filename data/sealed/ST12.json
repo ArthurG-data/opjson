@@ -1,6 +1,74 @@
 {
   "products": [
     {
+      "id": "st12-starter-deck-ja",
+      "set": "ST12",
+      "language": "ja",
+      "category": "starter_deck",
+      "name": "ゾロ&サンジ",
+      "contentsStatus": "partial",
+      "contents": {
+        "cards": [
+          {
+            "printing": "ST12-001~ja"
+          },
+          {
+            "printing": "ST12-002~ja"
+          },
+          {
+            "printing": "ST12-003~ja"
+          },
+          {
+            "printing": "ST12-004~ja"
+          },
+          {
+            "printing": "ST12-005~ja"
+          },
+          {
+            "printing": "ST12-006~ja"
+          },
+          {
+            "printing": "ST12-007~ja"
+          },
+          {
+            "printing": "ST12-008~ja"
+          },
+          {
+            "printing": "ST12-009~ja"
+          },
+          {
+            "printing": "ST12-010~ja"
+          },
+          {
+            "printing": "ST12-011~ja"
+          },
+          {
+            "printing": "ST12-012~ja"
+          },
+          {
+            "printing": "ST12-013~ja"
+          },
+          {
+            "printing": "ST12-014~ja"
+          },
+          {
+            "printing": "ST12-015~ja"
+          },
+          {
+            "printing": "ST12-016~ja"
+          },
+          {
+            "printing": "ST12-017~ja"
+          }
+        ]
+      },
+      "sources": [
+        "https://www.onepiece-cardgame.com/products/decks/st12.php",
+        "https://www.onepiece-cardgame.com/cardlist/?series=550012"
+      ],
+      "releaseDate": "2023-10-28"
+    },
+    {
       "id": "starter-deck-12-zoro-and-sanji",
       "set": "ST12",
       "category": "starter_deck",

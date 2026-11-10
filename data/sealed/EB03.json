@@ -1,6 +1,26 @@
 {
   "products": [
     {
+      "id": "eb03-booster-pack-ja",
+      "set": "EB03",
+      "language": "ja",
+      "category": "booster_pack",
+      "name": "ONE PIECE Heroines Edition",
+      "contentsStatus": "partial",
+      "contents": {
+        "pool": [
+          {
+            "set": "EB03"
+          }
+        ]
+      },
+      "sources": [
+        "https://www.onepiece-cardgame.com/products/boosters/eb03.php",
+        "https://www.onepiece-cardgame.com/cardlist/?series=550203"
+      ],
+      "releaseDate": "2025-10-25"
+    },
+    {
       "id": "extra-booster-one-piece-heroines-edition-box",
       "set": "EB03",
       "category": "booster_box",

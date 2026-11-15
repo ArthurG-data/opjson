@@ -52,3 +52,26 @@ def test_curated_contents_fill_an_empty_product_and_never_replace_what_a_rule_de
         import_sealed._add_curated_contents(by_set, [entry])
     with pytest.raises(ValueError, match="not a sealed product"):
         import_sealed._add_curated_contents(by_set, [{**entry, "product": "no-such-product"}])
+
+
+@pytest.mark.parametrize("name,category", [
+    ("One Piece Mini Case Set Vol. 3 -Shanks- (Sunohara Artwork)", "tin"),
+    ("One Piece Mini Case Set Vol. 3 Boa Hancock (Ryuda Artwork)", "tin"),
+    ("One Piece Mini Case Set Vol. 3 Display", "display"),
+    ("One Piece Mini Case Set Vol. 3 Display Case", "case"),
+    ("One Piece Tin Pack Set Vol. 2 -Sabo-", "tin"),
+])
+def test_mini_case_set_is_the_tin_pack_line(name, category):
+    assert import_sealed.classify(name) == category
+
+
+def test_mini_case_set_vol_3_is_in_the_promo_set():
+    # TS-03 (TCGplayer's "Mini Case Set Vol. 3", sold elsewhere as "Tin Pack Set Vol. 3"): six tins, a display, a case.
+    import json
+    products = json.loads((import_sealed.SEALED / "P.json").read_text(encoding="utf-8"))["products"]
+    mini = {p["id"]: p for p in products if "mini-case-set-vol-3" in p["id"]}
+    assert sorted(p["category"] for p in mini.values()) == ["case", "display"] + ["tin"] * 6
+    assert mini["one-piece-mini-case-set-vol-3-display-case"]["contents"] == {
+        "sealed": [{"product": "one-piece-mini-case-set-vol-3-display"}]}
+    assert {p["identifiers"]["tcgplayerProductIds"][0] for p in mini.values()} == {
+        725378, 725379, 725380, 725381, 725382, 725384, 725385, 725386}

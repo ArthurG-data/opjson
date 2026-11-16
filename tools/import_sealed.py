@@ -44,7 +44,8 @@ CATEGORY_RULES = [
     (r"starter deck|deck set|demo deck|learn together", "starter_deck"),
     (r"premium card collection", "premium_card_collection"),
     (r"gift collection", "gift_collection"),
-    (r"tin pack", "tin"),
+    # Bandai's TS-03 is TCGplayer's "Mini Case Set Vol. 3" and some shops' "Tin Pack Set Vol. 3": Vol. 1 and 2 are tins.
+    (r"tin pack|mini case set", "tin"),
     (r"illustration box", "illustration_box"),
     (r"anniversary set|sealed promotional bundle|special goods set|binder|playmat|devil fruits collection|"
      r"treasure booster set", "collection"),

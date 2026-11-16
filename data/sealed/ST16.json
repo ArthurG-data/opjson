@@ -1,6 +1,68 @@
 {
   "products": [
     {
+      "id": "st16-starter-deck-ja",
+      "set": "ST16",
+      "language": "ja",
+      "category": "starter_deck",
+      "name": "緑 ウタ",
+      "contentsStatus": "partial",
+      "contents": {
+        "cards": [
+          {
+            "printing": "P-029_r2~ja"
+          },
+          {
+            "printing": "P-057_p1~ja"
+          },
+          {
+            "printing": "P-058_p1~ja"
+          },
+          {
+            "printing": "P-059_p1~ja"
+          },
+          {
+            "printing": "P-060_p1~ja"
+          },
+          {
+            "printing": "P-061_r1~ja"
+          },
+          {
+            "printing": "ST11-001_p1~ja"
+          },
+          {
+            "printing": "ST11-003_p2~ja"
+          },
+          {
+            "printing": "ST11-004_p2~ja"
+          },
+          {
+            "printing": "ST11-005_p2~ja"
+          },
+          {
+            "printing": "ST16-001~ja"
+          },
+          {
+            "printing": "ST16-002~ja"
+          },
+          {
+            "printing": "ST16-003~ja"
+          },
+          {
+            "printing": "ST16-004~ja"
+          },
+          {
+            "printing": "ST16-005~ja"
+          }
+        ]
+      },
+      "sources": [
+        "https://www.onepiece-cardgame.com/products/decks/st15-20.php",
+        "https://www.onepiece-cardgame.com/cardlist/?series=550016"
+      ],
+      "releaseDate": "2024-07-13"
+    },
+    {
       "id": "starter-deck-16-green-uta",
       "set": "ST16",
       "category": "starter_deck",

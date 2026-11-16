@@ -1,6 +1,74 @@
 {
   "products": [
     {
+      "id": "st07-starter-deck-ja",
+      "set": "ST07",
+      "language": "ja",
+      "category": "starter_deck",
+      "name": "ビッグ・マム海賊団",
+      "contentsStatus": "partial",
+      "contents": {
+        "cards": [
+          {
+            "printing": "ST07-001~ja"
+          },
+          {
+            "printing": "ST07-002~ja"
+          },
+          {
+            "printing": "ST07-003~ja"
+          },
+          {
+            "printing": "ST07-004~ja"
+          },
+          {
+            "printing": "ST07-005~ja"
+          },
+          {
+            "printing": "ST07-006~ja"
+          },
+          {
+            "printing": "ST07-007~ja"
+          },
+          {
+            "printing": "ST07-008~ja"
+          },
+          {
+            "printing": "ST07-009~ja"
+          },
+          {
+            "printing": "ST07-010~ja"
+          },
+          {
+            "printing": "ST07-011~ja"
+          },
+          {
+            "printing": "ST07-012~ja"
+          },
+          {
+            "printing": "ST07-013~ja"
+          },
+          {
+            "printing": "ST07-014~ja"
+          },
+          {
+            "printing": "ST07-015~ja"
+          },
+          {
+            "printing": "ST07-016~ja"
+          },
+          {
+            "printing": "ST07-017~ja"
+          }
+        ]
+      },
+      "sources": [
+        "https://www.onepiece-cardgame.com/products/decks/st07.php",
+        "https://www.onepiece-cardgame.com/cardlist/?series=550007"
+      ],
+      "releaseDate": "2023-01-21"
+    },
+    {
       "id": "starter-deck-7-big-mom-pirates",
       "set": "ST07",
       "category": "starter_deck",

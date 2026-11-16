@@ -1,6 +1,74 @@
 {
   "products": [
     {
+      "id": "st06-starter-deck-ja",
+      "set": "ST06",
+      "language": "ja",
+      "category": "starter_deck",
+      "name": "海軍",
+      "contentsStatus": "partial",
+      "contents": {
+        "cards": [
+          {
+            "printing": "ST06-001~ja"
+          },
+          {
+            "printing": "ST06-002~ja"
+          },
+          {
+            "printing": "ST06-003~ja"
+          },
+          {
+            "printing": "ST06-004~ja"
+          },
+          {
+            "printing": "ST06-005~ja"
+          },
+          {
+            "printing": "ST06-006~ja"
+          },
+          {
+            "printing": "ST06-007~ja"
+          },
+          {
+            "printing": "ST06-008~ja"
+          },
+          {
+            "printing": "ST06-009~ja"
+          },
+          {
+            "printing": "ST06-010~ja"
+          },
+          {
+            "printing": "ST06-011~ja"
+          },
+          {
+            "printing": "ST06-012~ja"
+          },
+          {
+            "printing": "ST06-013~ja"
+          },
+          {
+            "printing": "ST06-014~ja"
+          },
+          {
+            "printing": "ST06-015~ja"
+          },
+          {
+            "printing": "ST06-016~ja"
+          },
+          {
+            "printing": "ST06-017~ja"
+          }
+        ]
+      },
+      "sources": [
+        "https://www.onepiece-cardgame.com/products/decks/st06.php",
+        "https://www.onepiece-cardgame.com/cardlist/?series=550006"
+      ],
+      "releaseDate": "2022-09-30"
+    },
+    {
       "id": "starter-deck-6-absolute-justice",
       "set": "ST06",
       "category": "starter_deck",

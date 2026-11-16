@@ -1,6 +1,68 @@
 {
   "products": [
     {
+      "id": "st36-starter-deck-ja",
+      "set": "ST36",
+      "language": "ja",
+      "category": "starter_deck",
+      "name": "黄 ユースタス・キッド",
+      "contentsStatus": "partial",
+      "contents": {
+        "cards": [
+          {
+            "printing": "OP10-099_p2~ja"
+          },
+          {
+            "printing": "OP10-101_r1~ja"
+          },
+          {
+            "printing": "OP10-103_r1~ja"
+          },
+          {
+            "printing": "OP10-109_r2~ja"
+          },
+          {
+            "printing": "OP10-111_r1~ja"
+          },
+          {
+            "printing": "OP10-114_r2~ja"
+          },
+          {
+            "printing": "OP12-113_r1~ja"
+          },
+          {
+            "printing": "OP13-116_r1~ja"
+          },
+          {
+            "printing": "P-085_r2~ja"
+          },
+          {
+            "printing": "P-088_r2~ja"
+          },
+          {
+            "printing": "ST36-001~ja"
+          },
+          {
+            "printing": "ST36-002~ja"
+          },
+          {
+            "printing": "ST36-003~ja"
+          },
+          {
+            "printing": "ST36-004~ja"
+          },
+          {
+            "printing": "ST36-005~ja"
+          }
+        ]
+      },
+      "sources": [
+        "https://www.onepiece-cardgame.com/products/st36.html",
+        "https://www.onepiece-cardgame.com/cardlist/?series=550036"
+      ],
+      "releaseDate": "2026-07-11"
+    },
+    {
       "id": "starter-deck-36-yellow-eustass-captain-kid",
       "set": "ST36",
       "category": "starter_deck",

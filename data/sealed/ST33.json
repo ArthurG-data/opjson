@@ -1,6 +1,68 @@
 {
   "products": [
     {
+      "id": "st33-starter-deck-ja",
+      "set": "ST33",
+      "language": "ja",
+      "category": "starter_deck",
+      "name": "青 クザン",
+      "contentsStatus": "partial",
+      "contents": {
+        "cards": [
+          {
+            "printing": "EB04-026_r1~ja"
+          },
+          {
+            "printing": "EB04-028_p2~ja"
+          },
+          {
+            "printing": "OP12-040_p2~ja"
+          },
+          {
+            "printing": "OP12-043_r1~ja"
+          },
+          {
+            "printing": "OP12-045_r1~ja"
+          },
+          {
+            "printing": "OP12-046_r1~ja"
+          },
+          {
+            "printing": "OP12-047_r1~ja"
+          },
+          {
+            "printing": "OP12-050_r1~ja"
+          },
+          {
+            "printing": "OP12-052_r1~ja"
+          },
+          {
+            "printing": "OP12-057_r1~ja"
+          },
+          {
+            "printing": "ST33-001~ja"
+          },
+          {
+            "printing": "ST33-002~ja"
+          },
+          {
+            "printing": "ST33-003~ja"
+          },
+          {
+            "printing": "ST33-004~ja"
+          },
+          {
+            "printing": "ST33-005~ja"
+          }
+        ]
+      },
+      "sources": [
+        "https://www.onepiece-cardgame.com/products/st33.html",
+        "https://www.onepiece-cardgame.com/cardlist/?series=550033"
+      ],
+      "releaseDate": "2026-07-11"
+    },
+    {
       "id": "starter-deck-33-blue-kuzan",
       "set": "ST33",
       "category": "starter_deck",

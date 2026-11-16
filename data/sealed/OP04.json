@@ -50,8 +50,14 @@
           485833
         ]
       },
-      "contentsStatus": "unknown",
-      "contents": {},
+      "contentsStatus": "partial",
+      "contents": {
+        "sealed": [
+          {
+            "product": "kingdoms-of-intrigue-booster-pack"
+          }
+        ]
+      },
       "sources": [
         "https://www.tcgplayer.com/product/485833"
       ],
@@ -142,6 +148,26 @@
         "https://www.tcgplayer.com/product/531777"
       ],
       "releaseDate": "2023-09-22"
+    },
+    {
+      "id": "op04-booster-pack-ja",
+      "set": "OP04",
+      "language": "ja",
+      "category": "booster_pack",
+      "name": "謀略の王国",
+      "contentsStatus": "partial",
+      "contents": {
+        "pool": [
+          {
+            "set": "OP04"
+          }
+        ]
+      },
+      "sources": [
+        "https://www.onepiece-cardgame.com/products/boosters/op04.php",
+        "https://www.onepiece-cardgame.com/cardlist/?series=550104"
+      ],
+      "releaseDate": "2023-05-27"
     },
     {
       "id": "special-don-card-pack-dp-01",

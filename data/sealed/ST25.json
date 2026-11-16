@@ -1,6 +1,68 @@
 {
   "products": [
     {
+      "id": "st25-starter-deck-ja",
+      "set": "ST25",
+      "language": "ja",
+      "category": "starter_deck",
+      "name": "青 バギー",
+      "contentsStatus": "partial",
+      "contents": {
+        "cards": [
+          {
+            "printing": "OP09-042_p2~ja"
+          },
+          {
+            "printing": "OP09-043_r1~ja"
+          },
+          {
+            "printing": "OP09-045_r1~ja"
+          },
+          {
+            "printing": "OP09-051_r1~ja"
+          },
+          {
+            "printing": "OP09-053_r1~ja"
+          },
+          {
+            "printing": "OP09-054_r1~ja"
+          },
+          {
+            "printing": "OP09-055_r1~ja"
+          },
+          {
+            "printing": "OP09-056_r1~ja"
+          },
+          {
+            "printing": "OP09-057_p1~ja"
+          },
+          {
+            "printing": "P-084_r1~ja"
+          },
+          {
+            "printing": "ST25-001~ja"
+          },
+          {
+            "printing": "ST25-002~ja"
+          },
+          {
+            "printing": "ST25-003~ja"
+          },
+          {
+            "printing": "ST25-004~ja"
+          },
+          {
+            "printing": "ST25-005~ja"
+          }
+        ]
+      },
+      "sources": [
+        "https://www.onepiece-cardgame.com/products/decks/st25.php",
+        "https://www.onepiece-cardgame.com/cardlist/?series=550025"
+      ],
+      "releaseDate": "2025-06-28"
+    },
+    {
       "id": "starter-deck-25-blue-buggy",
       "set": "ST25",
       "category": "starter_deck",

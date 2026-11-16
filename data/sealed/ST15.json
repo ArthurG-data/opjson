@@ -1,6 +1,68 @@
 {
   "products": [
     {
+      "id": "st15-starter-deck-ja",
+      "set": "ST15",
+      "language": "ja",
+      "category": "starter_deck",
+      "name": "赤 エドワード・ニューゲート",
+      "contentsStatus": "partial",
+      "contents": {
+        "cards": [
+          {
+            "printing": "OP02-001_p4~ja"
+          },
+          {
+            "printing": "OP02-008_r1~ja"
+          },
+          {
+            "printing": "OP02-018_r1~ja"
+          },
+          {
+            "printing": "OP02-019_r1~ja"
+          },
+          {
+            "printing": "OP02-023_r1~ja"
+          },
+          {
+            "printing": "OP03-003_r1~ja"
+          },
+          {
+            "printing": "OP03-006_r1~ja"
+          },
+          {
+            "printing": "OP03-007_r1~ja"
+          },
+          {
+            "printing": "OP03-009_r1~ja"
+          },
+          {
+            "printing": "OP03-010_r1~ja"
+          },
+          {
+            "printing": "ST15-001~ja"
+          },
+          {
+            "printing": "ST15-002~ja"
+          },
+          {
+            "printing": "ST15-003~ja"
+          },
+          {
+            "printing": "ST15-004~ja"
+          },
+          {
+            "printing": "ST15-005~ja"
+          }
+        ]
+      },
+      "sources": [
+        "https://www.onepiece-cardgame.com/products/decks/st15-20.php",
+        "https://www.onepiece-cardgame.com/cardlist/?series=550015"
+      ],
+      "releaseDate": "2024-07-13"
+    },
+    {
       "id": "starter-deck-15-red-edward-newgate",
       "set": "ST15",
       "category": "starter_deck",

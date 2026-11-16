@@ -50,8 +50,14 @@
           563834
         ]
       },
-      "contentsStatus": "unknown",
-      "contents": {},
+      "contentsStatus": "partial",
+      "contents": {
+        "sealed": [
+          {
+            "product": "emperors-in-the-new-world-booster-pack"
+          }
+        ]
+      },
       "sources": [
         "https://www.tcgplayer.com/product/563834"
       ],
@@ -125,6 +131,26 @@
         "https://www.tcgplayer.com/product/606604"
       ],
       "releaseDate": "2024-12-13"
+    },
+    {
+      "id": "op09-booster-pack-ja",
+      "set": "OP09",
+      "language": "ja",
+      "category": "booster_pack",
+      "name": "新たなる皇帝",
+      "contentsStatus": "partial",
+      "contents": {
+        "pool": [
+          {
+            "set": "OP09"
+          }
+        ]
+      },
+      "sources": [
+        "https://www.onepiece-cardgame.com/products/boosters/op09/",
+        "https://www.onepiece-cardgame.com/cardlist/?series=550109"
+      ],
+      "releaseDate": "2024-08-31"
     },
     {
       "id": "special-don-card-pack-dp-06",

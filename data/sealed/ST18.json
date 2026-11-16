@@ -1,6 +1,68 @@
 {
   "products": [
     {
+      "id": "st18-starter-deck-ja",
+      "set": "ST18",
+      "language": "ja",
+      "category": "starter_deck",
+      "name": "紫 モンキー・D・ルフィ",
+      "contentsStatus": "partial",
+      "contents": {
+        "cards": [
+          {
+            "printing": "OP05-060_p3~ja"
+          },
+          {
+            "printing": "OP05-061_r1~ja"
+          },
+          {
+            "printing": "OP05-063_r1~ja"
+          },
+          {
+            "printing": "OP05-066_r1~ja"
+          },
+          {
+            "printing": "OP05-067_r1~ja"
+          },
+          {
+            "printing": "OP05-068_r1~ja"
+          },
+          {
+            "printing": "OP05-070_r1~ja"
+          },
+          {
+            "printing": "OP05-072_r1~ja"
+          },
+          {
+            "printing": "OP05-076_p1~ja"
+          },
+          {
+            "printing": "P-041_r1~ja"
+          },
+          {
+            "printing": "ST18-001~ja"
+          },
+          {
+            "printing": "ST18-002~ja"
+          },
+          {
+            "printing": "ST18-003~ja"
+          },
+          {
+            "printing": "ST18-004~ja"
+          },
+          {
+            "printing": "ST18-005~ja"
+          }
+        ]
+      },
+      "sources": [
+        "https://www.onepiece-cardgame.com/products/decks/st15-20.php",
+        "https://www.onepiece-cardgame.com/cardlist/?series=550018"
+      ],
+      "releaseDate": "2024-07-13"
+    },
+    {
       "id": "starter-deck-18-purple-monkey-d-luffy",
       "set": "ST18",
       "category": "starter_deck",

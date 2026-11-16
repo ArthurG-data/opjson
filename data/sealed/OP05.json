@@ -10,8 +10,14 @@
           498734
         ]
       },
-      "contentsStatus": "unknown",
-      "contents": {},
+      "contentsStatus": "partial",
+      "contents": {
+        "sealed": [
+          {
+            "product": "awakening-of-the-new-era-booster-pack"
+          }
+        ]
+      },
       "sources": [
         "https://www.tcgplayer.com/product/498734"
       ],
@@ -148,6 +154,26 @@
         "https://www.tcgplayer.com/product/527063"
       ],
       "releaseDate": "2023-12-08"
+    },
+    {
+      "id": "op05-booster-pack-ja",
+      "set": "OP05",
+      "language": "ja",
+      "category": "booster_pack",
+      "name": "新時代の主役",
+      "contentsStatus": "partial",
+      "contents": {
+        "pool": [
+          {
+            "set": "OP05"
+          }
+        ]
+      },
+      "sources": [
+        "https://www.onepiece-cardgame.com/products/boosters/op05/",
+        "https://www.onepiece-cardgame.com/cardlist/?series=550105"
+      ],
+      "releaseDate": "2023-08-26"
     },
     {
       "id": "special-don-card-pack-dp-02",

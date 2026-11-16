@@ -1,6 +1,74 @@
 {
   "products": [
     {
+      "id": "st04-starter-deck-ja",
+      "set": "ST04",
+      "language": "ja",
+      "category": "starter_deck",
+      "name": "百獣海賊団",
+      "contentsStatus": "partial",
+      "contents": {
+        "cards": [
+          {
+            "printing": "ST04-001~ja"
+          },
+          {
+            "printing": "ST04-002~ja"
+          },
+          {
+            "printing": "ST04-003~ja"
+          },
+          {
+            "printing": "ST04-004~ja"
+          },
+          {
+            "printing": "ST04-005~ja"
+          },
+          {
+            "printing": "ST04-006~ja"
+          },
+          {
+            "printing": "ST04-007~ja"
+          },
+          {
+            "printing": "ST04-008~ja"
+          },
+          {
+            "printing": "ST04-009~ja"
+          },
+          {
+            "printing": "ST04-010~ja"
+          },
+          {
+            "printing": "ST04-011~ja"
+          },
+          {
+            "printing": "ST04-012~ja"
+          },
+          {
+            "printing": "ST04-013~ja"
+          },
+          {
+            "printing": "ST04-014~ja"
+          },
+          {
+            "printing": "ST04-015~ja"
+          },
+          {
+            "printing": "ST04-016~ja"
+          },
+          {
+            "printing": "ST04-017~ja"
+          }
+        ]
+      },
+      "sources": [
+        "https://www.onepiece-cardgame.com/products/decks/st01-04.php",
+        "https://www.onepiece-cardgame.com/cardlist/?series=550004"
+      ],
+      "releaseDate": "2022-07-08"
+    },
+    {
       "id": "starter-deck-4-animal-kingdom-pirates",
       "set": "ST04",
       "category": "starter_deck",

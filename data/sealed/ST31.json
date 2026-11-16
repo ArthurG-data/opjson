@@ -1,6 +1,68 @@
 {
   "products": [
     {
+      "id": "st31-starter-deck-ja",
+      "set": "ST31",
+      "language": "ja",
+      "category": "starter_deck",
+      "name": "赤 モンキー・D・ルフィ",
+      "contentsStatus": "partial",
+      "contents": {
+        "cards": [
+          {
+            "printing": "OP01-016_p8~ja"
+          },
+          {
+            "printing": "OP04-016_p3~ja"
+          },
+          {
+            "printing": "OP11-003_r1~ja"
+          },
+          {
+            "printing": "OP11-009_r1~ja"
+          },
+          {
+            "printing": "OP11-012_r1~ja"
+          },
+          {
+            "printing": "OP13-021_r1~ja"
+          },
+          {
+            "printing": "OP14-015_r1~ja"
+          },
+          {
+            "printing": "P-101_r1~ja"
+          },
+          {
+            "printing": "ST21-001_r1~ja"
+          },
+          {
+            "printing": "ST23-004_r1~ja"
+          },
+          {
+            "printing": "ST31-001~ja"
+          },
+          {
+            "printing": "ST31-002~ja"
+          },
+          {
+            "printing": "ST31-003~ja"
+          },
+          {
+            "printing": "ST31-004~ja"
+          },
+          {
+            "printing": "ST31-005~ja"
+          }
+        ]
+      },
+      "sources": [
+        "https://www.onepiece-cardgame.com/products/st31.html",
+        "https://www.onepiece-cardgame.com/cardlist/?series=550031"
+      ],
+      "releaseDate": "2026-07-11"
+    },
+    {
       "id": "starter-deck-31-red-monkey-d-luffy",
       "set": "ST31",
       "category": "starter_deck",

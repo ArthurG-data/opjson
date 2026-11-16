@@ -61,7 +61,15 @@ means `en`) and sets on their `releases`.
 
 - `data/cards/<prefix>.json` holds the cards by number prefix (`OP01-120` lives in `OP01.json`). A card holds
   the facts every printing shares, and its `printings` list every printing of it.
-- `data/sealed/<set>.json` holds the sealed products of a set.
+- `data/sealed/<set>.json` holds the sealed products of a set. A product's `language` is `en` or `ja`;
+  absent means `en`. Each product's cards, booster pool and child products use that language only.
+  Japanese packs and decks have independent ids (`op01-booster-pack-ja`, `st01-starter-deck-ja`) and no
+  borrowed English TCGplayer identifiers. `uv run python tools/import_sealed_ja.py`, after the Japanese
+  card import, builds them from the Japanese card list's own product links. It also records them in
+  `mappings/sealed_curated.json` so the English sealed import preserves them. Coverage stays partial:
+  deck copy counts and booster odds are not inferred. A deck series that lists multiple printings of
+  the same card under its product page (fixed deck plus possible bonus parallels) stays `unknown`;
+  its variants are not all claimed as guaranteed cards.
 - `legality/` holds `formats.json`, `bans.json` and `block_designations.json`. Each entry cites the Bandai page or
   announcement it comes from.
 - `mappings/` holds hand-kept inputs to the tools. `bandai_corrections.json` fixes the places where Bandai's card
@@ -159,8 +167,14 @@ DON!! cards are one card, `DON`, with one printing per art.
   promo_pack, tournament_kit or other.
 - **`contents`** lists only what a source states. A booster pack's `pool` is the sets whose cards it can hold,
   with no odds. A deck's `cards` are the printings Bandai files under the deck, with no counts, because the card
-  list gives none. A display, case or kit names the `sealed` products it holds, with no counts unless a source
-  gives one.
+  list gives none. For a dedicated TCGplayer-only deck set (such as Set Sail or Learn Together), the product
+  whose name matches the English set release lists that set's English TCGplayer printings and cites the group
+  source. Japanese printings and unrelated products are excluded. This does not infer contents for collections.
+  A booster box names its unsleeved `sealed` pack only when replacing the final "Box" with "Pack" identifies
+  exactly one pack in the same set; qualified names without an exact match stay unknown. A display, case or
+  kit names the `sealed` products it holds, with no counts unless a source gives one. These links and deck lists
+  do not add quantities, finishes or pull odds. The sealed catalog currently covers English products; a pack's
+  set pool refers to English printings, not the Japanese printings sharing that set id.
 - **`contentsStatus`** is `partial` when the contents are known but incomplete, and `unknown` when no source
   states them. No product is `complete` yet, because no source in reach states every count.
 - **Tournament kits.** The kit Bandai sends a store for each Store Tournament, holding its participation, winner

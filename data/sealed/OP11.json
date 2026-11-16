@@ -10,8 +10,14 @@
           620180
         ]
       },
-      "contentsStatus": "unknown",
-      "contents": {},
+      "contentsStatus": "partial",
+      "contents": {
+        "sealed": [
+          {
+            "product": "a-fist-of-divine-speed-booster-pack"
+          }
+        ]
+      },
       "sources": [
         "https://www.tcgplayer.com/product/620180"
       ],
@@ -125,6 +131,26 @@
         "https://www.tcgplayer.com/product/606562"
       ],
       "releaseDate": "2025-06-06"
+    },
+    {
+      "id": "op11-booster-pack-ja",
+      "set": "OP11",
+      "language": "ja",
+      "category": "booster_pack",
+      "name": "神速の拳",
+      "contentsStatus": "partial",
+      "contents": {
+        "pool": [
+          {
+            "set": "OP11"
+          }
+        ]
+      },
+      "sources": [
+        "https://www.onepiece-cardgame.com/products/boosters/op11.php",
+        "https://www.onepiece-cardgame.com/cardlist/?series=550111"
+      ],
+      "releaseDate": "2025-03-01"
     },
     {
       "id": "special-don-card-pack-dp-07",

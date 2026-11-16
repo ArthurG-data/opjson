@@ -1,6 +1,74 @@
 {
   "products": [
     {
+      "id": "st01-starter-deck-ja",
+      "set": "ST01",
+      "language": "ja",
+      "category": "starter_deck",
+      "name": "麦わらの一味",
+      "contentsStatus": "partial",
+      "contents": {
+        "cards": [
+          {
+            "printing": "ST01-001~ja"
+          },
+          {
+            "printing": "ST01-002~ja"
+          },
+          {
+            "printing": "ST01-003~ja"
+          },
+          {
+            "printing": "ST01-004~ja"
+          },
+          {
+            "printing": "ST01-005~ja"
+          },
+          {
+            "printing": "ST01-006~ja"
+          },
+          {
+            "printing": "ST01-007~ja"
+          },
+          {
+            "printing": "ST01-008~ja"
+          },
+          {
+            "printing": "ST01-009~ja"
+          },
+          {
+            "printing": "ST01-010~ja"
+          },
+          {
+            "printing": "ST01-011~ja"
+          },
+          {
+            "printing": "ST01-012~ja"
+          },
+          {
+            "printing": "ST01-013~ja"
+          },
+          {
+            "printing": "ST01-014~ja"
+          },
+          {
+            "printing": "ST01-015~ja"
+          },
+          {
+            "printing": "ST01-016~ja"
+          },
+          {
+            "printing": "ST01-017~ja"
+          }
+        ]
+      },
+      "sources": [
+        "https://www.onepiece-cardgame.com/products/decks/st01-04.php",
+        "https://www.onepiece-cardgame.com/cardlist/?series=550001"
+      ],
+      "releaseDate": "2022-07-08"
+    },
+    {
       "id": "starter-deck-1-straw-hat-crew",
       "set": "ST01",
       "category": "starter_deck",

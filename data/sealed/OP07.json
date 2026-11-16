@@ -10,8 +10,14 @@
           532106
         ]
       },
-      "contentsStatus": "unknown",
-      "contents": {},
+      "contentsStatus": "partial",
+      "contents": {
+        "sealed": [
+          {
+            "product": "500-years-in-the-future-booster-pack"
+          }
+        ]
+      },
       "sources": [
         "https://www.tcgplayer.com/product/532106"
       ],
@@ -148,6 +154,26 @@
         "https://www.tcgplayer.com/product/549496"
       ],
       "releaseDate": "2024-06-28"
+    },
+    {
+      "id": "op07-booster-pack-ja",
+      "set": "OP07",
+      "language": "ja",
+      "category": "booster_pack",
+      "name": "500年後の未来",
+      "contentsStatus": "partial",
+      "contents": {
+        "pool": [
+          {
+            "set": "OP07"
+          }
+        ]
+      },
+      "sources": [
+        "https://www.onepiece-cardgame.com/products/boosters/op07.php",
+        "https://www.onepiece-cardgame.com/cardlist/?series=550107"
+      ],
+      "releaseDate": "2024-02-24"
     },
     {
       "id": "special-don-card-pack-dp-04",

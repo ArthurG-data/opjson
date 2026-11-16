@@ -1,6 +1,68 @@
 {
   "products": [
     {
+      "id": "st28-starter-deck-ja",
+      "set": "ST28",
+      "language": "ja",
+      "category": "starter_deck",
+      "name": "緑黄 ヤマト",
+      "contentsStatus": "partial",
+      "contents": {
+        "cards": [
+          {
+            "printing": "OP06-022_p3~ja"
+          },
+          {
+            "printing": "OP06-100_r2~ja"
+          },
+          {
+            "printing": "OP06-103_r1~ja"
+          },
+          {
+            "printing": "OP06-104_r1~ja"
+          },
+          {
+            "printing": "OP06-109_r1~ja"
+          },
+          {
+            "printing": "OP06-110_r2~ja"
+          },
+          {
+            "printing": "OP06-112_r1~ja"
+          },
+          {
+            "printing": "OP07-116_p1~ja"
+          },
+          {
+            "printing": "OP09-035_r1~ja"
+          },
+          {
+            "printing": "ST13-016_r1~ja"
+          },
+          {
+            "printing": "ST28-001~ja"
+          },
+          {
+            "printing": "ST28-002~ja"
+          },
+          {
+            "printing": "ST28-003~ja"
+          },
+          {
+            "printing": "ST28-004~ja"
+          },
+          {
+            "printing": "ST28-005~ja"
+          }
+        ]
+      },
+      "sources": [
+        "https://www.onepiece-cardgame.com/products/decks/st28.php",
+        "https://www.onepiece-cardgame.com/cardlist/?series=550028"
+      ],
+      "releaseDate": "2025-06-28"
+    },
+    {
       "id": "starter-deck-28-green-yellow-yamato",
       "set": "ST28",
       "category": "starter_deck",

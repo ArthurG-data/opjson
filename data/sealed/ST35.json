@@ -1,6 +1,68 @@
 {
   "products": [
     {
+      "id": "st35-starter-deck-ja",
+      "set": "ST35",
+      "language": "ja",
+      "category": "starter_deck",
+      "name": "赤黒 サボ",
+      "contentsStatus": "partial",
+      "contents": {
+        "cards": [
+          {
+            "printing": "OP12-090_r1~ja"
+          },
+          {
+            "printing": "OP12-093_r1~ja"
+          },
+          {
+            "printing": "OP12-098_r1~ja"
+          },
+          {
+            "printing": "OP13-004_p2~ja"
+          },
+          {
+            "printing": "OP13-005_r1~ja"
+          },
+          {
+            "printing": "OP13-008_r1~ja"
+          },
+          {
+            "printing": "OP13-017_r1~ja"
+          },
+          {
+            "printing": "OP13-019_p2~ja"
+          },
+          {
+            "printing": "OP13-081_r1~ja"
+          },
+          {
+            "printing": "P-105_r1~ja"
+          },
+          {
+            "printing": "ST35-001~ja"
+          },
+          {
+            "printing": "ST35-002~ja"
+          },
+          {
+            "printing": "ST35-003~ja"
+          },
+          {
+            "printing": "ST35-004~ja"
+          },
+          {
+            "printing": "ST35-005~ja"
+          }
+        ]
+      },
+      "sources": [
+        "https://www.onepiece-cardgame.com/products/st35.html",
+        "https://www.onepiece-cardgame.com/cardlist/?series=550035"
+      ],
+      "releaseDate": "2026-07-11"
+    },
+    {
       "id": "starter-deck-35-red-black-sabo",
       "set": "ST35",
       "category": "starter_deck",

@@ -1,6 +1,68 @@
 {
   "products": [
     {
+      "id": "st17-starter-deck-ja",
+      "set": "ST17",
+      "language": "ja",
+      "category": "starter_deck",
+      "name": "青 ドンキホーテ・ドフラミンゴ",
+      "contentsStatus": "partial",
+      "contents": {
+        "cards": [
+          {
+            "printing": "OP01-060_p2~ja"
+          },
+          {
+            "printing": "OP01-073_r1~ja"
+          },
+          {
+            "printing": "OP01-086_r1~ja"
+          },
+          {
+            "printing": "OP02-054_r1~ja"
+          },
+          {
+            "printing": "OP02-057_r1~ja"
+          },
+          {
+            "printing": "P-030_r1~ja"
+          },
+          {
+            "printing": "ST03-002_r1~ja"
+          },
+          {
+            "printing": "ST03-004_r1~ja"
+          },
+          {
+            "printing": "ST03-005_r2~ja"
+          },
+          {
+            "printing": "ST03-008_r2~ja"
+          },
+          {
+            "printing": "ST17-001~ja"
+          },
+          {
+            "printing": "ST17-002~ja"
+          },
+          {
+            "printing": "ST17-003~ja"
+          },
+          {
+            "printing": "ST17-004~ja"
+          },
+          {
+            "printing": "ST17-005~ja"
+          }
+        ]
+      },
+      "sources": [
+        "https://www.onepiece-cardgame.com/products/decks/st15-20.php",
+        "https://www.onepiece-cardgame.com/cardlist/?series=550017"
+      ],
+      "releaseDate": "2024-07-13"
+    },
+    {
       "id": "starter-deck-17-blue-donquixote-doflamingo",
       "set": "ST17",
       "category": "starter_deck",

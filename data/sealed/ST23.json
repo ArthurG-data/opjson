@@ -1,6 +1,68 @@
 {
   "products": [
     {
+      "id": "st23-starter-deck-ja",
+      "set": "ST23",
+      "language": "ja",
+      "category": "starter_deck",
+      "name": "赤 シャンクス",
+      "contentsStatus": "partial",
+      "contents": {
+        "cards": [
+          {
+            "printing": "OP09-001_p2~ja"
+          },
+          {
+            "printing": "OP09-006_r1~ja"
+          },
+          {
+            "printing": "OP09-010_r1~ja"
+          },
+          {
+            "printing": "OP09-011_r1~ja"
+          },
+          {
+            "printing": "OP09-012_r1~ja"
+          },
+          {
+            "printing": "OP09-013_r1~ja"
+          },
+          {
+            "printing": "OP09-014_r1~ja"
+          },
+          {
+            "printing": "OP09-015_r1~ja"
+          },
+          {
+            "printing": "OP09-016_r1~ja"
+          },
+          {
+            "printing": "OP09-020_p1~ja"
+          },
+          {
+            "printing": "ST23-001~ja"
+          },
+          {
+            "printing": "ST23-002~ja"
+          },
+          {
+            "printing": "ST23-003~ja"
+          },
+          {
+            "printing": "ST23-004~ja"
+          },
+          {
+            "printing": "ST23-005~ja"
+          }
+        ]
+      },
+      "sources": [
+        "https://www.onepiece-cardgame.com/products/decks/st23.php",
+        "https://www.onepiece-cardgame.com/cardlist/?series=550023"
+      ],
+      "releaseDate": "2025-06-28"
+    },
+    {
       "id": "starter-deck-23-red-shanks",
       "set": "ST23",
       "category": "starter_deck",

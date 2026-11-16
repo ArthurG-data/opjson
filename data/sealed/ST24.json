@@ -1,6 +1,68 @@
 {
   "products": [
     {
+      "id": "st24-starter-deck-ja",
+      "set": "ST24",
+      "language": "ja",
+      "category": "starter_deck",
+      "name": "緑 ジュエリー・ボニー",
+      "contentsStatus": "partial",
+      "contents": {
+        "cards": [
+          {
+            "printing": "EB01-015_r1~ja"
+          },
+          {
+            "printing": "OP07-019_p3~ja"
+          },
+          {
+            "printing": "OP07-021_r1~ja"
+          },
+          {
+            "printing": "OP07-023_r1~ja"
+          },
+          {
+            "printing": "OP07-025_r1~ja"
+          },
+          {
+            "printing": "OP07-031_r1~ja"
+          },
+          {
+            "printing": "OP07-033_r1~ja"
+          },
+          {
+            "printing": "OP07-034_r1~ja"
+          },
+          {
+            "printing": "OP07-036_p1~ja"
+          },
+          {
+            "printing": "OP07-037_r1~ja"
+          },
+          {
+            "printing": "ST24-001~ja"
+          },
+          {
+            "printing": "ST24-002~ja"
+          },
+          {
+            "printing": "ST24-003~ja"
+          },
+          {
+            "printing": "ST24-004~ja"
+          },
+          {
+            "printing": "ST24-005~ja"
+          }
+        ]
+      },
+      "sources": [
+        "https://www.onepiece-cardgame.com/products/decks/st24.php",
+        "https://www.onepiece-cardgame.com/cardlist/?series=550024"
+      ],
+      "releaseDate": "2025-06-28"
+    },
+    {
       "id": "starter-deck-24-green-jewelry-bonney",
       "set": "ST24",
       "category": "starter_deck",

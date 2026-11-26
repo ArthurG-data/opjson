@@ -7,7 +7,7 @@ the two together card by card. A TCGplayer product is matched to a printing by c
 two sites' card images. Nothing is matched by name order, and a product the images cannot settle goes to a review
 file rather than into a guess.
 
-Release 0.3.0 holds 90 sets, 2,886 cards, 12,486 printings and 445 sealed products. 63 sets have a Japanese
+Release 0.3.1 holds 90 sets, 2,886 cards, 12,486 printings and 445 sealed products. 63 sets have a Japanese
 release, 5,058 printings are Japanese, and 4 sets and 10 cards are only on Bandai's Japanese list.
 
 ## Using the data
@@ -22,7 +22,7 @@ https://github.com/ArthurG-data/opjson/releases/latest/download/AllProducts.json
 https://github.com/ArthurG-data/opjson/releases/latest/download/Legality.json
 ```
 
-Every file is `{"meta": {"version": "0.3.0", "date": "2026-10-26"}, "data": {...}}`. All five come from one
+Every file is `{"meta": {"version": "0.3.1", "date": "2026-10-28"}, "data": {...}}`. All five come from one
 build, so a reader that downloads them separately can check that the versions agree.
 
 | File | Keyed by | Holds |
@@ -30,11 +30,11 @@ build, so a reader that downloads them separately can check that the versions ag
 | `AllSets.json` | set id (`OP01`, `OP02-PRE`) | type, Bandai series id, block, TCGplayer group ids, and per release (`en`, `ja`) the name, date, logo and key art |
 | `AllCards.json` | card number (`OP03-055`) | the facts every printing of the card shares, and its name in each language |
 | `AllPrintings.json` | printing id (`OP03-055_p2`, `OP03-055_p2~ja`) | language, set, rarity, block, finishes, treatments, promo types, image link, artist, TCGplayer product ids |
+| `AllProducts.json` | product id (`romance-dawn-booster-box-wave-1-blue`) | category, set, TCGplayer product id, release date, contents and the sources that state them |
+| `Legality.json` | `formats`, `bans`, `blockDesignations` | the formats and their block windows, every ban and restriction, Bandai's per-card block exceptions |
 
 Both languages are in the same files. A reader that wants one language filters printings on `language` (absent
 means `en`) and sets on their `releases`.
-| `AllProducts.json` | product id (`romance-dawn-booster-box-wave-1-blue`) | category, set, TCGplayer product id, release date, contents and the sources that state them |
-| `Legality.json` | `formats`, `bans`, `blockDesignations` | the formats and their block windows, every ban and restriction, Bandai's per-card block exceptions |
 
 ## Layout
 
@@ -332,7 +332,7 @@ Each printing's `tcgplayer.match` names the evidence that settled it:
 | `review/artists.json` | printings whose artist credit, read from the card edge, gave readings that disagree |
 | `review/japanese.json` | cards whose two lists give different attributes, Japanese types with no English word yet, and Japanese printings given a finish by rule |
 
-`uv run python tools/coverage.py` reports where every TCGplayer product in category 68 ended up: on a Bandai
+`uv run python tools/coverage_report.py` reports where every TCGplayer product in category 68 ended up: on a Bandai
 printing, on a minted printing, on a sealed product, in review, or in a set Bandai has not published yet.
 `--strict` exits 1 if any product is unaccounted for or still in review.
 
@@ -355,7 +355,7 @@ uv run python tools/crawl_bandai.py --language ja    # cache the Japanese card l
 uv run python tools/import_bandai_ja.py              # Japanese releases, names and printings (after every English tool)
 uv run python tools/validate.py [--online [--images]]
 uv run python tools/legality.py [--online]           # ban list replayed and checked against Bandai's
-uv run python tools/build.py --version 0.3.0         # dist/AllSets, AllCards, AllPrintings, AllProducts, Legality
+uv run python tools/build.py --version 0.3.1         # dist/AllSets, AllCards, AllPrintings, AllProducts, Legality
 ```
 
 The pages and images the tools download are cached under `.cache/`, which is never committed. A rebuild reads the

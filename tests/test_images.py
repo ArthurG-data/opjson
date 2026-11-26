@@ -49,3 +49,22 @@ def test_a_hash_cached_before_the_placeholder_was_recognised_is_not_used(cache):
     hashes = images.HashCache(cache / "hashes.json")
     hashes.data["tcgplayer/288271"] = 12345
     assert hashes.get("tcgplayer", "288271", "unused") is None
+
+
+def test_a_response_that_is_not_an_image_is_not_cached(cache, monkeypatch):
+    class Response(io.BytesIO):
+        def __enter__(self):
+            return self
+
+        def __exit__(self, *exc):
+            return False
+
+    monkeypatch.setattr(images.time, "sleep", lambda s: None)
+    monkeypatch.setattr(images.urllib.request, "urlopen",
+                        lambda req, timeout: Response(b"<html>Service Unavailable</html>"))
+    with pytest.raises(ValueError, match="not an image"):
+        images.fetch("bandai", "OP01-001", "https://example.com/OP01-001.png")
+    assert not images.path_for("bandai", "OP01-001").exists()
+
+    monkeypatch.setattr(images.urllib.request, "urlopen", lambda req, timeout: Response(_jpeg(63, 88)))
+    assert images.fetch("bandai", "OP01-001", "https://example.com/OP01-001.png").read_bytes() == _jpeg(63, 88)

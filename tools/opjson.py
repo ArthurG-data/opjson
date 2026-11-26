@@ -3,6 +3,8 @@ from __future__ import annotations
 
 import collections
 import json
+import os
+import tomllib
 from pathlib import Path
 
 from jsonschema import Draft202012Validator, FormatChecker
@@ -12,6 +14,22 @@ SETS = ROOT / "sets" / "sets.json"
 CARDS = ROOT / "data" / "cards"
 SEALED = ROOT / "data" / "sealed"
 SCHEMAS = ROOT / "schema"
+VERSION = tomllib.loads((ROOT / "pyproject.toml").read_text(encoding="utf-8"))["project"]["version"]
+# Sent with every request to Bandai, TCGCSV, TCGplayer's CDN and Limitless.
+USER_AGENT = f"opjson/{VERSION} (+https://github.com/ArthurG-data/opjson)"
+
+
+def write_atomic(path: Path, data: str | bytes) -> None:
+    """Write data (text as UTF-8) to path through a temporary file beside it, so that an interrupted run leaves the
+    old file or the new one and never part of one. The caches trust any file they find."""
+    path.parent.mkdir(parents=True, exist_ok=True)
+    tmp = path.with_name(f".{path.name}.{os.getpid()}.tmp")
+    try:
+        tmp.write_bytes(data.encode("utf-8") if isinstance(data, str) else data)
+        os.replace(tmp, path)
+    except BaseException:
+        tmp.unlink(missing_ok=True)
+        raise
 
 
 def _schema(name: str) -> Draft202012Validator:

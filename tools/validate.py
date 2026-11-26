@@ -2,41 +2,50 @@
 
     uv run python tools/validate.py [--online [--images]]
 
---online also asks TCGCSV whether every TCGplayer product id still exists in category 68. --images also asks
-Bandai whether every Bandai printing's image is still served: about 5,000 requests, so CI runs it only for a
-release tag. They go IMAGE_WORKERS at a time, and a 5xx or a dropped connection is retried before it counts.
+--online also asks TCGCSV whether every TCGplayer product id, on a printing or a sealed product, still exists in
+category 68. --images also asks Bandai whether every Bandai printing's image is still served: about 5,000
+requests, so CI runs it only for a release tag. They go IMAGE_WORKERS at a time, and a 5xx or a dropped connection is retried before it counts.
 """
 from __future__ import annotations
 
 import argparse
 import sys
+import tempfile
 import time
 import urllib.error
 import urllib.request
 from concurrent.futures import ThreadPoolExecutor
+from pathlib import Path
 
 import opjson
 import tcgcsv
 
-USER_AGENT = "opjson/0.1 (+https://github.com/ArthurG-data/opjson)"
+USER_AGENT = opjson.USER_AGENT
 IMAGE_WORKERS = 6
 IMAGE_TRIES = 3
 
 
-def online_errors(sets: list[dict], files: dict[str, dict], images: bool = False) -> list[str]:
-    from pathlib import Path
-    import tempfile
-
-    errors = []
-    cache = Path(tempfile.mkdtemp(prefix="opjson-online-"))
-    live = {p.product_id for g in tcgcsv.groups(cache) for p in tcgcsv.products(g["groupId"], cache)}
-    printings = opjson.flatten(sets, files)["printings"]
-    for pid, p in printings.items():
-        for product_id in p.get("identifiers", {}).get("tcgplayerProductIds", []):
-            if product_id not in live:
-                errors.append(f"printing {pid}: TCGplayer product {product_id} is gone from category 68")
+def online_errors(sets: list[dict], files: dict[str, dict], sealed: dict[str, dict] | None = None,
+                  images: bool = False) -> list[str]:
+    with tempfile.TemporaryDirectory(prefix="opjson-online-") as tmp:
+        cache = Path(tmp)
+        live = {p.product_id for g in tcgcsv.groups(cache) for p in tcgcsv.products(g["groupId"], cache)}
+    flat = opjson.flatten(sets, files, sealed)
+    errors = gone_products(live, flat)
     if images:
-        errors += image_errors(printings)
+        errors += image_errors(flat["printings"])
+    return errors
+
+
+def gone_products(live: set[int], flat: dict[str, dict]) -> list[str]:
+    """A message for each TCGplayer product id, on a printing or a sealed product, that category 68 no longer
+    lists."""
+    errors = []
+    for kind, key in (("printing", "printings"), ("sealed product", "products")):
+        for item_id, item in flat[key].items():
+            for product_id in item.get("identifiers", {}).get("tcgplayerProductIds", []):
+                if product_id not in live:
+                    errors.append(f"{kind} {item_id}: TCGplayer product {product_id} is gone from category 68")
     return errors
 
 
@@ -76,7 +85,7 @@ def main() -> None:
     sets, files, sealed = opjson.load_sets(), opjson.load_cards(), opjson.load_sealed()
     errors = opjson.validate(sets, files, sealed)
     if not errors and args.online:
-        errors = online_errors(sets, files, images=args.images)
+        errors = online_errors(sets, files, sealed, images=args.images)
     for e in errors:
         print(e)
     flat = opjson.flatten(sets, files)

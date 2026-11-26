@@ -124,9 +124,9 @@ def main() -> None:
         cache[p["id"]] = read(img, engine)
         fresh += 1
         if fresh % 200 == 0:
-            OCR_CACHE.write_text(json.dumps(cache))
+            opjson.write_atomic(OCR_CACHE, json.dumps(cache))
             print(f"read {fresh}", flush=True)
-    OCR_CACHE.write_text(json.dumps(cache))
+    opjson.write_atomic(OCR_CACHE, json.dumps(cache))
 
     spelled, suspect = spell(list(cache.values()))
     agree, near, disagree, unread, no_credit = 0, [], [], 0, 0

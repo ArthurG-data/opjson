@@ -21,7 +21,7 @@ import opjson
 ROOT = Path(__file__).resolve().parents[1]
 LEGALITY = ROOT / "legality"
 BANDAI_LIST = "https://en.onepiece-cardgame.com/news/restriction.html"
-USER_AGENT = "opjson/0.1 (+https://github.com/ArthurG-data/opjson)"
+USER_AGENT = opjson.USER_AGENT
 STATUSES = ("legal", "banned", "restricted", "not_legal")
 
 

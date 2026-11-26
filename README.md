@@ -366,10 +366,10 @@ snapshot's finishes to it and never removes one.
 `validate.py` checks every file against its schema, every id and reference, and that no TCGplayer product sits
 on two printings. It also checks the languages: a `~ja` id has `language` `ja` and only it does, a printing's set
 has a release in the printing's language, a card has a name in each language it has printings in, and a Japanese
-printing has no TCGplayer product. `--online` also asks TCGCSV whether every TCGplayer product id still exists in category 68.
-`--images` adds a HEAD request for every Bandai printing's image, English and Japanese, about 10,000 of them, sent
-six at a time. A 5xx or
-a dropped connection is tried three times before it counts as a failure.
+printing has no TCGplayer product. `--online` also asks TCGCSV whether every TCGplayer product id, on a printing
+or a sealed product, still exists in category 68. `--images` adds a HEAD request for every Bandai printing's
+image, English and Japanese, about 10,000 of them, sent six at a time. A 5xx or a dropped connection is tried
+three times before it counts as a failure.
 
 ## Development
 

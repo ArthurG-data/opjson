@@ -65,3 +65,12 @@ def test_image_errors_checks_only_bandai_printings_and_names_each_failure():
         "printing OP01-003: Bandai image answers nothing",
     ]
     assert sorted(seen) == sorted(statuses)
+
+
+def test_a_product_gone_from_tcgplayer_is_an_error_on_printings_and_sealed_products():
+    flat = {"printings": {"OP01-001": {"identifiers": {"tcgplayerProductIds": [1, 2]}}, "OP01-002": {}},
+            "products": {"op01-booster-box": {"identifiers": {"tcgplayerProductIds": [3]}}}}
+    assert validate.gone_products({1, 2, 3}, flat) == []
+    assert validate.gone_products({1}, flat) == [
+        "printing OP01-001: TCGplayer product 2 is gone from category 68",
+        "sealed product op01-booster-box: TCGplayer product 3 is gone from category 68"]

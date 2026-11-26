@@ -22,13 +22,23 @@ def cache(language: str = "en") -> Path:
     return CACHE if language == "en" else CACHE / language
 
 
-def crawl(refresh: bool = False, language: str = "en") -> tuple[list[bandai.Series], list[bandai.Printing]]:
-    index = bandai.fetch(bandai.cardlist(FIRST_SERIES[language], language), cache(language), refresh)
+def crawl(refresh: bool = False, language: str = "en", fetch=bandai.fetch) -> tuple[list[bandai.Series],
+                                                                                   list[bandai.Printing]]:
+    """Every series and every printing on its page. Raises when a series page lists no printing: the card list
+    has no empty series, so such a page is one the site served wrong, and reading it would drop the set's cards."""
+    index = fetch(bandai.cardlist(FIRST_SERIES[language], language), cache(language), refresh,
+                  expect=bandai.CARDLIST_MARKER)
     series = bandai.parse_series(index, language)
+    if not series:
+        raise bandai.UnexpectedPage(f"the {language} card list's series selector lists no series")
     printings = []
     for s in series:
-        page = bandai.fetch(bandai.cardlist(s.series_id, language), cache(language), refresh)
-        printings += bandai.parse_cards(page, s.series_id, language)
+        page = fetch(bandai.cardlist(s.series_id, language), cache(language), refresh, expect=bandai.CARDLIST_MARKER)
+        found = bandai.parse_cards(page, s.series_id, language)
+        if not found:
+            raise bandai.UnexpectedPage(f"series {s.series_id} ({s.title}) lists no printing; delete its page from "
+                                        f"{cache(language)} or rerun with --refresh")
+        printings += found
     return series, printings
 
 

@@ -7,8 +7,9 @@ the two together card by card. A TCGplayer product is matched to a printing by c
 two sites' card images. Nothing is matched by name order, and a product the images cannot settle goes to a review
 file rather than into a guess.
 
-Release 0.3.1 holds 90 sets, 2,886 cards, 12,486 printings and 445 sealed products. 63 sets have a Japanese
-release, 5,058 printings are Japanese, and 4 sets and 10 cards are only on Bandai's Japanese list.
+Release 0.4.0 holds 90 sets, 2,886 cards, 12,486 printings and 514 sealed products. 63 sets have a Japanese
+release, 5,058 printings and 61 sealed products are Japanese, and 4 sets and 10 cards are only on Bandai's
+Japanese list.
 
 ## Using the data
 
@@ -22,7 +23,7 @@ https://github.com/ArthurG-data/opjson/releases/latest/download/AllProducts.json
 https://github.com/ArthurG-data/opjson/releases/latest/download/Legality.json
 ```
 
-Every file is `{"meta": {"version": "0.3.1", "date": "2026-10-28"}, "data": {...}}`. All five come from one
+Every file is `{"meta": {"version": "0.4.0", "date": "2026-11-16"}, "data": {...}}`. All five come from one
 build, so a reader that downloads them separately can check that the versions agree.
 
 | File | Keyed by | Holds |
@@ -356,7 +357,7 @@ uv run python tools/import_bandai_ja.py              # Japanese releases, names 
 uv run python tools/validate.py [--online [--images]]
 uv run python tools/check_losses.py                  # nothing lost against the last commit (see below)
 uv run python tools/legality.py [--online]           # ban list replayed and checked against Bandai's
-uv run python tools/build.py --version 0.3.1         # dist/AllSets, AllCards, AllPrintings, AllProducts, Legality
+uv run python tools/build.py --version 0.4.0         # dist/AllSets, AllCards, AllPrintings, AllProducts, Legality
 ```
 
 The pages and images the tools download are cached under `.cache/`, which is never committed. A rebuild reads the

@@ -1,6 +1,6 @@
 """Report how much of TCGplayer's One Piece catalogue the data accounts for, and how each product got there.
 
-    uv run python tools/coverage.py [--strict]
+    uv run python tools/coverage_report.py [--strict]
 
 Every TCGplayer product in category 68 must end up in exactly one place: on a Bandai printing (matched by
 image), on a printing minted for it, on a sealed product, in review/tcgplayer-68.json, or, single or sealed, in a
@@ -41,7 +41,7 @@ def main() -> None:
     tally = collections.Counter()
     missing = []
     groups = tcgcsv.groups(CACHE)
-    roles = group_roles(groups, {s["id"] for s in sets})
+    roles = group_roles(groups, opjson.english_set_ids(sets))
     for g in groups:
         # A set Bandai has not published yet holds sealed products too; import_sealed skips its group whole.
         pending_group = roles[g["groupId"]]["role"] == "pending"

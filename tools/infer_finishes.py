@@ -35,7 +35,9 @@ class Rule:
 
 
 def _plain_common_reprint(p: dict) -> bool:
-    return (p["source"] == "bandai" and bool(_REPRINT.search(p["id"])) and p.get("rarity") in ("C", "UC")
+    # A Japanese printing's id ends in ~ja (OP01-006_r1~ja); the rule reads the Bandai id before it.
+    return (p["source"] == "bandai" and bool(_REPRINT.search(p["id"].removesuffix("~ja")))
+            and p.get("rarity") in ("C", "UC")
             and not set(p.get("treatments") or []) - {"reprint"})
 
 
@@ -66,15 +68,27 @@ def infer(printings: list[dict], rules=RULES) -> list[dict]:
     return filled
 
 
+def merge_review(earlier: list[dict], filled: list[dict], printings: list[dict]) -> list[dict]:
+    """The review entries after a run: this run's, and an earlier run's whose printing still exists with the
+    finishes it was given. A rerun finds those printings already filled, so without them the record of what the
+    rule decided would be lost. Sorted by printing id."""
+    finishes = {p["id"]: sorted(p.get("finishes") or []) for p in printings}
+    kept = {e["printing"]: e for e in earlier if finishes.get(e["printing"]) == sorted(e["finishes"])}
+    kept.update((e["printing"], e) for e in filled)
+    return [kept[pid] for pid in sorted(kept)]
+
+
 def main() -> None:
     files = opjson.load_cards()
     printings = [p for body in files.values() for card in body["cards"] for p in card["printings"]]
+    earlier = json.loads(REVIEW.read_text(encoding="utf-8"))["inferred"] if REVIEW.exists() else []
     filled = infer(printings)
     for stem, body in files.items():
         (opjson.CARDS / f"{stem}.json").write_text(json.dumps(body, indent=2, ensure_ascii=False) + "\n",
                                                    encoding="utf-8")
     REVIEW.parent.mkdir(parents=True, exist_ok=True)
-    REVIEW.write_text(json.dumps({"inferred": filled}, indent=2) + "\n", encoding="utf-8")
+    review = merge_review(earlier, filled, printings)
+    REVIEW.write_text(json.dumps({"inferred": review}, indent=2) + "\n", encoding="utf-8")
     left = sum(not p.get("finishes") for p in printings)
     print(f"{len(filled)} printings given a finish by rule; {left} still have none")
 

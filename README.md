@@ -354,6 +354,7 @@ uv run python tools/import_limitless.py              # illustrators, and a check
 uv run python tools/crawl_bandai.py --language ja    # cache the Japanese card list (one page every 2 s)
 uv run python tools/import_bandai_ja.py              # Japanese releases, names and printings (after every English tool)
 uv run python tools/validate.py [--online [--images]]
+uv run python tools/check_losses.py                  # nothing lost against the last commit (see below)
 uv run python tools/legality.py [--online]           # ban list replayed and checked against Bandai's
 uv run python tools/build.py --version 0.3.1         # dist/AllSets, AllCards, AllPrintings, AllProducts, Legality
 ```
@@ -371,6 +372,13 @@ or a sealed product, still exists in category 68. `--images` adds a HEAD request
 image, English and Japanese, about 10,000 of them, sent six at a time. A 5xx or a dropped connection is tried
 three times before it counts as a failure.
 
+Data that is only missing something passes every check above, and a page a site serves wrong can make an importer
+drop a set's cards, its logo or an artist's credits. The fetchers refuse to cache a page that lacks what every page
+of its kind holds, and `check_losses.py` compares what the data holds with a git ref (`--base`, `HEAD` by
+default): the printings and sealed products of each set, the printings with each field, each artist's credits and
+the releases with a logo or key art. A count that falls by more than 2 and by more than 5% fails it.
+`--allow-loss` reports a loss that is meant without failing.
+
 ## Development
 
 ```sh
@@ -380,7 +388,8 @@ uv run python tools/validate.py --online
 uv run python tools/legality.py --online
 ```
 
-CI runs those checks on every pull request and push to `main`. A `v*` tag also runs the image check
+CI runs those checks on every pull request and push to `main`, and on a pull request also runs `check_losses.py`
+against the branch it targets; "[allow-loss]" in the pull request's title skips it. A `v*` tag also runs the image check
 (`--online --images`), then builds the release files with the tag's version and attaches them to a GitHub release.
 
 ## Adding a product or fixing a card

@@ -17,6 +17,13 @@ jobs:
       - uses: astral-sh/setup-uv@v5
       - run: uv sync --group dev
       - run: uv run pytest -q
+      # Data a site served wrong goes missing without failing any other check. "[allow-loss]" in the title skips it.
+      - if: github.event_name == 'pull_request' && !contains(github.event.pull_request.title, '[allow-loss]')
+        env:
+          BASE_REF: ${{ github.base_ref }}
+        run: |
+          git fetch --depth=1 origin "$BASE_REF"
+          uv run python tools/check_losses.py --base FETCH_HEAD
       # Every Bandai image is checked only for a release tag: about 5,000 requests the TCGplayer check does not need.
       - run: uv run python tools/validate.py --online ${{ startsWith(github.ref, 'refs/tags/v') && '--images' || '' }}
       - run: uv run python tools/legality.py --online

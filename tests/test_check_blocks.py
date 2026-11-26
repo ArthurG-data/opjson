@@ -65,3 +65,13 @@ def test_a_set_whose_cards_disagree_gets_no_block():
     printings = [printing(f"ST16-{i:03}", "ST16", "2" if i < 7 else "3") for i in range(1, 11)]
     left = check_blocks.set_blocks(sets, printings)
     assert "block" not in sets[0] and left[0]["reason"] == "base printings disagree"
+
+
+def test_a_rerun_keeps_the_earlier_corrections_that_still_hold():
+    earlier = [{"printing": "OP01-004_p1", "listed": "1", "printed": "2"},
+               {"printing": "OP01-013_p4", "listed": "1", "printed": "2"},
+               {"printing": "OP99-001", "listed": "1", "printed": "2"}]
+    now = [{"printing": "OP01-020", "listed": "1", "printed": "2"}]
+    # OP01-013_p4 is back to its listed block (import_bandai rewrote it) and OP99-001 is gone.
+    blocks = {"OP01-004_p1": "2", "OP01-013_p4": "1", "OP01-020": "2"}
+    assert [e["printing"] for e in check_blocks.merge_corrected(earlier, now, blocks)] == ["OP01-004_p1", "OP01-020"]

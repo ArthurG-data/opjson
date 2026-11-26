@@ -13,12 +13,15 @@ import json
 import re
 import sys
 import time
+import urllib.error
 import urllib.request
 from pathlib import Path
 
+import opjson
+
 ROOT = Path(__file__).resolve().parents[1]
 CACHE = ROOT / ".cache" / "images"
-USER_AGENT = "opjson/0.1 (+https://github.com/ArthurG-data/opjson)"
+USER_AGENT = opjson.USER_AGENT
 TCGPLAYER_IMAGE = "https://tcgplayer-cdn.tcgplayer.com/product/{product_id}_in_400x400.jpg"
 DELAY_S = {"bandai": 1.0, "tcgplayer": 0.2, "bandai_art": 1.0, "tcgplayer_art": 0.2}
 # The share of the card's height, from the top, that the hash covers.
@@ -52,7 +55,7 @@ def fetch(source: str, key: str, url: str) -> Path | None:
         except urllib.error.HTTPError as e:
             # TCGplayer's CDN answers 403, not 404, for a product with no scan.
             if e.code in (403, 404):
-                path.write_bytes(b"")  # remember the miss
+                opjson.write_atomic(path, b"")  # remember the miss
                 return None
             if e.code < 500 or wait is None:
                 raise
@@ -60,8 +63,23 @@ def fetch(source: str, key: str, url: str) -> Path | None:
             if wait is None:
                 raise
         time.sleep(wait)  # a server error or a dropped connection: try again a little later
-    path.write_bytes(body)
+    if not _is_image(body):
+        raise ValueError(f"{url}: the response is not an image; not cached")
+    opjson.write_atomic(path, body)
     return None if source == "tcgplayer" and _forget_placeholder(path) else path
+
+
+def _is_image(body: bytes) -> bool:
+    """Whether body is an image PIL can read: a 200 can carry an error page, which, cached, would stop every
+    later run that hashes it."""
+    from PIL import Image, UnidentifiedImageError
+
+    try:
+        with Image.open(io.BytesIO(body)) as im:
+            im.verify()
+    except (UnidentifiedImageError, OSError, SyntaxError):
+        return False
+    return True
 
 
 def _forget_placeholder(path: Path) -> bool:
@@ -77,7 +95,7 @@ def _forget_placeholder(path: Path) -> bool:
         width, height = im.size
     if width <= height:
         return False
-    path.write_bytes(b"")
+    opjson.write_atomic(path, b"")
     return True
 
 
@@ -128,7 +146,7 @@ class HashCache:
 
     def save(self) -> None:
         self.path.parent.mkdir(parents=True, exist_ok=True)
-        self.path.write_text(json.dumps(self.data))
+        opjson.write_atomic(self.path, json.dumps(self.data))
 
 
 def _fetch_all() -> None:

@@ -110,22 +110,33 @@ def set_blocks(sets: list[dict], printings: list[dict]) -> list[dict]:
     for s in sets:
         if not opjson.has_release(s, "en"):
             continue  # a Japanese-only set takes its block from import_bandai_ja
-        s.pop("block", None)
-        if s.get("source") == "tcgplayer" or s["type"] in ("promo", "box_set"):
-            continue
-        counts = own.get(s["id"])
-        if not counts:
-            left.append({"set": s["id"], "reason": "no base printings with a block"})
-            continue
-        block, n = counts.most_common(1)[0]
-        if n < SET_SHARE * sum(counts.values()):
-            left.append({"set": s["id"], "reason": "base printings disagree", "blocks": dict(counts)})
+        block = None
+        if s.get("source") != "tcgplayer" and s["type"] not in ("promo", "box_set"):
+            counts = own.get(s["id"])
+            if not counts:
+                left.append({"set": s["id"], "reason": "no base printings with a block"})
+            elif (top := counts.most_common(1)[0])[1] < SET_SHARE * sum(counts.values()):
+                left.append({"set": s["id"], "reason": "base printings disagree", "blocks": dict(counts)})
+            else:
+                block = top[0]
+        if block:
+            s["block"] = block  # in place, so that a rerun leaves the key where it was
         else:
-            s["block"] = block
+            s.pop("block", None)
     return left
 
 
+def merge_corrected(earlier: list[dict], corrected: list[dict], blocks: dict[str, str | None]) -> list[dict]:
+    """The corrections after a run: this run's, and an earlier run's whose printing still carries the block it was
+    corrected to. A rerun finds those blocks already corrected, so without them the evidence for each would be lost.
+    Sorted by printing id."""
+    kept = {e["printing"]: e for e in earlier if blocks.get(e["printing"]) == e["printed"]}
+    kept.update((e["printing"], e) for e in corrected)
+    return [kept[pid] for pid in sorted(kept)]
+
+
 def main() -> None:
+    earlier = json.loads(REVIEW.read_text(encoding="utf-8"))["corrected"] if REVIEW.exists() else []
     files = opjson.load_cards()
     flat = opjson.flatten(opjson.load_sets(), files)
     bandai = [p for p in flat["printings"].values() if p["source"] == "bandai" and opjson.language(p) == "en"]
@@ -152,6 +163,8 @@ def main() -> None:
                     corrected.append({"printing": p["id"], "listed": p.get("block"), "printed": block,
                                       "score": round(score, 3), "evidence": p["image"]})
                     p["block"] = block
+    corrected = merge_corrected(earlier, corrected, {p["id"]: p.get("block") for body in files.values()
+                                                     for c in body["cards"] for p in c["printings"]})
     sets = opjson.load_sets()
     no_block = set_blocks(sets, list(opjson.flatten(sets, files)["printings"].values()))
     opjson.SETS.write_text(json.dumps(sets, indent=2, ensure_ascii=False) + "\n", encoding="utf-8")

@@ -9,9 +9,11 @@ import urllib.request
 from dataclasses import dataclass
 from pathlib import Path
 
+import opjson
+
 TCGCSV = "https://tcgcsv.com/tcgplayer"
 CATEGORY = 68
-USER_AGENT = "opjson/0.1 (+https://github.com/ArthurG-data/opjson)"
+USER_AGENT = opjson.USER_AGENT
 FETCH_DELAY_S = 0.5
 
 # Name suffixes TCGplayer uses to tell a card's variants apart, as in "Shanks (Parallel) (Manga)".
@@ -69,7 +71,7 @@ def _get(url: str, cache: Path, refresh: bool) -> dict:
         data = json.loads(resp.read().decode("utf-8"))
     if not data.get("success", True):
         raise RuntimeError(f"{url}: {data.get('errors')}")
-    path.write_text(json.dumps(data), encoding="utf-8")
+    opjson.write_atomic(path, json.dumps(data))
     return data
 
 

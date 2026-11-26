@@ -79,13 +79,18 @@ def find_logos(page: str, page_url: str) -> list[tuple[str, list[str]]]:
     return out
 
 
-def crawl(refresh: bool) -> list[str]:
+def crawl(refresh: bool, fetch=bandai.fetch) -> list[str]:
+    """Every product page the index lists. Raises when a subcategory's first index page lists none: apply clears
+    every logo before it writes the ones found, so a short crawl would drop logos without a word."""
     urls: list[str] = []
     for subcategory in SUBCATEGORIES:
         for page_no in range(1, 50):
-            found = product_links(bandai.fetch(INDEX.format(subcategory=subcategory, page=page_no), CACHE, refresh))
+            found = product_links(fetch(INDEX.format(subcategory=subcategory, page=page_no), CACHE, refresh))
             new = [u for u in found if u not in urls]
             if not new:
+                if page_no == 1:
+                    raise bandai.UnexpectedPage(f"the {subcategory} index lists no product page; delete its page "
+                                                f"from {CACHE} or rerun with --refresh")
                 break
             urls += new
     return urls

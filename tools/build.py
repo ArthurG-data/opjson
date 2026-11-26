@@ -43,7 +43,7 @@ def outputs(sets: list[dict], files: dict[str, dict], sealed: dict[str, dict], f
 def write(docs: dict[str, dict], dist: Path = DIST) -> None:
     dist.mkdir(exist_ok=True)
     for name, doc in docs.items():
-        (dist / name).write_text(json.dumps(doc, ensure_ascii=False, sort_keys=True), encoding="utf-8")
+        opjson.write_atomic(dist / name, json.dumps(doc, ensure_ascii=False, sort_keys=True))
 
 
 def main() -> None:

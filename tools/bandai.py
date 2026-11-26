@@ -20,10 +20,12 @@ import urllib.request
 from dataclasses import dataclass, field
 from pathlib import Path
 
+import opjson
+
 SITES = {"en": "https://en.onepiece-cardgame.com", "ja": "https://www.onepiece-cardgame.com"}
 BASE = SITES["en"]
 CARDLIST = BASE + "/cardlist/?series={series}"
-USER_AGENT = "opjson/0.1 (+https://github.com/ArthurG-data/opjson)"
+USER_AGENT = opjson.USER_AGENT
 # One request every two seconds keeps a full crawl (about 75 pages) under three minutes.
 CRAWL_DELAY_S = 2.0
 
@@ -174,8 +176,18 @@ def parse_release_date(page: str) -> str | None:
     return f"{int(m.group(1)):04d}-{int(m.group(2)):02d}-{int(m.group(3)):02d}" if m else None
 
 
-def fetch(url: str, cache: Path, refresh: bool = False) -> str:
-    """The page at url, from cache when present. A fetch waits CRAWL_DELAY_S first."""
+# Every card list page holds the series selector, which a maintenance or error page served with a 200 does not.
+CARDLIST_MARKER = 'id="series"'
+
+
+class UnexpectedPage(ValueError):
+    """A page that came back without what every page of its kind holds. It is not cached."""
+
+
+def fetch(url: str, cache: Path, refresh: bool = False, expect: str | None = None) -> str:
+    """The page at url, from cache when present. A fetch waits CRAWL_DELAY_S first. With expect, a fetched page
+    that does not contain it raises UnexpectedPage and is not cached, so a rerun asks again instead of reading an
+    error page as a page with nothing on it."""
     cache.mkdir(parents=True, exist_ok=True)
     path = cache / (re.sub(r"[^A-Za-z0-9]+", "_", url.split("//", 1)[1]) + ".html")
     if path.exists() and not refresh:
@@ -184,5 +196,7 @@ def fetch(url: str, cache: Path, refresh: bool = False) -> str:
     req = urllib.request.Request(url, headers={"User-Agent": USER_AGENT})
     with urllib.request.urlopen(req, timeout=60) as resp:
         page = resp.read().decode("utf-8")
-    path.write_text(page, encoding="utf-8")
+    if expect is not None and expect not in page:
+        raise UnexpectedPage(f"{url}: the page has no {expect!r}; not cached")
+    opjson.write_atomic(path, page)
     return page

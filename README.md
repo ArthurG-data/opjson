@@ -7,9 +7,8 @@ the two together card by card. A TCGplayer product is matched to a printing by c
 two sites' card images. Nothing is matched by name order, and a product the images cannot settle goes to a review
 file rather than into a guess.
 
-Release 0.4.0 holds 90 sets, 2,886 cards, 12,486 printings and 514 sealed products. 63 sets have a Japanese
-release, 5,058 printings and 61 sealed products are Japanese, and 4 sets and 10 cards are only on Bandai's
-Japanese list.
+The data holds 90 sets, 2,886 cards, 12,486 printings and 514 sealed products. 63 sets have a Japanese release,
+5,058 printings and 61 sealed products are Japanese, and 4 sets and 10 cards are only on Bandai's Japanese list.
 
 ## Using the data
 

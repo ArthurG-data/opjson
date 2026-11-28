@@ -96,12 +96,13 @@ def registry_at(ref: str) -> dict:
 
 
 def offline_errors(sets: list[dict], files: dict[str, dict], sealed: dict[str, dict], registry: dict,
-                   before: dict | None = None) -> list[str]:
+                   before: dict | None = None, settlements: dict | None = None) -> list[str]:
     """Every problem found without the network: the data and its references, then every record's UUID against
-    registry, then, given an earlier registry, any UUID it gave that registry dropped or changed."""
+    registry, then, given an earlier registry, any UUID it gave that registry dropped or changed, unless
+    settlements (mappings/uuid_settlements.json) names its key."""
     errors = opjson.validate(sets, files, sealed) or uuids.errors(sets, files, sealed, registry)
     if before is not None:
-        errors += uuids.history_errors(before, registry)
+        errors += uuids.history_errors(before, registry, settlements)
     return errors
 
 
@@ -112,7 +113,8 @@ def main() -> None:
     ap.add_argument("--since", metavar="REF", help="also check that no UUID changed or was dropped since git REF")
     args = ap.parse_args()
     sets, files, sealed = opjson.load_sets(), opjson.load_cards(), opjson.load_sealed()
-    errors = offline_errors(sets, files, sealed, uuids.load(), registry_at(args.since) if args.since else None)
+    errors = offline_errors(sets, files, sealed, uuids.load(), registry_at(args.since) if args.since else None,
+                            uuids.load_settlements())
     if not errors and args.online:
         errors = online_errors(sets, files, sealed, images=args.images)
     for e in errors:

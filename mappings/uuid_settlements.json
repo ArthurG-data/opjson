@@ -1,0 +1,3 @@
+{
+  "_note": "Settles two live records whose identity keys hold one UUID (tools/uuids.py raises Conflict). Under the kind (sets, printings, versions, cards, oracles, products), name the identity key that gives the UUID up, with why. That key gets a new UUID once, and validate.py --since accepts the change. Entries stay: they act only on a conflict."
+}

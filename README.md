@@ -208,7 +208,7 @@ replaces through its other keys:
 | set | `id:<set id>` | its TCGplayer groups, its Bandai series |
 | printing from Bandai | `bandai:<language>:<Bandai id>` (`bandai:ja:OP01-001_p1`) | its id, its TCGplayer products |
 | printing from TCGplayer | `tcgplayer:<product id>` | its id |
-| version | `en:<English printing id>`, or `ja:<Japanese printing id>` for a Japanese printing with no twin | its printings' UUIDs |
+| version | `en:<the English printing's UUID>`, or `ja:<the Japanese printing's UUID>` for a Japanese printing with no twin | none: the key follows its printing's UUID |
 | card | `id:<number>` | its printings' UUIDs |
 | oracle | `number:<number>` | its card's UUID |
 | sealed product | `tcgplayer:<lowest product id>`, else `id:<product id>` | its id, its TCGplayer products |
@@ -216,7 +216,10 @@ replaces through its other keys:
 So a printing TCGplayer sold before Bandai listed it (`OP01-001~tcg602789`) keeps its UUID when Bandai lists it and
 the TCGplayer product moves onto the Bandai printing. Two printings that swap products, as PRB-01's Jolly Roger and
 Textured Foils did, each keep their own. A record that leaves keeps its key, so it gets its UUID back if it returns.
-Two live records whose keys hold one UUID stop the tool, for a person to settle.
+Two live records whose keys hold one UUID stop the tool: a printing TCGplayer sold, then Bandai listed, then
+TCGplayer sold apart again once the matcher stopped pairing them. A person settles it in
+`mappings/uuid_settlements.json` by naming, under the kind, the identity key that gives the UUID up and why. That key
+gets a new UUID once, and `validate.py --since` accepts the change.
 
 An oracle is one card for the game's rules, as Scryfall's `oracle_id`, and in One Piece that is the card number. A
 reprint keeps its number (`OP01-120_r1`), and "a deck can contain no more than 4 cards with the same card number"
@@ -224,8 +227,10 @@ reprint keeps its number (`OP01-120_r1`), and "a deck can contain no more than 4
 `EB02-017`). `oracleId` is therefore one per card. It is a kind of its own so a card Bandai renumbers can keep it.
 
 `tools/uuids.py` runs once, after every import tool. An import tool run alone can rebuild records without their
-UUIDs, and `validate.py` then says to run it. Running it in the middle of the chain would give a printing Bandai
-just listed a new UUID before `import_tcgplayer.py` moves a minted printing's product onto it. `validate.py --since
+UUIDs, and `validate.py` then says to run the chain and then `uuids.py`. Running it in the middle of the chain would
+give a printing Bandai just listed a new UUID before `import_tcgplayer.py` moves a minted printing's product onto
+it, so `uuids.py` refuses when the data lost records since the last commit, the way `check_losses.py` counts them
+(`--allow-loss` for a loss that is meant). `validate.py --since
 <ref>` refuses a registry that dropped or changed a UUID the registry at `<ref>` gave. CI runs it against the branch
 a pull request targets, and against where a pushed branch was.
 
@@ -241,7 +246,8 @@ A Japanese printing's `twinOf` comes from, in this order:
 An image shows that two printings share art, not that they are one printing, and a Japanese card can share its art
 with several English printings (a reprint, PRB-01's two foils). So nothing is matched in `P` or `OTHER`, which hold
 unrelated promotions (a Flagship Battle prize and a Treasure Cup promo can share art), and anything less clear goes
-to `review/twins.json`. The thresholds come from `link_twins.py --calibrate`: on 297 twins from Bandai's ids, half
+to `review/twins.json`. A match whose images are not downloaded on the machine running `link_twins.py` is kept as
+it is. The thresholds come from `link_twins.py --calibrate`: on 297 twins from Bandai's ids, half
 are within 5 bits, and different art is about 120 bits apart. It also found twins from Bandai's ids whose images
 are far apart, and some of them are a few bits from another English printing (`OP05-081_p2~ja` is 77 bits from
 `OP05-081_p2` and 6 from `OP05-081_p3`). `review/twins.json` lists them as suspects. They stay as they are until a
@@ -421,7 +427,7 @@ uv run python tools/crawl_bandai.py --language ja    # cache the Japanese card l
 uv run python tools/import_bandai_ja.py              # Japanese releases, names and printings (after every English tool)
 uv run --group dev python tools/images.py fetch      # again, for the Japanese printings with no twin yet
 uv run --group dev python tools/link_twins.py        # each Japanese printing's English twin, by image (twinOf)
-uv run python tools/uuids.py                         # every UUID, last: after the whole chain (see UUIDs)
+uv run python tools/uuids.py [--allow-loss]          # every UUID, last: after the whole chain (see UUIDs)
 uv run python tools/validate.py [--since main] [--online [--images]]
 uv run python tools/check_losses.py                  # nothing lost against the last commit (see below)
 uv run python tools/legality.py [--online]           # ban list replayed and checked against Bandai's

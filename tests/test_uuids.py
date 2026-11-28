@@ -1,3 +1,4 @@
+import collections
 import copy
 import json
 import uuid
@@ -65,7 +66,7 @@ def test_a_first_run_gives_uuid5_of_kind_and_id():
     assert c["printings"][0]["uuid"] == str(uuid.uuid5(opjson.NAMESPACE, "printings:OP01-001"))
     assert c["uuid"] == str(uuid.uuid5(opjson.NAMESPACE, "cards:OP01-001"))
     assert c["oracleId"] == str(uuid.uuid5(opjson.NAMESPACE, "oracles:number:OP01-001"))
-    assert c["printings"][0]["versionId"] == str(uuid.uuid5(opjson.NAMESPACE, "versions:en:OP01-001"))
+    assert c["printings"][0]["versionId"] == str(uuid.uuid5(opjson.NAMESPACE, f"versions:en:{c['printings'][0]['uuid']}"))
     assert list(c)[:3] == ["number", "uuid", "oracleId"]
     assert list(c["printings"][0])[:3] == ["id", "uuid", "versionId"]
 
@@ -191,3 +192,51 @@ def test_save_and_load_round_trip(tmp_path):
     uuids.save(registry, path)
     assert uuids.load(path) == registry
     assert path.read_text(encoding="utf-8").endswith("}\n")
+
+
+def test_a_japan_first_twin_that_splits_again_raises_no_conflict():
+    # Japan sells a set first: its printing is a version of its own until the English twin appears.
+    _, files, _, registry = run(cards(card("OP15-081", bandai("OP15-081_p2~ja"))))
+    ja_only = printing_of(files, "OP15-081_p2~ja")["versionId"]
+    _, files, _, _ = run(cards(card("OP15-081", bandai("OP15-081_p2"),
+                                    bandai("OP15-081_p2~ja", twinOf="OP15-081_p2"))), registry)
+    joined = printing_of(files, "OP15-081_p2")["versionId"]
+    assert printing_of(files, "OP15-081_p2~ja")["versionId"] == joined
+    # A correction says they are not twins after all.
+    _, files, _, _ = run(cards(card("OP15-081", bandai("OP15-081_p2"), bandai("OP15-081_p2~ja"))), registry)
+    assert printing_of(files, "OP15-081_p2")["versionId"] == joined
+    assert printing_of(files, "OP15-081_p2~ja")["versionId"] == ja_only
+
+
+def test_a_printing_conflict_is_settled_by_naming_the_key_that_takes_a_new_uuid():
+    _, files, _, registry = run(cards(card("OP01-001", bandai("OP01-001", [1]), minted("OP01-001~tcg602789", 602789))))
+    u = printing_of(files, "OP01-001~tcg602789")["uuid"]
+    run(cards(card("OP01-001", bandai("OP01-001", [1]), bandai("OP01-001_p5", [602789]))), registry)
+    before = copy.deepcopy(registry)
+    # The matcher stops matching: the product is minted again while Bandai still lists _p5.
+    back = cards(card("OP01-001", bandai("OP01-001", [1]), bandai("OP01-001_p5"), minted("OP01-001~tcg602789", 602789)))
+    with pytest.raises(uuids.Conflict, match="mappings/uuid_settlements.json"):
+        uuids.assign(copy.deepcopy(SETS), copy.deepcopy(back), {}, copy.deepcopy(registry))
+    settled = {"printings": {"tcgplayer:602789": "the matcher no longer puts 602789 on _p5"}}
+    uuids.assign(copy.deepcopy(SETS), back, {}, registry, settled)
+    assert printing_of(back, "OP01-001_p5")["uuid"] == u
+    assert printing_of(back, "OP01-001~tcg602789")["uuid"] not in (u, None)
+    assert any("its uuid changed" in e for e in uuids.history_errors(before, registry))
+    assert uuids.history_errors(before, registry, settled) == []
+    # Settled once, the key keeps its new UUID: a second run changes nothing.
+    again = copy.deepcopy(registry)
+    uuids.assign(copy.deepcopy(SETS), back, {}, registry, settled)
+    assert registry == again
+
+
+def test_stamping_after_part_of_the_import_chain_is_refused():
+    base = collections.Counter({"en printings in OP01-PRE": 100, "ja printings in OP01": 50})
+    found = uuids.chain_errors(base, collections.Counter({"en printings in OP01-PRE": 0, "ja printings in OP01": 50}))
+    assert found and all("run the whole import chain" in e for e in found)
+    assert uuids.chain_errors(base, base) == []
+
+
+def test_a_missing_uuid_says_to_run_the_whole_chain_first():
+    sets, files, sealed_, registry = run(cards(card("OP01-001", bandai("OP01-001"))))
+    del files["OP01"]["cards"][0]["printings"][0]["uuid"]
+    assert any("after the whole import chain" in e for e in uuids.errors(sets, files, sealed_, registry))

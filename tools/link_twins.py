@@ -11,7 +11,7 @@ that image hash is at most TWIN_SAME bits away and no other candidate is within 
 printings share art, not that they are one printing, and a Japanese card can share its art with several English
 printings (a reprint, PRB-01's two foils), so anything less clear goes to review/twins.json, as does a candidate two
 Japanese printings both pick. The links go to data/twins.json, which import_bandai_ja.py reads, so a rerun of it
-keeps them without the images.
+keeps them without the images. A match whose images are not downloaded here is kept as it is.
 
 A twin from Bandai's ids whose images are more than REVIEW_BELOW bits apart is listed as a suspect, and left as it
 is: the 2026-11-28 calibration found some (OP05-081_p2~ja is 77 bits from OP05-081_p2 and 6 from OP05-081_p3).
@@ -71,6 +71,15 @@ def match(ja: list[dict], en: list[dict], claimed: set[str], hash_of) -> tuple[d
             review += [{"printing": jid, "reason": "contested", "en": eid, "distance": d} for jid, d in who]
     review.sort(key=lambda r: r["printing"])
     return links, review
+
+
+def keep_unseen(old: dict[str, dict], ja: list[dict], en: list[dict], on_disk) -> dict[str, dict]:
+    """The earlier image matches (data/twins.json) of the Japanese printings ja that cannot be checked again here,
+    because the image of the printing or of its twin is not downloaded. A machine without the image cache keeps
+    them as they are rather than dropping them."""
+    english = {e["id"]: e for e in en}
+    return {p["id"]: old[p["id"]] for p in ja if p["id"] in old and old[p["id"]]["en"] in english
+            and not (on_disk(p) and on_disk(english[old[p["id"]]["en"]]))}
 
 
 def suspect(p: dict, twin_id: str, en: list[dict], hash_of) -> dict | None:
@@ -163,15 +172,19 @@ def main() -> None:
         return hashes.get("bandai", p["id"], p["image"])
 
     corrections = twins.load_corrections()
+    old = twins.load_settled()
     settled: dict[str, dict] = {}
     review: list[dict] = []
     for body in files.values():
         for card in body["cards"]:
             ja = [p for p in card["printings"] if opjson.language(p) == "ja"]
             # A twin from a correction or from the rule stays; an earlier image match is decided again.
-            open_ja = [p for p in ja if p["id"] not in corrections and _rule_twin(p, card) is None]
-            claimed = {p["twinOf"] for p in ja if p.get("twinOf") and p not in open_ja}
             en = [p for p in card["printings"] if opjson.language(p) == "en" and p["source"] == "bandai"]
+            open_ja = [p for p in ja if p["id"] not in corrections and _rule_twin(p, card) is None]
+            kept = keep_unseen(old, open_ja, en, lambda p: images.path_for("bandai", p["id"]).exists())
+            settled.update(kept)
+            open_ja = [p for p in open_ja if p["id"] not in kept]
+            claimed = {p["twinOf"] for p in ja if p.get("twinOf") and p not in open_ja} | {v["en"] for v in kept.values()}
             links, r = match(open_ja, en, claimed, hash_of)
             settled.update(links)
             review += r

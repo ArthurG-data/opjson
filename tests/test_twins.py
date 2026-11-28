@@ -164,3 +164,17 @@ def test_match_never_links_in_a_catch_all_set_and_reviews_it():
         assert links == {}
         assert review == [{"printing": "X_p1~ja", "reason": "catchAll",
                            "candidates": [{"printing": "X_p2", "distance": 0}]}]
+
+
+def test_an_image_match_whose_images_are_not_on_disk_is_kept():
+    old = {"X_p1~ja": {"en": "X_p2", "distance": 3}, "X_p3~ja": {"en": "X_p4", "distance": 2}}
+    on_disk = {"X_p1~ja": False, "X_p2": True, "X_p3~ja": True, "X_p4": True}
+    kept = link_twins.keep_unseen(old, [ja("X_p1~ja"), ja("X_p3~ja")], [en("X_p2"), en("X_p4")],
+                                  lambda p: on_disk[p["id"]])
+    assert kept == {"X_p1~ja": {"en": "X_p2", "distance": 3}}
+
+
+def test_check_losses_counts_twins():
+    import check_losses
+    files = _cards()
+    assert check_losses.tally(SETS, files, {})["ja printings with twinOf"] == 2

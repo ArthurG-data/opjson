@@ -28,7 +28,7 @@ import opjson
 MIN_LOSS = 2
 LOSS_SHARE = 0.05
 # The fields of a printing whose absence nothing else notices.
-PRINTING_FIELDS = ("artist", "finishes", "artOf", "block", "treatments", "promoTypes")
+PRINTING_FIELDS = ("artist", "finishes", "artOf", "twinOf", "block", "treatments", "promoTypes")
 DATA = ("sets", "data/cards", "data/sealed")
 
 

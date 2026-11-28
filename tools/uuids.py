@@ -13,8 +13,9 @@ each identity key ever seen to its UUID, per kind:
   id>`` for a minted printing or a sealed product (``id:<product id>`` for one TCGplayer does not sell),
   ``id:<number>`` for a card.
 - A version is one printing in every language it is printed in: an English printing with the Japanese printing whose
-  twinOf names it. Its key is ``en:<English printing id>``, or ``ja:<Japanese printing id>`` for a Japanese printing
-  with no English twin. Each printing of it carries its UUID as versionId.
+  twinOf names it. Its key is ``en:<the English printing's UUID>``, or ``ja:<the Japanese printing's UUID>`` for a
+  Japanese printing with no English twin, so it follows its printing through any re-key. Each printing of it
+  carries its UUID as versionId.
 - An oracle is one card for the game's rules, whatever its printings: ``number:<number>``. One Piece limits a deck to
   four cards of one card number, so two numbers are two cards even with the same text. A card carries its oracle's
   UUID as oracleId.
@@ -30,15 +31,19 @@ and ``history_errors`` checks it between two versions of the registry (validate.
 """
 from __future__ import annotations
 
+import argparse
 import collections
 import json
+import tempfile
 import uuid
 from pathlib import Path
 
+import check_losses
 import opjson
 
 NAMESPACE = opjson.NAMESPACE
 REGISTRY = opjson.ROOT / "data" / "uuids.json"
+SETTLEMENTS = opjson.ROOT / "mappings" / "uuid_settlements.json"
 KINDS = ("sets", "printings", "versions", "cards", "oracles", "products")
 # The field each kind's UUID is stamped as, and the field it follows. Versions and oracles are stamped on their
 # members: a version's on each printing, an oracle's on its card.
@@ -49,7 +54,15 @@ MEMBERS = {"versions": "printings", "oracles": "cards"}
 
 class Conflict(Exception):
     """Two live records whose identity keys hold one UUID: a record that came back while the one that took its UUID
-    is still here. A person decides which is which."""
+    is still here. A person decides which is which, in mappings/uuid_settlements.json."""
+
+
+def load_settlements(path: Path = SETTLEMENTS) -> dict[str, dict[str, str]]:
+    """{kind: {identity key: why}}: the keys that give up their UUID when another live record holds it too. The key
+    gets a new UUID, once, and validate.py --since accepts the change. Keys starting with _ are notes."""
+    if not path.exists():
+        return {}
+    return {k: v for k, v in json.loads(path.read_text(encoding="utf-8")).items() if not k.startswith("_")}
 
 
 def empty() -> dict:
@@ -108,7 +121,11 @@ def _aliases(kind: str, record: dict) -> list[str]:
     """Every key the record answers to: its identity, its id, its TCGplayer products, a set's groups and series, the
     UUIDs of a version's or a card's printings, of an oracle's cards."""
     if kind == "versions":
-        return [identity(kind, record), *sorted(f"printing:{p['uuid']}" for p in record["printings"])]
+        # A version's key is already its English printing's UUID, which follows the printing through any re-key.
+        # A Japanese member's UUID must not lead to it: it would hand its version-of-its-own's UUID to the version
+        # its twin later starts, and a split (a correction that says they are not twins) would then put two live
+        # versions on one UUID.
+        return [identity(kind, record)]
     if kind == "oracles":
         return [identity(kind, record), *sorted(f"card:{c['uuid']}" for c in record["cards"])]
     if kind == "cards":
@@ -121,22 +138,33 @@ def _aliases(kind: str, record: dict) -> list[str]:
                                *(f"tcgplayer:{pid}" for pid in _products(record))]))
 
 
-def _assign(registry: dict, kind: str, records: dict[str, dict]) -> dict[str, str]:
+def _assign(registry: dict, kind: str, records: dict[str, dict], settled: dict[str, str] | None = None) -> dict[str, str]:
     """{record id: UUID} for the live ``records`` of ``kind``; records new identity keys and the bridges in
-    ``registry``. Nothing is written into the registry unless every record gets a UUID."""
+    ``registry``. Nothing is written into the registry unless every record gets a UUID. Of two live records whose
+    keys hold one UUID, the one whose key is in ``settled`` gets a new UUID; with no such key it is a Conflict."""
     keys, bridges = registry[kind]["keys"], registry[kind]["bridges"]
+    settled = settled or {}
     ident = {rid: identity(kind, r) for rid, r in records.items()}
     out: dict[str, str] = {}
     held: dict[str, str] = {}  # UUID -> the live record id holding it
+    holders: dict[str, list[str]] = collections.defaultdict(list)
     for rid in sorted(records, key=lambda r: ident[r]):
-        u = keys.get(ident[rid])
-        if u is None:
-            continue
-        if u in held:
-            raise Conflict(f"{kind[:-1]} {rid} ({ident[rid]}) and {held[u]} both hold {u}: one of them came back "
-                           f"after the other took its UUID")
-        out[rid], held[u] = u, rid
+        if (u := keys.get(ident[rid])) is not None:
+            holders[u].append(rid)
+    remint = []
+    for u, rids in holders.items():
+        staying = [r for r in rids if ident[r] not in settled] if len(rids) > 1 else rids
+        if len(staying) != 1:
+            raise Conflict(f"{kind[:-1]} {' and '.join(f'{r} ({ident[r]})' for r in rids)} hold one UUID, {u}: one "
+                           f"of them came back after the other took it. Name the key that gives it up in "
+                           f"mappings/uuid_settlements.json")
+        out[staying[0]], held[u] = u, staying[0]
+        remint += [r for r in rids if r != staying[0]]
     used = set(keys.values()) | set(bridges.values())
+    for rid in sorted(remint, key=lambda r: ident[r]):
+        out[rid] = keys[ident[rid]] = first(kind, rid, used)
+        held[out[rid]] = rid
+        used.add(out[rid])
     for rid in sorted((r for r in records if r not in out), key=lambda r: ident[r]):
         # a record that left, named by one of this record's keys: the first alias that names a free UUID
         u = next((h for a in _aliases(kind, records[rid]) if (h := keys.get(a) or bridges.get(a)) and h not in held), None)
@@ -162,15 +190,18 @@ def _stamp(record: dict, after: str, u: str, field: str) -> None:
 
 
 def _versions(files: dict[str, dict]) -> dict[str, dict]:
-    """{version key: {"id": key, "printings": [...]}}: an English printing with its Japanese twin."""
+    """{version key: {"id": key, "printings": [...]}}: an English printing with its Japanese twin. The key is
+    ``en:<English printing's UUID>``, or ``ja:<Japanese printing's UUID>`` for one with no twin, so it is read
+    after the printings are stamped."""
     out: dict[str, dict] = {}
     for body in files.values():
         for card in body["cards"]:
+            uuid_of = {p["id"]: p.get("uuid") for p in card["printings"]}
             for p in card["printings"]:
                 if opjson.language(p) == "en":
-                    key = f"en:{p['id']}"
+                    key = f"en:{p.get('uuid')}"
                 else:
-                    key = f"en:{p['twinOf']}" if "twinOf" in p else f"ja:{p['id']}"
+                    key = f"en:{uuid_of.get(p['twinOf'])}" if "twinOf" in p else f"ja:{p.get('uuid')}"
                 out.setdefault(key, {"id": key, "printings": []})["printings"].append(p)
     return out
 
@@ -181,22 +212,35 @@ def _oracles(files: dict[str, dict]) -> dict[str, dict]:
             for body in files.values() for c in body["cards"]}
 
 
+def _records(kind: str, sets: list[dict], files: dict[str, dict], sealed: dict[str, dict]) -> dict[str, dict]:
+    """{record id: record} for the live records of kind. A version's key reads its printings' UUIDs, so versions
+    are built only once the printings are stamped."""
+    if kind == "sets":
+        return {s["id"]: s for s in sets}
+    if kind == "printings":
+        return {p["id"]: p for b in files.values() for c in b["cards"] for p in c["printings"]}
+    if kind == "versions":
+        return _versions(files)
+    if kind == "cards":
+        return {c["number"]: c for b in files.values() for c in b["cards"]}
+    if kind == "oracles":
+        return _oracles(files)
+    return {p["id"]: p for b in sealed.values() for p in b["products"]}
+
+
 def _live(sets: list[dict], files: dict[str, dict], sealed: dict[str, dict]) -> dict[str, dict[str, dict]]:
-    """{kind: {record id: record}}, in the order the kinds are assigned. Versions and cards are built after the
-    printings have their UUIDs, since their aliases are those UUIDs; the grouping does not depend on them."""
-    return {"sets": {s["id"]: s for s in sets},
-            "printings": {p["id"]: p for b in files.values() for c in b["cards"] for p in c["printings"]},
-            "versions": _versions(files),
-            "cards": {c["number"]: c for b in files.values() for c in b["cards"]},
-            "oracles": _oracles(files),
-            "products": {p["id"]: p for b in sealed.values() for p in b["products"]}}
+    """{kind: {record id: record}} for every kind, of records already stamped."""
+    return {kind: _records(kind, sets, files, sealed) for kind in KINDS}
 
 
-def assign(sets: list[dict], files: dict[str, dict], sealed: dict[str, dict], registry: dict) -> None:
+def assign(sets: list[dict], files: dict[str, dict], sealed: dict[str, dict], registry: dict,
+           settlements: dict[str, dict[str, str]] | None = None) -> None:
     """Stamp every record of sets, files and sealed with its UUID, in place, and record them in ``registry``. Each
-    kind goes after the ones its aliases name: printings before versions and cards, cards before oracles."""
-    for kind, records in _live(sets, files, sealed).items():
-        out = _assign(registry, kind, records)
+    kind goes after the ones its aliases name: printings before versions and cards, cards before oracles.
+    ``settlements`` (load_settlements) settles two live records on one UUID."""
+    for kind in KINDS:
+        records = _records(kind, sets, files, sealed)
+        out = _assign(registry, kind, records, (settlements or {}).get(kind))
         field, after = FIELD[kind]
         for rid, record in records.items():
             for target in record[MEMBERS[kind]] if kind in MEMBERS else [record]:
@@ -225,16 +269,16 @@ def errors(sets: list[dict], files: dict[str, dict], sealed: dict[str, dict], re
                     if member.get(field) != keys.get(key):
                         name = f"printing {member['id']}" if kind == "versions" else f"card {member['number']}"
                         found.append(f"{name}: {field} {member.get(field)} is not the one data/uuids.json gives "
-                                     f"{key}, {keys.get(key)}: run tools/uuids.py")
+                                     f"{key}, {keys.get(key)}: run tools/uuids.py after the whole import chain")
                 every.update(_held(kind, record))
                 continue
             name = {"sets": "set", "printings": "printing", "cards": "card", "products": "sealed product"}[kind]
             if field not in record:
-                found.append(f"{name} {rid} has no uuid: run tools/uuids.py")
+                found.append(f"{name} {rid} has no uuid: run tools/uuids.py after the whole import chain")
                 continue
             if keys.get(key) != record[field]:
                 found.append(f"{name} {rid}: uuid {record[field]} is not the one data/uuids.json gives {key}, "
-                             f"{keys.get(key)}: run tools/uuids.py")
+                             f"{keys.get(key)}: run tools/uuids.py after the whole import chain")
             every[record[field]] += 1
         what = {"versions": "versions", "oracles": "oracles"}.get(kind, "records")
         found += [f"{'uuid' if kind not in MEMBERS else field} {u} is on {n} {what}"
@@ -242,17 +286,28 @@ def errors(sets: list[dict], files: dict[str, dict], sealed: dict[str, dict], re
     return found
 
 
-def history_errors(before: dict, after: dict) -> list[str]:
-    """What breaks the promise between two versions of the registry: an identity key dropped or given another UUID."""
+def history_errors(before: dict, after: dict, settlements: dict[str, dict[str, str]] | None = None) -> list[str]:
+    """What breaks the promise between two versions of the registry: an identity key dropped or given another UUID.
+    A key in ``settlements`` may have been given a new one: a person settled a conflict there."""
     found = []
     for kind in KINDS:
         now = after[kind]["keys"]
+        settled = (settlements or {}).get(kind, {})
         for key, u in sorted(before[kind]["keys"].items()):
             if key not in now:
                 found.append(f"{kind[:-1]} {key}: its uuid {u} was dropped from data/uuids.json")
-            elif now[key] != u:
+            elif now[key] != u and key not in settled:
                 found.append(f"{kind[:-1]} {key}: its uuid changed from {u} to {now[key]}")
     return found
+
+
+def chain_errors(base: collections.Counter, now: collections.Counter) -> list[str]:
+    """A message for each loss against the last commit (check_losses.losses). An import tool run alone rebuilds part
+    of the data (import_bandai.py drops every minted and Japanese printing until the rest of the chain runs), and
+    stamping then would give a printing Bandai just listed a new UUID before import_tcgplayer.py moves a minted
+    printing's product, and its UUID, onto it."""
+    return [f"{m}: run the whole import chain before tools/uuids.py, or pass --allow-loss for a loss that is meant"
+            for m in check_losses.losses(base, now)]
 
 
 def _dump(path: Path, body) -> None:
@@ -260,9 +315,17 @@ def _dump(path: Path, body) -> None:
 
 
 def main() -> None:
+    ap = argparse.ArgumentParser()
+    ap.add_argument("--allow-loss", action="store_true", help="stamp although the data lost records since HEAD")
+    args = ap.parse_args()
     registry = load()
     sets, files, sealed = opjson.load_sets(), opjson.load_cards(), opjson.load_sealed()
-    assign(sets, files, sealed, registry)
+    if not args.allow_loss:
+        with tempfile.TemporaryDirectory(prefix="opjson-base-") as tmp:
+            base = check_losses.tally(*check_losses.load_at("HEAD", Path(tmp)))
+        if found := chain_errors(base, check_losses.tally(sets, files, sealed)):
+            raise SystemExit("refusing to stamp:\n" + "\n".join(found))
+    assign(sets, files, sealed, registry, load_settlements())
     _dump(opjson.SETS, sets)
     for stem, body in files.items():
         _dump(opjson.CARDS / f"{stem}.json", body)

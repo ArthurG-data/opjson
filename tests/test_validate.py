@@ -141,3 +141,12 @@ def test_offline_errors_with_an_earlier_registry_refuses_a_changed_uuid():
     before["printings"]["keys"]["bandai:en:OP01-001"] = str(uuidlib.uuid4())
     found = validate.offline_errors(sets, files, sealed, registry, before)
     assert any("its uuid changed" in e for e in found)
+
+
+def test_offline_errors_accepts_a_changed_uuid_a_settlement_names():
+    sets, files, sealed, registry = copy.deepcopy(_SETS), _files(), {}, uuids.empty()
+    uuids.assign(sets, files, sealed, registry)
+    before = copy.deepcopy(registry)
+    before["printings"]["keys"]["bandai:en:OP01-001"] = str(uuidlib.uuid4())
+    settled = {"printings": {"bandai:en:OP01-001": "settled by hand"}}
+    assert validate.offline_errors(sets, files, sealed, registry, before, settled) == []

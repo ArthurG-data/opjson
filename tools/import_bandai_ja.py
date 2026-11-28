@@ -1,7 +1,7 @@
 """Add Bandai's Japanese card list (www.onepiece-cardgame.com) to sets/sets.json and data/cards.
 
     uv run python tools/crawl_bandai.py --language ja
-    uv run python tools/import_bandai_ja.py
+    uv run python tools/import_bandai_ja.py [--refresh-products]
 
 Each series on the Japanese list gives its set a "ja" release: the Japanese name, the release date its product
 page states, and the series page. Each Japanese printing becomes a printing of its own, with Bandai's Japanese
@@ -15,9 +15,11 @@ from the card images and TCGplayer's prices. A run first removes what an earlier
 """
 from __future__ import annotations
 
+import argparse
 import collections
 import json
 import re
+import sys
 from pathlib import Path
 
 import bandai
@@ -270,9 +272,17 @@ def merge(sets: list[dict], files: dict[str, dict], series: list[bandai.Series],
             "inferredFinishes": inferred}
 
 
-def main() -> None:
+def parse_args(argv: list[str]) -> argparse.Namespace:
+    ap = argparse.ArgumentParser(description="Add Bandai's Japanese card list to sets and cards.")
+    ap.add_argument("--refresh-products", action="store_true",
+                    help="re-fetch the product pages already cached, for a release date added since")
+    return ap.parse_args(argv)
+
+
+def main(argv: list[str] | None = None) -> None:
+    args = parse_args(sys.argv[1:] if argv is None else argv)
     series, printings = crawl_bandai.crawl(language="ja")
-    dates = release_dates(series, printings)
+    dates = release_dates(series, printings, refresh=args.refresh_products)
     corrections = {k: v for k, v in json.loads(CORRECTIONS.read_text(encoding="utf-8")).items()
                    if not k.startswith("_")}
     sets, files = opjson.load_sets(), opjson.load_cards()
@@ -296,4 +306,4 @@ def main() -> None:
 
 
 if __name__ == "__main__":
-    main()
+    main(sys.argv[1:])

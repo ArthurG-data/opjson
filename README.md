@@ -486,8 +486,8 @@ A refresh run that fails is the notice that something needs a person: a host tha
 conflict, a loss, or a page a fetcher refused to cache. The run's log says which.
 
 - **A merge into `main` that changes `sets/`, `data/` or `legality/`** is released as the next patch version
-  (`tools/next_version.sh`) by CI's `publish` job, through `tools/release.sh`. Merging the refresh pull request
-  releases its data.
+  (`tools/next_version.sh`) by CI's `publish` job, through `tools/release.sh`. Merging a refresh pull request that
+  changes only `review/`, `mappings/` or the README releases nothing, and its body says so.
 - **A minor version** is a tag pushed by hand (`git tag -a v0.5.0`, then `git push origin v0.5.0`). CI builds it and
   attaches the files.
 

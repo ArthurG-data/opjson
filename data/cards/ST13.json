@@ -2,6 +2,8 @@
   "cards": [
     {
       "number": "ST13-001",
+      "uuid": "1a357767-ec21-50dc-8381-ece85c0e5ab0",
+      "oracleId": "2fafacee-10ab-5449-a4a8-f4ff23c8f983",
       "name": "Sabo",
       "names": {
         "en": "Sabo",
@@ -24,6 +26,8 @@
       "printings": [
         {
           "id": "ST13-001",
+          "uuid": "a9491b12-73af-5133-999d-1faa4dd3183f",
+          "versionId": "4013f18c-c7b7-51bd-bebf-a23dd54f0d1a",
           "set": "ST13",
           "rarity": "L",
           "block": "2",
@@ -47,6 +51,8 @@
         },
         {
           "id": "ST13-001_p1",
+          "uuid": "4435b4d8-836a-5a9b-8af7-247bcff14331",
+          "versionId": "74a17dfd-4ccc-5cba-83ce-c19ecfa850c3",
           "set": "ST13",
           "rarity": "L",
           "block": "2",
@@ -73,6 +79,8 @@
         },
         {
           "id": "ST13-001~tcg567114",
+          "uuid": "e6b21439-77b9-52f1-94f7-33f083407619",
+          "versionId": "b718cb5f-0bb8-5665-b7b4-b5e2ff297dd6",
           "set": "P",
           "rarity": "L",
           "image": "https://tcgplayer-cdn.tcgplayer.com/product/567114_in_400x400.jpg",
@@ -99,6 +107,8 @@
         },
         {
           "id": "ST13-001~tcg600707",
+          "uuid": "eb652423-b53f-58d0-9d6e-42ff7ea65e78",
+          "versionId": "9ca51c2c-b1c9-51d1-9755-f359a437acdb",
           "set": "P",
           "rarity": "L",
           "image": "https://tcgplayer-cdn.tcgplayer.com/product/600707_in_400x400.jpg",
@@ -125,6 +135,8 @@
         },
         {
           "id": "ST13-001~ja",
+          "uuid": "3250e1d6-f560-53e3-b503-065e712504a9",
+          "versionId": "4013f18c-c7b7-51bd-bebf-a23dd54f0d1a",
           "language": "ja",
           "set": "ST13",
           "rarity": "L",
@@ -139,6 +151,8 @@
         },
         {
           "id": "ST13-001_p1~ja",
+          "uuid": "8b0bd098-fc8b-5c3f-b59e-80ad5991a264",
+          "versionId": "74a17dfd-4ccc-5cba-83ce-c19ecfa850c3",
           "language": "ja",
           "set": "ST13",
           "rarity": "L",
@@ -155,6 +169,8 @@
     },
     {
       "number": "ST13-002",
+      "uuid": "a88ba60d-3dec-5234-89d1-e8e5cd137879",
+      "oracleId": "82911755-0b36-5e85-b78a-c6d6421fe525",
       "name": "Portgas.D.Ace",
       "names": {
         "en": "Portgas.D.Ace",
@@ -176,6 +192,8 @@
       "printings": [
         {
           "id": "ST13-002",
+          "uuid": "76297f51-e312-5f5b-9a85-5bc61cfdb8ac",
+          "versionId": "37415afc-3e64-5f16-be4e-00ef6bbb4fac",
           "set": "ST13",
           "rarity": "L",
           "block": "2",
@@ -199,6 +217,8 @@
         },
         {
           "id": "ST13-002_p1",
+          "uuid": "dd399b7e-765d-55b2-b0fb-ddeba1f5db6f",
+          "versionId": "08314c79-1e0b-5832-b9c9-77a2b90a031b",
           "set": "ST13",
           "rarity": "L",
           "block": "2",
@@ -225,6 +245,8 @@
         },
         {
           "id": "ST13-002~tcg566953",
+          "uuid": "6959b545-2484-562a-b7c3-1decc867a6c0",
+          "versionId": "3653cb2f-d655-5034-92e1-97947056bccd",
           "set": "P",
           "rarity": "L",
           "image": "https://tcgplayer-cdn.tcgplayer.com/product/566953_in_400x400.jpg",
@@ -251,6 +273,8 @@
         },
         {
           "id": "ST13-002~tcg600709",
+          "uuid": "26c88e62-dfa5-5c2d-8694-5857ab6ba86a",
+          "versionId": "66088ec6-4733-5fff-8697-ac412876306a",
           "set": "P",
           "rarity": "L",
           "image": "https://tcgplayer-cdn.tcgplayer.com/product/600709_in_400x400.jpg",
@@ -277,6 +301,8 @@
         },
         {
           "id": "ST13-002~ja",
+          "uuid": "56d1c77b-b01b-5482-bf81-3006181ceec2",
+          "versionId": "37415afc-3e64-5f16-be4e-00ef6bbb4fac",
           "language": "ja",
           "set": "ST13",
           "rarity": "L",
@@ -291,6 +317,8 @@
         },
         {
           "id": "ST13-002_p1~ja",
+          "uuid": "43eb3842-3695-5e9e-a585-4d5dd5a96106",
+          "versionId": "08314c79-1e0b-5832-b9c9-77a2b90a031b",
           "language": "ja",
           "set": "ST13",
           "rarity": "L",
@@ -307,6 +335,8 @@
     },
     {
       "number": "ST13-003",
+      "uuid": "f5f31cf3-003e-5e9d-b88c-2c6993c1052c",
+      "oracleId": "1f9f5832-4b3e-5098-820b-b1218745f870",
       "name": "Monkey.D.Luffy",
       "names": {
         "en": "Monkey.D.Luffy",
@@ -329,6 +359,8 @@
       "printings": [
         {
           "id": "ST13-003",
+          "uuid": "12ca38f5-2337-5dae-afa6-a552c2b4f7c3",
+          "versionId": "9206a167-c104-5c2e-8abc-60b822969987",
           "set": "ST13",
           "rarity": "L",
           "block": "2",
@@ -352,6 +384,8 @@
         },
         {
           "id": "ST13-003_p1",
+          "uuid": "0981813d-060b-596a-a3b3-9ca6bc9fc891",
+          "versionId": "1242c0f2-b6e4-531f-af73-8dece48a4317",
           "set": "ST13",
           "rarity": "L",
           "block": "2",
@@ -378,6 +412,8 @@
         },
         {
           "id": "ST13-003_p2",
+          "uuid": "655ab0c4-ca49-5fdf-a64d-ab53687a4135",
+          "versionId": "0e196947-e73f-5b30-b2e3-c1da4605e064",
           "set": "P",
           "rarity": "L",
           "block": "2",
@@ -407,6 +443,8 @@
         },
         {
           "id": "ST13-003~tcg566952",
+          "uuid": "f9e584df-7eab-5b7e-8576-7480b088b644",
+          "versionId": "d56849cd-7862-5058-8907-da79ac650bca",
           "set": "P",
           "rarity": "L",
           "image": "https://tcgplayer-cdn.tcgplayer.com/product/566952_in_400x400.jpg",
@@ -433,6 +471,8 @@
         },
         {
           "id": "ST13-003~tcg600711",
+          "uuid": "acf2c895-be2f-5735-b05e-2afea2902ae2",
+          "versionId": "f943c713-d4f3-5834-b161-0ecb68a794d7",
           "set": "P",
           "rarity": "L",
           "image": "https://tcgplayer-cdn.tcgplayer.com/product/600711_in_400x400.jpg",
@@ -459,6 +499,8 @@
         },
         {
           "id": "ST13-003~ja",
+          "uuid": "d59e0520-abc3-5c24-aea9-6cc7c2936d6b",
+          "versionId": "9206a167-c104-5c2e-8abc-60b822969987",
           "language": "ja",
           "set": "ST13",
           "rarity": "L",
@@ -473,6 +515,8 @@
         },
         {
           "id": "ST13-003_p1~ja",
+          "uuid": "5322ea46-128a-5398-a10d-fbeca55133b3",
+          "versionId": "1242c0f2-b6e4-531f-af73-8dece48a4317",
           "language": "ja",
           "set": "ST13",
           "rarity": "L",
@@ -489,6 +533,8 @@
     },
     {
       "number": "ST13-004",
+      "uuid": "f473f1fd-30b1-5b4e-831a-5d7870add0b3",
+      "oracleId": "6ac9ecb8-3464-5895-ab78-afc84af8c76d",
       "name": "Edward.Newgate",
       "names": {
         "en": "Edward.Newgate",
@@ -511,6 +557,8 @@
       "printings": [
         {
           "id": "ST13-004",
+          "uuid": "b1af00a6-6e4f-57b6-953e-1746ef93715e",
+          "versionId": "031c34d1-29c8-58de-b91e-c0810a6d1aa1",
           "set": "ST13",
           "rarity": "C",
           "block": "2",
@@ -534,6 +582,8 @@
         },
         {
           "id": "ST13-004_p1",
+          "uuid": "26d3fa91-7de8-5f35-8883-b49032f21512",
+          "versionId": "ee6c7dd3-c576-53c4-be91-665789b1d6e2",
           "set": "ST13",
           "rarity": "C",
           "block": "2",
@@ -560,6 +610,8 @@
         },
         {
           "id": "ST13-004_p2",
+          "uuid": "6c0310ea-399f-5afa-a79e-0408871c316d",
+          "versionId": "da39ab1f-1484-55f7-8c20-b6ddd2db7454",
           "set": "PRB02",
           "rarity": "C",
           "block": "2",
@@ -590,6 +642,8 @@
         },
         {
           "id": "ST13-004_r1",
+          "uuid": "735bd59d-6af4-5a5f-9032-6df692c64a3e",
+          "versionId": "5fc99005-b57d-5599-af49-544c2696c41e",
           "set": "PRB02",
           "rarity": "C",
           "block": "2",
@@ -615,6 +669,8 @@
         },
         {
           "id": "ST13-004~ja",
+          "uuid": "ab0ba5bf-ab68-53cc-8a06-ece7b5f198a5",
+          "versionId": "031c34d1-29c8-58de-b91e-c0810a6d1aa1",
           "language": "ja",
           "set": "ST13",
           "rarity": "C",
@@ -629,6 +685,8 @@
         },
         {
           "id": "ST13-004_p1~ja",
+          "uuid": "2af42ccd-5d0f-5ac2-9f44-d803fbf110bd",
+          "versionId": "ee6c7dd3-c576-53c4-be91-665789b1d6e2",
           "language": "ja",
           "set": "ST13",
           "rarity": "C",
@@ -643,6 +701,8 @@
         },
         {
           "id": "ST13-004_p2~ja",
+          "uuid": "c05dd1b9-fa3a-56e5-912c-0076c96704bd",
+          "versionId": "da39ab1f-1484-55f7-8c20-b6ddd2db7454",
           "language": "ja",
           "set": "PRB02",
           "rarity": "C",
@@ -657,6 +717,8 @@
         },
         {
           "id": "ST13-004_r1~ja",
+          "uuid": "4c518b82-7aea-5fab-9f44-528000678d6a",
+          "versionId": "5fc99005-b57d-5599-af49-544c2696c41e",
           "language": "ja",
           "set": "PRB02",
           "rarity": "C",
@@ -673,6 +735,8 @@
     },
     {
       "number": "ST13-005",
+      "uuid": "8c3007f0-031c-5522-b981-9ec627837b3f",
+      "oracleId": "21857fae-ddde-5fb2-b781-55e498f9a95d",
       "name": "Emporio.Ivankov",
       "names": {
         "en": "Emporio.Ivankov",
@@ -694,6 +758,8 @@
       "printings": [
         {
           "id": "ST13-005",
+          "uuid": "dc887b40-b1ab-55ec-933a-67df2018ac0e",
+          "versionId": "fd72e25d-ad16-548c-94b6-d6767fa5bbd3",
           "set": "ST13",
           "rarity": "R",
           "block": "2",
@@ -717,6 +783,8 @@
         },
         {
           "id": "ST13-005_p1",
+          "uuid": "e0698ce4-e25c-5dde-998d-7670bde9ef50",
+          "versionId": "d75471e1-de21-5436-b8aa-199e6183997c",
           "set": "ST13",
           "rarity": "R",
           "block": "2",
@@ -743,6 +811,8 @@
         },
         {
           "id": "ST13-005~ja",
+          "uuid": "5530801b-138e-50a5-a991-274d7edd27cb",
+          "versionId": "fd72e25d-ad16-548c-94b6-d6767fa5bbd3",
           "language": "ja",
           "set": "ST13",
           "rarity": "R",
@@ -757,6 +827,8 @@
         },
         {
           "id": "ST13-005_p1~ja",
+          "uuid": "3868b4b7-938d-576c-b015-e149908f9b4f",
+          "versionId": "d75471e1-de21-5436-b8aa-199e6183997c",
           "language": "ja",
           "set": "ST13",
           "rarity": "R",
@@ -773,6 +845,8 @@
     },
     {
       "number": "ST13-006",
+      "uuid": "d5b7ad79-910f-5abb-87c6-92e2b859b1ff",
+      "oracleId": "e3716fbc-04c4-5a25-aef2-6c37bfd09e3c",
       "name": "Curly.Dadan",
       "names": {
         "en": "Curly.Dadan",
@@ -794,6 +868,8 @@
       "printings": [
         {
           "id": "ST13-006",
+          "uuid": "d2a72018-5155-57ab-ae55-c0215b0d10ff",
+          "versionId": "434a78c0-7840-58f4-be41-d122fb89e18b",
           "set": "ST13",
           "rarity": "C",
           "block": "2",
@@ -817,6 +893,8 @@
         },
         {
           "id": "ST13-006_p1",
+          "uuid": "50f2de10-d348-599a-88dc-28b75f8f4dad",
+          "versionId": "e7f19979-f425-5131-b16c-80609f97fb25",
           "set": "ST13",
           "rarity": "C",
           "block": "2",
@@ -843,6 +921,8 @@
         },
         {
           "id": "ST13-006~ja",
+          "uuid": "48d60e82-2617-556d-a321-6d562d26393d",
+          "versionId": "434a78c0-7840-58f4-be41-d122fb89e18b",
           "language": "ja",
           "set": "ST13",
           "rarity": "C",
@@ -857,6 +937,8 @@
         },
         {
           "id": "ST13-006_p1~ja",
+          "uuid": "823a6ac0-2bfa-5098-8aad-f6c3c3ac7087",
+          "versionId": "e7f19979-f425-5131-b16c-80609f97fb25",
           "language": "ja",
           "set": "ST13",
           "rarity": "C",
@@ -873,6 +955,8 @@
     },
     {
       "number": "ST13-007",
+      "uuid": "cb91229f-1f87-52b3-86ce-01b1070bc36b",
+      "oracleId": "9a7ebb12-b901-54ee-93a0-7f92a7f1ace3",
       "name": "Sabo",
       "names": {
         "en": "Sabo",
@@ -894,6 +978,8 @@
       "printings": [
         {
           "id": "ST13-007",
+          "uuid": "a48df41e-15a2-5c85-bbd1-26a1ac49b585",
+          "versionId": "09b71577-6bea-5421-a4f6-c4cb5730e3e0",
           "set": "ST13",
           "rarity": "C",
           "block": "2",
@@ -917,6 +1003,8 @@
         },
         {
           "id": "ST13-007_p1",
+          "uuid": "68349451-d7e4-5f58-a8df-65ab1840b9ce",
+          "versionId": "a14da44e-62f9-5e4b-9218-eb4dfe92ebb1",
           "set": "ST13",
           "rarity": "C",
           "block": "2",
@@ -943,6 +1031,8 @@
         },
         {
           "id": "ST13-007_p2",
+          "uuid": "362eb998-8c67-5ac8-9298-438649002225",
+          "versionId": "22142d90-d6da-5eb1-84fc-0eaebb7cfd50",
           "set": "PRB02",
           "rarity": "C",
           "block": "2",
@@ -973,6 +1063,8 @@
         },
         {
           "id": "ST13-007_r1",
+          "uuid": "0559b348-a810-55b7-9c6c-f79df8d36e0b",
+          "versionId": "c8af44e2-42a7-5208-acae-3be475a2f346",
           "set": "PRB02",
           "rarity": "C",
           "block": "2",
@@ -1000,6 +1092,8 @@
         },
         {
           "id": "ST13-007~ja",
+          "uuid": "ca4181d3-3f71-5e72-a93e-c1103a5c9973",
+          "versionId": "09b71577-6bea-5421-a4f6-c4cb5730e3e0",
           "language": "ja",
           "set": "ST13",
           "rarity": "C",
@@ -1014,6 +1108,8 @@
         },
         {
           "id": "ST13-007_p1~ja",
+          "uuid": "880ce05c-d1b5-560e-8471-64616008db97",
+          "versionId": "a14da44e-62f9-5e4b-9218-eb4dfe92ebb1",
           "language": "ja",
           "set": "ST13",
           "rarity": "C",
@@ -1028,6 +1124,8 @@
         },
         {
           "id": "ST13-007_p2~ja",
+          "uuid": "741c7657-4415-577e-8e7f-8a6a1bb1c768",
+          "versionId": "22142d90-d6da-5eb1-84fc-0eaebb7cfd50",
           "language": "ja",
           "set": "PRB02",
           "rarity": "C",
@@ -1042,6 +1140,8 @@
         },
         {
           "id": "ST13-007_r1~ja",
+          "uuid": "feb5e230-cbaa-5355-9bcc-faa76ab50572",
+          "versionId": "c8af44e2-42a7-5208-acae-3be475a2f346",
           "language": "ja",
           "set": "PRB02",
           "rarity": "C",
@@ -1058,6 +1158,8 @@
     },
     {
       "number": "ST13-008",
+      "uuid": "d29bebbc-d27d-5c63-8a43-70e2c75aa852",
+      "oracleId": "556b4c6a-a351-506e-ad2c-44985205894b",
       "name": "Sabo",
       "names": {
         "en": "Sabo",
@@ -1080,6 +1182,8 @@
       "printings": [
         {
           "id": "ST13-008",
+          "uuid": "88882312-754b-5947-99e2-3c9f028fbce8",
+          "versionId": "bb8155e3-5462-5f77-b3da-63fce6aad826",
           "set": "ST13",
           "rarity": "SR",
           "block": "2",
@@ -1103,6 +1207,8 @@
         },
         {
           "id": "ST13-008_p1",
+          "uuid": "20a99e1a-be0c-5dd3-923a-413ae3b376e2",
+          "versionId": "514ddf5a-3a63-5f2f-a112-de0f96037a53",
           "set": "ST13",
           "rarity": "SR",
           "block": "2",
@@ -1129,6 +1235,8 @@
         },
         {
           "id": "ST13-008~ja",
+          "uuid": "3bc78c20-72e7-53b4-a952-1f1f42a00b24",
+          "versionId": "bb8155e3-5462-5f77-b3da-63fce6aad826",
           "language": "ja",
           "set": "ST13",
           "rarity": "SR",
@@ -1143,6 +1251,8 @@
         },
         {
           "id": "ST13-008_p1~ja",
+          "uuid": "b2f9fe8c-b4fb-546f-9117-2e67eb32c630",
+          "versionId": "514ddf5a-3a63-5f2f-a112-de0f96037a53",
           "language": "ja",
           "set": "ST13",
           "rarity": "SR",
@@ -1159,6 +1269,8 @@
     },
     {
       "number": "ST13-009",
+      "uuid": "dbc6647f-840d-5ad8-a469-ad3d58c4ea11",
+      "oracleId": "48f94046-771e-5fdc-8d8f-baa9f8b9cbe9",
       "name": "Shanks",
       "names": {
         "en": "Shanks",
@@ -1180,6 +1292,8 @@
       "printings": [
         {
           "id": "ST13-009",
+          "uuid": "cba3cf86-3d17-58e7-bb6e-b648c148f617",
+          "versionId": "ccc937b1-6a71-54bf-9c95-22e8991fdf3e",
           "set": "ST13",
           "rarity": "C",
           "block": "2",
@@ -1203,6 +1317,8 @@
         },
         {
           "id": "ST13-009_p1",
+          "uuid": "a45f2520-ae0a-560e-9888-15ed1e673625",
+          "versionId": "b0c560af-c03e-599e-871d-f0dfffdfa381",
           "set": "ST13",
           "rarity": "C",
           "block": "2",
@@ -1229,6 +1345,8 @@
         },
         {
           "id": "ST13-009~ja",
+          "uuid": "ffb1150a-8d90-5562-b3a7-588fd9281ae3",
+          "versionId": "ccc937b1-6a71-54bf-9c95-22e8991fdf3e",
           "language": "ja",
           "set": "ST13",
           "rarity": "C",
@@ -1243,6 +1361,8 @@
         },
         {
           "id": "ST13-009_p1~ja",
+          "uuid": "9fcfb190-d29d-55ff-a3e1-c6e4b63caafd",
+          "versionId": "b0c560af-c03e-599e-871d-f0dfffdfa381",
           "language": "ja",
           "set": "ST13",
           "rarity": "C",
@@ -1259,6 +1379,8 @@
     },
     {
       "number": "ST13-010",
+      "uuid": "21083b64-c849-5ddd-9c80-15a763d08cee",
+      "oracleId": "3e5282b2-0fc6-5cd1-affc-c961c4dad906",
       "name": "Portgas.D.Ace",
       "names": {
         "en": "Portgas.D.Ace",
@@ -1280,6 +1402,8 @@
       "printings": [
         {
           "id": "ST13-010",
+          "uuid": "14ed2aea-f9e5-5966-8c1c-7ea6a54c699b",
+          "versionId": "acce2169-9de0-5c02-86c7-d942bd01c5cd",
           "set": "ST13",
           "rarity": "C",
           "block": "2",
@@ -1303,6 +1427,8 @@
         },
         {
           "id": "ST13-010_p1",
+          "uuid": "ca880063-e89d-56ab-8bd1-7b47d71c3077",
+          "versionId": "56b628e7-d8a2-52a1-9fcc-f82695c68f4a",
           "set": "ST13",
           "rarity": "C",
           "block": "2",
@@ -1329,6 +1455,8 @@
         },
         {
           "id": "ST13-010_p2",
+          "uuid": "f5c4191c-4353-5b39-87b7-50eafc452314",
+          "versionId": "8e8a972a-9cd6-5cbb-ae32-2a26195abaab",
           "set": "PRB02",
           "rarity": "C",
           "block": "2",
@@ -1359,6 +1487,8 @@
         },
         {
           "id": "ST13-010_r1",
+          "uuid": "f0849876-2327-5bdf-b138-00ff0ac4ac7a",
+          "versionId": "3b8f6923-8384-5840-85db-045fc9402852",
           "set": "PRB02",
           "rarity": "C",
           "block": "2",
@@ -1384,6 +1514,8 @@
         },
         {
           "id": "ST13-010~ja",
+          "uuid": "209339e4-1dbe-5dd4-b75e-7c0821d5d2b9",
+          "versionId": "acce2169-9de0-5c02-86c7-d942bd01c5cd",
           "language": "ja",
           "set": "ST13",
           "rarity": "C",
@@ -1398,6 +1530,8 @@
         },
         {
           "id": "ST13-010_p1~ja",
+          "uuid": "bae51b7c-75e2-5a36-8f29-af8f501161da",
+          "versionId": "56b628e7-d8a2-52a1-9fcc-f82695c68f4a",
           "language": "ja",
           "set": "ST13",
           "rarity": "C",
@@ -1412,6 +1546,8 @@
         },
         {
           "id": "ST13-010_p2~ja",
+          "uuid": "bc410ae7-1dd1-542c-a5ba-ed2b4ae21707",
+          "versionId": "8e8a972a-9cd6-5cbb-ae32-2a26195abaab",
           "language": "ja",
           "set": "PRB02",
           "rarity": "C",
@@ -1426,6 +1562,8 @@
         },
         {
           "id": "ST13-010_r1~ja",
+          "uuid": "9f8593d9-4518-53fe-afe9-bd0e3054cc04",
+          "versionId": "3b8f6923-8384-5840-85db-045fc9402852",
           "language": "ja",
           "set": "PRB02",
           "rarity": "C",
@@ -1442,6 +1580,8 @@
     },
     {
       "number": "ST13-011",
+      "uuid": "49733933-fb40-5384-9514-91d0a54a1141",
+      "oracleId": "f3401cb8-66f3-504e-b3c6-56d9fbce70e6",
       "name": "Portgas.D.Ace",
       "names": {
         "en": "Portgas.D.Ace",
@@ -1462,6 +1602,8 @@
       "printings": [
         {
           "id": "ST13-011",
+          "uuid": "19d44273-3552-5c86-9b92-b3ebf17e95bf",
+          "versionId": "1200dfbf-6f29-50df-b681-bed6dd5385e8",
           "set": "ST13",
           "rarity": "SR",
           "block": "2",
@@ -1485,6 +1627,8 @@
         },
         {
           "id": "ST13-011_p1",
+          "uuid": "eefa3853-d43d-5526-bd42-53ed640ed394",
+          "versionId": "45b5a781-6138-5b0c-b482-c91581e10978",
           "set": "ST13",
           "rarity": "SR",
           "block": "2",
@@ -1511,6 +1655,8 @@
         },
         {
           "id": "ST13-011_p2",
+          "uuid": "3ca7dc20-13fe-5f97-89f9-820f7425fb5e",
+          "versionId": "28015874-6a43-58cf-8c57-ffec632f8aa8",
           "set": "OP12",
           "rarity": "SP CARD",
           "block": "2",
@@ -1537,6 +1683,8 @@
         },
         {
           "id": "ST13-011~ja",
+          "uuid": "ef49baca-2686-5fdf-83aa-3a3895cf6c6d",
+          "versionId": "1200dfbf-6f29-50df-b681-bed6dd5385e8",
           "language": "ja",
           "set": "ST13",
           "rarity": "SR",
@@ -1551,6 +1699,8 @@
         },
         {
           "id": "ST13-011_p1~ja",
+          "uuid": "bc39c428-378a-516b-b97a-b403af621f3a",
+          "versionId": "45b5a781-6138-5b0c-b482-c91581e10978",
           "language": "ja",
           "set": "ST13",
           "rarity": "SR",
@@ -1565,6 +1715,8 @@
         },
         {
           "id": "ST13-011_p2~ja",
+          "uuid": "31973ddf-9f73-5c01-848d-c250a0c9b3a9",
+          "versionId": "28015874-6a43-58cf-8c57-ffec632f8aa8",
           "language": "ja",
           "set": "OP12",
           "rarity": "SP CARD",
@@ -1581,6 +1733,8 @@
     },
     {
       "number": "ST13-012",
+      "uuid": "a70b188f-5846-530a-be3a-91164c5ab3bb",
+      "oracleId": "bd053ec2-0003-5e2f-a303-1b97fe771ef7",
       "name": "Makino",
       "names": {
         "en": "Makino",
@@ -1601,6 +1755,8 @@
       "printings": [
         {
           "id": "ST13-012",
+          "uuid": "84605359-ceda-5762-980b-cec19b1f7238",
+          "versionId": "b8b8d184-bbe4-50ba-a2b9-ee9b09818482",
           "set": "ST13",
           "rarity": "C",
           "block": "2",
@@ -1624,6 +1780,8 @@
         },
         {
           "id": "ST13-012_p1",
+          "uuid": "ba9d0ede-bcad-527c-8299-d2657803fd21",
+          "versionId": "da5f3bad-5a49-516a-bc11-de4fc4dddeec",
           "set": "ST13",
           "rarity": "C",
           "block": "2",
@@ -1650,6 +1808,8 @@
         },
         {
           "id": "ST13-012_p2",
+          "uuid": "55223e61-29dc-51c2-8c05-872cfbfd6099",
+          "versionId": "be7db7ae-7a4a-582a-bce3-53deb522b7d1",
           "set": "OTHER",
           "rarity": "C",
           "block": "2",
@@ -1679,6 +1839,8 @@
         },
         {
           "id": "ST13-012~tcg583756",
+          "uuid": "cdbdf5ae-af62-535c-a8fc-7461353ceaea",
+          "versionId": "8aba9a33-51cd-505e-b1ee-6f946d965047",
           "set": "P",
           "rarity": "C",
           "image": "https://tcgplayer-cdn.tcgplayer.com/product/583756_in_400x400.jpg",
@@ -1705,6 +1867,8 @@
         },
         {
           "id": "ST13-012~ja",
+          "uuid": "49fbf8ae-fd5a-5f41-a34c-85ec33455281",
+          "versionId": "b8b8d184-bbe4-50ba-a2b9-ee9b09818482",
           "language": "ja",
           "set": "ST13",
           "rarity": "C",
@@ -1719,6 +1883,8 @@
         },
         {
           "id": "ST13-012_p1~ja",
+          "uuid": "3341e1b9-3f07-5642-9c95-588a1f095074",
+          "versionId": "da5f3bad-5a49-516a-bc11-de4fc4dddeec",
           "language": "ja",
           "set": "ST13",
           "rarity": "C",
@@ -1733,6 +1899,8 @@
         },
         {
           "id": "ST13-012_p2~ja",
+          "uuid": "899223cf-62f1-5360-9710-511aeecb8da9",
+          "versionId": "be7db7ae-7a4a-582a-bce3-53deb522b7d1",
           "language": "ja",
           "set": "OTHER",
           "rarity": "C",
@@ -1749,6 +1917,8 @@
     },
     {
       "number": "ST13-013",
+      "uuid": "1075d460-7077-51e5-a09a-5c35063123f5",
+      "oracleId": "c3d1e052-baa1-5408-bfbc-63fc84ce0a18",
       "name": "Monkey.D.Garp",
       "names": {
         "en": "Monkey.D.Garp",
@@ -1770,6 +1940,8 @@
       "printings": [
         {
           "id": "ST13-013",
+          "uuid": "b7d9dc47-aa17-5dad-bae6-4d7fc1082591",
+          "versionId": "477f101f-091c-538b-bffc-94236979b9ed",
           "set": "ST13",
           "rarity": "SR",
           "block": "2",
@@ -1793,6 +1965,8 @@
         },
         {
           "id": "ST13-013_p1",
+          "uuid": "369a2426-d5ab-5ff8-a161-cacd84b5c7a4",
+          "versionId": "028ef828-aa1b-59b4-8495-abb24c43cb48",
           "set": "ST13",
           "rarity": "SR",
           "block": "2",
@@ -1819,6 +1993,8 @@
         },
         {
           "id": "ST13-013~ja",
+          "uuid": "d709ae41-5b1c-5f1a-9aa2-990e5b724f95",
+          "versionId": "477f101f-091c-538b-bffc-94236979b9ed",
           "language": "ja",
           "set": "ST13",
           "rarity": "SR",
@@ -1833,6 +2009,8 @@
         },
         {
           "id": "ST13-013_p1~ja",
+          "uuid": "7be2e142-0119-54c0-b405-ef21e9044ad0",
+          "versionId": "028ef828-aa1b-59b4-8495-abb24c43cb48",
           "language": "ja",
           "set": "ST13",
           "rarity": "SR",
@@ -1849,6 +2027,8 @@
     },
     {
       "number": "ST13-014",
+      "uuid": "69a449c8-a5b3-5202-a135-52068a1650b7",
+      "oracleId": "35d68d66-4949-50bb-87fd-06e85617be05",
       "name": "Monkey.D.Luffy",
       "names": {
         "en": "Monkey.D.Luffy",
@@ -1870,6 +2050,8 @@
       "printings": [
         {
           "id": "ST13-014",
+          "uuid": "ae04e612-5c7b-5668-95c2-ec98bc01f529",
+          "versionId": "b15678b7-1392-5953-9e3e-3838d125eb18",
           "set": "ST13",
           "rarity": "C",
           "block": "2",
@@ -1893,6 +2075,8 @@
         },
         {
           "id": "ST13-014_p1",
+          "uuid": "a22b17d7-dd80-5001-898f-b8a8d642247e",
+          "versionId": "2064b412-53b6-5981-b29c-91fccef9b5dd",
           "set": "ST13",
           "rarity": "C",
           "block": "2",
@@ -1919,6 +2103,8 @@
         },
         {
           "id": "ST13-014_p2",
+          "uuid": "18e71652-b112-5007-9347-0abdd3ff263c",
+          "versionId": "6908899b-d5d0-5344-a38e-780b40bfb3b4",
           "set": "PRB02",
           "rarity": "C",
           "block": "2",
@@ -1949,6 +2135,8 @@
         },
         {
           "id": "ST13-014_r1",
+          "uuid": "c6c0e981-6097-52c2-ac7a-f76a96f9c0d8",
+          "versionId": "8cdcef5c-7be0-5101-a10d-3652588ed52d",
           "set": "PRB02",
           "rarity": "C",
           "block": "2",
@@ -1976,6 +2164,8 @@
         },
         {
           "id": "ST13-014~ja",
+          "uuid": "05bb1751-dade-5d41-9223-f3fd6eab0491",
+          "versionId": "b15678b7-1392-5953-9e3e-3838d125eb18",
           "language": "ja",
           "set": "ST13",
           "rarity": "C",
@@ -1990,6 +2180,8 @@
         },
         {
           "id": "ST13-014_p1~ja",
+          "uuid": "8b6012bf-1f0c-53ba-84cc-73e06c5a27ce",
+          "versionId": "2064b412-53b6-5981-b29c-91fccef9b5dd",
           "language": "ja",
           "set": "ST13",
           "rarity": "C",
@@ -2004,6 +2196,8 @@
         },
         {
           "id": "ST13-014_p2~ja",
+          "uuid": "26a674f1-58a9-5536-851b-88e1287c7ea2",
+          "versionId": "6908899b-d5d0-5344-a38e-780b40bfb3b4",
           "language": "ja",
           "set": "PRB02",
           "rarity": "C",
@@ -2018,6 +2212,8 @@
         },
         {
           "id": "ST13-014_r1~ja",
+          "uuid": "58691d54-eea1-5d19-9fa2-b1b561a042fd",
+          "versionId": "8cdcef5c-7be0-5101-a10d-3652588ed52d",
           "language": "ja",
           "set": "PRB02",
           "rarity": "C",
@@ -2034,6 +2230,8 @@
     },
     {
       "number": "ST13-015",
+      "uuid": "9038c332-c620-5459-9378-bb7052278e87",
+      "oracleId": "563c5632-933b-5118-a2d6-79d35b831a98",
       "name": "Monkey.D.Luffy",
       "names": {
         "en": "Monkey.D.Luffy",
@@ -2056,6 +2254,8 @@
       "printings": [
         {
           "id": "ST13-015",
+          "uuid": "daf12f4b-fa53-5bfc-8eaa-6d2bb0aab5cd",
+          "versionId": "dafd2fdc-b47f-5ba5-ae59-0e332b9afd63",
           "set": "ST13",
           "rarity": "SR",
           "block": "2",
@@ -2079,6 +2279,8 @@
         },
         {
           "id": "ST13-015_p1",
+          "uuid": "c625dea7-259d-58ab-9ff7-c971081b7711",
+          "versionId": "35e5edbb-a98f-558a-a450-f8b602ea6fcd",
           "set": "ST13",
           "rarity": "SR",
           "block": "2",
@@ -2105,6 +2307,8 @@
         },
         {
           "id": "ST13-015_p2",
+          "uuid": "8c1171e5-0d45-5de7-9fe3-c9087e039bc2",
+          "versionId": "2260d75d-3699-558c-a731-d689ef676304",
           "set": "OTHER",
           "rarity": "SR",
           "block": "2",
@@ -2115,6 +2319,8 @@
         },
         {
           "id": "ST13-015~tcg617594",
+          "uuid": "caf17b96-5afa-5751-9ed6-3639723e0612",
+          "versionId": "3f7cd7f6-60d2-5f7e-80e1-81cf34c5e893",
           "set": "P",
           "rarity": "SR",
           "image": "https://tcgplayer-cdn.tcgplayer.com/product/617594_in_400x400.jpg",
@@ -2145,6 +2351,8 @@
         },
         {
           "id": "ST13-015~ja",
+          "uuid": "97923f14-882c-5d02-9b94-24e7627f5ddf",
+          "versionId": "dafd2fdc-b47f-5ba5-ae59-0e332b9afd63",
           "language": "ja",
           "set": "ST13",
           "rarity": "SR",
@@ -2159,6 +2367,8 @@
         },
         {
           "id": "ST13-015_p1~ja",
+          "uuid": "7687e1eb-56c6-581a-8043-80238795353a",
+          "versionId": "35e5edbb-a98f-558a-a450-f8b602ea6fcd",
           "language": "ja",
           "set": "ST13",
           "rarity": "SR",
@@ -2173,6 +2383,8 @@
         },
         {
           "id": "ST13-015_p2~ja",
+          "uuid": "5a997e4e-49cc-5305-9479-570cb399e114",
+          "versionId": "2260d75d-3699-558c-a731-d689ef676304",
           "language": "ja",
           "set": "OTHER",
           "rarity": "SR",
@@ -2186,6 +2398,8 @@
     },
     {
       "number": "ST13-016",
+      "uuid": "9d9933b6-5eef-5982-8f24-c1cad2da5dec",
+      "oracleId": "284ef96c-7988-55be-af9f-0d8b8a4e78b3",
       "name": "Yamato",
       "names": {
         "en": "Yamato",
@@ -2207,6 +2421,8 @@
       "printings": [
         {
           "id": "ST13-016",
+          "uuid": "71c58cd1-3114-50ed-a0c1-fcd5f00ef70e",
+          "versionId": "8cbac122-3369-541a-a6b5-90d9ff3cb576",
           "set": "ST13",
           "rarity": "C",
           "block": "2",
@@ -2230,6 +2446,8 @@
         },
         {
           "id": "ST13-016_p1",
+          "uuid": "a1ddcaac-a38f-5861-83a6-46272ac497b3",
+          "versionId": "490832b6-3af5-566e-bc79-d8ca677a4f5a",
           "set": "ST13",
           "rarity": "C",
           "block": "2",
@@ -2256,6 +2474,8 @@
         },
         {
           "id": "ST13-016_r1",
+          "uuid": "2cb57d34-9455-55b0-a941-0bd4df480366",
+          "versionId": "e5018cca-9f71-5f65-90de-de9206d2a567",
           "set": "ST28",
           "rarity": "C",
           "block": "2",
@@ -2281,6 +2501,8 @@
         },
         {
           "id": "ST13-016~tcg623071",
+          "uuid": "f4eab591-f416-5eb1-a210-3ff615215fee",
+          "versionId": "2bc55a8e-aafe-5d22-a66b-336ab2162b63",
           "set": "P",
           "rarity": "C",
           "image": "https://tcgplayer-cdn.tcgplayer.com/product/623071_in_400x400.jpg",
@@ -2311,6 +2533,8 @@
         },
         {
           "id": "ST13-016~tcg712036",
+          "uuid": "218f128e-1d7c-5769-96fe-1e4c45c6bfcd",
+          "versionId": "2365d4d9-d04c-5161-b9cd-9faed569c7cb",
           "set": "P",
           "rarity": "C",
           "image": "https://tcgplayer-cdn.tcgplayer.com/product/712036_in_400x400.jpg",
@@ -2337,6 +2561,8 @@
         },
         {
           "id": "ST13-016~ja",
+          "uuid": "a588a4e2-3464-56f8-846c-e2c32a8d5c5c",
+          "versionId": "8cbac122-3369-541a-a6b5-90d9ff3cb576",
           "language": "ja",
           "set": "ST13",
           "rarity": "C",
@@ -2351,6 +2577,8 @@
         },
         {
           "id": "ST13-016_p1~ja",
+          "uuid": "b01e317c-3194-5227-9470-269cbbf52926",
+          "versionId": "490832b6-3af5-566e-bc79-d8ca677a4f5a",
           "language": "ja",
           "set": "ST13",
           "rarity": "C",
@@ -2365,6 +2593,8 @@
         },
         {
           "id": "ST13-016_r1~ja",
+          "uuid": "990018dd-bdbd-5125-8cc5-7d5344787ed3",
+          "versionId": "e5018cca-9f71-5f65-90de-de9206d2a567",
           "language": "ja",
           "set": "ST28",
           "rarity": "C",
@@ -2381,6 +2611,8 @@
     },
     {
       "number": "ST13-017",
+      "uuid": "0456b5b2-157b-5f1a-87ea-ad2d67991fa1",
+      "oracleId": "10428b2b-279c-5b25-bcdf-ad7a8ad0cd98",
       "name": "Flame Dragon King",
       "names": {
         "en": "Flame Dragon King",
@@ -2398,6 +2630,8 @@
       "printings": [
         {
           "id": "ST13-017",
+          "uuid": "435d3da3-7231-5772-b3fc-335fe6bd9dd3",
+          "versionId": "37e4cbe2-9a64-514b-b1d8-f06a47c9a37f",
           "set": "ST13",
           "rarity": "C",
           "block": "2",
@@ -2420,6 +2654,8 @@
         },
         {
           "id": "ST13-017~ja",
+          "uuid": "b8e46522-8e36-5d2e-8296-0c64924e262c",
+          "versionId": "37e4cbe2-9a64-514b-b1d8-f06a47c9a37f",
           "language": "ja",
           "set": "ST13",
           "rarity": "C",
@@ -2436,6 +2672,8 @@
     },
     {
       "number": "ST13-018",
+      "uuid": "38c5de1c-63a6-5729-bea5-83aaf10eaec3",
+      "oracleId": "769e39b3-d4ed-56d7-9f3c-29a75db1ec6f",
       "name": "Gum-Gum Jet Spear",
       "names": {
         "en": "Gum-Gum Jet Spear",
@@ -2453,6 +2691,8 @@
       "printings": [
         {
           "id": "ST13-018",
+          "uuid": "e0b9c585-6ba6-58f5-b22d-e51fcb37b8f7",
+          "versionId": "0b0cbc3b-af12-5a3a-a81f-dd5e38f9526e",
           "set": "ST13",
           "rarity": "C",
           "block": "2",
@@ -2475,6 +2715,8 @@
         },
         {
           "id": "ST13-018~ja",
+          "uuid": "a58e11fc-77da-5d6c-83fa-9ccad5163216",
+          "versionId": "0b0cbc3b-af12-5a3a-a81f-dd5e38f9526e",
           "language": "ja",
           "set": "ST13",
           "rarity": "C",
@@ -2491,6 +2733,8 @@
     },
     {
       "number": "ST13-019",
+      "uuid": "0e4d5282-3f48-5b0b-a033-b46ecb5a1722",
+      "oracleId": "c5f79384-667c-595c-ac9b-8179b62d4334",
       "name": "The Three Brothers' Bond",
       "names": {
         "en": "The Three Brothers' Bond",
@@ -2507,6 +2751,8 @@
       "printings": [
         {
           "id": "ST13-019",
+          "uuid": "89f1dd27-eef3-5b11-95f1-c8488f12d0e1",
+          "versionId": "9184c2d7-e23a-5a77-b517-f2df52617995",
           "set": "ST13",
           "rarity": "C",
           "block": "2",
@@ -2529,6 +2775,8 @@
         },
         {
           "id": "ST13-019_p1",
+          "uuid": "df2935f9-d38e-554b-a559-fc541816ac43",
+          "versionId": "9082ba11-93b4-5b61-861c-a2915e93c10c",
           "set": "PRB02",
           "rarity": "C",
           "block": "2",
@@ -2558,6 +2806,8 @@
         },
         {
           "id": "ST13-019_r1",
+          "uuid": "96b5ef41-6f6d-55f6-9cae-1057daea210d",
+          "versionId": "559e9ecc-2c86-57a4-9b0b-88f073ea12ed",
           "set": "PRB02",
           "rarity": "C",
           "block": "2",
@@ -2583,6 +2833,8 @@
         },
         {
           "id": "ST13-019~ja",
+          "uuid": "50ae13ca-6eaf-56c1-a2ac-43608b24d0f5",
+          "versionId": "9184c2d7-e23a-5a77-b517-f2df52617995",
           "language": "ja",
           "set": "ST13",
           "rarity": "C",
@@ -2597,6 +2849,8 @@
         },
         {
           "id": "ST13-019_p1~ja",
+          "uuid": "e72ca3a7-8957-51d1-b983-5b3ef078cacb",
+          "versionId": "9082ba11-93b4-5b61-861c-a2915e93c10c",
           "language": "ja",
           "set": "PRB02",
           "rarity": "C",
@@ -2611,6 +2865,8 @@
         },
         {
           "id": "ST13-019_r1~ja",
+          "uuid": "f5cffbae-ad04-5159-90d9-1afffb0a8038",
+          "versionId": "559e9ecc-2c86-57a4-9b0b-88f073ea12ed",
           "language": "ja",
           "set": "PRB02",
           "rarity": "C",

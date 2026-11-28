@@ -15,6 +15,8 @@
         "required": ["number", "name", "names", "category", "printings"],
         "properties": {
           "number": {"type": "string", "pattern": "^([A-Z]+[0-9]*-[0-9]{3}|DON)$"},
+          "uuid": {"type": "string", "format": "uuid", "description": "The card's UUID: given once, kept for good, recorded in data/uuids.json (tools/uuids.py)."},
+          "oracleId": {"type": "string", "format": "uuid", "description": "The card for the game's rules, whatever its printings, as Scryfall's oracle_id. One per card number: One Piece limits a deck to four cards of one card number."},
           "name": {"type": "string", "minLength": 1, "description": "The English name when the card has one, else the Japanese one."},
           "names": {"type": "object", "additionalProperties": false, "minProperties": 1,
                     "description": "The card's name in each language it has printings in.",
@@ -42,6 +44,8 @@
       "properties": {
         "id": {"type": "string", "pattern": "^([A-Z]+[0-9]*-[0-9]{3}(_[pr][0-9]+)?(~ja)?|([A-Z]+[0-9]*-[0-9]{3}|DON)~tcg[0-9]+)$",
                "description": "Bandai's printing id (OP01-006_p1); for a printing on Bandai's Japanese card list, its Japanese id and ~ja (OP01-006_p1~ja); for a printing only TCGplayer sells, the card number and its TCGplayer product id (OP02-013~tcg485123)."},
+        "uuid": {"type": "string", "format": "uuid", "description": "The printing's UUID: given once, kept for good, recorded in data/uuids.json. Each language's printing has its own."},
+        "versionId": {"type": "string", "format": "uuid", "description": "Shared by an English printing and its Japanese twin (twinOf): one printing in every language it is printed in."},
         "language": {"enum": ["en", "ja"], "description": "The printing's language. Absent means en."},
         "set": {"type": "string"},
         "rarity": {"enum": ["L", "C", "UC", "R", "SR", "SEC", "SP CARD", "TR", "P", "SP", "DON!!"]},

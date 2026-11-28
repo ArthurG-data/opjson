@@ -2,6 +2,8 @@
   "cards": [
     {
       "number": "ST30-001",
+      "uuid": "9bcdb62a-8590-5377-8318-0bdead5573cb",
+      "oracleId": "91a5895e-66a8-5768-bae5-241a4845bd67",
       "name": "Luffy & Ace",
       "names": {
         "en": "Luffy & Ace",
@@ -26,6 +28,8 @@
       "printings": [
         {
           "id": "ST30-001",
+          "uuid": "dadae345-113a-538a-8b4b-69f157c4485b",
+          "versionId": "082ae338-3e74-5421-b2ac-c7ba3d8e207d",
           "set": "ST30",
           "rarity": "L",
           "block": "5",
@@ -48,6 +52,8 @@
         },
         {
           "id": "ST30-001_p1",
+          "uuid": "8b1b4765-8d0e-5aa0-badb-e4480e3c1601",
+          "versionId": "2e1441e1-fb47-51ed-a51f-e315b4b4436c",
           "set": "ST30",
           "rarity": "L",
           "block": "5",
@@ -73,6 +79,8 @@
         },
         {
           "id": "ST30-001~ja",
+          "uuid": "e8f8c878-b408-5119-8030-8af15f52f672",
+          "versionId": "082ae338-3e74-5421-b2ac-c7ba3d8e207d",
           "language": "ja",
           "set": "ST30",
           "rarity": "L",
@@ -87,6 +95,8 @@
         },
         {
           "id": "ST30-001_p1~ja",
+          "uuid": "1b0b4b33-8d4a-5904-abfb-c7874de634c6",
+          "versionId": "2e1441e1-fb47-51ed-a51f-e315b4b4436c",
           "language": "ja",
           "set": "ST30",
           "rarity": "L",
@@ -103,6 +113,8 @@
     },
     {
       "number": "ST30-002",
+      "uuid": "bc2f3d6f-8bc2-560c-8ba6-a6d407b7f54b",
+      "oracleId": "1c554de4-0f2b-5bfc-b44b-9a938c3724d6",
       "name": "Inazuma",
       "names": {
         "en": "Inazuma",
@@ -125,6 +137,8 @@
       "printings": [
         {
           "id": "ST30-002",
+          "uuid": "1329220d-baf4-5035-8f93-8e49965e0b3b",
+          "versionId": "f10b3860-4c87-5a2d-85cc-23dccd666cc4",
           "set": "ST30",
           "rarity": "C",
           "block": "5",
@@ -148,6 +162,8 @@
         },
         {
           "id": "ST30-002_p1",
+          "uuid": "836677cb-8afa-5f36-8229-2de176e3223d",
+          "versionId": "ae594a61-4862-5eb5-8b68-0503d5b91e90",
           "set": "ST30",
           "rarity": "C",
           "block": "5",
@@ -174,6 +190,8 @@
         },
         {
           "id": "ST30-002~ja",
+          "uuid": "8c70e748-5ce0-580e-aadd-17e6a0dd8f18",
+          "versionId": "f10b3860-4c87-5a2d-85cc-23dccd666cc4",
           "language": "ja",
           "set": "ST30",
           "rarity": "C",
@@ -188,6 +206,8 @@
         },
         {
           "id": "ST30-002_p1~ja",
+          "uuid": "7ac66ff7-09f8-534d-bd4d-c1a06bcf666a",
+          "versionId": "ae594a61-4862-5eb5-8b68-0503d5b91e90",
           "language": "ja",
           "set": "ST30",
           "rarity": "C",
@@ -204,6 +224,8 @@
     },
     {
       "number": "ST30-003",
+      "uuid": "6badfd74-7579-5768-b285-e44660d5a59a",
+      "oracleId": "babfe6bb-6148-5b12-996c-eb1da35b2295",
       "name": "Edward.Newgate",
       "names": {
         "en": "Edward.Newgate",
@@ -226,6 +248,8 @@
       "printings": [
         {
           "id": "ST30-003",
+          "uuid": "2d84c47d-b1ea-5460-bbd7-169cb4ad3ffa",
+          "versionId": "4850e7dc-084e-5eeb-9a7a-027fbcafe884",
           "set": "ST30",
           "rarity": "C",
           "block": "5",
@@ -249,6 +273,8 @@
         },
         {
           "id": "ST30-003_p1",
+          "uuid": "4cf86727-af12-5e6f-b02d-0de27891741c",
+          "versionId": "3d66defe-e09a-5905-be8e-501b054ccf9d",
           "set": "ST30",
           "rarity": "C",
           "block": "5",
@@ -275,6 +301,8 @@
         },
         {
           "id": "ST30-003~ja",
+          "uuid": "847980d1-8ec0-58b3-bf39-9bf4bb149a7a",
+          "versionId": "4850e7dc-084e-5eeb-9a7a-027fbcafe884",
           "language": "ja",
           "set": "ST30",
           "rarity": "C",
@@ -289,6 +317,8 @@
         },
         {
           "id": "ST30-003_p1~ja",
+          "uuid": "1c543a75-71ca-50ac-9311-2f51943f4288",
+          "versionId": "3d66defe-e09a-5905-be8e-501b054ccf9d",
           "language": "ja",
           "set": "ST30",
           "rarity": "C",
@@ -305,6 +335,8 @@
     },
     {
       "number": "ST30-004",
+      "uuid": "1950ac2e-1155-5b6f-a1ae-b3f57bea5f80",
+      "oracleId": "9730db31-5cf1-5e02-b998-2aaae2e994b2",
       "name": "Emporio.Ivankov",
       "names": {
         "en": "Emporio.Ivankov",
@@ -327,6 +359,8 @@
       "printings": [
         {
           "id": "ST30-004",
+          "uuid": "ab750050-c6ab-5036-b11f-ba5ec0ad297c",
+          "versionId": "950f5a0b-3585-55f9-a521-3527d1686f3c",
           "set": "ST30",
           "rarity": "C",
           "block": "5",
@@ -350,6 +384,8 @@
         },
         {
           "id": "ST30-004_p1",
+          "uuid": "a7b49a5c-18b1-5af8-82dc-7ff45b954e12",
+          "versionId": "17324abb-eb58-5f54-aa7b-48602b148021",
           "set": "ST30",
           "rarity": "C",
           "block": "5",
@@ -376,6 +412,8 @@
         },
         {
           "id": "ST30-004~ja",
+          "uuid": "30a9960a-7838-507d-bb43-abb709834131",
+          "versionId": "950f5a0b-3585-55f9-a521-3527d1686f3c",
           "language": "ja",
           "set": "ST30",
           "rarity": "C",
@@ -390,6 +428,8 @@
         },
         {
           "id": "ST30-004_p1~ja",
+          "uuid": "24df5e11-fb13-534c-b345-cd5251897b66",
+          "versionId": "17324abb-eb58-5f54-aa7b-48602b148021",
           "language": "ja",
           "set": "ST30",
           "rarity": "C",
@@ -406,6 +446,8 @@
     },
     {
       "number": "ST30-005",
+      "uuid": "c92f1f83-0810-53da-a17c-a80ba1da2f37",
+      "oracleId": "376f74f9-c535-5d80-ad3b-b1c890ee8bfc",
       "name": "Jozu",
       "names": {
         "en": "Jozu",
@@ -427,6 +469,8 @@
       "printings": [
         {
           "id": "ST30-005",
+          "uuid": "242c2c05-977a-5d2e-8f52-5006a77ba3b2",
+          "versionId": "fde59086-d833-54a3-ba98-82349a460b02",
           "set": "ST30",
           "rarity": "C",
           "block": "5",
@@ -450,6 +494,8 @@
         },
         {
           "id": "ST30-005_p1",
+          "uuid": "4adc0a0e-4428-5ba9-b3c5-cd01524ca055",
+          "versionId": "d62b3fd9-03d5-5827-98de-6678f942ecef",
           "set": "ST30",
           "rarity": "C",
           "block": "5",
@@ -476,6 +522,8 @@
         },
         {
           "id": "ST30-005~ja",
+          "uuid": "fc90e9e2-371b-59d4-844e-9fe3ab61e9f8",
+          "versionId": "fde59086-d833-54a3-ba98-82349a460b02",
           "language": "ja",
           "set": "ST30",
           "rarity": "C",
@@ -490,6 +538,8 @@
         },
         {
           "id": "ST30-005_p1~ja",
+          "uuid": "f21966b1-95c3-5f87-9c2b-9dd20397f4ed",
+          "versionId": "d62b3fd9-03d5-5827-98de-6678f942ecef",
           "language": "ja",
           "set": "ST30",
           "rarity": "C",
@@ -506,6 +556,8 @@
     },
     {
       "number": "ST30-006",
+      "uuid": "f8959f82-7b8b-5bca-9b39-d78d7d9c3daa",
+      "oracleId": "b80377fa-c168-5e1a-a9db-69e60103563c",
       "name": "Jinbe",
       "names": {
         "en": "Jinbe",
@@ -529,6 +581,8 @@
       "printings": [
         {
           "id": "ST30-006",
+          "uuid": "d5c78225-9b45-5d26-943b-4b49af796cb6",
+          "versionId": "b2a10d7a-a407-5951-92d9-ed373f424a58",
           "set": "ST30",
           "rarity": "C",
           "block": "5",
@@ -552,6 +606,8 @@
         },
         {
           "id": "ST30-006_p1",
+          "uuid": "0c447776-1b5c-54fd-b5dc-9c8de8ab6d11",
+          "versionId": "99f42ec8-6d4c-5d2d-81a8-bfd413c8846d",
           "set": "ST30",
           "rarity": "C",
           "block": "5",
@@ -578,6 +634,8 @@
         },
         {
           "id": "ST30-006~ja",
+          "uuid": "bd21e1da-5bb0-5043-ac84-a011c3ed9af0",
+          "versionId": "b2a10d7a-a407-5951-92d9-ed373f424a58",
           "language": "ja",
           "set": "ST30",
           "rarity": "C",
@@ -592,6 +650,8 @@
         },
         {
           "id": "ST30-006_p1~ja",
+          "uuid": "42863376-a36c-5009-8fbf-17a8ced4eb30",
+          "versionId": "99f42ec8-6d4c-5d2d-81a8-bfd413c8846d",
           "language": "ja",
           "set": "ST30",
           "rarity": "C",
@@ -608,6 +668,8 @@
     },
     {
       "number": "ST30-007",
+      "uuid": "684a4811-ad08-557f-ab90-e7730d307901",
+      "oracleId": "bd5c550b-7819-5726-9cf9-20df38c392ea",
       "name": "Portgas.D.Ace",
       "names": {
         "en": "Portgas.D.Ace",
@@ -628,6 +690,8 @@
       "printings": [
         {
           "id": "ST30-007",
+          "uuid": "52c5d85e-a1d2-5e21-b5ff-d4cdab006575",
+          "versionId": "5ce98214-2b24-5b37-bd97-a6643d85a3b0",
           "set": "ST30",
           "rarity": "SR",
           "block": "5",
@@ -651,6 +715,8 @@
         },
         {
           "id": "ST30-007_p1",
+          "uuid": "463d0710-ce99-545d-aa17-dd6b63ac6e02",
+          "versionId": "dc48be34-79b1-5a77-b871-764e333b5f2e",
           "set": "ST30",
           "rarity": "SR",
           "block": "5",
@@ -677,6 +743,8 @@
         },
         {
           "id": "ST30-007~ja",
+          "uuid": "0e113981-59b2-595a-9554-423535a852be",
+          "versionId": "5ce98214-2b24-5b37-bd97-a6643d85a3b0",
           "language": "ja",
           "set": "ST30",
           "rarity": "SR",
@@ -691,6 +759,8 @@
         },
         {
           "id": "ST30-007_p1~ja",
+          "uuid": "cd78d778-cb75-5345-adf4-bf860ca79dd7",
+          "versionId": "dc48be34-79b1-5a77-b871-764e333b5f2e",
           "language": "ja",
           "set": "ST30",
           "rarity": "SR",
@@ -707,6 +777,8 @@
     },
     {
       "number": "ST30-008",
+      "uuid": "311eb8a8-25df-56af-ad2f-17f3a5053a91",
+      "oracleId": "98dcb9b5-a591-53ac-a5d0-b00dbe61d8cb",
       "name": "Marco",
       "names": {
         "en": "Marco",
@@ -728,6 +800,8 @@
       "printings": [
         {
           "id": "ST30-008",
+          "uuid": "ed0e34ce-ee71-5ec4-8305-f1a90ff955e6",
+          "versionId": "30496ba3-fc9e-57f6-b51b-29e351be523d",
           "set": "ST30",
           "rarity": "C",
           "block": "5",
@@ -751,6 +825,8 @@
         },
         {
           "id": "ST30-008_p1",
+          "uuid": "65e706a8-ee66-557d-a64e-7d7ea61ea18e",
+          "versionId": "4bc80dbf-74aa-54f2-97a7-9b2b08d8e42b",
           "set": "ST30",
           "rarity": "C",
           "block": "5",
@@ -777,6 +853,8 @@
         },
         {
           "id": "ST30-008~ja",
+          "uuid": "c67c5bb9-aafa-56aa-b7a7-68da1028c45d",
+          "versionId": "30496ba3-fc9e-57f6-b51b-29e351be523d",
           "language": "ja",
           "set": "ST30",
           "rarity": "C",
@@ -791,6 +869,8 @@
         },
         {
           "id": "ST30-008_p1~ja",
+          "uuid": "28a7eee5-c050-5f2a-8e80-c02c4c110c22",
+          "versionId": "4bc80dbf-74aa-54f2-97a7-9b2b08d8e42b",
           "language": "ja",
           "set": "ST30",
           "rarity": "C",
@@ -807,6 +887,8 @@
     },
     {
       "number": "ST30-009",
+      "uuid": "0fa2c84e-9551-5eff-a95c-758e7ea85b92",
+      "oracleId": "ffcf4b11-2acd-543b-84b0-7cb8d4200dac",
       "name": "LittleOars Jr.",
       "names": {
         "en": "LittleOars Jr.",
@@ -829,6 +911,8 @@
       "printings": [
         {
           "id": "ST30-009",
+          "uuid": "3d72d7be-3f91-5872-8272-eaddfc7a1591",
+          "versionId": "79bb7fee-e1e8-5619-a209-1745d258e510",
           "set": "ST30",
           "rarity": "C",
           "block": "5",
@@ -852,6 +936,8 @@
         },
         {
           "id": "ST30-009_p1",
+          "uuid": "9e45373b-6ddb-5ca0-aa35-b2b34eae6a6b",
+          "versionId": "0227e206-a13f-57dc-bbbd-38d1b62eae17",
           "set": "ST30",
           "rarity": "C",
           "block": "5",
@@ -878,6 +964,8 @@
         },
         {
           "id": "ST30-009~ja",
+          "uuid": "946d1479-8510-5135-829f-851ff4561ddb",
+          "versionId": "79bb7fee-e1e8-5619-a209-1745d258e510",
           "language": "ja",
           "set": "ST30",
           "rarity": "C",
@@ -892,6 +980,8 @@
         },
         {
           "id": "ST30-009_p1~ja",
+          "uuid": "0cf042c8-60c7-53af-b9ac-37c93dfa3290",
+          "versionId": "0227e206-a13f-57dc-bbbd-38d1b62eae17",
           "language": "ja",
           "set": "ST30",
           "rarity": "C",
@@ -908,6 +998,8 @@
     },
     {
       "number": "ST30-010",
+      "uuid": "1c057b76-b875-5383-9b91-1827200ca748",
+      "oracleId": "67f2253b-6ebe-557e-a515-fe040ac4b35f",
       "name": "Crocodile",
       "names": {
         "en": "Crocodile",
@@ -930,6 +1022,8 @@
       "printings": [
         {
           "id": "ST30-010",
+          "uuid": "4c6b1d26-cb56-5047-8100-f42288bbf291",
+          "versionId": "2774732a-8c7e-50c8-a4a3-e33681f933c1",
           "set": "ST30",
           "rarity": "C",
           "block": "5",
@@ -953,6 +1047,8 @@
         },
         {
           "id": "ST30-010_p1",
+          "uuid": "add1ee37-72a2-56ab-b7d7-b8930642cc13",
+          "versionId": "ab049317-97f1-5e07-8fde-1c3ec327a1e2",
           "set": "ST30",
           "rarity": "C",
           "block": "5",
@@ -979,6 +1075,8 @@
         },
         {
           "id": "ST30-010~ja",
+          "uuid": "f2e5e86e-b9bf-5e1f-804d-8d1185eecb08",
+          "versionId": "2774732a-8c7e-50c8-a4a3-e33681f933c1",
           "language": "ja",
           "set": "ST30",
           "rarity": "C",
@@ -993,6 +1091,8 @@
         },
         {
           "id": "ST30-010_p1~ja",
+          "uuid": "e99a380e-e73b-54eb-9034-c4ba4ce171d0",
+          "versionId": "ab049317-97f1-5e07-8fde-1c3ec327a1e2",
           "language": "ja",
           "set": "ST30",
           "rarity": "C",
@@ -1009,6 +1109,8 @@
     },
     {
       "number": "ST30-011",
+      "uuid": "b3d3d6aa-a792-5364-8590-00d483536768",
+      "oracleId": "809fd396-3aa9-56cf-ab34-3239bccaf2bf",
       "name": "Buggy",
       "names": {
         "en": "Buggy",
@@ -1031,6 +1133,8 @@
       "printings": [
         {
           "id": "ST30-011",
+          "uuid": "843c3b0c-beae-5c88-9c16-8775fd96235a",
+          "versionId": "cc22a6e4-4571-53dc-bc8a-84fc19e081eb",
           "set": "ST30",
           "rarity": "C",
           "block": "5",
@@ -1054,6 +1158,8 @@
         },
         {
           "id": "ST30-011_p1",
+          "uuid": "aae5e117-f33e-5b39-bf0c-09520e498090",
+          "versionId": "59139207-5880-5cec-9b2f-6b2e12146103",
           "set": "ST30",
           "rarity": "C",
           "block": "5",
@@ -1080,6 +1186,8 @@
         },
         {
           "id": "ST30-011~ja",
+          "uuid": "0d79c778-173b-57d1-9acf-34855d2df253",
+          "versionId": "cc22a6e4-4571-53dc-bc8a-84fc19e081eb",
           "language": "ja",
           "set": "ST30",
           "rarity": "C",
@@ -1094,6 +1202,8 @@
         },
         {
           "id": "ST30-011_p1~ja",
+          "uuid": "76a8e2cc-d026-57b5-8a54-2e991c6c39f4",
+          "versionId": "59139207-5880-5cec-9b2f-6b2e12146103",
           "language": "ja",
           "set": "ST30",
           "rarity": "C",
@@ -1110,6 +1220,8 @@
     },
     {
       "number": "ST30-012",
+      "uuid": "1b7ea928-e5a2-5e21-ac13-bbd55226a1d2",
+      "oracleId": "65e4ffe4-e824-53ca-bd3c-5cc325e9fb0f",
       "name": "Monkey.D.Luffy",
       "names": {
         "en": "Monkey.D.Luffy",
@@ -1131,6 +1243,8 @@
       "printings": [
         {
           "id": "ST30-012",
+          "uuid": "7a876e18-de64-5bc5-bb16-4b98787549ed",
+          "versionId": "31313f40-dfb1-53a1-8ed8-6d9e06c903ce",
           "set": "ST30",
           "rarity": "SR",
           "block": "5",
@@ -1154,6 +1268,8 @@
         },
         {
           "id": "ST30-012_p1",
+          "uuid": "3c40f305-3555-586e-b29d-be088a14c5ac",
+          "versionId": "35263fca-cc2d-5fa7-a7de-89a9054c2946",
           "set": "ST30",
           "rarity": "SR",
           "block": "5",
@@ -1180,6 +1296,8 @@
         },
         {
           "id": "ST30-012~ja",
+          "uuid": "3acb01b5-f60d-5591-9816-c687cbd14f2d",
+          "versionId": "31313f40-dfb1-53a1-8ed8-6d9e06c903ce",
           "language": "ja",
           "set": "ST30",
           "rarity": "SR",
@@ -1194,6 +1312,8 @@
         },
         {
           "id": "ST30-012_p1~ja",
+          "uuid": "f06bde0b-1cd2-5745-b765-40ae29e627d3",
+          "versionId": "35263fca-cc2d-5fa7-a7de-89a9054c2946",
           "language": "ja",
           "set": "ST30",
           "rarity": "SR",
@@ -1208,6 +1328,8 @@
         },
         {
           "id": "ST30-012_p2~ja",
+          "uuid": "d98aee62-94f1-5e7e-9fec-95209eddd83d",
+          "versionId": "9672628a-6faf-580b-bd6b-0a5c8a673f0f",
           "language": "ja",
           "set": "P",
           "rarity": "SR",
@@ -1220,6 +1342,8 @@
     },
     {
       "number": "ST30-013",
+      "uuid": "fefc4b27-c422-57cc-9db7-1ea00536bc9b",
+      "oracleId": "1a5061c0-dd61-5dd4-b539-3fd1beb495a5",
       "name": "Mr.2.Bon.Kurei(Bentham)",
       "names": {
         "en": "Mr.2.Bon.Kurei(Bentham)",
@@ -1242,6 +1366,8 @@
       "printings": [
         {
           "id": "ST30-013",
+          "uuid": "10548cb2-700e-5313-9f00-a095fbb461cf",
+          "versionId": "94ead558-d7ab-5608-a198-b2680d70c2a3",
           "set": "ST30",
           "rarity": "C",
           "block": "5",
@@ -1265,6 +1391,8 @@
         },
         {
           "id": "ST30-013_p1",
+          "uuid": "546b53e1-838f-58e8-bfe1-fbc1f4fff6a4",
+          "versionId": "23149e9b-40e4-55a0-9bba-a5731d79ad1d",
           "set": "ST30",
           "rarity": "C",
           "block": "5",
@@ -1291,6 +1419,8 @@
         },
         {
           "id": "ST30-013~ja",
+          "uuid": "5e2c9324-9256-5f4e-8eff-40ebef937717",
+          "versionId": "94ead558-d7ab-5608-a198-b2680d70c2a3",
           "language": "ja",
           "set": "ST30",
           "rarity": "C",
@@ -1305,6 +1435,8 @@
         },
         {
           "id": "ST30-013_p1~ja",
+          "uuid": "fe0d5d8c-a2fb-5d67-81dd-c23250a52ebf",
+          "versionId": "23149e9b-40e4-55a0-9bba-a5731d79ad1d",
           "language": "ja",
           "set": "ST30",
           "rarity": "C",
@@ -1321,6 +1453,8 @@
     },
     {
       "number": "ST30-014",
+      "uuid": "af53bdc3-0035-587c-9f58-199c16732db6",
+      "oracleId": "a18e6182-752b-53ae-981f-755c07a2b75a",
       "name": "Mr.3(Galdino)",
       "names": {
         "en": "Mr.3(Galdino)",
@@ -1343,6 +1477,8 @@
       "printings": [
         {
           "id": "ST30-014",
+          "uuid": "fbf33535-efed-52e3-9729-116b5f3c9343",
+          "versionId": "77a62ea9-2549-5778-b9a9-d61c05a08c08",
           "set": "ST30",
           "rarity": "C",
           "block": "5",
@@ -1366,6 +1502,8 @@
         },
         {
           "id": "ST30-014_p1",
+          "uuid": "817ce9bd-a111-5292-89ea-499349370a9a",
+          "versionId": "ef645e41-e17a-5f80-b7cd-03f3f9e0d6b9",
           "set": "ST30",
           "rarity": "C",
           "block": "5",
@@ -1392,6 +1530,8 @@
         },
         {
           "id": "ST30-014~ja",
+          "uuid": "cacc816c-f4eb-502d-a8ff-7ff342fc1467",
+          "versionId": "77a62ea9-2549-5778-b9a9-d61c05a08c08",
           "language": "ja",
           "set": "ST30",
           "rarity": "C",
@@ -1406,6 +1546,8 @@
         },
         {
           "id": "ST30-014_p1~ja",
+          "uuid": "9dd63212-4271-5596-8806-bcf239b8322b",
+          "versionId": "ef645e41-e17a-5f80-b7cd-03f3f9e0d6b9",
           "language": "ja",
           "set": "ST30",
           "rarity": "C",
@@ -1422,6 +1564,8 @@
     },
     {
       "number": "ST30-015",
+      "uuid": "eb299edd-ab3d-5393-a05f-b165fee98a3a",
+      "oracleId": "ddbf3eaa-3ac6-545f-b4f6-0b3aaf1d33f0",
       "name": "The Name of This Era Is \"Whitebeard\"!!",
       "names": {
         "en": "The Name of This Era Is \"Whitebeard\"!!",
@@ -1438,6 +1582,8 @@
       "printings": [
         {
           "id": "ST30-015",
+          "uuid": "01378e35-304d-5f37-bb73-a00ea2ac548b",
+          "versionId": "cdae2a89-c77d-5804-b5a7-d3fcab4f36e4",
           "set": "ST30",
           "rarity": "C",
           "block": "5",
@@ -1460,6 +1606,8 @@
         },
         {
           "id": "ST30-015_p1",
+          "uuid": "15250971-aa2a-50bb-84c6-4d27f497a357",
+          "versionId": "d0ee4107-ef16-5ca7-872b-4b6c7aa42753",
           "set": "ST30",
           "rarity": "C",
           "block": "5",
@@ -1485,6 +1633,8 @@
         },
         {
           "id": "ST30-015~ja",
+          "uuid": "083f6ffb-fe0d-5ea1-a78e-ef8ab3fe6e01",
+          "versionId": "cdae2a89-c77d-5804-b5a7-d3fcab4f36e4",
           "language": "ja",
           "set": "ST30",
           "rarity": "C",
@@ -1499,6 +1649,8 @@
         },
         {
           "id": "ST30-015_p1~ja",
+          "uuid": "de8c5f0a-3a61-5368-8b3f-e0db9bc9a605",
+          "versionId": "d0ee4107-ef16-5ca7-872b-4b6c7aa42753",
           "language": "ja",
           "set": "ST30",
           "rarity": "C",
@@ -1515,6 +1667,8 @@
     },
     {
       "number": "ST30-016",
+      "uuid": "d641128d-7eaf-5c71-ab9e-fa164f5ea812",
+      "oracleId": "c8fa1121-5020-5bb3-875d-8af16b366e59",
       "name": "Can You Still Fight, Luffy?! Of Course!!",
       "names": {
         "en": "Can You Still Fight, Luffy?! Of Course!!",
@@ -1532,6 +1686,8 @@
       "printings": [
         {
           "id": "ST30-016",
+          "uuid": "38300e41-520f-5611-b7f3-dc6748ace8dd",
+          "versionId": "6e96b7b0-aadd-5755-a8d2-71bc771b5bbd",
           "set": "ST30",
           "rarity": "C",
           "block": "5",
@@ -1554,6 +1710,8 @@
         },
         {
           "id": "ST30-016_p1",
+          "uuid": "fb5b6d4a-3860-5f72-a164-9de39aee81f4",
+          "versionId": "60265ded-8989-5f28-ae99-b304acbf6503",
           "set": "ST30",
           "rarity": "C",
           "block": "5",
@@ -1579,6 +1737,8 @@
         },
         {
           "id": "ST30-016~ja",
+          "uuid": "d8433b3f-4003-55fb-8e69-0fb5e6ee16fe",
+          "versionId": "6e96b7b0-aadd-5755-a8d2-71bc771b5bbd",
           "language": "ja",
           "set": "ST30",
           "rarity": "C",
@@ -1593,6 +1753,8 @@
         },
         {
           "id": "ST30-016_p1~ja",
+          "uuid": "ee8c7c6e-3018-55e5-b6ef-d5190f89ae54",
+          "versionId": "60265ded-8989-5f28-ae99-b304acbf6503",
           "language": "ja",
           "set": "ST30",
           "rarity": "C",
@@ -1609,6 +1771,8 @@
     },
     {
       "number": "ST30-017",
+      "uuid": "f27722c7-4dff-5b3c-927c-b92bb5debd39",
+      "oracleId": "a9694486-9f1c-513c-8204-13fad7ab9fd9",
       "name": "And You Get Yourself in Big Trouble!!",
       "names": {
         "en": "And You Get Yourself in Big Trouble!!",
@@ -1625,6 +1789,8 @@
       "printings": [
         {
           "id": "ST30-017",
+          "uuid": "84e9a463-f2fa-5e98-9f9c-68edf4fb1fce",
+          "versionId": "f6b579fd-c42b-54ad-bc61-69126951a49e",
           "set": "ST30",
           "rarity": "C",
           "block": "5",
@@ -1647,6 +1813,8 @@
         },
         {
           "id": "ST30-017_p1",
+          "uuid": "e6cdb350-b2c0-5d4f-a792-f2afd4938f1f",
+          "versionId": "1ca1e9be-5f89-5ad0-bf00-9398b0cff3cf",
           "set": "ST30",
           "rarity": "C",
           "block": "5",
@@ -1672,6 +1840,8 @@
         },
         {
           "id": "ST30-017~ja",
+          "uuid": "3b27db26-48cc-5223-ba13-d0da7790473c",
+          "versionId": "f6b579fd-c42b-54ad-bc61-69126951a49e",
           "language": "ja",
           "set": "ST30",
           "rarity": "C",
@@ -1686,6 +1856,8 @@
         },
         {
           "id": "ST30-017_p1~ja",
+          "uuid": "c361370a-7e76-5e79-bd65-6f26b0c37597",
+          "versionId": "1ca1e9be-5f89-5ad0-bf00-9398b0cff3cf",
           "language": "ja",
           "set": "ST30",
           "rarity": "C",

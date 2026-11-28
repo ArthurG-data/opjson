@@ -15,6 +15,7 @@
         "required": ["id", "set", "category", "name", "contentsStatus", "contents", "sources"],
         "properties": {
           "id": {"type": "string", "pattern": "^[a-z0-9]+(-[a-z0-9]+)*$"},
+          "uuid": {"type": "string", "format": "uuid", "description": "The product's UUID: given once, kept for good, recorded in data/uuids.json (tools/uuids.py)."},
           "set": {"type": "string"},
           "language": {"enum": ["en", "ja"], "description": "The product's language. Absent means en; contents use this language only."},
           "category": {"enum": ["booster_pack", "sleeved_booster_pack", "booster_box", "case", "display", "double_pack",

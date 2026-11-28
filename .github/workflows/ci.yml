@@ -14,9 +14,26 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
+        with:
+          fetch-depth: 2
       - uses: astral-sh/setup-uv@v5
       - run: uv sync --group dev
       - run: uv run pytest -q
+      # A UUID, once given, never changes: compare data/uuids.json with the branch a PR targets, or with where the
+      # branch was before a push (every commit of the push at once), else with the commit before.
+      - run: |
+          if [ -n "$BASE_REF" ]; then
+            git fetch --depth=1 origin "$BASE_REF" && since=FETCH_HEAD
+          elif [ -n "$BEFORE" ] && [ "$BEFORE" != 0000000000000000000000000000000000000000 ] \
+               && git fetch --depth=1 origin "$BEFORE"; then
+            since=FETCH_HEAD
+          elif git rev-parse --verify --quiet HEAD^ > /dev/null; then
+            since=HEAD^
+          fi
+          uv run python tools/validate.py ${since:+--since "$since"}
+        env:
+          BASE_REF: ${{ github.base_ref }}
+          BEFORE: ${{ github.event.before }}
       # Data a site served wrong goes missing without failing any other check. "[allow-loss]" in the title skips it.
       - if: github.event_name == 'pull_request' && !contains(github.event.pull_request.title, '[allow-loss]')
         env:

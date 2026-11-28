@@ -10,6 +10,7 @@
     "required": ["id", "type", "releases"],
     "properties": {
       "id": {"type": "string", "pattern": "^[A-Z0-9]+(-[A-Z0-9]+)*$"},
+      "uuid": {"type": "string", "format": "uuid", "description": "The set's UUID: given once, kept for good, recorded in data/uuids.json (tools/uuids.py)."},
       "type": {"enum": ["booster", "extra_booster", "premium_booster", "starter_deck", "ultra_deck", "promo", "box_set"],
                "description": "The set's product line. AutoMana maps it onto MTG's set types: booster=expansion, premium_booster=masters, starter_deck and ultra_deck=starter, box_set=box."},
       "bandaiSeriesId": {"type": "string", "pattern": "^56\\d{4}$", "description": "The series id on Bandai's English card list. The Japanese list's id is in the ja release's source."},

@@ -2,6 +2,8 @@
   "cards": [
     {
       "number": "ST07-001",
+      "uuid": "097cba2e-cbb9-5bfa-b59e-eeb78d8deb26",
+      "oracleId": "9ca8fa6b-bf7c-5ab4-a9b6-af5dfe14cdcc",
       "name": "Charlotte Linlin",
       "names": {
         "en": "Charlotte Linlin",
@@ -23,6 +25,8 @@
       "printings": [
         {
           "id": "ST07-001",
+          "uuid": "41e85ef9-430a-5221-a77b-9c07a20ea8a0",
+          "versionId": "d163cad3-379b-512d-9689-744d6102b2f9",
           "set": "ST07",
           "rarity": "L",
           "block": "1",
@@ -45,6 +49,8 @@
         },
         {
           "id": "ST07-001~ja",
+          "uuid": "940d4bb3-d7df-59af-b9a4-2029693283ae",
+          "versionId": "d163cad3-379b-512d-9689-744d6102b2f9",
           "language": "ja",
           "set": "ST07",
           "rarity": "L",
@@ -61,6 +67,8 @@
     },
     {
       "number": "ST07-002",
+      "uuid": "3b42f05c-4e45-57c3-afa0-66e8598a8b4d",
+      "oracleId": "1b3fdb73-102a-5b50-86e8-131e8a6693b7",
       "name": "Charlotte Anana",
       "names": {
         "en": "Charlotte Anana",
@@ -82,6 +90,8 @@
       "printings": [
         {
           "id": "ST07-002",
+          "uuid": "50132de9-4f55-5a62-8dcb-b8630aa6c5fc",
+          "versionId": "28cd794d-e944-54a2-94f4-b9f995429714",
           "set": "ST07",
           "rarity": "C",
           "block": "1",
@@ -105,6 +115,8 @@
         },
         {
           "id": "ST07-002~ja",
+          "uuid": "4eead0b4-f6f3-5a7f-abc9-eb7431fedd45",
+          "versionId": "28cd794d-e944-54a2-94f4-b9f995429714",
           "language": "ja",
           "set": "ST07",
           "rarity": "C",
@@ -121,6 +133,8 @@
     },
     {
       "number": "ST07-003",
+      "uuid": "948c2327-a825-5645-a9cb-5b54bb7cdafd",
+      "oracleId": "29f115ec-08ca-52ff-bbaa-b0c5f1b2f425",
       "name": "Charlotte Katakuri",
       "names": {
         "en": "Charlotte Katakuri",
@@ -141,6 +155,8 @@
       "printings": [
         {
           "id": "ST07-003",
+          "uuid": "bc4db477-f7fa-5523-95d0-c310ccb95dbd",
+          "versionId": "cf01731f-8df5-55f7-9345-92ad4d633f33",
           "set": "ST07",
           "rarity": "SR",
           "block": "1",
@@ -163,6 +179,8 @@
         },
         {
           "id": "ST07-003~ja",
+          "uuid": "16db264d-b6fa-5425-9313-7af2ad5c9334",
+          "versionId": "cf01731f-8df5-55f7-9345-92ad4d633f33",
           "language": "ja",
           "set": "ST07",
           "rarity": "SR",
@@ -179,6 +197,8 @@
     },
     {
       "number": "ST07-004",
+      "uuid": "d351cbd5-ff9e-5edc-851b-df901c85c9b4",
+      "oracleId": "a957782d-62ac-58dc-98a4-f1f26e72186d",
       "name": "Charlotte Snack",
       "names": {
         "en": "Charlotte Snack",
@@ -199,6 +219,8 @@
       "printings": [
         {
           "id": "ST07-004",
+          "uuid": "322fea06-1d5e-56b9-8a6d-a158e0c79242",
+          "versionId": "cdd1ae47-3377-5d35-a1e4-8699da18d47d",
           "set": "ST07",
           "rarity": "C",
           "block": "1",
@@ -222,6 +244,8 @@
         },
         {
           "id": "ST07-004~ja",
+          "uuid": "780c25f7-bd49-5b53-a391-bd55d7fc59a6",
+          "versionId": "cdd1ae47-3377-5d35-a1e4-8699da18d47d",
           "language": "ja",
           "set": "ST07",
           "rarity": "C",
@@ -238,6 +262,8 @@
     },
     {
       "number": "ST07-005",
+      "uuid": "cff9a623-c929-596b-a8c9-bdf1142056cd",
+      "oracleId": "0d165b53-e09b-5e7d-a1ec-0f087bbc1301",
       "name": "Charlotte Daifuku",
       "names": {
         "en": "Charlotte Daifuku",
@@ -259,6 +285,8 @@
       "printings": [
         {
           "id": "ST07-005",
+          "uuid": "98d49764-4c86-582a-8077-33f6703132e7",
+          "versionId": "0f54a640-9f20-547c-8ab6-eb9557378a1d",
           "set": "ST07",
           "rarity": "C",
           "block": "1",
@@ -282,6 +310,8 @@
         },
         {
           "id": "ST07-005_r1",
+          "uuid": "313d979f-1536-5b1d-a9b2-407237502705",
+          "versionId": "f91f61d9-7c76-5d67-90f8-f8a7fadda6e5",
           "set": "ST20",
           "rarity": "C",
           "block": "1",
@@ -306,6 +336,8 @@
         },
         {
           "id": "ST07-005~ja",
+          "uuid": "7df0a7fb-116d-5754-b740-5a8f10d85201",
+          "versionId": "0f54a640-9f20-547c-8ab6-eb9557378a1d",
           "language": "ja",
           "set": "ST07",
           "rarity": "C",
@@ -320,6 +352,8 @@
         },
         {
           "id": "ST07-005_r1~ja",
+          "uuid": "0106b46e-803a-5d93-9237-8206898040fc",
+          "versionId": "f91f61d9-7c76-5d67-90f8-f8a7fadda6e5",
           "language": "ja",
           "set": "ST20",
           "rarity": "C",
@@ -336,6 +370,8 @@
     },
     {
       "number": "ST07-006",
+      "uuid": "8bbc54f1-5584-5280-aabb-e61fcc44920d",
+      "oracleId": "1d91e931-39ae-591a-a1cf-f324c93fef91",
       "name": "Charlotte Flampe",
       "names": {
         "en": "Charlotte Flampe",
@@ -357,6 +393,8 @@
       "printings": [
         {
           "id": "ST07-006",
+          "uuid": "811ee5e8-cb5e-5316-b51a-8cea7b45d4ba",
+          "versionId": "1765cdd7-7f51-5293-8895-0dfc7c246aac",
           "set": "ST07",
           "rarity": "C",
           "block": "1",
@@ -380,6 +418,8 @@
         },
         {
           "id": "ST07-006~ja",
+          "uuid": "3327139a-3261-5ae0-bacf-77c60279965f",
+          "versionId": "1765cdd7-7f51-5293-8895-0dfc7c246aac",
           "language": "ja",
           "set": "ST07",
           "rarity": "C",
@@ -396,6 +436,8 @@
     },
     {
       "number": "ST07-007",
+      "uuid": "13ab90f3-9d40-5a1c-80bd-3243535e6a1e",
+      "oracleId": "5431db0e-4097-5c94-9ee3-f74fd7c8dc64",
       "name": "Charlotte Brulee",
       "names": {
         "en": "Charlotte Brulee",
@@ -417,6 +459,8 @@
       "printings": [
         {
           "id": "ST07-007",
+          "uuid": "b273c42e-4ee4-5af4-a60e-76837fb80592",
+          "versionId": "b33237fc-e363-5e8d-a204-423a7e30c813",
           "set": "ST07",
           "rarity": "C",
           "block": "1",
@@ -439,6 +483,8 @@
         },
         {
           "id": "ST07-007_p2",
+          "uuid": "b141978e-084d-5c7f-b869-75fc188f8f91",
+          "versionId": "cca8295b-d7f3-5dc0-9abd-1f24ac044dc0",
           "set": "PRB01",
           "rarity": "C",
           "block": "1",
@@ -468,6 +514,8 @@
         },
         {
           "id": "ST07-007_p3",
+          "uuid": "8834ca0d-5dd0-574d-8f08-d087202e3317",
+          "versionId": "3766e3a6-2043-53ea-9fb7-e70cae602f7e",
           "set": "PRB01",
           "rarity": "C",
           "block": "1",
@@ -493,6 +541,8 @@
         },
         {
           "id": "ST07-007_r1",
+          "uuid": "7c7357f1-5e87-50f8-b585-366d69c89eb0",
+          "versionId": "b9b43321-ba09-5caa-9b9f-90eea42ebf01",
           "set": "PRB01",
           "rarity": "C",
           "block": "1",
@@ -506,6 +556,8 @@
         },
         {
           "id": "ST07-007~tcg503021",
+          "uuid": "0599527a-a856-586d-b5c0-bb588d2c1ca6",
+          "versionId": "2574abea-7fa8-5d75-8502-d6f3b5100fc2",
           "set": "P",
           "rarity": "P",
           "image": "https://tcgplayer-cdn.tcgplayer.com/product/503021_in_400x400.jpg",
@@ -536,6 +588,8 @@
         },
         {
           "id": "ST07-007~ja",
+          "uuid": "8c95c71b-cfbe-5629-ab64-a804e99f0ecb",
+          "versionId": "b33237fc-e363-5e8d-a204-423a7e30c813",
           "language": "ja",
           "set": "ST07",
           "rarity": "C",
@@ -550,6 +604,8 @@
         },
         {
           "id": "ST07-007_p1~ja",
+          "uuid": "f5b26f83-5f91-5cb4-9d04-2f080c574fc2",
+          "versionId": "27754137-f205-5933-8857-f56abbabd6fc",
           "language": "ja",
           "set": "P",
           "rarity": "C",
@@ -560,6 +616,8 @@
         },
         {
           "id": "ST07-007_p2~ja",
+          "uuid": "5e4eaef2-5ee1-524a-bfa9-e570778397c5",
+          "versionId": "cca8295b-d7f3-5dc0-9abd-1f24ac044dc0",
           "language": "ja",
           "set": "PRB01",
           "rarity": "C",
@@ -574,6 +632,8 @@
         },
         {
           "id": "ST07-007_p3~ja",
+          "uuid": "de2baeae-49f8-5ad1-9c5a-3572ce49de71",
+          "versionId": "3766e3a6-2043-53ea-9fb7-e70cae602f7e",
           "language": "ja",
           "set": "PRB01",
           "rarity": "C",
@@ -588,6 +648,8 @@
         },
         {
           "id": "ST07-007_r1~ja",
+          "uuid": "519e0c53-8e2b-538e-b2b6-cb0c772fee4a",
+          "versionId": "b9b43321-ba09-5caa-9b9f-90eea42ebf01",
           "language": "ja",
           "set": "PRB01",
           "rarity": "C",
@@ -604,6 +666,8 @@
     },
     {
       "number": "ST07-008",
+      "uuid": "80d48d45-31a6-58be-82b8-d06766dd90ec",
+      "oracleId": "069ae9dd-d11c-50f2-9516-65060c0ae773",
       "name": "Charlotte Pudding",
       "names": {
         "en": "Charlotte Pudding",
@@ -625,6 +689,8 @@
       "printings": [
         {
           "id": "ST07-008",
+          "uuid": "de383fa9-95fd-53f5-b4ac-a9332e4734b1",
+          "versionId": "30b06e41-80ad-5fdf-8e7f-5dcc69eaf1d5",
           "set": "ST07",
           "rarity": "C",
           "block": "1",
@@ -647,6 +713,8 @@
         },
         {
           "id": "ST07-008_p1",
+          "uuid": "d169e961-cc78-55ea-85d9-3807f4cbe614",
+          "versionId": "a1baffc2-55c5-5d5f-87af-2165cbb20748",
           "set": "P",
           "rarity": "C",
           "block": "1",
@@ -680,6 +748,8 @@
         },
         {
           "id": "ST07-008~tcg482234",
+          "uuid": "296aa361-d309-5c4d-b0e1-c39628bb114f",
+          "versionId": "e246e4be-564b-57b8-be34-23723ca875d4",
           "set": "P",
           "rarity": "P",
           "image": "https://tcgplayer-cdn.tcgplayer.com/product/482234_in_400x400.jpg",
@@ -710,6 +780,8 @@
         },
         {
           "id": "ST07-008~tcg482235",
+          "uuid": "51c9ca9a-8e85-5c90-9e16-f9e7fde12d31",
+          "versionId": "38800a9d-712c-52c8-8076-7b052809b71e",
           "set": "P",
           "rarity": "P",
           "image": "https://tcgplayer-cdn.tcgplayer.com/product/482235_in_400x400.jpg",
@@ -737,6 +809,8 @@
         },
         {
           "id": "ST07-008~tcg483195",
+          "uuid": "3b7f99b9-27e1-5a0e-8a62-06b43ef31fe3",
+          "versionId": "f72fd60d-2043-588b-80ac-c015949ed6c8",
           "set": "P",
           "rarity": "P",
           "image": "https://tcgplayer-cdn.tcgplayer.com/product/483195_in_400x400.jpg",
@@ -767,6 +841,8 @@
         },
         {
           "id": "ST07-008~tcg483197",
+          "uuid": "d7813515-8802-5379-890e-896e44fb5bb5",
+          "versionId": "7f166080-83b9-51d5-94cb-de51875a9889",
           "set": "P",
           "rarity": "P",
           "image": "https://tcgplayer-cdn.tcgplayer.com/product/483197_in_400x400.jpg",
@@ -797,6 +873,8 @@
         },
         {
           "id": "ST07-008~tcg483198",
+          "uuid": "0972055d-c31c-5714-831f-7eee434388e8",
+          "versionId": "681ec85c-caf9-5ceb-9f85-f49a1f3dfdd2",
           "set": "P",
           "rarity": "P",
           "image": "https://tcgplayer-cdn.tcgplayer.com/product/483198_in_400x400.jpg",
@@ -824,6 +902,8 @@
         },
         {
           "id": "ST07-008~ja",
+          "uuid": "2655ab90-9446-57c5-8d06-3282d0b868bc",
+          "versionId": "30b06e41-80ad-5fdf-8e7f-5dcc69eaf1d5",
           "language": "ja",
           "set": "ST07",
           "rarity": "C",
@@ -838,6 +918,8 @@
         },
         {
           "id": "ST07-008_p1~ja",
+          "uuid": "e610d8e8-9e63-5502-af91-dbb141e2ed25",
+          "versionId": "a1baffc2-55c5-5d5f-87af-2165cbb20748",
           "language": "ja",
           "set": "P",
           "rarity": "C",
@@ -852,6 +934,8 @@
         },
         {
           "id": "ST07-008_p3~ja",
+          "uuid": "bd798dca-7cda-5152-acec-f659a158676f",
+          "versionId": "b0743056-55cf-5b5d-8b7e-fb4970a34ffd",
           "language": "ja",
           "set": "P",
           "rarity": "C",
@@ -864,6 +948,8 @@
     },
     {
       "number": "ST07-009",
+      "uuid": "b5177129-7820-5ea3-87f3-2ee5e144cbad",
+      "oracleId": "df8f3088-4538-53f1-9875-d9500c4dc012",
       "name": "Charlotte Mont-d'or",
       "names": {
         "en": "Charlotte Mont-d'or",
@@ -885,6 +971,8 @@
       "printings": [
         {
           "id": "ST07-009",
+          "uuid": "79b89d0c-83b7-52e4-906a-c62f66cd818b",
+          "versionId": "05076f6b-fce9-53d4-80ab-a111222f802b",
           "set": "ST07",
           "rarity": "C",
           "block": "1",
@@ -908,6 +996,8 @@
         },
         {
           "id": "ST07-009~ja",
+          "uuid": "25bce30a-a0a6-52c5-b30b-463f0eaae230",
+          "versionId": "05076f6b-fce9-53d4-80ab-a111222f802b",
           "language": "ja",
           "set": "ST07",
           "rarity": "C",
@@ -924,6 +1014,8 @@
     },
     {
       "number": "ST07-010",
+      "uuid": "048fb005-d828-593e-989f-7aa053ecb9ca",
+      "oracleId": "d6edd91d-5ee6-5236-919e-f8361e62e00e",
       "name": "Charlotte Linlin",
       "names": {
         "en": "Charlotte Linlin",
@@ -945,6 +1037,8 @@
       "printings": [
         {
           "id": "ST07-010",
+          "uuid": "38b1599f-e6a3-5532-9caa-002af8542128",
+          "versionId": "6c62a28f-760f-57a1-8389-bc6cc1164a49",
           "set": "ST07",
           "rarity": "SR",
           "block": "1",
@@ -968,6 +1062,8 @@
         },
         {
           "id": "ST07-010~tcg561185",
+          "uuid": "fbc1cd77-d41b-52cc-a267-f18800e9c43a",
+          "versionId": "ef24b21f-5e70-52e5-9a1b-964c7e47ed70",
           "set": "P",
           "rarity": "SR",
           "image": "https://tcgplayer-cdn.tcgplayer.com/product/561185_in_400x400.jpg",
@@ -994,6 +1090,8 @@
         },
         {
           "id": "ST07-010~ja",
+          "uuid": "fb02a532-c654-5231-9085-444566c74599",
+          "versionId": "6c62a28f-760f-57a1-8389-bc6cc1164a49",
           "language": "ja",
           "set": "ST07",
           "rarity": "SR",
@@ -1008,6 +1106,8 @@
         },
         {
           "id": "ST07-010_p2~ja",
+          "uuid": "8c1d071a-2055-53a5-abfa-848102fcd958",
+          "versionId": "5071ac97-e470-592d-9fc1-e48b44777723",
           "language": "ja",
           "set": "P",
           "rarity": "SR",
@@ -1020,6 +1120,8 @@
     },
     {
       "number": "ST07-011",
+      "uuid": "6cc60609-ce3d-50d4-8919-a3d8a3b6b124",
+      "oracleId": "a909177d-72e7-52d0-98c6-1d70d07c4003",
       "name": "Zeus",
       "names": {
         "en": "Zeus",
@@ -1042,6 +1144,8 @@
       "printings": [
         {
           "id": "ST07-011",
+          "uuid": "4e7df440-3a86-51fa-ac7c-ba9a671a8b22",
+          "versionId": "8ffa9a16-808f-5c0e-b08d-b8a2137cfa6c",
           "set": "ST07",
           "rarity": "C",
           "block": "1",
@@ -1065,6 +1169,8 @@
         },
         {
           "id": "ST07-011~ja",
+          "uuid": "be94c97b-c282-56f8-96f6-76dedeb27248",
+          "versionId": "8ffa9a16-808f-5c0e-b08d-b8a2137cfa6c",
           "language": "ja",
           "set": "ST07",
           "rarity": "C",
@@ -1081,6 +1187,8 @@
     },
     {
       "number": "ST07-012",
+      "uuid": "4d91d33c-8b32-5a4a-80f8-7ed4f2e2c508",
+      "oracleId": "f9a2a8e5-7801-5b62-adda-a84013b0ce9a",
       "name": "Baron Tamago",
       "names": {
         "en": "Baron Tamago",
@@ -1102,6 +1210,8 @@
       "printings": [
         {
           "id": "ST07-012",
+          "uuid": "e02ab342-4e76-5117-8b40-b787c38b484f",
+          "versionId": "e0e9ee3d-9b3d-57bd-aadc-3730bc35216f",
           "set": "ST07",
           "rarity": "C",
           "block": "1",
@@ -1124,6 +1234,8 @@
         },
         {
           "id": "ST07-012~ja",
+          "uuid": "4ddba648-c259-5ef5-a5bd-3e3da433300a",
+          "versionId": "e0e9ee3d-9b3d-57bd-aadc-3730bc35216f",
           "language": "ja",
           "set": "ST07",
           "rarity": "C",
@@ -1140,6 +1252,8 @@
     },
     {
       "number": "ST07-013",
+      "uuid": "6beb4e95-1586-5045-8a43-b2bdb930277f",
+      "oracleId": "75302295-026a-5c2e-b2f0-5ed8be38b5f6",
       "name": "Prometheus",
       "names": {
         "en": "Prometheus",
@@ -1162,6 +1276,8 @@
       "printings": [
         {
           "id": "ST07-013",
+          "uuid": "3bd26a84-955e-5f75-8f6c-a9f7efe94697",
+          "versionId": "fb13e96b-ef6b-5676-bcf8-af81884d9612",
           "set": "ST07",
           "rarity": "C",
           "block": "1",
@@ -1185,6 +1301,8 @@
         },
         {
           "id": "ST07-013~ja",
+          "uuid": "2d77d5ef-bcfa-5a6b-96ac-a9b32179ee69",
+          "versionId": "fb13e96b-ef6b-5676-bcf8-af81884d9612",
           "language": "ja",
           "set": "ST07",
           "rarity": "C",
@@ -1201,6 +1319,8 @@
     },
     {
       "number": "ST07-014",
+      "uuid": "788e0a6d-5cb9-5f39-823c-21b864f2d1ab",
+      "oracleId": "0640ee16-8b2f-52a2-9ec4-0995a48e461b",
       "name": "Pekoms",
       "names": {
         "en": "Pekoms",
@@ -1223,6 +1343,8 @@
       "printings": [
         {
           "id": "ST07-014",
+          "uuid": "59ea98ba-892a-5ee9-a333-27f766f6e8d7",
+          "versionId": "8ddeb06d-46d2-51f8-a0cf-9cd60ba946ff",
           "set": "ST07",
           "rarity": "C",
           "block": "1",
@@ -1245,6 +1367,8 @@
         },
         {
           "id": "ST07-014_r1",
+          "uuid": "10c4833a-b178-5346-9095-5a98452ab6c5",
+          "versionId": "478607df-8868-5da8-9e8a-df004806d05d",
           "set": "ST20",
           "rarity": "C",
           "block": "1",
@@ -1258,6 +1382,8 @@
         },
         {
           "id": "ST07-014~ja",
+          "uuid": "6e7522ec-f2a8-527c-892f-8b0c47d2d865",
+          "versionId": "8ddeb06d-46d2-51f8-a0cf-9cd60ba946ff",
           "language": "ja",
           "set": "ST07",
           "rarity": "C",
@@ -1272,6 +1398,8 @@
         },
         {
           "id": "ST07-014_r1~ja",
+          "uuid": "32a56135-6f16-55bb-ae34-7b7dc762b788",
+          "versionId": "478607df-8868-5da8-9e8a-df004806d05d",
           "language": "ja",
           "set": "ST20",
           "rarity": "C",
@@ -1288,6 +1416,8 @@
     },
     {
       "number": "ST07-015",
+      "uuid": "ef97ff21-b6dc-5149-be71-3d018fbbf72c",
+      "oracleId": "99fbfc28-21f8-5f5a-8278-df758c11b6a2",
       "name": "Soul Pocus",
       "names": {
         "en": "Soul Pocus",
@@ -1305,6 +1435,8 @@
       "printings": [
         {
           "id": "ST07-015",
+          "uuid": "84cd8cad-5011-5370-855b-7d0f43817905",
+          "versionId": "da7d2193-4cb5-5e6b-8609-790a318fa91f",
           "set": "ST07",
           "rarity": "C",
           "block": "1",
@@ -1327,6 +1459,8 @@
         },
         {
           "id": "ST07-015~ja",
+          "uuid": "64672616-151f-5203-a152-22b484d2460b",
+          "versionId": "da7d2193-4cb5-5e6b-8609-790a318fa91f",
           "language": "ja",
           "set": "ST07",
           "rarity": "C",
@@ -1343,6 +1477,8 @@
     },
     {
       "number": "ST07-016",
+      "uuid": "dd7233d5-c0d2-5b21-b22a-bc3e2143d1ff",
+      "oracleId": "36d2d0ae-bbbe-5bec-97f5-2284d25b83d6",
       "name": "Power Mochi",
       "names": {
         "en": "Power Mochi",
@@ -1359,6 +1495,8 @@
       "printings": [
         {
           "id": "ST07-016",
+          "uuid": "6fdc9808-39e7-5db7-88c1-56aa71d0f56f",
+          "versionId": "20829f0a-df9f-5f4b-9e6a-1d3d41a6e011",
           "set": "ST07",
           "rarity": "C",
           "block": "1",
@@ -1381,6 +1519,8 @@
         },
         {
           "id": "ST07-016~ja",
+          "uuid": "1e9c3c07-fdd7-5420-81c6-32807b4b904a",
+          "versionId": "20829f0a-df9f-5f4b-9e6a-1d3d41a6e011",
           "language": "ja",
           "set": "ST07",
           "rarity": "C",
@@ -1397,6 +1537,8 @@
     },
     {
       "number": "ST07-017",
+      "uuid": "79d40916-c148-5023-9c99-e2d6346f437a",
+      "oracleId": "6c3359a2-4741-5d99-b672-abffbc1778d0",
       "name": "Queen Mama Chanter",
       "names": {
         "en": "Queen Mama Chanter",
@@ -1414,6 +1556,8 @@
       "printings": [
         {
           "id": "ST07-017",
+          "uuid": "7b1b1af7-89a6-5fbd-861d-18b72c2a3b53",
+          "versionId": "354774d8-b582-530d-8a88-0d19addb50f3",
           "set": "ST07",
           "rarity": "C",
           "block": "1",
@@ -1436,6 +1580,8 @@
         },
         {
           "id": "ST07-017~ja",
+          "uuid": "773d859a-aa4b-5e75-b348-18c68c0d24c4",
+          "versionId": "354774d8-b582-530d-8a88-0d19addb50f3",
           "language": "ja",
           "set": "ST07",
           "rarity": "C",

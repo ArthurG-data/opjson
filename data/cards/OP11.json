@@ -2,6 +2,8 @@
   "cards": [
     {
       "number": "OP11-001",
+      "uuid": "89c55b7a-62ad-5e55-a415-cb45286912d9",
+      "oracleId": "f6a63a53-14ce-5bc2-99fb-d5ea753194c2",
       "name": "Koby",
       "names": {
         "en": "Koby",
@@ -24,6 +26,8 @@
       "printings": [
         {
           "id": "OP11-001",
+          "uuid": "e6d48aaf-600e-5823-8ad9-fa576a1d95aa",
+          "versionId": "9d540adf-7aa9-5995-9aa1-e7acbfbd53a8",
           "set": "OP11",
           "rarity": "L",
           "block": "3",
@@ -47,6 +51,8 @@
         },
         {
           "id": "OP11-001_p1",
+          "uuid": "167225b5-e058-5bc2-a162-ae8193daa04d",
+          "versionId": "28db82f0-667b-5005-9828-4d439f7b9870",
           "set": "OP11",
           "rarity": "L",
           "block": "3",
@@ -73,6 +79,8 @@
         },
         {
           "id": "OP11-001~ja",
+          "uuid": "55bad460-951f-5667-86b5-c1a174058193",
+          "versionId": "9d540adf-7aa9-5995-9aa1-e7acbfbd53a8",
           "language": "ja",
           "set": "OP11",
           "rarity": "L",
@@ -87,6 +95,8 @@
         },
         {
           "id": "OP11-001_p1~ja",
+          "uuid": "57c1b09d-80c4-5a2d-9c63-de9568a64bf3",
+          "versionId": "28db82f0-667b-5005-9828-4d439f7b9870",
           "language": "ja",
           "set": "OP11",
           "rarity": "L",
@@ -103,6 +113,8 @@
     },
     {
       "number": "OP11-002",
+      "uuid": "f987696b-7da6-574d-b5b0-7e681f95a0c4",
+      "oracleId": "26982754-4716-5462-8332-a306a8001805",
       "name": "Ain",
       "names": {
         "en": "Ain",
@@ -125,6 +137,8 @@
       "printings": [
         {
           "id": "OP11-002",
+          "uuid": "6eea111e-6fd0-5619-8d49-537a327a8708",
+          "versionId": "2881eb44-f04a-5736-8263-71c8ea4c0c0a",
           "set": "OP11",
           "rarity": "C",
           "block": "3",
@@ -148,6 +162,8 @@
         },
         {
           "id": "OP11-002~tcg634447",
+          "uuid": "2b8d3783-34c4-59ee-8c5a-df5803b72e2c",
+          "versionId": "16659c43-68bb-5e38-a61e-ced1950fcd91",
           "set": "OP11-RE",
           "rarity": "C",
           "image": "https://tcgplayer-cdn.tcgplayer.com/product/634447_in_400x400.jpg",
@@ -176,6 +192,8 @@
         },
         {
           "id": "OP11-002~ja",
+          "uuid": "0b5876fe-6d4a-5af1-8914-f4df99da18cd",
+          "versionId": "2881eb44-f04a-5736-8263-71c8ea4c0c0a",
           "language": "ja",
           "set": "OP11",
           "rarity": "C",
@@ -192,6 +210,8 @@
     },
     {
       "number": "OP11-003",
+      "uuid": "a6b37c0e-1913-5b97-ae9b-a033831805b9",
+      "oracleId": "a58baf75-f59b-5b0c-97f4-6687cfc7fa1b",
       "name": "Usopp",
       "names": {
         "en": "Usopp",
@@ -213,6 +233,8 @@
       "printings": [
         {
           "id": "OP11-003",
+          "uuid": "bddddfb7-827f-52db-a360-062b61a25206",
+          "versionId": "9a680e5f-b01c-590d-90d1-cc4801f813d1",
           "set": "OP11",
           "rarity": "UC",
           "block": "3",
@@ -236,6 +258,8 @@
         },
         {
           "id": "OP11-003_r1",
+          "uuid": "48350d4c-a946-5cbb-bce1-b6300697471b",
+          "versionId": "ba690253-125c-5d77-bc99-ed8936bae7a7",
           "set": "ST31",
           "rarity": "UC",
           "block": "3",
@@ -250,6 +274,8 @@
         },
         {
           "id": "OP11-003~tcg634448",
+          "uuid": "dbd7ee95-1506-5362-80a3-850f07ccdc3a",
+          "versionId": "28cec779-cb8c-5338-9de7-eb8f07ca56a6",
           "set": "OP11-RE",
           "rarity": "UC",
           "image": "https://tcgplayer-cdn.tcgplayer.com/product/634448_in_400x400.jpg",
@@ -278,6 +304,8 @@
         },
         {
           "id": "OP11-003~tcg656670",
+          "uuid": "b25f7fb2-8083-5ad2-85d7-eb6f27be60ff",
+          "versionId": "c9f1fe59-93cd-52cf-8c5d-6f06d6264d9e",
           "set": "LT01",
           "rarity": "UC",
           "image": "https://tcgplayer-cdn.tcgplayer.com/product/656670_in_400x400.jpg",
@@ -298,6 +326,8 @@
         },
         {
           "id": "OP11-003~tcg707256",
+          "uuid": "d5187221-da40-5df9-a4bb-68c3dd09a340",
+          "versionId": "d191297e-ceaf-570e-b178-de41ca7fa4a3",
           "set": "P",
           "rarity": "UC",
           "image": "https://tcgplayer-cdn.tcgplayer.com/product/707256_in_400x400.jpg",
@@ -324,6 +354,8 @@
         },
         {
           "id": "OP11-003~ja",
+          "uuid": "099c2d85-5bca-5a30-ba66-23b8345342ba",
+          "versionId": "9a680e5f-b01c-590d-90d1-cc4801f813d1",
           "language": "ja",
           "set": "OP11",
           "rarity": "UC",
@@ -338,6 +370,8 @@
         },
         {
           "id": "OP11-003_r1~ja",
+          "uuid": "c59aa2d3-bea7-553b-8084-4abed90b573d",
+          "versionId": "ba690253-125c-5d77-bc99-ed8936bae7a7",
           "language": "ja",
           "set": "ST31",
           "rarity": "UC",
@@ -354,6 +388,8 @@
     },
     {
       "number": "OP11-004",
+      "uuid": "2108c228-34e2-5112-96ca-ae041b3ec752",
+      "oracleId": "9af2fd2d-9d86-5345-85ac-052047deb959",
       "name": "Kujyaku",
       "names": {
         "en": "Kujyaku",
@@ -375,6 +411,8 @@
       "printings": [
         {
           "id": "OP11-004",
+          "uuid": "e2d24094-c236-5c77-8f6c-8e53b25a2aa1",
+          "versionId": "5fda04e3-7aee-57e3-80b0-2c4c8e7ee706",
           "set": "OP11",
           "rarity": "SR",
           "block": "3",
@@ -398,6 +436,8 @@
         },
         {
           "id": "OP11-004_p1",
+          "uuid": "bb64716c-8658-53c5-a23b-d7be255013df",
+          "versionId": "e49e9c49-aed5-57b3-965f-328c80912552",
           "set": "OP11",
           "rarity": "SR",
           "block": "3",
@@ -424,6 +464,8 @@
         },
         {
           "id": "OP11-004_p2",
+          "uuid": "70853a0a-31e3-5ff9-888f-a473b8f350d8",
+          "versionId": "4aef4cc5-6ce6-5255-abeb-ba91dd9a5104",
           "set": "P",
           "rarity": "SR",
           "block": "3",
@@ -453,6 +495,8 @@
         },
         {
           "id": "OP11-004~ja",
+          "uuid": "05b79d14-50c0-5d14-a762-424c135562e5",
+          "versionId": "5fda04e3-7aee-57e3-80b0-2c4c8e7ee706",
           "language": "ja",
           "set": "OP11",
           "rarity": "SR",
@@ -467,6 +511,8 @@
         },
         {
           "id": "OP11-004_p1~ja",
+          "uuid": "e2b8d053-0775-5590-ae59-3eaae9fac3ef",
+          "versionId": "e49e9c49-aed5-57b3-965f-328c80912552",
           "language": "ja",
           "set": "OP11",
           "rarity": "SR",
@@ -483,6 +529,8 @@
     },
     {
       "number": "OP11-005",
+      "uuid": "9b682d89-4888-5319-9637-2b7f544b2109",
+      "oracleId": "4b7d30ac-2d64-5e97-bc00-e0832479478f",
       "name": "Smoker",
       "names": {
         "en": "Smoker",
@@ -504,6 +552,8 @@
       "printings": [
         {
           "id": "OP11-005",
+          "uuid": "276e7fcb-7a06-5687-8c23-8906b9c440f5",
+          "versionId": "160edb2e-ca2f-5c63-bf3e-0241b205dbcd",
           "set": "OP11",
           "rarity": "C",
           "block": "3",
@@ -527,6 +577,8 @@
         },
         {
           "id": "OP11-005~tcg634449",
+          "uuid": "36b03980-b119-53cd-8506-f13aadfd7fe9",
+          "versionId": "25ab1cae-ab4f-543b-994e-dd4ef26b3c77",
           "set": "OP11-RE",
           "rarity": "C",
           "image": "https://tcgplayer-cdn.tcgplayer.com/product/634449_in_400x400.jpg",
@@ -555,6 +607,8 @@
         },
         {
           "id": "OP11-005~ja",
+          "uuid": "715b2f4e-b345-5162-a6db-c6d5b804b16a",
+          "versionId": "160edb2e-ca2f-5c63-bf3e-0241b205dbcd",
           "language": "ja",
           "set": "OP11",
           "rarity": "C",
@@ -571,6 +625,8 @@
     },
     {
       "number": "OP11-006",
+      "uuid": "a06e1e42-07e1-5c96-9b53-5ba91e0e64a7",
+      "oracleId": "15dbe157-7d7b-53a6-a25f-00d2e7858d83",
       "name": "Zephyr",
       "names": {
         "en": "Zephyr",
@@ -593,6 +649,8 @@
       "printings": [
         {
           "id": "OP11-006",
+          "uuid": "3d82bb93-759f-534c-ac51-0f5424b217de",
+          "versionId": "64294672-7219-5d79-9f81-c74c2606bdf2",
           "set": "OP11",
           "rarity": "C",
           "block": "3",
@@ -616,6 +674,8 @@
         },
         {
           "id": "OP11-006~tcg634450",
+          "uuid": "f24a5457-c44f-5aec-8ece-bc0d7f74c076",
+          "versionId": "9c0ec346-e9e9-51cc-903a-53439d549d4e",
           "set": "OP11-RE",
           "rarity": "C",
           "image": "https://tcgplayer-cdn.tcgplayer.com/product/634450_in_400x400.jpg",
@@ -644,6 +704,8 @@
         },
         {
           "id": "OP11-006~ja",
+          "uuid": "7617fe15-dd1f-57f8-b111-8b81a58b968d",
+          "versionId": "64294672-7219-5d79-9f81-c74c2606bdf2",
           "language": "ja",
           "set": "OP11",
           "rarity": "C",
@@ -660,6 +722,8 @@
     },
     {
       "number": "OP11-007",
+      "uuid": "7fd2a549-93aa-5a01-a45c-222511c214d9",
+      "oracleId": "9a80b8d1-b9e5-5284-bc1a-2dfb00cfa316",
       "name": "Tashigi",
       "names": {
         "en": "Tashigi",
@@ -681,6 +745,8 @@
       "printings": [
         {
           "id": "OP11-007",
+          "uuid": "44be20ca-2adf-5ab8-b547-5b39ced225b7",
+          "versionId": "5cf2712f-6df6-580e-8e6e-baa462c6f22b",
           "set": "OP11",
           "rarity": "C",
           "block": "3",
@@ -704,6 +770,8 @@
         },
         {
           "id": "OP11-007~tcg634451",
+          "uuid": "b893648a-8b0c-5f8b-8a8d-1f294b27a514",
+          "versionId": "42b822fa-a64f-5a17-a13c-04bd98357a79",
           "set": "OP11-RE",
           "rarity": "C",
           "image": "https://tcgplayer-cdn.tcgplayer.com/product/634451_in_400x400.jpg",
@@ -732,6 +800,8 @@
         },
         {
           "id": "OP11-007~ja",
+          "uuid": "2b3c673a-79b7-525d-be27-0f14ac20b38a",
+          "versionId": "5cf2712f-6df6-580e-8e6e-baa462c6f22b",
           "language": "ja",
           "set": "OP11",
           "rarity": "C",
@@ -748,6 +818,8 @@
     },
     {
       "number": "OP11-008",
+      "uuid": "945e14e1-2a9c-5812-b34d-44cf9abdc987",
+      "oracleId": "769b00fb-8c1a-5b27-8202-11a59a767706",
       "name": "Doll",
       "names": {
         "en": "Doll",
@@ -769,6 +841,8 @@
       "printings": [
         {
           "id": "OP11-008",
+          "uuid": "93cd7407-d037-5e0c-8802-f9f0b6c61936",
+          "versionId": "65fa4cb9-d6df-5a7e-8b8a-965c8ae709d4",
           "set": "OP11",
           "rarity": "R",
           "block": "3",
@@ -792,6 +866,8 @@
         },
         {
           "id": "OP11-008_p1",
+          "uuid": "51b3c2c3-4a61-5bc6-8eb7-e0c4efeda0ce",
+          "versionId": "17b26d3f-e00b-5ff3-98d0-749ea460a180",
           "set": "OP11",
           "rarity": "R",
           "block": "3",
@@ -818,6 +894,8 @@
         },
         {
           "id": "OP11-008~ja",
+          "uuid": "8251764e-f604-59cb-856d-0746e06f7087",
+          "versionId": "65fa4cb9-d6df-5a7e-8b8a-965c8ae709d4",
           "language": "ja",
           "set": "OP11",
           "rarity": "R",
@@ -832,6 +910,8 @@
         },
         {
           "id": "OP11-008_p1~ja",
+          "uuid": "f839d70b-8184-5d70-a00a-89f857538298",
+          "versionId": "17b26d3f-e00b-5ff3-98d0-749ea460a180",
           "language": "ja",
           "set": "OP11",
           "rarity": "R",
@@ -848,6 +928,8 @@
     },
     {
       "number": "OP11-009",
+      "uuid": "17774a77-502d-5ab5-af94-ce33fc359b4d",
+      "oracleId": "42106ea0-3685-5f7c-ac34-fef016046075",
       "name": "Nico Robin",
       "names": {
         "en": "Nico Robin",
@@ -869,6 +951,8 @@
       "printings": [
         {
           "id": "OP11-009",
+          "uuid": "8cef06db-dd95-5ca2-b678-0b16fe61fe0b",
+          "versionId": "67c20ec9-d150-531c-8d32-159708313cc0",
           "set": "OP11",
           "rarity": "C",
           "block": "3",
@@ -892,6 +976,8 @@
         },
         {
           "id": "OP11-009_r1",
+          "uuid": "fcb41d9b-43b5-57ae-92e4-2a106da82a68",
+          "versionId": "4b7524a9-94bf-5dfb-b13c-055569c6b484",
           "set": "ST31",
           "rarity": "C",
           "block": "3",
@@ -906,6 +992,8 @@
         },
         {
           "id": "OP11-009~tcg634452",
+          "uuid": "1be7f2a3-b728-51b0-a2e1-1aed1c7c9718",
+          "versionId": "205f8e71-bd9a-5518-b62a-3db0a07f12bd",
           "set": "OP11-RE",
           "rarity": "C",
           "image": "https://tcgplayer-cdn.tcgplayer.com/product/634452_in_400x400.jpg",
@@ -934,6 +1022,8 @@
         },
         {
           "id": "OP11-009~ja",
+          "uuid": "7652f7ad-419f-504e-82d5-fa91546cf505",
+          "versionId": "67c20ec9-d150-531c-8d32-159708313cc0",
           "language": "ja",
           "set": "OP11",
           "rarity": "C",
@@ -948,6 +1038,8 @@
         },
         {
           "id": "OP11-009_r1~ja",
+          "uuid": "e33c0836-8f6b-52b7-9a9e-b65e8bc94e53",
+          "versionId": "4b7524a9-94bf-5dfb-b13c-055569c6b484",
           "language": "ja",
           "set": "ST31",
           "rarity": "C",
@@ -964,6 +1056,8 @@
     },
     {
       "number": "OP11-010",
+      "uuid": "c95321d5-a997-569f-8bd5-94b2c3718fa5",
+      "oracleId": "c6c8a062-0875-56e9-8249-c4aa6bd2538c",
       "name": "Hibari",
       "names": {
         "en": "Hibari",
@@ -985,6 +1079,8 @@
       "printings": [
         {
           "id": "OP11-010",
+          "uuid": "b83e57dc-7078-5e45-9959-4c2938578158",
+          "versionId": "6723885d-174f-57fd-a1a8-af5734d3bcd9",
           "set": "OP11",
           "rarity": "SR",
           "block": "3",
@@ -1008,6 +1104,8 @@
         },
         {
           "id": "OP11-010_p1",
+          "uuid": "40e556d7-b209-5799-a416-3d4610738f24",
+          "versionId": "0d765063-5634-52a0-a11d-90a7fcd197c3",
           "set": "OP11",
           "rarity": "SR",
           "block": "3",
@@ -1034,6 +1132,8 @@
         },
         {
           "id": "OP11-010_p2",
+          "uuid": "0496e683-9f5d-5134-a37f-acc83f5e21a3",
+          "versionId": "34910463-a05a-5453-83b8-ace04f6905f3",
           "set": "P",
           "rarity": "SR",
           "block": "3",
@@ -1060,6 +1160,8 @@
         },
         {
           "id": "OP11-010~ja",
+          "uuid": "174c56fd-afe5-5eed-8300-d4549dcdd84c",
+          "versionId": "6723885d-174f-57fd-a1a8-af5734d3bcd9",
           "language": "ja",
           "set": "OP11",
           "rarity": "SR",
@@ -1074,6 +1176,8 @@
         },
         {
           "id": "OP11-010_p1~ja",
+          "uuid": "f54b87d8-fa52-5145-978d-9709b2b19719",
+          "versionId": "0d765063-5634-52a0-a11d-90a7fcd197c3",
           "language": "ja",
           "set": "OP11",
           "rarity": "SR",
@@ -1088,6 +1192,8 @@
         },
         {
           "id": "OP11-010_p2~ja",
+          "uuid": "6cdf290d-1526-5d42-b740-7df0232339be",
+          "versionId": "34910463-a05a-5453-83b8-ace04f6905f3",
           "language": "ja",
           "set": "P",
           "rarity": "SR",
@@ -1101,6 +1207,8 @@
     },
     {
       "number": "OP11-011",
+      "uuid": "4afb09a0-05f5-5e7f-b2a5-5e1e3ffe6abc",
+      "oracleId": "6d8f5b58-b91f-52e3-bafa-f1f6edfc19b2",
       "name": "Bins",
       "names": {
         "en": "Bins",
@@ -1123,6 +1231,8 @@
       "printings": [
         {
           "id": "OP11-011",
+          "uuid": "844bef00-c443-5ef3-b91a-3a9ef4b6d6a1",
+          "versionId": "e0145747-2d52-55cd-9d42-95dbad39c6fe",
           "set": "OP11",
           "rarity": "C",
           "block": "3",
@@ -1146,6 +1256,8 @@
         },
         {
           "id": "OP11-011~tcg634453",
+          "uuid": "767a2a5d-00ba-571a-b829-bd925a4978d7",
+          "versionId": "cf1c0ddb-583b-5fe3-bc4a-01443e6d11e0",
           "set": "OP11-RE",
           "rarity": "C",
           "image": "https://tcgplayer-cdn.tcgplayer.com/product/634453_in_400x400.jpg",
@@ -1174,6 +1286,8 @@
         },
         {
           "id": "OP11-011~ja",
+          "uuid": "8a28aec7-3ec5-5142-bba4-73eb631c64c9",
+          "versionId": "e0145747-2d52-55cd-9d42-95dbad39c6fe",
           "language": "ja",
           "set": "OP11",
           "rarity": "C",
@@ -1190,6 +1304,8 @@
     },
     {
       "number": "OP11-012",
+      "uuid": "ec5d7dd8-c231-561e-a539-7bf8ae2cf592",
+      "oracleId": "00248a59-470b-54cf-bbbc-870c52770df3",
       "name": "Franky",
       "names": {
         "en": "Franky",
@@ -1211,6 +1327,8 @@
       "printings": [
         {
           "id": "OP11-012",
+          "uuid": "f9f99ecf-4b97-5be1-b550-9ea1056e36c9",
+          "versionId": "2eeca6ed-607c-58e1-9826-e34f823d681e",
           "set": "OP11",
           "rarity": "UC",
           "block": "3",
@@ -1234,6 +1352,8 @@
         },
         {
           "id": "OP11-012_r1",
+          "uuid": "1b3d7dbe-fea5-5675-8632-5cbb6405972a",
+          "versionId": "09ad07ac-527d-51dc-a067-e111ef098fad",
           "set": "ST31",
           "rarity": "UC",
           "block": "3",
@@ -1248,6 +1368,8 @@
         },
         {
           "id": "OP11-012~tcg634454",
+          "uuid": "c65851c0-48c0-51c3-a974-7c7fc5d2d2c8",
+          "versionId": "d168ffba-c921-50bf-beae-4815bf6fce00",
           "set": "OP11-RE",
           "rarity": "UC",
           "image": "https://tcgplayer-cdn.tcgplayer.com/product/634454_in_400x400.jpg",
@@ -1276,6 +1398,8 @@
         },
         {
           "id": "OP11-012~tcg710250",
+          "uuid": "7a61d8a2-bcf1-54b5-99dd-25a90623451e",
+          "versionId": "7560e625-9bad-5e16-bd8d-3d7fdd35bfcd",
           "set": "P",
           "rarity": "UC",
           "image": "https://tcgplayer-cdn.tcgplayer.com/product/710250_in_400x400.jpg",
@@ -1303,6 +1427,8 @@
         },
         {
           "id": "OP11-012~tcg710264",
+          "uuid": "22b2911e-5839-5e46-90bb-2cf8d02d0dc2",
+          "versionId": "6e4214cc-165b-53de-8460-fd4f54b585f7",
           "set": "P",
           "rarity": "UC",
           "image": "https://tcgplayer-cdn.tcgplayer.com/product/710264_in_400x400.jpg",
@@ -1330,6 +1456,8 @@
         },
         {
           "id": "OP11-012~tcg710265",
+          "uuid": "ed1f5223-4a67-54e1-9991-7d4bdafa97c8",
+          "versionId": "54392ca1-9f34-553c-ada9-652baeb0c5bb",
           "set": "P",
           "rarity": "UC",
           "image": "https://tcgplayer-cdn.tcgplayer.com/product/710265_in_400x400.jpg",
@@ -1357,6 +1485,8 @@
         },
         {
           "id": "OP11-012~ja",
+          "uuid": "f3ae44c8-f7bb-5140-8747-cfc58b369c7b",
+          "versionId": "2eeca6ed-607c-58e1-9826-e34f823d681e",
           "language": "ja",
           "set": "OP11",
           "rarity": "UC",
@@ -1371,6 +1501,8 @@
         },
         {
           "id": "OP11-012_p1~ja",
+          "uuid": "e619546c-3550-52c6-b26d-c39237558132",
+          "versionId": "3552ebc8-a6ee-56a1-8cba-66fac34cab3e",
           "language": "ja",
           "set": "P",
           "rarity": "UC",
@@ -1381,6 +1513,8 @@
         },
         {
           "id": "OP11-012_r1~ja",
+          "uuid": "fe737e9b-4a2a-5574-8d21-8e5de018d865",
+          "versionId": "09ad07ac-527d-51dc-a067-e111ef098fad",
           "language": "ja",
           "set": "ST31",
           "rarity": "UC",
@@ -1397,6 +1531,8 @@
     },
     {
       "number": "OP11-013",
+      "uuid": "9c7e59ed-d066-51ec-be98-fccd820f7f63",
+      "oracleId": "08e16a89-23ac-5137-8f4b-9bda21e8dc15",
       "name": "Prince Grus",
       "names": {
         "en": "Prince Grus",
@@ -1419,6 +1555,8 @@
       "printings": [
         {
           "id": "OP11-013",
+          "uuid": "3fa18a3a-317f-55a3-944f-19d1ae27825b",
+          "versionId": "19d290f6-2459-53a0-9baf-05f8ede10d21",
           "set": "OP11",
           "rarity": "R",
           "block": "3",
@@ -1442,6 +1580,8 @@
         },
         {
           "id": "OP11-013~tcg668195",
+          "uuid": "cdc10bc3-9a42-5f6c-83e4-79bf162e92f5",
+          "versionId": "27984eca-b571-5676-84ef-c13570c1ec21",
           "set": "P",
           "rarity": "R",
           "image": "https://tcgplayer-cdn.tcgplayer.com/product/668195_in_400x400.jpg",
@@ -1468,6 +1608,8 @@
         },
         {
           "id": "OP11-013~ja",
+          "uuid": "763b6830-1980-5407-94a0-27eb72847153",
+          "versionId": "19d290f6-2459-53a0-9baf-05f8ede10d21",
           "language": "ja",
           "set": "OP11",
           "rarity": "R",
@@ -1484,6 +1626,8 @@
     },
     {
       "number": "OP11-014",
+      "uuid": "19c8bb9e-da4d-5af9-8b07-1f88aa4f334a",
+      "oracleId": "ff9bef82-54af-5b8e-aeb4-63cf2c6eb93d",
       "name": "Borsalino",
       "names": {
         "en": "Borsalino",
@@ -1506,6 +1650,8 @@
       "printings": [
         {
           "id": "OP11-014",
+          "uuid": "8679661a-ce59-5ae6-8880-2e693c8c72c0",
+          "versionId": "7e2fbce5-86cd-5fb4-8af1-18427ba04749",
           "set": "OP11",
           "rarity": "R",
           "block": "3",
@@ -1529,6 +1675,8 @@
         },
         {
           "id": "OP11-014~ja",
+          "uuid": "714680b9-b25c-5d54-871e-a73f8e94bd1f",
+          "versionId": "7e2fbce5-86cd-5fb4-8af1-18427ba04749",
           "language": "ja",
           "set": "OP11",
           "rarity": "R",
@@ -1545,6 +1693,8 @@
     },
     {
       "number": "OP11-015",
+      "uuid": "2060b81d-e452-527d-bf6d-7a40bcc27331",
+      "oracleId": "cd6d34a7-b02c-5285-9e8a-c0cb76bc435e",
       "name": "Mocha",
       "names": {
         "en": "Mocha",
@@ -1566,6 +1716,8 @@
       "printings": [
         {
           "id": "OP11-015",
+          "uuid": "c2975ddb-f1dd-5bd8-a413-fdf2c243493d",
+          "versionId": "15e404f8-56ca-5c64-abce-e95c34a4e88b",
           "set": "OP11",
           "rarity": "C",
           "block": "3",
@@ -1589,6 +1741,8 @@
         },
         {
           "id": "OP11-015~tcg634455",
+          "uuid": "5e1611b8-24a0-529f-a4c4-2da576d5eaf7",
+          "versionId": "ca6dbfe6-c267-5c75-9b99-94081eb67ab2",
           "set": "OP11-RE",
           "rarity": "C",
           "image": "https://tcgplayer-cdn.tcgplayer.com/product/634455_in_400x400.jpg",
@@ -1617,6 +1771,8 @@
         },
         {
           "id": "OP11-015~ja",
+          "uuid": "a244ac4b-e786-54c6-bdec-526bfa52d2dd",
+          "versionId": "15e404f8-56ca-5c64-abce-e95c34a4e88b",
           "language": "ja",
           "set": "OP11",
           "rarity": "C",
@@ -1633,6 +1789,8 @@
     },
     {
       "number": "OP11-016",
+      "uuid": "8a491868-8baf-5270-9204-b7b1be32ad5a",
+      "oracleId": "d78ed8a0-b3ea-5dea-a553-a9ec67555b45",
       "name": "Roronoa Zoro",
       "names": {
         "en": "Roronoa Zoro",
@@ -1654,6 +1812,8 @@
       "printings": [
         {
           "id": "OP11-016",
+          "uuid": "6ed5533b-613e-572e-bdea-959c31d18eee",
+          "versionId": "d83f6aab-1fec-570a-b1be-be9c54264498",
           "set": "OP11",
           "rarity": "UC",
           "block": "3",
@@ -1677,6 +1837,8 @@
         },
         {
           "id": "OP11-016~tcg634456",
+          "uuid": "4559a435-7c45-5b1f-b01c-463d290dcd80",
+          "versionId": "596b54fb-58ea-5898-a12b-dd61dcd2acc3",
           "set": "OP11-RE",
           "rarity": "UC",
           "image": "https://tcgplayer-cdn.tcgplayer.com/product/634456_in_400x400.jpg",
@@ -1705,6 +1867,8 @@
         },
         {
           "id": "OP11-016~tcg656671",
+          "uuid": "b7db5ee9-82dc-52da-bc91-e22e978c202e",
+          "versionId": "73b13e62-7295-5c9e-add4-e7b5686bfc70",
           "set": "LT01",
           "rarity": "UC",
           "image": "https://tcgplayer-cdn.tcgplayer.com/product/656671_in_400x400.jpg",
@@ -1725,6 +1889,8 @@
         },
         {
           "id": "OP11-016~ja",
+          "uuid": "df97e27b-61ee-5fba-a328-71b4d1040dc2",
+          "versionId": "d83f6aab-1fec-570a-b1be-be9c54264498",
           "language": "ja",
           "set": "OP11",
           "rarity": "UC",
@@ -1741,6 +1907,8 @@
     },
     {
       "number": "OP11-017",
+      "uuid": "5143b4fe-db17-50f1-867a-160eadec2c0b",
+      "oracleId": "526c31cc-a7ad-5f2a-a36c-e5936e6fa947",
       "name": "X.Drake",
       "names": {
         "en": "X.Drake",
@@ -1764,6 +1932,8 @@
       "printings": [
         {
           "id": "OP11-017",
+          "uuid": "21b9054c-bcc1-5ad4-96ce-ab639805f6ab",
+          "versionId": "4f78d28d-ff4f-5029-a971-d56ea2bb1bbf",
           "set": "OP11",
           "rarity": "UC",
           "block": "3",
@@ -1787,6 +1957,8 @@
         },
         {
           "id": "OP11-017~tcg634457",
+          "uuid": "12b8a116-c383-5433-9fa1-d0338e3293a1",
+          "versionId": "50690c88-c451-5fa9-9bd9-1cddcad28811",
           "set": "OP11-RE",
           "rarity": "UC",
           "image": "https://tcgplayer-cdn.tcgplayer.com/product/634457_in_400x400.jpg",
@@ -1815,6 +1987,8 @@
         },
         {
           "id": "OP11-017~tcg668196",
+          "uuid": "fe4c3b08-aa57-5240-a4ef-0bece2f1b046",
+          "versionId": "14707d5a-6a76-5899-9242-39e9436b111d",
           "set": "P",
           "rarity": "UC",
           "image": "https://tcgplayer-cdn.tcgplayer.com/product/668196_in_400x400.jpg",
@@ -1841,6 +2015,8 @@
         },
         {
           "id": "OP11-017~ja",
+          "uuid": "8d585f02-ec07-5a7d-8689-f4bcb37ef3ae",
+          "versionId": "4f78d28d-ff4f-5029-a971-d56ea2bb1bbf",
           "language": "ja",
           "set": "OP11",
           "rarity": "UC",
@@ -1857,6 +2033,8 @@
     },
     {
       "number": "OP11-018",
+      "uuid": "48f0745e-0ce7-5eef-8a3c-fc32bd2626c4",
+      "oracleId": "d3f728de-8d00-5dbd-99b7-9088b238e907",
       "name": "Honesty Impact",
       "names": {
         "en": "Honesty Impact",
@@ -1874,6 +2052,8 @@
       "printings": [
         {
           "id": "OP11-018",
+          "uuid": "02d2cd24-58ac-521e-9710-83a0486c6595",
+          "versionId": "6ac115da-1c41-59c8-baef-61d17894a90c",
           "set": "OP11",
           "rarity": "R",
           "block": "3",
@@ -1896,6 +2076,8 @@
         },
         {
           "id": "OP11-018_p1",
+          "uuid": "e3645b13-ad86-518f-990c-8adfa15999c9",
+          "versionId": "f561dbb7-c45d-54b0-af3f-c196e3a2a35f",
           "set": "OP11",
           "rarity": "R",
           "block": "3",
@@ -1921,6 +2103,8 @@
         },
         {
           "id": "OP11-018~ja",
+          "uuid": "80c3040f-329f-52bc-8592-80836401736c",
+          "versionId": "6ac115da-1c41-59c8-baef-61d17894a90c",
           "language": "ja",
           "set": "OP11",
           "rarity": "R",
@@ -1935,6 +2119,8 @@
         },
         {
           "id": "OP11-018_p1~ja",
+          "uuid": "9af5c45f-c0e1-561e-9975-f3672e3c1b7c",
+          "versionId": "f561dbb7-c45d-54b0-af3f-c196e3a2a35f",
           "language": "ja",
           "set": "OP11",
           "rarity": "R",
@@ -1951,6 +2137,8 @@
     },
     {
       "number": "OP11-019",
+      "uuid": "b8749985-83b9-5d41-ac79-bfd2a3c7e508",
+      "oracleId": "63dfbf74-a7e2-528c-8c14-751efc974391",
       "name": "Glorp Web!!",
       "names": {
         "en": "Glorp Web!!",
@@ -1968,6 +2156,8 @@
       "printings": [
         {
           "id": "OP11-019",
+          "uuid": "18bfdebd-56bb-5f89-b91d-be1dac4eda41",
+          "versionId": "dc2cb4c0-0b59-54c1-b7d0-dbaf49843214",
           "set": "OP11",
           "rarity": "C",
           "block": "3",
@@ -1990,6 +2180,8 @@
         },
         {
           "id": "OP11-019~tcg634458",
+          "uuid": "18772673-a67f-5b73-b06d-f17f3f8a1126",
+          "versionId": "8e8f73da-a930-5a54-bd2f-dad4d38e4a18",
           "set": "OP11-RE",
           "rarity": "C",
           "image": "https://tcgplayer-cdn.tcgplayer.com/product/634458_in_400x400.jpg",
@@ -2017,6 +2209,8 @@
         },
         {
           "id": "OP11-019~ja",
+          "uuid": "6ffcbb87-85c2-52d5-bda1-4900a8835c41",
+          "versionId": "dc2cb4c0-0b59-54c1-b7d0-dbaf49843214",
           "language": "ja",
           "set": "OP11",
           "rarity": "C",
@@ -2033,6 +2227,8 @@
     },
     {
       "number": "OP11-020",
+      "uuid": "8c6549a6-6eda-5887-830d-1fbb9fb6bc9b",
+      "oracleId": "8753458d-ee6c-5081-a352-be7d279c0aee",
       "name": "X Calibur",
       "names": {
         "en": "X Calibur",
@@ -2051,6 +2247,8 @@
       "printings": [
         {
           "id": "OP11-020",
+          "uuid": "190357ca-a9d6-5455-a8ee-4baa1b6125f7",
+          "versionId": "ebefd6c2-3b0a-54df-91fb-4cc0e5b38a15",
           "set": "OP11",
           "rarity": "UC",
           "block": "3",
@@ -2073,6 +2271,8 @@
         },
         {
           "id": "OP11-020~tcg634459",
+          "uuid": "13e16296-9c52-517e-8ede-0ca3a92743af",
+          "versionId": "1cdd7725-4d25-508c-87ec-647cdd40dd48",
           "set": "OP11-RE",
           "rarity": "UC",
           "image": "https://tcgplayer-cdn.tcgplayer.com/product/634459_in_400x400.jpg",
@@ -2100,6 +2300,8 @@
         },
         {
           "id": "OP11-020~ja",
+          "uuid": "8f019075-be78-5510-8f31-8e933a78cbd5",
+          "versionId": "ebefd6c2-3b0a-54df-91fb-4cc0e5b38a15",
           "language": "ja",
           "set": "OP11",
           "rarity": "UC",
@@ -2116,6 +2318,8 @@
     },
     {
       "number": "OP11-021",
+      "uuid": "ed541f06-76a5-5db7-b0c1-7ef7fd4e1322",
+      "oracleId": "3e45a1ad-a989-5473-b8b1-57e932617e15",
       "name": "Jinbe",
       "names": {
         "en": "Jinbe",
@@ -2137,6 +2341,8 @@
       "printings": [
         {
           "id": "OP11-021",
+          "uuid": "11394c21-ec6a-58a3-bf8e-3520dbbd721c",
+          "versionId": "d3740af8-dffa-52c0-9573-c00951d49f9a",
           "set": "OP11",
           "rarity": "L",
           "block": "3",
@@ -2160,6 +2366,8 @@
         },
         {
           "id": "OP11-021_p1",
+          "uuid": "185829c4-e0f8-5deb-ae0f-7c1ba8215a81",
+          "versionId": "0122a7fd-aac1-5377-b215-51e7eec93c3c",
           "set": "OP11",
           "rarity": "L",
           "block": "3",
@@ -2186,6 +2394,8 @@
         },
         {
           "id": "OP11-021~ja",
+          "uuid": "46282468-cff9-5412-80ec-87f0077ec118",
+          "versionId": "d3740af8-dffa-52c0-9573-c00951d49f9a",
           "language": "ja",
           "set": "OP11",
           "rarity": "L",
@@ -2200,6 +2410,8 @@
         },
         {
           "id": "OP11-021_p1~ja",
+          "uuid": "35289601-7e05-5b82-88dc-81c51f5fbe67",
+          "versionId": "0122a7fd-aac1-5377-b215-51e7eec93c3c",
           "language": "ja",
           "set": "OP11",
           "rarity": "L",
@@ -2216,6 +2428,8 @@
     },
     {
       "number": "OP11-022",
+      "uuid": "ed2061d8-ee60-509f-a0cb-565d4f25727c",
+      "oracleId": "c797a41e-b0fd-5c67-b3ac-14b496e5d299",
       "name": "Shirahoshi",
       "names": {
         "en": "Shirahoshi",
@@ -2238,6 +2452,8 @@
       "printings": [
         {
           "id": "OP11-022",
+          "uuid": "c1cfee72-3d4a-50c9-8bae-61fbaf886da6",
+          "versionId": "228ce294-e12a-5cf7-81fc-802ff3d732a5",
           "set": "OP11",
           "rarity": "L",
           "block": "3",
@@ -2261,6 +2477,8 @@
         },
         {
           "id": "OP11-022_p1",
+          "uuid": "57d080f9-15bd-547b-8db7-f3e75fa4bef6",
+          "versionId": "b83dd62f-d0f2-5518-b15c-936267a8cd68",
           "set": "OP11",
           "rarity": "L",
           "block": "3",
@@ -2287,6 +2505,8 @@
         },
         {
           "id": "OP11-022~ja",
+          "uuid": "1a175399-f90d-512f-af9b-423eeb8241be",
+          "versionId": "228ce294-e12a-5cf7-81fc-802ff3d732a5",
           "language": "ja",
           "set": "OP11",
           "rarity": "L",
@@ -2301,6 +2521,8 @@
         },
         {
           "id": "OP11-022_p1~ja",
+          "uuid": "7f1252a9-f1c3-52ed-a7b9-e86f4d695b4e",
+          "versionId": "b83dd62f-d0f2-5518-b15c-936267a8cd68",
           "language": "ja",
           "set": "OP11",
           "rarity": "L",
@@ -2317,6 +2539,8 @@
     },
     {
       "number": "OP11-023",
+      "uuid": "06941c4f-2d63-5e91-9607-9dc2d48167bd",
+      "oracleId": "22b093f7-eaf3-59c6-8d97-577961439b6c",
       "name": "Arlong",
       "names": {
         "en": "Arlong",
@@ -2340,6 +2564,8 @@
       "printings": [
         {
           "id": "OP11-023",
+          "uuid": "1a458ebb-ed52-503f-ac4d-4181e7958383",
+          "versionId": "8c7119d6-dd13-5e8c-9255-02447ab27a73",
           "set": "OP11",
           "rarity": "R",
           "block": "3",
@@ -2363,6 +2589,8 @@
         },
         {
           "id": "OP11-023_p1",
+          "uuid": "0f3870be-c143-5baa-8c05-60e01b3103c0",
+          "versionId": "916bb005-de67-58a8-ab43-7d2f3a6c5e06",
           "set": "OP11",
           "rarity": "R",
           "block": "3",
@@ -2389,6 +2617,8 @@
         },
         {
           "id": "OP11-023~ja",
+          "uuid": "c5a9cdf8-2c01-5abf-99cd-a2ab62fb2ca3",
+          "versionId": "8c7119d6-dd13-5e8c-9255-02447ab27a73",
           "language": "ja",
           "set": "OP11",
           "rarity": "R",
@@ -2403,6 +2633,8 @@
         },
         {
           "id": "OP11-023_p1~ja",
+          "uuid": "ce9f715f-a186-5be1-9dff-370639b9c0f8",
+          "versionId": "916bb005-de67-58a8-ab43-7d2f3a6c5e06",
           "language": "ja",
           "set": "OP11",
           "rarity": "R",
@@ -2419,6 +2651,8 @@
     },
     {
       "number": "OP11-024",
+      "uuid": "e6a02a4e-4854-5820-9073-37450f40cf47",
+      "oracleId": "083c4f59-7d35-5f34-8799-bf7822d73181",
       "name": "Aladine",
       "names": {
         "en": "Aladine",
@@ -2442,6 +2676,8 @@
       "printings": [
         {
           "id": "OP11-024",
+          "uuid": "f8e87156-c463-53d2-bdbe-11d763da9b58",
+          "versionId": "f97463e4-b7a1-59f1-9853-25f7850adbbd",
           "set": "OP11",
           "rarity": "C",
           "block": "3",
@@ -2465,6 +2701,8 @@
         },
         {
           "id": "OP11-024~tcg634460",
+          "uuid": "0f999f55-712f-587a-b9d4-20ab11ef6e43",
+          "versionId": "3379fac9-aa77-5365-b94a-4889b224d45a",
           "set": "OP11-RE",
           "rarity": "C",
           "image": "https://tcgplayer-cdn.tcgplayer.com/product/634460_in_400x400.jpg",
@@ -2493,6 +2731,8 @@
         },
         {
           "id": "OP11-024~ja",
+          "uuid": "d0bc1f5b-ff38-50e5-bc96-1e0cab12f2e2",
+          "versionId": "f97463e4-b7a1-59f1-9853-25f7850adbbd",
           "language": "ja",
           "set": "OP11",
           "rarity": "C",
@@ -2509,6 +2749,8 @@
     },
     {
       "number": "OP11-025",
+      "uuid": "385d5971-a4c8-5adc-8c6b-4c469b6e2b09",
+      "oracleId": "a4f13424-e2b7-5e14-96c7-468b8dc8339c",
       "name": "Ishilly",
       "names": {
         "en": "Ishilly",
@@ -2530,6 +2772,8 @@
       "printings": [
         {
           "id": "OP11-025",
+          "uuid": "7ef1d69e-c955-5513-b942-7b1b5259cb5d",
+          "versionId": "42561ce1-85a8-5264-8163-44d8bf33dffe",
           "set": "OP11",
           "rarity": "C",
           "block": "3",
@@ -2553,6 +2797,8 @@
         },
         {
           "id": "OP11-025~tcg634461",
+          "uuid": "b99442a3-2d83-52d3-843a-b11a4b71f8e0",
+          "versionId": "1c7ce2dd-0e0f-5059-9d17-9d0d9dbccb83",
           "set": "OP11-RE",
           "rarity": "C",
           "image": "https://tcgplayer-cdn.tcgplayer.com/product/634461_in_400x400.jpg",
@@ -2581,6 +2827,8 @@
         },
         {
           "id": "OP11-025~ja",
+          "uuid": "01c9cdfa-2c6a-57a0-a321-71cec81f373c",
+          "versionId": "42561ce1-85a8-5264-8163-44d8bf33dffe",
           "language": "ja",
           "set": "OP11",
           "rarity": "C",
@@ -2597,6 +2845,8 @@
     },
     {
       "number": "OP11-026",
+      "uuid": "b479a784-91e5-5077-a19d-3c8a16e39ae8",
+      "oracleId": "e575567b-7549-53fc-af95-2c8b214f0c90",
       "name": "Scaled Neptunian",
       "names": {
         "en": "Scaled Neptunian",
@@ -2618,6 +2868,8 @@
       "printings": [
         {
           "id": "OP11-026",
+          "uuid": "f363dcda-b5e2-5f5d-9222-9c281a2fe6c1",
+          "versionId": "241b9fc9-8016-560b-8f30-859347553f35",
           "set": "OP11",
           "rarity": "C",
           "block": "3",
@@ -2641,6 +2893,8 @@
         },
         {
           "id": "OP11-026~tcg634462",
+          "uuid": "dfaab533-ca80-565c-97d8-3c52c9400037",
+          "versionId": "5aa09c4c-94ad-51cc-a1cb-22d210c90699",
           "set": "OP11-RE",
           "rarity": "C",
           "image": "https://tcgplayer-cdn.tcgplayer.com/product/634462_in_400x400.jpg",
@@ -2669,6 +2923,8 @@
         },
         {
           "id": "OP11-026~ja",
+          "uuid": "7bf0f066-804f-54d9-b59f-b663df0c909a",
+          "versionId": "241b9fc9-8016-560b-8f30-859347553f35",
           "language": "ja",
           "set": "OP11",
           "rarity": "C",
@@ -2685,6 +2941,8 @@
     },
     {
       "number": "OP11-027",
+      "uuid": "8e364496-06a0-54a1-914e-1a69dbac310e",
+      "oracleId": "4aa84bc5-a7e6-5877-b9b5-b32013c5b54c",
       "name": "Bulge-Eyed Neptunian",
       "names": {
         "en": "Bulge-Eyed Neptunian",
@@ -2705,6 +2963,8 @@
       "printings": [
         {
           "id": "OP11-027",
+          "uuid": "b5001c32-048b-5531-a408-30acd5a3cfc1",
+          "versionId": "1cd98998-525c-50bf-9e6c-60044ebe3862",
           "set": "OP11",
           "rarity": "C",
           "block": "3",
@@ -2728,6 +2988,8 @@
         },
         {
           "id": "OP11-027~tcg634463",
+          "uuid": "645dd70c-2bb0-50f6-bc93-546352b32e39",
+          "versionId": "53a1b36a-f424-5357-916d-279499ff88aa",
           "set": "OP11-RE",
           "rarity": "C",
           "image": "https://tcgplayer-cdn.tcgplayer.com/product/634463_in_400x400.jpg",
@@ -2756,6 +3018,8 @@
         },
         {
           "id": "OP11-027~ja",
+          "uuid": "fddee162-10d4-5cc1-b1ce-4dc0b5986811",
+          "versionId": "1cd98998-525c-50bf-9e6c-60044ebe3862",
           "language": "ja",
           "set": "OP11",
           "rarity": "C",
@@ -2772,6 +3036,8 @@
     },
     {
       "number": "OP11-028",
+      "uuid": "7ce43dda-7f5d-5017-97b2-a93d017dc5c4",
+      "oracleId": "509b6853-ff46-5157-a4c3-0fc3f3fa8a86",
       "name": "Lord of the Coast",
       "names": {
         "en": "Lord of the Coast",
@@ -2794,6 +3060,8 @@
       "printings": [
         {
           "id": "OP11-028",
+          "uuid": "4f29cba5-dee3-5f3a-8a1c-660e9e075dee",
+          "versionId": "8cc03a6f-5f70-525c-b66d-72f616878488",
           "set": "OP11",
           "rarity": "R",
           "block": "3",
@@ -2817,6 +3085,8 @@
         },
         {
           "id": "OP11-028~tcg668197",
+          "uuid": "5d4b0db6-c83e-5ab4-a557-2ced4f33d2dc",
+          "versionId": "55d34c3b-db99-5fcc-82c8-f6644634f38a",
           "set": "P",
           "rarity": "R",
           "image": "https://tcgplayer-cdn.tcgplayer.com/product/668197_in_400x400.jpg",
@@ -2843,6 +3113,8 @@
         },
         {
           "id": "OP11-028~ja",
+          "uuid": "9defed6f-af7e-5073-85f0-846d5fdb7caa",
+          "versionId": "8cc03a6f-5f70-525c-b66d-72f616878488",
           "language": "ja",
           "set": "OP11",
           "rarity": "R",
@@ -2859,6 +3131,8 @@
     },
     {
       "number": "OP11-029",
+      "uuid": "a445c214-13b5-5dd8-841d-dabb536a1704",
+      "oracleId": "ba8c4029-2f49-53c0-bf31-cdab8724cf87",
       "name": "Charlotte Praline",
       "names": {
         "en": "Charlotte Praline",
@@ -2882,6 +3156,8 @@
       "printings": [
         {
           "id": "OP11-029",
+          "uuid": "8eeacc6d-1d85-5df2-8199-af74406c67a9",
+          "versionId": "face7373-e54c-5d54-bdc9-cd6daaeb7b2a",
           "set": "OP11",
           "rarity": "UC",
           "block": "3",
@@ -2905,6 +3181,8 @@
         },
         {
           "id": "OP11-029~tcg634464",
+          "uuid": "7ef49ea1-65f6-5292-b30a-bf486f84b678",
+          "versionId": "07b107c4-f86b-59b0-8455-e9a5592cefe5",
           "set": "OP11-RE",
           "rarity": "UC",
           "image": "https://tcgplayer-cdn.tcgplayer.com/product/634464_in_400x400.jpg",
@@ -2933,6 +3211,8 @@
         },
         {
           "id": "OP11-029~ja",
+          "uuid": "8919a937-f667-5699-b573-8b000bc615f9",
+          "versionId": "face7373-e54c-5d54-bdc9-cd6daaeb7b2a",
           "language": "ja",
           "set": "OP11",
           "rarity": "UC",
@@ -2949,6 +3229,8 @@
     },
     {
       "number": "OP11-030",
+      "uuid": "4099e4ac-46db-5cb0-afef-5db340630ae7",
+      "oracleId": "ff22c1ef-071e-5416-a8fb-3be03e497178",
       "name": "Shirahoshi",
       "names": {
         "en": "Shirahoshi",
@@ -2970,6 +3252,8 @@
       "printings": [
         {
           "id": "OP11-030",
+          "uuid": "4909bd28-6a3f-5fe1-84a6-f4728f900828",
+          "versionId": "eb9d9661-157c-5f4b-b32c-fd41e832aa42",
           "set": "OP11",
           "rarity": "R",
           "block": "3",
@@ -2993,6 +3277,8 @@
         },
         {
           "id": "OP11-030~tcg668199",
+          "uuid": "52d8faf3-456f-50ca-82cf-19c8f27f708b",
+          "versionId": "a4bcf8c5-6742-5c6e-85eb-b4b05df3c88a",
           "set": "P",
           "rarity": "R",
           "image": "https://tcgplayer-cdn.tcgplayer.com/product/668199_in_400x400.jpg",
@@ -3019,6 +3305,8 @@
         },
         {
           "id": "OP11-030~ja",
+          "uuid": "6f46e7dd-040a-5702-a7b2-560855eb6dc7",
+          "versionId": "eb9d9661-157c-5f4b-b32c-fd41e832aa42",
           "language": "ja",
           "set": "OP11",
           "rarity": "R",
@@ -3035,6 +3323,8 @@
     },
     {
       "number": "OP11-031",
+      "uuid": "570b1060-6dab-5f68-ba8d-b692b462f229",
+      "oracleId": "fed6cc32-74c6-56dc-bc93-6a2de09d89dc",
       "name": "Jinbe",
       "names": {
         "en": "Jinbe",
@@ -3057,6 +3347,8 @@
       "printings": [
         {
           "id": "OP11-031",
+          "uuid": "67eacae7-b841-5d91-8ace-6ea5e5097bab",
+          "versionId": "3c937bb6-c816-5139-8c11-4548af070d49",
           "set": "OP11",
           "rarity": "SR",
           "block": "3",
@@ -3080,6 +3372,8 @@
         },
         {
           "id": "OP11-031_p1",
+          "uuid": "c1e10c80-b5b7-5249-97bd-f062a7aab8c5",
+          "versionId": "d7083b9d-3d4d-520f-b0cc-f6a37a2a5b72",
           "set": "OP11",
           "rarity": "SR",
           "block": "3",
@@ -3106,6 +3400,8 @@
         },
         {
           "id": "OP11-031~ja",
+          "uuid": "bda011f9-80f3-51ce-aed2-bb5712d1c4f8",
+          "versionId": "3c937bb6-c816-5139-8c11-4548af070d49",
           "language": "ja",
           "set": "OP11",
           "rarity": "SR",
@@ -3120,6 +3416,8 @@
         },
         {
           "id": "OP11-031_p1~ja",
+          "uuid": "e94f1f55-43f2-516d-a8c7-be70525a955a",
+          "versionId": "d7083b9d-3d4d-520f-b0cc-f6a37a2a5b72",
           "language": "ja",
           "set": "OP11",
           "rarity": "SR",
@@ -3136,6 +3434,8 @@
     },
     {
       "number": "OP11-032",
+      "uuid": "25e72ef6-cd31-574b-b5d2-b7cba2d86920",
+      "oracleId": "1f32554f-3f47-54c5-90ae-a90ad1b0f238",
       "name": "Surume",
       "names": {
         "en": "Surume",
@@ -3158,6 +3458,8 @@
       "printings": [
         {
           "id": "OP11-032",
+          "uuid": "0bfc627b-17a3-589e-9daa-144660fdc896",
+          "versionId": "1a338cd0-2457-59b3-ac51-ec16d8ff1c91",
           "set": "OP11",
           "rarity": "UC",
           "block": "3",
@@ -3181,6 +3483,8 @@
         },
         {
           "id": "OP11-032~tcg634465",
+          "uuid": "1171241a-aebb-5d76-b184-ad1faac948f3",
+          "versionId": "db46c8a2-c7b8-5443-9916-f0e93ad6aecc",
           "set": "OP11-RE",
           "rarity": "UC",
           "image": "https://tcgplayer-cdn.tcgplayer.com/product/634465_in_400x400.jpg",
@@ -3209,6 +3513,8 @@
         },
         {
           "id": "OP11-032~ja",
+          "uuid": "3bbf81d3-a88c-547c-8c1e-8929976bfcae",
+          "versionId": "1a338cd0-2457-59b3-ac51-ec16d8ff1c91",
           "language": "ja",
           "set": "OP11",
           "rarity": "UC",
@@ -3225,6 +3531,8 @@
     },
     {
       "number": "OP11-033",
+      "uuid": "e4f2bfc6-7750-5d14-98e7-7da5bad3dcb7",
+      "oracleId": "1446e7ec-5995-51de-b689-dc9c6d12e51a",
       "name": "Bird Neptunian",
       "names": {
         "en": "Bird Neptunian",
@@ -3246,6 +3554,8 @@
       "printings": [
         {
           "id": "OP11-033",
+          "uuid": "c8a0cb83-ffbc-524d-9c67-341e369ddcd7",
+          "versionId": "286567ba-d01c-5c3c-a0eb-9bebee061fd5",
           "set": "OP11",
           "rarity": "UC",
           "block": "3",
@@ -3269,6 +3579,8 @@
         },
         {
           "id": "OP11-033~tcg634466",
+          "uuid": "4f59aa4c-16d5-5dca-974c-f1bcc9c3daf6",
+          "versionId": "9f1f835e-2b78-5d05-aa76-e7e9de25627f",
           "set": "OP11-RE",
           "rarity": "UC",
           "image": "https://tcgplayer-cdn.tcgplayer.com/product/634466_in_400x400.jpg",
@@ -3297,6 +3609,8 @@
         },
         {
           "id": "OP11-033~ja",
+          "uuid": "1c9a99c6-8e11-5b3c-bfe8-2053d538c596",
+          "versionId": "286567ba-d01c-5c3c-a0eb-9bebee061fd5",
           "language": "ja",
           "set": "OP11",
           "rarity": "UC",
@@ -3313,6 +3627,8 @@
     },
     {
       "number": "OP11-034",
+      "uuid": "021b7a54-ba6c-511d-ae05-5bdb4e9dfadd",
+      "oracleId": "24a615b6-0e38-58ae-b929-e7cd613dd4c3",
       "name": "Hatchan",
       "names": {
         "en": "Hatchan",
@@ -3336,6 +3652,8 @@
       "printings": [
         {
           "id": "OP11-034",
+          "uuid": "3f8fc870-07fc-51c7-8b48-cb0c64c8805b",
+          "versionId": "87df33c7-f70c-55d2-8cf6-4354e04099fb",
           "set": "OP11",
           "rarity": "C",
           "block": "3",
@@ -3359,6 +3677,8 @@
         },
         {
           "id": "OP11-034~tcg634467",
+          "uuid": "d38f7021-c197-5827-bd75-45713d78e8b3",
+          "versionId": "8e8cab7e-3c10-55d1-88b3-1094228d0397",
           "set": "OP11-RE",
           "rarity": "C",
           "image": "https://tcgplayer-cdn.tcgplayer.com/product/634467_in_400x400.jpg",
@@ -3387,6 +3707,8 @@
         },
         {
           "id": "OP11-034~ja",
+          "uuid": "93f7df2b-d056-50ed-b7ed-5cf7cfbb0389",
+          "versionId": "87df33c7-f70c-55d2-8cf6-4354e04099fb",
           "language": "ja",
           "set": "OP11",
           "rarity": "C",
@@ -3403,6 +3725,8 @@
     },
     {
       "number": "OP11-035",
+      "uuid": "a03dfa76-381f-5fab-8433-8f44405b6204",
+      "oracleId": "598763c0-fad7-51ae-ae12-c738ad7e98df",
       "name": "Fisher Tiger",
       "names": {
         "en": "Fisher Tiger",
@@ -3426,6 +3750,8 @@
       "printings": [
         {
           "id": "OP11-035",
+          "uuid": "a4c65fe7-05e8-54f2-b7d9-9f4c1c4c38a6",
+          "versionId": "bb96402f-72ea-5d77-aedb-32fb77743feb",
           "set": "OP11",
           "rarity": "C",
           "block": "3",
@@ -3449,6 +3775,8 @@
         },
         {
           "id": "OP11-035~tcg634468",
+          "uuid": "101822fb-8ee8-5f4b-bd82-5b82b7659f55",
+          "versionId": "ac27e418-fcd1-5360-8f8e-21b2a7c03cb4",
           "set": "OP11-RE",
           "rarity": "C",
           "image": "https://tcgplayer-cdn.tcgplayer.com/product/634468_in_400x400.jpg",
@@ -3477,6 +3805,8 @@
         },
         {
           "id": "OP11-035~ja",
+          "uuid": "971427f6-3fc3-5dba-9f71-33fb6b68d5e8",
+          "versionId": "bb96402f-72ea-5d77-aedb-32fb77743feb",
           "language": "ja",
           "set": "OP11",
           "rarity": "C",
@@ -3493,6 +3823,8 @@
     },
     {
       "number": "OP11-036",
+      "uuid": "098954e4-ccef-576b-9bdd-8961c54a93ce",
+      "oracleId": "a40b82cc-ade9-569d-b170-3a5b6a1bc099",
       "name": "Spotted Neptunian",
       "names": {
         "en": "Spotted Neptunian",
@@ -3514,6 +3846,8 @@
       "printings": [
         {
           "id": "OP11-036",
+          "uuid": "eccc2cec-4d3d-5e69-b22a-7e11aa3f153d",
+          "versionId": "589f8e70-7054-5d96-9973-9f2fab395c1f",
           "set": "OP11",
           "rarity": "UC",
           "block": "3",
@@ -3537,6 +3871,8 @@
         },
         {
           "id": "OP11-036~tcg634469",
+          "uuid": "ce6a441b-8466-535d-be5b-a8ae0a511d65",
+          "versionId": "1a0c173f-45a6-54c4-991d-0a90f041d9e2",
           "set": "OP11-RE",
           "rarity": "UC",
           "image": "https://tcgplayer-cdn.tcgplayer.com/product/634469_in_400x400.jpg",
@@ -3565,6 +3901,8 @@
         },
         {
           "id": "OP11-036~ja",
+          "uuid": "be605ba0-8f13-5363-85d2-9da03ac19770",
+          "versionId": "589f8e70-7054-5d96-9973-9f2fab395c1f",
           "language": "ja",
           "set": "OP11",
           "rarity": "UC",
@@ -3581,6 +3919,8 @@
     },
     {
       "number": "OP11-037",
+      "uuid": "68f62c81-910c-51af-b6f3-0eaf5df9d332",
+      "oracleId": "f6fa32bc-cb7f-5e18-9343-0569f232d413",
       "name": "Ancient Weapon Poseidon",
       "names": {
         "en": "Ancient Weapon Poseidon",
@@ -3597,6 +3937,8 @@
       "printings": [
         {
           "id": "OP11-037",
+          "uuid": "d28179f9-b02f-5d0d-b681-7c69388be577",
+          "versionId": "364f0ab9-1f8d-513b-a6bf-7441f33bff9a",
           "set": "OP11",
           "rarity": "UC",
           "block": "3",
@@ -3619,6 +3961,8 @@
         },
         {
           "id": "OP11-037~tcg634470",
+          "uuid": "292a1648-64c8-5fd9-ad18-0700f02924c7",
+          "versionId": "a9bbeeb7-85d4-59d4-a760-6c377aff52de",
           "set": "OP11-RE",
           "rarity": "UC",
           "image": "https://tcgplayer-cdn.tcgplayer.com/product/634470_in_400x400.jpg",
@@ -3646,6 +3990,8 @@
         },
         {
           "id": "OP11-037~ja",
+          "uuid": "3928d6f4-83a9-563f-addd-62c4796e2c7a",
+          "versionId": "364f0ab9-1f8d-513b-a6bf-7441f33bff9a",
           "language": "ja",
           "set": "OP11",
           "rarity": "UC",
@@ -3662,6 +4008,8 @@
     },
     {
       "number": "OP11-038",
+      "uuid": "7e2f3b3b-d548-5f1d-a398-f20577863255",
+      "oracleId": "ee709062-14fe-578a-90ac-1f4aa7897bf0",
       "name": "Gum-Gum Elephant Gatling",
       "names": {
         "en": "Gum-Gum Elephant Gatling",
@@ -3680,6 +4028,8 @@
       "printings": [
         {
           "id": "OP11-038",
+          "uuid": "03d3481e-0e49-58b2-9edf-00d68b09dcae",
+          "versionId": "c29ba349-6553-537b-b865-8260aedf7243",
           "set": "OP11",
           "rarity": "R",
           "block": "3",
@@ -3702,6 +4052,8 @@
         },
         {
           "id": "OP11-038~ja",
+          "uuid": "5ede1193-5b99-5044-ace0-f8cdcf9f1364",
+          "versionId": "c29ba349-6553-537b-b865-8260aedf7243",
           "language": "ja",
           "set": "OP11",
           "rarity": "R",
@@ -3718,6 +4070,8 @@
     },
     {
       "number": "OP11-039",
+      "uuid": "c71b2ebf-c03d-53cb-a849-0b83bff2948e",
+      "oracleId": "acf22dbc-0f89-5739-8213-7c3f2676d801",
       "name": "Vagabond Drill",
       "names": {
         "en": "Vagabond Drill",
@@ -3736,6 +4090,8 @@
       "printings": [
         {
           "id": "OP11-039",
+          "uuid": "55a2fe60-6f7c-51d8-b470-73585a799cb2",
+          "versionId": "9c5681e0-645a-5fe3-8cd3-98f4c5283680",
           "set": "OP11",
           "rarity": "C",
           "block": "3",
@@ -3758,6 +4114,8 @@
         },
         {
           "id": "OP11-039~tcg634471",
+          "uuid": "5af64779-ba94-5175-bba8-2cdc9f401358",
+          "versionId": "62f933c9-686f-5adf-bf39-d14f19a9480e",
           "set": "OP11-RE",
           "rarity": "C",
           "image": "https://tcgplayer-cdn.tcgplayer.com/product/634471_in_400x400.jpg",
@@ -3785,6 +4143,8 @@
         },
         {
           "id": "OP11-039~ja",
+          "uuid": "169f19a6-2761-5b97-b125-fbcf0a4f6da5",
+          "versionId": "9c5681e0-645a-5fe3-8cd3-98f4c5283680",
           "language": "ja",
           "set": "OP11",
           "rarity": "C",
@@ -3801,6 +4161,8 @@
     },
     {
       "number": "OP11-040",
+      "uuid": "f6bc49ef-a663-576a-b064-0ca6f680a459",
+      "oracleId": "f50f1245-9356-540c-9096-67f220aa21b6",
       "name": "Monkey.D.Luffy",
       "names": {
         "en": "Monkey.D.Luffy",
@@ -3822,6 +4184,8 @@
       "printings": [
         {
           "id": "OP11-040",
+          "uuid": "e7882537-0393-5b78-bb5d-9f25fef1d13a",
+          "versionId": "1cd345d6-34d6-5048-9d07-ca29cec0086b",
           "set": "OP11",
           "rarity": "L",
           "block": "3",
@@ -3845,6 +4209,8 @@
         },
         {
           "id": "OP11-040_p1",
+          "uuid": "ce85c62b-c792-5aa9-9ca8-a9631c2091a9",
+          "versionId": "d7330d60-01d0-5ef5-863f-f895184ca8b2",
           "set": "OP11",
           "rarity": "L",
           "block": "3",
@@ -3871,6 +4237,8 @@
         },
         {
           "id": "OP11-040~tcg722598",
+          "uuid": "44bd91d0-f489-5f91-9c8f-03190c036ba0",
+          "versionId": "d908c88b-ebd8-5d92-8bdf-be69760b5123",
           "set": "P",
           "rarity": "L",
           "image": "https://tcgplayer-cdn.tcgplayer.com/product/722598_in_400x400.jpg",
@@ -3894,6 +4262,8 @@
         },
         {
           "id": "OP11-040~ja",
+          "uuid": "76bb726a-0bcb-52ed-88ad-fc67dc909ea6",
+          "versionId": "1cd345d6-34d6-5048-9d07-ca29cec0086b",
           "language": "ja",
           "set": "OP11",
           "rarity": "L",
@@ -3908,6 +4278,8 @@
         },
         {
           "id": "OP11-040_p1~ja",
+          "uuid": "476388a4-fc0e-5222-8ca5-5d8d9ec125a4",
+          "versionId": "d7330d60-01d0-5ef5-863f-f895184ca8b2",
           "language": "ja",
           "set": "OP11",
           "rarity": "L",
@@ -3924,6 +4296,8 @@
     },
     {
       "number": "OP11-041",
+      "uuid": "5332f528-1ebe-5f54-ba8f-d3db1a94738d",
+      "oracleId": "976beb89-1bb5-5e6c-a9d4-03210522189e",
       "name": "Nami",
       "names": {
         "en": "Nami",
@@ -3945,6 +4319,8 @@
       "printings": [
         {
           "id": "OP11-041",
+          "uuid": "ae9e43ed-3f20-523b-babd-71e77bd1b212",
+          "versionId": "65f6849c-8d93-5d27-a6d2-e207850f87d8",
           "set": "OP11",
           "rarity": "L",
           "block": "3",
@@ -3968,6 +4344,8 @@
         },
         {
           "id": "OP11-041_p1",
+          "uuid": "c045cbff-dfe0-5be7-b230-33d447b7fd59",
+          "versionId": "866471d5-17e0-5c3e-b85f-8d4095fbedf9",
           "set": "OP11",
           "rarity": "L",
           "block": "3",
@@ -3994,6 +4372,8 @@
         },
         {
           "id": "OP11-041_p2",
+          "uuid": "13090abd-b52e-5f01-9051-c7ed6c513af6",
+          "versionId": "e71d57f9-6d78-50bb-adb4-4d56e764f7b6",
           "set": "OTHER",
           "rarity": "L",
           "block": "3",
@@ -4004,6 +4384,8 @@
         },
         {
           "id": "OP11-041_p3",
+          "uuid": "bc57617b-7a3c-5062-b2a3-a5f09430b379",
+          "versionId": "c295468b-89cf-5d0f-a572-2a59cea846a7",
           "set": "OTHER",
           "rarity": "L",
           "block": "3",
@@ -4027,6 +4409,8 @@
         },
         {
           "id": "OP11-041~tcg656678",
+          "uuid": "4b3caf50-ff69-5998-accb-f3cb22b13a91",
+          "versionId": "ed5da148-3754-56a6-9c6b-d0b42160c8cf",
           "set": "LT01",
           "rarity": "L",
           "image": "https://tcgplayer-cdn.tcgplayer.com/product/656678_in_400x400.jpg",
@@ -4047,6 +4431,8 @@
         },
         {
           "id": "OP11-041~ja",
+          "uuid": "dffee395-2fcb-5cb0-8dbd-885e72bbc03e",
+          "versionId": "65f6849c-8d93-5d27-a6d2-e207850f87d8",
           "language": "ja",
           "set": "OP11",
           "rarity": "L",
@@ -4061,6 +4447,8 @@
         },
         {
           "id": "OP11-041_p1~ja",
+          "uuid": "36b8a442-4403-57f5-8a50-84c0bb364650",
+          "versionId": "866471d5-17e0-5c3e-b85f-8d4095fbedf9",
           "language": "ja",
           "set": "OP11",
           "rarity": "L",
@@ -4077,6 +4465,8 @@
     },
     {
       "number": "OP11-042",
+      "uuid": "50f9f059-665e-5cbf-9312-7cdb3e52f0da",
+      "oracleId": "b8e32f4d-a1f5-535e-81d0-cd79f777d0b2",
       "name": "Vito",
       "names": {
         "en": "Vito",
@@ -4098,6 +4488,8 @@
       "printings": [
         {
           "id": "OP11-042",
+          "uuid": "3fada72b-66a0-5ae8-bd8c-9cb08994b075",
+          "versionId": "6221f0ac-17b1-5381-9c9e-3524a1db9a5a",
           "set": "OP11",
           "rarity": "C",
           "block": "3",
@@ -4121,6 +4513,8 @@
         },
         {
           "id": "OP11-042~tcg634472",
+          "uuid": "e1fc4d36-474d-546e-a2d5-3522a08a8cee",
+          "versionId": "f32df915-e656-58ae-a5f1-2679719585d6",
           "set": "OP11-RE",
           "rarity": "C",
           "image": "https://tcgplayer-cdn.tcgplayer.com/product/634472_in_400x400.jpg",
@@ -4149,6 +4543,8 @@
         },
         {
           "id": "OP11-042~ja",
+          "uuid": "c8169ea0-2626-553b-9263-09d0d32a1d93",
+          "versionId": "6221f0ac-17b1-5381-9c9e-3524a1db9a5a",
           "language": "ja",
           "set": "OP11",
           "rarity": "C",
@@ -4165,6 +4561,8 @@
     },
     {
       "number": "OP11-043",
+      "uuid": "e1e2d894-ad85-54b3-ac01-5bea50a9e77d",
+      "oracleId": "743c2b3d-7c0d-5975-86b3-0254f13b134d",
       "name": "Vinsmoke Ichiji",
       "names": {
         "en": "Vinsmoke Ichiji",
@@ -4186,6 +4584,8 @@
       "printings": [
         {
           "id": "OP11-043",
+          "uuid": "78fb58e7-52b2-5247-ba3c-bb81921d41cd",
+          "versionId": "8e2c5e47-d9bb-5134-b311-44dae10249ba",
           "set": "OP11",
           "rarity": "C",
           "block": "3",
@@ -4209,6 +4609,8 @@
         },
         {
           "id": "OP11-043~tcg634473",
+          "uuid": "6fd0b616-788b-5e33-a04e-6a714d30780c",
+          "versionId": "dbf7c394-e302-5c34-ba71-f9c2fc4950bf",
           "set": "OP11-RE",
           "rarity": "C",
           "image": "https://tcgplayer-cdn.tcgplayer.com/product/634473_in_400x400.jpg",
@@ -4237,6 +4639,8 @@
         },
         {
           "id": "OP11-043~ja",
+          "uuid": "441d95d4-8cd9-5567-920b-6dfeb32149cb",
+          "versionId": "8e2c5e47-d9bb-5134-b311-44dae10249ba",
           "language": "ja",
           "set": "OP11",
           "rarity": "C",
@@ -4253,6 +4657,8 @@
     },
     {
       "number": "OP11-044",
+      "uuid": "1a8ff073-ff43-5e3f-8f03-c945daf72485",
+      "oracleId": "32b29b0f-98c6-5856-8577-62cc52244f07",
       "name": "Vinsmoke Judge",
       "names": {
         "en": "Vinsmoke Judge",
@@ -4274,6 +4680,8 @@
       "printings": [
         {
           "id": "OP11-044",
+          "uuid": "4eada84b-0b99-5960-ae9e-d03f27b57689",
+          "versionId": "44dc9689-fa8a-5a09-baab-a800fd3ca41f",
           "set": "OP11",
           "rarity": "C",
           "block": "3",
@@ -4297,6 +4705,8 @@
         },
         {
           "id": "OP11-044~tcg634474",
+          "uuid": "2d610c1d-fd91-5116-aa98-cd1458356bc5",
+          "versionId": "969460f1-c25d-57d3-814f-cba72572fbfb",
           "set": "OP11-RE",
           "rarity": "C",
           "image": "https://tcgplayer-cdn.tcgplayer.com/product/634474_in_400x400.jpg",
@@ -4325,6 +4735,8 @@
         },
         {
           "id": "OP11-044~ja",
+          "uuid": "b99d46d9-9c78-5134-88c9-9fda451b7c8b",
+          "versionId": "44dc9689-fa8a-5a09-baab-a800fd3ca41f",
           "language": "ja",
           "set": "OP11",
           "rarity": "C",
@@ -4341,6 +4753,8 @@
     },
     {
       "number": "OP11-045",
+      "uuid": "103babae-2c30-5eb2-9eab-4b69c205d2f3",
+      "oracleId": "ba858893-01af-5f28-95e7-d33ab29ce55a",
       "name": "Vinsmoke Niji",
       "names": {
         "en": "Vinsmoke Niji",
@@ -4363,6 +4777,8 @@
       "printings": [
         {
           "id": "OP11-045",
+          "uuid": "a5fc4e91-1615-52a9-9bd0-fd4ef6e1661f",
+          "versionId": "c598b7b0-3410-5ff4-a89b-0b3f98c78f80",
           "set": "OP11",
           "rarity": "UC",
           "block": "3",
@@ -4386,6 +4802,8 @@
         },
         {
           "id": "OP11-045~tcg634475",
+          "uuid": "5f72400c-fcdb-5f66-b748-8cbcd0366c35",
+          "versionId": "4fda83a1-ca99-559b-9027-b7d1c88aecbd",
           "set": "OP11-RE",
           "rarity": "UC",
           "image": "https://tcgplayer-cdn.tcgplayer.com/product/634475_in_400x400.jpg",
@@ -4414,6 +4832,8 @@
         },
         {
           "id": "OP11-045~ja",
+          "uuid": "288523d3-ec0f-58fc-aaeb-171763dc4499",
+          "versionId": "c598b7b0-3410-5ff4-a89b-0b3f98c78f80",
           "language": "ja",
           "set": "OP11",
           "rarity": "UC",
@@ -4430,6 +4850,8 @@
     },
     {
       "number": "OP11-046",
+      "uuid": "fb7ad039-0d80-5806-bd62-d9636f556ef4",
+      "oracleId": "c61b5cb3-e0b2-5558-8d31-c868d7269df9",
       "name": "Vinsmoke Yonji",
       "names": {
         "en": "Vinsmoke Yonji",
@@ -4452,6 +4874,8 @@
       "printings": [
         {
           "id": "OP11-046",
+          "uuid": "95c31e9a-a05d-5368-ba3f-b7120156eea4",
+          "versionId": "eca98217-1ae0-55d8-b4c2-a60f381c198a",
           "set": "OP11",
           "rarity": "C",
           "block": "3",
@@ -4475,6 +4899,8 @@
         },
         {
           "id": "OP11-046~tcg634476",
+          "uuid": "1de072b3-4b5e-5e55-b36d-779cb7b51398",
+          "versionId": "aef0a010-5edc-50b3-9cc1-575400f8d2f3",
           "set": "OP11-RE",
           "rarity": "C",
           "image": "https://tcgplayer-cdn.tcgplayer.com/product/634476_in_400x400.jpg",
@@ -4503,6 +4929,8 @@
         },
         {
           "id": "OP11-046~ja",
+          "uuid": "64ca721d-a0aa-539f-b132-2d5a21cca2e7",
+          "versionId": "eca98217-1ae0-55d8-b4c2-a60f381c198a",
           "language": "ja",
           "set": "OP11",
           "rarity": "C",
@@ -4519,6 +4947,8 @@
     },
     {
       "number": "OP11-047",
+      "uuid": "cb6341e9-48f6-5353-9654-efb90d8c141a",
+      "oracleId": "4fd7a6a2-0f6a-5993-9b72-bf69dbea7f17",
       "name": "Vinsmoke Reiju",
       "names": {
         "en": "Vinsmoke Reiju",
@@ -4541,6 +4971,8 @@
       "printings": [
         {
           "id": "OP11-047",
+          "uuid": "64d81f2e-51b9-59da-bd18-c1e1cc01d80b",
+          "versionId": "4049bce1-88e2-5159-8e05-4a3a25cbd118",
           "set": "OP11",
           "rarity": "R",
           "block": "3",
@@ -4564,6 +4996,8 @@
         },
         {
           "id": "OP11-047_p1",
+          "uuid": "af95f288-7e1f-5297-aaf4-4abaddb2940f",
+          "versionId": "27701db9-1046-5abb-810b-e1226a48513f",
           "set": "OP11",
           "rarity": "R",
           "block": "3",
@@ -4590,6 +5024,8 @@
         },
         {
           "id": "OP11-047~ja",
+          "uuid": "2cb669b1-6293-5be8-988d-bf0fcaed2b1c",
+          "versionId": "4049bce1-88e2-5159-8e05-4a3a25cbd118",
           "language": "ja",
           "set": "OP11",
           "rarity": "R",
@@ -4604,6 +5040,8 @@
         },
         {
           "id": "OP11-047_p1~ja",
+          "uuid": "ed518fb6-91e5-5d50-b22b-b3498ac63993",
+          "versionId": "27701db9-1046-5abb-810b-e1226a48513f",
           "language": "ja",
           "set": "OP11",
           "rarity": "R",
@@ -4620,6 +5058,8 @@
     },
     {
       "number": "OP11-048",
+      "uuid": "30c205ca-2fa8-5e37-94bf-db3e4fd42cb7",
+      "oracleId": "06ad3580-efbb-54f5-af6f-eaa84eb9741f",
       "name": "Capone\"Gang\"Bege",
       "names": {
         "en": "Capone\"Gang\"Bege",
@@ -4642,6 +5082,8 @@
       "printings": [
         {
           "id": "OP11-048",
+          "uuid": "0d39124c-6e00-5a5e-97d3-018d8dc5df65",
+          "versionId": "ac197ea5-df70-5185-9bef-1d141ce92232",
           "set": "OP11",
           "rarity": "R",
           "block": "3",
@@ -4665,6 +5107,8 @@
         },
         {
           "id": "OP11-048~tcg656688",
+          "uuid": "0499447a-9516-5baf-b2ba-353375eba3d4",
+          "versionId": "89ad9e8d-a007-5f90-8c1c-b174672bfe1c",
           "set": "LT01",
           "rarity": "R",
           "image": "https://tcgplayer-cdn.tcgplayer.com/product/656688_in_400x400.jpg",
@@ -4685,6 +5129,8 @@
         },
         {
           "id": "OP11-048~ja",
+          "uuid": "08120b84-68b0-5dce-8923-2e39a43ba8ad",
+          "versionId": "ac197ea5-df70-5185-9bef-1d141ce92232",
           "language": "ja",
           "set": "OP11",
           "rarity": "R",
@@ -4701,6 +5147,8 @@
     },
     {
       "number": "OP11-049",
+      "uuid": "231d144f-1e16-574b-8a8e-9a2535427782",
+      "oracleId": "04e05c8f-a9ef-5cc9-b850-416f7f045665",
       "name": "Carrot",
       "names": {
         "en": "Carrot",
@@ -4722,6 +5170,8 @@
       "printings": [
         {
           "id": "OP11-049",
+          "uuid": "dec0abc2-f70f-55e7-bd03-3f5d48d618be",
+          "versionId": "4377cbfc-37c9-5a1e-8718-fb74660f2580",
           "set": "OP11",
           "rarity": "R",
           "block": "3",
@@ -4745,6 +5195,8 @@
         },
         {
           "id": "OP11-049~ja",
+          "uuid": "d28bf5c9-68d0-5a58-a52b-ab4e851a09dc",
+          "versionId": "4377cbfc-37c9-5a1e-8718-fb74660f2580",
           "language": "ja",
           "set": "OP11",
           "rarity": "R",
@@ -4761,6 +5213,8 @@
     },
     {
       "number": "OP11-050",
+      "uuid": "89adbc31-c00c-59cc-8fb9-8e913ada3898",
+      "oracleId": "2cf0f2a2-1915-5bba-8b93-49e12aff4276",
       "name": "Gotti",
       "names": {
         "en": "Gotti",
@@ -4782,6 +5236,8 @@
       "printings": [
         {
           "id": "OP11-050",
+          "uuid": "67030fcc-314c-5b22-acea-ef292cce0f94",
+          "versionId": "5a3607bf-54b3-5194-99da-f978e6472a6d",
           "set": "OP11",
           "rarity": "C",
           "block": "3",
@@ -4805,6 +5261,8 @@
         },
         {
           "id": "OP11-050~tcg634477",
+          "uuid": "4cb6ad11-7a2d-5536-ba8a-c947e55d523c",
+          "versionId": "0c44b4d2-d40d-58d9-b5aa-d34827221312",
           "set": "OP11-RE",
           "rarity": "C",
           "image": "https://tcgplayer-cdn.tcgplayer.com/product/634477_in_400x400.jpg",
@@ -4833,6 +5291,8 @@
         },
         {
           "id": "OP11-050~ja",
+          "uuid": "1ec43671-4113-5fbb-8ed4-99de4a11c31b",
+          "versionId": "5a3607bf-54b3-5194-99da-f978e6472a6d",
           "language": "ja",
           "set": "OP11",
           "rarity": "C",
@@ -4849,6 +5309,8 @@
     },
     {
       "number": "OP11-051",
+      "uuid": "7c0eeb32-cefa-5666-9e91-59e6f477fe70",
+      "oracleId": "a7e535dd-1988-5c2e-a30f-a654db2fb8ca",
       "name": "Sanji",
       "names": {
         "en": "Sanji",
@@ -4870,6 +5332,8 @@
       "printings": [
         {
           "id": "OP11-051",
+          "uuid": "5467b46d-ef0a-57d8-b9a5-52847e053b4d",
+          "versionId": "3f311752-c927-5b09-a3ef-f4be11af5d72",
           "set": "OP11",
           "rarity": "SR",
           "block": "3",
@@ -4893,6 +5357,8 @@
         },
         {
           "id": "OP11-051_p1",
+          "uuid": "6f103a5a-2925-5209-b72c-387632963623",
+          "versionId": "27e45ccb-b618-542b-a722-5c97bd23c043",
           "set": "OP11",
           "rarity": "SR",
           "block": "3",
@@ -4919,6 +5385,8 @@
         },
         {
           "id": "OP11-051~tcg656700",
+          "uuid": "d562ccf5-d009-5281-aa26-56909f99c61c",
+          "versionId": "9656ef52-4b24-54c6-813a-1272d0c18e96",
           "set": "LT01",
           "rarity": "SR",
           "image": "https://tcgplayer-cdn.tcgplayer.com/product/656700_in_400x400.jpg",
@@ -4939,6 +5407,8 @@
         },
         {
           "id": "OP11-051~ja",
+          "uuid": "7f3f25ea-1424-5457-b96e-56a826a20a76",
+          "versionId": "3f311752-c927-5b09-a3ef-f4be11af5d72",
           "language": "ja",
           "set": "OP11",
           "rarity": "SR",
@@ -4953,6 +5423,8 @@
         },
         {
           "id": "OP11-051_p1~ja",
+          "uuid": "ce785c23-ec36-5146-8b96-ab2fd4848850",
+          "versionId": "27e45ccb-b618-542b-a722-5c97bd23c043",
           "language": "ja",
           "set": "OP11",
           "rarity": "SR",
@@ -4969,6 +5441,8 @@
     },
     {
       "number": "OP11-052",
+      "uuid": "eba70898-a346-5468-a1f2-21bc40547605",
+      "oracleId": "1ac85056-8933-5682-80c3-3a58a17d1e10",
       "name": "Charlotte Lola",
       "names": {
         "en": "Charlotte Lola",
@@ -4991,6 +5465,8 @@
       "printings": [
         {
           "id": "OP11-052",
+          "uuid": "f5fd3632-ea8a-5414-96b5-14f9b1f439ca",
+          "versionId": "caa56c36-9bb0-576a-817d-799c6ea5abce",
           "set": "OP11",
           "rarity": "C",
           "block": "3",
@@ -5014,6 +5490,8 @@
         },
         {
           "id": "OP11-052~tcg634478",
+          "uuid": "26e0d28a-49ae-55f4-bf6a-319cd121aa4a",
+          "versionId": "5962d92f-9340-5de5-b732-4df785ac39de",
           "set": "OP11-RE",
           "rarity": "C",
           "image": "https://tcgplayer-cdn.tcgplayer.com/product/634478_in_400x400.jpg",
@@ -5042,6 +5520,8 @@
         },
         {
           "id": "OP11-052~ja",
+          "uuid": "2c0f07aa-9b2a-5605-af24-561176edf405",
+          "versionId": "caa56c36-9bb0-576a-817d-799c6ea5abce",
           "language": "ja",
           "set": "OP11",
           "rarity": "C",
@@ -5058,6 +5538,8 @@
     },
     {
       "number": "OP11-053",
+      "uuid": "7349e2f1-9ea9-56d7-a57f-c71fc342e486",
+      "oracleId": "2120e4b8-04bd-5e2b-bd7b-5138e7b2a70b",
       "name": "Tony Tony.Chopper",
       "names": {
         "en": "Tony Tony.Chopper",
@@ -5080,6 +5562,8 @@
       "printings": [
         {
           "id": "OP11-053",
+          "uuid": "f303ba83-4ad1-589c-828a-aff2dfdc23d0",
+          "versionId": "0318a697-664a-5624-b2d4-693655de3342",
           "set": "OP11",
           "rarity": "UC",
           "block": "3",
@@ -5103,6 +5587,8 @@
         },
         {
           "id": "OP11-053~tcg634479",
+          "uuid": "3e906d92-89d0-5055-b244-930aa83d0b5a",
+          "versionId": "05f50737-2e51-5486-b36e-58d87d5e6302",
           "set": "OP11-RE",
           "rarity": "UC",
           "image": "https://tcgplayer-cdn.tcgplayer.com/product/634479_in_400x400.jpg",
@@ -5131,6 +5617,8 @@
         },
         {
           "id": "OP11-053~tcg668200",
+          "uuid": "433380cb-2efd-5430-8686-58b5411383f1",
+          "versionId": "432152ab-1078-5805-9261-f3472bba16b7",
           "set": "P",
           "rarity": "UC",
           "image": "https://tcgplayer-cdn.tcgplayer.com/product/668200_in_400x400.jpg",
@@ -5157,6 +5645,8 @@
         },
         {
           "id": "OP11-053~ja",
+          "uuid": "0e2bba7b-f44b-5cc3-bce0-7bf8d13f3ca9",
+          "versionId": "0318a697-664a-5624-b2d4-693655de3342",
           "language": "ja",
           "set": "OP11",
           "rarity": "UC",
@@ -5173,6 +5663,8 @@
     },
     {
       "number": "OP11-054",
+      "uuid": "c72da7df-3936-5abf-b774-b15ee0fd0eca",
+      "oracleId": "1d2d575a-2e33-56ba-92f2-a421253a63d7",
       "name": "Nami",
       "names": {
         "en": "Nami",
@@ -5194,6 +5686,8 @@
       "printings": [
         {
           "id": "OP11-054",
+          "uuid": "b574f8d5-82fc-59a2-80cb-14de2b111784",
+          "versionId": "8612df38-6508-5026-83bc-c276524c50fa",
           "set": "OP11",
           "rarity": "SR",
           "block": "3",
@@ -5217,6 +5711,8 @@
         },
         {
           "id": "OP11-054_p1",
+          "uuid": "3d4eeb93-7b82-5cc1-b1d4-51e719cee7aa",
+          "versionId": "2012f83b-11b1-588c-8583-10003c253c64",
           "set": "OP11",
           "rarity": "SR",
           "block": "3",
@@ -5243,6 +5739,8 @@
         },
         {
           "id": "OP11-054_p2",
+          "uuid": "1c0a951a-9263-5e2e-87f5-1d22a0d383d0",
+          "versionId": "57ec4344-4d6c-5d21-adf9-759b96d4cee6",
           "set": "OTHER",
           "rarity": "SR",
           "block": "3",
@@ -5276,6 +5774,8 @@
         },
         {
           "id": "OP11-054~tcg656695",
+          "uuid": "9e098dc2-4bee-531b-a91f-4a7f9adc105a",
+          "versionId": "9caa1248-caac-5823-9893-cdc56470e912",
           "set": "LT01",
           "rarity": "SR",
           "image": "https://tcgplayer-cdn.tcgplayer.com/product/656695_in_400x400.jpg",
@@ -5296,6 +5796,8 @@
         },
         {
           "id": "OP11-054~ja",
+          "uuid": "0650351c-da67-54b2-ad4b-99ec3b010f87",
+          "versionId": "8612df38-6508-5026-83bc-c276524c50fa",
           "language": "ja",
           "set": "OP11",
           "rarity": "SR",
@@ -5310,6 +5812,8 @@
         },
         {
           "id": "OP11-054_p1~ja",
+          "uuid": "c0396b08-1a5c-5e60-875c-ad84bd0ea1dd",
+          "versionId": "2012f83b-11b1-588c-8583-10003c253c64",
           "language": "ja",
           "set": "OP11",
           "rarity": "SR",
@@ -5324,6 +5828,8 @@
         },
         {
           "id": "OP11-054_p2~ja",
+          "uuid": "572eba53-a0d8-5d58-8cd0-f31f4fba2920",
+          "versionId": "57ec4344-4d6c-5d21-adf9-759b96d4cee6",
           "language": "ja",
           "set": "OTHER",
           "rarity": "SR",
@@ -5340,6 +5846,8 @@
     },
     {
       "number": "OP11-055",
+      "uuid": "4307ccc2-8996-5027-bd50-706bd7ebe0db",
+      "oracleId": "62650db8-5752-5e02-bcdd-25eacd6b630e",
       "name": "Bartolomeo",
       "names": {
         "en": "Bartolomeo",
@@ -5362,6 +5870,8 @@
       "printings": [
         {
           "id": "OP11-055",
+          "uuid": "d2e4f7a1-ba2d-50b9-9d9b-514caae4d7d7",
+          "versionId": "11319ce0-25c1-5fa9-b9f8-d2f0d2c2a8f5",
           "set": "OP11",
           "rarity": "UC",
           "block": "3",
@@ -5385,6 +5895,8 @@
         },
         {
           "id": "OP11-055~tcg634480",
+          "uuid": "f2623a99-696f-52c7-9c07-9078d436b5d4",
+          "versionId": "690ff64f-2ffa-5d6c-bf26-684ff3338423",
           "set": "OP11-RE",
           "rarity": "UC",
           "image": "https://tcgplayer-cdn.tcgplayer.com/product/634480_in_400x400.jpg",
@@ -5413,6 +5925,8 @@
         },
         {
           "id": "OP11-055~ja",
+          "uuid": "83260e23-83df-5816-95d8-2941cb6f36ec",
+          "versionId": "11319ce0-25c1-5fa9-b9f8-d2f0d2c2a8f5",
           "language": "ja",
           "set": "OP11",
           "rarity": "UC",
@@ -5429,6 +5943,8 @@
     },
     {
       "number": "OP11-056",
+      "uuid": "207b4369-4734-588e-8180-9242f7f96a4e",
+      "oracleId": "deac4818-d048-53d9-9bff-5fd81676ada3",
       "name": "Brook",
       "names": {
         "en": "Brook",
@@ -5450,6 +5966,8 @@
       "printings": [
         {
           "id": "OP11-056",
+          "uuid": "470dafc6-c23e-538e-aa01-a5a802ca4ab4",
+          "versionId": "17cfcef5-d074-5715-816b-19df97857bf7",
           "set": "OP11",
           "rarity": "R",
           "block": "3",
@@ -5473,6 +5991,8 @@
         },
         {
           "id": "OP11-056~tcg656693",
+          "uuid": "f351c548-4ceb-5633-bbc5-6d6c198d2bf2",
+          "versionId": "5d027a1d-d399-5244-aea4-311974e6664f",
           "set": "LT01",
           "rarity": "R",
           "image": "https://tcgplayer-cdn.tcgplayer.com/product/656693_in_400x400.jpg",
@@ -5493,6 +6013,8 @@
         },
         {
           "id": "OP11-056~tcg707251",
+          "uuid": "8875135b-8741-593b-8bb1-33f1e5f54b9c",
+          "versionId": "5f6f998e-701f-50f0-a4a1-ba9fc964ff8b",
           "set": "P",
           "rarity": "R",
           "image": "https://tcgplayer-cdn.tcgplayer.com/product/707251_in_400x400.jpg",
@@ -5519,6 +6041,8 @@
         },
         {
           "id": "OP11-056~ja",
+          "uuid": "9eac142c-6968-59f6-b072-7776620eb42b",
+          "versionId": "17cfcef5-d074-5715-816b-19df97857bf7",
           "language": "ja",
           "set": "OP11",
           "rarity": "R",
@@ -5535,6 +6059,8 @@
     },
     {
       "number": "OP11-057",
+      "uuid": "30eff1ad-609b-5dc1-9952-29e926e83a04",
+      "oracleId": "24699ad6-9710-5abc-8c6e-96e408402f08",
       "name": "Pedro",
       "names": {
         "en": "Pedro",
@@ -5556,6 +6082,8 @@
       "printings": [
         {
           "id": "OP11-057",
+          "uuid": "71566454-dca8-5367-af2d-522548bf9767",
+          "versionId": "0dbbaae1-815e-5b21-ae9b-1d057de1d6b8",
           "set": "OP11",
           "rarity": "C",
           "block": "3",
@@ -5579,6 +6107,8 @@
         },
         {
           "id": "OP11-057~tcg634481",
+          "uuid": "d9a486b1-3f87-59de-98de-be40ae7f7336",
+          "versionId": "c86180fd-cace-534d-a47a-d499db1b10fd",
           "set": "OP11-RE",
           "rarity": "C",
           "image": "https://tcgplayer-cdn.tcgplayer.com/product/634481_in_400x400.jpg",
@@ -5607,6 +6137,8 @@
         },
         {
           "id": "OP11-057~ja",
+          "uuid": "7e09ffda-abb5-58ed-bb69-ae30f2dc3c27",
+          "versionId": "0dbbaae1-815e-5b21-ae9b-1d057de1d6b8",
           "language": "ja",
           "set": "OP11",
           "rarity": "C",
@@ -5623,6 +6155,8 @@
     },
     {
       "number": "OP11-058",
+      "uuid": "a4741e0b-4bd2-57e6-b954-48f85c938659",
+      "oracleId": "3dcb3cbf-d517-5f4a-a9aa-d9d915cccfd8",
       "name": "Monkey.D.Luffy",
       "names": {
         "en": "Monkey.D.Luffy",
@@ -5644,6 +6178,8 @@
       "printings": [
         {
           "id": "OP11-058",
+          "uuid": "a9e3aa6e-e324-5fe9-b982-e9002d1f7eaf",
+          "versionId": "03f8fe4b-df20-5169-97ab-81b9704c3ded",
           "set": "OP11",
           "rarity": "UC",
           "block": "3",
@@ -5667,6 +6203,8 @@
         },
         {
           "id": "OP11-058_p1",
+          "uuid": "fdb1c765-1187-5f15-8e81-53f345a3ad44",
+          "versionId": "09fcfc71-cdc0-5e18-89a6-4720f43e1091",
           "set": "OP13",
           "rarity": "TR",
           "block": "3",
@@ -5690,6 +6228,8 @@
         },
         {
           "id": "OP11-058~tcg634482",
+          "uuid": "731d1142-555c-5a2c-a824-c1b16f1dbbf2",
+          "versionId": "370bc88b-cf0d-5fc7-bf9f-81c5eec17075",
           "set": "OP11-RE",
           "rarity": "UC",
           "image": "https://tcgplayer-cdn.tcgplayer.com/product/634482_in_400x400.jpg",
@@ -5718,6 +6258,8 @@
         },
         {
           "id": "OP11-058~ja",
+          "uuid": "efe132fd-271b-57ca-ba01-34c270ebc3c2",
+          "versionId": "03f8fe4b-df20-5169-97ab-81b9704c3ded",
           "language": "ja",
           "set": "OP11",
           "rarity": "UC",
@@ -5732,6 +6274,8 @@
         },
         {
           "id": "OP11-058_p1~ja",
+          "uuid": "ba2ef94a-36fd-53d1-90fb-4415c47200a7",
+          "versionId": "4302a2de-35c7-5ad1-bc0b-a94dc8644faf",
           "language": "ja",
           "set": "P",
           "rarity": "UC",
@@ -5744,6 +6288,8 @@
     },
     {
       "number": "OP11-059",
+      "uuid": "7b509533-a485-5f32-beb6-b8680b28b6b1",
+      "oracleId": "3da32491-6cf6-59ab-bf9e-050ee0b43697",
       "name": "Gum-Gum King Cobra",
       "names": {
         "en": "Gum-Gum King Cobra",
@@ -5760,6 +6306,8 @@
       "printings": [
         {
           "id": "OP11-059",
+          "uuid": "0adb5fc2-b1a9-525c-aef5-70287fb8fb02",
+          "versionId": "5af3e1a4-9fce-5ead-9492-d05fcfea8f63",
           "set": "OP11",
           "rarity": "C",
           "block": "3",
@@ -5782,6 +6330,8 @@
         },
         {
           "id": "OP11-059~tcg634483",
+          "uuid": "85f87dc1-35f7-5268-b5cf-d1426593d4a3",
+          "versionId": "94616139-7eb8-5f7a-aa07-a4829381f140",
           "set": "OP11-RE",
           "rarity": "C",
           "image": "https://tcgplayer-cdn.tcgplayer.com/product/634483_in_400x400.jpg",
@@ -5809,6 +6359,8 @@
         },
         {
           "id": "OP11-059~ja",
+          "uuid": "81f30338-9220-5f85-a784-422152edaf00",
+          "versionId": "5af3e1a4-9fce-5ead-9492-d05fcfea8f63",
           "language": "ja",
           "set": "OP11",
           "rarity": "C",
@@ -5825,6 +6377,8 @@
     },
     {
       "number": "OP11-060",
+      "uuid": "154b57d2-da6d-54d8-8762-6cfa2c9b8d9c",
+      "oracleId": "10e6dfdf-0d73-592e-9467-43eca813bfc3",
       "name": "Let's Crash This Wedding!!!",
       "names": {
         "en": "Let's Crash This Wedding!!!",
@@ -5841,6 +6395,8 @@
       "printings": [
         {
           "id": "OP11-060",
+          "uuid": "787d8ced-f774-5461-a42d-da3e433f0f55",
+          "versionId": "dae7df6c-3ee0-58ca-a2c6-c978a5c01d56",
           "set": "OP11",
           "rarity": "R",
           "block": "3",
@@ -5863,6 +6419,8 @@
         },
         {
           "id": "OP11-060_p1",
+          "uuid": "845674c4-b2cb-5808-bc26-c9589644fc1f",
+          "versionId": "b28023b4-03eb-505b-8ef9-8f234c53053c",
           "set": "OTHER",
           "rarity": "R",
           "block": "3",
@@ -5873,6 +6431,8 @@
         },
         {
           "id": "OP11-060~tcg656704",
+          "uuid": "99928f75-c08b-547a-8ec2-cf95a3aa888e",
+          "versionId": "a25277c2-321e-5d98-b891-13443de8aa00",
           "set": "LT01",
           "rarity": "R",
           "image": "https://tcgplayer-cdn.tcgplayer.com/product/656704_in_400x400.jpg",
@@ -5893,6 +6453,8 @@
         },
         {
           "id": "OP11-060~tcg657830",
+          "uuid": "b7eeeb78-b3d0-5cb8-93ca-1f9e652e8e33",
+          "versionId": "3f2a9340-c21e-5720-a38e-3fc4ebe0d443",
           "set": "P",
           "rarity": "R",
           "image": "https://tcgplayer-cdn.tcgplayer.com/product/657830_in_400x400.jpg",
@@ -5919,6 +6481,8 @@
         },
         {
           "id": "OP11-060~ja",
+          "uuid": "a96c7dd5-c7d1-5a05-8f5d-f3db70544ceb",
+          "versionId": "dae7df6c-3ee0-58ca-a2c6-c978a5c01d56",
           "language": "ja",
           "set": "OP11",
           "rarity": "R",
@@ -5933,6 +6497,8 @@
         },
         {
           "id": "OP11-060_p1~ja",
+          "uuid": "d12ae0d2-41dc-54ae-bed7-752ab8b3031d",
+          "versionId": "b28023b4-03eb-505b-8ef9-8f234c53053c",
           "language": "ja",
           "set": "OTHER",
           "rarity": "R",
@@ -5946,6 +6512,8 @@
     },
     {
       "number": "OP11-061",
+      "uuid": "17ee879b-70f8-5d1e-a5af-5ea2bf790cc1",
+      "oracleId": "00e56a1b-13cb-51ea-a925-1c93da8b7cf6",
       "name": "Gum-Gum Jet Culverin",
       "names": {
         "en": "Gum-Gum Jet Culverin",
@@ -5962,6 +6530,8 @@
       "printings": [
         {
           "id": "OP11-061",
+          "uuid": "ed64958f-5cc0-5fd3-b759-915a79c1874b",
+          "versionId": "d4f20c60-bed4-5edf-82a3-4e8d64aa7e58",
           "set": "OP11",
           "rarity": "UC",
           "block": "3",
@@ -5984,6 +6554,8 @@
         },
         {
           "id": "OP11-061~tcg634484",
+          "uuid": "0c4e874a-ed6f-58e6-b492-91cee11ed2bd",
+          "versionId": "4c3b43d5-4137-5b09-a2a4-8534f0e4bd3b",
           "set": "OP11-RE",
           "rarity": "UC",
           "image": "https://tcgplayer-cdn.tcgplayer.com/product/634484_in_400x400.jpg",
@@ -6011,6 +6583,8 @@
         },
         {
           "id": "OP11-061~tcg717404",
+          "uuid": "c0c8ad25-eaed-58a8-a8fa-5f0211aed376",
+          "versionId": "4f0ed93b-2918-50d6-993a-a33116948cde",
           "set": "P",
           "rarity": "UC",
           "image": "https://tcgplayer-cdn.tcgplayer.com/product/717404_in_400x400.jpg",
@@ -6037,6 +6611,8 @@
         },
         {
           "id": "OP11-061~ja",
+          "uuid": "4cd9343c-3b94-57b8-bbb7-f490f132614b",
+          "versionId": "d4f20c60-bed4-5edf-82a3-4e8d64aa7e58",
           "language": "ja",
           "set": "OP11",
           "rarity": "UC",
@@ -6053,6 +6629,8 @@
     },
     {
       "number": "OP11-062",
+      "uuid": "d8c35819-12d1-5ac8-84d7-3878681a3851",
+      "oracleId": "9cceb19a-d5ae-50bd-92a2-77dc7f7fd017",
       "name": "Charlotte Katakuri",
       "names": {
         "en": "Charlotte Katakuri",
@@ -6073,6 +6651,8 @@
       "printings": [
         {
           "id": "OP11-062",
+          "uuid": "6d051d92-643b-5d71-8f1a-7dc9c870d38e",
+          "versionId": "19af0a5b-2e91-5d93-bccd-fa955a8cc1f6",
           "set": "OP11",
           "rarity": "L",
           "block": "3",
@@ -6096,6 +6676,8 @@
         },
         {
           "id": "OP11-062_p1",
+          "uuid": "619d5103-6759-514d-91b8-0a837845b30c",
+          "versionId": "dbbd265d-8148-504d-8933-b5024e5b370c",
           "set": "OP11",
           "rarity": "L",
           "block": "3",
@@ -6122,6 +6704,8 @@
         },
         {
           "id": "OP11-062_p2",
+          "uuid": "3223c5cc-ed35-5a68-bb88-e930e90e574c",
+          "versionId": "69b74ea6-05f0-5807-8b80-2bd895786abd",
           "set": "ST34",
           "rarity": "L",
           "block": "3",
@@ -6145,6 +6729,8 @@
         },
         {
           "id": "OP11-062~ja",
+          "uuid": "34036925-8c74-56c8-98ff-84f6f77782b8",
+          "versionId": "19af0a5b-2e91-5d93-bccd-fa955a8cc1f6",
           "language": "ja",
           "set": "OP11",
           "rarity": "L",
@@ -6159,6 +6745,8 @@
         },
         {
           "id": "OP11-062_p1~ja",
+          "uuid": "52af6b7d-078a-5d27-8538-f2e4cb41210b",
+          "versionId": "dbbd265d-8148-504d-8933-b5024e5b370c",
           "language": "ja",
           "set": "OP11",
           "rarity": "L",
@@ -6173,6 +6761,8 @@
         },
         {
           "id": "OP11-062_p2~ja",
+          "uuid": "12cc0011-6d45-50ee-9b17-e2192e65e9bd",
+          "versionId": "69b74ea6-05f0-5807-8b80-2bd895786abd",
           "language": "ja",
           "set": "ST34",
           "rarity": "L",
@@ -6189,6 +6779,8 @@
     },
     {
       "number": "OP11-063",
+      "uuid": "56f90c1f-7282-56a5-baec-adb3582cb72a",
+      "oracleId": "a85b4ab2-29df-53af-86c5-3782ba1c24f5",
       "name": "Little Sadi",
       "names": {
         "en": "Little Sadi",
@@ -6210,6 +6802,8 @@
       "printings": [
         {
           "id": "OP11-063",
+          "uuid": "4c85a831-5937-5236-b5d3-7c5ac0cb51e2",
+          "versionId": "2824c8f6-6ea0-51bb-9e65-3b8080528b83",
           "set": "OP11",
           "rarity": "C",
           "block": "3",
@@ -6233,6 +6827,8 @@
         },
         {
           "id": "OP11-063~tcg634485",
+          "uuid": "9deaaba7-7341-5408-a513-94c65792f2db",
+          "versionId": "48310481-7c65-55e5-881c-e8f9c370471b",
           "set": "OP11-RE",
           "rarity": "C",
           "image": "https://tcgplayer-cdn.tcgplayer.com/product/634485_in_400x400.jpg",
@@ -6261,6 +6857,8 @@
         },
         {
           "id": "OP11-063~ja",
+          "uuid": "a43178e4-569c-556a-b917-1455dbca134d",
+          "versionId": "2824c8f6-6ea0-51bb-9e65-3b8080528b83",
           "language": "ja",
           "set": "OP11",
           "rarity": "C",
@@ -6277,6 +6875,8 @@
     },
     {
       "number": "OP11-064",
+      "uuid": "11fcf12c-749a-5cd2-a036-b7091f77bb85",
+      "oracleId": "14f0de13-ca71-56e7-bc38-c9c513a2f15b",
       "name": "Saldeath",
       "names": {
         "en": "Saldeath",
@@ -6298,6 +6898,8 @@
       "printings": [
         {
           "id": "OP11-064",
+          "uuid": "782616ea-a7bb-5246-bc03-7f0b2e64f4d8",
+          "versionId": "0d3b2387-436f-5984-a2ba-e8a04ae4ebd2",
           "set": "OP11",
           "rarity": "C",
           "block": "3",
@@ -6321,6 +6923,8 @@
         },
         {
           "id": "OP11-064~tcg634486",
+          "uuid": "d2e17a5e-88fa-5d2a-a502-f827103e7cc9",
+          "versionId": "c1ae514f-bed1-5deb-a6f5-2139ed33cf25",
           "set": "OP11-RE",
           "rarity": "C",
           "image": "https://tcgplayer-cdn.tcgplayer.com/product/634486_in_400x400.jpg",
@@ -6349,6 +6953,8 @@
         },
         {
           "id": "OP11-064~ja",
+          "uuid": "81bca94e-d398-515b-86f4-cdbcc947f2cf",
+          "versionId": "0d3b2387-436f-5984-a2ba-e8a04ae4ebd2",
           "language": "ja",
           "set": "OP11",
           "rarity": "C",
@@ -6365,6 +6971,8 @@
     },
     {
       "number": "OP11-065",
+      "uuid": "60105798-6529-5cce-b8de-70757934dc24",
+      "oracleId": "f64a6014-1646-564c-ad48-19395f7dd682",
       "name": "Charlotte Anana",
       "names": {
         "en": "Charlotte Anana",
@@ -6386,6 +6994,8 @@
       "printings": [
         {
           "id": "OP11-065",
+          "uuid": "2fe592c1-c006-514f-ac3c-c6dbde24ae1c",
+          "versionId": "62a8999f-3134-5622-a5fe-f382db3f282b",
           "set": "OP11",
           "rarity": "UC",
           "block": "3",
@@ -6409,6 +7019,8 @@
         },
         {
           "id": "OP11-065_r1",
+          "uuid": "206ff558-a8cf-596b-946d-c85829266d2b",
+          "versionId": "0496902e-f3a0-51b7-b7a3-77cfcfcc2541",
           "set": "ST34",
           "rarity": "UC",
           "block": "3",
@@ -6423,6 +7035,8 @@
         },
         {
           "id": "OP11-065~tcg634487",
+          "uuid": "31e0a157-d57f-55ab-a947-a2d18f656a3c",
+          "versionId": "bf3404a7-46e2-53eb-9cbe-f8009b2ad46a",
           "set": "OP11-RE",
           "rarity": "UC",
           "image": "https://tcgplayer-cdn.tcgplayer.com/product/634487_in_400x400.jpg",
@@ -6451,6 +7065,8 @@
         },
         {
           "id": "OP11-065~ja",
+          "uuid": "42cdac5a-a4b0-5683-92ab-31b96f4d67c4",
+          "versionId": "62a8999f-3134-5622-a5fe-f382db3f282b",
           "language": "ja",
           "set": "OP11",
           "rarity": "UC",
@@ -6465,6 +7081,8 @@
         },
         {
           "id": "OP11-065_p1~ja",
+          "uuid": "16063c41-2f0c-51e5-b825-9f6b43bf60a3",
+          "versionId": "69f7cd14-9d04-58b4-a975-82fadd78d4c5",
           "language": "ja",
           "set": "P",
           "rarity": "UC",
@@ -6475,6 +7093,8 @@
         },
         {
           "id": "OP11-065_r1~ja",
+          "uuid": "2835b65a-28b8-5eee-9fb5-23e13d4f1061",
+          "versionId": "0496902e-f3a0-51b7-b7a3-77cfcfcc2541",
           "language": "ja",
           "set": "ST34",
           "rarity": "UC",
@@ -6491,6 +7111,8 @@
     },
     {
       "number": "OP11-066",
+      "uuid": "2456e4bb-b434-5a85-b4b4-4d91a42059c0",
+      "oracleId": "e6bfc3a9-8185-5d59-ac93-07c23880ca4c",
       "name": "Charlotte Oven",
       "names": {
         "en": "Charlotte Oven",
@@ -6512,6 +7134,8 @@
       "printings": [
         {
           "id": "OP11-066",
+          "uuid": "6d70528e-2d43-5531-8ac9-95dcd6605681",
+          "versionId": "9178891a-44c5-543a-b744-d0ab519b46b0",
           "set": "OP11",
           "rarity": "R",
           "block": "3",
@@ -6535,6 +7159,8 @@
         },
         {
           "id": "OP11-066_r1",
+          "uuid": "34515ff2-a02d-5831-8d70-2efaee7bcd68",
+          "versionId": "5ff7ec80-b168-5f34-979d-a69dcd7502db",
           "set": "ST34",
           "rarity": "R",
           "block": "3",
@@ -6557,6 +7183,8 @@
         },
         {
           "id": "OP11-066~ja",
+          "uuid": "6d9dabf1-ddff-5a18-8d78-4106c84a6f7e",
+          "versionId": "9178891a-44c5-543a-b744-d0ab519b46b0",
           "language": "ja",
           "set": "OP11",
           "rarity": "R",
@@ -6571,6 +7199,8 @@
         },
         {
           "id": "OP11-066_r1~ja",
+          "uuid": "707880c3-0a76-5095-9867-57cfdd102475",
+          "versionId": "5ff7ec80-b168-5f34-979d-a69dcd7502db",
           "language": "ja",
           "set": "ST34",
           "rarity": "R",
@@ -6587,6 +7217,8 @@
     },
     {
       "number": "OP11-067",
+      "uuid": "5706e016-5ff5-576c-8bd6-acd7366b1110",
+      "oracleId": "b6dac759-e442-5c16-a00f-08fb38ba7579",
       "name": "Charlotte Katakuri",
       "names": {
         "en": "Charlotte Katakuri",
@@ -6607,6 +7239,8 @@
       "printings": [
         {
           "id": "OP11-067",
+          "uuid": "a545c2de-36ea-53ce-9451-6bc747b81cc7",
+          "versionId": "b301dd53-8d21-5788-bd64-ee3b9a5bb30e",
           "set": "OP11",
           "rarity": "SR",
           "block": "3",
@@ -6630,6 +7264,8 @@
         },
         {
           "id": "OP11-067_p1",
+          "uuid": "63a97492-4dc7-581f-8e7f-09f805a1c329",
+          "versionId": "d1a704c6-e9b4-55a0-a3b8-af2289a62c5b",
           "set": "OP11",
           "rarity": "SR",
           "block": "3",
@@ -6656,6 +7292,8 @@
         },
         {
           "id": "OP11-067_p2",
+          "uuid": "f180d30b-ac9e-5ec1-b923-1bc6b6a98d1a",
+          "versionId": "cf1f7aa2-f672-557b-ad70-7381d608b846",
           "set": "OTHER",
           "rarity": "SR",
           "block": "3",
@@ -6689,6 +7327,8 @@
         },
         {
           "id": "OP11-067_p3",
+          "uuid": "9e828ce0-db22-50ed-8d91-75ffd394aa9d",
+          "versionId": "6c290122-60f8-53e2-ac24-1855e2360a59",
           "set": "OP16",
           "rarity": "SP CARD",
           "block": "3",
@@ -6715,6 +7355,8 @@
         },
         {
           "id": "OP11-067~ja",
+          "uuid": "4c987ef4-af86-5e6a-8b76-e1f3ad58445b",
+          "versionId": "b301dd53-8d21-5788-bd64-ee3b9a5bb30e",
           "language": "ja",
           "set": "OP11",
           "rarity": "SR",
@@ -6729,6 +7371,8 @@
         },
         {
           "id": "OP11-067_p1~ja",
+          "uuid": "d02b0bcc-2135-5a59-b7f5-58a3e71e2cef",
+          "versionId": "d1a704c6-e9b4-55a0-a3b8-af2289a62c5b",
           "language": "ja",
           "set": "OP11",
           "rarity": "SR",
@@ -6743,6 +7387,8 @@
         },
         {
           "id": "OP11-067_p2~ja",
+          "uuid": "052cd777-6b05-53d6-b0a3-fe8672329250",
+          "versionId": "76fcf22d-252d-5939-9496-b2d50143186c",
           "language": "ja",
           "set": "OP16",
           "rarity": "SP CARD",
@@ -6753,6 +7399,8 @@
         },
         {
           "id": "OP11-067_p3~ja",
+          "uuid": "f6e3af5b-2c14-50d2-926a-03dad95ff0e2",
+          "versionId": "09e470f5-fbfc-527e-9518-d6d1b84b1355",
           "language": "ja",
           "set": "OTHER",
           "rarity": "SR",
@@ -6765,6 +7413,8 @@
     },
     {
       "number": "OP11-068",
+      "uuid": "d5d178fc-917c-523f-ac29-a87c4605cbae",
+      "oracleId": "839f2118-f598-5c31-8271-cfbad0b04747",
       "name": "Charlotte Daifuku",
       "names": {
         "en": "Charlotte Daifuku",
@@ -6786,6 +7436,8 @@
       "printings": [
         {
           "id": "OP11-068",
+          "uuid": "c81999e1-b48b-57d2-9de3-ae58b1d6cfe0",
+          "versionId": "c01dbb26-83e1-51d5-8def-bcd4bc484122",
           "set": "OP11",
           "rarity": "UC",
           "block": "3",
@@ -6809,6 +7461,8 @@
         },
         {
           "id": "OP11-068_r1",
+          "uuid": "e6f85901-ceb3-5dee-8770-f6a2e1dd7c10",
+          "versionId": "62718268-cd0b-5d04-b5aa-6639ae7de305",
           "set": "ST34",
           "rarity": "UC",
           "block": "3",
@@ -6823,6 +7477,8 @@
         },
         {
           "id": "OP11-068~tcg634488",
+          "uuid": "b9e03fbe-198c-5642-a1ee-a7c823508738",
+          "versionId": "9222070d-aa37-54a7-9511-af1549fa927c",
           "set": "OP11-RE",
           "rarity": "UC",
           "image": "https://tcgplayer-cdn.tcgplayer.com/product/634488_in_400x400.jpg",
@@ -6851,6 +7507,8 @@
         },
         {
           "id": "OP11-068~tcg668201",
+          "uuid": "5ced55f8-88c3-5c14-933d-ab8dcda81b93",
+          "versionId": "2a0c9483-cca0-53db-8fbc-af412c826bb7",
           "set": "P",
           "rarity": "UC",
           "image": "https://tcgplayer-cdn.tcgplayer.com/product/668201_in_400x400.jpg",
@@ -6877,6 +7535,8 @@
         },
         {
           "id": "OP11-068~ja",
+          "uuid": "d1397283-082b-5ba6-aea8-8a767e40a8df",
+          "versionId": "c01dbb26-83e1-51d5-8def-bcd4bc484122",
           "language": "ja",
           "set": "OP11",
           "rarity": "UC",
@@ -6891,6 +7551,8 @@
         },
         {
           "id": "OP11-068_r1~ja",
+          "uuid": "4165b296-42b3-5fd8-bf50-08c629554191",
+          "versionId": "62718268-cd0b-5d04-b5aa-6639ae7de305",
           "language": "ja",
           "set": "ST34",
           "rarity": "UC",
@@ -6907,6 +7569,8 @@
     },
     {
       "number": "OP11-069",
+      "uuid": "c58e7e14-72f9-511f-9740-813e11f18334",
+      "oracleId": "38e0f561-bb09-5e9a-8c4d-65b2f740cd34",
       "name": "Charlotte Brulee",
       "names": {
         "en": "Charlotte Brulee",
@@ -6928,6 +7592,8 @@
       "printings": [
         {
           "id": "OP11-069",
+          "uuid": "45c2f4a1-0475-59ac-b96c-d5d332c57261",
+          "versionId": "90d81402-c1bb-58fe-89a7-d11d6612c1e8",
           "set": "OP11",
           "rarity": "R",
           "block": "3",
@@ -6951,6 +7617,8 @@
         },
         {
           "id": "OP11-069~ja",
+          "uuid": "968be3c5-819e-53a9-b900-5f8ab4fdc8d0",
+          "versionId": "90d81402-c1bb-58fe-89a7-d11d6612c1e8",
           "language": "ja",
           "set": "OP11",
           "rarity": "R",
@@ -6967,6 +7635,8 @@
     },
     {
       "number": "OP11-070",
+      "uuid": "7af8d263-3c89-5bd0-976c-f7c99faea95f",
+      "oracleId": "d0742a1c-6d2e-5481-8157-224009e1c269",
       "name": "Charlotte Pudding",
       "names": {
         "en": "Charlotte Pudding",
@@ -6987,6 +7657,8 @@
       "printings": [
         {
           "id": "OP11-070",
+          "uuid": "e31cd295-e893-5542-8c7c-8683cb9ffa3e",
+          "versionId": "1313130f-6ce7-53c3-a2f4-98b288acf007",
           "set": "OP11",
           "rarity": "SR",
           "block": "3",
@@ -7010,6 +7682,8 @@
         },
         {
           "id": "OP11-070_p1",
+          "uuid": "3ffaf099-e55a-5e05-8674-c6bf7e7e9082",
+          "versionId": "4a3c700b-a40a-54a6-8bcc-a3347fb66bbf",
           "set": "OP11",
           "rarity": "SR",
           "block": "3",
@@ -7036,6 +7710,8 @@
         },
         {
           "id": "OP11-070~ja",
+          "uuid": "7c2d9778-6681-5fc9-b119-0cc14ffbd06a",
+          "versionId": "1313130f-6ce7-53c3-a2f4-98b288acf007",
           "language": "ja",
           "set": "OP11",
           "rarity": "SR",
@@ -7050,6 +7726,8 @@
         },
         {
           "id": "OP11-070_p1~ja",
+          "uuid": "88bda558-bba1-5418-ac40-702b321f51fc",
+          "versionId": "4a3c700b-a40a-54a6-8bcc-a3347fb66bbf",
           "language": "ja",
           "set": "OP11",
           "rarity": "SR",
@@ -7066,6 +7744,8 @@
     },
     {
       "number": "OP11-071",
+      "uuid": "10806fa9-a3db-5b28-bc08-1e575c700a20",
+      "oracleId": "e0a16acd-7699-5661-903b-0a0f8e2f836e",
       "name": "Charlotte Perospero",
       "names": {
         "en": "Charlotte Perospero",
@@ -7086,6 +7766,8 @@
       "printings": [
         {
           "id": "OP11-071",
+          "uuid": "de6efa20-076e-5dae-bdcd-07c6f3a58284",
+          "versionId": "4e9ab671-3b36-5dd7-9bfc-9537212a7f32",
           "set": "OP11",
           "rarity": "R",
           "block": "3",
@@ -7109,6 +7791,8 @@
         },
         {
           "id": "OP11-071_r1",
+          "uuid": "157fc896-f9c6-5861-963a-386c13954fde",
+          "versionId": "46066d5e-0672-5169-ba07-74857a5e5013",
           "set": "ST34",
           "rarity": "R",
           "block": "3",
@@ -7131,6 +7815,8 @@
         },
         {
           "id": "OP11-071~ja",
+          "uuid": "99bef364-2268-567c-b159-8e2505446dfe",
+          "versionId": "4e9ab671-3b36-5dd7-9bfc-9537212a7f32",
           "language": "ja",
           "set": "OP11",
           "rarity": "R",
@@ -7145,6 +7831,8 @@
         },
         {
           "id": "OP11-071_p1~ja",
+          "uuid": "317197a2-b514-519c-a038-e6d5aaf320e1",
+          "versionId": "77e2675d-cb99-5d4e-b5f6-e7f9faeb2694",
           "language": "ja",
           "set": "P",
           "rarity": "R",
@@ -7155,6 +7843,8 @@
         },
         {
           "id": "OP11-071_r1~ja",
+          "uuid": "afb634ce-7861-50e6-95d6-21f4afdca22d",
+          "versionId": "46066d5e-0672-5169-ba07-74857a5e5013",
           "language": "ja",
           "set": "ST34",
           "rarity": "R",
@@ -7171,6 +7861,8 @@
     },
     {
       "number": "OP11-072",
+      "uuid": "075cb2e2-e3f5-5cd8-ae89-70f4f853f6fc",
+      "oracleId": "1dd2ec4c-0abb-5566-8cf3-c7c4738dd9ca",
       "name": "Charlotte Mont-d'or",
       "names": {
         "en": "Charlotte Mont-d'or",
@@ -7192,6 +7884,8 @@
       "printings": [
         {
           "id": "OP11-072",
+          "uuid": "a5ce513f-ff40-5b28-b31e-f364f58f09a6",
+          "versionId": "9d7c9a0d-785c-53d2-ba01-0332c0b0ff4b",
           "set": "OP11",
           "rarity": "UC",
           "block": "3",
@@ -7215,6 +7909,8 @@
         },
         {
           "id": "OP11-072~tcg634489",
+          "uuid": "c62244e3-9832-5059-a391-8d9b817a5317",
+          "versionId": "e30dc098-5d90-5671-9cbe-01a2381b1fe7",
           "set": "OP11-RE",
           "rarity": "UC",
           "image": "https://tcgplayer-cdn.tcgplayer.com/product/634489_in_400x400.jpg",
@@ -7243,6 +7939,8 @@
         },
         {
           "id": "OP11-072~ja",
+          "uuid": "1604c1cc-a44b-559a-8d9e-c9a03186caa4",
+          "versionId": "9d7c9a0d-785c-53d2-ba01-0332c0b0ff4b",
           "language": "ja",
           "set": "OP11",
           "rarity": "UC",
@@ -7259,6 +7957,8 @@
     },
     {
       "number": "OP11-073",
+      "uuid": "e79e9111-5c4c-5854-89df-cbda242febe5",
+      "oracleId": "7b7a73b6-dd15-5743-bace-f7ddc462818c",
       "name": "Charlotte Linlin",
       "names": {
         "en": "Charlotte Linlin",
@@ -7280,6 +7980,8 @@
       "printings": [
         {
           "id": "OP11-073",
+          "uuid": "54b33ae1-0cd3-54f0-b2f4-5b183bd78e4a",
+          "versionId": "f0af1d36-83a3-524f-bc08-c75c4970fa72",
           "set": "OP11",
           "rarity": "R",
           "block": "3",
@@ -7303,6 +8005,8 @@
         },
         {
           "id": "OP11-073_p1",
+          "uuid": "9181ebf2-a9c6-5ff0-b78a-3068f0fdf9ff",
+          "versionId": "87c7df75-dab0-5c98-87a7-bc51bc142875",
           "set": "OP11",
           "rarity": "R",
           "block": "3",
@@ -7329,6 +8033,8 @@
         },
         {
           "id": "OP11-073~tcg649707",
+          "uuid": "c922ebc3-574d-5d78-8a53-e4547a74fc5d",
+          "versionId": "73b13f0c-0413-5fff-a3b0-2e085665135e",
           "set": "P",
           "rarity": "R",
           "image": "https://tcgplayer-cdn.tcgplayer.com/product/649707_in_400x400.jpg",
@@ -7355,6 +8061,8 @@
         },
         {
           "id": "OP11-073~ja",
+          "uuid": "31b8c01f-c178-5e15-9740-d31e672659b8",
+          "versionId": "f0af1d36-83a3-524f-bc08-c75c4970fa72",
           "language": "ja",
           "set": "OP11",
           "rarity": "R",
@@ -7369,6 +8077,8 @@
         },
         {
           "id": "OP11-073_p1~ja",
+          "uuid": "ed6d7681-98b4-54fb-b915-9df237fe9c30",
+          "versionId": "87c7df75-dab0-5c98-87a7-bc51bc142875",
           "language": "ja",
           "set": "OP11",
           "rarity": "R",
@@ -7385,6 +8095,8 @@
     },
     {
       "number": "OP11-074",
+      "uuid": "532d7e62-1a9d-504f-9998-d819245c8d82",
+      "oracleId": "f3e2e8da-e9d0-5b26-8982-714811a399fe",
       "name": "Streusen",
       "names": {
         "en": "Streusen",
@@ -7406,6 +8118,8 @@
       "printings": [
         {
           "id": "OP11-074",
+          "uuid": "5a903dee-47ff-5840-941b-487b0c0e3016",
+          "versionId": "fa685dde-19ce-5351-9e44-c5197078c589",
           "set": "OP11",
           "rarity": "C",
           "block": "3",
@@ -7429,6 +8143,8 @@
         },
         {
           "id": "OP11-074~tcg634490",
+          "uuid": "c75de6ce-4167-5b09-9662-704ca1b80fe9",
+          "versionId": "bf683636-186e-5328-93e4-517b4d28d3a3",
           "set": "OP11-RE",
           "rarity": "C",
           "image": "https://tcgplayer-cdn.tcgplayer.com/product/634490_in_400x400.jpg",
@@ -7457,6 +8173,8 @@
         },
         {
           "id": "OP11-074~tcg712844",
+          "uuid": "461ca026-6e56-5c13-8374-4f40bea5e31a",
+          "versionId": "02eb0783-b402-503b-b7ff-5239f600fd52",
           "set": "P",
           "rarity": "C",
           "image": "https://tcgplayer-cdn.tcgplayer.com/product/712844_in_400x400.jpg",
@@ -7483,6 +8201,8 @@
         },
         {
           "id": "OP11-074~tcg712845",
+          "uuid": "eb6e1f0b-a2ed-5b51-8e04-42577e24550b",
+          "versionId": "18605086-c520-56b7-bcae-ff4e83f2e66b",
           "set": "P",
           "rarity": "C",
           "image": "https://tcgplayer-cdn.tcgplayer.com/product/712845_in_400x400.jpg",
@@ -7513,6 +8233,8 @@
         },
         {
           "id": "OP11-074~ja",
+          "uuid": "063e9a2c-fab9-563c-b305-29ba763217c8",
+          "versionId": "fa685dde-19ce-5351-9e44-c5197078c589",
           "language": "ja",
           "set": "OP11",
           "rarity": "C",
@@ -7529,6 +8251,8 @@
     },
     {
       "number": "OP11-075",
+      "uuid": "5d14b08a-b454-515e-be51-a7a74837ec4d",
+      "oracleId": "73a179de-95bb-5cb8-87f6-7cec37927cf2",
       "name": "Jaguar.D.Saul",
       "names": {
         "en": "Jaguar.D.Saul",
@@ -7551,6 +8275,8 @@
       "printings": [
         {
           "id": "OP11-075",
+          "uuid": "1484a72a-03e8-5bcb-9e89-984b38c31dd6",
+          "versionId": "12c4e498-f601-5dbd-b9ce-350f9aaa107d",
           "set": "OP11",
           "rarity": "C",
           "block": "3",
@@ -7574,6 +8300,8 @@
         },
         {
           "id": "OP11-075~tcg634491",
+          "uuid": "4aea3ff7-3905-52de-b3b2-d69859feedfe",
+          "versionId": "0f599d37-b622-5e5f-9302-67143377e2d4",
           "set": "OP11-RE",
           "rarity": "C",
           "image": "https://tcgplayer-cdn.tcgplayer.com/product/634491_in_400x400.jpg",
@@ -7602,6 +8330,8 @@
         },
         {
           "id": "OP11-075~ja",
+          "uuid": "36cbde4e-5ca9-58c4-8a40-767b393e4d97",
+          "versionId": "12c4e498-f601-5dbd-b9ce-350f9aaa107d",
           "language": "ja",
           "set": "OP11",
           "rarity": "C",
@@ -7618,6 +8348,8 @@
     },
     {
       "number": "OP11-076",
+      "uuid": "153d220d-582a-522b-bf92-9fe62441d60e",
+      "oracleId": "9f7683a5-6b62-51b8-92d4-00e03958a8eb",
       "name": "Hannyabal",
       "names": {
         "en": "Hannyabal",
@@ -7639,6 +8371,8 @@
       "printings": [
         {
           "id": "OP11-076",
+          "uuid": "fcdcd37f-e9da-585b-b6c7-9e6e3b944789",
+          "versionId": "b58856ab-6f1b-582b-89fc-9ce56ee9f28f",
           "set": "OP11",
           "rarity": "C",
           "block": "3",
@@ -7662,6 +8396,8 @@
         },
         {
           "id": "OP11-076~tcg634492",
+          "uuid": "10551951-a2e8-5f34-837d-af66b4483c5c",
+          "versionId": "3cd0284b-2967-5be2-b312-8499e5822313",
           "set": "OP11-RE",
           "rarity": "C",
           "image": "https://tcgplayer-cdn.tcgplayer.com/product/634492_in_400x400.jpg",
@@ -7690,6 +8426,8 @@
         },
         {
           "id": "OP11-076~ja",
+          "uuid": "aa4065d1-2357-5a2c-8708-67e7ed7800b5",
+          "versionId": "b58856ab-6f1b-582b-89fc-9ce56ee9f28f",
           "language": "ja",
           "set": "OP11",
           "rarity": "C",
@@ -7706,6 +8444,8 @@
     },
     {
       "number": "OP11-077",
+      "uuid": "6ac3f876-148b-5a52-be9e-6f562e56b792",
+      "oracleId": "ab58a2d1-2c41-5295-b223-3177e6bb05c4",
       "name": "Randolph",
       "names": {
         "en": "Randolph",
@@ -7728,6 +8468,8 @@
       "printings": [
         {
           "id": "OP11-077",
+          "uuid": "d594fa34-cbbc-5e23-9185-c574e90b15cc",
+          "versionId": "a0eb1373-33ea-5a88-8212-6ff43ef5d0c7",
           "set": "OP11",
           "rarity": "C",
           "block": "3",
@@ -7751,6 +8493,8 @@
         },
         {
           "id": "OP11-077~tcg634493",
+          "uuid": "c9f78367-bebb-59f4-ae38-5e52beea14dd",
+          "versionId": "dfd9afb8-a933-5018-82d0-bc9d65079d64",
           "set": "OP11-RE",
           "rarity": "C",
           "image": "https://tcgplayer-cdn.tcgplayer.com/product/634493_in_400x400.jpg",
@@ -7779,6 +8523,8 @@
         },
         {
           "id": "OP11-077~ja",
+          "uuid": "233e2e50-47ff-51d2-a2fb-2973e0bff27c",
+          "versionId": "a0eb1373-33ea-5a88-8212-6ff43ef5d0c7",
           "language": "ja",
           "set": "OP11",
           "rarity": "C",
@@ -7795,6 +8541,8 @@
     },
     {
       "number": "OP11-078",
+      "uuid": "9abdbc98-0344-5759-8475-9415c6278957",
+      "oracleId": "9040d195-a6d2-5139-bada-ab8a9ecbcb9b",
       "name": "Decuplets",
       "names": {
         "en": "Decuplets",
@@ -7816,6 +8564,8 @@
       "printings": [
         {
           "id": "OP11-078",
+          "uuid": "631f3ce8-c0c6-5c0e-bcaf-315e4f036c27",
+          "versionId": "f60e5c8c-13b1-5754-b7fd-9a41050a2711",
           "set": "OP11",
           "rarity": "UC",
           "block": "3",
@@ -7839,6 +8589,8 @@
         },
         {
           "id": "OP11-078~tcg634494",
+          "uuid": "c6bf4448-ba69-5254-aeef-cd7e28228f9a",
+          "versionId": "c9d3e30b-de9b-5dcc-ae10-34a44ee8f261",
           "set": "OP11-RE",
           "rarity": "UC",
           "image": "https://tcgplayer-cdn.tcgplayer.com/product/634494_in_400x400.jpg",
@@ -7867,6 +8619,8 @@
         },
         {
           "id": "OP11-078~ja",
+          "uuid": "6d57606d-7f6d-5031-8235-135b7199553e",
+          "versionId": "f60e5c8c-13b1-5754-b7fd-9a41050a2711",
           "language": "ja",
           "set": "OP11",
           "rarity": "UC",
@@ -7883,6 +8637,8 @@
     },
     {
       "number": "OP11-079",
+      "uuid": "2fd832c1-6dcd-542f-adfa-0a7c8e406b09",
+      "oracleId": "ffd83277-3409-5244-9a20-0651f4d3478c",
       "name": "When Two Men Are Fighting the Last Thing I Need Is Some Half-Hearted Assistance!!!!",
       "names": {
         "en": "When Two Men Are Fighting the Last Thing I Need Is Some Half-Hearted Assistance!!!!",
@@ -7899,6 +8655,8 @@
       "printings": [
         {
           "id": "OP11-079",
+          "uuid": "e7d10e1d-6b58-5621-8e60-d604694ee5e3",
+          "versionId": "8a927de1-3166-531d-a284-f0f288fd82d8",
           "set": "OP11",
           "rarity": "UC",
           "block": "3",
@@ -7921,6 +8679,8 @@
         },
         {
           "id": "OP11-079_r1",
+          "uuid": "5b2994bb-0cac-52c4-8f6a-2d742073aa69",
+          "versionId": "f5715494-4f88-5b88-a5da-59829a4c5fed",
           "set": "ST34",
           "rarity": "UC",
           "block": "3",
@@ -7934,6 +8694,8 @@
         },
         {
           "id": "OP11-079~tcg634495",
+          "uuid": "b298670c-2a93-56ca-8632-c5328a8f4fc1",
+          "versionId": "6ee1e483-15db-5363-899e-1e8c585af4af",
           "set": "OP11-RE",
           "rarity": "UC",
           "image": "https://tcgplayer-cdn.tcgplayer.com/product/634495_in_400x400.jpg",
@@ -7961,6 +8723,8 @@
         },
         {
           "id": "OP11-079~ja",
+          "uuid": "ea34d0ab-d896-5879-93c1-77b2400d54f7",
+          "versionId": "8a927de1-3166-531d-a284-f0f288fd82d8",
           "language": "ja",
           "set": "OP11",
           "rarity": "UC",
@@ -7975,6 +8739,8 @@
         },
         {
           "id": "OP11-079_r1~ja",
+          "uuid": "8617356e-3bca-5282-b94c-1a1bbf488887",
+          "versionId": "f5715494-4f88-5b88-a5da-59829a4c5fed",
           "language": "ja",
           "set": "ST34",
           "rarity": "UC",
@@ -7991,6 +8757,8 @@
     },
     {
       "number": "OP11-080",
+      "uuid": "9b597316-4490-5274-8e59-e22e442ca947",
+      "oracleId": "5d89d4f5-f276-5b54-817b-fca3d813aee1",
       "name": "Gear Two",
       "names": {
         "en": "Gear Two",
@@ -8007,6 +8775,8 @@
       "printings": [
         {
           "id": "OP11-080",
+          "uuid": "8cb70a84-8f45-51d1-a56e-4566fb41012b",
+          "versionId": "b999ea39-c269-5b66-a8d5-de23a4bae490",
           "set": "OP11",
           "rarity": "R",
           "block": "3",
@@ -8029,6 +8799,8 @@
         },
         {
           "id": "OP11-080_p1",
+          "uuid": "d8280b4e-5d99-55e9-a34d-5b9ba8be80a7",
+          "versionId": "8d10f4dc-0411-5f63-b20b-443c805a5ccf",
           "set": "OP11",
           "rarity": "R",
           "block": "3",
@@ -8054,6 +8826,8 @@
         },
         {
           "id": "OP11-080~ja",
+          "uuid": "774424ef-2b62-5531-accd-5cfe4aea3400",
+          "versionId": "b999ea39-c269-5b66-a8d5-de23a4bae490",
           "language": "ja",
           "set": "OP11",
           "rarity": "R",
@@ -8068,6 +8842,8 @@
         },
         {
           "id": "OP11-080_p1~ja",
+          "uuid": "2b29f199-66b7-50ef-8a12-30dd97887070",
+          "versionId": "8d10f4dc-0411-5f63-b20b-443c805a5ccf",
           "language": "ja",
           "set": "OP11",
           "rarity": "R",
@@ -8084,6 +8860,8 @@
     },
     {
       "number": "OP11-081",
+      "uuid": "05547c72-2e94-5d08-9368-7a850204a780",
+      "oracleId": "67b0650d-8343-59ee-98ac-cb326d0b1bff",
       "name": "Cognac Mama-Mash",
       "names": {
         "en": "Cognac Mama-Mash",
@@ -8101,6 +8879,8 @@
       "printings": [
         {
           "id": "OP11-081",
+          "uuid": "d15e8977-a3f9-5e20-ab25-d8062af2199c",
+          "versionId": "793f859f-8841-552c-8cb7-3854b1e2e981",
           "set": "OP11",
           "rarity": "C",
           "block": "3",
@@ -8123,6 +8903,8 @@
         },
         {
           "id": "OP11-081_r1",
+          "uuid": "733d40bd-1104-5f85-a50d-047cf6f20ee0",
+          "versionId": "beb1098c-6730-5581-9c55-eb2945ef3214",
           "set": "ST34",
           "rarity": "C",
           "block": "3",
@@ -8136,6 +8918,8 @@
         },
         {
           "id": "OP11-081~tcg634496",
+          "uuid": "ebeadb7a-2567-5936-b2a4-0b14e89e765f",
+          "versionId": "8d6d8e94-908f-5e3c-a246-fa3124573e94",
           "set": "OP11-RE",
           "rarity": "C",
           "image": "https://tcgplayer-cdn.tcgplayer.com/product/634496_in_400x400.jpg",
@@ -8163,6 +8947,8 @@
         },
         {
           "id": "OP11-081~ja",
+          "uuid": "07c39029-d349-53da-a9d3-0353e928cb24",
+          "versionId": "793f859f-8841-552c-8cb7-3854b1e2e981",
           "language": "ja",
           "set": "OP11",
           "rarity": "C",
@@ -8177,6 +8963,8 @@
         },
         {
           "id": "OP11-081_r1~ja",
+          "uuid": "d1d9d4d5-af8d-54cc-b091-d2c67fb1152c",
+          "versionId": "beb1098c-6730-5581-9c55-eb2945ef3214",
           "language": "ja",
           "set": "ST34",
           "rarity": "C",
@@ -8193,6 +8981,8 @@
     },
     {
       "number": "OP11-082",
+      "uuid": "49a40bca-1ee7-58be-8989-ce6b63e640e9",
+      "oracleId": "8e3291a3-e263-5b01-b289-6b3e67284048",
       "name": "Aramaki",
       "names": {
         "en": "Aramaki",
@@ -8214,6 +9004,8 @@
       "printings": [
         {
           "id": "OP11-082",
+          "uuid": "45e01bc3-ab44-52d7-a41c-011092a08b66",
+          "versionId": "a158fcdc-3d79-57d7-a581-ecce7fa10614",
           "set": "OP11",
           "rarity": "R",
           "block": "3",
@@ -8237,6 +9029,8 @@
         },
         {
           "id": "OP11-082~ja",
+          "uuid": "58d557ef-30de-5ef4-97db-f4e5677f19d5",
+          "versionId": "a158fcdc-3d79-57d7-a581-ecce7fa10614",
           "language": "ja",
           "set": "OP11",
           "rarity": "R",
@@ -8253,6 +9047,8 @@
     },
     {
       "number": "OP11-083",
+      "uuid": "7922edb9-61e2-5110-8529-fbec2ee5e2ef",
+      "oracleId": "6f59214f-5d3a-5723-9313-a7383ed5f525",
       "name": "Caribou",
       "names": {
         "en": "Caribou",
@@ -8274,6 +9070,8 @@
       "printings": [
         {
           "id": "OP11-083",
+          "uuid": "10a27e68-1136-52a4-8c4c-032a0f595416",
+          "versionId": "ca77c433-049f-5ba7-9050-26f956d9bba3",
           "set": "OP11",
           "rarity": "R",
           "block": "3",
@@ -8297,6 +9095,8 @@
         },
         {
           "id": "OP11-083~tcg711489",
+          "uuid": "c6fe1292-f5d0-5625-8d26-19288a5fd17a",
+          "versionId": "2f310138-539b-508a-b4b3-7d142412b165",
           "set": "P",
           "rarity": "R",
           "image": "https://tcgplayer-cdn.tcgplayer.com/product/711489_in_400x400.jpg",
@@ -8323,6 +9123,8 @@
         },
         {
           "id": "OP11-083~ja",
+          "uuid": "4a024d8a-cc17-5044-a3bb-7572b4d30960",
+          "versionId": "ca77c433-049f-5ba7-9050-26f956d9bba3",
           "language": "ja",
           "set": "OP11",
           "rarity": "R",
@@ -8339,6 +9141,8 @@
     },
     {
       "number": "OP11-084",
+      "uuid": "12f4d189-edf0-59e1-bd22-ccadb0d9f282",
+      "oracleId": "cad15d8e-d6f5-56ca-8b9e-bdade1df56a5",
       "name": "Kuzan",
       "names": {
         "en": "Kuzan",
@@ -8360,6 +9164,8 @@
       "printings": [
         {
           "id": "OP11-084",
+          "uuid": "a0b7b5e1-81cc-5140-9033-e5037e03f788",
+          "versionId": "1f5ccbea-dbbc-50ea-a422-3011c8e7e490",
           "set": "OP11",
           "rarity": "R",
           "block": "3",
@@ -8383,6 +9189,8 @@
         },
         {
           "id": "OP11-084_p1",
+          "uuid": "72cee5ad-d2b5-5c61-bdba-b51b7231fe27",
+          "versionId": "1c99fb2b-0e09-5b06-a473-a3ed51f0fcb7",
           "set": "OP11",
           "rarity": "R",
           "block": "3",
@@ -8409,6 +9217,8 @@
         },
         {
           "id": "OP11-084~ja",
+          "uuid": "9e51c017-7464-5ab5-a6f4-ef8a3e712251",
+          "versionId": "1f5ccbea-dbbc-50ea-a422-3011c8e7e490",
           "language": "ja",
           "set": "OP11",
           "rarity": "R",
@@ -8423,6 +9233,8 @@
         },
         {
           "id": "OP11-084_p1~ja",
+          "uuid": "d599ad88-5dff-59f3-b818-99b35c5a32d2",
+          "versionId": "1c99fb2b-0e09-5b06-a473-a3ed51f0fcb7",
           "language": "ja",
           "set": "OP11",
           "rarity": "R",
@@ -8439,6 +9251,8 @@
     },
     {
       "number": "OP11-085",
+      "uuid": "64690d2a-38af-52b9-a790-83ab4939f28c",
+      "oracleId": "8b4b35f1-b5a5-540d-8280-4b2f4acd1e29",
       "name": "Kurozumi Orochi",
       "names": {
         "en": "Kurozumi Orochi",
@@ -8461,6 +9275,8 @@
       "printings": [
         {
           "id": "OP11-085",
+          "uuid": "ef9d2dbe-dab6-5ef8-ae0f-bc8963cb6b07",
+          "versionId": "fe4b2305-24c2-5c47-a502-457048dc6fd7",
           "set": "OP11",
           "rarity": "C",
           "block": "3",
@@ -8484,6 +9300,8 @@
         },
         {
           "id": "OP11-085~tcg634497",
+          "uuid": "8821447a-77ac-5db5-8fb7-da5bfe84405b",
+          "versionId": "ef2c3fa6-fb1e-5650-a36a-053353ec7bbb",
           "set": "OP11-RE",
           "rarity": "C",
           "image": "https://tcgplayer-cdn.tcgplayer.com/product/634497_in_400x400.jpg",
@@ -8512,6 +9330,8 @@
         },
         {
           "id": "OP11-085~ja",
+          "uuid": "0e2e2edb-e42e-550b-a96c-a0a15bff3073",
+          "versionId": "fe4b2305-24c2-5c47-a502-457048dc6fd7",
           "language": "ja",
           "set": "OP11",
           "rarity": "C",
@@ -8528,6 +9348,8 @@
     },
     {
       "number": "OP11-086",
+      "uuid": "c21a1953-6633-5304-81cc-b48969da3889",
+      "oracleId": "44ee6fa3-a0a3-57eb-8d05-245877554a8b",
       "name": "Coribou",
       "names": {
         "en": "Coribou",
@@ -8549,6 +9371,8 @@
       "printings": [
         {
           "id": "OP11-086",
+          "uuid": "0f422338-a264-5873-9ecd-87944aeffc2e",
+          "versionId": "18a46650-77c6-5a2a-9c4a-24d07ce5127a",
           "set": "OP11",
           "rarity": "C",
           "block": "3",
@@ -8572,6 +9396,8 @@
         },
         {
           "id": "OP11-086~tcg634498",
+          "uuid": "6f560aed-daab-5a17-bc75-cae912659625",
+          "versionId": "b46c96e1-a34c-5731-83b9-461fc712fe2d",
           "set": "OP11-RE",
           "rarity": "C",
           "image": "https://tcgplayer-cdn.tcgplayer.com/product/634498_in_400x400.jpg",
@@ -8600,6 +9426,8 @@
         },
         {
           "id": "OP11-086~ja",
+          "uuid": "3be7e84a-c263-5dd3-9ab6-ca540b5a938f",
+          "versionId": "18a46650-77c6-5a2a-9c4a-24d07ce5127a",
           "language": "ja",
           "set": "OP11",
           "rarity": "C",
@@ -8616,6 +9444,8 @@
     },
     {
       "number": "OP11-087",
+      "uuid": "38740097-15c0-5ea0-9e1a-344b0ae1343a",
+      "oracleId": "e859a97d-3225-52ee-aaec-b3306daa5156",
       "name": "Miss Sarahebi",
       "names": {
         "en": "Miss Sarahebi",
@@ -8638,6 +9468,8 @@
       "printings": [
         {
           "id": "OP11-087",
+          "uuid": "562ac68d-200a-5346-afdb-2bacdcfd8e58",
+          "versionId": "0cee5daf-4006-56a8-8f4a-968815a4766b",
           "set": "OP11",
           "rarity": "UC",
           "block": "3",
@@ -8661,6 +9493,8 @@
         },
         {
           "id": "OP11-087~tcg634499",
+          "uuid": "a1eed0df-0899-5988-ab48-56d0654a9af5",
+          "versionId": "5f53a1b4-59e8-556c-8d90-d1a887f0790d",
           "set": "OP11-RE",
           "rarity": "UC",
           "image": "https://tcgplayer-cdn.tcgplayer.com/product/634499_in_400x400.jpg",
@@ -8689,6 +9523,8 @@
         },
         {
           "id": "OP11-087~ja",
+          "uuid": "92348685-bf04-556f-9148-348067468627",
+          "versionId": "0cee5daf-4006-56a8-8f4a-968815a4766b",
           "language": "ja",
           "set": "OP11",
           "rarity": "UC",
@@ -8705,6 +9541,8 @@
     },
     {
       "number": "OP11-088",
+      "uuid": "b052b6f5-01d7-5dfc-b595-d7ab25d51e13",
+      "oracleId": "5f7d4261-f531-52b6-9d83-d780a6645d1e",
       "name": "Shu",
       "names": {
         "en": "Shu",
@@ -8726,6 +9564,8 @@
       "printings": [
         {
           "id": "OP11-088",
+          "uuid": "3686ccc0-6767-539d-9575-e3eacd550ba9",
+          "versionId": "adf77760-aa6e-54ee-8d24-2d65ddc695ff",
           "set": "OP11",
           "rarity": "C",
           "block": "3",
@@ -8749,6 +9589,8 @@
         },
         {
           "id": "OP11-088~tcg634500",
+          "uuid": "a1c3eb4e-62e5-51ad-951e-0827ea010e56",
+          "versionId": "f78ed203-9eef-5c44-bf9c-f0970b3235aa",
           "set": "OP11-RE",
           "rarity": "C",
           "image": "https://tcgplayer-cdn.tcgplayer.com/product/634500_in_400x400.jpg",
@@ -8777,6 +9619,8 @@
         },
         {
           "id": "OP11-088~ja",
+          "uuid": "cdbce05f-ae60-5111-953d-963a329a7d00",
+          "versionId": "adf77760-aa6e-54ee-8d24-2d65ddc695ff",
           "language": "ja",
           "set": "OP11",
           "rarity": "C",
@@ -8793,6 +9637,8 @@
     },
     {
       "number": "OP11-089",
+      "uuid": "5d9bfded-1439-54a2-ba8e-2a49e7d24ae6",
+      "oracleId": "f1ac9e11-ee22-5f8f-95ab-55aa57d153dd",
       "name": "Black Maria",
       "names": {
         "en": "Black Maria",
@@ -8814,6 +9660,8 @@
       "printings": [
         {
           "id": "OP11-089",
+          "uuid": "dbdc5b8d-8ba4-5c19-bd65-abe4b35b5a77",
+          "versionId": "e5d6aaad-74e5-5922-b014-4470ca5e0495",
           "set": "OP11",
           "rarity": "C",
           "block": "3",
@@ -8837,6 +9685,8 @@
         },
         {
           "id": "OP11-089~tcg634501",
+          "uuid": "cf42ece3-0eee-553f-bbd6-cc0a2dafe3f7",
+          "versionId": "e77b959c-782c-5f7b-8beb-cfe28ff7fd25",
           "set": "OP11-RE",
           "rarity": "C",
           "image": "https://tcgplayer-cdn.tcgplayer.com/product/634501_in_400x400.jpg",
@@ -8865,6 +9715,8 @@
         },
         {
           "id": "OP11-089~tcg668202",
+          "uuid": "0484d726-ab5f-5260-a70c-5698a2e46d8e",
+          "versionId": "50c99492-492b-579f-bb49-1fe405b75e54",
           "set": "P",
           "rarity": "C",
           "image": "https://tcgplayer-cdn.tcgplayer.com/product/668202_in_400x400.jpg",
@@ -8891,6 +9743,8 @@
         },
         {
           "id": "OP11-089~ja",
+          "uuid": "e8da5881-be30-5d55-88d4-63e1bf09cf19",
+          "versionId": "e5d6aaad-74e5-5922-b014-4470ca5e0495",
           "language": "ja",
           "set": "OP11",
           "rarity": "C",
@@ -8907,6 +9761,8 @@
     },
     {
       "number": "OP11-090",
+      "uuid": "d4058a49-088b-57a4-8ab2-12469a953ab7",
+      "oracleId": "c677c894-013d-5d39-95c3-ade581afff39",
       "name": "Briscola",
       "names": {
         "en": "Briscola",
@@ -8929,6 +9785,8 @@
       "printings": [
         {
           "id": "OP11-090",
+          "uuid": "ef992ec7-ebac-54ed-8be0-41973d2730d6",
+          "versionId": "71d2e9a8-cf86-5a91-9fc1-7dc66c8520b8",
           "set": "OP11",
           "rarity": "C",
           "block": "3",
@@ -8952,6 +9810,8 @@
         },
         {
           "id": "OP11-090~tcg634502",
+          "uuid": "7bc7983a-26fe-5c6b-b67f-50e8ecf2cb76",
+          "versionId": "333651e8-7ce5-5f9d-b28d-a80133f6507e",
           "set": "OP11-RE",
           "rarity": "C",
           "image": "https://tcgplayer-cdn.tcgplayer.com/product/634502_in_400x400.jpg",
@@ -8980,6 +9840,8 @@
         },
         {
           "id": "OP11-090~ja",
+          "uuid": "87d97565-d34f-50a1-b612-487a5bc578b7",
+          "versionId": "71d2e9a8-cf86-5a91-9fc1-7dc66c8520b8",
           "language": "ja",
           "set": "OP11",
           "rarity": "C",
@@ -8996,6 +9858,8 @@
     },
     {
       "number": "OP11-091",
+      "uuid": "eef72103-2464-5c30-965f-9656161bd287",
+      "oracleId": "20107386-a882-57af-90c2-45d5eacf600a",
       "name": "Berry Good",
       "names": {
         "en": "Berry Good",
@@ -9017,6 +9881,8 @@
       "printings": [
         {
           "id": "OP11-091",
+          "uuid": "40562647-75cd-549a-9fd7-8e6830d379bf",
+          "versionId": "79047581-1686-509f-a07b-b28ba4432eb5",
           "set": "OP11",
           "rarity": "UC",
           "block": "3",
@@ -9040,6 +9906,8 @@
         },
         {
           "id": "OP11-091~tcg634503",
+          "uuid": "1b09cadb-85c7-5363-b8a0-03f995c95fab",
+          "versionId": "1e3989ec-e1c0-541d-ac5e-cae957b44b28",
           "set": "OP11-RE",
           "rarity": "UC",
           "image": "https://tcgplayer-cdn.tcgplayer.com/product/634503_in_400x400.jpg",
@@ -9068,6 +9936,8 @@
         },
         {
           "id": "OP11-091~ja",
+          "uuid": "cb5a9ce9-893a-5d8a-8deb-0e4d68858b79",
+          "versionId": "79047581-1686-509f-a07b-b28ba4432eb5",
           "language": "ja",
           "set": "OP11",
           "rarity": "UC",
@@ -9084,6 +9954,8 @@
     },
     {
       "number": "OP11-092",
+      "uuid": "758e7052-fb19-524a-b3cb-f92b8a3b1546",
+      "oracleId": "2fa5be81-67b8-596c-b60a-00b91ccc0b1e",
       "name": "Helmeppo",
       "names": {
         "en": "Helmeppo",
@@ -9105,6 +9977,8 @@
       "printings": [
         {
           "id": "OP11-092",
+          "uuid": "3ac10a10-4223-5b6a-87cc-c235d949e915",
+          "versionId": "8ca36029-a9c5-59db-aa1a-4b687a19e13a",
           "set": "OP11",
           "rarity": "SR",
           "block": "3",
@@ -9128,6 +10002,8 @@
         },
         {
           "id": "OP11-092_p1",
+          "uuid": "efea61ff-54a9-5992-b91d-2592a4bdd2c1",
+          "versionId": "8c3fb3ff-f5ca-5f86-943f-15cd1d111887",
           "set": "OP11",
           "rarity": "SR",
           "block": "3",
@@ -9154,6 +10030,8 @@
         },
         {
           "id": "OP11-092~ja",
+          "uuid": "9bbf84f2-1092-5cf4-9332-0e4d3c90ce0c",
+          "versionId": "8ca36029-a9c5-59db-aa1a-4b687a19e13a",
           "language": "ja",
           "set": "OP11",
           "rarity": "SR",
@@ -9168,6 +10046,8 @@
         },
         {
           "id": "OP11-092_p1~ja",
+          "uuid": "f801b7b9-1ff5-5c87-a7f7-1b23a07316e6",
+          "versionId": "8c3fb3ff-f5ca-5f86-943f-15cd1d111887",
           "language": "ja",
           "set": "OP11",
           "rarity": "SR",
@@ -9184,6 +10064,8 @@
     },
     {
       "number": "OP11-093",
+      "uuid": "b1e3d952-155a-5f2a-8083-a186dd95d746",
+      "oracleId": "22fc657f-fba8-52ed-a54a-53e8f0dc0f7f",
       "name": "Bogard",
       "names": {
         "en": "Bogard",
@@ -9205,6 +10087,8 @@
       "printings": [
         {
           "id": "OP11-093",
+          "uuid": "ed1aac99-9108-5c97-8f18-71ccd7f2c985",
+          "versionId": "4fe34846-9178-5db4-bec9-f4682272faf2",
           "set": "OP11",
           "rarity": "UC",
           "block": "3",
@@ -9228,6 +10112,8 @@
         },
         {
           "id": "OP11-093~tcg634504",
+          "uuid": "3c6e2392-da11-56b1-8489-9715d73b6a35",
+          "versionId": "83029fa0-d9e1-53ec-8751-44e722b2c82b",
           "set": "OP11-RE",
           "rarity": "UC",
           "image": "https://tcgplayer-cdn.tcgplayer.com/product/634504_in_400x400.jpg",
@@ -9256,6 +10142,8 @@
         },
         {
           "id": "OP11-093~ja",
+          "uuid": "c9e259a7-1f8b-5b1a-a52a-04ed5622a1f7",
+          "versionId": "4fe34846-9178-5db4-bec9-f4682272faf2",
           "language": "ja",
           "set": "OP11",
           "rarity": "UC",
@@ -9272,6 +10160,8 @@
     },
     {
       "number": "OP11-094",
+      "uuid": "ae0ee222-9468-579c-b339-17ddd0a61b9f",
+      "oracleId": "39b23d31-6449-56d0-a1d6-96a3427864e4",
       "name": "Morgan",
       "names": {
         "en": "Morgan",
@@ -9293,6 +10183,8 @@
       "printings": [
         {
           "id": "OP11-094",
+          "uuid": "08fa11ac-8b25-5fe6-b267-ca5baeb8d554",
+          "versionId": "5f572029-7076-56ec-bf04-1beef051f04e",
           "set": "OP11",
           "rarity": "C",
           "block": "3",
@@ -9316,6 +10208,8 @@
         },
         {
           "id": "OP11-094~tcg634505",
+          "uuid": "ee2e2575-e2b2-56b4-88a5-114c7c5f8965",
+          "versionId": "80495538-ce53-5d56-a47d-902a22c78137",
           "set": "OP11-RE",
           "rarity": "C",
           "image": "https://tcgplayer-cdn.tcgplayer.com/product/634505_in_400x400.jpg",
@@ -9344,6 +10238,8 @@
         },
         {
           "id": "OP11-094~ja",
+          "uuid": "32ff8421-841b-56fe-bc25-152ab681b305",
+          "versionId": "5f572029-7076-56ec-bf04-1beef051f04e",
           "language": "ja",
           "set": "OP11",
           "rarity": "C",
@@ -9360,6 +10256,8 @@
     },
     {
       "number": "OP11-095",
+      "uuid": "54b368fc-baea-50aa-8ffe-19635ad365f9",
+      "oracleId": "03e309b6-701d-5dc3-a4ad-f2a45dd76347",
       "name": "Monkey.D.Garp",
       "names": {
         "en": "Monkey.D.Garp",
@@ -9380,6 +10278,8 @@
       "printings": [
         {
           "id": "OP11-095",
+          "uuid": "47440917-d6e9-5e47-ab79-2b491d85df93",
+          "versionId": "5ce008f0-54db-5bb5-a621-e7f99b5974d0",
           "set": "OP11",
           "rarity": "SR",
           "block": "3",
@@ -9403,6 +10303,8 @@
         },
         {
           "id": "OP11-095_p1",
+          "uuid": "2a374f2e-5c0d-52dc-86a2-e2024168df31",
+          "versionId": "95b1331b-7a86-5048-ad61-1ffbca487693",
           "set": "OP11",
           "rarity": "SR",
           "block": "3",
@@ -9429,6 +10331,8 @@
         },
         {
           "id": "OP11-095~ja",
+          "uuid": "004d41cc-5c19-5faa-9129-13520dff7d3f",
+          "versionId": "5ce008f0-54db-5bb5-a621-e7f99b5974d0",
           "language": "ja",
           "set": "OP11",
           "rarity": "SR",
@@ -9443,6 +10347,8 @@
         },
         {
           "id": "OP11-095_p1~ja",
+          "uuid": "06af2050-36d7-5da4-b063-f96a2c7a2ba0",
+          "versionId": "95b1331b-7a86-5048-ad61-1ffbca487693",
           "language": "ja",
           "set": "OP11",
           "rarity": "SR",
@@ -9459,6 +10365,8 @@
     },
     {
       "number": "OP11-096",
+      "uuid": "f023781d-81bc-5edf-95ec-4212c41101d5",
+      "oracleId": "e25b5b75-dbd9-59b7-b526-772f266fc9b3",
       "name": "Ripper",
       "names": {
         "en": "Ripper",
@@ -9481,6 +10389,8 @@
       "printings": [
         {
           "id": "OP11-096",
+          "uuid": "6ff113d6-7fa1-5324-88b1-9700cfa9a8e3",
+          "versionId": "0ee9955c-8b9c-529d-926c-db0b495d59b8",
           "set": "OP11",
           "rarity": "UC",
           "block": "3",
@@ -9504,6 +10414,8 @@
         },
         {
           "id": "OP11-096~tcg634506",
+          "uuid": "1c9d0531-1f70-5d2f-9a91-0c6ee86ff908",
+          "versionId": "b3629a3e-5675-512d-b337-dd2782543b63",
           "set": "OP11-RE",
           "rarity": "UC",
           "image": "https://tcgplayer-cdn.tcgplayer.com/product/634506_in_400x400.jpg",
@@ -9532,6 +10444,8 @@
         },
         {
           "id": "OP11-096~ja",
+          "uuid": "8911c672-8961-5cc5-bb39-3e199d642f5d",
+          "versionId": "0ee9955c-8b9c-529d-926c-db0b495d59b8",
           "language": "ja",
           "set": "OP11",
           "rarity": "UC",
@@ -9546,6 +10460,8 @@
         },
         {
           "id": "OP11-096_p1~ja",
+          "uuid": "dd044446-06be-5b89-ba9d-84f1f4cdae2b",
+          "versionId": "dd231512-f470-5c0f-8ef8-635641ddb06a",
           "language": "ja",
           "set": "P",
           "rarity": "UC",
@@ -9558,6 +10474,8 @@
     },
     {
       "number": "OP11-097",
+      "uuid": "234b1156-dff9-5541-88f2-a2716add215a",
+      "oracleId": "e90f2ec2-1ffb-504c-b53f-4fa71d65a9e0",
       "name": "After All These Years I'm Losing My Edge!!!",
       "names": {
         "en": "After All These Years I'm Losing My Edge!!!",
@@ -9574,6 +10492,8 @@
       "printings": [
         {
           "id": "OP11-097",
+          "uuid": "bb660c29-9a24-5894-a8cc-a949da0b73f7",
+          "versionId": "1de6208d-4b18-5639-8c95-5114e5213e1b",
           "set": "OP11",
           "rarity": "UC",
           "block": "3",
@@ -9596,6 +10516,8 @@
         },
         {
           "id": "OP11-097~tcg634507",
+          "uuid": "7cd1b83f-fa91-58eb-ad39-3c4b97309545",
+          "versionId": "fe969511-eb73-5779-b2fd-55dbe0ed2255",
           "set": "OP11-RE",
           "rarity": "UC",
           "image": "https://tcgplayer-cdn.tcgplayer.com/product/634507_in_400x400.jpg",
@@ -9623,6 +10545,8 @@
         },
         {
           "id": "OP11-097~ja",
+          "uuid": "929754b2-a26a-5a58-8c83-df75b1821356",
+          "versionId": "1de6208d-4b18-5639-8c95-5114e5213e1b",
           "language": "ja",
           "set": "OP11",
           "rarity": "UC",
@@ -9639,6 +10563,8 @@
     },
     {
       "number": "OP11-098",
+      "uuid": "158878a7-ef41-513e-af1b-ec5deaad66f1",
+      "oracleId": "a8a50734-0076-5162-aca6-d0c8d693b44a",
       "name": "Blue Hole",
       "names": {
         "en": "Blue Hole",
@@ -9655,6 +10581,8 @@
       "printings": [
         {
           "id": "OP11-098",
+          "uuid": "edabfb75-c978-5c11-b731-7bc3e1654d99",
+          "versionId": "447780ee-1eac-55e4-b4a1-67a3b20b6c5f",
           "set": "OP11",
           "rarity": "C",
           "block": "3",
@@ -9677,6 +10605,8 @@
         },
         {
           "id": "OP11-098~tcg634508",
+          "uuid": "fd796c0b-dcf1-5015-a755-38628e92974a",
+          "versionId": "3108cd60-85fc-581a-8ce5-4ac503c56e3c",
           "set": "OP11-RE",
           "rarity": "C",
           "image": "https://tcgplayer-cdn.tcgplayer.com/product/634508_in_400x400.jpg",
@@ -9704,6 +10634,8 @@
         },
         {
           "id": "OP11-098~ja",
+          "uuid": "3b1842c0-f812-5642-a690-1787d2ed7ab8",
+          "versionId": "447780ee-1eac-55e4-b4a1-67a3b20b6c5f",
           "language": "ja",
           "set": "OP11",
           "rarity": "C",
@@ -9720,6 +10652,8 @@
     },
     {
       "number": "OP11-099",
+      "uuid": "c898b38c-e017-571d-98a1-4f97979d7093",
+      "oracleId": "04a70c31-8292-552b-8f75-20031f97ca12",
       "name": "I'm Gonna Be a Navy Officer!!!",
       "names": {
         "en": "I'm Gonna Be a Navy Officer!!!",
@@ -9737,6 +10671,8 @@
       "printings": [
         {
           "id": "OP11-099",
+          "uuid": "ca1e40ee-e124-5a62-bb3c-f3d58df8b014",
+          "versionId": "b620f4bd-ee44-55b9-85b5-bc92f0ca0468",
           "set": "OP11",
           "rarity": "R",
           "block": "3",
@@ -9759,6 +10695,8 @@
         },
         {
           "id": "OP11-099~ja",
+          "uuid": "a272ddbb-7517-5863-bc4a-29aba9998c9c",
+          "versionId": "b620f4bd-ee44-55b9-85b5-bc92f0ca0468",
           "language": "ja",
           "set": "OP11",
           "rarity": "R",
@@ -9775,6 +10713,8 @@
     },
     {
       "number": "OP11-100",
+      "uuid": "55528f51-f17c-5fa8-8d3f-abaed22e14b1",
+      "oracleId": "154283c3-76b4-50bc-a980-278edff2392a",
       "name": "Otohime",
       "names": {
         "en": "Otohime",
@@ -9796,6 +10736,8 @@
       "printings": [
         {
           "id": "OP11-100",
+          "uuid": "56320815-5975-55f0-95c0-072d781d79c5",
+          "versionId": "1a7f829c-9072-536c-af91-e1ebaf41c34c",
           "set": "OP11",
           "rarity": "C",
           "block": "3",
@@ -9819,6 +10761,8 @@
         },
         {
           "id": "OP11-100~tcg634509",
+          "uuid": "f0de3b7b-8580-5a0a-b782-78339f8cb0fb",
+          "versionId": "d8fa3955-21ac-5179-a734-68e1518aae47",
           "set": "OP11-RE",
           "rarity": "C",
           "image": "https://tcgplayer-cdn.tcgplayer.com/product/634509_in_400x400.jpg",
@@ -9847,6 +10791,8 @@
         },
         {
           "id": "OP11-100~ja",
+          "uuid": "e0dc9e9d-e9b1-5bde-a597-7c01656cb919",
+          "versionId": "1a7f829c-9072-536c-af91-e1ebaf41c34c",
           "language": "ja",
           "set": "OP11",
           "rarity": "C",
@@ -9863,6 +10809,8 @@
     },
     {
       "number": "OP11-101",
+      "uuid": "7d541fd0-443f-5eca-8a7b-11d65de27f5b",
+      "oracleId": "6f402268-2359-5f68-859d-da16ae6502f7",
       "name": "Capone\"Gang\"Bege",
       "names": {
         "en": "Capone\"Gang\"Bege",
@@ -9885,6 +10833,8 @@
       "printings": [
         {
           "id": "OP11-101",
+          "uuid": "2d5637f4-dedb-5b8d-a0f9-aaabce09314a",
+          "versionId": "bfa97e42-3ae6-57eb-b96a-070748a5f62a",
           "set": "OP11",
           "rarity": "SR",
           "block": "3",
@@ -9908,6 +10858,8 @@
         },
         {
           "id": "OP11-101_p1",
+          "uuid": "d6effd72-5ed4-58dd-beb2-ae5b14a2d9c7",
+          "versionId": "7f04f0ae-e3fc-5e9b-9b68-bb4af9f1d227",
           "set": "OP11",
           "rarity": "SR",
           "block": "3",
@@ -9934,6 +10886,8 @@
         },
         {
           "id": "OP11-101~ja",
+          "uuid": "43cbb8f1-3714-5c79-8dae-826f61d706b3",
+          "versionId": "bfa97e42-3ae6-57eb-b96a-070748a5f62a",
           "language": "ja",
           "set": "OP11",
           "rarity": "SR",
@@ -9948,6 +10902,8 @@
         },
         {
           "id": "OP11-101_p1~ja",
+          "uuid": "9aad572c-4c0a-5922-8462-7e07955000d6",
+          "versionId": "7f04f0ae-e3fc-5e9b-9b68-bb4af9f1d227",
           "language": "ja",
           "set": "OP11",
           "rarity": "SR",
@@ -9964,6 +10920,8 @@
     },
     {
       "number": "OP11-102",
+      "uuid": "b66afba3-9bf4-575a-b648-13c755f64325",
+      "oracleId": "fe4d7d0b-9640-5015-841f-fa7b5aea0f2f",
       "name": "Camie",
       "names": {
         "en": "Camie",
@@ -9986,6 +10944,8 @@
       "printings": [
         {
           "id": "OP11-102",
+          "uuid": "68d428d1-5708-5e24-8cd7-b6b85c75cc3e",
+          "versionId": "f95cbf47-82c8-56e7-ac7d-2975dd02a7e4",
           "set": "OP11",
           "rarity": "UC",
           "block": "3",
@@ -10009,6 +10969,8 @@
         },
         {
           "id": "OP11-102~tcg634510",
+          "uuid": "fe13988c-a1ff-5bdb-a3ee-2c64cf4dba28",
+          "versionId": "8d9745f7-7186-5c09-baeb-2881112c59b7",
           "set": "OP11-RE",
           "rarity": "UC",
           "image": "https://tcgplayer-cdn.tcgplayer.com/product/634510_in_400x400.jpg",
@@ -10037,6 +10999,8 @@
         },
         {
           "id": "OP11-102~ja",
+          "uuid": "9ad63f52-be6e-5b31-bff0-2662569b6e4e",
+          "versionId": "f95cbf47-82c8-56e7-ac7d-2975dd02a7e4",
           "language": "ja",
           "set": "OP11",
           "rarity": "UC",
@@ -10053,6 +11017,8 @@
     },
     {
       "number": "OP11-103",
+      "uuid": "cfb42a56-ea3d-5272-bdef-05318da5a3e2",
+      "oracleId": "720678d3-36ea-5714-8714-7efabc2c80da",
       "name": "Long-Jaw Neptunian",
       "names": {
         "en": "Long-Jaw Neptunian",
@@ -10073,6 +11039,8 @@
       "printings": [
         {
           "id": "OP11-103",
+          "uuid": "c0efd665-3a45-5c5c-afd5-117ee42b89c9",
+          "versionId": "76e87ab6-b9d1-56d8-8dc6-b274456e2dd4",
           "set": "OP11",
           "rarity": "C",
           "block": "3",
@@ -10096,6 +11064,8 @@
         },
         {
           "id": "OP11-103~tcg634511",
+          "uuid": "b422d938-a6a5-5c66-86c1-539402a49c8e",
+          "versionId": "966e2c1d-0e00-5992-bba1-741e4ca8ad25",
           "set": "OP11-RE",
           "rarity": "C",
           "image": "https://tcgplayer-cdn.tcgplayer.com/product/634511_in_400x400.jpg",
@@ -10124,6 +11094,8 @@
         },
         {
           "id": "OP11-103~ja",
+          "uuid": "8c7f2f43-8157-50aa-bda7-b4f66ac088ec",
+          "versionId": "76e87ab6-b9d1-56d8-8dc6-b274456e2dd4",
           "language": "ja",
           "set": "OP11",
           "rarity": "C",
@@ -10140,6 +11112,8 @@
     },
     {
       "number": "OP11-104",
+      "uuid": "581004cf-609a-516b-b6ff-44b0c55c91b3",
+      "oracleId": "2bb7c4c4-c34a-5fac-b209-6233fc85fc70",
       "name": "Shirley",
       "names": {
         "en": "Shirley",
@@ -10162,6 +11136,8 @@
       "printings": [
         {
           "id": "OP11-104",
+          "uuid": "b8bb505d-3cb3-5562-b533-d6d8148dde3d",
+          "versionId": "ec357a3c-5a7f-5ce3-92a3-e321e1caa79c",
           "set": "OP11",
           "rarity": "R",
           "block": "3",
@@ -10185,6 +11161,8 @@
         },
         {
           "id": "OP11-104~ja",
+          "uuid": "6d7f455b-0b49-5e18-820d-11b4b815c990",
+          "versionId": "ec357a3c-5a7f-5ce3-92a3-e321e1caa79c",
           "language": "ja",
           "set": "OP11",
           "rarity": "R",
@@ -10201,6 +11179,8 @@
     },
     {
       "number": "OP11-105",
+      "uuid": "de61573c-98d1-51d1-98f9-3ef414ac1536",
+      "oracleId": "3d55f8a4-1e59-507b-9f02-005ad2c6cbc6",
       "name": "Charlotte Chiffon",
       "names": {
         "en": "Charlotte Chiffon",
@@ -10223,6 +11203,8 @@
       "printings": [
         {
           "id": "OP11-105",
+          "uuid": "4016df19-39f1-542b-ad41-d7444cf1a0bc",
+          "versionId": "93c503b4-771e-5819-87f5-4e0eacc4e659",
           "set": "OP11",
           "rarity": "UC",
           "block": "3",
@@ -10246,6 +11228,8 @@
         },
         {
           "id": "OP11-105~tcg634512",
+          "uuid": "5de771cd-058a-5a17-9c9e-92d78b649a83",
+          "versionId": "82ba27c0-d273-5d4f-afbe-edfe86a1b12d",
           "set": "OP11-RE",
           "rarity": "UC",
           "image": "https://tcgplayer-cdn.tcgplayer.com/product/634512_in_400x400.jpg",
@@ -10274,6 +11258,8 @@
         },
         {
           "id": "OP11-105~ja",
+          "uuid": "a71cfa3e-dacd-5c97-8633-f97f2c6776c6",
+          "versionId": "93c503b4-771e-5819-87f5-4e0eacc4e659",
           "language": "ja",
           "set": "OP11",
           "rarity": "UC",
@@ -10290,6 +11276,8 @@
     },
     {
       "number": "OP11-106",
+      "uuid": "8a473e02-608f-5c59-b545-9f2ba5c2d702",
+      "oracleId": "63701150-eb89-5eff-a3fe-7e00ec2b42a0",
       "name": "Zeus",
       "names": {
         "en": "Zeus",
@@ -10312,6 +11300,8 @@
       "printings": [
         {
           "id": "OP11-106",
+          "uuid": "b3103028-1fad-57b5-b159-2a8a76d2bf58",
+          "versionId": "eca04f47-3981-5db6-9290-97672ede2609",
           "set": "OP11",
           "rarity": "R",
           "block": "3",
@@ -10335,6 +11325,8 @@
         },
         {
           "id": "OP11-106_p1",
+          "uuid": "a203f2d0-5ee6-5e2a-a3e6-f4394bcba23f",
+          "versionId": "1bb87b52-63f6-530d-9d52-de84cf93c443",
           "set": "OP11",
           "rarity": "R",
           "block": "3",
@@ -10361,6 +11353,8 @@
         },
         {
           "id": "OP11-106_p2",
+          "uuid": "eecc688c-7665-5303-9905-109a9d5ac1c5",
+          "versionId": "814e620d-d3b9-5abe-bd56-636970ed1023",
           "set": "OP15-EB04",
           "rarity": "SP CARD",
           "block": "3",
@@ -10387,6 +11381,8 @@
         },
         {
           "id": "OP11-106~tcg641163",
+          "uuid": "9b7e6766-5d36-51d7-9e88-3e8c249da8ab",
+          "versionId": "dc72bfbe-461f-5a92-b444-93be3510da4b",
           "set": "P",
           "rarity": "R",
           "image": "https://tcgplayer-cdn.tcgplayer.com/product/641163_in_400x400.jpg",
@@ -10417,6 +11413,8 @@
         },
         {
           "id": "OP11-106~ja",
+          "uuid": "668e53b4-53be-5ce4-bda0-159fd63536f1",
+          "versionId": "eca04f47-3981-5db6-9290-97672ede2609",
           "language": "ja",
           "set": "OP11",
           "rarity": "R",
@@ -10431,6 +11429,8 @@
         },
         {
           "id": "OP11-106_p1~ja",
+          "uuid": "71fe2c81-0ee4-5e68-9091-8c785e86c3f6",
+          "versionId": "1bb87b52-63f6-530d-9d52-de84cf93c443",
           "language": "ja",
           "set": "OP11",
           "rarity": "R",
@@ -10445,6 +11445,8 @@
         },
         {
           "id": "OP11-106_p2~ja",
+          "uuid": "2146449e-cd07-5060-805d-200ff9c8a4a9",
+          "versionId": "814e620d-d3b9-5abe-bd56-636970ed1023",
           "language": "ja",
           "set": "EB04",
           "rarity": "SP CARD",
@@ -10461,6 +11463,8 @@
     },
     {
       "number": "OP11-107",
+      "uuid": "8f8c2031-9d28-5e4d-aab6-48785b5bb58c",
+      "oracleId": "b5c31ea8-5074-5b64-9dd0-53e39959b0d2",
       "name": "Topknot Neptunian",
       "names": {
         "en": "Topknot Neptunian",
@@ -10482,6 +11486,8 @@
       "printings": [
         {
           "id": "OP11-107",
+          "uuid": "aef085c8-5f07-58e4-ae19-b6bc5a101f6a",
+          "versionId": "e4e401e7-c088-5e89-8790-f76460c81358",
           "set": "OP11",
           "rarity": "C",
           "block": "3",
@@ -10505,6 +11511,8 @@
         },
         {
           "id": "OP11-107~tcg634513",
+          "uuid": "e3d31f21-c272-566f-a701-0cab507afd9d",
+          "versionId": "a65bdc38-bdf0-507e-95bd-28fbd3d193ec",
           "set": "OP11-RE",
           "rarity": "C",
           "image": "https://tcgplayer-cdn.tcgplayer.com/product/634513_in_400x400.jpg",
@@ -10533,6 +11541,8 @@
         },
         {
           "id": "OP11-107~ja",
+          "uuid": "ca28ed85-9d38-5916-a6ac-c87851d1a026",
+          "versionId": "e4e401e7-c088-5e89-8790-f76460c81358",
           "language": "ja",
           "set": "OP11",
           "rarity": "C",
@@ -10547,6 +11557,8 @@
         },
         {
           "id": "OP11-107_p1~ja",
+          "uuid": "a18451ad-29a4-5cc8-9aae-91e1b2e22555",
+          "versionId": "dd5f1187-0eab-5b03-be20-321a6e6ef664",
           "language": "ja",
           "set": "P",
           "rarity": "C",
@@ -10559,6 +11571,8 @@
     },
     {
       "number": "OP11-108",
+      "uuid": "d086ea1d-96de-5ea9-9695-22fa4ab1bbea",
+      "oracleId": "7e8b83ce-211d-5743-9fa9-0e1c89d34f1e",
       "name": "Neptune",
       "names": {
         "en": "Neptune",
@@ -10580,6 +11594,8 @@
       "printings": [
         {
           "id": "OP11-108",
+          "uuid": "44ea4f7e-b50a-5c6c-8a7e-565846b5cb38",
+          "versionId": "ebecc861-723d-5bbd-9634-a3222cf84872",
           "set": "OP11",
           "rarity": "R",
           "block": "3",
@@ -10603,6 +11619,8 @@
         },
         {
           "id": "OP11-108~ja",
+          "uuid": "a4e8c24f-fb74-5c85-ac95-008c63b24e4c",
+          "versionId": "ebecc861-723d-5bbd-9634-a3222cf84872",
           "language": "ja",
           "set": "OP11",
           "rarity": "R",
@@ -10619,6 +11637,8 @@
     },
     {
       "number": "OP11-109",
+      "uuid": "ebd036ca-f974-52c4-bafa-019233327d8c",
+      "oracleId": "581e225a-7615-5721-8cee-932a7e4a87bc",
       "name": "Pappag",
       "names": {
         "en": "Pappag",
@@ -10640,6 +11660,8 @@
       "printings": [
         {
           "id": "OP11-109",
+          "uuid": "ad72a3e6-06ad-59c3-be31-cdeaba86b215",
+          "versionId": "01600320-90bc-5e41-9abe-d3597a80ce38",
           "set": "OP11",
           "rarity": "C",
           "block": "3",
@@ -10663,6 +11685,8 @@
         },
         {
           "id": "OP11-109~tcg634514",
+          "uuid": "58c9e88a-0f96-59a8-9349-e5e49eb81d0d",
+          "versionId": "110520f1-608c-5e44-90ab-cbaab2b0ff8d",
           "set": "OP11-RE",
           "rarity": "C",
           "image": "https://tcgplayer-cdn.tcgplayer.com/product/634514_in_400x400.jpg",
@@ -10691,6 +11715,8 @@
         },
         {
           "id": "OP11-109~ja",
+          "uuid": "ae111033-d8c2-5886-a92b-a166ae1847fa",
+          "versionId": "01600320-90bc-5e41-9abe-d3597a80ce38",
           "language": "ja",
           "set": "OP11",
           "rarity": "C",
@@ -10707,6 +11733,8 @@
     },
     {
       "number": "OP11-110",
+      "uuid": "240f0328-c5a4-5ce4-8535-6a98400a7de4",
+      "oracleId": "8843760a-a6a0-5f16-a4d9-0b8eb134ef91",
       "name": "Fukaboshi",
       "names": {
         "en": "Fukaboshi",
@@ -10728,6 +11756,8 @@
       "printings": [
         {
           "id": "OP11-110",
+          "uuid": "3fa3124f-364c-58df-8c3f-23041fac7563",
+          "versionId": "0a070018-3679-51a8-bf2d-612d22d01aca",
           "set": "OP11",
           "rarity": "C",
           "block": "3",
@@ -10751,6 +11781,8 @@
         },
         {
           "id": "OP11-110~tcg634515",
+          "uuid": "cc2b3c0d-deb3-56f6-a63e-11c70c15d206",
+          "versionId": "be590cd0-0475-511a-8a6f-0738bf40979d",
           "set": "OP11-RE",
           "rarity": "C",
           "image": "https://tcgplayer-cdn.tcgplayer.com/product/634515_in_400x400.jpg",
@@ -10779,6 +11811,8 @@
         },
         {
           "id": "OP11-110~ja",
+          "uuid": "12d8a399-5fa6-5ced-849a-614ad047a956",
+          "versionId": "0a070018-3679-51a8-bf2d-612d22d01aca",
           "language": "ja",
           "set": "OP11",
           "rarity": "C",
@@ -10795,6 +11829,8 @@
     },
     {
       "number": "OP11-111",
+      "uuid": "d44271d0-2bb9-508a-a221-6b93a05aeb6f",
+      "oracleId": "1fb638b2-e95b-58bf-9361-7ce78000d1be",
       "name": "Mamboshi",
       "names": {
         "en": "Mamboshi",
@@ -10817,6 +11853,8 @@
       "printings": [
         {
           "id": "OP11-111",
+          "uuid": "8a9b7678-ac8a-5f40-86e1-7a23f5190615",
+          "versionId": "0f35afd1-3bc6-5d2c-8a80-bf874e79989d",
           "set": "OP11",
           "rarity": "UC",
           "block": "3",
@@ -10840,6 +11878,8 @@
         },
         {
           "id": "OP11-111~tcg634516",
+          "uuid": "aec039c5-0b85-5450-808d-4d39305e5c80",
+          "versionId": "3cf314e3-6f64-5f80-870a-7b16469b994f",
           "set": "OP11-RE",
           "rarity": "UC",
           "image": "https://tcgplayer-cdn.tcgplayer.com/product/634516_in_400x400.jpg",
@@ -10868,6 +11908,8 @@
         },
         {
           "id": "OP11-111~ja",
+          "uuid": "148b7561-24f8-59bd-a402-7438fcf57ed5",
+          "versionId": "0f35afd1-3bc6-5d2c-8a80-bf874e79989d",
           "language": "ja",
           "set": "OP11",
           "rarity": "UC",
@@ -10884,6 +11926,8 @@
     },
     {
       "number": "OP11-112",
+      "uuid": "57d378a2-16c7-53c1-8fa1-64ee9bd2a3cb",
+      "oracleId": "48fd1fe6-60ec-5f4c-baa7-20ed4c27b226",
       "name": "Megalo",
       "names": {
         "en": "Megalo",
@@ -10906,6 +11950,8 @@
       "printings": [
         {
           "id": "OP11-112",
+          "uuid": "4e38ee5a-a6ef-5b64-8e22-498114755b45",
+          "versionId": "830a6aff-193f-53c5-90df-efe6a3c48cb5",
           "set": "OP11",
           "rarity": "UC",
           "block": "3",
@@ -10929,6 +11975,8 @@
         },
         {
           "id": "OP11-112~tcg634517",
+          "uuid": "8e814cc1-23cf-5a2e-9fac-caebf0f8ada3",
+          "versionId": "fb3efd0e-dabe-5ca3-9403-9aaed9dad897",
           "set": "OP11-RE",
           "rarity": "UC",
           "image": "https://tcgplayer-cdn.tcgplayer.com/product/634517_in_400x400.jpg",
@@ -10957,6 +12005,8 @@
         },
         {
           "id": "OP11-112~tcg668203",
+          "uuid": "176b59d9-2d61-598f-9c95-3994b7e23dc1",
+          "versionId": "61296b9d-4a83-5b53-80f5-899f5ae30511",
           "set": "P",
           "rarity": "UC",
           "image": "https://tcgplayer-cdn.tcgplayer.com/product/668203_in_400x400.jpg",
@@ -10983,6 +12033,8 @@
         },
         {
           "id": "OP11-112~ja",
+          "uuid": "afce0380-b01d-500b-8c8a-e8cd99738f38",
+          "versionId": "830a6aff-193f-53c5-90df-efe6a3c48cb5",
           "language": "ja",
           "set": "OP11",
           "rarity": "UC",
@@ -10999,6 +12051,8 @@
     },
     {
       "number": "OP11-113",
+      "uuid": "5426f85a-6608-517f-8a7e-bdc2b6514112",
+      "oracleId": "1d985805-7251-545a-8cfb-e7a637ade8aa",
       "name": "Ryuboshi",
       "names": {
         "en": "Ryuboshi",
@@ -11021,6 +12075,8 @@
       "printings": [
         {
           "id": "OP11-113",
+          "uuid": "38e8ef0e-0f69-5ad8-9297-5fee5fc0c65d",
+          "versionId": "cc542292-9aff-5826-8828-fbbd4288b039",
           "set": "OP11",
           "rarity": "C",
           "block": "3",
@@ -11044,6 +12100,8 @@
         },
         {
           "id": "OP11-113~tcg634519",
+          "uuid": "d0058e29-fa63-5662-8550-22eee8f4043e",
+          "versionId": "60abbdca-1b8f-5bfa-91a3-c613c960bad7",
           "set": "OP11-RE",
           "rarity": "C",
           "image": "https://tcgplayer-cdn.tcgplayer.com/product/634519_in_400x400.jpg",
@@ -11072,6 +12130,8 @@
         },
         {
           "id": "OP11-113~ja",
+          "uuid": "158d0641-7d32-5d7a-96c2-318966ae05a0",
+          "versionId": "cc542292-9aff-5826-8828-fbbd4288b039",
           "language": "ja",
           "set": "OP11",
           "rarity": "C",
@@ -11088,6 +12148,8 @@
     },
     {
       "number": "OP11-114",
+      "uuid": "6129569c-1aa1-5a23-a5d5-1eff266718e6",
+      "oracleId": "76dda5a8-64ca-5810-aaad-b40deaf5c094",
       "name": "Gum-Gum Fire-Fist Pistol Red Hawk",
       "names": {
         "en": "Gum-Gum Fire-Fist Pistol Red Hawk",
@@ -11104,6 +12166,8 @@
       "printings": [
         {
           "id": "OP11-114",
+          "uuid": "a6a134ee-d8d9-528d-8b4c-c8de25989bb1",
+          "versionId": "70257f84-ce2a-51a5-87de-25f9c7fd6f1c",
           "set": "OP11",
           "rarity": "R",
           "block": "3",
@@ -11126,6 +12190,8 @@
         },
         {
           "id": "OP11-114_p1",
+          "uuid": "d3460b66-5ef2-5cba-82df-b7041b1037a9",
+          "versionId": "fd366c4a-4dd3-58ee-8a83-a03a0b9e6ad9",
           "set": "OP11",
           "rarity": "R",
           "block": "3",
@@ -11151,6 +12217,8 @@
         },
         {
           "id": "OP11-114~tcg656702",
+          "uuid": "a3bc9f43-2074-570d-b44f-cfc253ae748f",
+          "versionId": "f94074df-d59c-5211-b362-62b5f3374dfa",
           "set": "LT01",
           "rarity": "R",
           "image": "https://tcgplayer-cdn.tcgplayer.com/product/656702_in_400x400.jpg",
@@ -11171,6 +12239,8 @@
         },
         {
           "id": "OP11-114~ja",
+          "uuid": "775aee29-68f8-5eeb-a6fd-275b9f2d5d83",
+          "versionId": "70257f84-ce2a-51a5-87de-25f9c7fd6f1c",
           "language": "ja",
           "set": "OP11",
           "rarity": "R",
@@ -11185,6 +12255,8 @@
         },
         {
           "id": "OP11-114_p1~ja",
+          "uuid": "126a0a3a-882b-50f8-9686-ab0f1ab0242a",
+          "versionId": "fd366c4a-4dd3-58ee-8a83-a03a0b9e6ad9",
           "language": "ja",
           "set": "OP11",
           "rarity": "R",
@@ -11201,6 +12273,8 @@
     },
     {
       "number": "OP11-115",
+      "uuid": "82cfb22c-4f2a-5857-88ae-1ebeba0642cb",
+      "oracleId": "f1dcfd1c-5371-5b56-ac22-ea55fb2e1dfd",
       "name": "You're Just Not My Type!",
       "names": {
         "en": "You're Just Not My Type!",
@@ -11218,6 +12292,8 @@
       "printings": [
         {
           "id": "OP11-115",
+          "uuid": "e800178a-40ec-529a-af4e-a14aa37955f8",
+          "versionId": "a87a727f-43d1-5467-bd57-dcc52272b4a1",
           "set": "OP11",
           "rarity": "UC",
           "block": "3",
@@ -11240,6 +12316,8 @@
         },
         {
           "id": "OP11-115~tcg634520",
+          "uuid": "b854d97e-d4bd-531b-9415-fc235ed89ad7",
+          "versionId": "cda57b60-1b1f-50c8-89dd-0592ccb2d7f2",
           "set": "OP11-RE",
           "rarity": "UC",
           "image": "https://tcgplayer-cdn.tcgplayer.com/product/634520_in_400x400.jpg",
@@ -11267,6 +12345,8 @@
         },
         {
           "id": "OP11-115~ja",
+          "uuid": "5180125b-d91a-55bc-84d2-3dfb57c30cb6",
+          "versionId": "a87a727f-43d1-5467-bd57-dcc52272b4a1",
           "language": "ja",
           "set": "OP11",
           "rarity": "UC",
@@ -11283,6 +12363,8 @@
     },
     {
       "number": "OP11-116",
+      "uuid": "fa0accd3-d1a8-59fd-9d52-df28dd83fb68",
+      "oracleId": "f07038db-4b88-5c10-a58e-ae9e721e9c00",
       "name": "Merman Combat Ultramarine",
       "names": {
         "en": "Merman Combat Ultramarine",
@@ -11300,6 +12382,8 @@
       "printings": [
         {
           "id": "OP11-116",
+          "uuid": "01bd3cb7-c882-5cdc-bac5-52c297e18dd7",
+          "versionId": "8deab9d6-d623-5476-a044-e673bbb9695b",
           "set": "OP11",
           "rarity": "C",
           "block": "3",
@@ -11322,6 +12406,8 @@
         },
         {
           "id": "OP11-116~tcg634521",
+          "uuid": "28327f22-bfd1-5b1b-bfdf-7c083fe23032",
+          "versionId": "b3a101d3-c17f-5fd7-803b-3a78aead854c",
           "set": "OP11-RE",
           "rarity": "C",
           "image": "https://tcgplayer-cdn.tcgplayer.com/product/634521_in_400x400.jpg",
@@ -11349,6 +12435,8 @@
         },
         {
           "id": "OP11-116~ja",
+          "uuid": "2d3013a5-2ba3-5dcd-ba25-8c58e2e91109",
+          "versionId": "8deab9d6-d623-5476-a044-e673bbb9695b",
           "language": "ja",
           "set": "OP11",
           "rarity": "C",
@@ -11365,6 +12453,8 @@
     },
     {
       "number": "OP11-117",
+      "uuid": "2a5f3873-9634-5baf-a34a-cc0cdfb83cdb",
+      "oracleId": "9435b668-92d6-5988-8239-18ea933b934e",
       "name": "Fish-Man Island",
       "names": {
         "en": "Fish-Man Island",
@@ -11381,6 +12471,8 @@
       "printings": [
         {
           "id": "OP11-117",
+          "uuid": "c9417cde-f694-5541-a1c8-26933e636d49",
+          "versionId": "4bcf498f-7ddd-5787-b5f0-9af3742775a2",
           "set": "OP11",
           "rarity": "C",
           "block": "3",
@@ -11403,6 +12495,8 @@
         },
         {
           "id": "OP11-117~tcg634522",
+          "uuid": "4d13666d-3fc4-5c6f-88b8-c5b8420fab0a",
+          "versionId": "9a17d2e4-6a37-5183-8cb3-610c223cf154",
           "set": "OP11-RE",
           "rarity": "C",
           "image": "https://tcgplayer-cdn.tcgplayer.com/product/634522_in_400x400.jpg",
@@ -11430,6 +12524,8 @@
         },
         {
           "id": "OP11-117~ja",
+          "uuid": "369bb070-f2f0-51f2-995d-206e6aa98a09",
+          "versionId": "4bcf498f-7ddd-5787-b5f0-9af3742775a2",
           "language": "ja",
           "set": "OP11",
           "rarity": "C",
@@ -11446,6 +12542,8 @@
     },
     {
       "number": "OP11-118",
+      "uuid": "531d5537-0fcc-536c-ac6d-935698324099",
+      "oracleId": "42759608-8f88-5d95-a696-a8359461e403",
       "name": "Monkey.D.Luffy",
       "names": {
         "en": "Monkey.D.Luffy",
@@ -11466,6 +12564,8 @@
       "printings": [
         {
           "id": "OP11-118",
+          "uuid": "ec17c193-317e-5dae-9227-2899ba78db23",
+          "versionId": "23fdbe6a-2d85-5fcc-975c-2a7242dbc385",
           "set": "OP11",
           "rarity": "SEC",
           "block": "3",
@@ -11489,6 +12589,8 @@
         },
         {
           "id": "OP11-118_p1",
+          "uuid": "167447ae-3793-5346-aaea-6e56b8bc921e",
+          "versionId": "87cf3a13-1b92-5b39-b209-1b4469f360e1",
           "set": "OP11",
           "rarity": "SEC",
           "block": "3",
@@ -11515,6 +12617,8 @@
         },
         {
           "id": "OP11-118_p2",
+          "uuid": "623d06b6-f26f-5f6b-9313-8944a7eb453e",
+          "versionId": "54fdf3d3-910a-55fb-8943-0cbbaa98e332",
           "set": "OP11",
           "rarity": "SEC",
           "block": "3",
@@ -11540,6 +12644,8 @@
         },
         {
           "id": "OP11-118~tcg656701",
+          "uuid": "85b1d397-a3a3-5037-9dda-0e08679a410b",
+          "versionId": "2f16ce8a-2878-5545-b5ff-84c20ca51074",
           "set": "LT01",
           "rarity": "SEC",
           "image": "https://tcgplayer-cdn.tcgplayer.com/product/656701_in_400x400.jpg",
@@ -11560,6 +12666,8 @@
         },
         {
           "id": "OP11-118~ja",
+          "uuid": "2ed38adf-69e6-5d80-ac19-f8892434cdeb",
+          "versionId": "23fdbe6a-2d85-5fcc-975c-2a7242dbc385",
           "language": "ja",
           "set": "OP11",
           "rarity": "SEC",
@@ -11574,6 +12682,8 @@
         },
         {
           "id": "OP11-118_p1~ja",
+          "uuid": "b6601909-1b69-56c0-b292-0359e24e6f9b",
+          "versionId": "87cf3a13-1b92-5b39-b209-1b4469f360e1",
           "language": "ja",
           "set": "OP11",
           "rarity": "SEC",
@@ -11588,6 +12698,8 @@
         },
         {
           "id": "OP11-118_p2~ja",
+          "uuid": "5de93595-8747-5352-908c-05a3a55ecaad",
+          "versionId": "54fdf3d3-910a-55fb-8943-0cbbaa98e332",
           "language": "ja",
           "set": "OP11",
           "rarity": "SEC",
@@ -11604,6 +12716,8 @@
     },
     {
       "number": "OP11-119",
+      "uuid": "6a72636b-451b-5ac4-b476-b664a172e583",
+      "oracleId": "2b98ff10-757c-5104-ab8e-d5573b5ecc49",
       "name": "Koby",
       "names": {
         "en": "Koby",
@@ -11625,6 +12739,8 @@
       "printings": [
         {
           "id": "OP11-119",
+          "uuid": "ac9e1845-6449-5ebd-ba17-8d0f15c5502b",
+          "versionId": "f87cd9c7-d9de-564d-b3bd-07247de4655f",
           "set": "OP11",
           "rarity": "SEC",
           "block": "3",
@@ -11648,6 +12764,8 @@
         },
         {
           "id": "OP11-119_p1",
+          "uuid": "77be482f-7e18-54bb-acc0-ae4d3c1423d0",
+          "versionId": "d47d2b22-f2e4-500e-ab70-ee0fdf8db7ea",
           "set": "OP11",
           "rarity": "SEC",
           "block": "3",
@@ -11674,6 +12792,8 @@
         },
         {
           "id": "OP11-119_p2",
+          "uuid": "18c3f82b-4b30-531f-9e9a-c8e234b7797f",
+          "versionId": "1e86d228-a9e2-5c22-9d01-a2a6ad3c17c5",
           "set": "P",
           "rarity": "SEC",
           "block": "3",
@@ -11703,6 +12823,8 @@
         },
         {
           "id": "OP11-119~ja",
+          "uuid": "18f5b18e-1d63-57d7-81c0-50aabc023fbe",
+          "versionId": "f87cd9c7-d9de-564d-b3bd-07247de4655f",
           "language": "ja",
           "set": "OP11",
           "rarity": "SEC",
@@ -11717,6 +12839,8 @@
         },
         {
           "id": "OP11-119_p1~ja",
+          "uuid": "95a3e600-0e27-524f-82a3-9d7efe4b92b8",
+          "versionId": "d47d2b22-f2e4-500e-ab70-ee0fdf8db7ea",
           "language": "ja",
           "set": "OP11",
           "rarity": "SEC",
@@ -11731,6 +12855,8 @@
         },
         {
           "id": "OP11-119_p2~ja",
+          "uuid": "a098505f-483f-58ca-9e8e-933b80376841",
+          "versionId": "1e86d228-a9e2-5c22-9d01-a2a6ad3c17c5",
           "language": "ja",
           "set": "P",
           "rarity": "SEC",

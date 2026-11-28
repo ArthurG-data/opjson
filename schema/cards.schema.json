@@ -50,6 +50,8 @@
         "image": {"type": "string", "format": "uri"},
         "source": {"enum": ["bandai", "tcgplayer"]},
         "artOf": {"type": "string", "description": "The Bandai printing whose art this printing carries (a stamped or promo copy). The two share one illustration."},
+        "twinOf": {"type": "string", "pattern": "^([A-Z]+[0-9]*-[0-9]{3}(_[pr][0-9]+)?|([A-Z]+[0-9]*-[0-9]{3}|DON)~tcg[0-9]+)$",
+                   "description": "On a Japanese printing, the English printing it is the same printing as. Bandai numbers each language's _pN and _rN on its own, so the ids alone do not say."},
         "artist": {"type": "string", "minLength": 1, "description": "The illustrator credited on the card. Neither source publishes it today; reserved for when one does."},
         "finishes": {"type": "array", "uniqueItems": true, "items": {"enum": ["nonfoil", "foil"]}},
         "treatments": {"type": "array", "uniqueItems": true, "items": {"enum": ["parallel", "alternate_art", "manga", "sp", "full_art", "wanted_poster", "reprint", "gold", "serial"]}},

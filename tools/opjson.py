@@ -186,6 +186,7 @@ def validate(sets: list[dict], files: dict[str, dict], sealed: dict[str, dict] |
             errors.append(f"printing {pid}: artOf must name a Bandai printing, not {art}")
         elif art in art_of:
             errors.append(f"printing {pid}: artOf {art} itself shares another printing's art; name {art_of[art]}")
+    errors += twin_errors(files)
 
     products = collections.Counter(p["id"] for body in sealed.values() for p in body["products"])
     printing_languages = {p["id"]: language(p) for body in files.values() for c in body["cards"] for p in c["printings"]}
@@ -226,6 +227,29 @@ def validate(sets: list[dict], files: dict[str, dict], sealed: dict[str, dict] |
             if p["contentsStatus"] == "complete" and any("count" not in i for k in ("sealed", "cards")
                                                        for i in contents.get(k, [])):
                 errors.append(f"{where}: complete contents need a count on every item")
+    return errors
+
+
+def twin_errors(files: dict[str, dict]) -> list[str]:
+    """A message for each twinOf that is not on a Japanese printing, does not name an English printing of the same
+    card, or names an English printing another Japanese printing already names."""
+    errors = []
+    claims: dict[str, list[str]] = collections.defaultdict(list)
+    for body in files.values():
+        for card in body["cards"]:
+            english = {p["id"] for p in card["printings"] if language(p) == "en"}
+            for p in card["printings"]:
+                if "twinOf" not in p:
+                    continue
+                if language(p) != "ja":
+                    errors.append(f"printing {p['id']}: only a Japanese printing has a twinOf")
+                elif p["twinOf"] not in english:
+                    errors.append(f"printing {p['id']}: twinOf {p['twinOf']} is not an English printing of "
+                                  f"{card['number']}")
+                else:
+                    claims[p["twinOf"]].append(p["id"])
+    errors += [f"printing {en}: {en} is the twin of {' and '.join(sorted(ja))}"
+               for en, ja in sorted(claims.items()) if len(ja) > 1]
     return errors
 
 

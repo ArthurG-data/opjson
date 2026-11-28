@@ -25,6 +25,7 @@ import crawl_bandai
 import import_bandai
 import infer_finishes
 import opjson
+import twins
 
 ROOT = Path(__file__).resolve().parents[1]
 REVIEW = ROOT / "review" / "japanese.json"
@@ -160,10 +161,12 @@ def _order(p: bandai.Printing) -> tuple:
 
 
 def merge(sets: list[dict], files: dict[str, dict], series: list[bandai.Series],
-          printings: list[bandai.Printing], dates: dict[str, str], corrections: dict[str, dict]) -> dict:
+          printings: list[bandai.Printing], dates: dict[str, str], corrections: dict[str, dict],
+          settled: dict[str, dict] | None = None, twin_corrections: dict[str, str | None] | None = None) -> dict:
     """Add the Japanese list to sets and files in place (after strip). Returns the review: numbers whose two
     lists give different attributes, Japanese types left untranslated, and Japanese printings given a finish by
-    rule. Raises when a number's Japanese and English cards disagree on another fact."""
+    rule. Raises when a number's Japanese and English cards disagree on another fact. Each Japanese printing's
+    twinOf comes from twins.twin_of, with the image matches in settled and the hand decisions in twin_corrections."""
     strip(sets, files)
     by_set = {s["id"]: s for s in sets}
     code_of = {s.series_id: set_code(s) for s in series}
@@ -230,8 +233,9 @@ def merge(sets: list[dict], files: dict[str, dict], series: list[bandai.Series],
             card["names"]["ja"] = base.name
         for p in group:
             twin = _twin(english.get(p.printing_id), code_of[p.series_id], p.rarity)
+            printing_id = p.printing_id + "~ja"
             printing = {
-                "id": p.printing_id + "~ja",
+                "id": printing_id,
                 "language": "ja",
                 "set": code_of[p.series_id],
                 "rarity": p.rarity,
@@ -239,6 +243,8 @@ def merge(sets: list[dict], files: dict[str, dict], series: list[bandai.Series],
                 "image": p.image,
                 "cardSet": p.card_set,
                 "source": "bandai",
+                "twinOf": twins.twin_of(printing_id, twin["id"] if twin else None, settled or {},
+                                        twin_corrections or {}),
                 "finishes": list(twin["finishes"]) if twin and twin.get("finishes") else None,
             }
             printing = {k: v for k, v in printing.items() if v is not None}
@@ -270,7 +276,7 @@ def main() -> None:
     corrections = {k: v for k, v in json.loads(CORRECTIONS.read_text(encoding="utf-8")).items()
                    if not k.startswith("_")}
     sets, files = opjson.load_sets(), opjson.load_cards()
-    review = merge(sets, files, series, printings, dates, corrections)
+    review = merge(sets, files, series, printings, dates, corrections, twins.load_settled(), twins.load_corrections())
     opjson.SETS.write_text(json.dumps(sets, indent=2, ensure_ascii=False) + "\n", encoding="utf-8")
     for stem, body in files.items():
         (opjson.CARDS / f"{stem}.json").write_text(json.dumps(body, indent=2, ensure_ascii=False) + "\n",

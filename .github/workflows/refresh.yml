@@ -1,0 +1,181 @@
+name: refresh
+
+# Every day, rebuild the data from Bandai's card lists, TCGCSV and Limitless, and when anything changed, open a pull
+# request with it from data/refresh, or update the one already open. A person reviews and merges it. This job never
+# merges. Merging releases the data as the next patch version (the publish job in ci.yml).
+#
+# A pull request or a push made with the workflow's own token starts no workflow, so the pull request would have no
+# validate check. This job runs the same checks before it opens or updates the pull request, then starts ci.yml on
+# the branch by hand, which that token may do.
+#
+# The repository must allow it: Settings > Actions > General > "Allow GitHub Actions to create and approve pull
+# requests".
+
+on:
+  schedule:
+    - cron: "23 4 * * *"
+  workflow_dispatch:
+    inputs:
+      weekly:
+        description: "Also fetch the slow sources again, as the Monday run does"
+        type: boolean
+        default: false
+
+permissions:
+  actions: write  # to start ci.yml on the branch
+  contents: write
+  pull-requests: write
+
+concurrency:
+  group: refresh
+  cancel-in-progress: false
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    # Enough for a run that downloads every image again, which takes about two hours.
+    timeout-minutes: 240
+    env:
+      BRANCH: data/refresh
+    steps:
+      # Actions are pinned to a commit, since this job can push: a moved tag cannot change what runs. The whole
+      # history, so origin/main is there for the check on the open pull request's branch.
+      - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
+        with:
+          ref: main
+          fetch-depth: 0
+          persist-credentials: false
+      - uses: astral-sh/setup-uv@1db35dd8eee11c5894872e0b383ae6c406cf738d # v10.4.0
+      - run: uv sync --locked --group dev
+
+      # A host that refuses the runner looks like a run of missing scans. One file known to exist on each host tells
+      # the two apart, so a refusal fails the run here, before anything is rebuilt.
+      - name: Check that the hosts answer the runner
+        run: uv run python tools/probe.py
+
+      # The images and the Bandai and Limitless pages are kept between runs, so a day fetches only what is new. Each
+      # save is a new entry, and the prefix restores the latest one. Only this job writes them, and ci.yml never
+      # restores them. .cache/tcgcsv is not kept, so every run reads a new TCGCSV snapshot.
+      - uses: actions/cache/restore@55cc8345863c7cc4c66a329aec7e433d2d1c52a9 # v6.1.0
+        id: images
+        with:
+          path: .cache/images
+          key: images-${{ github.run_id }}
+          restore-keys: images-
+      - uses: actions/cache/restore@55cc8345863c7cc4c66a329aec7e433d2d1c52a9 # v6.1.0
+        id: pages
+        with:
+          path: |
+            .cache/bandai
+            .cache/bandai_products
+            .cache/limitless
+          key: pages-${{ github.run_id }}
+          restore-keys: pages-
+      # Every file the rebuild writes is newer than this stamp. The restored files keep their old times.
+      - run: mkdir -p .cache/images && touch "$RUNNER_TEMP/stamp"
+
+      # Fails when a tool stops on something only a person can settle: a UUID conflict, a page a fetcher refused to
+      # cache, a run of misses at an image host. The failed run is the notice.
+      - name: Rebuild the data from every source
+        env:
+          WEEKLY: ${{ inputs.weekly }}
+        run: |
+          set -o pipefail  # without it, tee's success would hide a failed refresh
+          # A scheduled run has no inputs, so Monday's run goes by the date.
+          args=()
+          if [ "$(date -u +%u)" = 1 ] || [ "$WEEKLY" = true ]; then
+            args+=(--weekly)
+          fi
+          uv run python tools/refresh.py "${args[@]}" 2>&1 | tee refresh.log
+
+      # No --allow-loss: a loss fails the run.
+      - name: Check the rebuilt data
+        run: |
+          set -o pipefail
+          uv run python tools/validate.py --since HEAD
+          uv run python tools/check_losses.py --base HEAD | tee losses.txt
+          uv run pytest -q
+
+      # The saves run even when a step above failed, so a failed run keeps what it downloaded. The images cache is
+      # saved only when the run downloaded an image, so a normal day uploads nothing. Three tools rewrite
+      # hashes.json on every run, and fetch records a miss as an empty file that the next refresh deletes and asks
+      # for again, so neither counts.
+      - id: changed
+        if: always()
+        run: |
+          if [ -f "$RUNNER_TEMP/stamp" ] \
+             && [ -n "$(find .cache/images -newer "$RUNNER_TEMP/stamp" -type f -size +0 ! -name hashes.json -print -quit)" ]; then
+            echo "images=true" >> "$GITHUB_OUTPUT"
+          fi
+      - if: always() && steps.changed.outputs.images == 'true'
+        uses: actions/cache/save@55cc8345863c7cc4c66a329aec7e433d2d1c52a9 # v6.1.0
+        with:
+          path: .cache/images
+          key: images-${{ github.run_id }}
+      - if: always()
+        uses: actions/cache/save@55cc8345863c7cc4c66a329aec7e433d2d1c52a9 # v6.1.0
+        with:
+          path: |
+            .cache/bandai
+            .cache/bandai_products
+            .cache/limitless
+          key: pages-${{ github.run_id }}
+
+      # The token reaches only this step, the one that pushes and calls gh, not the importers or the tests.
+      - name: Open or update the pull request
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          paths=(sets data review mappings README.md)
+          if git diff --quiet -- "${paths[@]}" && [ -z "$(git ls-files --others --exclude-standard -- "${paths[@]}")" ]; then
+            echo "The sources hold nothing new."
+            exit 0
+          fi
+          bot="41898282+github-actions[bot]@users.noreply.github.com"
+          state=$(gh pr view "$BRANCH" --json state --jq .state 2>/dev/null || true)
+          # A commit by anyone else on the open pull request's branch is a person's work, which a force-push would
+          # throw away.
+          if [ "$state" = OPEN ]; then
+            git fetch origin "$BRANCH"
+            if git log --format=%ae origin/main..FETCH_HEAD | grep -qvxF "$bot"; then
+              echo "data/refresh holds a commit by hand: left as it is"
+              exit 0
+            fi
+          fi
+
+          git config user.name "github-actions[bot]"
+          git config user.email "$bot"
+          git switch -C "$BRANCH"
+          git add -- "${paths[@]}"
+          git commit -q -m "Refresh the data from Bandai, TCGCSV and Limitless"
+          git push --force "https://x-access-token:${GH_TOKEN}@github.com/${GITHUB_REPOSITORY}.git" "HEAD:refs/heads/$BRANCH"
+
+          {
+            echo "The daily refresh found changes in the sources. Read the \`review/\` diffs for anything to settle by hand."
+            echo
+            echo '```'
+            git diff --stat HEAD~1 HEAD
+            echo '```'
+            echo
+            echo '```'
+            cat losses.txt
+            echo '```'
+            echo
+            echo "<details><summary>Refresh log</summary>"
+            echo
+            echo '```'
+            cat refresh.log
+            echo '```'
+            echo "</details>"
+            echo
+            echo "Checked in the refresh run: the validator (with the UUID history against main), the losses against main and the tests."
+            echo
+            echo "Merging releases the data as the next patch version."
+          } > body.md
+
+          if [ "$state" = OPEN ]; then
+            gh pr edit "$BRANCH" --body-file body.md
+          else
+            gh pr create --base main --head "$BRANCH" --title "Refresh the data ($(date -u +%F))" --body-file body.md
+          fi
+          gh workflow run ci.yml --ref "$BRANCH"

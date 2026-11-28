@@ -471,6 +471,29 @@ CI runs those checks on every pull request and push to `main`, and on a pull req
 against the branch it targets; "[allow-loss]" in the pull request's title skips it. A `v*` tag also runs the image check
 (`--online --images`), then builds the release files with the tag's version and attaches them to a GitHub release.
 
+`.github/workflows/refresh.yml` keeps the data current. Every day at 04:23 UTC it runs `tools/probe.py`, which
+fetches one file known to exist from each image host and from Limitless. A host that refuses the runner would
+otherwise look like a run of missing scans, so the probe fails the run before anything is rebuilt. The job then runs
+`tools/refresh.py` and checks the result with `validate.py --since`, `check_losses.py` and the tests. The Monday run
+passes `--weekly`, and a run started by hand can ask for it. When anything changed under `sets/`, `data/`, `review/`,
+`mappings/` or this README, the job opens a pull request from the branch `data/refresh`, or updates the one already
+open, and starts CI on it. The job never merges. A person reads the `review/` diffs and merges it. If someone has
+committed to `data/refresh` by hand, the job leaves the branch and its pull request as they are. The images and the
+Bandai and Limitless pages are kept in the Actions cache between runs. The first run downloads every image, which
+takes about two hours.
+
+A refresh run that fails is the notice that something needs a person: a host that refuses the runner, a UUID
+conflict, a loss, or a page a fetcher refused to cache. The run's log says which.
+
+- **A merge into `main` that changes `sets/`, `data/` or `legality/`** is released as the next patch version
+  (`tools/next_version.sh`) by CI's `publish` job, through `tools/release.sh`. Merging the refresh pull request
+  releases its data.
+- **A minor version** is a tag pushed by hand (`git tag -a v0.5.0`, then `git push origin v0.5.0`). CI builds it and
+  attaches the files.
+
+The refresh needs one repository setting: Settings > Actions > General > "Allow GitHub Actions to create and approve
+pull requests".
+
 ## Adding a product or fixing a card
 
 - **A sealed product TCGplayer does not sell.** Add it to `products` in `mappings/sealed_curated.json`, with the

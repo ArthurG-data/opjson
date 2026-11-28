@@ -258,12 +258,22 @@ def twin_errors(files: dict[str, dict]) -> list[str]:
 
 def flatten(sets: list[dict], files: dict[str, dict], sealed: dict[str, dict] | None = None) -> dict[str, dict]:
     """{"sets": {id: set}, "cards": {number: card without printings}, "printings": {id: printing + card},
-    "products": {id: sealed product}}."""
-    out = {"sets": {s["id"]: s for s in sets}, "cards": {}, "printings": {},
-           "products": {p["id"]: p for body in (sealed or {}).values() for p in body["products"]}}
+    "products": {id: sealed product}}. Once stamped (tools/uuids.py), a printing also carries its card's UUID and
+    oracleId, as Scryfall gives every card object its oracle_id, and a product's card items their printing's UUID.
+    The inputs are not changed."""
+    out = {"sets": {s["id"]: s for s in sets}, "cards": {}, "printings": {}, "products": {}}
     for body in files.values():
         for card in body["cards"]:
             out["cards"][card["number"]] = {k: v for k, v in card.items() if k != "printings"}
+            ids = {k: card[f] for k, f in (("cardUuid", "uuid"), ("oracleId", "oracleId")) if f in card}
             for p in card["printings"]:
-                out["printings"][p["id"]] = {"card": card["number"], **p}
+                out["printings"][p["id"]] = {"card": card["number"], **ids, **p}
+    uuid_of = {pid: p["uuid"] for pid, p in out["printings"].items() if "uuid" in p}
+    for body in (sealed or {}).values():
+        for p in body["products"]:
+            contents = dict(p["contents"])
+            if "cards" in contents:
+                contents["cards"] = [{**item, "printingUuid": uuid_of[item["printing"]]}
+                                     if item["printing"] in uuid_of else item for item in contents["cards"]]
+            out["products"][p["id"]] = {**p, "contents": contents}
     return out

@@ -13,25 +13,27 @@ Japanese list.
 
 ## Using the data
 
-Each tagged release attaches five files to a GitHub release:
+Each tagged release attaches six files to a GitHub release:
 
 ```
 https://github.com/ArthurG-data/opjson/releases/latest/download/AllSets.json
 https://github.com/ArthurG-data/opjson/releases/latest/download/AllCards.json
 https://github.com/ArthurG-data/opjson/releases/latest/download/AllPrintings.json
 https://github.com/ArthurG-data/opjson/releases/latest/download/AllProducts.json
+https://github.com/ArthurG-data/opjson/releases/latest/download/AllUuids.json
 https://github.com/ArthurG-data/opjson/releases/latest/download/Legality.json
 ```
 
-Every file is `{"meta": {"version": "0.4.0", "date": "2026-11-16"}, "data": {...}}`. All five come from one
+Every file is `{"meta": {"version": "0.4.0", "date": "2026-11-16"}, "data": {...}}`. All six come from one
 build, so a reader that downloads them separately can check that the versions agree.
 
 | File | Keyed by | Holds |
 |---|---|---|
 | `AllSets.json` | set id (`OP01`, `OP02-PRE`) | type, Bandai series id, block, TCGplayer group ids, and per release (`en`, `ja`) the name, date, logo and key art |
-| `AllCards.json` | card number (`OP03-055`) | the facts every printing of the card shares, and its name in each language |
-| `AllPrintings.json` | printing id (`OP03-055_p2`, `OP03-055_p2~ja`) | language, set, rarity, block, finishes, treatments, promo types, image link, artist, TCGplayer product ids |
-| `AllProducts.json` | product id (`romance-dawn-booster-box-wave-1-blue`) | category, set, TCGplayer product id, release date, contents and the sources that state them |
+| `AllCards.json` | card number (`OP03-055`) | the card's UUID and `oracleId`, the facts every printing of the card shares, and its name in each language |
+| `AllPrintings.json` | printing id (`OP03-055_p2`, `OP03-055_p2~ja`) | the printing's UUID, `versionId`, its card's UUID and `oracleId`, language, set, rarity, block, finishes, treatments, promo types, image link, artist, TCGplayer product ids, and for a Japanese printing its English twin |
+| `AllProducts.json` | product id (`romance-dawn-booster-box-wave-1-blue`) | the product's UUID, category, set, TCGplayer product id, release date, contents (each card with its printing's UUID) and the sources that state them |
+| `AllUuids.json` | kind, then `keys` and `bridges` | every UUID opjson has given, by the identity key it belongs to, and the other keys that lead to it (see [UUIDs](#uuids)). A reader that stored an id opjson no longer uses finds the record's UUID here |
 | `Legality.json` | `formats`, `bans`, `blockDesignations` | the formats and their block windows, every ban and restriction, Bandai's per-card block exceptions |
 
 Both languages are in the same files. A reader that wants one language filters printings on `language` (absent
@@ -86,22 +88,24 @@ The formats are `schema/sets.schema.json`, `schema/cards.schema.json` and `schem
 ```json
 {
   "number": "OP03-055",
+  "uuid": "…",
+  "oracleId": "…",
   "name": "Gum-Gum Giant Gavel",
   "category": "Event",
   "cost": 1,
   "colors": ["Blue"],
   "types": ["East Blue", "Straw Hat Crew"],
   "printings": [
-    {"id": "OP03-055", "set": "OP03", "rarity": "C", "block": "1", "source": "bandai",
+    {"id": "OP03-055", "uuid": "…", "versionId": "…", "set": "OP03", "rarity": "C", "block": "1", "source": "bandai",
      "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP03-055.png",
      "cardSet": "-PILLARS OF STRENGTH- [OP03]", "finishes": ["nonfoil"],
      "identifiers": {"tcgplayerProductIds": [499985]},
      "tcgplayer": {"name": "Gum-Gum Giant Gavel", "match": "image-only-candidate", "distance": 3}},
-    {"id": "OP03-055_p3", "set": "PRB01", "rarity": "C", "block": "1", "source": "bandai",
+    {"id": "OP03-055_p3", "uuid": "…", "versionId": "…", "set": "PRB01", "rarity": "C", "block": "1", "source": "bandai",
      "finishes": ["foil"], "promoTypes": [{"type": "textured", "category": "foil-pattern"}],
      "identifiers": {"tcgplayerProductIds": [593886]}, "artist": "Studio Vigor Co. Ltd",
      "tcgplayer": {"name": "Gum-Gum Giant Gavel (Textured Foil)", "match": "image+order", "distance": 4}},
-    {"id": "OP03-055~tcg501666", "set": "OP03-PRE", "rarity": "C", "source": "tcgplayer", "artOf": "OP03-055",
+    {"id": "OP03-055~tcg501666", "uuid": "…", "versionId": "…", "set": "OP03-PRE", "rarity": "C", "source": "tcgplayer", "artOf": "OP03-055",
      "finishes": ["nonfoil"], "promoTypes": [{"type": "prerelease", "category": "event"}],
      "identifiers": {"tcgplayerProductIds": [501666]}}
   ]
@@ -123,6 +127,11 @@ The formats are `schema/sets.schema.json`, `schema/cards.schema.json` and `schem
   printing with the block the Japanese list gives, and finishes only by the rule in `tools/infer_finishes.py`. TCGplayer does not sell Japanese cards, so a Japanese
   printing has no TCGplayer product id. A card only Japan has gives its types in English where the cards both
   lists have show the English word, and in Japanese otherwise (`review/japanese.json` lists them).
+- **`uuid`** is the key a catalogue should store: a printing's never changes and never goes to another printing
+  (see [UUIDs](#uuids)). Each language's printing has its own, as each language's card has its own `id` on Scryfall.
+- **`twinOf`**, on a Japanese printing, names the English printing it is the same printing as. Bandai numbers
+  each language on its own, so the shared id does not say. `versionId` is the same on a printing and its twin, so a
+  reader finds the Japanese version of an English printing by it. See [Twins](#twins).
 - **`artOf`** names the printing whose art a printing carries, when the images agree. A stamped pre-release copy
   points at its base printing, and a reprint that reuses an earlier printing's art points at that printing.
 - **`treatments`** are the art treatment: parallel, alternate_art, manga, sp, full_art, wanted_poster, reprint,
@@ -182,6 +191,61 @@ DON!! cards are one card, `DON`, with one printing per art.
   and judge packs, is a product of its own. TCGplayer does not sell the kits, so they come from
   `mappings/sealed_curated.json`, each citing Bandai's event page. A kit that hands out a promotion card set names
   it too.
+
+## UUIDs
+
+`tools/uuids.py` gives every set, card, printing and sealed product a `uuid`, every card an `oracleId` and every
+printing a `versionId`, and `data/uuids.json` records them. A UUID is given once, never changes and never goes to
+another record. The namespace is `uuid5(NAMESPACE_URL, "https://github.com/ArthurG-data/opjson")`, and a record
+seen for the first time gets `uuid5(NAMESPACE, "<kind>:<record id>")`, so a rebuild from nothing gives the same
+UUIDs. rbjson and pkmjson do the same.
+
+A UUID belongs to what a record is, its identity key, and a record whose key changes takes the UUID of the one it
+replaces through its other keys:
+
+| Kind | Identity key | Other keys |
+|---|---|---|
+| set | `id:<set id>` | its TCGplayer groups, its Bandai series |
+| printing from Bandai | `bandai:<language>:<Bandai id>` (`bandai:ja:OP01-001_p1`) | its id, its TCGplayer products |
+| printing from TCGplayer | `tcgplayer:<product id>` | its id |
+| version | `en:<English printing id>`, or `ja:<Japanese printing id>` for a Japanese printing with no twin | its printings' UUIDs |
+| card | `id:<number>` | its printings' UUIDs |
+| oracle | `number:<number>` | its card's UUID |
+| sealed product | `tcgplayer:<lowest product id>`, else `id:<product id>` | its id, its TCGplayer products |
+
+So a printing TCGplayer sold before Bandai listed it (`OP01-001~tcg602789`) keeps its UUID when Bandai lists it and
+the TCGplayer product moves onto the Bandai printing. Two printings that swap products, as PRB-01's Jolly Roger and
+Textured Foils did, each keep their own. A record that leaves keeps its key, so it gets its UUID back if it returns.
+Two live records whose keys hold one UUID stop the tool, for a person to settle.
+
+An oracle is one card for the game's rules, as Scryfall's `oracle_id`, and in One Piece that is the card number. A
+reprint keeps its number (`OP01-120_r1`), and "a deck can contain no more than 4 cards with the same card number"
+(Comprehensive Rules 1.2.1, 5-1-2-3), so two numbers are two cards even with the same text (`OP01-016` and
+`EB02-017`). `oracleId` is therefore one per card. It is a kind of its own so a card Bandai renumbers can keep it.
+
+`tools/uuids.py` runs once, after every import tool. An import tool run alone can rebuild records without their
+UUIDs, and `validate.py` then says to run it. Running it in the middle of the chain would give a printing Bandai
+just listed a new UUID before `import_tcgplayer.py` moves a minted printing's product onto it. `validate.py --since
+<ref>` refuses a registry that dropped or changed a UUID the registry at `<ref>` gave. CI runs it against the branch
+a pull request targets, and against where a pushed branch was.
+
+### Twins
+
+A Japanese printing's `twinOf` comes from, in this order:
+
+1. `mappings/twin_corrections.json`, kept by hand. A `null` says the printing has no English twin.
+2. Bandai's ids: the English printing with the same Bandai id, set and rarity (4,450 printings).
+3. `data/twins.json`, written by `tools/link_twins.py` from the card images: an English Bandai printing of the same
+   card, set and rarity whose image hash is within 20 bits, with no other within 40 (96 printings).
+
+An image shows that two printings share art, not that they are one printing, and a Japanese card can share its art
+with several English printings (a reprint, PRB-01's two foils). So nothing is matched in `P` or `OTHER`, which hold
+unrelated promotions (a Flagship Battle prize and a Treasure Cup promo can share art), and anything less clear goes
+to `review/twins.json`. The thresholds come from `link_twins.py --calibrate`: on 297 twins from Bandai's ids, half
+are within 5 bits, and different art is about 120 bits apart. It also found twins from Bandai's ids whose images
+are far apart, and some of them are a few bits from another English printing (`OP05-081_p2~ja` is 77 bits from
+`OP05-081_p2` and 6 from `OP05-081_p3`). `review/twins.json` lists them as suspects. They stay as they are until a
+correction settles them, and their block and finishes, which come from the twin, may be wrong too.
 
 ## Where the data comes from
 
@@ -332,6 +396,7 @@ Each printing's `tcgplayer.match` names the evidence that settled it:
 | `review/logos.json`, `review/key_art.json` | logos and visuals that name no set, or several |
 | `review/artists.json` | printings whose artist credit, read from the card edge, gave readings that disagree |
 | `review/japanese.json` | cards whose two lists give different attributes, Japanese types with no English word yet, and Japanese printings given a finish by rule |
+| `review/twins.json` | Japanese printings whose English twin the images could not settle (`close`, `ambiguous`, `contested`, `catchAll`, `noImage`), and twins from Bandai's ids whose images are far apart (`suspect`) |
 
 `uv run python tools/coverage_report.py` reports where every TCGplayer product in category 68 ended up: on a Bandai
 printing, on a minted printing, on a sealed product, in review, or in a set Bandai has not published yet.
@@ -354,10 +419,13 @@ uv run --group dev python tools/import_key_art.py    # set key art (after import
 uv run python tools/import_limitless.py              # illustrators, and a check of the TCGplayer ids
 uv run python tools/crawl_bandai.py --language ja    # cache the Japanese card list (one page every 2 s)
 uv run python tools/import_bandai_ja.py              # Japanese releases, names and printings (after every English tool)
-uv run python tools/validate.py [--online [--images]]
+uv run --group dev python tools/images.py fetch      # again, for the Japanese printings with no twin yet
+uv run --group dev python tools/link_twins.py        # each Japanese printing's English twin, by image (twinOf)
+uv run python tools/uuids.py                         # every UUID, last: after the whole chain (see UUIDs)
+uv run python tools/validate.py [--since main] [--online [--images]]
 uv run python tools/check_losses.py                  # nothing lost against the last commit (see below)
 uv run python tools/legality.py [--online]           # ban list replayed and checked against Bandai's
-uv run python tools/build.py --version 0.4.0         # dist/AllSets, AllCards, AllPrintings, AllProducts, Legality
+uv run python tools/build.py --version 0.4.0         # dist/AllSets, AllCards, AllPrintings, AllProducts, AllUuids, Legality
 ```
 
 The pages and images the tools download are cached under `.cache/`, which is never committed. A rebuild reads the
@@ -368,7 +436,8 @@ snapshot's finishes to it and never removes one.
 `validate.py` checks every file against its schema, every id and reference, and that no TCGplayer product sits
 on two printings. It also checks the languages: a `~ja` id has `language` `ja` and only it does, a printing's set
 has a release in the printing's language, a card has a name in each language it has printings in, and a Japanese
-printing has no TCGplayer product. `--online` also asks TCGCSV whether every TCGplayer product id, on a printing
+printing has no TCGplayer product. It checks each `twinOf` names an English printing of the same card that no other
+Japanese printing names, and that every record carries the UUID `data/uuids.json` gives it. `--online` also asks TCGCSV whether every TCGplayer product id, on a printing
 or a sealed product, still exists in category 68. `--images` adds a HEAD request for every Bandai printing's
 image, English and Japanese, about 10,000 of them, sent six at a time. A 5xx or a dropped connection is tried
 three times before it counts as a failure.

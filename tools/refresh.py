@@ -4,10 +4,11 @@
 
 The tools share data/ and .cache/, so the order matters: the English tools come first, the Japanese ones after every
 English tool, and uuids last. A daily run crawls Bandai's card lists again (--refresh) and reads everything else from
-.cache/. --weekly adds the slow sources: the set logos, the key art and the Japanese product pages are fetched again,
-and the cached Limitless pages are dropped so they are fetched again too. --cached reads the cached Bandai card lists
-instead of crawling. --fresh-tcgcsv moves the cached TCGcsv snapshot aside as tcgcsv.<date>, so the next
-import_tcgplayer fetches a new one.
+.cache/. --weekly adds the slow sources: the English and Japanese product pages are fetched again, and the cached
+Limitless pages are dropped so they are fetched again too. import_key_art gets no --refresh. It reads the English
+product pages import_logos has just fetched again into the same cache, and a second fetch would only double the
+requests to Bandai. --cached reads the cached Bandai card lists instead of crawling. --fresh-tcgcsv moves the cached
+TCGcsv snapshot aside as tcgcsv.<date>, so the next import_tcgplayer fetches a new one.
 
 Before the first tool runs, every zero-byte image in the cache is deleted: fetch writes one for an image the source did
 not have, and a refresh asks for it again. The ends of the chain (validate, check_losses, legality, build) are not run
@@ -42,7 +43,7 @@ def commands(weekly: bool, cached: bool) -> list[list[str]]:
         ("infer_finishes", []),
         ("import_logos", weekly_refresh),
         ("import_sealed", []),
-        ("import_key_art", weekly_refresh),
+        ("import_key_art", []),
         ("import_limitless", []),
         ("crawl_bandai", ["--language", "ja", *refresh]),
         ("import_bandai_ja", ["--refresh-products"] if weekly else []),

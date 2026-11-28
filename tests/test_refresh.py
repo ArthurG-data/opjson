@@ -19,10 +19,11 @@ def test_a_daily_run_crawls_again_and_refreshes_nothing_weekly():
     assert ("import_logos", []) in got and ("import_bandai_ja", []) in got
 
 
-def test_a_weekly_run_refreshes_logos_key_art_and_japanese_product_pages():
+def test_a_weekly_run_refreshes_the_english_and_japanese_product_pages_once():
     got = dict((s, a) for s, a in stems(refresh.commands(weekly=True, cached=False)) if s != "crawl_bandai")
-    assert got["import_logos"] == ["--refresh"] and got["import_key_art"] == ["--refresh"]
-    assert got["import_bandai_ja"] == ["--refresh-products"]
+    assert got["import_logos"] == ["--refresh"] and got["import_bandai_ja"] == ["--refresh-products"]
+    # import_logos has just fetched the pages import_key_art reads, into the same cache.
+    assert got["import_key_art"] == []
 
 
 def test_a_cached_run_reads_the_cached_series_pages():

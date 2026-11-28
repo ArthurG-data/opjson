@@ -97,7 +97,8 @@ def release_dates(series: list[bandai.Series], printings: list[bandai.Printing],
     """{series id: release date}, from each series' product page (cached in .cache/bandai/ja)."""
     out = {}
     for series_id, url in product_pages(series, printings).items():
-        date = bandai.parse_release_date(bandai.fetch(url, crawl_bandai.cache("ja"), refresh))
+        date = bandai.parse_release_date(bandai.fetch(url, crawl_bandai.cache("ja"), refresh,
+                                                      expect=bandai.PRODUCT_MARKER_JA))
         if date:
             out[series_id] = date
     return out

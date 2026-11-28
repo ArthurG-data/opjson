@@ -32,6 +32,7 @@ class Product:
     url: str
     extended: dict
     released_on: str | None = None  # TCGplayer's own release date for the product (presaleInfo), when it gives one
+    image_count: int | None = None  # TCGplayer's count of images for the product, 0 before it has a scan
 
     @property
     def number(self) -> str | None:
@@ -84,7 +85,8 @@ def products(group_id: int, cache: Path, refresh: bool = False) -> list[Product]
     return [Product(product_id=r["productId"], group_id=r["groupId"], name=r["name"],
                     clean_name=r.get("cleanName") or "", image_url=r.get("imageUrl") or "", url=r.get("url") or "",
                     extended={e["name"]: e["value"] for e in r.get("extendedData") or []},
-                    released_on=((r.get("presaleInfo") or {}).get("releasedOn") or "")[:10] or None)
+                    released_on=((r.get("presaleInfo") or {}).get("releasedOn") or "")[:10] or None,
+                    image_count=r.get("imageCount"))
             for r in rows]
 
 

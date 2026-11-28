@@ -1,4 +1,5 @@
 import io
+import json
 
 import pytest
 from PIL import Image
@@ -94,3 +95,31 @@ def test_a_hit_resets_the_streak_of_its_own_host():
     streak.record("tcgplayer", "t0", False)
     streak.record("tcgplayer", "t1", True)
     streak.record("tcgplayer", "t2", False)  # one in a row again: no stop
+
+
+def _tcgcsv_cache(root, image_counts: list[int]):
+    """A TCGCSV cache under root/.cache/tcgcsv with one group of singles, one per entry of image_counts."""
+    cache = root / ".cache" / "tcgcsv"
+    cache.mkdir(parents=True)
+    (cache / "68_groups.json").write_text(json.dumps({"results": [{"groupId": 1}]}))
+    rows = [{"productId": 100 + i, "groupId": 1, "name": f"Card {i}", "imageCount": count,
+             "extendedData": [{"name": "Number", "value": f"OP16-{i:03d}"}]} for i, count in enumerate(image_counts)]
+    (cache / "68_1_products.json").write_text(json.dumps({"results": rows}))
+    (root / "data" / "cards").mkdir(parents=True)
+
+
+def test_misses_on_products_tcgcsv_lists_without_an_image_do_not_stop_the_fetch(tmp_path, monkeypatch, capsys):
+    # A new set's products have no scan yet. TCGCSV gives them imageCount 0, and the CDN answers 403.
+    _tcgcsv_cache(tmp_path, [0] * 25)
+    monkeypatch.setattr(images, "ROOT", tmp_path)
+    monkeypatch.setattr(images, "fetch", lambda source, key, url: None)
+    images._fetch_all()
+    assert capsys.readouterr().out.strip().endswith("done 25")
+
+
+def test_misses_on_products_tcgcsv_lists_with_an_image_still_stop_the_fetch(tmp_path, monkeypatch):
+    _tcgcsv_cache(tmp_path, [0] * 5 + [1] * 20)
+    monkeypatch.setattr(images, "ROOT", tmp_path)
+    monkeypatch.setattr(images, "fetch", lambda source, key, url: None)
+    with pytest.raises(SystemExit, match="20 misses in a row at tcgplayer/124"):
+        images._fetch_all()

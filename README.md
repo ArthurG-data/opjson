@@ -409,8 +409,11 @@ printing, on a minted printing, on a sealed product, in review, or in a set Band
 
 ## Building
 
+`tools/refresh.py` runs the import lines below it, from `crawl_bandai.py` to `uuids.py`, in that order, then `readme_counts.py` and stops at the first failure. `--weekly` also fetches the slow sources again, `--cached` reads the cached Bandai card lists instead of crawling, and `--fresh-tcgcsv` fetches a new TCGcsv snapshot.
+
 ```sh
 uv sync --group dev
+uv run python tools/refresh.py [--weekly] [--cached] [--fresh-tcgcsv]
 uv run python tools/crawl_bandai.py                  # cache the official card list (one page every 2 s)
 uv run python tools/import_bandai.py                 # sets and Bandai printings
 uv run --group dev python tools/images.py fetch      # cache both sites' card images
@@ -431,6 +434,7 @@ uv run python tools/validate.py [--since main] [--online [--images]]
 uv run python tools/check_losses.py                  # nothing lost against the last commit (see below)
 uv run python tools/legality.py [--online]           # ban list replayed and checked against Bandai's
 uv run python tools/build.py --version 0.4.0         # dist/AllSets, AllCards, AllPrintings, AllProducts, AllUuids, Legality
+uv run python tools/readme_counts.py                 # the counts paragraph above, from the data
 ```
 
 The pages and images the tools download are cached under `.cache/`, which is never committed. A rebuild reads the

@@ -245,3 +245,8 @@ def test_a_twin_correction_overrides_the_rule():
     import_bandai_ja.merge(copy.deepcopy(SETS), files, SERIES, PRINTINGS, {}, {},
                            twin_corrections={"OP01-001~ja": None})
     assert "twinOf" not in files["OP01"]["cards"][0]["printings"][2]
+
+
+def test_refresh_products_is_off_unless_asked():
+    assert import_bandai_ja.parse_args([]).refresh_products is False
+    assert import_bandai_ja.parse_args(["--refresh-products"]).refresh_products is True

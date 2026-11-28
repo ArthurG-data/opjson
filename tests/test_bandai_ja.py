@@ -124,7 +124,7 @@ def test_merge_adds_ja_releases_printings_and_names():
     # Block and finishes come from the English printing with the same Bandai id, never a TCGplayer id.
     assert base_ja == {"id": "OP01-001~ja", "language": "ja", "set": "OP01", "rarity": "L", "block": "1",
                        "image": "https://ja/OP01-001.png", "cardSet": "ROMANCE DAWN【OP-01】", "source": "bandai",
-                       "finishes": ["foil"]}
+                       "twinOf": "OP01-001", "finishes": ["foil"]}
     assert opjson.validate(sets, files) == []
 
 
@@ -157,7 +157,7 @@ def test_the_same_id_in_another_set_is_another_printing():
     import_bandai_ja.merge(copy.deepcopy(sets), files, series, printings, {}, {})
     p1 = files["OP01"]["cards"][0]["printings"][3]
     assert p1["id"] == "OP01-001_p1~ja" and p1["set"] == "OTHER"
-    assert p1["block"] == "3" and "finishes" not in p1
+    assert p1["block"] == "3" and "finishes" not in p1 and "twinOf" not in p1
     # The combined English set counts for the Japanese booster.
     assert import_bandai_ja._twin({"set": "OP14-EB04", "rarity": "L"}, "OP14", "L")
     assert import_bandai_ja._twin({"set": "OP14-EB04", "rarity": "L"}, "EB04", "L")
@@ -222,3 +222,26 @@ def test_set_aside_and_restore_keep_japanese_data_out_of_english_rebuilds():
     nami = [c for c in files["P"]["cards"] if c["number"] == "P-200"]
     assert len(nami) == 1 and nami[0]["names"] == {"en": "Nami", "ja": "ナミ"}
     assert [p["id"] for p in nami[0]["printings"]] == ["P-200~tcg5", "P-200~ja"]
+
+
+def _other_set_case():
+    printings = [PRINTINGS[0], dataclasses.replace(PRINTINGS[1], series_id="550801")]
+    series = SERIES + [bandai.Series("550801", "限定商品収録カード", None, "ja")]
+    sets = SETS + [{"id": "OTHER", "type": "box_set", "releases": [
+        {"language": "en", "name": "Other Product Cards", "source": "https://example.com/other"}]}]
+    return sets, series, printings
+
+
+def test_a_settled_image_match_gives_the_twin_the_rule_cannot():
+    sets, series, printings = _other_set_case()
+    files = copy.deepcopy(FILES)
+    import_bandai_ja.merge(copy.deepcopy(sets), files, series, printings, {}, {},
+                           settled={"OP01-001_p1~ja": {"en": "OP01-001_p1", "distance": 4}})
+    assert files["OP01"]["cards"][0]["printings"][3]["twinOf"] == "OP01-001_p1"
+
+
+def test_a_twin_correction_overrides_the_rule():
+    files = copy.deepcopy(FILES)
+    import_bandai_ja.merge(copy.deepcopy(SETS), files, SERIES, PRINTINGS, {}, {},
+                           twin_corrections={"OP01-001~ja": None})
+    assert "twinOf" not in files["OP01"]["cards"][0]["printings"][2]

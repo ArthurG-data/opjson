@@ -1,5 +1,12 @@
+import copy
+import subprocess
 import urllib.error
+import uuid as uuidlib
 
+import pytest
+
+import opjson
+import uuids
 import validate
 
 
@@ -74,3 +81,63 @@ def test_a_product_gone_from_tcgplayer_is_an_error_on_printings_and_sealed_produ
     assert validate.gone_products({1}, flat) == [
         "printing OP01-001: TCGplayer product 2 is gone from category 68",
         "sealed product op01-booster-box: TCGplayer product 3 is gone from category 68"]
+
+
+_SETS = [{"id": "OP01", "type": "booster", "releases": [
+    {"language": "en", "name": "Romance Dawn", "source": "https://example.com/op01"}]}]
+
+
+def _files():
+    return {"OP01": {"cards": [{"number": "OP01-001", "name": "Zoro", "names": {"en": "Zoro"}, "category": "Leader",
+                                "printings": [{"id": "OP01-001", "set": "OP01", "image": "https://example.com/a.png",
+                                               "source": "bandai"}]}]}}
+
+
+def _repo(tmp_path, monkeypatch):
+    def git(*args):
+        subprocess.run(["git", *args], cwd=tmp_path, check=True, capture_output=True)
+    git("init", "-q")
+    git("-c", "user.email=t@example.com", "-c", "user.name=t", "commit", "-q", "--allow-empty", "-m", "before")
+    monkeypatch.setattr(opjson, "ROOT", tmp_path)
+    monkeypatch.setattr(uuids, "REGISTRY", tmp_path / "data" / "uuids.json")
+    return git
+
+
+def test_registry_at_a_commit_before_the_registry_is_empty(tmp_path, monkeypatch):
+    _repo(tmp_path, monkeypatch)
+    assert validate.registry_at("HEAD") == uuids.empty()
+
+
+def test_registry_at_reads_the_registry_a_commit_holds(tmp_path, monkeypatch):
+    git = _repo(tmp_path, monkeypatch)
+    registry = uuids.empty()
+    registry["cards"]["keys"]["id:OP01-001"] = "u"
+    uuids.save(registry, tmp_path / "data" / "uuids.json")
+    git("add", "data/uuids.json")
+    git("-c", "user.email=t@example.com", "-c", "user.name=t", "commit", "-q", "-m", "registry")
+    assert validate.registry_at("HEAD")["cards"]["keys"] == {"id:OP01-001": "u"}
+
+
+def test_registry_at_an_unknown_ref_exits(tmp_path, monkeypatch):
+    _repo(tmp_path, monkeypatch)
+    with pytest.raises(SystemExit, match="no such commit"):
+        validate.registry_at("nope")
+
+
+def test_the_schemas_accept_uuid_version_id_and_oracle_id_and_require_uuid():
+    sets, files, sealed, registry = copy.deepcopy(_SETS), _files(), {}, uuids.empty()
+    assert any("has no uuid" in e for e in validate.offline_errors(sets, files, sealed, registry))
+    uuids.assign(sets, files, sealed, registry)
+    assert opjson.validate(sets, files) == []
+    assert validate.offline_errors(sets, files, sealed, registry) == []
+    files["OP01"]["cards"][0]["oracleId"] = "not-a-uuid"
+    assert any("oracleId" in e and "is not a 'uuid'" in e for e in opjson.validate(sets, files))
+
+
+def test_offline_errors_with_an_earlier_registry_refuses_a_changed_uuid():
+    sets, files, sealed, registry = copy.deepcopy(_SETS), _files(), {}, uuids.empty()
+    uuids.assign(sets, files, sealed, registry)
+    before = copy.deepcopy(registry)
+    before["printings"]["keys"]["bandai:en:OP01-001"] = str(uuidlib.uuid4())
+    found = validate.offline_errors(sets, files, sealed, registry, before)
+    assert any("its uuid changed" in e for e in found)

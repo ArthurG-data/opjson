@@ -2,6 +2,8 @@
   "cards": [
     {
       "number": "ST19-001",
+      "uuid": "ccdd2807-d263-5a79-b86c-131f94b6818b",
+      "oracleId": "d73b3c54-b082-51e3-9363-c667167121fd",
       "name": "Smoker",
       "names": {
         "en": "Smoker",
@@ -22,6 +24,8 @@
       "printings": [
         {
           "id": "ST19-001",
+          "uuid": "bf80b70a-9c78-5e7d-aad2-4790f3193d2a",
+          "versionId": "f7ab11a2-062e-56bf-95c4-d37b6a6fae7e",
           "set": "ST19",
           "rarity": "C",
           "block": "3",
@@ -45,6 +49,8 @@
         },
         {
           "id": "ST19-001~ja",
+          "uuid": "e266c828-0230-56aa-b404-5331eb095b53",
+          "versionId": "f7ab11a2-062e-56bf-95c4-d37b6a6fae7e",
           "language": "ja",
           "set": "ST19",
           "rarity": "C",
@@ -61,6 +67,8 @@
     },
     {
       "number": "ST19-002",
+      "uuid": "38876d98-ef17-5cb2-811f-5aa7bf314f16",
+      "oracleId": "13eb6739-b076-51f5-afb1-f5f43ccdac4d",
       "name": "Sengoku",
       "names": {
         "en": "Sengoku",
@@ -82,6 +90,8 @@
       "printings": [
         {
           "id": "ST19-002",
+          "uuid": "69f536bc-8b75-5242-bd0e-1e13d9fc39df",
+          "versionId": "968cc51f-4b8b-54cb-95a2-0804b7f70ba6",
           "set": "ST19",
           "rarity": "C",
           "block": "3",
@@ -105,6 +115,8 @@
         },
         {
           "id": "ST19-002_p1",
+          "uuid": "c59d7d06-03e8-51b5-9534-47eeb25ac646",
+          "versionId": "a200792b-e747-51a8-8454-5ffd3a98c6c3",
           "set": "P",
           "rarity": "C",
           "block": "3",
@@ -134,6 +146,8 @@
         },
         {
           "id": "ST19-002_p2",
+          "uuid": "3b6b27e7-3fb8-5a9c-841c-43a2a47a170d",
+          "versionId": "851f0c4d-662e-526a-aa63-dbdcbd8011c5",
           "set": "P",
           "rarity": "C",
           "block": "3",
@@ -163,6 +177,8 @@
         },
         {
           "id": "ST19-002_p3",
+          "uuid": "1ff8306b-17c3-569e-94db-8dd8810354e9",
+          "versionId": "330d8552-fd09-5f8a-8cb4-6930fefcaf8a",
           "set": "PRB02",
           "rarity": "C",
           "block": "3",
@@ -192,6 +208,8 @@
         },
         {
           "id": "ST19-002_r1",
+          "uuid": "17de0699-d27b-582b-aabe-ac7e553143c6",
+          "versionId": "099b7577-3230-5275-9633-771aff42c1ee",
           "set": "PRB02",
           "rarity": "C",
           "block": "3",
@@ -219,6 +237,8 @@
         },
         {
           "id": "ST19-002~ja",
+          "uuid": "029f7516-725a-5c97-8ca8-f76eeb7f373b",
+          "versionId": "968cc51f-4b8b-54cb-95a2-0804b7f70ba6",
           "language": "ja",
           "set": "ST19",
           "rarity": "C",
@@ -233,6 +253,8 @@
         },
         {
           "id": "ST19-002_p1~ja",
+          "uuid": "a624d4cf-9a52-5a0d-ae85-bcb18b4b6461",
+          "versionId": "a200792b-e747-51a8-8454-5ffd3a98c6c3",
           "language": "ja",
           "set": "P",
           "rarity": "C",
@@ -247,6 +269,8 @@
         },
         {
           "id": "ST19-002_p2~ja",
+          "uuid": "27872259-ab60-5c91-888b-c60c1b227c28",
+          "versionId": "6a1e2935-70c3-5014-8f02-f91882d03966",
           "language": "ja",
           "set": "PRB02",
           "rarity": "C",
@@ -257,6 +281,8 @@
         },
         {
           "id": "ST19-002_r1~ja",
+          "uuid": "af3185a6-d41c-5de1-aa2a-000f94b71136",
+          "versionId": "099b7577-3230-5275-9633-771aff42c1ee",
           "language": "ja",
           "set": "PRB02",
           "rarity": "C",
@@ -273,6 +299,8 @@
     },
     {
       "number": "ST19-003",
+      "uuid": "82ddb16d-e943-52ee-94be-87f9e78f75b7",
+      "oracleId": "ca8e893a-ff2d-58c6-8929-9989aba09311",
       "name": "Tashigi",
       "names": {
         "en": "Tashigi",
@@ -294,6 +322,8 @@
       "printings": [
         {
           "id": "ST19-003",
+          "uuid": "3a1e94ca-96e9-52e7-b73e-232a588c799b",
+          "versionId": "0e8ca60c-fb3f-5790-aff1-46c36ad0a852",
           "set": "ST19",
           "rarity": "SR",
           "block": "3",
@@ -317,6 +347,8 @@
         },
         {
           "id": "ST19-003~ja",
+          "uuid": "c6bf1137-054e-53cd-a934-28e5b3a6a0bb",
+          "versionId": "0e8ca60c-fb3f-5790-aff1-46c36ad0a852",
           "language": "ja",
           "set": "ST19",
           "rarity": "SR",
@@ -333,6 +365,8 @@
     },
     {
       "number": "ST19-004",
+      "uuid": "20bc0999-718e-5435-9154-7dda0bfab35e",
+      "oracleId": "89836b53-25ad-539a-aa65-15639b2fee4f",
       "name": "Hina",
       "names": {
         "en": "Hina",
@@ -353,6 +387,8 @@
       "printings": [
         {
           "id": "ST19-004",
+          "uuid": "3b64e5a9-22a2-5d9a-9dce-fa058bcc5c8c",
+          "versionId": "ef63cc80-de14-5d9c-b3d0-e560f59fd7bd",
           "set": "ST19",
           "rarity": "SR",
           "block": "3",
@@ -376,6 +412,8 @@
         },
         {
           "id": "ST19-004~ja",
+          "uuid": "ed2d04f6-aba1-52db-b085-f5e600d18b07",
+          "versionId": "ef63cc80-de14-5d9c-b3d0-e560f59fd7bd",
           "language": "ja",
           "set": "ST19",
           "rarity": "SR",
@@ -392,6 +430,8 @@
     },
     {
       "number": "ST19-005",
+      "uuid": "0798049a-5eb1-5ccf-b18d-a9e797a57eb9",
+      "oracleId": "600b038d-5ea9-5923-b150-e9fcad7c57f2",
       "name": "Monkey.D.Garp",
       "names": {
         "en": "Monkey.D.Garp",
@@ -413,6 +453,8 @@
       "printings": [
         {
           "id": "ST19-005",
+          "uuid": "641bfe18-ec6a-55d8-a35b-18f5bbfb1597",
+          "versionId": "7d8792e6-f7be-5d05-9685-361eb836d212",
           "set": "ST19",
           "rarity": "C",
           "block": "3",
@@ -436,6 +478,8 @@
         },
         {
           "id": "ST19-005~ja",
+          "uuid": "ec681958-160f-5842-821c-d51e234937eb",
+          "versionId": "7d8792e6-f7be-5d05-9685-361eb836d212",
           "language": "ja",
           "set": "ST19",
           "rarity": "C",

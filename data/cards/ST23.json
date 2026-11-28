@@ -2,6 +2,8 @@
   "cards": [
     {
       "number": "ST23-001",
+      "uuid": "1ca4198b-b79a-5cc7-a398-95b154a6cd1a",
+      "oracleId": "1a7e639c-5a50-547c-a564-ab5f21e69b7c",
       "name": "Uta",
       "names": {
         "en": "Uta",
@@ -23,6 +25,8 @@
       "printings": [
         {
           "id": "ST23-001",
+          "uuid": "8358c8cc-0af6-5c13-be6a-2dd63a9c1ff7",
+          "versionId": "435cd977-bb5e-59bc-a904-858e0b7c34b0",
           "set": "ST23",
           "rarity": "SR",
           "block": "3",
@@ -46,6 +50,8 @@
         },
         {
           "id": "ST23-001~ja",
+          "uuid": "eed6bfba-5ade-5141-ae54-9a791f6101cd",
+          "versionId": "435cd977-bb5e-59bc-a904-858e0b7c34b0",
           "language": "ja",
           "set": "ST23",
           "rarity": "SR",
@@ -60,6 +66,8 @@
         },
         {
           "id": "ST23-001_p1~ja",
+          "uuid": "0dd93e98-528c-5b7b-b649-5b3063569832",
+          "versionId": "4e04bc1d-bc3f-55aa-a6f0-e2606f272462",
           "language": "ja",
           "set": "P",
           "rarity": "SR",
@@ -72,6 +80,8 @@
     },
     {
       "number": "ST23-002",
+      "uuid": "2b9dd932-37a3-5b05-9c76-bfef66003430",
+      "oracleId": "be912f1e-ad35-50b8-b5a8-c1bfe445132a",
       "name": "Shanks",
       "names": {
         "en": "Shanks",
@@ -93,6 +103,8 @@
       "printings": [
         {
           "id": "ST23-002",
+          "uuid": "0c51fafa-913d-514d-8e48-9ee79f1d2663",
+          "versionId": "737a83db-3ffb-5480-ac39-531e69b1d520",
           "set": "ST23",
           "rarity": "SR",
           "block": "3",
@@ -116,6 +128,8 @@
         },
         {
           "id": "ST23-002~ja",
+          "uuid": "bf054930-07f6-5d79-b809-80f5f845dcb6",
+          "versionId": "737a83db-3ffb-5480-ac39-531e69b1d520",
           "language": "ja",
           "set": "ST23",
           "rarity": "SR",
@@ -132,6 +146,8 @@
     },
     {
       "number": "ST23-003",
+      "uuid": "5c7cc2d7-99f6-5b96-8ac2-e7d59b0c97a9",
+      "oracleId": "c75eb272-4b69-5443-acbe-05748e3a4c58",
       "name": "Benn.Beckman",
       "names": {
         "en": "Benn.Beckman",
@@ -153,6 +169,8 @@
       "printings": [
         {
           "id": "ST23-003",
+          "uuid": "dda27d81-13f6-5a76-b381-b6f7c018e879",
+          "versionId": "2d9ef23b-4678-5129-b175-166079dba4f9",
           "set": "ST23",
           "rarity": "C",
           "block": "3",
@@ -176,6 +194,8 @@
         },
         {
           "id": "ST23-003~ja",
+          "uuid": "811a6634-a2fb-535e-a546-cf74e5322c74",
+          "versionId": "2d9ef23b-4678-5129-b175-166079dba4f9",
           "language": "ja",
           "set": "ST23",
           "rarity": "C",
@@ -192,6 +212,8 @@
     },
     {
       "number": "ST23-004",
+      "uuid": "ae52c26f-c170-5f12-acb0-a421ac0b6dcf",
+      "oracleId": "7223d0ab-0040-54af-88aa-6f599724dee2",
       "name": "Monkey.D.Luffy",
       "names": {
         "en": "Monkey.D.Luffy",
@@ -215,6 +237,8 @@
       "printings": [
         {
           "id": "ST23-004",
+          "uuid": "be5f15a5-3e9c-56d8-974a-73a2fbbfa254",
+          "versionId": "9ccac0f8-ebee-519d-af28-4958178aa9e8",
           "set": "ST23",
           "rarity": "C",
           "block": "3",
@@ -238,6 +262,8 @@
         },
         {
           "id": "ST23-004_r1",
+          "uuid": "3fc6c296-d0a8-58ec-883e-3441d715f9dd",
+          "versionId": "ed083e5c-5eba-5523-a8a9-e1e9298385db",
           "set": "ST31",
           "rarity": "C",
           "block": "3",
@@ -252,6 +278,8 @@
         },
         {
           "id": "ST23-004~ja",
+          "uuid": "f0d48812-7ed9-5ec9-921b-8cc6d732c45e",
+          "versionId": "9ccac0f8-ebee-519d-af28-4958178aa9e8",
           "language": "ja",
           "set": "ST23",
           "rarity": "C",
@@ -266,6 +294,8 @@
         },
         {
           "id": "ST23-004_r1~ja",
+          "uuid": "9bf0cff9-0e51-5854-959d-2092f9e6577e",
+          "versionId": "ed083e5c-5eba-5523-a8a9-e1e9298385db",
           "language": "ja",
           "set": "ST31",
           "rarity": "C",
@@ -282,6 +312,8 @@
     },
     {
       "number": "ST23-005",
+      "uuid": "52ff493f-8df1-5514-95f7-6c60ab0bd81b",
+      "oracleId": "b802c3cf-0c34-53d6-8a8d-43e37ad56338",
       "name": "Yasopp",
       "names": {
         "en": "Yasopp",
@@ -303,6 +335,8 @@
       "printings": [
         {
           "id": "ST23-005",
+          "uuid": "d42eba77-af69-545e-aa3b-c237f5d82efa",
+          "versionId": "0c375ad9-03d0-5910-93f4-6296c3f4ddf3",
           "set": "ST23",
           "rarity": "C",
           "block": "3",
@@ -326,6 +360,8 @@
         },
         {
           "id": "ST23-005~ja",
+          "uuid": "5fb74535-2e63-5a87-80dc-84da0a6d852a",
+          "versionId": "0c375ad9-03d0-5910-93f4-6296c3f4ddf3",
           "language": "ja",
           "set": "ST23",
           "rarity": "C",

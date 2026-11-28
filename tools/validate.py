@@ -1,6 +1,9 @@
 """Check sets/sets.json and data/cards against the schemas and each other. Exits 1 on any problem.
 
-    uv run python tools/validate.py [--online [--images]]
+    uv run python tools/validate.py [--since REF] [--online [--images]]
+
+Every record must carry the UUID data/uuids.json gives it (run tools/uuids.py after the import tools). --since also
+checks that no UUID data/uuids.json gave at git REF was dropped or changed: a UUID, once given, never changes.
 
 --online also asks TCGCSV whether every TCGplayer product id, on a printing or a sealed product, still exists in
 category 68. --images also asks Bandai whether every Bandai printing's image is still served: about 5,000
@@ -9,6 +12,7 @@ requests, so CI runs it only for a release tag. They go IMAGE_WORKERS at a time,
 from __future__ import annotations
 
 import argparse
+import subprocess
 import sys
 import tempfile
 import time
@@ -19,6 +23,7 @@ from pathlib import Path
 
 import opjson
 import tcgcsv
+import uuids
 
 USER_AGENT = opjson.USER_AGENT
 IMAGE_WORKERS = 6
@@ -77,13 +82,37 @@ def image_errors(printings: dict[str, dict], head=head_status, workers: int = IM
             for pid, status in sorted(statuses.items()) if status is not None]
 
 
+def registry_at(ref: str) -> dict:
+    """data/uuids.json as git ``ref`` has it; empty at a commit from before the registry existed."""
+    path = uuids.REGISTRY.relative_to(opjson.ROOT).as_posix()
+
+    def git(*args: str) -> subprocess.CompletedProcess:
+        return subprocess.run(["git", *args], cwd=opjson.ROOT, capture_output=True, text=True)
+    if git("rev-parse", "--verify", "--quiet", f"{ref}^{{commit}}").returncode != 0:
+        raise SystemExit(f"--since {ref}: git knows no such commit")
+    if git("cat-file", "-e", f"{ref}:{path}").returncode != 0:
+        return uuids.empty()
+    return uuids.parse(git("show", f"{ref}:{path}").stdout)
+
+
+def offline_errors(sets: list[dict], files: dict[str, dict], sealed: dict[str, dict], registry: dict,
+                   before: dict | None = None) -> list[str]:
+    """Every problem found without the network: the data and its references, then every record's UUID against
+    registry, then, given an earlier registry, any UUID it gave that registry dropped or changed."""
+    errors = opjson.validate(sets, files, sealed) or uuids.errors(sets, files, sealed, registry)
+    if before is not None:
+        errors += uuids.history_errors(before, registry)
+    return errors
+
+
 def main() -> None:
     ap = argparse.ArgumentParser()
     ap.add_argument("--online", action="store_true")
     ap.add_argument("--images", action="store_true", help="with --online, also HEAD every Bandai printing image")
+    ap.add_argument("--since", metavar="REF", help="also check that no UUID changed or was dropped since git REF")
     args = ap.parse_args()
     sets, files, sealed = opjson.load_sets(), opjson.load_cards(), opjson.load_sealed()
-    errors = opjson.validate(sets, files, sealed)
+    errors = offline_errors(sets, files, sealed, uuids.load(), registry_at(args.since) if args.since else None)
     if not errors and args.online:
         errors = online_errors(sets, files, sealed, images=args.images)
     for e in errors:

@@ -2,6 +2,8 @@
   "cards": [
     {
       "number": "ST11-001",
+      "uuid": "2440e494-f322-55f0-8c8a-967c054af9ce",
+      "oracleId": "d44c2491-7fb8-5db3-aa3f-38361e2db853",
       "name": "Uta",
       "names": {
         "en": "Uta",
@@ -22,6 +24,8 @@
       "printings": [
         {
           "id": "ST11-001",
+          "uuid": "39877ed1-8b7c-5f65-871d-b729ece2a39a",
+          "versionId": "5e74dd46-ec9c-52b7-9ec7-64de7dcc8bf1",
           "set": "ST11",
           "rarity": "L",
           "block": "2",
@@ -44,6 +48,8 @@
         },
         {
           "id": "ST11-001_p1",
+          "uuid": "7f9cd29e-e6e1-56d9-a02e-a9322979b635",
+          "versionId": "44f7efff-18b3-5ea4-838e-a9287afb6353",
           "set": "ST16",
           "rarity": "L",
           "block": "2",
@@ -67,6 +73,8 @@
         },
         {
           "id": "ST11-001~ja",
+          "uuid": "0fac9c43-a7d6-5247-a420-5ef9f53c510b",
+          "versionId": "5e74dd46-ec9c-52b7-9ec7-64de7dcc8bf1",
           "language": "ja",
           "set": "ST11",
           "rarity": "L",
@@ -81,6 +89,8 @@
         },
         {
           "id": "ST11-001_p1~ja",
+          "uuid": "5a03eac6-5906-50a6-9e86-906b25309d73",
+          "versionId": "44f7efff-18b3-5ea4-838e-a9287afb6353",
           "language": "ja",
           "set": "ST16",
           "rarity": "L",
@@ -97,6 +107,8 @@
     },
     {
       "number": "ST11-002",
+      "uuid": "6f85e5bb-8a9d-5b26-a1df-ddeea6647c13",
+      "oracleId": "8700baed-ec55-525a-a2e3-8e004a0a882a",
       "name": "Uta",
       "names": {
         "en": "Uta",
@@ -119,6 +131,8 @@
       "printings": [
         {
           "id": "ST11-002",
+          "uuid": "cffde2d3-c045-5575-98c3-39481b4da212",
+          "versionId": "6db731ff-0623-563e-ae48-6a30e3e204b6",
           "set": "ST11",
           "rarity": "SR",
           "block": "2",
@@ -142,6 +156,8 @@
         },
         {
           "id": "ST11-002~ja",
+          "uuid": "012db274-77bb-5141-9ca2-192929a04f61",
+          "versionId": "6db731ff-0623-563e-ae48-6a30e3e204b6",
           "language": "ja",
           "set": "ST11",
           "rarity": "SR",
@@ -158,6 +174,8 @@
     },
     {
       "number": "ST11-003",
+      "uuid": "a26e63fb-c8ee-5d21-82a8-af3217000353",
+      "oracleId": "d5ed04e0-7232-53c3-846d-b625d79ea451",
       "name": "Backlight",
       "names": {
         "en": "Backlight",
@@ -175,6 +193,8 @@
       "printings": [
         {
           "id": "ST11-003",
+          "uuid": "47ad6865-0353-59c2-a639-f6144e3c7af0",
+          "versionId": "c2984b2a-7c97-5468-a263-540bc1c60083",
           "set": "ST11",
           "rarity": "C",
           "block": "2",
@@ -197,6 +217,8 @@
         },
         {
           "id": "ST11-003_p1",
+          "uuid": "1433a2ca-f2f8-5905-b558-4f379d905647",
+          "versionId": "20de15fc-ae89-5ae9-98cd-4c5c8ba5f613",
           "set": "P",
           "rarity": "C",
           "block": "2",
@@ -226,6 +248,8 @@
         },
         {
           "id": "ST11-003_p2",
+          "uuid": "2340dfb4-2799-5e3d-8124-7618e2e0a2b6",
+          "versionId": "82f1a3a1-3bb5-51b2-a951-7c06cacf85a2",
           "set": "ST16",
           "rarity": "C",
           "block": "2",
@@ -248,6 +272,8 @@
         },
         {
           "id": "ST11-003~tcg619204",
+          "uuid": "988198cd-1d63-5732-9e33-07cc7dd493d6",
+          "versionId": "c760ee88-371a-5a1d-8676-0bcae541bdbc",
           "set": "P",
           "rarity": "C",
           "image": "https://tcgplayer-cdn.tcgplayer.com/product/619204_in_400x400.jpg",
@@ -274,6 +300,8 @@
         },
         {
           "id": "ST11-003~ja",
+          "uuid": "4ce51c19-d600-54b7-8999-78aa1ab5cb96",
+          "versionId": "c2984b2a-7c97-5468-a263-540bc1c60083",
           "language": "ja",
           "set": "ST11",
           "rarity": "C",
@@ -288,6 +316,8 @@
         },
         {
           "id": "ST11-003_p1~ja",
+          "uuid": "3aa4fdbe-08a7-5347-ae6d-391a763cdfd1",
+          "versionId": "20de15fc-ae89-5ae9-98cd-4c5c8ba5f613",
           "language": "ja",
           "set": "P",
           "rarity": "C",
@@ -302,6 +332,8 @@
         },
         {
           "id": "ST11-003_p2~ja",
+          "uuid": "d5f9fbc3-6a38-5bf9-95b1-978c1cc03dde",
+          "versionId": "82f1a3a1-3bb5-51b2-a951-7c06cacf85a2",
           "language": "ja",
           "set": "ST16",
           "rarity": "C",
@@ -318,6 +350,8 @@
     },
     {
       "number": "ST11-004",
+      "uuid": "1c12c53f-94da-5fdf-ab9e-9f3f27baad10",
+      "oracleId": "2cb32398-d08c-57d6-a69a-8d837f17906e",
       "name": "New Genesis",
       "names": {
         "en": "New Genesis",
@@ -335,6 +369,8 @@
       "printings": [
         {
           "id": "ST11-004",
+          "uuid": "ccdcc797-f376-5bcc-b9d8-24d080f7058e",
+          "versionId": "1d673757-ec14-512b-86c0-c056fb3a98f9",
           "set": "ST11",
           "rarity": "SR",
           "block": "2",
@@ -357,6 +393,8 @@
         },
         {
           "id": "ST11-004_p1",
+          "uuid": "573d17b8-c2b6-5038-9992-73f9a2240e6d",
+          "versionId": "1296ed9d-84c8-563b-8a2e-2a3bac0cc314",
           "set": "P",
           "rarity": "SR",
           "block": "2",
@@ -386,6 +424,8 @@
         },
         {
           "id": "ST11-004_p2",
+          "uuid": "ddbcbaf8-23ad-5a41-bde4-b3a21871609e",
+          "versionId": "65c3cbb4-963e-59f9-b262-d5cc1948a86d",
           "set": "ST16",
           "rarity": "SR",
           "block": "2",
@@ -408,6 +448,8 @@
         },
         {
           "id": "ST11-004~ja",
+          "uuid": "b824e9ea-3afc-57cd-8485-13158d9aff55",
+          "versionId": "1d673757-ec14-512b-86c0-c056fb3a98f9",
           "language": "ja",
           "set": "ST11",
           "rarity": "SR",
@@ -422,6 +464,8 @@
         },
         {
           "id": "ST11-004_p1~ja",
+          "uuid": "4d5a6bd1-fbe7-589e-bced-6e6751269fdc",
+          "versionId": "1296ed9d-84c8-563b-8a2e-2a3bac0cc314",
           "language": "ja",
           "set": "P",
           "rarity": "SR",
@@ -436,6 +480,8 @@
         },
         {
           "id": "ST11-004_p2~ja",
+          "uuid": "bfcc6f2e-0784-5c29-b229-87c2d6d16ec0",
+          "versionId": "65c3cbb4-963e-59f9-b262-d5cc1948a86d",
           "language": "ja",
           "set": "ST16",
           "rarity": "SR",
@@ -452,6 +498,8 @@
     },
     {
       "number": "ST11-005",
+      "uuid": "1afbaa26-c188-5a45-80ad-e09aea89d67c",
+      "oracleId": "88f298ed-18f0-5f00-82d2-538b0d043ae2",
       "name": "I'm invincible",
       "names": {
         "en": "I'm invincible",
@@ -469,6 +517,8 @@
       "printings": [
         {
           "id": "ST11-005",
+          "uuid": "851080c4-8861-5aa4-bfcd-7f482ebef4cc",
+          "versionId": "c9f607ac-2ee7-56ee-aeba-207fab641cc3",
           "set": "ST11",
           "rarity": "C",
           "block": "2",
@@ -491,6 +541,8 @@
         },
         {
           "id": "ST11-005_p1",
+          "uuid": "b2f77642-3374-5313-b2e2-9fbc664f4741",
+          "versionId": "416c4dd3-b98f-51e8-9acb-909a664f1909",
           "set": "P",
           "rarity": "C",
           "block": "2",
@@ -520,6 +572,8 @@
         },
         {
           "id": "ST11-005_p2",
+          "uuid": "a7dae34a-2356-5ab5-9df8-b42c6f2b4c65",
+          "versionId": "6ce9575e-377a-5094-8525-61179ac51949",
           "set": "ST16",
           "rarity": "C",
           "block": "2",
@@ -542,6 +596,8 @@
         },
         {
           "id": "ST11-005~ja",
+          "uuid": "2c523b14-7ab1-5802-bf1b-0e83c2a6b19b",
+          "versionId": "c9f607ac-2ee7-56ee-aeba-207fab641cc3",
           "language": "ja",
           "set": "ST11",
           "rarity": "C",
@@ -556,6 +612,8 @@
         },
         {
           "id": "ST11-005_p1~ja",
+          "uuid": "7daf95d5-1adc-5972-b6d8-5278fc59dd1e",
+          "versionId": "416c4dd3-b98f-51e8-9acb-909a664f1909",
           "language": "ja",
           "set": "P",
           "rarity": "C",
@@ -570,6 +628,8 @@
         },
         {
           "id": "ST11-005_p2~ja",
+          "uuid": "3a33e0f4-17b5-5e20-876f-9bf6fc7f4559",
+          "versionId": "6ce9575e-377a-5094-8525-61179ac51949",
           "language": "ja",
           "set": "ST16",
           "rarity": "C",

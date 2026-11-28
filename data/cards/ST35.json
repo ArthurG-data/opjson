@@ -2,6 +2,8 @@
   "cards": [
     {
       "number": "ST35-001",
+      "uuid": "c60f680d-2f44-51ec-aa31-47b6a95425d2",
+      "oracleId": "39ba14b8-0ffd-5549-ac36-ef809e7169b8",
       "name": "Hack",
       "names": {
         "en": "Hack",
@@ -25,6 +27,8 @@
       "printings": [
         {
           "id": "ST35-001",
+          "uuid": "e3765e4e-d1c4-5d47-988b-3b7bc9345679",
+          "versionId": "635e3ca1-59d8-5422-830a-67fea7785daa",
           "set": "ST35",
           "rarity": "C",
           "block": "5",
@@ -48,6 +52,8 @@
         },
         {
           "id": "ST35-001~ja",
+          "uuid": "1375e9bd-9411-5e15-bc74-3a965e18aa75",
+          "versionId": "635e3ca1-59d8-5422-830a-67fea7785daa",
           "language": "ja",
           "set": "ST35",
           "rarity": "C",
@@ -64,6 +70,8 @@
     },
     {
       "number": "ST35-002",
+      "uuid": "0063c8e1-64f7-5b01-97f9-d146e3c7743c",
+      "oracleId": "7c6d9994-6c37-5b28-976c-6f3d9aa90501",
       "name": "Lindbergh",
       "names": {
         "en": "Lindbergh",
@@ -86,6 +94,8 @@
       "printings": [
         {
           "id": "ST35-002",
+          "uuid": "9c5102be-40e1-5d7a-8384-fab41f325ef0",
+          "versionId": "52682383-22f2-5d82-bbf5-a266be3f7a7c",
           "set": "ST35",
           "rarity": "C",
           "block": "5",
@@ -109,6 +119,8 @@
         },
         {
           "id": "ST35-002~ja",
+          "uuid": "30769e1a-a8b0-5d23-96ca-84b6a262fd8f",
+          "versionId": "52682383-22f2-5d82-bbf5-a266be3f7a7c",
           "language": "ja",
           "set": "ST35",
           "rarity": "C",
@@ -125,6 +137,8 @@
     },
     {
       "number": "ST35-003",
+      "uuid": "5f07c2f1-76bf-588c-91e6-c8f216df49f0",
+      "oracleId": "88bd3925-ceb6-5636-8258-84ca8c03b86f",
       "name": "Karasu",
       "names": {
         "en": "Karasu",
@@ -146,6 +160,8 @@
       "printings": [
         {
           "id": "ST35-003",
+          "uuid": "c83f08a5-38b4-5a41-b0c0-04ca2b17b0d6",
+          "versionId": "adb753aa-a5b9-5b6a-aa98-ef4782333a82",
           "set": "ST35",
           "rarity": "C",
           "block": "5",
@@ -169,6 +185,8 @@
         },
         {
           "id": "ST35-003~ja",
+          "uuid": "7d1289c3-c188-544a-9303-1c514cebf029",
+          "versionId": "adb753aa-a5b9-5b6a-aa98-ef4782333a82",
           "language": "ja",
           "set": "ST35",
           "rarity": "C",
@@ -185,6 +203,8 @@
     },
     {
       "number": "ST35-004",
+      "uuid": "934b1f29-e92b-5d05-b3fe-15a259823079",
+      "oracleId": "2be8353e-3bf8-57d1-a7e5-a5e0d2a4c3f5",
       "name": "Koala",
       "names": {
         "en": "Koala",
@@ -207,6 +227,8 @@
       "printings": [
         {
           "id": "ST35-004",
+          "uuid": "14c10257-20a5-56be-9b79-e30b20a12b17",
+          "versionId": "2a3379e9-1eac-550c-955f-76ad415029a8",
           "set": "ST35",
           "rarity": "SR",
           "block": "5",
@@ -230,6 +252,8 @@
         },
         {
           "id": "ST35-004~ja",
+          "uuid": "26f57508-8e66-558c-9519-444aae0b735d",
+          "versionId": "2a3379e9-1eac-550c-955f-76ad415029a8",
           "language": "ja",
           "set": "ST35",
           "rarity": "SR",
@@ -246,6 +270,8 @@
     },
     {
       "number": "ST35-005",
+      "uuid": "b459c36a-a184-5b03-be5c-ed12f898e47f",
+      "oracleId": "fb657e9f-57a8-5615-bb0c-430f521d2229",
       "name": "Bartholomew Kuma",
       "names": {
         "en": "Bartholomew Kuma",
@@ -267,6 +293,8 @@
       "printings": [
         {
           "id": "ST35-005",
+          "uuid": "043872a8-bdc8-598f-bf87-1d3c14b0a12e",
+          "versionId": "f91eb551-4440-5d55-a954-034218b4f153",
           "set": "ST35",
           "rarity": "SR",
           "block": "5",
@@ -290,6 +318,8 @@
         },
         {
           "id": "ST35-005~ja",
+          "uuid": "67b161c6-f380-5836-85eb-5e373bbf3a6c",
+          "versionId": "f91eb551-4440-5d55-a954-034218b4f153",
           "language": "ja",
           "set": "ST35",
           "rarity": "SR",

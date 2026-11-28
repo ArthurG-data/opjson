@@ -2,6 +2,8 @@
   "cards": [
     {
       "number": "ST27-001",
+      "uuid": "c33952ac-c648-5d41-a839-d903cbd9291c",
+      "oracleId": "7bca24df-0775-5bc0-8ec4-1592a2ba8c41",
       "name": "Avalo Pizarro",
       "names": {
         "en": "Avalo Pizarro",
@@ -23,6 +25,8 @@
       "printings": [
         {
           "id": "ST27-001",
+          "uuid": "66eb19d0-1048-53e8-b83d-1345cae202ec",
+          "versionId": "ca680203-efd3-545e-9aa2-f60f6cb3a80c",
           "set": "ST27",
           "rarity": "C",
           "block": "3",
@@ -46,6 +50,8 @@
         },
         {
           "id": "ST27-001~ja",
+          "uuid": "8a914ede-1427-5d24-a187-61c2f5f41aaa",
+          "versionId": "ca680203-efd3-545e-9aa2-f60f6cb3a80c",
           "language": "ja",
           "set": "ST27",
           "rarity": "C",
@@ -62,6 +68,8 @@
     },
     {
       "number": "ST27-002",
+      "uuid": "fd1f91a7-984d-506c-9d11-ac7299a48c20",
+      "oracleId": "09f00e3b-2e32-549f-b6e3-19de1a333c03",
       "name": "Catarina Devon",
       "names": {
         "en": "Catarina Devon",
@@ -83,6 +91,8 @@
       "printings": [
         {
           "id": "ST27-002",
+          "uuid": "fcbe721a-8439-5bd3-83fd-4bfef4a1c522",
+          "versionId": "e0bf08ef-9ebb-5484-a936-6ab671e631db",
           "set": "ST27",
           "rarity": "C",
           "block": "3",
@@ -106,6 +116,8 @@
         },
         {
           "id": "ST27-002~ja",
+          "uuid": "57f99b62-8c44-5766-9535-7e346df5f64e",
+          "versionId": "e0bf08ef-9ebb-5484-a936-6ab671e631db",
           "language": "ja",
           "set": "ST27",
           "rarity": "C",
@@ -122,6 +134,8 @@
     },
     {
       "number": "ST27-003",
+      "uuid": "7fc320e2-1d7d-57c7-884f-be134dbf740f",
+      "oracleId": "9b41cdc4-a86b-5f64-945d-b9decd516f32",
       "name": "Kuzan",
       "names": {
         "en": "Kuzan",
@@ -144,6 +158,8 @@
       "printings": [
         {
           "id": "ST27-003",
+          "uuid": "343ebda3-3030-5810-8ca5-e92653c4262d",
+          "versionId": "4f49d32a-5992-545c-95f3-f5985f897bcf",
           "set": "ST27",
           "rarity": "SR",
           "block": "3",
@@ -167,6 +183,8 @@
         },
         {
           "id": "ST27-003~ja",
+          "uuid": "086a4c7a-d1ea-568b-a8ab-b1a6b057f836",
+          "versionId": "4f49d32a-5992-545c-95f3-f5985f897bcf",
           "language": "ja",
           "set": "ST27",
           "rarity": "SR",
@@ -183,6 +201,8 @@
     },
     {
       "number": "ST27-004",
+      "uuid": "4cbbb16e-5ff2-5396-86ba-5797c77d07c4",
+      "oracleId": "f44436d2-5f7e-59da-aa33-711fa39dc899",
       "name": "Sanjuan.Wolf",
       "names": {
         "en": "Sanjuan.Wolf",
@@ -205,6 +225,8 @@
       "printings": [
         {
           "id": "ST27-004",
+          "uuid": "873aecb0-69c0-5742-8f91-1e77553a0815",
+          "versionId": "f66a3b90-cd13-5684-ba16-e9cc481fa526",
           "set": "ST27",
           "rarity": "C",
           "block": "3",
@@ -228,6 +250,8 @@
         },
         {
           "id": "ST27-004~ja",
+          "uuid": "12047155-e73f-56dc-abc0-f20ccee9872b",
+          "versionId": "f66a3b90-cd13-5684-ba16-e9cc481fa526",
           "language": "ja",
           "set": "ST27",
           "rarity": "C",
@@ -244,6 +268,8 @@
     },
     {
       "number": "ST27-005",
+      "uuid": "b7e769d3-173e-5105-b474-b0ca1161dd5f",
+      "oracleId": "2b5d5dad-a712-59a9-aac8-29d669c162e9",
       "name": "Marshall.D.Teach",
       "names": {
         "en": "Marshall.D.Teach",
@@ -265,6 +291,8 @@
       "printings": [
         {
           "id": "ST27-005",
+          "uuid": "2075e960-4bb2-504e-a104-6e8a36313176",
+          "versionId": "5e4c9489-6e85-5d13-bd4f-65437b1fc8f2",
           "set": "ST27",
           "rarity": "SR",
           "block": "3",
@@ -288,6 +316,8 @@
         },
         {
           "id": "ST27-005_p1",
+          "uuid": "294f6d37-a4d0-52a0-88a9-9eccab0b0475",
+          "versionId": "31f24fe3-5c21-57fa-91d4-6a0753943845",
           "set": "OP17",
           "rarity": "SP CARD",
           "block": "3",
@@ -314,6 +344,8 @@
         },
         {
           "id": "ST27-005~ja",
+          "uuid": "c7660325-4536-5436-a4c3-dc0b0efe810e",
+          "versionId": "5e4c9489-6e85-5d13-bd4f-65437b1fc8f2",
           "language": "ja",
           "set": "ST27",
           "rarity": "SR",
@@ -328,6 +360,8 @@
         },
         {
           "id": "ST27-005_p1~ja",
+          "uuid": "01d13957-1c71-50ba-a419-acd005d7f2ac",
+          "versionId": "31f24fe3-5c21-57fa-91d4-6a0753943845",
           "language": "ja",
           "set": "OP17",
           "rarity": "SP CARD",

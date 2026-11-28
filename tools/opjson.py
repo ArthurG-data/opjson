@@ -5,6 +5,7 @@ import collections
 import json
 import os
 import tomllib
+import uuid
 from pathlib import Path
 
 from jsonschema import Draft202012Validator, FormatChecker
@@ -17,6 +18,8 @@ SCHEMAS = ROOT / "schema"
 VERSION = tomllib.loads((ROOT / "pyproject.toml").read_text(encoding="utf-8"))["project"]["version"]
 # Sent with every request to Bandai, TCGCSV, TCGplayer's CDN and Limitless.
 USER_AGENT = f"opjson/{VERSION} (+https://github.com/ArthurG-data/opjson)"
+# Every opjson UUID is made in this namespace (tools/uuids.py).
+NAMESPACE = uuid.uuid5(uuid.NAMESPACE_URL, "https://github.com/ArthurG-data/opjson")
 
 
 def write_atomic(path: Path, data: str | bytes) -> None:

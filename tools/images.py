@@ -126,6 +126,30 @@ def distance(a: int, b: int) -> int:
     return (a ^ b).bit_count()
 
 
+def forget_misses(cache: Path = CACHE) -> int:
+    """Delete every zero-byte file under cache, which is how fetch records an image the source did not have, and
+    return how many it deleted. A refresh runs this first, so an image that was missing last time is asked for again."""
+    empty = [p for p in cache.rglob("*") if p.is_file() and p.stat().st_size == 0]
+    for p in empty:
+        p.unlink()
+    return len(empty)
+
+
+class MissStreak:
+    """Stops a fetch when one source misses limit times in a row. Each source counts on its own, because the
+    fetch interleaves the two hosts, so a single shared counter would be reset by every hit at the other host
+    and never reach the limit while one host refuses us."""
+
+    def __init__(self, limit: int = 20):
+        self.limit = limit
+        self.run: dict[str, int] = {}
+
+    def record(self, source: str, key: str, hit: bool) -> None:
+        self.run[source] = 0 if hit else self.run.get(source, 0) + 1
+        if self.run[source] >= self.limit:
+            raise SystemExit(f"{self.limit} misses in a row at {source}/{key}: stopping")
+
+
 class HashCache:
     """dhash per (source, key), kept in .cache/images/hashes.json so a rerun does not reopen every image."""
 
@@ -166,12 +190,10 @@ def _fetch_all() -> None:
     bandai = [j for j in jobs if j[0] == "bandai"]
     tcg = [j for j in jobs if j[0] == "tcgplayer"]
     order = [j for pair in zip(bandai, tcg) for j in pair] + bandai[len(tcg):] + tcg[len(bandai):]
-    misses = 0
+    # A run of misses at one host means it is refusing us, not that the images are missing.
+    streak = MissStreak()
     for i, (source, key, url) in enumerate(order, 1):
-        # A run of misses means the host is refusing us, not that the images are missing.
-        misses = 0 if fetch(source, key, url) else misses + 1
-        if misses >= 20:
-            raise SystemExit(f"20 misses in a row at {source}/{key}: stopping")
+        streak.record(source, key, fetch(source, key, url) is not None)
         if i % 250 == 0:
             print(f"{i}/{len(order)}", flush=True)
     print("done", len(order))

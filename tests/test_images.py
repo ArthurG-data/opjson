@@ -68,3 +68,29 @@ def test_a_response_that_is_not_an_image_is_not_cached(cache, monkeypatch):
 
     monkeypatch.setattr(images.urllib.request, "urlopen", lambda req, timeout: Response(_jpeg(63, 88)))
     assert images.fetch("bandai", "OP01-001", "https://example.com/OP01-001.png").read_bytes() == _jpeg(63, 88)
+
+
+def test_forget_misses_deletes_only_empty_files(tmp_path):
+    (tmp_path / "tcgplayer").mkdir()
+    (tmp_path / "tcgplayer" / "1.img").write_bytes(b"")
+    (tmp_path / "tcgplayer" / "2.img").write_bytes(b"\x89PNG")
+    assert images.forget_misses(tmp_path) == 1
+    assert not (tmp_path / "tcgplayer" / "1.img").exists()
+    assert (tmp_path / "tcgplayer" / "2.img").read_bytes() == b"\x89PNG"
+
+
+def test_a_streak_of_misses_at_one_host_stops_despite_hits_at_the_other():
+    streak = images.MissStreak(limit=3)
+    for i in range(2):
+        streak.record("bandai", f"b{i}", True)
+        streak.record("tcgplayer", f"t{i}", False)
+    streak.record("bandai", "b2", True)
+    with pytest.raises(SystemExit, match="3 misses in a row at tcgplayer/t2"):
+        streak.record("tcgplayer", "t2", False)
+
+
+def test_a_hit_resets_the_streak_of_its_own_host():
+    streak = images.MissStreak(limit=2)
+    streak.record("tcgplayer", "t0", False)
+    streak.record("tcgplayer", "t1", True)
+    streak.record("tcgplayer", "t2", False)  # one in a row again: no stop

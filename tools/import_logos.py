@@ -96,6 +96,12 @@ def crawl(refresh: bool, fetch=bandai.fetch) -> list[str]:
     return urls
 
 
+def product_page(url: str, refresh: bool = False) -> str:
+    """One product page, from CACHE when present. A fetched page without bandai.PRODUCT_MARKER_EN raises
+    bandai.UnexpectedPage and leaves the cached copy as it was."""
+    return bandai.fetch(url, CACHE, refresh, expect=bandai.PRODUCT_MARKER_EN)
+
+
 def apply(sets: list[dict], logos: list[tuple[str, str, list[str]]]) -> tuple[int, list[dict]]:
     """Write each unambiguous logo onto its set's English release. (sets given a logo, logos left for review)."""
     by_id = {s["id"]: s for s in sets}
@@ -132,7 +138,7 @@ def main() -> None:
     urls = crawl(args.refresh)
     logos = []
     for url in urls:
-        logos += [(url, logo, codes) for logo, codes in find_logos(bandai.fetch(url, CACHE, args.refresh), url)]
+        logos += [(url, logo, codes) for logo, codes in find_logos(product_page(url, args.refresh), url)]
     sets = opjson.load_sets()
     applied, review = apply(sets, logos)
     opjson.SETS.write_text(json.dumps(sets, indent=2, ensure_ascii=False) + "\n", encoding="utf-8")

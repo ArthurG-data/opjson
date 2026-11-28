@@ -178,6 +178,11 @@ def parse_release_date(page: str) -> str | None:
 
 # Every card list page holds the series selector, which a maintenance or error page served with a 200 does not.
 CARDLIST_MARKER = 'id="series"'
+# Every English product page lists what the product holds, under a Contents heading or in a block of class
+# prodStatusContents, depending on its template. The products index, the card list and an error page do not.
+PRODUCT_MARKER_EN = "Contents"
+# Every Japanese product page states its 発売日 (release date), which the card list and an error page do not.
+PRODUCT_MARKER_JA = "発売日"
 
 
 class UnexpectedPage(ValueError):

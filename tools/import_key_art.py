@@ -20,7 +20,6 @@ import json
 from pathlib import Path
 from urllib.parse import urljoin
 
-import bandai
 import images
 import import_logos
 import opjson
@@ -104,7 +103,7 @@ def main() -> None:
     found: dict[str, tuple[str, str]] = {}
     review = []
     for page_url in import_logos.crawl(args.refresh):
-        page = bandai.fetch(page_url, import_logos.CACHE, args.refresh)
+        page = import_logos.product_page(page_url, args.refresh)
         url = find_key_art(page, page_url)
         if url is None:
             continue

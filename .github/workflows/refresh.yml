@@ -34,8 +34,10 @@ concurrency:
 jobs:
   refresh:
     runs-on: ubuntu-latest
-    # Enough for a run that downloads every image again, which takes about two hours.
-    timeout-minutes: 240
+    # GitHub stops a job after six hours. A first run with an empty cache downloads about 13,600 images, which takes
+    # longer than that. The rebuild step therefore stops at 290 minutes and leaves the cache saves about an hour, and
+    # the next run picks up where it stopped.
+    timeout-minutes: 350
     env:
       BRANCH: data/refresh
     steps:
@@ -47,6 +49,8 @@ jobs:
           fetch-depth: 0
           persist-credentials: false
       - uses: astral-sh/setup-uv@1db35dd8eee11c5894872e0b383ae6c406cf738d # v10.4.0
+        with:
+          enable-cache: false  # see the note in ci.yml
       - run: uv sync --locked --group dev
 
       # A host that refuses the runner looks like a run of missing scans. One file known to exist on each host tells
@@ -76,10 +80,13 @@ jobs:
       - run: mkdir -p .cache/images && touch "$RUNNER_TEMP/stamp"
 
       # Fails when a tool stops on something only a person can settle: a UUID conflict, a page a fetcher refused to
-      # cache, a run of misses at an image host. The failed run is the notice.
+      # cache, a run of misses at an image host. The failed run is the notice. A first run that runs out of time
+      # fails too, and the next one carries on.
       - name: Rebuild the data from every source
+        timeout-minutes: 290
         env:
           WEEKLY: ${{ inputs.weekly }}
+          PYTHONUNBUFFERED: "1"  # each tool's output reaches the log as it runs, not when it exits
         run: |
           set -o pipefail  # without it, tee's success would hide a failed refresh
           # A scheduled run has no inputs, so Monday's run goes by the date.
@@ -141,7 +148,7 @@ jobs:
           if [ "$open" != 0 ]; then
             git fetch origin "$BRANCH"
             if git log --format='%ae%n%ce' origin/main..FETCH_HEAD | grep -qvxF "$bot"; then
-              echo "data/refresh holds a commit by hand: left as it is"
+              echo "::warning::data/refresh holds a commit made by hand, so this run left the branch and its pull request as they are"
               exit 0
             fi
           fi

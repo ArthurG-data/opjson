@@ -26,6 +26,10 @@ jobs:
         with:
           fetch-depth: 2
       - uses: astral-sh/setup-uv@1db35dd8eee11c5894872e0b383ae6c406cf738d # v10.4.0
+        with:
+          # No job here or in refresh.yml keeps a uv cache. The refresh job runs on main, and the release and
+          # publish jobs, which hold contents: write, would restore a cache it saved.
+          enable-cache: false
       - run: uv sync --group dev
       - run: uv run pytest -q
       # A UUID, once given, never changes: compare data/uuids.json with the branch a PR targets, or with where the
@@ -67,6 +71,8 @@ jobs:
         with:
           fetch-depth: 0
       - uses: astral-sh/setup-uv@1db35dd8eee11c5894872e0b383ae6c406cf738d # v10.4.0
+        with:
+          enable-cache: false
       - run: uv sync --group dev
       - run: tools/release.sh "$GITHUB_REF_NAME"
         env:
@@ -106,6 +112,8 @@ jobs:
           BEFORE: ${{ github.event.before }}
       - if: steps.version.outputs.tag
         uses: astral-sh/setup-uv@1db35dd8eee11c5894872e0b383ae6c406cf738d # v10.4.0
+        with:
+          enable-cache: false
       - if: steps.version.outputs.tag
         run: uv sync --locked --group dev
       - if: steps.version.outputs.tag

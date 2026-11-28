@@ -427,6 +427,7 @@ uv run --group dev python tools/import_key_art.py    # set key art (after import
 uv run python tools/import_limitless.py              # illustrators, and a check of the TCGplayer ids
 uv run python tools/crawl_bandai.py --language ja    # cache the Japanese card list (one page every 2 s)
 uv run python tools/import_bandai_ja.py              # Japanese releases, names and printings (after every English tool)
+uv run python tools/import_sealed_ja.py              # Japanese packs and decks (after import_bandai_ja)
 uv run --group dev python tools/images.py fetch      # again, for the Japanese printings with no twin yet
 uv run --group dev python tools/link_twins.py        # each Japanese printing's English twin, by image (twinOf)
 uv run python tools/uuids.py [--allow-loss]          # every UUID, last: after the whole chain (see UUIDs)
@@ -479,8 +480,8 @@ passes `--weekly`, and a run started by hand can ask for it. When anything chang
 `mappings/` or this README, the job opens a pull request from the branch `data/refresh`, or updates the one already
 open, and starts CI on it. The job never merges. A person reads the `review/` diffs and merges it. If someone has
 committed to `data/refresh` by hand, the job leaves the branch and its pull request as they are. The images and the
-Bandai and Limitless pages are kept in the Actions cache between runs. The first run downloads every image, which
-takes about two hours.
+Bandai and Limitless pages are kept in the Actions cache between runs. With an empty cache, downloading every image
+can take more than one run. Each run keeps what it downloaded, and the next one picks up where it stopped.
 
 A refresh run that fails is the notice that something needs a person: a host that refuses the runner, a UUID
 conflict, a loss, or a page a fetcher refused to cache. The run's log says which.

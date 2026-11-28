@@ -7,6 +7,7 @@ import pytest
 
 import bandai
 import crawl_bandai
+import import_bandai_ja
 import import_logos
 import limitless
 import opjson
@@ -58,6 +59,32 @@ def test_a_bandai_page_without_its_marker_is_not_cached(tmp_path, serve):
     serve(f'<select {bandai.CARDLIST_MARKER}></select>')
     bandai.fetch("https://example.com/cardlist/?series=1", tmp_path, expect=bandai.CARDLIST_MARKER)
     assert len(list(tmp_path.iterdir())) == 1
+
+
+def test_a_product_page_fetched_again_without_its_marker_keeps_the_cached_one(tmp_path, serve, monkeypatch):
+    """The weekly run fetches every English product page again. An error page served with a 200 must not replace
+    the copy import_logos and import_key_art read."""
+    monkeypatch.setattr(import_logos, "CACHE", tmp_path)
+    url = "https://en.onepiece-cardgame.com/products/boosters/op01.php"
+    good = f'<h4 class="prodStatusTit">{bandai.PRODUCT_MARKER_EN}</h4>'
+    serve(good)
+    assert import_logos.product_page(url) == good
+    serve("<html>Under maintenance</html>")
+    with pytest.raises(bandai.UnexpectedPage):
+        import_logos.product_page(url, refresh=True)
+    assert import_logos.product_page(url) == good
+
+
+def test_a_japanese_product_page_without_its_marker_is_not_cached(tmp_path, serve, monkeypatch):
+    monkeypatch.setattr(crawl_bandai, "CACHE", tmp_path)
+    url = "https://www.onepiece-cardgame.com/products/boosters/op01.php"
+    monkeypatch.setattr(import_bandai_ja, "product_pages", lambda series, printings: {"550101": url})
+    serve("<html>メンテナンス中</html>")
+    with pytest.raises(bandai.UnexpectedPage):
+        import_bandai_ja.release_dates([], [], refresh=True)
+    assert list((tmp_path / "ja").iterdir()) == []
+    serve(f"<dt>{bandai.PRODUCT_MARKER_JA}</dt><dd>2022年7月22日</dd>")
+    assert import_bandai_ja.release_dates([], [], refresh=True) == {"550101": "2022-07-22"}
 
 
 def test_a_series_page_with_no_printing_stops_the_crawl():

@@ -182,18 +182,25 @@ def _fetch_all() -> None:
             if p.get("source") == "bandai" and (p.get("language", "en") == "en" or "twinOf" not in p)]
     # A Japanese printing without a twin is fetched for link_twins.py, which matches it to its twin by image.
     tcg_cache = ROOT / ".cache" / "tcgcsv"
+    unscanned = set()
     for g in tcgcsv.groups(tcg_cache):
         for p in tcgcsv.products(g["groupId"], tcg_cache):
             if p.is_single:
                 jobs.append(("tcgplayer", str(p.product_id), TCGPLAYER_IMAGE.format(product_id=p.product_id)))
+                if p.image_count == 0:
+                    unscanned.add(("tcgplayer", str(p.product_id)))
     # Interleave the two sources so neither host sees a long burst.
     bandai = [j for j in jobs if j[0] == "bandai"]
     tcg = [j for j in jobs if j[0] == "tcgplayer"]
     order = [j for pair in zip(bandai, tcg) for j in pair] + bandai[len(tcg):] + tcg[len(bandai):]
-    # A run of misses at one host means it is refusing us, not that the images are missing.
+    # A run of misses at one host means it is refusing us, not that the images are missing. A miss on a product that
+    # TCGCSV lists with no image does not count. A new set has dozens of those in a row, and the CDN answers 403 for
+    # each until TCGplayer scans it.
     streak = MissStreak()
     for i, (source, key, url) in enumerate(order, 1):
-        streak.record(source, key, fetch(source, key, url) is not None)
+        hit = fetch(source, key, url) is not None
+        if hit or (source, key) not in unscanned:
+            streak.record(source, key, hit)
         if i % 250 == 0:
             print(f"{i}/{len(order)}", flush=True)
     print("done", len(order))
